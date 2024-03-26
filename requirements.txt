@@ -2,3 +2,6 @@ numpy
 pandas
 transformers
 scikit-learn
+seaborn
+matplotlib
+nltk

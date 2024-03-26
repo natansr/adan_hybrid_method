@@ -67,3 +67,35 @@ csv_file = os.path.join(csv_dir, "data.csv")
 df.to_csv(csv_file, index=False, sep=';')
 
 print(f"Dados salvos em '{csv_file}'")
+
+
+
+####Gerando dados CSV tb
+
+
+import csv
+import json
+
+# Definir o caminho do arquivo CSV de entrada e o caminho do arquivo JSON de saída
+json_file = "json/dataset_cuda.json"
+
+# Lista para armazenar os dados convertidos para JSON
+cuda_data = []
+
+# Ler o arquivo CSV e converter para JSON
+with open(csv_file, "r") as file:
+    csv_reader = csv.reader(file, delimiter=";")
+    next(csv_reader)  # Pular o cabeçalho se houver
+    for row in csv_reader:
+        text, label = row
+        cuda_instance = {
+            "text": text,
+            "label": label
+        }
+        cuda_data.append(cuda_instance)
+
+# Salvar os dados JSON em um arquivo
+with open(json_file, "w") as file:
+    json.dump(cuda_data, file, indent=4)
+
+print("Dados convertidos para JSON e salvos com sucesso em", json_file)
