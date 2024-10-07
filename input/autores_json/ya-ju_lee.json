@@ -1,0 +1,1116 @@
+[
+    {
+        "id": 2839,
+        "label": 62,
+        "author": "ya-ju lee",
+        "title": "Manipulation of polarization effect to engineer III-nitride HEMTs for normally-off operation",
+        "organization": "Professor of Institute of Electro-Optical Science and Technology  National Taiwan Normal",
+        "abstract": "We propose a novel, normally-off AlGaN/GaN high-electron-mobility transistor (HEMT) governed by polarization engineering. The fundamental concept is to grade the Al composition of the barrier layer from GaN to AlxGa1−xN, thereby alleviating the impact of piezoelectric polarization on the two-dimensional electron gas (2-DEG) and establishing a conduction-band profile well above the Fermi energy. These effects lead to a positive shift in the threshold voltage of the device and benefit the normally-off operation. It is observed that the device’s DC transfer characteristics can be further modulated simply by adjusting the Al composition of the AlyGa1−yN cap layer and the p-type doping concentration at the top of the GaN buffer layer. These findings, based on a physical simulation of the proposed device, provide a guideline for the implementation of highly efficient, normally-off AlGaN/GaN HEMTs.",
+        "email": "yajulee@ntnu.edu.tw",
+        "conf": "Microelectronic Engineering",
+        "coauthors": [
+            "Yung Chi Yao, Chun Ying Huang, Tai Yuan Lin, Li Lien Cheng, Ching Yun Liu, Mei Tan Wang, Jung Min Hwang, Ya Ju Lee"
+        ],
+        "keywords": "AlGaN/GaN HEMT,Polarization,2-DEG,Normally-off operation,DC transfer characteristics"
+    },
+    {
+        "id": 2872,
+        "label": 62,
+        "author": "ya-ju lee",
+        "title": "Making a Direct Electrical Contact to InGaN/GaN Nanorod LEDs: High Output Power Density",
+        "organization": "Professor of Institute of Electro-Optical Science and Technology  National Taiwan Normal",
+        "abstract": "We realize a new scheme for making a direct contact to a two-dimensional (2D) nanorod LED array using the oblique-angle deposition. More importantly, we demonstrate highly efficient carrier injection into the nanorods",
+        "email": "",
+        "conf": "Quantum electronics and Laser Science Conference. IEEE",
+        "coauthors": [
+            "Ya-Ju Lee",
+            "S. H. Lin",
+            "Ching-Hua Chiu",
+            "S. Kong Wang"
+        ],
+        "keywords": "Gallium nitride,Light emitting diodes,Power generation,Indium tin oxide,LED lamps,Quantum well devices,Space technology"
+    },
+    {
+        "id": 2847,
+        "label": 62,
+        "author": "ya-ju lee",
+        "title": "Direct formation of InN-codoped p-ZnO/n-GaN heterojunction diode by solgel spin-coating scheme",
+        "organization": "Professor of Institute of Electro-Optical Science and Technology  National Taiwan Normal",
+        "abstract": "In this work 𝑝-ZnO/𝑛-GaNp-ZnO/n-GaN heterojunction diodes were directly formed on the Si substrate by a combination of cost-effective solgel spin-coating and thermal annealing treatment. Spin-coated 𝑛n-ZnO films on InN/GaN/Si wafers were converted to 𝑝p-type polarity after thermal treatment of proper annealing durations. X-ray diffraction (XRD) analysis reveals that InN-codoped ZnO films have grown as the standard hexagonal wurtzite structure with a preferential orientation in the (002) direction. The intensity of the (002) peak decreases for a further extended annealing duration, indicating the greater incorporation of dopants, also confirmed by x-ray photoelectron spectroscopy and low-temperature photoluminescence. Hall and resistivity measurements validate that our 𝑝p-type ZnO film has a high carrier concentration of 3.73×1017  cm−33.73×1017  cm−3, a high mobility of 210  cm2/Vs210  cm2/Vs, and a low resistivity of 0.079 Ωcm. As a result, the proposed 𝑝-ZnO/𝑛-GaNp-ZnO/n-GaN heterojunction diode displays a well-behaving current rectification of a typical 𝑝-𝑛p-n junction, and the measured current versus voltage (I–V) characteristic is hence well described by the modified Shockley equation. The research on the fabrication of 𝑝-ZnO/𝑛-GaNp-ZnO/n-GaN heterojunctions shown here generates useful advances in the production of cost-effective ZnO-based optoelectronic devices.",
+        "email": "yajulee@ntnu.edu.tw",
+        "conf": "Optics Letters",
+        "coauthors": [
+            "Chun-Ying Huang",
+            "Ya-Ju Lee",
+            "Tai-Yuan Lin",
+            "Shao-Lun Chang",
+            "Jan-Tian Lian",
+            "Hsiu-Mei Lin",
+            "Nie-Chuan Chen",
+            "Ying-Jay Yang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2852,
+        "label": 62,
+        "author": "ya-ju lee",
+        "title": "Effect of nanostructured architecture on the enhanced optical absorption in silicon thin-film solar cells",
+        "organization": "Professor of Institute of Electro-Optical Science and Technology  National Taiwan Normal",
+        "abstract": "We apply the finite-difference time-domain method to numerically calculate the enhanced optical absorption of three nanostructures (i.e. nanorod, nanocone, and nanolens arrays) that were decorated on the surface of 2 μm thick crystal silicon (Si) thin-films. Compared with the nanorod and nanocone arrays, the nanolens array exhibits the highest power conversion efficiency. This result is mainly attributed to the natural capability of the nanolens array to optically couple incident light into in-plane guided modes, which increases the optical path of the incident photons in the long-wavelength regime. The power conversion efficiencies of the optimized nanorod, nanocone, and nanolens arrays are η = 17.4, 18.8, and 22.0%, respectively. These efficiencies correspond to enhancements of 26.1, 36.2, and 59.4% for the nanorod, nanocone, and nanolens arrays, respectively, compared with a planar Si thin-film with a standard quarter-wavelength antireflection layer. These findings show promises for the nanostructured design of Si thin-film solar cells that exhibit enhanced optical absorption.",
+        "email": "yajulee@ntnu.edu.tw",
+        "conf": "Journal of Electromagnetic Waves and Applications",
+        "coauthors": [
+            "Yung-Chi Yao",
+            "Meng-Tsan Tsai",
+            "P.-W. Lu",
+            "C. J. Wu",
+            "Ya-Ju Lee"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2828,
+        "label": 62,
+        "author": "ya-ju lee",
+        "title": "Monolithic integration of GaN-based light-emitting diodes and metal-oxide-semiconductor field-effect transistors: Reply",
+        "organization": "Professor of Institute of Electro-Optical Science and Technology  National Taiwan Normal",
+        "abstract": "We present some comments to the paper “Monolithic integration of GaN-based light-emitting diodes and metal-oxide-semiconductor field-effect transistors: comment” [Opt. Express 22, A1589 (2014)].",
+        "email": "yajulee@ntnu.edu.tw",
+        "conf": "Optics Express",
+        "coauthors": [
+            "Ya Ju Lee, Zu Po Yang, Pin Guang Chen, Yung An Hsieh, Yung Chi Yao, Ming Han Liao, Min Hung Lee, Mei Tan Wang, Jung Min Hwang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2854,
+        "label": 62,
+        "author": "ya-ju lee",
+        "title": "Quantitative Phase Imaging With Swept-Source Optical Coherence Tomography for Optical Measurement of Nanostructures",
+        "organization": "Professor of Institute of Electro-Optical Science and Technology  National Taiwan Normal",
+        "abstract": "In this letter, a phase-sensitive, swept-source optical coherence tomography (SS-OCT) system is implemented for the optical measurement of nanostructures. A new approach is proposed to reduce the phase errors, resulting from trigger jitter of the swept source and the asynchronization between the A-scan trigger and OCT signal at the data acquisition end, with a narrowband fiber Bragg grating to generate the accurate A-scan trigger. Furthermore, combining the common-path configuration with the proposed approach, the displacement sensitivity can be calculated to be 80 pm when the swept source is operated at 30 kHz. Finally, the conducting glass was scanned with the proposed approach to quantitatively measure the thickness of conducting layer. The results show that the proposed SS-OCT approach can make be a potentially useful tool for noninvasive, real-time inspection of nanostructures",
+        "email": "",
+        "conf": "IEEE Photonics Technology Letters",
+        "coauthors": [
+            "Meng-Tsan Tsai",
+            "Ya-Ju Lee",
+            "Yung-Chi Yao",
+            "Che-Yen Kung",
+            "Feng-Yu Chang",
+            "Jiann-Der Lee"
+        ],
+        "keywords": "Conducting glass,optical coherence tomography,optical imaging,phase imaging"
+    },
+    {
+        "id": 2837,
+        "label": 62,
+        "author": "ya-ju lee",
+        "title": "Optical inspection of solar cells using phase-sensitive optical coherence tomography",
+        "organization": "Professor of Institute of Electro-Optical Science and Technology  National Taiwan Normal",
+        "abstract": "The inspection and measurement of solar cells has become an important technique in evaluating the efficiency and quality of solar cell devices. Currently, surface defect detection of solar cells can be achieved by several approaches such as machine vision, photoluminescence, and electroluminescence imaging techniques. Nevertheless, it is still difficult to inspect the inner structures of solar cells. In response to this need, scanning electron microscopy (SEM) and transmission electron microscopy (TEM) have become common techniques for investigating the nanostructures of solar cells. However, both carry the disadvantages of destructive imaging, high cost, and a small inspection area. Moreover, it is difficult to simultaneously estimate multiple optical properties with the aforementioned techniques. In this study, we propose the use of phase-sensitive optical coherence tomography (PS-OCT) for the inspection of solar cells. We develop a two-reference-arm configuration to reduce the phase noise that intrinsically accompanies the OCT system. Based on the proposed approach to extract the amplitude and phase terms from OCT interference signals, the 3D microstructure of solar cells can be obtained while simultaneously probing the nanostructures on arbitrary planes of the solar cell. The OCT microstructural results show that the structures of different layers can be nondestructively visualized and quantitatively evaluated. From the phase signal, the inverted pyramid structure, which is commonly used for the reduction of interface reflection, can be visualized. Moreover, based on the two-reference-arm configuration, the optical reflection coefficient (ORC) can be estimated in order to evaluate the interface reflection from the surface of solar cell. Results show that PS-OCT can be a valuable tool for providing nondestructive inspection of the micro/nanostructures of solar cells.",
+        "email": "yajulee@ntnu.edu.tw",
+        "conf": "Solar Energy Materials and Solar Cells",
+        "coauthors": [
+            "Meng-Tsan Tsai",
+            "Feng-Yu Chang",
+            "Yung-Chi Yao",
+            "Jie Mei",
+            "Ya-Ju Lee"
+        ],
+        "keywords": "Optical inspection,Optical coherence tomography,Solar cellReflection"
+    },
+    {
+        "id": 2871,
+        "label": 62,
+        "author": "ya-ju lee",
+        "title": "Large enhancement of light-extraction efficiency from optically pumped nanorod light-emitting diodes",
+        "organization": "Professor of Institute of Electro-Optical Science and Technology  National Taiwan Normal",
+        "abstract": "We report a threefold enhancement of light-emission intensity at 𝜆=460 nmλ=460 nm and a 16-fold extraction-efficiency enhancement measured from a 2D array of nanorod LEDs. The nano-LEDs are randomly arranged and have a typical rod diameter of 100–250 nm100–250 nm. From a combination of photoluminescence, reflectance, and excitation power-dependence measurements, we show that the enhanced emission is due mainly to modification of the extraction efficiency, and not to that of the internal efficiency. Furthermore, we show that the extraction enhancement originates from the randomness of the 2D array that scatters light efficiently into the air and the smallness of the nanorods that eliminates the guiding modes that trap light.",
+        "email": "",
+        "conf": "Optics Letters",
+        "coauthors": [
+            "Kuo mei-ling",
+            "Ya-Ju Lee",
+            "Thomas C. Shen",
+            "Shawn-Yu Lin"
+        ],
+        "keywords": "Light emitting diode, Nanostructure, Optoelectronics, Optical pumping"
+    },
+    {
+        "id": 2853,
+        "label": 62,
+        "author": "ya-ju lee",
+        "title": "Effect of Geometrical Profile of Nanostructured Arrays on the Enhanced Optical Absorption of Silicon Thin-film Solar Cells",
+        "organization": "Professor of Institute of Electro-Optical Science and Technology  National Taiwan Normal",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Yung-Chi Yao",
+            "P. W. Lu",
+            "C J Wu",
+            "Ya-Ju Lee"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2865,
+        "label": 62,
+        "author": "ya-ju lee",
+        "title": "Enhancing the conversion efficiency of red emission by spin-coating CdSe quantum dots on the green nanorod light-emitting diode",
+        "organization": "Professor of Institute of Electro-Optical Science and Technology  National Taiwan Normal",
+        "abstract": "A hybrid structure of CdSe quantum dots (QDs) (λ = 640nm) spin-coated on the indium gallium nitride (InGaN) nanorod light-emitting diode (LED, λ = 525nm) is successfully fabricated. Experimental results indicate that the randomness and the minuteness of nanorods scatter the upcoming green light into the surrounding CdSe QDs efficiently, subsequently alleviating the likelihood of the emitted photons of red emission being recaptured by the CdSe QDs (self-absorption effect), and that increases the coupling probability of emission lights and the overall conversion efficiency. Moreover, the revealed structure with high color stability provides an alternative solution for general lighting applications of next generation.",
+        "email": "",
+        "conf": "Optics Express",
+        "coauthors": [
+            "Ya-Ju Lee",
+            "Chia-Jung Lee",
+            "Chun-Mao Cheng"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2868,
+        "label": 62,
+        "author": "ya-ju lee",
+        "title": "Stable Temperature Characteristics and Suppression of Efficiency Droop in InGaN Green Light-Emitting Diodes Using Pre-TMIn Flow Treatment",
+        "organization": "Professor of Institute of Electro-Optical Science and Technology  National Taiwan Normal",
+        "abstract": "We present experimental results on the improved performance and high stable temperature characteristics of the InGaN green light-emitting diode (LED) with pre-trimethlyindium (pre-TMIn) flow treatment. By using pre-TMIn flow treatment, a relatively large radiative coefficient ( B = 3.34×10 -11 cm 3 ·s -1 ) corresponding to a 9.2% enhancement in the internal quantum efficiency, as well as a significant reduction of leakage paths for injected carriers, was obtained. Most important, the pre-TMIn flow treatment evidently reduces the dependence of the external quantum efficiency on temperature and efficiency droop of green LEDs. The improvement is thought to be attributable to the preferential formation of In-rich dots upon pre-TMIn flow treatment, which effectively suppresses the trapping of excitons by threading dislocations and the overflowing of injected carriers outside the active regions at elevated temperatures",
+        "email": "",
+        "conf": "IEEE Photonics Technology Letters",
+        "coauthors": [
+            "Ya-Ju Lee",
+            "Yi-Ching Chen",
+            "Chia-Jung Lee",
+            "Chun-Mao Cheng",
+            "Shih-Wei Chen",
+            "Tien-chang Lu"
+        ],
+        "keywords": "Efficiency-droop,light-emitting diode"
+    },
+    {
+        "id": 2881,
+        "label": 62,
+        "author": "ya-ju lee",
+        "title": "Fabricating GaN-based LEDs with V-shape sapphire facet mirror by double transferred scheme",
+        "organization": "Professor of Institute of Electro-Optical Science and Technology  National Taiwan Normal",
+        "abstract": "GaN-based LEDs with V-shape sapphire facet reflectors were fabricated using a double transferred scheme. It is demonstrated the {1-102} R-plane V-shape facet reflector with high slope of 57o has the superior efficiency for light extraction",
+        "email": "yajulee@ntnu.edu.tw",
+        "conf": "Lasers and Electro-Optics. Optical Society of America",
+        "coauthors": [
+            "Ya-Ju Lee",
+            "Tien-chang Lu",
+            "Hao-Chung Kuo",
+            "S. C. Wang",
+            "J. M. Hwang",
+            "T. C. Hsu",
+            "M. H. Hsieh",
+            "M. J. Jou"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2877,
+        "label": 62,
+        "author": "ya-ju lee",
+        "title": "Dichromatic InGaN-based white light emitting diodes by using laser lift-off and wafer-bonding schemes",
+        "organization": "Professor of Institute of Electro-Optical Science and Technology  National Taiwan Normal",
+        "abstract": "An InGaN-based dual-wavelength blue/green (470nm∕550nm)(470nm∕550nm) light emitting diode (LED) with three terminal operations has been designed and fabricated by using sapphire laser lift-off and wafer-bonding schemes. The device is equivalent to a parallel connection of blue and green LEDs; thus the effective electrical resistance of the device could be reduced. The luminous efficiency is 40lm∕W40lm∕W at 20mA20mA, accompanied by a broad electroluminescence emission with a combination of blue and green colors. This monolithically integrated dichromatic lighting structure has great potential in the application of the solid-state lighting.",
+        "email": "yajulee@ntnu.edu.tw",
+        "conf": "Applied Physics Letters",
+        "coauthors": [
+            "Ya-Ju Lee",
+            "P. C. Lin",
+            "Tien-chang Lu",
+            "H. C. Kuo",
+            "Sun-Chong Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2869,
+        "label": 62,
+        "author": "ya-ju lee",
+        "title": "Freestanding high quality GaN substrate by associated GaN nanorods self-separated hydride vapor-phase epitaxy",
+        "organization": "Professor of Institute of Electro-Optical Science and Technology  National Taiwan Normal",
+        "abstract": "This work proposes a method for fabricating 2 in. freestanding GaN substrates of high crystallographic quality and low residual strain. Arrays of GaN nanorods with sidewalls coated with silicon dioxide (SiO2)(SiO2) were randomly arranged on the sapphire substrate as a growth template for subsequent hydride vapor-phase epitaxy (HVPE). The passivation of the sidewalls coated with SiO2SiO2 prevents the coalescence of GaN grains in spaces between the rods, causing them to grow preferentially on the top of individual rods. The proposed method significantly improves GaN crystal quality and results in self-separation from the underlying host sapphire substrate due to the relaxation of thermal strains in the HVPE cooling-down process.",
+        "email": "yajulee@ntnu.edu.tw",
+        "conf": "Applied Physics Letters",
+        "coauthors": [
+            "C. L. Chao",
+            "Chin-Hsin Chiu",
+            "Ya-Ju Lee",
+            "Shun-Jen Cheng"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2841,
+        "label": 62,
+        "author": "ya-ju lee",
+        "title": "Giant enhancement of inverted polymer solar cells efficiency by manipulating dual interlayers with integrated approaches",
+        "organization": "Professor of Institute of Electro-Optical Science and Technology  National Taiwan Normal",
+        "abstract": "Interlayer properties play an important role in governing the charge collection efficiency of polymer solar cells. We report a giant enhancement of light harvesting based on the integration of different concepts to manipulate the cathode and anode interlayers in an inverted ITO/ZnO-nanorod/poly(3-hexythiophene):(6,6)-phenyl C61 butyric acid methyl ester (P3HT:PCBM)/poly(3,4-ethylenedioxythiophene):poly(styrene sulfonate) (PEDOT:PSS)/Ag cell structure. A layer of conjugated small molecules is self-assembled on the front cathode interlayer while gold nanoparticles are doped into the rear anode interlayer. The former one carries the characteristic of surface passivation and the latter one has the unique property of localized surface plasmon effect. Quite interestingly, both approaches can effectively enhance the exciton dissociation rate and extend the carrier lifetime. Through the integrated approaches in a single cell, by taking the advantage of each individual contribution and the coupling effect between them, the efficiency can be further boosted from 2.02% to 4.36%, which sets the record for the inverted polymer solar cell using ZnO-nanorod as electron transporting layer and P3HT:PCBM as photoactive layer so far.",
+        "email": "",
+        "conf": "RSC Advances",
+        "coauthors": [
+            "Hsing-Hua Hsieh",
+            "Yun-Ming Sung",
+            "Fang-Chi Hsu",
+            "Kuo-Jui Hsiao",
+            "Ya-Ju Lee",
+            "Yang-Fang Chen"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2855,
+        "label": 62,
+        "author": "ya-ju lee",
+        "title": "Use of two-dimensional nanorod arrays with slanted ITO film to enhance optical absorption for photovoltaic applications",
+        "organization": "Professor of Institute of Electro-Optical Science and Technology  National Taiwan Normal",
+        "abstract": "Two-dimensional (2D) Si-nanorod arrays offer a promising architecture that has been widely recognized as attractive devices for photovoltaic applications. To further reduce the Fresnel reflection that occurs at the interface between the air and the 2D Si-nanorod array because of the large difference in their effective refractive indices, we propose and adopt a slanted ITO film as an intermediate layer by using oblique-angle sputtering deposition. The nearly continuous surface of the slanted ITO film is lossless and has high electrical conductivity; therefore, it could serve as an electrode layer for solar cells. As a result, the combination of the above-mentioned nanostructures exhibits high optical absorption over a broad range of wavelengths and incident angles, along with a calculated short-circuit current density of JSC = 32.81 mA/cm2 and a power generation efficiency of η = 22.70%, which corresponds to an improvement of approximately 42% over that of its bare single-crystalline Si counterpart.",
+        "email": "yajulee@ntnu.edu.tw",
+        "conf": "Optics Express",
+        "coauthors": [
+            "Yung-Chi Yao, Meng-Tsan Tsai, Hsu-Cheng Hsu, Li-Wei She, Chun-Mao Cheng, Yi-Ching Chen, Chien-Jang Wu, Ya-Ju Lee"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2873,
+        "label": 62,
+        "author": "ya-ju lee",
+        "title": "Study of GaN-Based Light-Emitting Diodes Grown on Chemical Wet-Etching-Patterned Sapphire Substrate With V-Shaped Pits Roughening Surfaces",
+        "organization": "Professor of Institute of Electro-Optical Science and Technology  National Taiwan Normal",
+        "abstract": "We investigate the mechanism responding for performance enhancement of gallium nitride (GaN)-based light-emitting diode (LED) grown on chemical wet-etching-patterned sapphire substrate (CWE-PSS) with V-Shaped pit features on the top surface. According to temperature-dependent photoluminescence (PL) measurement and the measured external quantum efficiency, the structure can simultaneously enhance both internal quantum efficiency and light extraction efficiency. Comparing to devices grown on planar sapphire substrate, the threading dislocation defects of LED grown on CWE-PSS are reduced from 1.28×109/cm2×109/cm2 to 3.62×108/cm2×108/cm2, leading to a 12.5% enhancement in internal quantum efficiency. In terms of the theoretical computing of radiation patterns, the V-Shaped pits roughening surface can be thought of as a strong diffuser with paraboloidal autocorrelation function, increasing the escape probability of trapped photons and achieving a 20% enhancement in light extraction efficiency. Moreover, according to the measurement of optical diffraction power, CWE-PSS demonstrated superior guided light extraction efficiency than that of planar sapphire substrate, thus an extra 7.8% enhancement in light extraction efficiency was obtained. Therefore, comparing to the conventional LED, an overall 45% enhancement in integrated output power was achieved.",
+        "email": "",
+        "conf": "Journal of Lightwave Technology",
+        "coauthors": [
+            "Ya-Ju Lee, Hao-Chung Kuo, Tien-Chang Lu, Shing-Chung Wang, Kar Wai Ng, Kei May Lau, Zu-Po Yang, Allan Shih-Ping Chang, Shawn-Yu Lin"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2833,
+        "label": 62,
+        "author": "ya-ju lee",
+        "title": "Characteristics of low-resistivity aluminum-doped zinc oxide films deposited at room temperature by off-axis radio-frequency sputtering on flexible plastic substrates",
+        "organization": "Professor of Institute of Electro-Optical Science and Technology  National Taiwan Normal",
+        "abstract": "The crystalline structure, morphology, composition, electrical transport, and optical properties of aluminum-doped zinc oxide (AZO) films are studied for applications in transparent electronics and optoelectronic devices. AZO thin films of c-axis-oriented growth and with different thickness were deposited on PET flexible plastic substrates at room temperature by rf magnetron sputtering. A larger grain size with a decreased strain ε value is observed in a thicker film, while changes in composition for films with different thicknesses are insignificant. Moreover, the resistivity of film decreases with increasing thickness, and the low-temperature electrical transport properties can be described by the scenario of quantum corrections to conductivity. With the room-temperature growth conditions, the resistivity of 4.5 × 10−4 Ω cm, carrier concentration of 6.4 × 1020 cm−3, and transmittance of 80 % for the 1100-nm-thick film are obtained. In addition, the optical bandgap energy decreases with increasing film thickness, which can be attributed to the bandgap renormalization and crystallite size effects.",
+        "email": "",
+        "conf": "Applied Physics A",
+        "coauthors": [
+            "Li-Min Wang, Chih-Yi Wang, Ciao-Ren Jheng, Syu-Jhan Wu, Chen-Kai Sai, Ya-Ju Lee, Ching-Yu Chiang, Bor-Yuan Shew"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2843,
+        "label": 62,
+        "author": "ya-ju lee",
+        "title": "Light-emitting device having a patterned substrate and the method thereof",
+        "organization": "Professor of Institute of Electro-Optical Science and Technology  National Taiwan Normal",
+        "abstract": "This disclosure provides a light-emitting device including a patterned substrate and the manufacturing method thereof. The patterned substrate has a plurality of depressions and/or extrusions for scattering light emitted from a light-emitting layer. Each of the plurality of depressions and/or extrusions comprises a top portion, a bottom portion, and a sidewall portion enclosing the top portion and the bottom portion, and at least part of the sidewall portion comprises a curve. In a preferred embodiment, the light-emitting device further comprises a rough surface formed on at least one of the top portion, the bottom portion, and the sidewall portion.",
+        "email": "",
+        "conf": "U.S. Patent",
+        "coauthors": [
+            "Ta-Cheng Hsu,Ya-Lan Yang,Ying-Yong Su,Ching-Shian Yeh,Chao-Shun Huang,Ya-Ju Lee"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2861,
+        "label": 62,
+        "author": "ya-ju lee",
+        "title": "Effect of Surface Texture and Backside Patterned Reflector on the AlGaInP Light-Emitting Diode: High Extraction of Waveguided Light",
+        "organization": "Professor of Institute of Electro-Optical Science and Technology  National Taiwan Normal",
+        "abstract": "This paper describes a novel structure of an AlGaInP light-emitting diode (LED) to extract the waveguided light for high-brightness applications. Four devices are considered and compared. They are AlGaInP-sapphire LEDs with: 1) a planar Ag reflector (LED-A); 2) a patterned Ag reflector (LED-B); 3) a planar Ag reflector and surface-roughened features (LED-C); and 4) a patterned Ag reflector and surface-roughened features (LED-D). The patterned Ag reflector can be used to direct some of the waveguided light that bounces within the AlGaInP LED and sapphire substrate to the top escape cone of the LED surface. Additionally, the roughened features, which are randomly distributed on the LED surface, enable the waveguided light that is trapped inside the LED chip to be coupled efficiently into the air. As a result, the external quantum efficiencies of LED-A, LED-B, LED-C, and LED-D measured at I = 350 mA are η = 9.20%, 10.46%, 15.22%, and 16.75%, respectively.",
+        "email": "",
+        "conf": "IEEE Journal of Quantum Electronics",
+        "coauthors": [
+            "Ya-Ju Lee",
+            "Chia-Jung Lee",
+            "Chih-Hao Chen"
+        ],
+        "keywords": "AlGaInP,light emitting diode,waveguided light"
+    },
+    {
+        "id": 2845,
+        "label": 62,
+        "author": "ya-ju lee",
+        "title": "Light emitting device",
+        "organization": "Professor of Institute of Electro-Optical Science and Technology  National Taiwan Normal",
+        "abstract": "An object of the present invention is to provide a new light-emitting device with the use of an amorphous oxide. The light-emitting device has a light-emitting layer existing between first and second electrodes and a field effect transistor, of which the active layer is an amorphous.",
+        "email": "",
+        "conf": "Us Patent",
+        "coauthors": [
+            "Min-Hsun Hsieh",
+            "Ta-Cheng Hsu",
+            "ML Tsai",
+            "Ya-Ju Lee"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2858,
+        "label": 62,
+        "author": "ya-ju lee",
+        "title": "Elucidating the Physical Property of the InGaN Nanorod Light-Emitting Diode: Large Tunneling Effect",
+        "organization": "Professor of Institute of Electro-Optical Science and Technology  National Taiwan Normal",
+        "abstract": "The current-voltage ( I - V ) characteristics of the InGaN nanorod light-emitting diode (LED) are evaluated using nanoprobes installed on a field-emission scanning electron microscope. The saturated current of the InGaN nanorod LED ( IO = 2 × 10 -9 A) is found to be orders of magnitude higher than those obtained by downscaling a conventional InGaN LED to a chip size of 300 × 300 μm 2 ( IO 1 = 1 × 10 -25 A; IO 2 = 1 × 10 -14 A). This observation is explained by the fact that the nanorod LED is associated with enhanced tunneling of injected carriers and, therefore, reduction of the defect-assisted leakage current and the diffusion-recombination process that normally occurs in InGaN LEDs.",
+        "email": "",
+        "conf": "IEEE Journal of Selected Topics in Quantum Electronics",
+        "coauthors": [
+            "Ya-Ju Lee",
+            "Chia-Jung Lee",
+            "Chih-Hao Chen",
+            "Tien-Chang Lu",
+            "Hao-Chung Kuo"
+        ],
+        "keywords": "Light-emitting diode (LED),nanorod,tunneling effect"
+    },
+    {
+        "id": 2842,
+        "label": 62,
+        "author": "ya-ju lee",
+        "title": "High breakdown voltage in AlGaN:GaN HEMTs using AlGaN:GaN:AlGaN quantum-well electron- blocking layers",
+        "organization": "Professor of Institute of Electro-Optical Science and Technology  National Taiwan Normal",
+        "abstract": "In this paper, we numerically study an enhancement of breakdown voltage in AlGaN/GaN high-electron-mobility transistors (HEMTs) by using the AlGaN/GaN/AlGaN quantum-well (QW) electron-blocking layer (EBL) structure. This concept is based on the superior confinement of two-dimensional electron gases (2-DEGs) provided by the QW EBL, resulting in a significant improvement of breakdown voltage and a remarkable suppression of spilling electrons. The electron mobility of 2-DEG is hence enhanced as well. The dependence of thickness and composition of QW EBL on the device breakdown is also evaluated and discussed.",
+        "email": "",
+        "conf": "Nanoscale research letters",
+        "coauthors": [
+            "Ya-Ju Lee, Yung-Chi Yao, Chun-Ying Huang, Tai-Yuan Lin, Li-Lien Cheng, Ching-Yun Liu, Mei-Tan Wang, Jung-Min Hwang"
+        ],
+        "keywords": "AlGaN/GaN HEMT; 2-DEG; Breakdown voltage"
+    },
+    {
+        "id": 2835,
+        "label": 62,
+        "author": "ya-ju lee",
+        "title": "Enhancing UV-emissions through optical and electronic dual-function tuning of Ag nanoparticles hybridized with n-ZnO nanorods:p-GaN heterojunction light-emitting diodes",
+        "organization": "Professor of Institute of Electro-Optical Science and Technology  National Taiwan Normal",
+        "abstract": "ZnO nanorods (NRs) and Ag nanoparticles (NPs) are known to enhance the luminescence of light-emitting diodes (LEDs) through the high directionality of waveguide mode transmission and efficient energy transfer of localized surface plasmon (LSP) resonances, respectively. In this work, we have demonstrated Ag NP-incorporated n-ZnO NRs/p-GaN heterojunctions by facilely hydrothermally growing ZnO NRs on Ag NP-covered GaN, in which the Ag NPs were introduced and randomly distributed on the p-GaN surface to excite the LSP resonances. Compared with the reference LED, the light-output power of the near-band-edge (NBE) emission (ZnO, λ = 380 nm) of our hybridized structure is increased almost 1.5–2 times and can be further modified in a controlled manner by varying the surface morphology of the surrounding medium of the Ag NPs. The improved light-output power is mainly attributed to the LSP resonance between the NBE emission of ZnO NRs and LSPs in Ag NPs. We also observed different behaviors in the electroluminescence (EL) spectra as the injection current increases for the treatment and reference LEDs. This observation might be attributed to the modification of the energy band diagram for introducing Ag NPs at the interface between n-ZnO NRs and p-GaN. Our results pave the way for developing advanced nanostructured LED devices with high luminescence efficiency in the UV emission regime.",
+        "email": "",
+        "conf": "Nanoscale",
+        "coauthors": [
+            "Yung Chi Yao, Zu Po Yang, Jung Min Hwang, Yi Lun Chuang, Chia Ching Lin, Jing Yu Haung, Chun Yang Chou, Jinn Kong Sheu, Meng Tsan Tsai, Ya Ju Lee"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2859,
+        "label": 62,
+        "author": "ya-ju lee",
+        "title": "Enhanced conversion efficiency of InGaN multiple quantum well solar cells grown on a patterned sapphire substrate",
+        "organization": "Professor of Institute of Electro-Optical Science and Technology  National Taiwan Normal",
+        "abstract": "This study demonstrated the enhanced conversion efficiency of an indium gallium nitride (InGaN) multiple quantum well (MQW) solar cell fabricated on a patterned sapphire substrate (PSS). Compared to conventional solar cells grown on a planar sapphire substrate, threading dislocation defects were found to be reduced from 1.28 × 109 to 3.62 × 108 cm−2, leading to an increase in short-circuit current density (JSC = 1.09 mA·cm−2) of approximately 60%. In addition, the open-circuit voltage and fill factor (VOC = 2.05 V; FF = 51%) of the solar cells grown on PSS were nearly identical to those of conventional devices. The enhanced performance is primarily due to improvements in the crystalline quality of the epitaxial layers, reducing the trapping of photogenerated electrons and holes by nonradiative recombination centers in MQW, with a corresponding increase in the transport efficiency of the carriers outside the device.",
+        "email": "yajulee@ntnu.edu.tw",
+        "conf": "Applied Physics Letters",
+        "coauthors": [
+            "Ya-Ju Lee",
+            "Min-Hung Lee",
+            "Chun-Mao Cheng",
+            "Chia-Hao Yang"
+        ],
+        "keywords": "gallium compounds; III-V semiconductors; indium compounds; semiconductor epitaxial layers; semiconductor quantum wells; short-circuit currents; solar cells; Quantum well devices; Quantum wells"
+    },
+    {
+        "id": 2880,
+        "label": 62,
+        "author": "ya-ju lee",
+        "title": "Enhancing the output power of GaN-based LEDs grown on wet-etched patterned sapphire substrates",
+        "organization": "Professor of Institute of Electro-Optical Science and Technology  National Taiwan Normal",
+        "abstract": "GaN-based light-emitting diodes (LEDs) with emitting wavelength of 450 nm were grown on patterned sapphire substrates (PSSs) fabricated by chemical wet etching. The crystallography-etched facet was {1-102} R-plane with a 57deg against {0001} C-axis and had superior capability for enhancing light extraction efficiency. The light output power of the PSS LED was 1.15 times higher than that of the conventional LED at an injection current of 20 mA. The output power and external quantum efficiency were estimated to be 9 mW and 16.4%, respectively. The improvement was attributed not only to geometrical shapes of {1-102} crystallography-etched facets that efficiently scatter the guided light to find escape cones, but also to dislocation density reduction by adopting the PSS growth scheme",
+        "email": "yajulee@ntnu.edu.tw",
+        "conf": "IEEE Photonics Technology Letters",
+        "coauthors": [
+            "Ya-Ju Lee",
+            "Hwang jung min",
+            "Tc Hsu",
+            "M. H. Hsieh",
+            "M. J. Hou",
+            "B. J. Lee",
+            "T. C. Lu",
+            "H. C. Kuo",
+            "Sun-Chong Wang"
+        ],
+        "keywords": "GaN,light-emitting diode (LED),sapphire chemical wet etching"
+    },
+    {
+        "id": 2867,
+        "label": 62,
+        "author": "ya-ju lee",
+        "title": "Determination of Junction Temperature in InGaN and AlGaInP Light-Emitting Diodes",
+        "organization": "Professor of Institute of Electro-Optical Science and Technology  National Taiwan Normal",
+        "abstract": "The junction temperature of a light-emitting diode (LED) directly and greatly affects its performances. Therefore, the reliable measurement and accurate estimation of the junction temperature of an LED is extremely important. This paper proposes an approach for directly determining the dependence of junction temperature on injected currents in InGaN and AlGaInP LEDs. Various important physical parameters that affect the junction temperature of an LED are also considered",
+        "email": "",
+        "conf": "IEEE Journal of Quantum Electronics",
+        "coauthors": [
+            "Ya-Ju Lee",
+            "Chia-Jung Lee",
+            "Chih-Hao Chen"
+        ],
+        "keywords": "Junction temperature,light-emitting diode (LED),thermal resistance"
+    },
+    {
+        "id": 2851,
+        "label": 62,
+        "author": "ya-ju lee",
+        "title": "Method of seperating two material systems",
+        "organization": "Professor of Institute of Electro-Optical Science and Technology  National Taiwan Normal",
+        "abstract": "An embodiment of this invention discloses a method of separating two material systems, which comprises steps of providing a bulk sapphire; forming a nitride system on the bulk sapphire; forming at least two channels between the bulk sapphire and the nitride system; etching at least one inner surface of the channel; and separating the bulk sapphire and the nitride system.",
+        "email": "",
+        "conf": "U.S. Patent",
+        "coauthors": [
+            "Ya-Ju Lee",
+            "Ta-Cheng Hsu",
+            "Min-Hsun Hsieh"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2850,
+        "label": 62,
+        "author": "ya-ju lee",
+        "title": "Differentiation of oral precancerous stages with optical coherence tomography based on the evaluation of optical scattering properties of oral mucosae",
+        "organization": "Professor of Institute of Electro-Optical Science and Technology  National Taiwan Normal",
+        "abstract": "Optical coherence tomography (OCT) has been demonstrated to be a powerful tool for noninvasive, real-time oral cancer diagnosis. However, in previous reports, OCT has still been found to be difficult to use in the diagnosis of oral precancerous stages, including mild dysplasia and moderate dysplasia. In clinical applications, early diagnosis and treatment of oral cancer can greatly improve the survival rate. Therefore, in this study, we propose a new approach to differentiate the oral precancerous stages based on the evaluation of the optical scattering properties of the epithelial layer, which is where the dysplastic cells start to develop in the precancerous stages. Instead of using exponential decay fitting to evaluate the scattering properties of mucosal tissues based on the Beer–Lambert law, linear fitting of the OCT depth intensity is used to evaluate the scattering properties of normal and dysplastic cells. From the statistical results of the linear fitting, the slope, a, can be an effective indicator to discriminate healthy mucosa and moderate dysplasia when an a value equal to zero is the threshold value, and the intercept, b, can be used to differentiate healthy and dysplastic mucosae, as well as mild and moderate dysplasia, when b values of 0.15 and 0.18 are used as the threshold values, respectively. Furthermore, this approach is also applied to the determination of the safe margin between normal and abnormal mucosae, making it possible to provide real-time, in vivo inspection during oral maxillofacial surgery.",
+        "email": "yajulee@ntnu.edu.tw",
+        "conf": "Laser Physics",
+        "coauthors": [
+            "Meng-Tsan Tsai",
+            "Jiann-Der Lee",
+            "Ya-Ju Lee",
+            "C. K. Lee",
+            "H. L. Jin",
+            "F. Y. Chang",
+            "K. Y. Hu",
+            "C. P. Wu",
+            "C. P. Wu",
+            "C. P. Chiang",
+            "Congcong Yang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2884,
+        "label": 62,
+        "author": "ya-ju lee",
+        "title": "High brightness AlGaInP-based LEDs with the stripe patterned omni-directional reflector",
+        "organization": "Professor of Institute of Electro-Optical Science and Technology  National Taiwan Normal",
+        "abstract": "An n-side-up AlGaInP-based LED with a stripe-patterned omni-directional reflector (ODR) was fabricated by adopting the adhesive-layer bonding scheme. The mechanism of the enhancement of light extraction is discussed in this report.",
+        "email": "",
+        "conf": "Lasers and Electro-Optics",
+        "coauthors": [
+            "Ya-Ju Lee",
+            "Tien-chang Lu",
+            "Hao-Chung Kuo",
+            "S. C. Wang",
+            "T. C. Hsu",
+            "M. H. Hsieh",
+            "M. J. Jou",
+            "B.J. Lee"
+        ],
+        "keywords": "Light emitting diodes,Power generation,Substrates,Optical reflection"
+    },
+    {
+        "id": 2825,
+        "label": 62,
+        "author": "ya-ju lee",
+        "title": "Determination of Coefficient of Thermal Expansion in High Power GaN-Based Light-Emitting Diodes via Optical Coherent Tomography",
+        "organization": "Professor of Institute of Electro-Optical Science and Technology  National Taiwan Normal",
+        "abstract": "One of the most challenging issues when operating a high-power light-emitting diode (LED) is to conduct appropriate packaging materials for the reliable thermal management of the entire device. Generally, the considerable amount of heat produced around the junction area of the LED would transfers to the entire device, and causes thermal expansion in the packaging material. It induces strain inevitably, and hinders the output performances and possible applications of high-power LEDs. The coefficient of thermal expansion (CTE) is a physical quantity that indicates the expansion to which value a material will be upon heating. Therefore, as far as an advancement of thermal management is concerned, the quantitative and real-time determination of CTE of packaging materials becomes more important than ever since the demanding of high-power LEDs is increased in recent years. In this study, we measure the CTE of GaN-based (λ = 450 nm) high-power LED encapsulated with polystyrene resin by using optical coherent tomography (OCT). The displacement change between individual junctions of OCT image is directly observed and recorded to derive the CTE values of composed components of the LED device. The obtained instant CTE of polystyrene resin is estimated to be around 10 × 10−5/°C, which is a spatial average value over the OCT scanning area of 10 μm × 10 μm. The OCT provides an alternative way to determine a real-time, non-destructive, and spatially resolved CTE values of the LED device, and that shows essential advantage over the typical CTE measurement techniques.",
+        "email": "",
+        "conf": "Smart Innovation",
+        "coauthors": [
+            "Ya-Ju Lee",
+            "Yung-Chi Yao",
+            "Yi-Kai Haung",
+            "Meng-Tsan Tsai"
+        ],
+        "keywords": "Light-emitting diodes, Optical coherence tomography, Packaging materials "
+    },
+    {
+        "id": 2887,
+        "label": 62,
+        "author": "ya-ju lee",
+        "title": "Increasing the extraction efficiency of AlGaInP LEDs via n-side surface roughening",
+        "organization": "Professor of Institute of Electro-Optical Science and Technology  National Taiwan Normal",
+        "abstract": "An n-side-up AlGaInP-based light-emitting diode (LED) with a triangle-like surface morphology was fabricated using the adhesive layer bonding technique, followed by wet etching to roughen the surface. The light output power of the roughened-surface LED was 1.6 times higher than that of a flat-surface LED at an injection current of 20 mA, i.e., a significant improvement attributed to the ability of the roughened surface to not only reduce the internal reflection between the rear mirror system and the semiconductor-air interface, but also to effectively scatter the light outside the LED device",
+        "email": "",
+        "conf": "IEEE Photonics Technology Letters",
+        "coauthors": [
+            "Ya-Ju Lee",
+            "Hao-Chung Kuo",
+            "Sun-Chong Wang",
+            "T. C. Hsu",
+            "M. H. Hsieh",
+            "M. J. Jou",
+            "B.J. Lee"
+        ],
+        "keywords": "AlGaInP,light-emitting diode (LED),surface roughening"
+    },
+    {
+        "id": 2824,
+        "label": 62,
+        "author": "ya-ju lee",
+        "title": "A curvature-tunable random laser",
+        "organization": "Professor of Institute of Electro-Optical Science and Technology  National Taiwan Normal",
+        "abstract": "The application of random lasers has been restricted due to the absence of a well-defined resonant cavity, as the lasing action mainly depends on multiple light scattering induced by intrinsic disorders of the laser medium to establish the required optical feedback that hence increases the difficulty in efficiently tuning and modulating random lasing emissions. This study investigated whether the transport mean free path of emitted photons within disordered scatterers composed of ZnO nanowires is tunable by a curvature bending applied to the flexible polyethylene terephthalate (PET) substrate underneath, thereby creating a unique light source that can be operated above and below the lasing threshold for desirable spectral emissions. For the first time, the developed curvature-tunable random laser is implemented for in vivo biological imaging with much lower speckle noise compared to the non-lasing situation through simple mechanical bending, which is of great potential for studying the fast-moving physiological phenomenon such as blood flow patterns in mouse ear skin. It is expected that the experimental demonstration of the curvature-tunable random laser can provide a new route to develop disorder-based optoelectronic devices.",
+        "email": "yajulee@ntnu.edu.tw",
+        "conf": "Nanoscale",
+        "coauthors": [
+            "Ya-Ju Lee",
+            "Ting-Wei Yeh",
+            "Zu-Po Yang",
+            "Yung-Chi Yao",
+            "Chen-Yu Chang",
+            "Meng-Tsan Tsai",
+            "Jinn-Kong Sheu"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2870,
+        "label": 62,
+        "author": "ya-ju lee",
+        "title": "Study of the Excitation Power Dependent Internal Quantum Efficiency in InGaN/GaN LEDs Grown on Patterned Sapphire Substrate",
+        "organization": "Professor of Institute of Electro-Optical Science and Technology  National Taiwan Normal",
+        "abstract": "The mechanisms of the excitation power dependent internal quantum efficiency in InGaN/GaN multiple quantum wells (MQWs) LEDs grown on the planar and the patterned sapphire substrates (PSS) at temperature of 15 and 300 K were investigated. From observation the tendency of emission peak energy and carrier lifetime variation in MQWs with different excitation power for both LED samples, we conclude the internal quantum efficiency would increase as coulomb screening effect dominates at lower carrier injection stage and decrease due to the band-filling effect at higher density stage. At room temperature, the majority of the initial injected carriers would be first consumed by the thermal activated nonradiative centers that hinder the further achievement of high-efficiency LED devices. Experimentally, the internal quantum efficiency of the LED grown on the PSS is ~70% and that of the LED grown on the planar sapphire substrate is ~62%. For the LED grown on the PSS, the observed higher internal quantum efficiency is due to the larger activation energy Therefore, the reduction of dislocation defects and the prevention of injected carriers escaping from extended states would be a promising prospective for InGaN/GaN MQWs LEDs to achieve high internal quantum efficiency. ",
+        "email": "",
+        "conf": "IEEE Journal of Selected Topics in Quantum Electronics",
+        "coauthors": [
+            "Ya-Ju Lee",
+            "Ching-Hua Chiu",
+            "Chih Chun Ke",
+            "Tien-Chang Lu",
+            "Hao-Chung Kuo",
+            "Shing-Chung Wang",
+            "S. Kong Wang"
+        ],
+        "keywords": "LEDs,GaN,Internal quantum efficiency"
+    },
+    {
+        "id": 2849,
+        "label": 62,
+        "author": "ya-ju lee",
+        "title": "Monitoring of wound healing process of human skin after fractional laser treatments with optical coherence tomography",
+        "organization": "Professor of Institute of Electro-Optical Science and Technology  National Taiwan Normal",
+        "abstract": "Fractional photothermolysis induced by non-ablative fractional lasers (NAFLs) or ablative fractional lasers (AFLs) can remodel the skin, regenerate collagen, and remove tumor tissue. However, fractional laser treatments may result in severe side effects, and multiple treatments are required to achieve the expected outcome. Thus, the treatment outcome and downtime after fractional laser treatments are key issues to determine the following treatment strategy. In this study, an optical coherence tomography (OCT) system was implemented for in vivo studies of wound healing after NAFL and AFL treatments. According to the OCT scanning results, the laser-induced photothermolysis including volatilization and coagulation could be morphologically identified. To continue monitoring the wound healing process, the treated regions were scanned with OCT at different time points, and the en-face images at various tissue depths were extracted from three-dimensional OCT images. Furthermore, to quantitatively evaluate the morphological changes at different tissue depths during wound healing, an algorithm was developed to distinguish the backscattering properties of untreated and treated tissues. The results showed that the coagulation damage induced by the NAFLs could be rapidly healed in 6 days. In contrast, the tissue volatilization induced by AFLs required a longer recovery time of 14 days. In conclusion, this study establishes the feasibility of this methodology as a means of clinically monitoring treatment outcomes and wound healing after fractional laser treatments.",
+        "email": "yajulee@ntnu.edu.tw",
+        "conf": "Biomedical Optics Express",
+        "coauthors": [
+            "Meng-Tsan Tsai, Chih-Hsun Yang, Su-Chin Shen, Ya-Ju Lee, Feng-Yu Chang, Cheng-Shin Feng"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2838,
+        "label": 62,
+        "author": "ya-ju lee",
+        "title": "Achieving graded refractive index by use of ZnO nanorods/TiO2 layer to enhance omnidirectional photovoltaic performances of InGaP/GaAs/Ge triple-junction solar cells",
+        "organization": "Professor of Institute of Electro-Optical Science and Technology  National Taiwan Normal",
+        "abstract": "In this study, we theoretically and experimentally demonstrate high performance of antireflection (AR) coating composed of the ZnO nanorods (NRs) and TiO2 layers applied on InGaP/GaAs/Ge triple-junction solar cells. The high performance of this AR coating is due to the realization of a smooth gradient profile of refractive index fabricated by only two physical layers. First, due to the inherent inhomogeneous-nanoporous geometry along the surface normal, the ZnO NRs are reasonable to be considered as discrete multiple optical layers with low scattering loss, leading to the index smoothly increasing from air ambient toward down to the solar cells. Second, to compensate the gap of index between ZnO and solar cells, an additional TiO2 layer with index in between is hence necessary to insert under ZnO NRs, significantly further reducing the Fresnel reflection loss of the entire device. The ZnO NRs/ TiO2 layer shows a low wavelength-averaged (solar spectrum weighted) reflectance of 6.00% (4.78%) over a wide spectral range of λ=380–1800 nm, and exhibits a hydrophobic surface with a water contact angle of 128.2°. At device level, we compared the photovoltaic performance of solar cells with and without AR coating, the short-circuit density (JSC) is enhanced by 31.8% and 23.8% for solar cells integrated with the ZnO NRs/TiO2 layer and conventional SiO2/TiO2 double-layer AR (DLAR) coating, respectively. Under a very large incident angle of solar illumination (θ=80°), the ZnO NRs/TiO2 layer remains static with JSC enhancement of 35.2%, whereas the JSC enhancement of conventional DLAR coating drops down to 9.4%. In addition, the ZnO NRs/TiO2 layer barely affects the open-circuit voltage and fill factor of the solar device. Therefore, the proposed ZnO NRs/TiO2 layer with a smoother graded refractive index change is highly promising for the AR coating applications for the next-generation solar cells.",
+        "email": "yajulee@ntnu.edu.tw",
+        "conf": "Solar Energy Materials and Solar Cells",
+        "coauthors": [
+            "Meng-Tsan Tsai",
+            "Zu-Po Yang",
+            "Ting-Shiuan Jing",
+            "Hsing-Hua Hsieh",
+            "Yung-Chi Yao",
+            "Tai-Yuan Lin",
+            "Yang-Fang Chen",
+            "Ya-Ju Lee"
+        ],
+        "keywords": "Antireflection coating,Zinc oxide (ZnO)Nanorod,Triple-junction solar cell"
+    },
+    {
+        "id": 2844,
+        "label": 62,
+        "author": "ya-ju lee",
+        "title": "Slanted n-ZnO/p-GaN nanorod arrays light-emitting diodes grown by oblique-angle deposition",
+        "organization": "Professor of Institute of Electro-Optical Science and Technology  National Taiwan Normal",
+        "abstract": "High-efficient ZnO-based nanorod array light-emitting diodes (LEDs) were grown by an oblique-angle deposition scheme. Due to the shadowing effect, the inclined ZnO vapor-flow was selectively deposited on the tip surfaces of pre-fabricated p-GaN nanorod arrays, resulting in the formation of nanosized heterojunctions. The LED architecture composed of the slanted n-ZnO film on p-GaN nanorod arrays exhibits a well-behaving current rectification of junction diode with low turn-on voltage of 4.7 V, and stably emits bluish-white luminescence with dominant peak of 390 nm under the operation of forward injection currents. In general, as the device fabrication does not involve passivation of using a polymer or sophisticated material growth techniques, the revealed scheme might be readily applied on other kinds of nanoscale optoelectronic devices.",
+        "email": "",
+        "conf": "APL Materials",
+        "coauthors": [
+            "Ya-Ju Lee",
+            "Zu-Po Yang",
+            "Fang-Yuh Lo",
+            "Jhih-Jhong Siao",
+            "Zhong-Han Xie",
+            "Yi-Lun Chuang",
+            "Tai-Yuan Lin",
+            "Jinn-Kong Sheu"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2831,
+        "label": 62,
+        "author": "ya-ju lee",
+        "title": "Coherent and Polarized Random Laser Emissions from Colloidal CdSe/ZnS Quantum Dots Plasmonically Coupled to Ellipsoidal Ag Nanoparticles",
+        "organization": "Professor of Institute of Electro-Optical Science and Technology  National Taiwan Normal",
+        "abstract": "This study demonstrates the capability of controlling optical anisotropy of lasing emissions by manipulating the coupling strength spatially and spectrally between the oscillated electric field of emitted light and the localized surface plasmon (LSP) resonance for a random lasing medium composed of colloidal CdSe/ZnS quantum dots (QDs) and ellipsoidal silver nanoparticles (Ag NPs). Distinctive from the amplified spontaneous emission generally observed on colloidal CdSe/ZnS QDs, it has been found that lasing emissions of the revealed system exhibit clear interference features (coherent optical feedbacks) with low‐threshold characteristics, mainly attributed to enhanced light scatterings and optical gains arisen in peripheral surfaces of ellipsoidal Ag NPs. Importantly, the relative orientation, between the oscillated electric field of emitted light from colloidal CdSe/ZnS QDs and the ellipse axis of Ag NPs, plays a critical role in selective excitation of LSP resonances leading to laser emissions with preferential optical polarizations. The achievement of spatial and spectral coupling of LSP resonance with colloidal QDs, respectively, by spin coating thin QDs film on Ag NPs and control of the Ag NP geometry makes the present system one of the promising candidates of colloidal QDs‐based random lasers to achieve coherent and polarized lasing emissions.",
+        "email": "yajulee@ntnu.edu.tw",
+        "conf": "Advanced Optical Materials",
+        "coauthors": [
+            "Yung‐Chi Yao,  Zu‐Po Yang,  Jung‐Min Hwang,  Hai‐Ching Su,  Jing‐Yu Haung,  Tzu‐Neng Lin,  Ji‐Lin Shen,  Min‐Hung Lee,  Meng‐Tsan Tsai,  Ya‐Ju Lee"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2860,
+        "label": 62,
+        "author": "ya-ju lee",
+        "title": "Improvement of quantum efficiency in green light-emitting diodes with pre-TMIn flow treatment",
+        "organization": "Professor of Institute of Electro-Optical Science and Technology  National Taiwan Normal",
+        "abstract": "The effects of pre-trimethlyindium (TMIn) flow on the improved electrical characteristics and highly stable temperature properties of InGaN green light-emitting diodes (LEDs) are discussed. For the LED sample with a pre-TMIn flow treatment, the tunnelling of injected carriers associated with threading defects is significantly reduced, which promotes the diffusion–recombination of injected carriers, as well as the overall emission efficiency of the LED. In addition, the pre-TMIn flow treatment evidently reduces the dependence of external quantum efficiency on temperature and efficiency droop of green LEDs. As a result, we conclude that the pre-TMIn flow treatment is a promising scheme for the improvement of output performance of InGaN-based green LEDs.",
+        "email": "yajulee@ntnu.edu.tw",
+        "conf": "Journal of Physics D Applied Physics",
+        "coauthors": [
+            "Ya-Ju Lee",
+            "Yi-Ching Chen",
+            "Tien-chang Lu"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2832,
+        "label": 62,
+        "author": "ya-ju lee",
+        "title": "Laser-Scanned Programmable Color Temperature of Electroluminescence from White Light-Emitting Electrochemical Cells",
+        "organization": "Professor of Institute of Electro-Optical Science and Technology  National Taiwan Normal",
+        "abstract": "Recently, the control of correlated color temperature (CCT) of artificial solid-state white-light sources starts to attract more attention since CTs affect human physiology and health profoundly. In this work, we proposed and demonstrated a method that can widely tune the CCTs of electroluminescence (EL) from white-light-emitting electrochemical cells (LECs) by employing plasmonic filters. These integrated on-chip plasmonic filters are composed of semicontinuous thin Ag film or Ag nanoparticles (NPs) both included in the indium tin oxide anode contact, which have different characteristics of plasmonic resonant absorptions that can tune the EL spectra of white LECs. The CCTs of EL from white LECs integrated with semicontinuous thin Ag film and randomly distributed Ag NPs are 5778 and 2350 K, respectively. A commercially available laser scanning system was used to locally thermal anneal the semicontinuous thin Ag film to form the randomly distributed Ag NPs on the scanned areas. Hence, these two kinds of filters can be integrated on the same chip of white LEC, giving more freedom to control the CCTs of white EL and more potential applications. In addition, the laser scanning system used here is quite often used in display manufactures so that our proposed method can be immediately adopted by the light-emitting diode industry.",
+        "email": "",
+        "conf": "ACS Applied Materials & Interfaces",
+        "coauthors": [
+            "Hsiao-Chin Lee",
+            "Chien-Ming Fan Chiang",
+            "Po-Yi Wu",
+            "Yung-Chi Yao",
+            "Monima Sarma",
+            "Zu-Po Yang",
+            "Hai-Ching Su",
+            "Ya-Ju Lee",
+            "Ken-Tsung Wong"
+        ],
+        "keywords": "light-emitting, electrochemical cells, color temperature, nanoparticles, plasmonic filter, white light"
+    },
+    {
+        "id": 2886,
+        "label": 62,
+        "author": "ya-ju lee",
+        "title": "Improvement in light-output efficiency of AlGaInP LEDs fabricated on stripe patterned epitaxy",
+        "organization": "Professor of Institute of Electro-Optical Science and Technology  National Taiwan Normal",
+        "abstract": "Quaternary AlGaInP light-emitting diodes (LEDs) operating at a wavelength of 630 nm with a stripe-patterned omni-directional reflector (ODR) were fabricated. It is demonstrated that the geometrical shape of stripe-patterned structure improves the light extraction efficiency by increasing the extraction of guided light. The optical and electrical characteristics of stripe-patterned ODR LEDs are presented and compared to typical ODR and distributed Bragg reflector (DBR) LEDs with the same epitaxial structure and emitting wavelength. It is shown that the output power of the stripe-patterned ODR LED exceeds that of the typical ODR and DBR LEDs by a factor of 1.15 and 2 times, respectively, and with an acceptable forward voltage of about 2.2 V",
+        "email": "",
+        "conf": "IEEE Photonics Technology Letters",
+        "coauthors": [
+            "Ya-Ju Lee",
+            "H.C. Tseng",
+            "Hao-Chung Kuo",
+            "S. C. Wang",
+            "C. W. Chang",
+            "T. C. Hsu",
+            "Y. L. Yang",
+            "M. H. Hsieh",
+            "M. J. Jou",
+            "B.J. Lee"
+        ],
+        "keywords": "AlGaInP,light-emitting diode (LED),omni-directional reflector (ODR)"
+    },
+    {
+        "id": 2874,
+        "label": 62,
+        "author": "ya-ju lee",
+        "title": "Semiconductor light-emitting device and fabrication method thereof",
+        "organization": "Professor of Institute of Electro-Optical Science and Technology  National Taiwan Normal",
+        "abstract": "A semiconductor light-emitting device is disclosed. The semiconductor light-emitting device comprises a multilayer epitaxial structure disposed on a semiconductor substrate. The semiconductor substrate has a predetermined lattice direction perpendicular to an upper surface thereof, wherein the predetermined lattice direction is angled toward [0 11] or [01 1] from [100], or toward [011] or [0 11] from [ 100] so that the upper surface of the semiconductor substrate comprises at least two lattice planes with different lattice plane directions. The multilayer epitaxial structure has a roughened upper surface perpendicular to the predetermined lattice direction. The invention also discloses a method for fabricating a semiconductor light-emitting device.",
+        "email": "",
+        "conf": "U.S. Patent Application",
+        "coauthors": [
+            "Ya-Ju Lee,Ta-Cheng Hsu,Ming-Ta Chin,Yen-Wen Chen,Wu-Tsung Lo,Chung-Yuan Li,Min-Hsun Hsieh"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2834,
+        "label": 62,
+        "author": "ya-ju lee",
+        "title": "Enhanced external quantum efficiency in GaN-based vertical- type light-emitting diodes by localized surface plasmons",
+        "organization": "Professor of Institute of Electro-Optical Science and Technology  National Taiwan Normal",
+        "abstract": "Enhancement of the external quantum efficiency of a GaN-based vertical-type light emitting diode (VLED) through the coupling of localized surface plasmon (LSP) resonance with the wave-guided mode light is studied. To achieve this experimentally, Ag nanoparticles (NPs), as the LSP resonant source, are drop-casted on the most top layer of waveguide channel, which is composed of hydrothermally synthesized ZnO nanorods capped on the top of GaN-based VLED. Enhanced light-output power and external quantum efficiency are observed and the amount of enhancement remains steady with the increase of the injected currents. To understand the observations theoretically, the absorption spectra and the electric field distributions of the VLED with and without Ag NPs decorated on ZnO NRs are determined using the finite-difference time-domain (FDTD) method. The results prove that the observation of enhancement of the external quantum efficiency can be attributed to the creation of an extra escape channel for trapped light due to the coupling of the LSP with wave-guided mode light, by which the energy of wave-guided mode light can be transferred to the efficient light scattering center of the LSP.",
+        "email": "",
+        "conf": "Scientific Reports",
+        "coauthors": [
+            "Yung-Chi Yao, Jung-Min Hwang, Zu-Po Yang, Jing-Yu Haung, Chia-Ching Lin, Wei-Chen Shen, Chun-Yang Chou, Mei-Tan Wang, Chun-Ying Huang, Ching-Yu Chen, Meng-Tsan Tsai, Tzu-Neng Lin, Ji-Lin Shen, Ya-Ju Lee"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2829,
+        "label": 62,
+        "author": "ya-ju lee",
+        "title": "Enhanced Performance of GaN-based Ultraviolet Light Emitting Diodes by Photon Recycling Using Graphene Quantum Dots",
+        "organization": "Professor of Institute of Electro-Optical Science and Technology  National Taiwan Normal",
+        "abstract": "Graphene quantum dots (GQDs) with an average diameter of 3.5 nm were prepared via pulsed laser ablation. The synthesized GQDs can improve the optical and electrical properties of InGaN/InAlGaN UV light emitting diodes (LEDs) remarkably. An enhancement of electroluminescence and a decrease of series resistance of LEDs were observed after incorporation of GQDs on the LED surface. As the GQD concentration is increased, the emitted light (series resistance) in the LED increases (decreases) accordingly. The light output power achieved a maximum increase as high as 71% after introducing GQDs with the concentration of 0.9 mg/ml. The improved performance of LEDs after the introduction of GQDs is explained by the photon recycling through the light extraction from the waveguide mode and the carrier transfer from GQDs to the active layer.",
+        "email": "",
+        "conf": "Scientific Reports",
+        "coauthors": [
+            "Tzu-Neng Lin, Svette Reina Merden Santiago, Chi-Tsu Yuan, Kuo-Pin Chiu, Ji-Lin Shen, Ting-Chun Wang, Hao-Chung Kuo, Ching-Hsueh Chiu, Yung-Chi Yao, Ya-Ju Lee"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2866,
+        "label": 62,
+        "author": "ya-ju lee",
+        "title": "Reduction in the Efficiency-Droop Effect of InGaN Green Light-Emitting Diodes Using Gradual Quantum Wells",
+        "organization": "Professor of Institute of Electro-Optical Science and Technology  National Taiwan Normal",
+        "abstract": "The effect of gradual indium gallium nitride (InGaN) quantum wells (QWs) on the suppression of efficiency-droop in green light-emitting diodes (LEDs) is numerically investigated. The presented scheme increases the internal quantum efficiency by 45.5% at I=20 mA and 55.7% at I=100 mA, indicating a considerable reduction of efficiency-droop. This improvement is attributable mainly to the use of the gradual InGaN QW's structure that significantly alleviates band bending in the valence band, improving the transport efficiency of injected holes above that of conventional LEDs. The radiative recombination is thus enhanced as the overlap between electron and hole wave functions is increased. Most importantly, the leakage of injected electrons to p-type region is correspondingly reduced, in turn suppressing the efficiency-droop in the LED",
+        "email": "",
+        "conf": "IEEE Photonics Technology Letters",
+        "coauthors": [
+            "Ya-Ju Lee",
+            "Chih-Hao Chen",
+            "Chia-Jung Lee"
+        ],
+        "keywords": "Efficiency droop,InGaN,light-emitting diode (LED)"
+    },
+    {
+        "id": 2830,
+        "label": 62,
+        "author": "ya-ju lee",
+        "title": "Evaluation of Laser-Assisted Trans-Nail Drug Delivery with Optical Coherence Tomography",
+        "organization": "Professor of Institute of Electro-Optical Science and Technology  National Taiwan Normal",
+        "abstract": "The nail provides a functional protection to the fingertips and surrounding tissue from external injuries. The nail plate consists of three layers including dorsal, intermediate, and ventral layers. The dorsal layer consists of compact, hard keratins, limiting topical drug delivery through the nail. In this study, we investigate the application of fractional CO2 laser that produces arrays of microthermal ablation zones (MAZs) to facilitate drug delivery in the nails. We utilized optical coherence tomography (OCT) for real-time monitoring of the laser–skin tissue interaction, sparing the patient from an invasive surgical sampling procedure. The time-dependent OCT intensity variance was used to observe drug diffusion through an induced MAZ array. Subsequently, nails were treated with cream and liquid topical drugs to investigate the feasibility and diffusion efficacy of laser-assisted drug delivery. Our results show that fractional CO2 laser improves the effectiveness of topical drug delivery in the nail plate and that OCT could potentially be used for in vivo monitoring of the depth of laser penetration as well as real-time observations of drug delivery.",
+        "email": "",
+        "conf": "Sensors",
+        "coauthors": [
+            "Meng-Tsan Tsai",
+            "Ting-Yen Tsai",
+            "Su-Chin Shen",
+            "Chau Yee Ng",
+            "Ya-Ju Lee",
+            "Jiann-Der Lee",
+            "Chih-Hsun Yang"
+        ],
+        "keywords": "drug delivery; nail; optical coherence tomography; fractional laser; laser ablation"
+    },
+    {
+        "id": 2885,
+        "label": 62,
+        "author": "ya-ju lee",
+        "title": "High brightness AlGaInP-based light emitting diodes by adopting the stripe-patterned omni-directional reflector",
+        "organization": "Professor of Institute of Electro-Optical Science and Technology  National Taiwan Normal",
+        "abstract": "An n-side-up AlGaInP-based LED operating at a wavelength of 630 nm with a stripe-patterned omni-directional reflector (ODR) was fabricated by adopting the adhesive-layer bonding scheme. It is demonstrated that the periodic and geometrical shape of the stripe-patterned array improves the light extraction efficiency by increasing the extraction of guided light. Compared to the conventional ODR LED, the stripe-patterned ODR LED significantly enhanced the output power and with only a slightly higher forward voltage. This improvement was analysed by the scanning near-field optical microscope (SNOM) and the optimized dimension of stripe patterns was also calculated on the basis of a Monte Carlo ray tracing simulation. According to the above analysis, the increase of light extraction could not only be attributed to the geometrical shape of the stripe patterns that redirect the trapped light towards the top-escaping cone of the LED surface but also to the repetitive stripe-patterned array of diffracting elements that effectively diffract the guided light outside the LED surface. Moreover, the optimized dimension of the stripe pattern is 3 µm wide, 2 µm deep and spaced 3 µm apart, which coincides with experimental results.",
+        "email": "",
+        "conf": "Semiconductor Science and Technology",
+        "coauthors": [
+            "Ya-Ju Lee",
+            "Tien-chang Lu",
+            "Hao-Chung Kuo",
+            "S. C. Wang",
+            "M. J. Liou",
+            "C. W. Chang",
+            "T. C. Hsu",
+            "M. H. Hsieh",
+            "M. J. Jou",
+            "B. J. Lee"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2864,
+        "label": 62,
+        "author": "ya-ju lee",
+        "title": "Dependence of Efficiency-Droop Effect on the Location of High Indium Layer in Staggered InGaN Quantum Wells",
+        "organization": "Professor of Institute of Electro-Optical Science and Technology  National Taiwan Normal",
+        "abstract": "Staggered quantum wells (QWs) structures are numerically studied to reduce the influence of efficiency-droop effect on the InGaN-based green light-emitting diode (LED). The location of high In-content InGaN layer in staggered QWs considerably affects the distribution of the electrostatic-field of an LED. When the high In-content InGaN layer is suitably located in the staggered QWs, the localized electrostatic-field with high intensity increases the transport efficiency of injected holes across the active region, improving the overall radiative efficiency of the LED. Most importantly, as accumulation of injected holes in the last QW is relieved, the Auger recombination process is quenched, suppressing the efficiency-droop in the LED. Theoretically, the incorporation of the staggered InGaN QWs in the green LED (λ = 530 nm) can ensure an extremely low efficiency droop of 11.3%.",
+        "email": "",
+        "conf": "Journal of Electromagnetic Waves and Applications",
+        "coauthors": [
+            "Yung-Chi Yao",
+            "Meng-Tsan Tsai",
+            "Ya-Ju Lee",
+            "Chien-Jang Wu"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2883,
+        "label": 62,
+        "author": "ya-ju lee",
+        "title": "Fabrication and Characterization of GaN-Based LEDs Grown on Chemical Wet-Etched Patterned Sapphire Substrates",
+        "organization": "Professor of Institute of Electro-Optical Science and Technology  National Taiwan Normal",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of The Electrochemical Society",
+        "coauthors": [
+            "Ya-Ju Lee",
+            "Hao-Chung Kuo",
+            "Tien-chang Lu",
+            "B. J. Su",
+            "Sun-Chong Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2875,
+        "label": 62,
+        "author": "ya-ju lee",
+        "title": "Simultaneously Enhancing Internal and Extraction Efficiencies of GaN-based Light Emitting Diodes Via Chemical-Wet-Etching Patterned-Sapphire-Substrate (CWE-PSS)",
+        "organization": "Professor of Institute of Electro-Optical Science and Technology  National Taiwan Normal",
+        "abstract": "We report a chemical-wet-etching patterned-sapphire-substrate (CWE-PSS) that simultaneously enhances internal quantum efficiency and light extraction efficiency of gallium nitride based light-emitting-diode (LED). According to transmission electron microscopy (TEM) images, the threading dislocations penetrating into active region was dramatically reduced in the CWE-PSS structure compared to the planar sapphire substrate, i.e. enhancement of internal quantum efficiency. And according to the measurement of angular dependent diffraction power, CWE-PSS also serves as a diffraction grating which diffracts guided light into escaping cones, further improving light extraction efficiency of LED device.",
+        "email": "",
+        "conf": "ECS Transactions",
+        "coauthors": [
+            "Ya-Ju Lee",
+            "Chin-Hsin Chiu",
+            "Hao-Chung Kuo",
+            "T. C. Lu",
+            "S. C. Wang",
+            "K. W. Ng",
+            "K. M. Lau",
+            "Z. P. Yang",
+            "S. P. Chang",
+            "S.Y. Lin"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2840,
+        "label": 62,
+        "author": "ya-ju lee",
+        "title": "Slanted n-ZnO nanorod arrays/p-GaN light-emitting diodes with strong ultraviolet emissions",
+        "organization": "Professor of Institute of Electro-Optical Science and Technology  National Taiwan Normal",
+        "abstract": "Both of oblique angle deposition and conventional deposition techniques were used by a RF sputtering system to grow the slanted (β = 32°) and planar (β = 0°) n-ZnO films on p-GaN, respectively. These two kinds of n-ZnO/p-GaN heterojunctions were then fabricated the light-emitting diodes (LEDs). The electrical and optical properties of these two kinds of LEDs were investigated systematically. The results show that the slanted n-ZnO/p-GaN LEDs have a lower turn-on voltage and less leakage current than that of planar n-ZnO/p-GaN LEDs. Moreover, different from the planar n-ZnO/p-GaN LEDs which emitting colors changes with injection current, the slanted n-ZnO/p-GaN LEDs retains UV emissions (385-400 nm) under the entire range of injection currents we applied. The dominant UV luminescence of slanted n-ZnO/p-GaN LEDs is attributed to the ZnO near band edge transitions, indicating the high quality of slanted ZnO films and exhibiting the essential property dedicated to nano-sized heterojunctions. Hence, we have demonstrated that the slanted n-ZnO/p-GaN LEDs fabricated by oblique angle deposition have better performance than the planar n-ZnO/p-GaN LEDs fabricated by convention deposition means.",
+        "email": "yajulee@ntnu.edu.tw",
+        "conf": "Optical Materials Express",
+        "coauthors": [
+            "Zu-Po Yang",
+            "Zhong-Han Xie",
+            "Chia-Ching Lin",
+            "Ya-Ju Lee"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2878,
+        "label": 62,
+        "author": "ya-ju lee",
+        "title": "High Light-Extraction GaN-based Vertical LEDs With Double Diffuse Surfaces",
+        "organization": "Professor of Institute of Electro-Optical Science and Technology  National Taiwan Normal",
+        "abstract": "High light-extraction (external quantum efficiency ~40%) 465-nm GaN-based vertical light-emitting diodes (LEDs) employing double diffuse surfaces were fabricated. This novel LED structure includes one top transmitted diffuse surface and another diffuse omnidirectional reflector (ODR) on the bottom of a LED chip. The diffusive ODR consists of a roughened p-type GaN layer, an indium-tin-oxide (ITO) low refractive index layer, and an Al layer. The surface of the p-type GaN-layer was naturally roughened while decreasing the growth temperature to 800 degC. After flip-bonding onto a Si substrate by AuSn eutectic metal and laser lift-off processes to remove the sapphire substrate, an anisotropic etching by dilute potassium hydroxide (KOH) was employed on the N-face n-GaN layer to obtain transmitted diffuse surfaces with hexagonal-cone morphology. The double diffused surfaces LEDs show an enhancement of 56% and 236% in light output power compared to single side diffused surface and conventional LEDs, respectively. The devices also show a low leakage current in the order of magnitude of 10 -8 A at -5 V and a calculated external quantum efficiency of about 40%. The high scattering efficiency of double diffused surfaces could be responsible for the enhancement in the device light output power",
+        "email": "",
+        "conf": "IEEE journal of quantum electronics",
+        "coauthors": [
+            "Ya-Ju Lee",
+            "Hao-Chung Kuo",
+            "Tien-chang Lu",
+            "Shing-Chung Wang"
+        ],
+        "keywords": "Double diffuse surfaces,GaN,light-emitting diodes (LEDs),light-extraction efficiency"
+    },
+    {
+        "id": 2826,
+        "label": 62,
+        "author": "ya-ju lee",
+        "title": "Flexible random lasers with tunable lasing emissions",
+        "organization": "Professor of Institute of Electro-Optical Science and Technology  National Taiwan Normal",
+        "abstract": "In this study, we experimentally demonstrated a flexible random laser fabricated on a polyethylene terephthalate (PET) substrate with a high degree of tunability in lasing emissions. Random lasing oscillation arises mainly from the resonance coupling between the emitted photons of gain medium (Rhodamine 6G, R6G) and the localized surface plasmon (LSP) of silver nanoprisms (Ag NPRs), which increases the effective cross-section for multiple light scattering, thus stimulating the lasing emissions. More importantly, it was found that the random lasing wavelength is blue-shifted monolithically with the increase in bending strains exerted on the PET substrate, and a maximum shift of ∼15 nm was achieved in the lasing wavelength, when a 50% bending strain was exerted on the PET substrate. Such observation is highly repeatable and reversible, and this validates that we can control the lasing wavelength by simply bending the flexible substrate decorated with the Ag NPRs. The scattering spectrum of the Ag NPRs was obtained using a dark-field microscope to understand the mechanism for the dependence of the wavelength shift on the exerted bending strains. As a result, we believe that the experimental demonstration of tunable lasing emissions based on the revealed structure is expected to open up a new application field of random lasers.",
+        "email": "",
+        "conf": "Nanoscale",
+        "coauthors": [
+            "Ya-Ju Lee, Chun-Yang Chou, Zu-Po Yang,Thi Bich Hanh Nguyen, Yung-Chi Yao, Ting-Wei Yeh, Meng-Tsan Tsai, Hao-Chun Kuoe"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2862,
+        "label": 62,
+        "author": "ya-ju lee",
+        "title": "Estimating the Junction Temperature of InGaN and AlGaInP Light-Emitting Diodes",
+        "organization": "Professor of Institute of Electro-Optical Science and Technology  National Taiwan Normal",
+        "abstract": "The junction temperature of light-emitting diodes (LEDs) directly and significantly affects LEDs performances. Thus, accurate measurement and precise estimation of LEDs junction temperature become extremely important. In this study, we analyze the physical foundation of temperature-dependent electrical characteristics and develop a new scheme to directly express the dependence of junction temperature on injected current for InGaN and AlGaInP LEDs. From a more general viewpoint, our scheme for the estimation of junction temperature is primarily based on the LEDs external properties, and therefore can be applied to other kinds of III–V compound-based semiconductor LEDs.",
+        "email": "",
+        "conf": "Japanese Journal of Applied Physics",
+        "coauthors": [
+            "Ya-Ju Lee",
+            "Chia-Jung Lee",
+            "Chih-Hao Chen"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2882,
+        "label": 62,
+        "author": "ya-ju lee",
+        "title": "GaN-based LEDs with Al-deposited V-shaped sapphire facet mirror",
+        "organization": "Professor of Institute of Electro-Optical Science and Technology  National Taiwan Normal",
+        "abstract": "A GaN-based light-emitting diodes (LEDs) with V-shaped sapphire facet reflector was fabricated using the double transferred scheme and sapphire chemical wet etching. The {1-102} R-plane V-shaped facet reflector with a 57/spl deg/ against {0001} C-axis has the superior capability for enhancing the light extraction efficiency. The light output power of the V-shaped sapphire facet reflector LED was 1.4 times higher than that of a flat reflector LED at an injection current of 20 mA. The significant improvement is attributable to the geometrical shape of sapphire facet reflector that efficiently redirects the guided light inside the chip toward to the top escape-cone of the LED surface.",
+        "email": "",
+        "conf": "IEEE Photonics Technology Letters",
+        "coauthors": [
+            "Ya-Ju Lee",
+            "Jung Min Hwang",
+            "T.C. Hsu",
+            "M. H. Hsieh",
+            "M. J. Jou",
+            "B. J. Lee",
+            "T. C. Lu",
+            "H. C. Kuo",
+            "Sun-Chong Wang"
+        ],
+        "keywords": "GaN,light-emitting diode (LED),sapphire chemical wet etching"
+    },
+    {
+        "id": 2857,
+        "label": 62,
+        "author": "ya-ju lee",
+        "title": "Light-emitting device having wavelength-converting materials therewithin",
+        "organization": "Professor of Institute of Electro-Optical Science and Technology  National Taiwan Normal",
+        "abstract": "A light-emitting device comprising a substrate, a light-emitting stack, and a transparent adhesive layer having wavelength-converting materials embedded therein formed within the light-emitting device is provided.",
+        "email": "yajulee@ntnu.edu.tw",
+        "conf": "U.S. Patent Application",
+        "coauthors": [
+            "Min-Hsun Hsieh,Ta-Cheng Hsu,Ya-Ju Lee,Wei-Chih Peng,Chi-Wei Lu,Ya-Lan Yang,Ying-Yong Su,Meng-Lnn Tsai"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2836,
+        "label": 62,
+        "author": "ya-ju lee",
+        "title": "Optical coherence tomography-guided laser microsurgery for blood coagulation with continuous-wave laser diode",
+        "organization": "Professor of Institute of Electro-Optical Science and Technology  National Taiwan Normal",
+        "abstract": "Blood coagulation is the clotting and subsequent dissolution of the clot following repair to the damaged tissue. However, inducing blood coagulation is difficult for some patients with homeostasis dysfunction or during surgery. In this study, we proposed a method to develop an integrated system that combines optical coherence tomography (OCT) and laser microsurgery for blood coagulation. Also, an algorithm for positioning of the treatment location from OCT images was developed. With OCT scanning, 2D/3D OCT images and angiography of tissue can be obtained simultaneously, enabling to noninvasively reconstruct the morphological and microvascular structures for real-time monitoring of changes in biological tissues during laser microsurgery. Instead of high-cost pulsed lasers, continuous-wave laser diodes (CW-LDs) with the central wavelengths of 450 nm and 532 nm are used for blood coagulation, corresponding to higher absorption coefficients of oxyhemoglobin and deoxyhemoglobin. Experimental results showed that the location of laser exposure can be accurately controlled with the proposed approach of imaging-based feedback positioning. Moreover, blood coagulation can be efficiently induced by CW-LDs and the coagulation process can be monitored in real-time with OCT. This technology enables to potentially provide accurate positioning for laser microsurgery and control the laser exposure to avoid extra damage by real-time OCT imaging.",
+        "email": "",
+        "conf": "Scientific Reports",
+        "coauthors": [
+            "Feng-Yu Chang, Meng-Tsan Tsai, Zu-Yi Wang, Chun-Kai Chi, Cheng-Kuang Lee, Chih-Hsun Yang, Ming-Che Chan, Ya-Ju Lee"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2848,
+        "label": 62,
+        "author": "ya-ju lee",
+        "title": "Current matching using CdSe quantum dots to enhance the power conversion efficiency of InGaP/GaAs/Ge tandem solar cells",
+        "organization": "Professor of Institute of Electro-Optical Science and Technology  National Taiwan Normal",
+        "abstract": "A III-V multi-junction tandem solar cell is the most efficient photovoltaic structure that offers an extremely high power conversion efficiency. Current mismatching between each subcell of the device, however, is a significant challenge that causes the experimental value of the power conversion efficiency to deviate from the theoretical value. In this work, we explore a promising strategy using CdSe quantum dots (QDs) to enhance the photocurrent of the limited subcell to match with those of the other subcells and to enhance the power conversion efficiency of InGaP/GaAs/Ge tandem solar cells. The underlying mechanism of the enhancement can be attributed to the QD’s unique capacity for photon conversion that tailors the incident spectrum of solar light; the enhanced efficiency of the device is therefore strongly dependent on the QD’s dimensions. As a result, by appropriately selecting and spreading 7 mg/mL of CdSe QDs with diameters of 4.2 nm upon the InGaP/GaAs/Ge solar cell, the power conversion efficiency shows an enhancement of 10.39% compared to the cell’s counterpart without integrating CdSe QDs.",
+        "email": "yajulee@ntnu.edu.tw",
+        "conf": "Optics Express",
+        "coauthors": [
+            "Ya-Ju Lee, Yung-Chi Yao, Meng-Tsan Tsai, An-Fan Liu, Min-De Yang, Jiun-Tsuen Lai"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2863,
+        "label": 62,
+        "author": "ya-ju lee",
+        "title": "Defect detection and property evaluation of indium tin oxide conducting glass using optical coherence tomography",
+        "organization": "Professor of Institute of Electro-Optical Science and Technology  National Taiwan Normal",
+        "abstract": "This study demonstrates a new approach for evaluating the properties of indium tin oxide (ITO) conducting glass and identifying defects using optical coherence tomography (OCT). A swept-source OCT system was implemented to scan the ITO conducting glass to enable two-dimensional or three-dimensional imaging. With OCT scanning, the defects can be clearly identified at various depths. Several parameters in addition to morphological information can be estimated simultaneously, including the thickness of the glass substrate, the refractive index, reflection coefficient, and transmission coefficient, all of which can be used to evaluate the quality of ITO conducting glass. This study developed a modified method for evaluating the refractive index of glass substrates without having to perform multiple scans as well as a segmentation algorithm to separate the interfaces. The results show the potential of OCT as an imaging tool for the inspection of defects in ITO conducting glass.",
+        "email": "",
+        "conf": "Optics Express",
+        "coauthors": [
+            "Meng-Tsan Tsai, Feng-Yu Chang, Ya-Ju Lee, Jiann-Der Lee, Hsiang-Chen Wang, Cheng-Kuang Lee"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2846,
+        "label": 62,
+        "author": "ya-ju lee",
+        "title": "Local nanotip arrays sculptured by atomic force microscopy to enhance the light-output efficiency of GaN-based light-emitting diode structures",
+        "organization": "Professor of Institute of Electro-Optical Science and Technology  National Taiwan Normal",
+        "abstract": "In this work, local nanotip arrays on GaN-based light-emitting (LED) structures were fabricated through nano-oxidation using an atomic force microscope (AFM). The photoluminescence (PL) intensity of the InGaN/GaN multiple quantum wells (MQWs) active layer and the light extraction efficiency of the LED structure were enhanced by forming this nanotips structure to serve as a graded-refractive index layer, which is further validated by the finite-difference time-domain analysis. The PL emission peak of the MQWs active layer has a blue-shift phenomenon that is caused by a partial reduction of the strain on the InGaN well. It is expected that our approach opens a promising route for simultaneously enhancing both the internal quantum efficiency and the light extraction efficiency of GaN-based LEDs. The proposed AFM-based method will be of importance for local patterning the light emitting components for optoelectronic applications.",
+        "email": "yajulee@ntnu.edu.tw",
+        "conf": "Nanotechnology",
+        "coauthors": [
+            "Chun-Ying Huang",
+            "Yung-Chi Yao",
+            "Ya-Ju Lee",
+            "Tai-Yuan Lin",
+            "Wen-Jang Kao",
+            "Jih Shang Hwang",
+            "Ying-Jay Yang",
+            "Ji-Lin Shen"
+        ],
+        "keywords": "atomic force microscopy,light extraction efficiency,nanotips"
+    },
+    {
+        "id": 2876,
+        "label": 62,
+        "author": "ya-ju lee",
+        "title": "High Brightness GaN-Based Light-Emitting Diodes",
+        "organization": "Professor of Institute of Electro-Optical Science and Technology  National Taiwan Normal",
+        "abstract": "This paper reviews our recent progress of GaN-based high brightness light-emitting diodes (LEDs). Firstly, by adopting chemical wet etching patterned sapphire substrates in GaN-based LEDs, not only could increase the extraction quantum efficiency, but also improve the internal quantum efficiency. Secondly, we present a high light-extraction 465-nm GaN-based vertical light-emitting diode structure with double diffuse surfaces. The external quantum efficiency was demonstrated to be about 40%. The high performance LED was achieved mainly due to the strong guided-light scattering efficiency while employing double diffuse surfaces.",
+        "email": "",
+        "conf": "Journal of Display Technology",
+        "coauthors": [
+            "Ya-Ju Lee",
+            "Tien-chang Lu",
+            "Hao-Chung Kuo",
+            "Shing-Chung Wang"
+        ],
+        "keywords": "Extraction quantum efficiency, GaN, internal quantum efficiency, light-emitting diodes (LEDs)"
+    },
+    {
+        "id": 2856,
+        "label": 62,
+        "author": "ya-ju lee",
+        "title": "Suppression of efficiency-droop effect of InGaN-based LEDs by using localized high indium quantum wells",
+        "organization": "Professor of Institute of Electro-Optical Science and Technology  National Taiwan Normal",
+        "abstract": "Staggered quantum wells (QWs) structures are numerically studied to reduce the influence of the efficiency-droop effect on the InGaN-based green light-emitting diode (LED). The location of high In-content InGaN layer in staggered QWs considerably affects the distribution of the electrostatic-field of an LED. When the high In-content InGaN layer is suitably located in the staggered QWs, the localized electrostatic-field with high intensity increases the transport efficiency of injected holes across the active region, improving the overall radiative efficiency of the LED. Most importantly, as accumulation of injected holes in the last QW is relieved, the Auger recombination process is quenched, suppressing the efficiency-droop in the LED. Theoretically, the incorporation of the staggered InGaN QWs in the green LED (λ = 530nm) can ensure an extremely low efficiency droop of 11.3%.",
+        "email": "",
+        "conf": "Proceedings of SPIE - The International Society for Optical Engineering",
+        "coauthors": [
+            "Yung-Chi Yao",
+            "Yi-Ching Chen",
+            "Ya-Ju Lee"
+        ],
+        "keywords": "efficiency-droop, light-emitting diode, Shockley-Read-Hall, Auger recombination"
+    },
+    {
+        "id": 2827,
+        "label": 62,
+        "author": "ya-ju lee",
+        "title": "Directly Determining the Coefficient of Thermal Expansion of High-power Light-emitting Diodes by Optical Coherence Tomography",
+        "organization": "Professor of Institute of Electro-Optical Science and Technology  National Taiwan Normal",
+        "abstract": "The coefficient of thermal expansion (CTE) is a physical quantity that indicates the thermal expansion value of a material upon heating. For advanced thermal management, the accurate and immediate determination of the CTE of packaging materials is gaining importance because the demand for high-power lighting-emitting diodes (LEDs) is currently increasing. In this study, we used optical coherence tomography (OCT) to measure the CTE of an InGaN-based (λ = 450 nm) high-power LED encapsulated in polystyrene resin. The distances between individual interfaces of the OCT images were observed and recorded to derive the instantaneous CTE of the packaged LED under different injected currents. The LED junction temperature at different injected currents was established with the forward voltage method. Most importantly, this work validates the hypothesis that OCT can provide an alternative way to directly and nondestructively determine the spatially resolved CTE of the packaged LED device, which offers significant advantages over traditional CTE measurement techniques.",
+        "email": "",
+        "conf": "CLEO: Applications and Technology",
+        "coauthors": [
+            "Ting Wei Yeh, Chun Yang Chou, Chun Ying Huang, Yung Chi Yao, Yi Kai Haung, Meng Tsan Tsai, Ya Ju Lee"
+        ],
+        "keywords": "Light emitting diodes,Resins,Temperature measurement,Thermal expansion,Two dimensional displays,Three-dimensional displays,Junctions"
+    },
+    {
+        "id": 2879,
+        "label": 62,
+        "author": "ya-ju lee",
+        "title": "Nano-roughening n-side surface of AlGaInP-based LEDs for increasing extraction efficiency",
+        "organization": "Professor of Institute of Electro-Optical Science and Technology  National Taiwan Normal",
+        "abstract": "A chemical wet etching technique is presented to form a nano-roughened surface with triangle-like morphology on n-side-up AlGaInP-based LEDs fabricated by adopting adhesive layer bonding scheme. A simple and commonly used H3PO4-based solution was applied for chemical wet etching. The morphology of nano-roughened surfaces is analyzed by the atomic force microscope (AFM) and significantly related to the enhancement factor of the LED output power. The output power shows 80% increase after optimizing the nano-roughened morphology of n-side surface, as compared to the ordinary flat surface LED.",
+        "email": "",
+        "conf": "Materials Science and Engineering B",
+        "coauthors": [
+            "Ya-Ju Lee",
+            "Tien-chang Lu",
+            "Hao-Chung Kuo",
+            "S. C. Wang",
+            "T. C. Hsu",
+            "M. H. Hsieh",
+            "M. J. Jou",
+            "B.J. Lee"
+        ],
+        "keywords": "Chemical wet etching,AlGaInP-based LEDs,Nano-roughening"
+    }
+]

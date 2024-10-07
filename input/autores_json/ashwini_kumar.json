@@ -1,0 +1,371 @@
+[
+    {
+        "id": 1864,
+        "label": 40,
+        "author": "ashwini kumar",
+        "title": "Docking and ADMET prediction of few GSK-3 inhibitors divulges 6-bromoindirubin-3-oxime as a potential inhibitor",
+        "organization": "Department of Biotechnology NIT Raipur",
+        "abstract": "GSK-3 is a member of cellular kinases with diversified functions such as cellular differentiation, metabolic signaling, neuronal functions and apoptosis. It has been validated as an important therapeutic target in Alzheimer’s disease and type 2 diabetes. Few molecules targeting GSK-3 are currently in clinical trials. In this study, we have compared certain docking and computational ADME (Absorption, Distribution, Metabolism, Excretion) parameters of a few GSK-3 targeted ligands (Indirubin, Hymenialdisine, Meridianins, 6-bromoindirubin-3-oxime) against two control molecules (Tideglusib and LY-2090314) to derive and analyze the basic drug-like properties of the test compounds. Docking between the GSK-3 and various ligands was done using AutoDock while ADME parameters were derived from ADMET server PreADMET and admetSAR. Various docked images were retrieved from docking, indicating the docking sites in the target protein. Out of four compounds tested, 6-bromoindirubin-3-oxime (6-BIO) was found as the best docking and ADME parameters, followed by Hymenialdisine (HMD). The LigPlot interaction results show two residues Leu (188) and Thr (138) to be common at the interaction site. The LD50 of 6-BIO is better than one of the control ligands while very similar to the other. Some of the parameters were very similar to the control ligands, thus, making it a suitable candidate among the test ligands. From this in-silico study, we concluded that 6-BIO is a potent drug candidate which could be further tested in vitro and in vivo to establish a drug molecule. Since, 6-BIO is a chemically modified form of the basic molecule Indirubin, we can hypothesize that certain other modified indirubins could be tested as GSK-3 targeted ligands.",
+        "email": "",
+        "conf": "Journal of Molecular Graphics and Modelling",
+        "coauthors": [
+            "Chaluveelaveedu Murlidharan Nisha",
+            "Ashwini Kumar",
+            "Archana Vimal",
+            "Bhukya Mounika Bai",
+            "Dharm Pal",
+            "Awanish Kumar"
+        ],
+        "keywords": "GSK-3; 6-Bromoindirubin-3-oxime; Docking; ADMET; Drug candidate"
+    },
+    {
+        "id": 1867,
+        "label": 41,
+        "author": "ashwini kumar",
+        "title": "On time-domain coexistence of unlicensed and licensed spectrum users",
+        "organization": "Arista Networks Santa Clara California USA",
+        "abstract": "This paper aims to exploit spectrum white spaces in time-domain via the Dynamic Spectrum Access (DSA) technology. DSA relies on opportunistic access of licensed spectrum by unlicensed devices. Any “unlicensed-with-licensed” coexistence must ensure “safe” (i.e., un-interfered) communications for the incumbents, while achieving high spectrum-use efficiency for the secondary users. We propose a novel and comprehensive metric called the Coexistence Goodness Factor (CGF) to accurately model the inherent tradeoff between incumbent safety and unlicensed access efficiency for time-domain DSA-based coexistence. To optimize the coexistence performance, we propose a generic, online, dual-mode DSA coexistence protocol. The unlicensed devices attempt to estimate incumbent behavior patterns, and enter the Aggressive Mode (AM) once such a pattern is found, while they stay in the Safe Mode (SM) otherwise. For low-overhead and reliable estimation of incumbent spectrum-usage patterns, we propose algorithms based on Approximate Entropy (ApEn). Further, we design Spectrum-Conscious WiFi (SpeCWiFi), which provisions the proposed DSA coexistence scheme to the base 802.11 MAC. We conduct an extensive experimental evaluation of SpeCWiFi using a MadWifi-based prototype implementation in conjunction with 802.11 wireless cards. The evaluation shows that SpeCWiFi achieves excellent time-domain DSA coexistence in the presence of different types of licensed spectrum, including fast-varying channels that feature short-duration white spaces",
+        "email": "ashwinik@eecs.umich.edu",
+        "conf": "IEEE International Symposium on Dynamic Spectrum Access Networks",
+        "coauthors": [
+            "Ashwini Kumar",
+            "Kang G. Shin",
+            "Young-June Choi",
+            "Drago tefan Niculescu"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 1853,
+        "label": 40,
+        "author": "ashwini kumar",
+        "title": "LDH and Its Clinical Significance",
+        "organization": "Department of Biotechnology NIT Raipur",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Ashwini Kumar",
+            "Awanish Kumar"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 1868,
+        "label": 41,
+        "author": "ashwini kumar",
+        "title": "DSASync: Managing End-to-End Connections in Dynamic Spectrum Access Wireless LANs",
+        "organization": "Arista Networks Santa Clara California USA",
+        "abstract": "Wireless LANs (WLANs) have been widely deployed as edge access networks that provide the important service of Internet access to wireless devices. Therefore, performance of end-to-end connections to/from such WLANs is of great importance. The advent of Dynamic Spectrum Access (DSA) technology is expected to play a key role in improving wireless communication. With DSA capability, WLANs opportunistically access licensed channels in order to improve spectrum-usage efficiency and provide better network performance. In this paper, we identify the key issues that impact end-to-end connection performance when a DSA-enabled WLAN is integrated with the wired cloud. We propose a new network management framework, called DSASync, to mitigate the identified performance issues. DSASync achieves this objective by managing the connections at the transport layer as a third-party supervisor and targets both TCP streams and UDP flows. DSASync requires no modifications to the network infrastructure or the existing network stack and protocols while ensuring transport protocol (TCP or UDP) semantics to be obeyed. It mainly consists of a combination of buffering and traffic-shaping algorithms to minimize the adverse side-effects of DSA on active connections. DSASync is evaluated using a prototype implementation and deployment in a testbed. The results show significant improvement in end-to-end connection performance, with substantial gains on QoS metrics like goodput, delay, and jitter. Thus, DSASync is a promising step toward applying DSA technology in consumer WLANs",
+        "email": "",
+        "conf": "IEEE/ACM Transactions on Networking",
+        "coauthors": [
+            "Ashwini Kumar",
+            "Kang G. Shin"
+        ],
+        "keywords": "Approximate entropy, cognitive radio (CR), Dynamic Spectrum Access (DSA), TCP, UDP,Wi-Fi"
+    },
+    {
+        "id": 1872,
+        "label": 41,
+        "author": "ashwini kumar",
+        "title": "Managing TCP Connections in Dynamic Spectrum Access Based Wireless LANs",
+        "organization": "Arista Networks Santa Clara California USA",
+        "abstract": "Wireless LANs have been widely deployed as edge access networks in home/office/commercial buildings, providing connection to the Internet. Therefore, performance of end-to-end connections to/from such WLANs is of great importance to network applications and end-users. The advent of Dynamic Spectrum Access (DSA) technology is expected to play a major role in improving wireless communication. With DSA enabled, WLANs opportunistically access licensed channels in order to enhance spectrum-usage efficiency, and provide better network performance. In this paper, we explore issues and solutions in realizing this potential of DSA. We first identify the key issues that impact end-to-end TCP performance when a DSA-enabled WLAN is integrated with the wired cloud. Then, we propose a new network management framework, called DSASync, to eliminate or mitigate the performance issues we identified. DSASync requires no modifications to the fixed wired network or existing network stack, while ensuring traditional TCP semantics to be obeyed. DSASync uses a combination of buffering and traffic-shaping algorithms to minimize the adverse side-effects of DSA on the TCP flows. Finally, we evaluate DSASync through a prototype implementation and deployment in a testbed. The results show significant improvements in TCP performance, e.g., a 74 increase in downlink goodput, making it a promising step forward towards applying DSA technology in consumer WLANs",
+        "email": "",
+        "conf": "IEEE Communications Society Conference on Sensor, Mesh and Ad Hoc Communications and Networks",
+        "coauthors": [
+            "Ashwini Kumar",
+            "Kang G. Shin"
+        ],
+        "keywords": "wireless LAN, transport protocols, traffic-shaping algorithm, TCP connection"
+    },
+    {
+        "id": 1870,
+        "label": 41,
+        "author": "ashwini kumar",
+        "title": "Analysis of QoS Provisioning in Cognitive Radio Networks: A Case Study",
+        "organization": "Arista Networks Santa Clara California USA",
+        "abstract": "Dynamic Spectrum Access (DSA) is a promising solution to the problem of spectrum inefficiency. Based on Cognitive Radio (CR) technology, DSA allows a CR device to opportunistically access unused or less crowded spectrum while ensuring protection for the incumbents. Though DSA shows great potential to enhance network performance, its adverse side-effects on application QoS may limit its usefulness. QoS support in a DSA-based network is not trivial due to the fact that in addition to unfavorable characteristics of the wireless medium, the secondary devices must face additional interference and interruption from incumbents that have to be protected. In this paper, we present a case study of key DSA protocol characteristics necessary for QoS provisioning. Specifically, we consider a personal/portable CR system that supports high quality multimedia (including HDTV) streaming over UHF frequency bands. We model and evaluate the QoS-oriented CR system together with the underlying QoS-Provisioned DSA Protocol (called QPDP) through extensive simulations. The results show the effectiveness of the proposed DSA QoS provisioning approach in sustaining high levels of QoS, e.g., supporting HDTV streaming in TV bands. This outcome is significant as FCC has recently approved UHF bands for unlicensed operations in the USA, and various DSA-based CR systems are being actively designed by the wireless industry. The techniques outlined in this work can be generalized to be applicable to generic DSA design in various spectrum bands.",
+        "email": "",
+        "conf": "Wireless Personal Communications",
+        "coauthors": [
+            "Ashwini Kumar",
+            "Jianfeng Wang",
+            "Kiran Challapali",
+            "Kang G. Shin"
+        ],
+        "keywords": "Cognitive radio, Dynamic spectrum access, QoS provisioning, Spectrum sensing"
+    },
+    {
+        "id": 1861,
+        "label": 40,
+        "author": "ashwini kumar",
+        "title": "Obesity: Single house for many evils",
+        "organization": "Department of Biotechnology NIT Raipur",
+        "abstract": "World Health Organization (WHO) considers obesity as one of the fastest growing metabolic disorders other than diabetes. It is a complex interplay of lifestyle and associated genes. Obesity has been considered as a disease with multiple targets and very often compared in this sense with its sibling disease type 2 diabetes. The disease is pathology of the adipocytes and develops as a result of hypertrophy and hyperplasia of these cells, former being the major concern but its effects could be seen on various organs in the form of cardio-vascular disease, stroke, cancer, diabetes, sexual dysfunction, respiratory problems and many more. An increase in the lipid content of the adipocytes changes the physiology of these cells towards more inflammatory phenotype. The array of molecules or adipokines secreted by these cells varies in concentration and type among healthy and obese subjects. On one hand where adiponectin concentration decreases, the resistin concentration increases resulting in insulin resistance among many other adipokine related effects. Specifically, an obese person develops hyperlipidemia, insulin resistance, vascular blockage, sleep apnoea, cancer etc. This review is an attempt to focus, in detail, about obesity related complications.",
+        "email": "",
+        "conf": "Minerva endocrinologica",
+        "coauthors": [
+            "Ashwini Kumar",
+            "Bibhukalyan P. Nayak",
+            "Awanish Kumar"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 1856,
+        "label": 40,
+        "author": "ashwini kumar",
+        "title": "Targeting oxidative stress through antioxidants in Diabetes mellitus",
+        "organization": "Department of Biotechnology NIT Raipur",
+        "abstract": "The myriad of complications associated with diabetes is closely linked with the generation of reactive species or free radicals leading to oxidative and nitrosative stress. Increased oxidative stress is an important cause and result of diabetes and it is thought to underlie the cellular changes that lead to diabetic complications. The whole cause and effect form a vicious circle, underlying many layers of potential therapeutics in its research. In this regards, this review outlines the briefs about the correlation of type 2 diabetes and oxidative (or nitrosative) stress and also compiles the potentiality of various antioxidants that are being or can be used for alleviating the oxidative stress. Since the complications are like a knit matrix of numerous deteriorating mechanisms, a single antioxidant therapeutic approach cannot be an answer. Therefore, it is important to develop new fixed-dose combinations of effective antioxidants that target key reactive oxygen (or nitrogen)-producing sources, mimic endogenous antioxidants and scavenge the reactive species generated balancing the pro and antioxidant cycle. This review focuses on the preclinical and clinical trial data with therapeutic antioxidants in type 2 diabetes along with a brief focus on success and failures of antioxidant-based therapy.",
+        "email": "",
+        "conf": "Journal of Drug Targeting",
+        "coauthors": [
+            "Parul Thakur",
+            "Ashwini Kumar",
+            "Awanish Kumar"
+        ],
+        "keywords": "Diabetes mellitus, oxidative stress, antioxidants, clinical trial, therapy"
+    },
+    {
+        "id": 1858,
+        "label": 40,
+        "author": "ashwini kumar",
+        "title": "A demographic study on relation between uric acid and diabetes parameters in the Chhattisgarh State of India",
+        "organization": "Department of Biotechnology NIT Raipur",
+        "abstract": "Epidemiological evidence suggest that conflicting data exist for the relation between serum uric acid (SUA) and various diabetes-associated parameters. Therefore, measurement of SUA levels could play a valuable role as predictor marker in early type 2 diabetics as well as a potent antioxidant therapeutic. This work is a small demographic study in the patients of Chhattisgarh to find a relation between the SUA level and diabetes parameters in diabetics and controls. Materials and Methods: This was a small sample set case–control study. Patients were divided into two groups, namely, control (n = 25) and type 2 diabetics (n = 30). Biochemical estimation of parameters was performed using commercially available enzymatic kits. Results: Plasma glucose, serum triglyceride, glycated haemoglobin and creatinine were higher in diabetic patients than in controls. SUA showed a significant lower level in test patients (2.97 ± 0.22) as compared to control (4.35 ± 0.64). A negative correlation of r = −0.8159 was obtained between SUA and plasma glucose levels. Conclusions: Results suggest that variation in uric acid (UA) levels from normal to pre-diabetes and diabetes condition could be an important biomarker. Further validations may pave the way for UA measurement as a diagnostic and prognostic marker in type 2 diabetes mellitus.",
+        "email": "",
+        "conf": "Advances in Human Biology",
+        "coauthors": [
+            "Parul Thakur",
+            "Ashwini Kumar",
+            "Pradeep Kumar Patra",
+            "Awanish Kumar"
+        ],
+        "keywords": "Biomarker, serum, type 2 diabetes mellitus, uric acid"
+    },
+    {
+        "id": 1854,
+        "label": 40,
+        "author": "ashwini kumar",
+        "title": "Antimicrobial polymeric gels",
+        "organization": "Department of Biotechnology NIT Raipur",
+        "abstract": "One of the most dangerous situations the world is presently facing is the emergence of antimicrobial resistance (AR). AR is defined as the inability of an antimicrobial therapeutic agent to show efficacy against the target microbes. Due to AR, say, a particular antibacterial or antiviral agent becomes ineffective against the target bacteria or virus. Such a condition poses a threat because of emergence of faster and more dangerous infectious situations. This antibiotic resistance crisis has several causes such as overuse and misuse of antibiotics in patients, uncontrolled use of antimicrobials in livestock, and dumping of waste or unused antimicrobials in public waste area. Another important scientific cause of AR is lack of interest from pharmaceutical companies in research toward new effective antimicrobials. As per a recent report, 15 of 18 biggest pharmaceutical companies globally have halted their research and development of new antimicrobials. The AR is not only a scientific but also an economic problem too. Developing and low-income countries are quickly becoming victim to AR and a large section of population in these countries cannot afford stronger and expensive antibiotics. The resistant microorganisms can spread among human and animals in a two-way vertical also. Such spread resulted in longer hospital stay, more financial stress, and greater rate of mortality. Pharmaceutical companies withdraw from antimicrobial development due to low-profit case because the patient would stop using the drug once the infection has been cured. Instead, most companies are now focusing on development of drugs for chronic diseases. Thus, there is an urgent need to both to focus on research for new antimicrobials and on alternative microbial control module",
+        "email": "",
+        "conf": "Polymeric Gels",
+        "coauthors": [
+            "Awanish Kumar",
+            "Ashwini Kumar"
+        ],
+        "keywords": "Antimicrobials, Drug delivery, Drug loading, Drug resistance, Polymeric gels"
+    },
+    {
+        "id": 1860,
+        "label": 40,
+        "author": "ashwini kumar",
+        "title": "Development and characterization of tripolymeric and bipolymeric composite films using glyoxal as a potent crosslinker for biomedical application",
+        "organization": "Department of Biotechnology NIT Raipur",
+        "abstract": "For various biomedical applications, biopolymeric films are often crosslinked using chemical crosslinker such as glutaraldehyde, which is considered as a toxic chemical. In this report, we have prepared and characterized biopolymeric films using different combinations of chitosan, CMC, alginate and PVA using glyoxal as the crosslinker. The prepared films were subjected to various physico-chemical and mechanical characterizations such as swelling index, surface pH, surface morphology analysis using SEM, interact ion study using XRD, flexibility study using tensile testing and hardness testing. Glyoxal crosslinking resulted in variation of physico-chemical and mechanical alteration of the chitosan-PVA films while it had the negligible effect on the CAP film. Further, the hardness of the films demonstrated a decrease in value in the crosslinked films as compared to non-crosslinked films. We have interpreted that glyoxal is a potential crosslinker for chitosan-based composite polymers while in this case, it did not show any significant effect on CMC and alginate based composite structures. Therefore, using this type of films would be the cheap, safe and new alternative in drug delivery and other biomedical applications.",
+        "email": "",
+        "conf": "Materials Science and Engineering C",
+        "coauthors": [
+            "Ashwini Kumar",
+            "Awanish Kumar"
+        ],
+        "keywords": "Alginate, Chitosan, CMC, Glyoxal, PVA, Biomedical applications"
+    },
+    {
+        "id": 1875,
+        "label": 41,
+        "author": "ashwini kumar",
+        "title": "Online Feedback-based Estimation of Dynamic Page Service Time",
+        "organization": "Arista Networks Santa Clara California USA",
+        "abstract": "We present a framework for estimating the service time of a dynamic HTTP request by using the service times of past requests to the same URL. Our framework tags incoming requests with a timestamp. As the request is processed, server state relevant to the estimation mechanism, such as the number of threads servicing incoming requests, is stored with each request. When a request is handled, it is timestamped again, allowing us to calculate its service time. This service time is added to the history table and used in the computation of future estimates. The estimators we evaluated do not produce accurate predictions when server resources change, leaving room for further work in estimator design.",
+        "email": "ashwinik@eecs.umich.edu",
+        "conf": "ACM SIGBED Review",
+        "coauthors": [
+            "Ashwini Kumar",
+            "Kaushik Veeraraghavan",
+            "Benjamin Wester",
+            "Kang Shin"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 1857,
+        "label": 40,
+        "author": "ashwini kumar",
+        "title": "Therapeutic molecules against type 2 diabetes: What we have and what are we expecting?",
+        "organization": "Department of Biotechnology NIT Raipur",
+        "abstract": "World Health Organization (WHO) has identified diabetes as one of the fastest growing non-communicable diseases with 422 million patients around the world in 2014. Diabetes, a metabolic disease, is characterized primarily by hyperglycemia which results in various macrovascular and microvascular complications like cardiovascular disease and neuropathies which can significantly deteriorate the quality of life. The body either does not manufactures enough insulin (type 1 diabetes or T1DM) or becomes insensitive to physiologically secreted insulin or both (type 2 diabetes or T2DM). The majority of the diabetic population is affected by type 2 diabetes. Currently, hyperglycemia is treated by a broad range of molecules such as biguanides, sulfonylurea, insulin, thiazolidinediones, incretin mimetics, and DPP-4 inhibitors exerting different mechanisms. However, new drug classes have indeed come in the market such as SGLT-2 inhibitors and other are in the experimental stages such as GPR 40 agonists, GSK-3 inhibitors, GK activators and GPR21 inhibitors which definitely could be anticipated as safe and effective for diabetes therapy. This article reviews the general approach to currently approved therapies for type 2 diabetes and focusing on novel approaches that could be a panacea and might be useful in the future for diabetes patients.",
+        "email": "",
+        "conf": "Pharmacological reports: PR",
+        "coauthors": [
+            "Ashwini Kumar",
+            "SUDHANSHU KUMAR BHARTI",
+            "Awanish Kumar"
+        ],
+        "keywords": "Type 2 diabetes, Conventional anti-diabetics, Novel anti-diabetics, Promising therapeutics"
+    },
+    {
+        "id": 1869,
+        "label": 41,
+        "author": "ashwini kumar",
+        "title": "Application-aware dynamic spectrum access",
+        "organization": "Arista Networks Santa Clara California USA",
+        "abstract": "Dynamic Spectrum Access (DSA) allows unlicensed wireless devices to opportunistically access unoccupied licensed spectrum bands. DSA yields efficient spectrum utilization which can greatly improve wireless networking performance. In this paper, we advocate application-awareness to effectively manage the side-effects of DSA that can offset its benefits by adversely impacting application QoS. Simple application hints are found to be able to serve as key inputs in evaluating current spectrum conditions relative to application needs, leading to an informed DSA mechanism that minimizes the impact of undesirable DSA side-effects. Towards this goal, we propose a wireless service architecture called Context-Aware Spectrum Agility (CASA). The key elements of CASA are: (a) semantic dependency equations that provide the relationship between application-layer QoS state and lower-layer DSA parameters, (b) CASA Algorithm that adapts DSA parameters and activities to better suit application needs, and, (c) a low overhead interface to provide application context to DSA. CASA has been explicitly designed with the goals of practical deployment, low overhead operation, and is compatible with any DSA protocol. Compared to state-of-art DSA, the deployment of CASA along with DSA protocols is shown to improve QoS metrics, such as delay and jitter, by an average of 30 and 64%, respectively. CASA is also found to match the application QoS demands for more than 90% of the duration of a communication session—a 300+% improvement over conventional application-agnostic DSA",
+        "email": "ashwinik@eecs.umich.edu",
+        "conf": "Wireless Networks",
+        "coauthors": [
+            "Ashwini Kumar",
+            "Kang G. Shin"
+        ],
+        "keywords": "Dynamic Spectrum Access (DSA), Wireless networks, QoS, Software-Defined Radio (SDR), Cross-layer, Application hints"
+    },
+    {
+        "id": 1873,
+        "label": 41,
+        "author": "ashwini kumar",
+        "title": "A Case Study of QoS Provisioning in TV-Band Cognitive Radio Networks",
+        "organization": "Arista Networks Santa Clara California USA",
+        "abstract": "Dynamic Spectrum Access (DSA) MAC protocols allow a Cognitive Radio (CR) device to opportunistically access unused or less crowded spectrum while ensuring protection for the incumbents. Though DSA shows great potential to enhance spectrum efficiency, the associated constraints on QoS may limit its usefulness. QoS support in a DSA-based network is not trivial due to the fact that in addition to unfavorable characteristics of the wireless medium, the secondary devices are subject to additional interference and interruption from incumbents. In this paper, we present a case-study of key QoS provisioning techniques in DSA protocol design that facilitate the required application QoS. Specifically, we consider a CR system that supports high quality multimedia (including HDTV) streaming over UHF frequency bands. We model and evaluate the QoS- oriented CR system together with the underlying QoS-Provisioned DSA Protocol (referred as QPDP) through extensive simulations. The results show the effectiveness of DSA coupled with QoS provisioning, in supporting QoS-demanding consumer- oriented network applications in TV bands. This outcome is significant as FCC has recently approved UHF bands for unlicensed operations in the second Report and Order in the USA, and various DSA-based personal/portable CR systems are being actively considered by the consumer wireless industry.",
+        "email": "ashwinik@eecs.umich.edu",
+        "conf": "International Conference on Computer Communications and Networks",
+        "coauthors": [
+            "Ashwini Kumar",
+            "Kang G. Shin",
+            "Jianfeng Wang",
+            "Kiran Challapali"
+        ],
+        "keywords": "QoS provisioning, DSA, cognitive radio"
+    },
+    {
+        "id": 1865,
+        "label": 40,
+        "author": "ashwini kumar",
+        "title": "Current and novel therapeutic molecules and targets in Alzheimer's disease",
+        "organization": "Department of Biotechnology NIT Raipur",
+        "abstract": "Alzheimer's disease (AD) is a neurodegenerative disorder in which the death of brain cells causes memory loss and cognitive decline, i.e., dementia. The disease starts with mild symptoms and gradually becomes severe. AD is one of the leading causes of mortality worldwide. Several different hallmarks of the disease have been reported such as deposits of β-amyloid around neurons, hyperphosphorylated tau protein, oxidative stress, dyshomeostasis of bio-metals, low levels of acetylcholine, etc. AD is not simple to diagnose since there is no single diagnostic test for it. Pharmacotherapy for AD currently provides only symptomatic relief and mostly targets cognitive revival. Computational biology approaches have proved to be reliable tools for the selection of novel targets and therapeutic ligands. Molecular docking is a key tool in computer-assisted drug design and development. Docking has been utilized to perform virtual screening on large libraries of compounds, and propose structural hypotheses of how the ligands bind with the target with lead optimization. Another potential application of docking is optimization stages of the drug-discovery cycle. This review summarizes the known drug targets of AD, in vivo active agents against AD, state-of-the-art docking studies done in AD, and future prospects of the docking with particular emphasis on AD.",
+        "email": "",
+        "conf": "Journal of the Formosan Medical Association",
+        "coauthors": [
+            "Ashwini Kumar, Chaluveelaveedu Murleedharan Nisha, Chitrangda Silakar, Isha Sharma, Kanukanti Anusha, Nityasha Gupta, Prateek Nair, Timir Tripathi, Awanish Kumara"
+        ],
+        "keywords": "Alzheimer's disease, drug targets, inhibitors, molecular docking, therapy"
+    },
+    {
+        "id": 1871,
+        "label": 41,
+        "author": "ashwini kumar",
+        "title": "Cognitive radios for dynamic spectrum access: From concept to reality",
+        "organization": "Arista Networks Santa Clara California USA",
+        "abstract": "This article provides a comprehensive survey of cognitive radio technology, focusing on its application to dynamic spectrum access, especially from the perspective of realizing consumer- oriented CR networks. We first overview the state of the art in CR technology and identify its key functions across the protocol stack, such as spectrum sensing, resource allocation, CR MAC protocol, spectrum-aware opportunistic routing, CR transport protocol, QoS awareness, spectrum trading, and security. We also review the various schemes proposed for each of these functions and discuss the suitability, advantages, and limitations of their usage in the future CR market. Finally, we introduce the activities in CR research communities and industry in terms of development of real-life applications, such as IEEE 802.22, Ecma 392, and IEEE 802.11af (also known as Wi-Fi 2.0 or White-Fi), and then identify necessary steps for future CR applications",
+        "email": "",
+        "conf": "IEEE Wireless Communications",
+        "coauthors": [
+            "Kang G. Shin",
+            "Hyoil Kim",
+            "Alexander W. Min",
+            "Ashwini Kumar"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 1862,
+        "label": 40,
+        "author": "ashwini kumar",
+        "title": "Why Chitosan? From properties to perspective of mucosal drug delivery",
+        "organization": "Department of Biotechnology NIT Raipur",
+        "abstract": "Non-parenteral drug delivery routes primarily remove the local pain at the injection site. The drugs administered through the oral route encounter the process of hepatic first pass metabolism. Among the alternative delivery routes, mucosal route is being investigated as the most preferred route. Different mucosal routes include the gastrointestinal tract (oral), vagina, buccal cavity and nasal cavity. Novel formulations are being developed using natural and synthetic polymers that could increase the residence time of the drug at mucosal surface in order to facilitate permeation and reduce (or bypass) the first pass metabolism. For recombinant drugs, the formulations are accompanied by enzyme inhibitors and penetration enhancers. Buccal cavity (buccal and sublingual mucosa) has smaller surface area than the gastrointestinal tract but the drugs can easily escape the first pass metabolism. Chitosan is the most applied natural polymer while synthetic polymers include Carbopol and Eudragit. Chitosan has inherent properties of mucoadhesion and penetration enhancement apart from biodegradability and efflux pump inhibition. This review hoards the important research purview of chitosan as a compatible drug carrier macromolecule for mucosal delivery on single platform.",
+        "email": "",
+        "conf": "International journal of biological macromolecules",
+        "coauthors": [
+            "Ashwini Kumar",
+            "Archana Vimal",
+            "Awanish Kumar"
+        ],
+        "keywords": "Biodegradation, Chitosan, Drug delivery, Efflux-pump, Mucoadhesion, Penetration enhancement"
+    },
+    {
+        "id": 1866,
+        "label": 40,
+        "author": "ashwini kumar",
+        "title": "Type 2 Diabetes Mellitus: The Concerned Complications and Target Organs",
+        "organization": "Department of Biotechnology NIT Raipur",
+        "abstract": "Diabetes has been considered as the most dreaded non-communicable disease consuming the mankind rapidly. WHO has predicted the number of diabetics to be approximately 366 millions by 2030. The disease is characterized by hyperglycemia and the basic symptoms are polyphagia, polydipsia and polyuria. The autoimmune type 1 diabetes represent almost 1% of the total diabetic population, the rest being that of type 2 diabetes (T2D). Type 2 diabetes has been linked to a variety of factors such as heredity, environmental factors, unhealthy eating habits, sedentary lifestyle, stress etc. The uncontrolled hyperglycemia has profound deleterious effects on almost all the organs and results in various cardiovascular disorders, retinopathy, neuropathy, and nephropathy. Recent studies have revealed an array of pulmonary dysfunctions related with T2D ranging from respiratory defects to tuberculosis. Diabetes also predisposes the person to hepatic dysfunctions like NAFLD and HCC and a range of infections at various sites which are difficult to manage. Post-surgical infections are of special interest for subjects with uncontrolled hyperglycemia prior to surgery. Scientists all over the world are revealing different pathways and associated therapies for type 2 diabetes in order to control the pathological effects covering almost whole body physiology.",
+        "email": "",
+        "conf": "Apollo Medicine",
+        "coauthors": [
+            "Ashwini Kumar",
+            "SUDHANSHU KUMAR BHARTI",
+            "Awanish Kumar"
+        ],
+        "keywords": "Diabetes, Pathology, Cardiovascular, Retinopathy, Nephropathy"
+    },
+    {
+        "id": 1859,
+        "label": 40,
+        "author": "ashwini kumar",
+        "title": "Chitosan as a Biomedical Material: Properties and Applications",
+        "organization": "Department of Biotechnology NIT Raipur",
+        "abstract": "Chitin is one of the most abundant macromolecules present on earth and is found mostly in the exoskeleton of the crustaceans, insects and other arthropods. Chitin is a long polymer of N-acetylglucosamine. Chitosan, one of the most utilized natural biopolymers, is the deacetylated version of the parent polymer chitin. Various properties of chitosan such as its biocompatibility, biodegradability and non-immunogenicity make it an attractive biopolymer. Since native chitosan is soluble only in acidic solution, various modifications in the parent chitosan has led to a wide variety of modifiedchitosans which have improved physico-chemical properties. Its wide array of applications range from drug delivery, wound healing patches, surgical sutures & adhesives and scaffolds for tissue engineering. Being a good mucoadhesive polymer, it is especially useful in mucoadhesive drug delivery application. Its inertness and good antimicrobial activity renders it a great option for biodegradable tissue scaffolds and surgical adhesive/sutures. Chitosan is presently approved by the FDA for very few applications; its complete approval by the FDA is still pending for all biomedical applications. This chapter would be covering essential physico-chemical properties of chitosan useful for biomedical applications and various related applications in various stages.",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Awanish Kumar",
+            "Ashwini Kumar"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 1855,
+        "label": 40,
+        "author": "ashwini kumar",
+        "title": "Antidiabetic phytoconstituents and their mode of action on metabolic pathways",
+        "organization": "Department of Biotechnology NIT Raipur",
+        "abstract": "Diabetes Mellitus, characterized by persistent hyperglycaemia, is a heterogeneous group of disorders of multiple aetiologies. It affects the human body at multiple organ levels thus making it difficult to follow a particular line of the treatment protocol and requires a multimodal approach. The increasing medical burden on patients with diabetes-related complications results in an enormous economic burden, which could severely impair global economic growth in the near future. This shows that today’s healthcare system has conventionally been poorly equipped towards confronting the mounting impact of diabetes on a global scale and demands an urgent need for newer and better options. The overall challenge of this field of diabetes treatment is to identify the individualized factors that can lead to improved glycaemic control. Plants are traditionally used worldwide as remedies for diabetes healing. They synthesize a diverse array of biologically active compounds having antidiabetic properties. This review is an endeavour to document the present armamentarium of antidiabetic herbal drug discovery and developments, highlighting mechanism-based antidiabetic properties of over 300 different phytoconstituents of various chemical categories from about 100 different plants modulating different metabolic pathways such as glycolysis, Krebs cycle, gluconeogenesis, glycogen synthesis and degradation, cholesterol synthesis, carbohydrate metabolism as well as peroxisome proliferator activated receptor activation, dipeptidyl peptidase inhibition and free radical scavenging action. The aim is to provide a rich reservoir of pharmacologically established antidiabetic phytoconstituents with specific references to the novel, cost-effective interventions, which might be of relevance to other low-income and middle-income countries of the world.",
+        "email": "",
+        "conf": "Therapeutic advances in endocrinology and metabolism",
+        "coauthors": [
+            "SUDHANSHU KUMAR BHARTI",
+            "Supriya Krishnan",
+            "Ashwini Kumar",
+            "Awanish Kumar"
+        ],
+        "keywords": "antidiabetics, diabetes mellitus, hyperglycaemia, metabolism, phytoconstituents"
+    },
+    {
+        "id": 1874,
+        "label": 41,
+        "author": "ashwini kumar",
+        "title": "Towards context-aware wireless spectrum agility",
+        "organization": "Arista Networks Santa Clara California USA",
+        "abstract": "Spectrum agility (SA) is a novel way of improving spectrum utilization efficiency and making greater bandwidth available to network applications. Despite its advantages, the fundamental operations (e.g., periodic spectrum sensing) involved in realizing SA can also adversely affect application performance. We propose Context-Aware Spectrum Agility (CASA), which uses application hints together with the current channel condition to adapt key SA parameters. Our preliminary evaluation shows that CASA improves throughput by 35%, and is also more effective in meeting application demands than conventional SA.",
+        "email": "ashwinik@eecs.umich.edu",
+        "conf": "ACM international conference on Mobile computing and networking",
+        "coauthors": [
+            "Ashwini Kumar",
+            "Kang G. Shin"
+        ],
+        "keywords": "Systems, spectrum agility, dynamic spectrum access, cognitive, software-defined radios, cross-layer interactions"
+    },
+    {
+        "id": 1863,
+        "label": 40,
+        "author": "ashwini kumar",
+        "title": "Platform Chemicals and Pharmaceutical Industries",
+        "organization": "Department of Biotechnology NIT Raipur",
+        "abstract": "Multi-l-arginyl-poly-l-aspartic acid, better known as cyanophycin (CPG), is intracellular nitrogen-rich reserve material, generally found in cyanobacteria and heterotrophs. CPG is synthesized non-ribosomally by cyanophycin synthetase, which has two different active sites for incorporation of Arg and Asp. CPG is structurally a polymer consisting of a poly-α-aspartyl backbone linked to arginine residues at its β-carboxyl groups. Commercially, CPG can be hydrolyzed to produce arginine or poly-aspartates, thereby could serve as an alternative to costly chemical processes. L-Arginine is precursor of biologically important molecules like urea, nitric oxide, citrulline, etc. Arginine is experimentally used for preparation of cationic hydrogels, nutraceuticals, as antimicrobials, and most recently as a therapeutic composition for dentin deposition in case of dental sensitivity. Polyaspartate is a platform chemical for synthesis of (S)-2-Aminotetralins (ATs), used in Parkinson’s disease, etc.",
+        "email": "",
+        "conf": "Platform Chemical Biorefinery",
+        "coauthors": [
+            "Shadab Ahmed",
+            "Ashwini Kumar",
+            "Vijay Kumar Mishra",
+            "Arabinda Ghosh"
+        ],
+        "keywords": "Acetaldehyde, CPG, Cyanophycin, Glycerol, Hydroxymethyl furfural, Isosorbide, l-arginine, Polyaspartyl"
+    }
+]

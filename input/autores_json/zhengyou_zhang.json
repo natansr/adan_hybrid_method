@@ -1,0 +1,4224 @@
+[
+    {
+        "id": 6074,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Expandable Data-Driven Graphical Modeling of Human Actions Based on Salient Postures",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE Transactions on Circuits and Systems for Video Technology",
+        "coauthors": [
+            "Wanqing Li",
+            "Zhengyou Zhang",
+            "Zicheng Liu"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6027,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Immersive Telepresence: Transcending Space and Time",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6134,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "A developing sensory mapping for robots",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Nan Zhang",
+            "Juyang Weng",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6153,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Feature-Based Facial Expression Recognition: Sensitivity Analysis and Experiments with A Multilayer Perceptron.",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "International Journal of Pattern Recognition and Artificial Intelligence",
+        "coauthors": [
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6193,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "From Multiple Objects Motion Analysis To Behavior-Based Object Recognition.",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Nassir Navab",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6004,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Essential Matrix",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6158,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "On the Optimization Criteria Used in Two-View Motion Analysis",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+        "coauthors": [
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6182,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "An Automatic and Robust Algorithm for Determining Motion and Structure from Two Perspective Images.",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5993,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Towards accurate and robust cross-ratio based gaze trackers through learning from simulation",
+        "organization": "Tencent Robotics X",
+        "abstract": "Cross-ratio (CR) based methods offer many attractive properties for remote gaze estimation using a single camera in an uncalibrated setup by exploiting invariance of a plane projectivity. Unfortunately, due to several simplification assumptions, the performance of CR-based eye gaze trackers decays significantly as the subject moves away from the calibration position. In this paper, we introduce an adaptive homography mapping for achieving gaze prediction with higher accuracy at the calibration position and more robustness under head movements. This is achieved with a learning-based method for compensating both spatially-varying gaze errors and head pose dependent errors simultaneously in a unified framework. The model of adaptive homography is trained offline using simulated data, saving a tremendous amount of time in data collection. We validate the effectiveness of the proposed approach using both simulated and real data from a physical setup. We show that our method compares favorably against other state-of-the-art CR based methods.",
+        "email": "",
+        "conf": "Symposium on Eye Tracking Research and Applications",
+        "coauthors": [
+            "Jia-Bin Huang",
+            "Qin Cai",
+            "Zicheng Liu",
+            "Narendra Ahuja",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6078,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Graphical modeling and decoding of human actions",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Wanqing Li",
+            "Zhengyou Zhang",
+            "Zicheng Liu"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6014,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Model-based hand pose estimation via spatial-temporal hand parsing and 3D fingertip localization",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "The Visual Computer",
+        "coauthors": [
+            "Hui Liang",
+            "Junsong Yuan",
+            "Daniel Thalmann",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6069,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Speaker authentication using adapted background models",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "The Journal of the Acoustical Society of America",
+        "coauthors": [
+            "Zhengyou Zhang",
+            "Ming Liu"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6111,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Linear combination representation for outlier detection in motion tracking",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "Proceedings / CVPR IEEE Computer Society Conference on Computer Vision and Pattern Recognition. IEEE Computer Society Conference on Computer Vision and Pattern Recognition",
+        "coauthors": [
+            "GD Guo",
+            "Charles R Dyer",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6098,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Automatic Business Card Scanning with a Camera",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "Proceedings / ICIP ... International Conference on Image Processing",
+        "coauthors": [
+            "Gang Hua",
+            "Zicheng Liu",
+            "Zhengyou Zhang",
+            "Ying Wu"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6051,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "3D Deformable Face Tracking with a Commodity Depth Camera",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Qin Cai",
+            "David Gallup",
+            "Cha Zhang",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6169,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "A General Expression of the Fundamental Matrix for Both Perspective and Affine Cameras",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhengyou Zhang",
+            "Gang Xu"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6007,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Camera Calibration",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6062,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Speeding up spatio-temporal sliding-window search for efficient event detection in crowded videos",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Junsong Yuan",
+            "Zicheng Liu",
+            "Ying Wu",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6029,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "3D scene reconstruction by multiple structured-light based commodity depth cameras",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "Acoustics Speech and Signal Processing 1988. ICASSP-88. 1988 International Conference on",
+        "coauthors": [
+            "Jianfeng Wang",
+            "Cha Zhang",
+            "Wenwu Zhu",
+            "Philip A. Chou"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6057,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Estimating Projective Transformation Matrix (Collineation Homography)",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6003,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Face Modeling",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zicheng Liu",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6016,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Measuring the engagement level of TV viewers",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Javier Hernandez",
+            "Zicheng Liu",
+            "Geoff Hulten",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5965,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "A novel framework of text-independent speaker verification based on utterance transform and iterative cohort modeling",
+        "organization": "Tencent Robotics X",
+        "abstract": "A novel framework for text-independent speaker verification is proposed. The framework is based on a new interpretation of Universal Background Model. The UBM in our framework actually defines a transform which maps the variable length observation into a fixed dimensional supervector(supervector space). Each speech utterance is then mapped into a point in this supervector space. The similarity measure in this vector space is progressively refined via an iterative cohort modeling scheme. The experiments on NIST 2002 corpus show the effectiveness of this new framework. Overall the EER drops from the baseline system(with T-Norm) 9.21% to final improved system(without T-Norm) 8.07%. The new framework can effectively reduce the data dependence in the final output score which is clearly indicated in the second sets of experiments. The EER after T-Norm of final system marginally increases by relatively 1.73% compared to the EER of baseline system drops 16.12% relatively after T-Norm. Also, the relative improvement of DCF after T-Norm is marginal for the final improved system (2.47%) compared to 33.68% in baseline system. It clear shows that the iterative cohort modeling effectively reduce the data dependence of the final scores, so that T-Norm will not further improve the system performance. Also, the performance of novel frame clearly increases as the iteration grows which suggest that the framework progressively refine the similarity measure on the supervector space with the iterative cohort modeling.",
+        "email": "zhang@microsoft.com",
+        "conf": "International Conference on Spoken Language Processing, INTERSPEECH",
+        "coauthors": [
+            "Ming Liu",
+            "Huazhong Ning",
+            "Thomas S. Huang",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6197,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Representations of Geometric Objects",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhengyou Zhang",
+            "Olivier D. Faugeras"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6032,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Multi-view learning from imperfect tagging",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhongang Qi",
+            "Ming Yang",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6138,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Rapid modeling of animated faces from video",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "The Journal of Visualization and Computer Animation",
+        "coauthors": [
+            "Zicheng Liu",
+            "Zhengyou Zhang",
+            "Chuck Jacobs",
+            "Michael Cohen"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6065,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Efficient Scale-Space Spatiotemporal Saliency Tracking for Distortion-Free Video Retargeting",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Gang Hua",
+            "Cha Zhang",
+            "Zicheng Liu",
+            "Ying Shan"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6114,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Fusing Array Microphone and Stereo Vision for Improved Computer Interfaces",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhengyou Zhang",
+            "John R. Hershey"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5963,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Semantic Action Recognition by Learning a Pose Lexicon",
+        "organization": "Tencent Robotics X",
+        "abstract": "This paper proposes a semantic representation, pose lexicon, for action recognition. The lexicon is composed of a set of semantic poses, a set of visual poses and a probabilistic mapping between the visual and semantic poses. Specially, an action can be represented by a sequence of semantic poses extracted from an associated textual instruction. Visual frames of the action are considered to be generated from a sequence of hidden visual poses. To learn the lexicon, a visual pose model is learned from training samples by a Gaussian Mixture model to characterize the likelihood of an observed visual frame being generated by a visual pose. A pose lexicon model is also learned by an extended hidden Markov alignment model to encode the probabilistic mapping between hidden visual poses and semantic poses sequences. With the lexicon, action classification is formulated as a problem of finding the maximum posterior probability of a given sequence of visual frames that fits to a given sequence of semantic poses through the most likely visual pose and alignment sequences. The efficacy of the proposed method was evaluated on MSRC-12, WorkoutSU-10, WorkoutUOW-18, Combined-15 and Combined-17 action datasets using cross-subject, cross-dataset and zero-shot protocols.",
+        "email": "zhang@microsoft.com",
+        "conf": "Pattern Recognition",
+        "coauthors": [
+            "Lijuan Zhou",
+            "Wanqing Li",
+            "Philip O. Ogunbona",
+            "Zhengyou Zhang"
+        ],
+        "keywords": "Lexicon,Semantic pose,Visual pose,Action recognition"
+    },
+    {
+        "id": 6094,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Maximum Likelihood Sound Source Localization for Multiple Directional Microphones",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "Acoustics Speech and Signal Processing 1988. ICASSP-88. 1988 International Conference on",
+        "coauthors": [
+            "Cha Zhang",
+            "Zhengyou Zhang",
+            "Dinei Florencio"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6124,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Image-based surface detail transfer",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE Computer Graphics and Applications",
+        "coauthors": [
+            "Zicheng Liu",
+            "Zhengyou Zhang",
+            "Ying Shan"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6122,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Note-taking with a camera: whiteboard scanning and image enhancement",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "Acoustics Speech and Signal Processing 1988. ICASSP-88. 1988 International Conference on",
+        "coauthors": [
+            "Zhengyou Zhang",
+            "Li-wei He"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6010,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Universal translator",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Sharon Kay Cunnington",
+            "Jin Li",
+            "Michel Pahud",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5992,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Improving cross-ratio-based eye tracking techniques by leveraging the binocular fixation constraint",
+        "organization": "Tencent Robotics X",
+        "abstract": "The cross-ratio approach has recently attracted increasing attention in eye-gaze tracking due to its simplicity in setting up a tracking system. Its accuracy, however, is lower than that of the model-based approach, and substantial efforts have been devoted to improving its accuracy. Binocular fixation is essential for humans to have good depth perception, and this paper presents a technique leveraging this constraint. It is used in two ways: First, in estimating jointly the homography matrices for both eyes, and second, in estimating the eye gaze itself. Experimental results with both synthetic and real data show that the proposed approach produces significantly better results than using a single eye and also better than averaging the independent results from the two eyes.",
+        "email": "",
+        "conf": "symposium on eye tracking research and applications",
+        "coauthors": [
+            "Zhengyou Zhang",
+            "Qin Cai"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5978,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Visual Understanding with RGB-D Sensors: An Introduction to the Special Issue",
+        "organization": "Tencent Robotics X",
+        "abstract": "In recent years, we have witnessed the rapid growth of research in visual understanding with RGB-D sensors since the release of Micrsoft’s Kinect sensor in November 2010. For a long time, researchers have been challenged by many visual understanding problems such as detecting and identifying objects or human activities in real-world situations. Traditional segmentation and tracking algorithms are not always reliable when the environment is cluttered or the illumination changes suddenly. However, the effective combination of depth and RGB data can alleviate the negative effects of environmental changes, thus improving the accuracy of object identification and tracking. The freely available online Kinect SDKs and pose trackers for environment modeling further encourage novel solutions to traditional visual understanding problems. However, Kinect sensors face a number of specific challenges, such as missing or corrupted depth pixels and inaccurate calibration between depth and RGB cameras. This special issue is specifically dedicated to new algorithms and applications based on the Kinect sensors.",
+        "email": "",
+        "conf": "ACM Transactions on Intelligent Systems and Technology",
+        "coauthors": [
+            "Richang Hong",
+            "Shuicheng Yan",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6119,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Robust and Rapid Generation of Animated Faces from Video Images: A Model-Based Modeling Approach",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "International Journal of Computer Vision",
+        "coauthors": [
+            "Zhengyou Zhang",
+            "Zicheng Liu",
+            "Dennis Adler",
+            "Ying Shan"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6088,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Energy-Based Position Estimation of Microphones and Speakers for Ad Hoc Microphone Arrays",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Minghua Chen",
+            "Zicheng Liu",
+            "Li-Wei He",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6201,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Solving the Motion Tracking Problem: A Framework",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhengyou Zhang",
+            "Olivier D. Faugeras"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5997,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Editorial TAMD Update",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE Transactions on Autonomous Mental Development",
+        "coauthors": [
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6085,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Maximum Likelihood Sound Source Localization and Beamforming for Directional Microphone Arrays in Distributed Meetings",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE Transactions on Multimedia",
+        "coauthors": [
+            "Cha Zhang",
+            "Dinei Florencio",
+            "Demba E. Ba",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6210,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Further Considerations on Reducing Complexity",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhengyou Zhang",
+            "Olivier D. Faugeras"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6105,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Computer Vision Technologies for Remote Collaboration Using Physical Whiteboards Projectors and Cameras",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6131,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Model-based head pose tracking with stereovision",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Ruigang Yang",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6117,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Direct filtering for air- and bone-conductive microphones",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zicheng Liu",
+            "Zhengyou Zhang",
+            "A. Acero",
+            "Xuedong Huang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6093,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "A Generative-Discriminative Framework using Ensemble Methods for Text-Dependent Speaker Verification",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "Acoustics Speech and Signal Processing 1988. ICASSP-88. 1988 International Conference on",
+        "coauthors": [
+            "Amar Subramanya",
+            "Zhengyou Zhang",
+            "Arun C. Surendran",
+            "Alex Acero"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6140,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Cloning your own face with a desktop camera",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhengyou Zhang",
+            "Zicheng Liu",
+            "D Adler",
+            "Ying Shan"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6077,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Semantic Saliency Driven Camera Control for Personal Remote Collaboration",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Cha Zhang",
+            "Zicheng Liu",
+            "Zhengyou Zhang",
+            "Qi Zhao"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6090,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Learning-Based Perceptual Image Quality Improvement for Video Conferencing",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zicheng Liu",
+            "Cha Zhang",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6044,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "What did i miss? In-meeting review using multimodal Accelerated Instant Replay (AIR) Conferencing",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Sasa Junuzovic",
+            "Kori Inkpen",
+            "Rajesh Hegde",
+            "Christopher Arthur Brooks"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6100,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Iterative Local-Global Energy Minimization for Automatic Extraction of Objects of Interest",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+        "coauthors": [
+            "Gang Hua",
+            "Zicheng Liu",
+            "Zhengyou Zhang",
+            "Ying Wu"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6066,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Method and apparatus for reducing noise corruption from an alternative sensor signal during multi-sensory speech enhancement",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "The Journal of the Acoustical Society of America",
+        "coauthors": [
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6148,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Panel Session on Computations and Algorithms",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Bill Triggs",
+            "David Nistr",
+            "Kenichi Kanatani",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6086,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Multisensory processing for speech enhancement and magnitude-normalized spectra for speech modeling",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "Speech Communication",
+        "coauthors": [
+            "Amar Subramanya",
+            "Zhengyou Zhang",
+            "Zicheng Liu",
+            "Alex Acero"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6160,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Comparison between Geometry-Based and Gabor Wavelets-Based Facial Expression Recognition Using Multi-Layer Perceptron",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhengyou Zhang",
+            "Michael J. Lyons",
+            "M. Schuster",
+            "Shigeru Akamatsu"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5973,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Calibration Between Depth and Color Sensors for Commodity Depth Cameras",
+        "organization": "Tencent Robotics X",
+        "abstract": "Commodity depth cameras have created many interesting new applications in the research community recently. These applications often require the calibration information between the color and the depth cameras. Traditional checkerboard-based calibration schemes fail to work well for the depth camera, since its corner features cannot be reliably detected in the depth image. In this chapter, we present a maximum likelihood solution for the joint depth and color calibration based on two principles. First, in the depth image, points on the checkerboard shall be coplanar, and the plane is known from color camera calibration. Second, additional point correspondences between the depth and color images may be manually specified or automatically established to help improve calibration accuracy. Uncertainty in depth values has been taken into account systematically. The proposed algorithm is reliable and accurate, as demonstrated by extensive experimental results on simulated and real-world examples.",
+        "email": "",
+        "conf": "Computer vision and machine learning with RGB-D sensors.",
+        "coauthors": [
+            "Cha Zhang",
+            "Zhengyou Zhang"
+        ],
+        "keywords": "Model Plane, Depth Image, Point Pair, Color Camera, Checkerboard Pattern "
+    },
+    {
+        "id": 5998,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Introduction of New Associate Editors",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE Transactions on Autonomous Mental Development",
+        "coauthors": [
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6067,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Multimodal collaboration and human-computer interaction",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6101,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Robust Local Scoring Function for Text-Independent Speaker Verification",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Ming Liu",
+            "Thomas S. Huang",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6000,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Affine Camera",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6136,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Visual Panel: Virtual Mouse Keyboard and 3D Controller with an Ordinary Piece of Paper",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhengyou Zhang",
+            "Ying Wu",
+            "Ying Shan",
+            "Steven Shafer"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6125,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Automatic Eyeglasses Removal from Face Images",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+        "coauthors": [
+            "Chenyu Wu",
+            "Ce Liu",
+            "Heung-Yueng Shum",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6108,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "A graphical model for multi-sensory speech processing in air-and-bone conductive microphones.",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Amar Subramanya",
+            "Zhengyou Zhang",
+            "Zicheng Liu",
+            "Alex Acero"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6048,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Enhancing stereophonic teleconferencing with microphone arrays through sound field warping",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Wei-Ge Chen",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6092,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Energy-Based Sound Source Localization and Gain Normalization for Ad Hoc Microphone Arrays",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "Acoustics Speech and Signal Processing 1988. ICASSP-88. 1988 International Conference on",
+        "coauthors": [
+            "Zicheng Liu",
+            "Zhengyou Zhang",
+            "Li-Wei He",
+            "Philip A. Chou"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6187,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Token tracking in a cluttered scene",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "Image and Vision Computing",
+        "coauthors": [
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6079,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Robust and Accurate Visual Echo Cancelation in a Full-duplex Projector-Camera System",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+        "coauthors": [
+            "Miao Liao",
+            "Ruigang Yang",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6008,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Developmental Learning for User Activities",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Xiao Huang",
+            "Juyang Weng",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6129,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Why take notes? Use the whiteboard capture system",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "Acoustics Speech and Signal Processing 1988. ICASSP-88. 1988 International Conference on",
+        "coauthors": [
+            "Li-wei He",
+            "Zicheng Liu",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6224,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Visual Navigation of a Mobile Robot: Recent Steps",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Nicholas Ayache",
+            "Olivier D. Faugeras",
+            "F. Lustman",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6091,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Face Re-Lighting from a Single Image under Harsh Lighting Conditions",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "Proceedings / CVPR IEEE Computer Society Conference on Computer Vision and Pattern Recognition. IEEE Computer Society Conference on Computer Vision and Pattern Recognition",
+        "coauthors": [
+            "Yang Wang",
+            "Zicheng Liu",
+            "Gang Hua",
+            "Dimitris Samaras"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6150,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Visual Screen: Transforming an Ordinary Screen into a Touch Screen.",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhengyou Zhang",
+            "Ying Shan"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5979,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Maximum a posteriori estimation of room impulse responses",
+        "organization": "Tencent Robotics X",
+        "abstract": "Estimating room impulse responses (RIRs) has a number of applications, including personalized audio, analyzing and improving acoustic behavior of concert halls, listening room compensation, sound source localization, and many others. RIRs have been estimated in essentially the same fashion for the last 50 years: Compute the cross correlation between a signal played at point A, and the signal received at point B. Best results are obtained when the signal played is white noise, or a maximum length sequence. No prior knowledge is exploited in computing the RIR, which is simply assumed to be the cross correlation between played and received signals. In contrast, research in adaptive RIR estimation (a.k.a. adaptive Acoustic Echo Cancellation) has made huge progress by (among other things) incorporating models for the RIR. In this paper we propose a new RIR estimation technique, based on a maximum a posteriori formulation. More specifically, we estimate the room reverberation time, as well as the room noise level, and use those as priors for the RIR estimation. Comparison with ground truth shows an average improvement of 12 dB compared to traditional methods.",
+        "email": "",
+        "conf": "International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE",
+        "coauthors": [
+            "Dinei Florencio",
+            "Zhengyou Zhang"
+        ],
+        "keywords": "RIR,room acoustics,room impulse response,AEC,echo cancellation"
+    },
+    {
+        "id": 6056,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "A Survey of Recent Advances in Face Detection",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Cha Zhang",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6034,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Robust hand gesture recognition with Kinect sensor",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhou Ren",
+            "Jingjing Meng",
+            "Junsong Yuan",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6128,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Incremental motion estimation through modified bundle adjustment",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "Proceedings / ICIP ... International Conference on Image Processing",
+        "coauthors": [
+            "Zhengyou Zhang",
+            "Ying Shan"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6198,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Implementation Details and Experimental Results",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhengyou Zhang",
+            "Olivier D. Faugeras"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6071,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Virtual View Generation with A Hybrid Camera Array",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Engin Tola",
+            "Cha Zhang",
+            "Qin Cai",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6080,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Software-based distortion compensation for a scanned beam display",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Miao Liao",
+            "Zhengyou Zhang",
+            "John Lewis"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6106,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Re-rendering from a sparse set of images",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Ko Nishino",
+            "Katsushi Ikeuchi",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6222,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Calibration of a mobile robot with application to visual navigation",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhengyou Zhang",
+            "Olivier D. Faugeras"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6220,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Building a 3D world model with a mobile robot: 3D line segment representation and integration",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhengyou Zhang",
+            "Olivier D. Faugeras"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6214,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Iterative Point Matching for Registration of Free-Form Curves",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "International Journal of Computer Vision",
+        "coauthors": [
+            "E De Recherche",
+            "Et En Automatique",
+            "Sophia Antipolis",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6206,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Calibrating a Mobile Robot and Visual Navigation",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhengyou Zhang",
+            "Olivier D. Faugeras"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6144,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Model-based bundle adjustment with application to face modeling",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Ying Shan",
+            "Zicheng Liu",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6216,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Determining Motion from 3D Line Segment Matches a Comparative Study",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "Image and Vision Computing",
+        "coauthors": [
+            "Zhengyou Zhang",
+            "Olivier D. Faugeras"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6099,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Automatic Real-Time Barcode Localization in Complex Scenes",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "Proceedings / ICIP ... International Conference on Image Processing",
+        "coauthors": [
+            "Chunhui Zhang",
+            "Jian Wang",
+            "Shi Han",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6073,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Boosting-Based Multimodal Speaker Detection for Distributed Meeting Videos",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE Transactions on Multimedia",
+        "coauthors": [
+            "Cha Zhang",
+            "Pei Yin",
+            "Yong Rui",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6213,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "On Local Matching of Free-Form Curves",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6217,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Tracking and grouping 3D line segments",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhengyou Zhang",
+            "Olivier D. Faugeras"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6072,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Camera Calibration With Three Noncollinear Points Under Special Motions",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE Transactions on Image Processing",
+        "coauthors": [
+            "Zijian Zhao",
+            "Yuncai Liu",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6157,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "A Unified Theory of Uncalibrated Stereo for Both Perspective and Affine Cameras",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of Mathematical Imaging and Vision",
+        "coauthors": [
+            "Zhengyou Zhang",
+            "Gang Xu"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6081,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Activity Recognition Using A Combination of Category Components And Local Models for Video Surveillance",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE Transactions on Circuits and Systems for Video Technology",
+        "coauthors": [
+            "Weiyao Lin",
+            "Ming-Ting Sun",
+            "Radha Poovendran",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6166,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Modeling Geometric Structure and Illumination Variation of a Scene from Real Images",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6011,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Generation of documents from images",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Merle Michael Robinson",
+            "Matthieu T. Uyttendaele",
+            "Zhengyou Zhang",
+            "Patrice Y. Simard"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6200,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "A Comparative Study of 3D Motion Estimation",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhengyou Zhang",
+            "Olivier D. Faugeras"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5996,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Distinguishing live faces from flat surfaces",
+        "organization": "Tencent Robotics X",
+        "abstract": "Multiple images including a face presented by a user are accessed. One or more determinations are made based on the multiple images, such as a determination of whether the face included in the multiple images is a 3-dimensional structure or a flat surface and/or a determination of whether motion is present in one or more face components (e.g., eyes or mouth). If it is determined that the face included in the multiple images is a 3-dimensional structure or that that motion is present in the one or more face components, then an indication is provided that the user can be authenticated. However, if it is determined that the face included in the multiple images is a flat surface or that motion is not present in the one or more face components, then an indication is provided that the user cannot be authenticated.",
+        "email": "",
+        "conf": "U.S. Patent",
+        "coauthors": [
+            "Zhengyou Zhang",
+            "Qin Cai",
+            "Pieter Kasselman",
+            "Arthur H. Baker"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6068,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Boosted multi-task learning for face verification with applications to web image and video search",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "Proceedings / CVPR IEEE Computer Society Conference on Computer Vision and Pattern Recognition. IEEE Computer Society Conference on Computer Vision and Pattern Recognition",
+        "coauthors": [
+            "Xiaogang Wang",
+            "Cha Zhang",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6047,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "AIR conferencing: Accelerated instant replay for in-meeting multimodal review",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Kori Inkpen",
+            "Rajesh Hegde",
+            "Sasa Junuzovic",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6194,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "A 3D World Model Builder with a Mobile Robot",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "The International Journal of Robotics Research",
+        "coauthors": [
+            "Zhengyou Zhang",
+            "Olivier D. Faugeras"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6052,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Group Event Detection With a Varying Number of Group Members for Video Surveillance",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE Transactions on Circuits and Systems for Video Technology",
+        "coauthors": [
+            "Weiyao Lin",
+            "Ming-Ting Sun",
+            "Radha Poovendran",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6177,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "A robust technique for matching two uncalibrated images",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+        "coauthors": [
+            "Zhengyou Zhang",
+            "R. Deriche",
+            "Olivier D. Faugeras"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5994,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Improving multiview face detection with multi-task deep convolutional neural networks",
+        "organization": "Tencent Robotics X",
+        "abstract": "Multiview face detection is a challenging problem due to dramatic appearance changes under various pose, illumination and expression conditions. In this paper, we present a multi-task deep learning scheme to enhance the detection performance. More specifically, we build a deep convolutional neural network that can simultaneously learn the face/nonface decision, the face pose estimation problem, and the facial landmark localization problem. We show that such a multi-task learning scheme can further improve the classifier's accuracy. On the challenging FDDB data set, our detector achieves over 3% improvement in detection rate at the same false positive rate compared with other state-of-the-art methods.",
+        "email": "",
+        "conf": "IEEE Winter Conference on Applications of Computer Vision",
+        "coauthors": [
+            "Cha Zhang",
+            "Zhengyou Zhang"
+        ],
+        "keywords": "Face,Detectors,Face detection,Neural networks,Feature extraction,Training,Estimation"
+    },
+    {
+        "id": 6012,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Robust Part-Based Hand Gesture Recognition Using Kinect Sensor",
+        "organization": "Tencent Robotics X",
+        "abstract": "The recently developed depth sensors, e.g., the Kinect sensor, have provided new opportunities for human-computer interaction (HCI). Although great progress has been made by leveraging the Kinect sensor, e.g., in human body tracking, face recognition and human action recognition, robust hand gesture recognition remains an open problem. Compared to the entire human body, the hand is a smaller object with more complex articulations and more easily affected by segmentation errors. It is thus a very challenging problem to recognize hand gestures. This paper focuses on building a robust part-based hand gesture recognition system using Kinect sensor. To handle the noisy hand shapes obtained from the Kinect sensor, we propose a novel distance metric, Finger-Earth Mover's Distance (FEMD), to measure the dissimilarity between hand shapes. As it only matches the finger parts while not the whole hand, it can better distinguish the hand gestures of slight differences. The extensive experiments demonstrate that our hand gesture recognition system is accurate (a 93.2% mean accuracy on a challenging 10-gesture dataset), efficient (average 0.0750 s per frame), robust to hand articulations, distortions and orientation or scale changes, and can work in uncontrolled environments (cluttered backgrounds and lighting conditions). The superiority of our system is further demonstrated in two real-life HCI applications.",
+        "email": "",
+        "conf": "IEEE Transactions on Multimedia",
+        "coauthors": [
+            "Zhou Ren",
+            "Junsong Yuan",
+            "Jingjing Meng",
+            "Zhengyou Zhang"
+        ],
+        "keywords": "Finger-Earth Mover's Distance,hand gesture recognition,human-computer interaction,Kinect system"
+    },
+    {
+        "id": 6109,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Multi-sensory speech processing: incorporating automatically extracted hidden dynamic information",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Amar Subramanya",
+            "Li Deng",
+            "Zicheng Liu",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6113,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Real-time whiteboard capture and processing using a video camera for teleconferencing",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "Acoustics Speech and Signal Processing 1988. ICASSP-88. 1988 International Conference on",
+        "coauthors": [
+            "Li-wei He",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6103,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Automatic Extraction of Objects of Interest by Minimizing a Local-Global Variational Energy",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Gang Hua",
+            "Zicheng Liu",
+            "Zhengyou Zhang",
+            "Ying Wu"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5991,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Virtual audio environment for multidimensional conferencing",
+        "organization": "Tencent Robotics X",
+        "abstract": "The disclosed architecture employs signal processing techniques to provide audio perception only, or audio perception that matches the visual perception. This also provides spatial audio reproduction for multiparty teleconferencing such that the teleconferencing participants perceive themselves as if they were sitting in the same room. The solution is based on the premise that people perceive sounds as a reconstructed wavefront, and hence, the wavefronts are used to provide the spatial perceptual cues. The differences between the spatial perceptual cues derived from the reconstructed wavefront of sound waves and the ideal wavefront of sound waves form an objective metric for spatial perceptual quality, and provide the means of evaluating the overall system performance. Additionally, compensation filters are employed to improve the spatial perceptual quality of stereophonic systems by optimizing the objective metrics.",
+        "email": "",
+        "conf": "U.S. Patent",
+        "coauthors": [
+            "Wei-Ge Chen",
+            "Zhengyou Zhang",
+            "Yoomi Hur"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6188,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Le Probleme de la mise en correspondance : l'etat de l'art",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6063,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Highly realistic audio spatialization for multiparty conferencing using headphones",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Wei-Ge Chen",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6175,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Epipolar Geometry in Stereo",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6104,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Automatic segmentation of objects of interest from an image",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Gang Hua",
+            "Zicheng Liu",
+            "Zhengyou Zhang",
+            "Eecs Dept"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6064,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Report on the IEEE 8th International Conference on Development and Learning (ICDL-2009)",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE Transactions on Autonomous Mental Development",
+        "coauthors": [
+            "Jochen Triesch",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6195,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Finding Clusters and Planes from 3D Line Segments with Application to 3D Motion Determination.",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "Lecture Notes in Computer Science",
+        "coauthors": [
+            "Zhengyou Zhang",
+            "Olivier D. Faugeras"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5990,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Harmonicity-based single-channel speech quality estimation",
+        "organization": "Tencent Robotics X",
+        "abstract": "Speech quality estimation technique embodiments are described which generally involve estimating the human speech quality of an audio frame in a single-channel audio signal. A representation of a harmonic component of the frame is synthesized and used to compute a non-harmonic component of the frame. The synthesized harmonic component representation and the non-harmonic component are then used to compute a harmonic to non-harmonic ratio (HnHR). This HnHR is indicative of the quality of a user's speech and is designated as an estimate of the speech quality of the frame. In one implementation, the HnHR is used to establish a minimum speech quality threshold below which the quality of the user's speech is considered unacceptable. Feedback to the user is then provided based on whether the HnHR falls below the threshold.",
+        "email": "",
+        "conf": "U.S. Patent",
+        "coauthors": [
+            "Wei-Ge Chen",
+            "Zhengyou Zhang",
+            "Jaemo Yang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6018,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Multiple category learning for training classifiers",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Cha Zhang",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6147,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "VISUAL PANEL: From an ordinary paper to a wireless and mobile input device",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Ying Wu",
+            "Ying Shan",
+            "Zhengyou Zhang",
+            "Steven Shafer"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6121,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Office presence detection using multimodal context information",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "Acoustics Speech and Signal Processing 1988. ICASSP-88. 1988 International Conference on",
+        "coauthors": [
+            "Xiao Huang",
+            "Juyang Weng",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6190,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Strategies for Tracking Tokens in a Cluttered Scene",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6207,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Hypothesize-and-Verify Method for Two 3D View Motion Analysis",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhengyou Zhang",
+            "Olivier D. Faugeras"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6102,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Speech Modelingwith Magnitude-Normalized Complex Spectra and Its Application to Multisensory Speech Enhancement",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Amar Subramanya",
+            "Zhengyou Zhang",
+            "Zicheng Liu",
+            "Alex Acero"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6174,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Motion of an uncalibrated stereo rig: Self-calibration and metric reconstruction",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE Transactions on Robotics and Automation",
+        "coauthors": [
+            "Zhengyou Zhang",
+            "Quang-Tuan Luong",
+            "Olivier D. Faugeras"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6164,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Understanding the Relationship Between the Optimization Criteria in Two-View Motion Analysis",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6055,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Action recognition based on a bag of 3D points",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Wanqing Li",
+            "Zhengyou Zhang",
+            "Zicheng Liu"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6151,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Corner guided curve matching and its application to scene reconstruction",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "Proceedings / CVPR IEEE Computer Society Conference on Computer Vision and Pattern Recognition. IEEE Computer Society Conference on Computer Vision and Pattern Recognition",
+        "coauthors": [
+            "Ying Shan",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6045,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Face geometry and appearance modeling. Concepts and applications",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zicheng Liu",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6043,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Hierarchical Filtered Motion for Action Recognition in Crowded Videos",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE Transactions on Systems Man and Cybernetics Part C (Applications and Reviews)",
+        "coauthors": [
+            "Yingli Tian",
+            "Liangliang Cao",
+            "Zicheng Liu",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6215,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Tracking 3D line segments: new developments",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhengyou Zhang",
+            "Olivier D. Faugeras"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6110,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Automatic Head-size Equalization in Panorama Images for Video Conferencing",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Ya Chang",
+            "Ross Cutler",
+            "Zicheng Liu",
+            "Matthew Turk"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6219,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Motion analysis of two stereo views and its applications",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhengyou Zhang",
+            "Olivier D. Faugeras"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6123,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Multi-sensory microphones for robust speech detection enhancement and recognition",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "Acoustics Speech and Signal Processing 1988. ICASSP-88. 1988 International Conference on",
+        "coauthors": [
+            "Zhengyou Zhang",
+            "Zicheng Liu",
+            "Michael Jack Sinclair",
+            "Yanli Zheng"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6145,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Image-Based Modeling of Objects and Human Faces",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6162,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "A New Multistage Approach to Motion and Structure Estimation by Gradually Enforcing Geometric Constraints",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6226,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "VISUAL PANEL: Toward A Vision-Based Mobile Input Interface For Anywhere",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Ying Wu",
+            "Ying Shan",
+            "Zhengyou Zhang",
+            "Steven Shafer"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6227,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Object modeling from a casual collection of images",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhengyou Zhang",
+            "Ying Shan",
+            "Charles T. Loop"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6031,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Microsoft Kinect Sensor and Its Effect",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE Multimedia",
+        "coauthors": [
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6089,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Exploring Discriminative Learning for Text-Independent Speaker Recognition",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Ming Liu",
+            "Zhengyou Zhang",
+            "Mark Hasegawa-Johnson",
+            "Thomas S. Huang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6173,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "A New Multistage Approach to Motion and Structure Estimation: From Essential Parameters to Euclidean Motion Via Fundamental Matrix",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhengyou Zhang",
+            "Projet Robotvis"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6183,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Finding Planes and Clusters of Objects from 3D Line Segments with Application to 3D Motion Determination",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "CVGIP Image Understanding",
+        "coauthors": [
+            "Zhengyou Zhang",
+            "Olivier D. Faugeras"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6192,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "A Stereovision-Based Navigation System for a Mobile Robot",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "E De Recherche",
+            "En Informatique",
+            "A Stereovision-based",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6076,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Face Relighting from a Single Image under Arbitrary Unknown Lighting Conditions",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE Transactions on Software Engineering",
+        "coauthors": [
+            "Yang Wang",
+            "Lei Zhang",
+            "Zicheng Liu",
+            "Dimitris Samaras"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5988,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "WWN: Integration with coarse-to-fine supervised and reinforcement learning",
+        "organization": "Tencent Robotics X",
+        "abstract": "The cost of autonomous development is substantial. Although supervised learning is effective, the cost demand on teachers is often too high to be constantly applied. Reinforcement learning can take advantage of physical reality due to environmental feedback and inspections. Information required in reinforcement learning is not as specific as is required in supervised learning. Integration theories, methods, and analysis of these two learning strategies are still rare in the literature although such integration has been well known in the animal kingdom. Based on our prior work on a general purpose framework called Developmental Network and its embodiment Where-What-Network, we present our theory, method, and analysis for integration of supervised learning and reinforcement learning in this paper. Different from all other known work on reinforcement learning, this DN framework uses fully emergent representation to avoid the brittleness and task-specific representations. Central in the integration is not just to provide a freedom for the teacher to choose the mode of learning, which is necessary especially when the physical non-living world is an implicit teacher, but the mechanism of scaffolding. In our experiment the scaffolding is reflected by allowing the location motor(LM) neurons to gradually refine representation through splitting(mitosis) in a coarse to fine scheme. We report our experimental work in a very challenging learning setting: both object and backgrounds are unknown(cluttered settings) and concepts(e.g. location and type) emerge from agent-environment interactions, instead of rigidly handcrafted.",
+        "email": "",
+        "conf": "International Joint Conference on Neural Networks (IJCNN)",
+        "coauthors": [
+            "Zejia Zheng",
+            "Juyang Weng",
+            "Zhengyou Zhang"
+        ],
+        "keywords": "Neurons,Learning (artificial intelligence),Supervised learning,Training,Brain modeling,Computational modeling"
+    },
+    {
+        "id": 5981,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Estimating engagement of consumers of presented content",
+        "organization": "Tencent Robotics X",
+        "abstract": "Technologies described herein relate to estimating engagement of a person with respect to content being presented to the person. A sensor outputs a stream of data relating to the person as the person is consuming the content. At least one feature is extracted from the stream of data, and a level of engagement of the person is estimated based at least in part upon the at least one feature. A computing function is performed based upon the estimated level of engagement of the person.",
+        "email": "",
+        "conf": "U.S. Patent",
+        "coauthors": [
+            "Javier Hernandez Rivera",
+            "Zicheng Liu",
+            "Geoff Hulten",
+            "Michael Conrad",
+            "Kyle Krum",
+            "David DeBarr",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6137,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "A Robust and Fast Face Modeling System",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "Lecture Notes in Computer Science",
+        "coauthors": [
+            "Zicheng Liu",
+            "Zhengyou Zhang",
+            "Dennis Adler",
+            "Michael Cohen"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6171,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Parameter Estimation Techniques: A Tutorial with Application to Conic Fitting",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "Image and Vision Computing",
+        "coauthors": [
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5964,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Active Lighting for Video Conferencing",
+        "organization": "Tencent Robotics X",
+        "abstract": "In consumer video conferencing, lighting conditions are usually not ideal thus the image qualities are poor. Lighting affects image quality on two aspects: brightness and skin tone. While there has been much research on improving the brightness of the captured images including contrast enhancement and noise removal (which can be thought of as components for brightness improvement), little attention has been paid to the skin tone aspect. In contrast, it is a common knowledge for professional stage lighting designers that lighting affects not only the brightness but also the color tone which plays a critical role in the perceived look of the host and the mood of the stage scene. Inspired by stage lighting design, we propose an active lighting system which automatically adjusts the lighting so that the image looks visually appealing. The system consists of computer controllable light emitting diode light sources of different colors so that it improves not only the brightness but also the skin tone of the face. Given that there is no quantitative formula on what makes a good skin tone, we use a data driven approach to learn a good skin tone model from a collection of photographs taken by professional photographers. We have developed a working system and conducted user studies to validate our approach.",
+        "email": "",
+        "conf": "IEEE Transactions on Circuits and Systems for Video Technology",
+        "coauthors": [
+            "Mingxuan Sun",
+            "Zicheng Liu",
+            "Jingyu Qiu",
+            "Zhengyou Zhang",
+            "Michael Jack Sinclair"
+        ],
+        "keywords": "Active lighting,image quality,skin tone,video conference,visual perception"
+    },
+    {
+        "id": 6159,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Head pose determination from one image using a generic model",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "I. Shimizu",
+            "Zhengyou Zhang",
+            "Shigeru Akamatsu",
+            "K. Deguchi"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6149,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "A Progressive Scheme for Stereo Matching",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhengyou Zhang",
+            "Ying Shan"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6180,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Segment-Based Structure from an Imprecisely Located Moving Camera",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "J. M. Mart'inez",
+            "Zhengyou Zhang",
+            "Luis Montano"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6205,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Modeling and Estimating Motion Kinematics",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhengyou Zhang",
+            "Olivier D. Faugeras"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6017,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Boosted face verification",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Cha Zhang",
+            "Xiaogang Wang",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5986,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Facial expression tracking from head-mounted partially observing cameras",
+        "organization": "Tencent Robotics X",
+        "abstract": "Head-mounted displays (HMDs) have gained more and more interest recently. They can enable people to communicate with each other from anywhere, at anytime. However, since most HMDs today are only equipped with cameras pointing outwards, the remote party would not be able to see the user wearing the HMD. In this paper, we present a system for facial expression tracking based on head-mounted, inward looking cameras, such that the user can be represented with animated avatars at the remote party. The main challenge is that the cameras can only observe partial faces since they are very close to the face. We experiment with multiple machine learning algorithms to estimate facial expression parameters based on training data collected with the assistance of a Kinect depth sensor. Our results show that we can reliably track people's facial expression even from very limited view angles of the cameras.",
+        "email": "",
+        "conf": "IEEE International Conference on Multimedia and Expo (ICME)",
+        "coauthors": [
+            "Bernardino Romera-Paredes",
+            "Cha Zhang",
+            "Zhengyou Zhang"
+        ],
+        "keywords": "Facial expression tracking,head-mounted display,Kinect,machine learning,convolutional neural networks"
+    },
+    {
+        "id": 5982,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Auxiliary Training Information Assisted Visual Recognition",
+        "organization": "Tencent Robotics X",
+        "abstract": "In the realm of multi-modal visual recognition, the reliability of the data acquisition system is often a concern due to the increased complexity of the sensors. One of the major issues is the accidental loss of one or more sensing channels, which poses a major challenge to current learning systems. In this paper, we examine one of these specific missing data problems, where we have a main modality/view along with an auxiliary modality/view present in the training data, but merely the main modality/view in the test data. To effectively leverage the auxiliary information to train a stronger classifier, we propose a collaborative auxiliary learning framework based on a new discriminative canonical correlation analysis. This framework reveals a common semantic space shared across both modalities/views through enforcing a series of nonlinear projections. Such projections automatically embed the discriminative cues hidden in both modalities/views into the common space, and better visual recognition is thus achieved on the test data. The efficacy of our proposed auxiliary learning approach is demonstrated through four challenging visual recognition tasks with different kinds of auxiliary information.",
+        "email": "",
+        "conf": "IPSJ Transactions on Computer Vision and Applications",
+        "coauthors": [
+            "Qilin Zhang",
+            "Gang Hua",
+            "Wei Liu",
+            "Zicheng Liu",
+            "Zhengyou Zhang"
+        ],
+        "keywords": "collaborative auxiliary learning, canonical correlation, discriminative learning"
+    },
+    {
+        "id": 6050,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Boosting-Based Face Detection and Adaptation",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Cha Zhang",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6013,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Real-time high-resolution sparse voxelization with application to image-based modeling",
+        "organization": "Tencent Robotics X",
+        "abstract": "We present a system for real-time, high-resolution, sparse voxelization of an image-based surface model. Our approach consists of a coarse-to-fine voxel representation and a collection of parallel processing steps. Voxels are stored as a list of unsigned integer triples. An oracle kernel decides, for each voxel in parallel, whether to keep or cull its voxel from the list based on an image consistency criterion of its projection across cameras. After a prefix sum scan, kept voxels are subdivided and the process repeats until projected voxels are pixel size. These voxels are drawn to a render target and shaded as a weighted combination of their projections into a set of calibrated RGB images. We apply this technique to the problem of smooth visual hull reconstruction of human subjects based on a set of live image streams. We demonstrate that human upper body shapes can be reconstructed to giga voxel resolution at greater than 30 fps on modern graphics hardware.",
+        "email": "",
+        "conf": "High-Performance Graphics Conference",
+        "coauthors": [
+            "Charles T. Loop",
+            "Cha Zhang",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6126,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Model-based fusion of bone and air sensors for speech enhancement and robust speech recognition",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "John R. Hershey",
+            "Trausti Kristjansson",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6084,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Human activity recognition for video surveillance",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Weiyao Lin",
+            "Ming-Ting Sun",
+            "Radha Poovandran",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6141,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Estimating the Fundamental Matrix by Transforming Image Points in Projective Space",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "Computer Vision and Image Understanding",
+        "coauthors": [
+            "Zhengyou Zhang",
+            "Charles T. Loop"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6221,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Tracking and Motion Estimation in a Sequence of Stereo Frames.",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhengyou Zhang",
+            "Olivier D. Faugeras"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6139,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Expressive expression mapping with ratio images",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zicheng Liu",
+            "Ying Shan",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6170,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "A Stereovision System for a Planetary Rover: Calibration Correlation Registration and Fusion",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "Machine Vision and Applications",
+        "coauthors": [
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5977,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Recovering dis-occluded areas using temporal information integration",
+        "organization": "Tencent Robotics X",
+        "abstract": "A temporal information integration dis-occlusion system and method for using historical data to reconstruct a virtual view containing an occluded area. Embodiments of the system and method use temporal information of the scene captured previously to obtain a total history. This total history is warped onto information captured by a camera at a current time in order to help reconstruct the dis-occluded areas. The historical data (or frames) from the total history match only a portion of the frames contained in the captured information. This warping yields warped history information. Warping is performed by using one of two embodiments to match points in an estimation of the current information to points in the captured information. Next, regions of current information are split using a classifier. The warped history information and the captured information then are merged to obtain an estimate for the current information and the reconstructed virtual view.",
+        "email": "",
+        "conf": "U.S. Patent",
+        "coauthors": [
+            "Philip Andrew Chou",
+            "Cha Zhang",
+            "Zhengyou Zhang",
+            "Shujie Liu"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6181,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "A Robust Technique for Matching Two Uncalibrated Images Through the Recovery of the Unknown Epipolar Geometry",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "Artificial Intelligence",
+        "coauthors": [
+            "Zhengyou Zhang",
+            "R. Deriche",
+            "Olivier D. Faugeras",
+            "Quang-Tuan Luong"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6075,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Requirements and recommendations for an enhanced meeting viewing experience",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Sasa Junuzovic",
+            "Rajesh Hegde",
+            "Zhengyou Zhang",
+            "Cha Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5983,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Can Visual Recognition Benefit from Auxiliary Information in Training?",
+        "organization": "Tencent Robotics X",
+        "abstract": "We examine an under-explored visual recognition problem, where we have a main view along with an auxiliary view of visual information present in the training data, but merely the main view is available in the test data. To effectively leverage the auxiliary view to train a stronger classifier, we propose a collaborative auxiliary learning framework based on a new discriminative canonical correlation analysis. This framework reveals a common semantic space shared across both views through enforcing a series of nonlinear projections. Such projections automatically embed the discriminative cues hidden in both views into the common space, and better visual recognition is thus achieved on the test data that stems from only the main view. The efficacy of our proposed auxiliary learning approach is demonstrated through three challenging visual recognition tasks with different kinds of auxiliary information.",
+        "email": "",
+        "conf": "Asian Conference on Computer Vision",
+        "coauthors": [
+            "Qilin Zhang",
+            "Gang Hua",
+            "Wei Liu",
+            "Zicheng Liu",
+            "Zhengyou Zhang"
+        ],
+        "keywords": "Main View, Semantic Consistency, Kernel Canonical Correlation Analysis, Scene Dataset, Label Training Sample "
+    },
+    {
+        "id": 6225,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Analysis Of A Sequence Of Stereo Scenes Containing Multiple Moving Objects Using Rigidity Constraints.",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhengyou Zhang",
+            "Olivier D. Faugeras",
+            "Nicholas Ayache"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6143,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Determining Reflectance Parameters and Illumination Distribution from a Sparse Set of Images for View-dependent Image Synthesis.",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Ko Nishino",
+            "Zhengyou Zhang",
+            "Katsushi Ikeuchi"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6036,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "An effecive night video enhancement algorithm",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Yunbo Rao",
+            "Zhongho Chen",
+            "Ming-Ting Sun",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6196,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Three-dimensional motion computation and object segmentation in a long sequence of stereo frames",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "International Journal of Computer Vision",
+        "coauthors": [
+            "Zhengyou Zhang",
+            "Olivier D. Faugeras"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6127,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Air- and bone-conductive integrated microphones for robust speech detection and enhancement",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Yanli Zheng",
+            "Zicheng Liu",
+            "Zhengyou Zhang",
+            "Xuedong Huang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6030,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Introduction to the Special Issue on Mobile Vision",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "International Journal of Computer Vision",
+        "coauthors": [
+            "Gang Hua",
+            "Yun Fu",
+            "Matthew Turk",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6039,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Low-complexity near-lossless coding of depth maps from kinect-like depth cameras",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Sanjeev Mehrotra",
+            "Zhengyou Zhang",
+            "Qin Cai",
+            "Philip A. Chou"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6095,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Whiteboard Scanning and Image Enhancement",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "Digital Signal Processing",
+        "coauthors": [
+            "Zhengyou Zhang",
+            "Li-wei He"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6087,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Head-Size Equalization for Improved Visual Perception in Video Conferencing",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE Transactions on Multimedia",
+        "coauthors": [
+            "Zicheng Liu",
+            "Michael Cohen",
+            "Deepti Bhatnagar",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6155,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "What can be determined from a full and a weak perspective image?",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhengyou Zhang",
+            "Padmanabhan Anandan",
+            "Heung-Yeung Shum"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5975,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Handling Occlusion and Large Displacement Through Improved RGB-D Scene Flow Estimation",
+        "organization": "Tencent Robotics X",
+        "abstract": "The accuracy of scene flow is restricted by several challenges such as occlusion and large displacement motion. When occlusion happens, the positions inside the occluded regions lose their corresponding counterparts in preceding and succeeding frames. Large displacement motion will increase the complexity of motion modeling and computation. Moreover, occlusion and large displacement motion are highly related problems in scene flow estimation, e.g., large displacement motion often leads to considerably occluded regions in the scene. An improved dense scene flow method based on red-green-blue-depth (RGB-D) data is proposed in this paper. To handle occlusion, we model the occlusion status for each point in our problem formulation, and jointly estimate the scene flow and occluded regions. To deal with large displacement motion, we employ an over-parameterized scene flow representation to model both the rotation and translation components of the scene flow, since large displacement motion cannot be well approximated using translational motion only. Furthermore, we employ a two-stage optimization procedure for this overparameterized scene flow representation. In the first stage, we propose a new RGB-D PatchMatch method, which is mainly applied in the RGB-D image space to reduce the computational complexity introduced by the large displacement motion. According to the quantitative evaluation based on the Middlebury data set, our method outperforms other published methods. The improved performance is also comprehensively confirmed on the real data acquired by Kinect sensor.",
+        "email": "",
+        "conf": "IEEE Transactions on Circuits and Systems for Video Technology",
+        "coauthors": [
+            "Yucheng Wang",
+            "Jian Zhang",
+            "Zicheng Liu",
+            "Qiang Wu",
+            "Philip A Chou",
+            "Zhengyou Zhang",
+            "Yunde Jia"
+        ],
+        "keywords": "Large displacement motion,occlusion,red-green-blue-depth (RGB-D) data,rotation,scene flow"
+    },
+    {
+        "id": 6161,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Determining the Epipolar Geometry and its Uncertainty: A Review",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "International Journal of Computer Vision",
+        "coauthors": [
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6070,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Group Event Detection for Video Surveillance.",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Weiyao Lin",
+            "Ming-Ting Sun",
+            "Radha Poovendran",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6218,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Motion Analysis from a Sequence of Stereo Frames and its Applications",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6028,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Virtual View Reconstruction Using Temporal Information",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Shujie Liu",
+            "Philip A. Chou",
+            "Cha Zhang",
+            "Chang-Wen Chen"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6038,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Interpolation of combined head and room impulse response for audio spatialization",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Sanjeev Mehrotra",
+            "Wei-Ge Chen",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5966,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Autonomous Mental Development: A New Interdisciplinary Transactions for Natural and Artificial Intelligence",
+        "organization": "Tencent Robotics X",
+        "abstract": "Although some baby animals can get up and walk within hours after birth, what a human child learns during the first two years of life easily exceeds what those animals learn in their entire lifetime. Furthermore, besides the explosive growth that occurs during this period, it is now well documented that a human brain continues its life-long development and learning [1]. The human brain is one of the most complex systems we know of in the world, composed of about 100 billion strongly interconnected neurons. A single neuron may have more than 10 000 connections to other neurons. For thousands of years, the mind has been the center of myths and human beings have endeavored to understand our own brain and the mind arising from it.",
+        "email": "",
+        "conf": "IEEE Transactions on Autonomous Mental Development",
+        "coauthors": [
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6054,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Real time head pose tracking from multiple cameras with a generic model",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Qin Cai",
+            "Aswin C. Sankaranarayanan",
+            "Qing Zhang",
+            "Zicheng Liu"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6009,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Virtual sound source positioning",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhengyou Zhang",
+            "James D. Johnston"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6178,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Motion and Structure of Four Points from One Motion of a Stereo Rig with Unknown Extrinsic Parameters",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+        "coauthors": [
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6059,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Human action recognition with expandable graphical models",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Wanqing Li",
+            "Zhengyou Zhang",
+            "Zicheng Liu",
+            "Philip O. Ogunbona"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6033,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Modeling and representing events in multimedia",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Vasileios Mezaris",
+            "Ansgar Scherp",
+            "Ramesh Jain",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6040,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "A novel see-through screen based on weave fabrics",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Cha Zhang",
+            "Ruigang Yang",
+            "Timothy Large",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6204,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Multiple Object Motions",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhengyou Zhang",
+            "Olivier D. Faugeras"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6083,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Taylor Expansion Based Classifier Adaptation: Application to Person Detection",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "Proceedings / CVPR IEEE Computer Society Conference on Computer Vision and Pattern Recognition. IEEE Computer Society Conference on Computer Vision and Pattern Recognition",
+        "coauthors": [
+            "Cha Zhang",
+            "Raffay Hamid",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6035,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Robust hand gesture recognition based on finger-earth mover's distance with a commodity depth camera",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhou Ren",
+            "Junsong Yuan",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6179,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Estimating Motion and Structure from Correspondences of Line Segments Between Two Perspective Images",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+        "coauthors": [
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6042,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Towards ideal window layouts for multi-party gaze-aware desktop videoconferencing.",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Sasa Junuzovic",
+            "Kori Inkpen",
+            "Rajesh Hegde",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6061,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Audio-visual analysis for event understanding",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5970,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Camera calibration: a personal retrospective",
+        "organization": "Tencent Robotics X",
+        "abstract": "Computer vision is a key branch of artificial intelligence, aiming at understanding the surrounding environment from the visual information captured by cameras. 3D computer vision is a subfield of computer vision that focuses on extracting 3D metric information from 2D images. This is a very challenging task since what we have in an image is the projection of a 3D scene, whose depth information is lost during image formation (image projection). However, it has many important applications such as the following:  Robot/Car/Drone/Visually-impaired Navigation. 3D information is needed in this application for obstacle avoidance, free space determination, and pose estimation.  Virtual/Augmented Reality (VR/AR). 3D computer vision is crucial for VR/AR. This includes camera pose estimation for head-mounted displays, 3D modeling for VR/AR contents, and seamless integration of virtual objects into the real world.  Human-Computer/Robot Interaction. 3D computer vision allows the computer/robot to see the user, understand the user’s non-verbal body language (gesture, body posture, facial expression, etc.), and interact in natural ways such as gesture and speech, instead of the traditional keyboard and mouse.",
+        "email": "",
+        "conf": "Machine Vision and Applications",
+        "coauthors": [
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6223,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "A preliminary investigation of the problem of determining ego- and object motions from stereo",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Olivier D. Faugeras",
+            "Nicholas Ayache",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6019,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Recognizing actions of animate objects in video",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhengyou Zhang",
+            "Wanqing Li",
+            "Zicheng Liu"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5984,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Completed Dense Scene Flow in RGB-D Space",
+        "organization": "Tencent Robotics X",
+        "abstract": "Conventional scene flow containing only translational vectors is not able to model 3D motion with rotation properly. Moreover, the accuracy of 3D motion estimation is restricted by several challenges such as large displacement, noise, and missing data (caused by sensing techniques or occlusion). In terms of solution, there are two kinds of approaches: local approaches and global approaches. However, local approaches can not generate smooth motion field, and global approaches is difficult to handle large displacement motion. In this paper, a completed dense scene flow framework is proposed, which models both rotation and translation for general motion estimation. It combines both a local method and a global method considering their complementary characteristics to handle large displacement motion and enforce smoothness respectively. The proposed framework is applied on the RGB-D image space where the computation efficiency is further improved. According to the quantitative evaluation based on Middlebury dataset, our method outperforms other published methods. The improved performance is further confirmed on the real data acquired by Kinect sensor.",
+        "email": "",
+        "conf": "Asian Conference on Computer Vision",
+        "coauthors": [
+            "Yucheng Wang",
+            "Jian Zhang",
+            "Zicheng Liu",
+            "Qiang Wu",
+            "Philip Chou",
+            "Zhengyou Zhang",
+            "Yunde Jia"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6082,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Meta-tag propagation by co-training an ensemble classifier for improving image search relevance",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Aayush Sharma",
+            "Gang Hua",
+            "Zicheng Liu",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6172,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "On the epipolar geometry between two images with lens distortion",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6112,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Leakage Model and Teeth Clack Removal for Air and Bone-Conductive Integrated Microphones",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "Acoustics Speech and Signal Processing 1988. ICASSP-88. 1988 International Conference on",
+        "coauthors": [
+            "Zicheng Liu",
+            "Amar Subramanya",
+            "Zhengyou Zhang",
+            "Alex Acero"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6116,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Nonlinear information fusion in multi-sensor processing - extracting and exploiting hidden dynamics of speech captured by a bone-conductive microphone",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "li Deng",
+            "Zicheng Liu",
+            "Zhengyou Zhang",
+            "A. Acero"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6115,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Visual echo cancellation in a projector-camera-whiteboard system",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "Proceedings / ICIP ... International Conference on Image Processing",
+        "coauthors": [
+            "Manning Zhou",
+            "Zhengyou Zhang",
+            "Tainyue Huang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6120,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Camera calibration with one-dimensional objects",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+        "coauthors": [
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5995,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Multi-modal gender recognition including depth data",
+        "organization": "Tencent Robotics X",
+        "abstract": "Gender recognition is performed using two or more modalities. For example, depth image data and one or more types of data other than depth image data is received. The data pertains to a person. The different types of data are fused together to automatically determine gender of the person. A computing system can subsequently interact with the person based on the determination of gender.",
+        "email": "",
+        "conf": "U.S. Patent",
+        "coauthors": [
+            "Zhengyou Zhang",
+            "Alex Aben-Athar Kipman"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5962,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Jointly Learning Visual Poses and Pose Lexicon for Semantic Action Recognition",
+        "organization": "Tencent Robotics X",
+        "abstract": "A novel method for semantic action recognition through learning a pose lexicon is presented in this paper. A pose lexicon comprises a set of semantic poses, a set of visual poses, and a probabilistic mapping between the visual and semantic poses. This paper assumes that both the visual poses and mapping are hidden and proposes a method to simultaneously learn a visual pose model that estimates the likelihood of an observed video frame being generated from hidden visual poses, and a pose lexicon model establishes the probabilistic mapping between the hidden visual poses and the semantic poses parsed from textual instructions. Specifically, the proposed method consists of two-level hidden Markov models. One level represents the alignment between the visual poses and semantic poses. The other level represents a visual pose sequence, and each visual pose is modeled as a Gaussian mixture. An expectation-maximization algorithm is developed to train a pose lexicon. With the learned lexicon, action classification is formulated as a problem of finding the maximum posterior probability of a given sequence of video frames that follows a given sequence of semantic poses, constrained by the most likely visual pose and the alignment sequences. The proposed method was evaluated on MSRC-12, WorkoutSU-10, WorkoutUOW-18, Combined-15, Combined-17, and Combined-50 action datasets using cross-subject, cross-dataset, zero-shot, and seen/unseen protocols.",
+        "email": "zhang@microsoft.com",
+        "conf": "IEEE Transactions on Circuits and Systems for Video Technology",
+        "coauthors": [
+            "Lijuan Zhou",
+            "Wanqing Li",
+            "Philip O. Ogunbona",
+            "Zhengyou Zhang"
+        ],
+        "keywords": "Semantic action recognition,pose lexicon,visual pose"
+    },
+    {
+        "id": 6189,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Point matching for registration of free-form surfaces",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6097,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Real-Time Whiteboard Capture and Processing Using a Video Camera for Remote Collaboration",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE Transactions on Multimedia",
+        "coauthors": [
+            "L.-W. He",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6211,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "A Complete Navigation System for a Mobile Robot Using Real-Time Stereovision and the Delaunay Triangulation.",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Michel Buffa",
+            "Olivier D. Faugeras",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6146,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "A Flexible New Technique for Camera Calibration",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+        "coauthors": [
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6002,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Depth Distortion",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6132,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "New Measurements and Corner-Guidance for Curve Matching with Probabilistic Relaxation",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "International Journal of Computer Vision",
+        "coauthors": [
+            "Ying Shan",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6165,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Euclidean Structure from Uncalibrated Images Using Fuzzy Domain Knowledge: Application to Facial Images Synthesis.",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhengyou Zhang",
+            "Katsunori Isono",
+            "Shigeru Akamatsu"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6026,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Impact Factor and Outstanding Paper Awards",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE Transactions on Autonomous Mental Development",
+        "coauthors": [
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6041,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Realistic audio in immersive video conferencing",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Sanjeev Mehrotra",
+            "Wei-Ge Chen",
+            "Zhengyou Zhang",
+            "Philip A. Chou"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6107,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "A compact multi-sensor headset for hands-free communication",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zicheng Liu",
+            "Michael Seltzer",
+            "A. Acero",
+            "Michael Jack Sinclair"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6154,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Efficient bundle adjustment with virtual key frames: A hierarchical approach to multi-frame structure from motion",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "Proceedings / CVPR IEEE Computer Society Conference on Computer Vision and Pattern Recognition. IEEE Computer Society Conference on Computer Vision and Pattern Recognition",
+        "coauthors": [
+            "Heung-Yeung Shum",
+            "Qifa Ke",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6058,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Exploring spatialized audio & video for distributed conversations",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Kori Inkpen",
+            "Rajesh Hegde",
+            "Mary Czerwinski",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6168,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Characterizing the Uncertainty of the Fundamental Matrix",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "Computer Vision and Image Understanding",
+        "coauthors": [
+            "Gabriela Csurka",
+            "Cyril Zeller",
+            "Zhengyou Zhang",
+            "Projet Robotvis"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6060,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Winner-take-all multiple category boosting for multi-view face detection",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Cha Zhang",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6024,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Viewport: A Fully Distributed Immersive Teleconferencing System with Infrared Dot Pattern",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE Multimedia",
+        "coauthors": [
+            "Cha Zhang",
+            "Qin Cai",
+            "Philip A. Chou",
+            "Ricardo Martin Brualla"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5969,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Quantitative and Qualitative Comparison of Some Area and Feature-based Stereo Algorithms",
+        "organization": "Tencent Robotics X",
+        "abstract": "Evaluating the performance of stereo algorithms, both in terms of robustness and precision, is of critical importance as they become more amenable to practical applications. It is, however, a hard task because no unified testbed exists. In this paper, we use the algorithms that have been developed at INRIA in recent years to propose a number of methods that can be used to achieve this task and evaluate the appropriateness of algorithms for given applications.",
+        "email": "",
+        "conf": "International Workshop on Robust Computer Vision: Quality of Vision Algorithms",
+        "coauthors": [
+            "Olivier D. Faugeras",
+            "Pascal Fua",
+            "B. Hotz",
+            "R. Ma",
+            "L. Robert",
+            "M. Thonnat",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6020,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "TAMD Outstanding Paper Award and Open Access Publication Established",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE Transactions on Autonomous Mental Development",
+        "coauthors": [
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6005,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Eight-Point Algorithm",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6037,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "ViewMark: An interactive videoconferencing system for mobile devices",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Shu Shi",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6133,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Simultaneous 2D images and 3D geometric model registration for texture mapping utilizing reflectance attribute",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Ryo Kurazume",
+            "Ko Nishino",
+            "Zhengyou Zhang",
+            "Katsushi Ikeuchi"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5968,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Vision-based Interaction with Fingers and Papers",
+        "organization": "Tencent Robotics X",
+        "abstract": "This paper presents two vision-based interface systems. The first, Visual Screen, uses an inexpensive technique to transform an ordinary screen into a touch screen using an ordinary camera. The setup is easy: position a camera so it can see the whole screen. The system calibration involves the detection of the screen region in the image, which determines the projective mapping between the image plane and the screen. In runtime, our system locates the tip pointer (fingertip in our current implementation) in the image and converts the image position to the cursor position on the screen. The second system, Visual Panel, extends the previous system for mobile applications. It employs an arbitrary quadrangle-shaped panel (e.g., an ordinary piece of paper) and a tip pointer as an intuitive, wireless and mobile input device. The system can accurately and reliably track the panel and the tip pointer. The panel tracking continuously determines the projective mapping between the panel at the current position and the display, which in turn maps the tip position to the corresponding position on the display. The system can fulfill many tasks such as controlling a remote large display, and simulating a physical keyboard. Users can naturally use their fingers or other tip pointers to issue commands and type texts. Furthermore, by tracking the 3D position and orientation of the visual panel, the system can also provide 3D information, serving as a virtual joystick, to control 3D virtual objects.",
+        "email": "zhang@microsoft.com",
+        "conf": "International Symposium on the CREST Digital Archiving Project",
+        "coauthors": [
+            "Zhengyou Zhang"
+        ],
+        "keywords": "Vision-based user interface, Visual Screen, Visual Panel, new input device, new control device, virtual touch screen, virtual mouse, virtual keyboard, virtual joystick, plane projectivity"
+    },
+    {
+        "id": 5987,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Deblur a blurred RGB image with a sharp NIR image through local linear mapping",
+        "organization": "Tencent Robotics X",
+        "abstract": "Image acquisition in a low light environment requires long exposure to achieve acceptable signal-to-noise ratio, which however causes blurry effect. This paper addresses this problem by using a sharp near-infrared (NIR) image when the environment has sufficient NIR light. We assume that an RGB and NIR image pair has a linear mapping in a local area and that the mapping function is valid for both the blur and sharp image pairs. Using this property, we solve the sharp RGB images from a blurred RGB image and the corres ponding s harp NIR image. The effectiveness of the proposed algorithm is verified with both synthetic and real captured datasets.",
+        "email": "",
+        "conf": "IEEE International Conference on Multimedia and Expo (ICME)",
+        "coauthors": [
+            "Tao Yue",
+            "Ming-Ting Sun",
+            "Zhengyou Zhang",
+            "Jinli Suo",
+            "Qionghai Dai"
+        ],
+        "keywords": "Image acquisition,image enhancement,deblurring,RGB/NIR images,Local Linear Transform"
+    },
+    {
+        "id": 6163,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Image-Based Geometrically-Correct Photorealistic Scene/Object Modeling (IBPhM): A Review",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6203,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Matching and Rigidity Constraints",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhengyou Zhang",
+            "Olivier D. Faugeras"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6152,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Robust Head Motion Computation by Taking Advantage of Physical Properties",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zicheng Liu",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5989,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Spatialized audio over headphones",
+        "organization": "Tencent Robotics X",
+        "abstract": "A spatial element is added to communications, including over telephone conference calls heard through headphones or a stereo speaker setup. Functions are created to modify signals from different callers to create the illusion that the callers are speaking from different parts of the room.",
+        "email": "",
+        "conf": "U.S. Patent",
+        "coauthors": [
+            "Wei-Ge Chen",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6202,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Object Recognition and Localization",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhengyou Zhang",
+            "Olivier D. Faugeras"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6001,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Activity Recognition",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Wanqing Li",
+            "Zicheng Liu",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5972,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Guest Editorial: Human Activity Understanding from 2D and 3D Data",
+        "organization": "Tencent Robotics X",
+        "abstract": "Automatic analysis of human motion has become one of the most active research topics in computer vision due to both the scientific challenges of the problem and the wide range of applications. Such applications include intelligent video surveillance; human–computer interfaces; intelligent humanoid robots; gaming; diagnosis, assessment, and treatment of musculoskeletal disorders; sports analysis; realistic synthesis and animation of human motion; and monitoring of elderly and disabled people at home. Extensive studies have been conducted in the past decade using 2D visual information captured by single or multiple cameras. However, the problem is far from being robustly solved, especially for viewpoint independent recognition of diverse human actions and activities in a real environment.",
+        "email": "",
+        "conf": "International Journal of Computer Vision",
+        "coauthors": [
+            "Junsong Yuan",
+            "Wanqing Li",
+            "Zhengyou Zhang",
+            "David Fleet",
+            "Jamie Shotton"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6006,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Epipolar Constraint",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6130,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Distributed meetings: a meeting capture and broadcasting system",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Ross Cutler",
+            "Yong Rui",
+            "Anoop Gupta",
+            "Steve Silverberg"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5967,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Side statistics and maximum discriminant analysis for real-time tracking",
+        "organization": "Tencent Robotics X",
+        "abstract": "We propose a new technique for tracking based on side statistics and maximum discriminant analysis. The object to be tracked is modeled by a set of sample points on the boundary together with image statistics inside the object. Tracking is conducted by maximizing the discrimination between the object and the background, based on an adapted Kullback-Leibler divergence without knowing the statistics of the background. Since no knowledge of the background is required, our technique is particularly useful in dynamic environments where the background can change substantially during the performance of a visual task, or when a system needs to be deployed in different environments. Because we use both the side statistics and the boundary information, our method is more robust than the traditional approaches that use either just boundaries or just regions. As will be shown experimentally, our technique can deal with complex environment, changing background, and partial occlusion, and it is real-time and accurate. We have used the technique to track a panel such as a piece of paper in an application system called VISUAL PANEL which serves as a wireless mobile input device to a computer.",
+        "email": "zhang@microsoft.com",
+        "conf": "Asian Conference on Computer Vision",
+        "coauthors": [
+            "Zhengyou Zhang",
+            "Ying Wu",
+            "Zicheng Liu"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6208,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Fusing Multiple 3D Frames",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhengyou Zhang",
+            "Olivier D. Faugeras"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6015,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Robust part-based face matching with multiple templates",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Kye-Hyeon Kim",
+            "Cha Zhang",
+            "Zhengyou Zhang",
+            "Seungjin Choi"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6096,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Frequency domain correspondence for speaker normalization",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Ming Liu",
+            "Xi Zhou",
+            "Mark Hasegawa-Johnson",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6046,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Improving Immersive Experiences in Telecommunication with Motion Parallax [Applications Corner]",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE Signal Processing Magazine",
+        "coauthors": [
+            "Cha Zhang",
+            "Dinei Florencio",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5974,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "A Survey on Face Detection in the wild: past present and future",
+        "organization": "Tencent Robotics X",
+        "abstract": "Face detection is one of the most studied topics in computer vision literature, not only because of the challenging nature of face as an object, but also due to the countless applications that require the application of face detection as a first step. During the past 15 years, tremendous progress has been made due to the availability of data in unconstrained capture conditions (so-called ‘in-the-wild’) through the Internet, the effort made by the community to develop publicly available benchmarks, as well as the progress in the development of robust computer vision algorithms. In this paper, we survey the recent advances in real-world face detection techniques, beginning with the seminal Viola–Jones face detector methodology. These techniques are roughly categorized into two general schemes: rigid templates, learned mainly via boosting based methods or by the application of deep neural networks, and deformable models that describe the face by its parts. Representative methods will be described in detail, along with a few additional successful methods that we briefly go through at the end. Finally, we survey the main databases used for the evaluation of face detection algorithms and recent benchmarking efforts, and discuss the future of face detection.",
+        "email": "zhang@microsoft.com",
+        "conf": "Computer Vision and Image Understanding",
+        "coauthors": [
+            "Stefanos Zafeiriou",
+            "Cha Zhang",
+            "Zhengyou Zhang"
+        ],
+        "keywords": "Face detection,Feature extraction,Boosting,Deformable models,Deep neural networks"
+    },
+    {
+        "id": 6185,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Self-calibration of an Uncalibrated Stereo Rig from One Unknown Motion",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhengyou Zhang",
+            "Q.-T. Luong",
+            "Q. Faugeras"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6053,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Action detection using multiple spatial-temporal interest point features",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Liangliang Cao",
+            "Yingli Tian",
+            "Zicheng Liu",
+            "Thomas S. Huang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6176,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Motion of a Stereo Rig: Strong Weak and Self Calibration.",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5976,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "VTouch: Vision-enhanced interaction for large touch displays",
+        "organization": "Tencent Robotics X",
+        "abstract": "We propose a system that augments touch input with visual understanding of the user to improve interaction with a large touch-sensitive display. A commodity color plus depth sensor such as Microsoft Kinect adds the visual modality and enables new interactions beyond touch. Through visual analysis, the system understands where the user is, who the user is, and what the user is doing even before the user touches the display. Such information is used to enhance interaction in multiple ways. For example, a user can use simple gestures to bring up menu items such as color palette and soft keyboard; menu items can be shown where the user is and can follow the user; hovering can show information to the user before the user commits to touch; the user can perform different functions (for example writing and erasing) with different hands; and the user's preference profile can be maintained, distinct from other users. User studies are conducted and the users very much appreciate the value of these and other enhanced interactions. ",
+        "email": "",
+        "conf": "International Conference on Multimedia and Expo (ICME). IEEE",
+        "coauthors": [
+            "Yinpeng Chen",
+            "Zicheng Liu",
+            "Philip A. Chou",
+            "Zhengyou Zhang"
+        ],
+        "keywords": "touch display,RGBD sensor,vision-enhanced,gesture recognition"
+    },
+    {
+        "id": 6118,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Eye Gaze Correction with Stereovision for Video-Teleconferencing",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+        "coauthors": [
+            "Ruigang Yang",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5971,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Dimension Reduction With Extreme Learning Machine",
+        "organization": "Tencent Robotics X",
+        "abstract": "Data may often contain noise or irrelevant information, which negatively affect the generalization capability of machine learning algorithms. The objective of dimension reduction algorithms, such as principal component analysis (PCA), non-negative matrix factorization (NMF), random projection (RP), and auto-encoder (AE), is to reduce the noise or irrelevant information of the data. The features of PCA (eigenvectors) and linear AE are not able to represent data as parts (e.g. nose in a face image). On the other hand, NMF and non-linear AE are maimed by slow learning speed and RP only represents a subspace of original data. This paper introduces a dimension reduction framework which to some extend represents data as parts, has fast learning speed, and learns the between-class scatter subspace. To this end, this paper investigates a linear and non-linear dimension reduction framework referred to as extreme learning machine AE (ELM-AE) and sparse ELM-AE (SELM-AE). In contrast to tied weight AE, the hidden neurons in ELM-AE and SELM-AE need not be tuned, and their parameters (e.g, input weights in additive neurons) are initialized using orthogonal and sparse random weights, respectively. Experimental results on USPS handwritten digit recognition data set, CIFAR-10 object recognition, and NORB object recognition data set show the efficacy of linear and non-linear ELM-AE and SELM-AE in terms of discriminative capability, sparsity, training time, and normalized mean square error.",
+        "email": "",
+        "conf": "IEEE Transactions on Image Processing",
+        "coauthors": [
+            "Liyanaarachchi Lekamalage Chamara Kasun",
+            "Yan Yang",
+            "Guang-Bin Huang",
+            "Zhengyou Zhang"
+        ],
+        "keywords": "Extreme Learning Machine (ELM),Principal Component Analysis (PCA),Non-negative Matrix Factorization (NMF),random projection (RP),auto-encoder (AE),Dimension reduction"
+    },
+    {
+        "id": 6135,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Model- and Exemplar-based Robust Head Pose Tracking Under Occlusion and Varying Expression",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Le Lu",
+            "Zhengyou Zhang",
+            "zhicheng liu",
+            "heungyeung shum"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6186,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Robust Recovery of the Epipolar Geometry for an Uncalibrated Stereo Rig",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "R. Deriche",
+            "Zhengyou Zhang",
+            "Q.-T. Luong",
+            "Olivier D. Faugeras"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6022,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Single-View Geometry of A Rectangle With Application to Whiteboard Image Rectification",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6142,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Multibody grouping via orthogonal subspace decomposition",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "Proceedings / CVPR IEEE Computer Society Conference on Computer Vision and Pattern Recognition. IEEE Computer Society Conference on Computer Vision and Pattern Recognition",
+        "coauthors": [
+            "Ying Wu",
+            "Zhengyou Zhang",
+            "T S Huang",
+            "J.Y. Lin"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6209,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Reconstruction of 3D Line Segments",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhengyou Zhang",
+            "Olivier D. Faugeras"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6212,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Obstacle Avoidance and Trajectory Planning for an Indoor Mobile Robot Using Stereo Vision and Delaunay Triangulation",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Michel Buoea",
+            "Olivier D. Faugeras",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6184,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "A new and efficient iterative approach to image matching",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6199,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Uncertainty Manipulation and Parameter Estimation",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhengyou Zhang",
+            "Olivier D. Faugeras"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5980,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Deeply-Supervised Nets",
+        "organization": "Tencent Robotics X",
+        "abstract": "We propose deeply-supervised nets (DSN), a method that simultaneously minimizes classification error and improves the directness and transparency of the hidden layer learning process. We focus our attention on three aspects of traditional convolutional-neuralnetwork-type (CNN-type) architectures: (1) transparency in the effect intermediate layers have on overall classification; (2) discriminativeness and robustness of learned features, especially in early layers; (3) training effectiveness in the face of “vanishing” gradients. To combat these issues, we introduce “companion” objective functions at each hidden layer, in addition to the overall objective function at the output layer (an integrated strategy distinct from layer-wise pretraining). We also analyze our algorithm using techniques extended from stochastic gradient methods. The advantages provided by our method are evident in our experimental results, showing state-of-the-art performance on MNIST, CIFAR-10, CIFAR-100, and SVHN.",
+        "email": "zhang@microsoft.com",
+        "conf": "AISTATS",
+        "coauthors": [
+            "Chen-Yu Lee",
+            "Saining Xie",
+            "Patrick W Gallagher",
+            "Zhengyou Zhang",
+            "Zhuowen Tu"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6156,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Computing Rectifying Homographies for Stereo Vision",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Charles T. Loop",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6167,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Motion and structure from two perspective views: From essential parameters to Euclidean motion through the fundamental matrix",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of the Optical Society of America A",
+        "coauthors": [
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6025,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Auditory augmented reality: Object sonification for the visually impaired",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Flavio Ribeiro",
+            "Dinei Florencio",
+            "Philip A. Chou",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5985,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Eye gaze tracking using an RGBD camera: A comparison with a RGB solution",
+        "organization": "Tencent Robotics X",
+        "abstract": "Most commercial eye gaze tracking systems are based on the use of infrared lights. However, such systems may not work outdoor or may have a very limited head box for them to work. This paper proposes a non-infrared based approach to track one's eye gaze with an RGBD camera (in our case, Kinect). The proposed method adopts a personalized 3D face model constructed off-line. To detect the eye gaze, our system tracks the iris center and a set of 2D facial landmarks whose 3D locations are provided by the RGBD camera. A simple onetime calibration procedure is used to obtain the parameters of the personalized eye gaze model. We compare the performance of the proposed method against the 2D approach using only RGB input on the same images, and find that the use of depth information directly from Kinect achieves more accurate tracking. As expected, the results from the proposed method are not as accurate as the ones from infrared-based approaches. However, this method has the potential for practical use with upcoming better and cheaper depth cameras.",
+        "email": "",
+        "conf": "International Joint Conference on Pervasive and Ubiquitous Computing: Adjunct Publication",
+        "coauthors": [
+            "Xuehan Xiong",
+            "Zicheng Liu",
+            "Qin Cai",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5999,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Hierarchical filtered motion field for action recognition",
+        "organization": "Tencent Robotics X",
+        "abstract": "Described is a hierarchical filtered motion field technology such as for use in recognizing actions in videos with crowded backgrounds. Interest points are detected, e.g., as 2D Harris corners with recent motion, e.g. locations with high intensities in a motion history image (MHI). A global spatial motion smoothing filter is applied to the gradients of MHI to eliminate low intensity corners that are likely isolated, unreliable or noisy motions. At each remaining interest point, a local motion field filter is applied to the smoothed gradients by computing a structure proximity between sets of pixels in the local region and the interest point. The motion at a pixel/pixel set is enhanced or weakened based on its structure proximity with the interest point (nearer pixels are enhanced).",
+        "email": "",
+        "conf": "U.S. Patent",
+        "coauthors": [
+            "Zicheng Liu",
+            "Yingli Tian",
+            "Liangliang Cao",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6023,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Action Detection by Fusing Hierarchically Filtered Motion With Spatiotemporal Interest Point Features",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Yingli Tian",
+            "Zicheng Liu",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6021,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "Wide-Baseline Hair Capture Using Strand-Based Refinement",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "Proceedings / CVPR IEEE Computer Society Conference on Computer Vision and Pattern Recognition. IEEE Computer Society Conference on Computer Vision and Pattern Recognition",
+        "coauthors": [
+            "Linjie Luo",
+            "Cha Zhang",
+            "Zhengyou Zhang",
+            "Szymon Rusinkiewicz"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6191,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "1 - Recalage de deux nuages de points 3D",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6049,
+        "label": 121,
+        "author": "zhengyou zhang",
+        "title": "MobileSurface: interaction in the air for mobile computing",
+        "organization": "Tencent Robotics X",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Ji Zhao",
+            "Hujia Liu",
+            "Chunhui Zhang",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    }
+]

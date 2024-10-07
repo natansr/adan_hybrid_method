@@ -1,0 +1,185 @@
+[
+    {
+        "id": 4402,
+        "label": 84,
+        "author": "james pw robinson",
+        "title": "Fishing degrades size structure of coral reef fish communities",
+        "organization": "Lancaster University",
+        "abstract": "Fishing pressure on coral reef ecosystems has been frequently linked to reductions of large fishes and reef fish biomass. Associated impacts on overall community structure are, however, less clear. In size‐structured aquatic ecosystems, fishing impacts are commonly quantified using size spectra, which describe the distribution of individual body sizes within a community. We examined the size spectra and biomass of coral reef fish communities at 38 US‐affiliated Pacific islands that ranged in human presence from near pristine to human population centers. Size spectra ‘steepened’ steadily with increasing human population and proximity to market due to a reduction in the relative biomass of large fishes and an increase in the dominance of small fishes. Reef fish biomass was substantially lower on inhabited islands than uninhabited ones, even at inhabited islands with the lowest levels of human presence. We found that on populated islands size spectra exponents decreased (analogous to size spectra steepening) linearly with declining biomass, whereas on uninhabited islands there was no relationship. Size spectra were steeper in regions of low sea surface temperature but were insensitive to variation in other environmental and geomorphic covariates. In contrast, reef fish biomass was highly sensitive to oceanographic conditions, being influenced by both oceanic productivity and sea surface temperature. Our results suggest that community size structure may be a more robust indicator than fish biomass to increasing human presence and that size spectra are reliable indicators of exploitation impacts across regions of different fish community compositions, environmental drivers, and fisheries types. Size‐based approaches that link directly to functional properties of fish communities, and are relatively insensitive to abiotic variation across biogeographic regions, offer great potential for developing our understanding of fishing impacts in coral reef ecosystems.",
+        "email": "jpwrobinson@gmail.com",
+        "conf": "Global Change Biology",
+        "coauthors": [
+            "James P. W. Robinson",
+            "Ivor D. Williams",
+            "Andrew M. Edwards",
+            "Jana McPherson",
+            "Lauren Yeager",
+            "Laurent Vigliola",
+            "Russell E. Brainard",
+            "Julia K. Baum"
+        ],
+        "keywords": "body size; community structure; coral reef fish; exploitation; fisheries;25 macroecology;overfishing; size-based approaches; size spectra"
+    },
+    {
+        "id": 4411,
+        "label": 84,
+        "author": "james pw robinson",
+        "title": "Interspecific synchrony of seabird population growth rate and breeding success",
+        "organization": "Lancaster University",
+        "abstract": "Environmental variability can destabilize communities by causing correlated interspecific fluctuations that weaken the portfolio effect, yet evidence of such a mechanism is rare in natural systems. Here, we ask whether the population dynamics of similar sympatric species of a seabird breeding community are synchronized, and if these species have similar exceptional responses to environmental variation. We used a 24‐year time series of the breeding success and population growth rate of a marine top predator species group to assess the degree of synchrony between species demography. We then developed a novel method to examine the species group – all species combined – response to environmental variability, in particular, whether multiple species experience similar, pronounced fluctuations in their demography. Multiple species were positively correlated in breeding success and growth rate. Evidence of “exceptional” years was found, where the species group experienced pronounced fluctuations in their demography. The synchronous response of the species group was negatively correlated with winter sea surface temperature of the preceding year for both growth rate and breeding success. We present evidence for synchronous, exceptional responses of a species group that are driven by environmental variation. Such species covariation destabilizes communities by reducing the portfolio effect, and such exceptional responses may increase the risk of a state change in this community. Our understanding of the future responses to environmental change requires an increased focus on the short‐term fluctuations in demography that are driven by extreme environmental variability.",
+        "email": "jamespwr@uvic.ca",
+        "conf": "Ecology and Evolution",
+        "coauthors": [
+            "James P. W. Robinson",
+            "Maria Dornelas",
+            "Alfredo F. Ojanguren"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4409,
+        "label": 84,
+        "author": "james pw robinson",
+        "title": "Estimation of predator-prey mass ratios using stable isotopes: Sources of errors",
+        "organization": "Lancaster University",
+        "abstract": "In aquatic systems, the ratio of predator mass to prey mass (PPMR) is an important constraint on food web structure, and has been correlated with environmental stability. One common approach of estimating PPMR uses nitrogen stable isotopes (δ15N) as an indicator of trophic position, under the assumption that the discrimination between diet and tissue is constant with increasing diet δ15N (an additive approach). However, recent studies have shown that this assumption may not be valid and that there is a negative trend between the δ15N of the diet and the discrimination value (a scaled approach). Here, we estimated PPMR for a simulated food web using both the traditional additive approach and the improved scaled approach, and then tested our predictions with isotope samples from a North Sea food web. Our simulations show that the additive approach yields incorrect estimates of PPMR, and these biases are reflected in North Sea PPMR estimates. The extent of the bias is dependent on the baseline δ15N and trophic level sampled, with the greatest differences for samples with low baseline δ15N sampled at lower trophic levels. The scaled approach allows for the comparison of PPMR across varying δ15N baselines and trophic levels, and will refine estimates of PPMR.",
+        "email": "",
+        "conf": "Marine Ecology Progress Series",
+        "coauthors": [
+            "Eric Hertz",
+            "James P. W. Robinson",
+            "Marc Trudel",
+            "Asit Mazumder",
+            "Julia K Baum"
+        ],
+        "keywords": "Body size, Diet-dependent discrimination factor, North Sea, Size spectra, PPMR, Food webs, Size structure"
+    },
+    {
+        "id": 4403,
+        "label": 84,
+        "author": "james pw robinson",
+        "title": "Uncovering drivers of juvenile coral density following mass bleaching",
+        "organization": "Lancaster University",
+        "abstract": "Thermally induced mass coral bleaching is globally responsible for major losses of coral cover. Coral recovery from mass coral disturbances like the 2016 bleaching event hinges on successful recruitment of new coral colonies to the existing population. Juvenile corals as a life history stage represent survival and growth of new recruits. As such, habitat preferences of juvenile corals and how environmental parameters interact to drive coral recovery following a mass bleaching disturbance are important research areas. To expand our knowledge on this topic, we compared juvenile coral densities from before the 2016 bleaching event with those after the disturbance and identified abiotic and biotic characteristics of 21 reefs in the inner Seychelles that predict juvenile coral densities. Our results show that following the 2016 bleaching event, juvenile coral densities were significantly reduced by about 70%, with a particularly large decline in juvenile Acropora. Macroalgae present a large obstacle to survival of juvenile corals in a post-bleaching setting, but their influence varies as a function of herbivore biomass, reef structure, and reef type. Higher biomass of herbivorous fish weakens the negative effect of macroalgae on juvenile corals, and structural complexity on granitic reefs is a strong positive predictor of juvenile coral density. However, structural complexity on carbonate or patch reefs was negatively related to juvenile coral density, highlighting the importance of considering interactive terms in analyses. Our study emphasises the importance of habitat for juvenile coral abundance at both fine and seascape scales, adding to the literature on drivers of reef rebound potential following severe coral bleaching.",
+        "email": "",
+        "conf": "Coral Reefs",
+        "coauthors": [
+            "Jan-Claas Dajka",
+            "Shaun K. Wilson",
+            "James P. W. Robinson",
+            "Karen M. Chong-Seng",
+            "Alasdair Harris",
+            "Nicholas A. J. Graham"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4408,
+        "label": 84,
+        "author": "james pw robinson",
+        "title": "Trophic roles determine coral reef fish community size structure",
+        "organization": "Lancaster University",
+        "abstract": "Relationships between abundance – body size and trophic position – body size can reveal size structuring in food webs and test ecological theory. Although there is considerable evidence of size structuring in temperate aquatic food webs, little is known about the structure of tropical coral reef food webs. Here, we use underwater visual-census data and nitrogen stable isotope analysis to test if coral reef fish communities (i) are size structured and (ii) follow metabolic scaling rules. After examining individuals from over 160 species spanning four orders of magnitude in body size, we show that abundance scaled negatively with body size and, as predicted, individuals sharing energy through predation (carnivorous fishes) scaled more steeply than those individuals sharing a common energy source (herbivorous fishes). Estimated size spectra were, however, shallower than predicted by metabolic theory. Trophic position scaled positively with body size across species and across individuals, providing novel evidence of size structuring in a diverse tropical food web. Size-based approaches hold great promise for integrating the complexities of food webs into simple quantitative measures, thus providing new insights into the structure and function of aquatic ecosystems.",
+        "email": "",
+        "conf": "Canadian Journal of Fisheries and Aquatic Sciences",
+        "coauthors": [
+            "James P. W. Robinson",
+            "Julia K Baum"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4406,
+        "label": 84,
+        "author": "james pw robinson",
+        "title": "Environmental conditions and herbivore biomass determine coral reef benthic community composition: implications for quantitative baselines",
+        "organization": "Lancaster University",
+        "abstract": "Our ability to understand natural constraints on coral reef benthic communities requires quantitative assessment of the relative strengths of abiotic and biotic processes across large spatial scales. Here, we combine underwater images, visual censuses and remote sensing data for 1566 sites across 34 islands spanning the central-western Pacific Ocean, to empirically assess the relative roles of abiotic and grazing processes in determining the prevalence of calcifying organisms and fleshy algae on coral reefs. We used regression trees to identify the major predictors of benthic composition and to test whether anthropogenic stress at inhabited islands decouples natural relationships. We show that sea surface temperature, wave energy, oceanic productivity and aragonite saturation strongly influence benthic community composition; overlooking these factors may bias expectations of calcified reef states. Maintenance of grazing biomass above a relatively low threshold (~ 10–20 kg ha−1) may also prevent transitions to algal-dominated states, providing a tangible management target for rebuilding overexploited herbivore populations. Biophysical relationships did not decouple at inhabited islands, indicating that abiotic influences remain important macroscale processes, even at chronically disturbed reefs. However, spatial autocorrelation among inhabited reefs was substantial and exceeded abiotic and grazing influences, suggesting that natural constraints on reef benthos were superseded by unmeasured anthropogenic impacts. Evidence of strong abiotic influences on reef benthic communities underscores their importance in specifying quantitative targets for coral reef management and restoration that are realistic within the context of local conditions.",
+        "email": "",
+        "conf": "Coral Reefs",
+        "coauthors": [
+            "James P. W. Robinson",
+            "Ivor D. Williams",
+            "Lauren A. Yeager",
+            "Jana M. McPherson",
+            "Jeanette Clark",
+            "Thomas A. Oliver",
+            "Julia K. Baum"
+        ],
+        "keywords": "Abiotic forcing; Biophysical; Boosted regression trees; Decoupling; Grazing; Macroecology; Spatial scale; Top-down control"
+    },
+    {
+        "id": 4407,
+        "label": 84,
+        "author": "james pw robinson",
+        "title": "Testing and recommending methods for fitting size spectra to data",
+        "organization": "Lancaster University",
+        "abstract": "The size spectrum of an ecological community characterizes how a property, such as abundance or biomass, varies with body size. Size spectra are often used as ecosystem indicators of marine systems. They have been fitted to data from various sources, including groundfish trawl surveys, visual surveys of fish in kelp forests and coral reefs, sediment samples of benthic invertebrates and satellite remote sensing of chlorophyll. Over the past decades, several methods have been used to fit size spectra to data. We document eight such methods, demonstrating their commonalities and differences. Seven methods use linear regression (of which six require binning of data), while the eighth uses maximum likelihood estimation. We test the accuracy of the methods on simulated data. We demonstrate that estimated size‐spectrum slopes are not always comparable between the seven regression‐based methods because such methods are not estimating the same parameter. We find that four of the eight tested methods can sometimes give reasonably accurate estimates of the exponent of the individual size distribution (which is related to the slope of the size spectrum). However, sensitivity analyses find that maximum likelihood estimation is the only method that is consistently accurate, and the only one that yields reliable confidence intervals for the exponent. We therefore recommend the use of maximum likelihood estimation when fitting size spectra. To facilitate this, we provide documented R code for fitting and plotting results. This should provide consistency in future studies and improve the quality of any resulting advice to ecosystem managers. In particular, the calculation of reliable confidence intervals will allow proper consideration of uncertainty when making management decisions.",
+        "email": "",
+        "conf": "Methods in Ecology and Evolution",
+        "coauthors": [
+            "Andrew M. Edwards",
+            "James P. W. Robinson",
+            "Michael J. Plank",
+            "Julia K Baum",
+            "Julia L Blanchard"
+        ],
+        "keywords": "abundance size spectrum, biomass size spectrum, bounded power-law distribution,ecosystem approach to fisheries, ecosystem indicators, individual size distribution, truncated Pareto distribution"
+    },
+    {
+        "id": 4405,
+        "label": 84,
+        "author": "james pw robinson",
+        "title": "Enhancing Climate Change Research With Open Science",
+        "organization": "Lancaster University",
+        "abstract": "Climate change research aims to understand global environmental change and how it will impact nature and society. The broad scope of climate change impacts means that successful adaptation and mitigation efforts will require an unprecedented collaboration effort that unites diverse disciplines and is able to rapidly respond to evolving climate issues (IPCC, 2014). However, to achieve this aim, climate change research practices need updating: key research findings remain behind journal paywalls, and scientific progress can be impeded by low levels of reproducibility and transparency (Ellison, 2010; Morueta-Holme et al., 2018), individual data ownership (Hampton et al., 2015), and inefficient research workflows (Lowndes et al., 2017). Furthermore, the level of public interest and policy engagement on climate change issues relies on fast communication of academic research to public institutions, with the result that the societal impact of climate change studies will differ according to their public availability and exposure. Here, we argue that by adopting open science (OS) principles, scientists can advance climate change research and accelerate efforts to mitigate impacts; especially for highly vulnerable developing regions of the world where research capacity is limited. We underscore the specific benefits of OS in raising the academic and societal impact of climate change research using citation and media metrics.",
+        "email": "",
+        "conf": "Frontiers of Environmental Science & Engineering",
+        "coauthors": [
+            "Travis Tai",
+            "James P. W. Robinson"
+        ],
+        "keywords": "interdisciplinary, science communication, open access, reproducibility, citation metrics, altmetrics"
+    },
+    {
+        "id": 4410,
+        "label": 84,
+        "author": "james pw robinson",
+        "title": "The limitations of diversity metrics in directing global marine conservation",
+        "organization": "Lancaster University",
+        "abstract": "Biodiversity hotspots have been used extensively in setting conservation priorities for marine ecosystems. A recent Nature publication claims to have uncovered new latitudinal gradients in the evenness of reef communities and new reef hotspots based on functional diversity. Simulation models show that the purported evenness gradient is a mathematical inevitability of differences in species richness and detectability between vastly different marine ecosystems, namely ‘reefs’ in tropical, temperate, and polar regions. Constraints on evenness, along with disparity amongst communities in possible functional traits, cast doubt on the utility of global functional diversity comparisons for management of marine systems.",
+        "email": "jamespwr@uvic.ca",
+        "conf": "Marine Policy",
+        "coauthors": [
+            "James P. W. Robinson",
+            "Easton R White",
+            "Logan D. Wiwchar",
+            "Danielle C Claar",
+            "Justin P Suraci",
+            "Julia K Baum"
+        ],
+        "keywords": "Evenness,Functional diversity,Macroecology,Marine fish,Reef ecosystems,Underwater visual census"
+    },
+    {
+        "id": 4404,
+        "label": 84,
+        "author": "james pw robinson",
+        "title": "Productive instability of coral reef fisheries after climate-driven regime shifts",
+        "organization": "Lancaster University",
+        "abstract": "Tropical coastal communities are highly reliant on coral reefs, which provide nutrition and employment for millions of people. Climate-driven coral bleaching events are fundamentally changing coral reef ecosystems and are predicted to reduce productivity of coral reef fish and fisheries, with significant implications for food security and livelihoods. Yet evidence of long-term bleaching impacts on coral reef fishery productivity is lacking. Here, we analyse over 20 years of fish abundance, catch and habitat data to assess long-term impacts of climate-driven coral mass mortality and regime shifts on nearshore artisanal coral reef fisheries in the Seychelles. Contrary to expectations, total catch and mean catch rates were maintained or increased after coral bleaching, consistent with increasing abundance of herbivorous target species in underwater surveys, particularly on macroalgal-dominated reefs. Catch instability increased as habitats followed divergent post-disturbance trajectories and the distribution of target species became more spatially variable, potentially impacting fisher incomes and local market supply chains. Although coral bleaching increased fishery dependence on herbivore species, our results show that climate-impacted reefs can still provide livelihoods and fish protein for coastal communities.",
+        "email": "james.robinson@lancaster.ac.uk",
+        "conf": "Nature Ecology & Evolution",
+        "coauthors": [
+            "James P. W. Robinson",
+            "Shaun K. Wilson",
+            "Jan Robinson",
+            "Calvin Gerry",
+            "Juliette Lucas",
+            "Cindy Assan",
+            "Rodney Govinden",
+            "Simon Jennings",
+            "Nicholas A. J. Graham"
+        ],
+        "keywords": ""
+    }
+]

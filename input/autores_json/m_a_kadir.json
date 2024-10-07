@@ -1,0 +1,216 @@
+[
+    {
+        "id": 654,
+        "label": 18,
+        "author": "m a kadir",
+        "title": "Development of a multi-frequency system for medical applications of Focused Electrical Impedance Method (FIM) appropriate for developing countries",
+        "organization": "Department of Biomedical Physics &amp; Technology University of Dhaka",
+        "abstract": "Making diagnostic measurements available to the widely geographically spread populations in developing countries is a challenge which is unlikely to be met by the technology used in the west. Multi-frequency electrical impedance techniques are attractive in this context as the instrumentation is relatively simple and research has demonstrated application in cardiac and respiratory medicine and in the characterisation of epithelial tissues. The development of focused impedance measurement (FIM) techniques has potentially gone some way to overcome the complex spatial sensitivity distribution which has been one of the limiting factors in using electrical impedance techniques in diagnosis. This paper describes a simple low cost system based on FIM that can be maintained and repaired in the field by the researchers allowing the potential for electrical impedance based diagnostic technique in developing countries to be evaluated. The microcontroller based multi-frequency system for FIM uses synchronous demodulation which is implemented using IC components readily available in developing countries. The drive current was generated from a microcontroller at 16 different frequencies. A Howland V to I converter delivers current to the tissue. The peak value of the measured voltage signal is determined by a micro-processor controlled analogue synchronous peak detector. Measurements on resistive and reactive phantoms gave a resolution that would allow impedance changes reported in clinical studies (e.g. respiration, epithelial tissue characterization and abdominal fat thickness) to be measured with the system.",
+        "email": "kadir@du.ac.bd",
+        "conf": "International Conference on Appropriate Healthcare Technologies for Developing Countries",
+        "coauthors": [
+            "Muhammad Abdul Kadir",
+            "Khondkar Siddique-e Rabbani",
+            "A J Wilson"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 651,
+        "label": 18,
+        "author": "m a kadir",
+        "title": "Classification of breast tumour using electrical impedance and machine learning techniques",
+        "organization": "Department of Biomedical Physics &amp; Technology University of Dhaka",
+        "abstract": "When a breast lump is detected through palpation, mammography or ultrasonography, the final test for characterization of the tumour, whether it is malignant or benign, is biopsy. This is invasive and carries hazards associated with any surgical procedures. The present work was undertaken to study the feasibility for such characterization using non-invasive electrical impedance measurements and machine learning techniques. Because of changes in cell morphology of malignant and benign tumours, changes are expected in impedance at a fixed frequency, and versus frequency of measurement. Tetrapolar impedance measurement (TPIM) using four electrodes at the corners of a square region of sides 4 cm was used for zone localization. Data of impedance in two orthogonal directions, measured at 5 and 200 kHz from 19 subjects, and their respective slopes with frequency were subjected to machine learning procedures through the use of feature plots. These patients had single or multiple tumours of various types in one or both breasts, and four of them had malignant tumours, as diagnosed by core biopsy. Although size and depth of the tumours are expected to affect the measurements, this preliminary work ignored these effects. Selecting 12 features from the above measurements, feature plots were drawn for the 19 patients, which displayed considerable overlap between malignant and benign cases. However, based on observed qualitative trend of the measured values, when all the feature values were divided by respective ages, the two types of tumours separated out reasonably well. Using K-NN classification method the results obtained are, positive prediction value: 60%, negative prediction value: 93%, sensitivity: 75%, specificity: 87% and efficacy: 84%, which are very good for such a test on a small sample size. Study on a larger sample is expected to give confidence in this technique, and further improvement of the technique may have the ability to replace biopsy.",
+        "email": "",
+        "conf": "Physiological Measurement",
+        "coauthors": [
+            "Abdullah Al Amin",
+            "Shahnaj Parvin",
+            "Muhammad Abdul Kadir",
+            "Tasmia Tahmid",
+            "S Kaisar Alam",
+            "Khondkar Siddique-e Rabbani"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 646,
+        "label": 18,
+        "author": "m a kadir",
+        "title": "Subcutaneous vein detection using pigeon hole imaging: Simulation study",
+        "organization": "Department of Biomedical Physics &amp; Technology University of Dhaka",
+        "abstract": "Detection and localization of subcutaneous vein is important in health care for intravenous drug administration and blood drawing procedures. This paper presents a simple and non-ionizing method based on Pigeon Hole Imaging (PHI) for mapping subcutaneous vein patterns. In PHI, localized impedance values on multiple adjacent positions are measured placing an electrode array on the surface of a volume conductor and the conductivity distribution beneath the electrode array is obtained. In this study, the impedance measurements were simulated in an FEM based software COMSOL Multiphysics. An FEM model of a human forearm with different domains including skin, muscle, subcutaneous layer and veins was created. The conductivity of blood is higher compared to that of its surroundings which is the basis of localization of subcutaneous vein in the current study. It is shown that the proposed method can detect and map the pathways of subcutaneous veins fairly accurately using 5×5 matrix of PHI electrode array. However, the resolution of the image needs to be increased and the method needs to be evaluated in human subjects to justify its usefulness in practice.",
+        "email": "",
+        "conf": "IEEE Region 10 Humanitarian Technology Conference (R10-HTC)",
+        "coauthors": [
+            "Rushdi Zahid Rusho",
+            "Muhammad Abdul Kadir"
+        ],
+        "keywords": "Bioelectrical impedance imaging,FIM,PHI,subcutaneous vein detection,IVtherapy"
+    },
+    {
+        "id": 648,
+        "label": 18,
+        "author": "m a kadir",
+        "title": "Development of an electrical impedance based spirometer",
+        "organization": "Department of Biomedical Physics &amp; Technology University of Dhaka",
+        "abstract": "Spirometry, or measurement of respiration conventionally involves measurement of the time variation of volume or flow of air breathed in or out through the mouth using an air-flow sensor. Electrical impedance of thorax changes during breathing and conceptually this modality should be applicable in spirometry, but no attempts have been made so far. This paper describes the development of an electrical impedance based spirometer placing electrodes on four limbs so that the whole lung volume may contribute to the measurement. An impedance based measurement system (IBS) consisting of a constant current drive at 11 kHz and necessary voltage measurement circuitry was designed and developed for this purpose. A portable oscilloscope (PicoScope 2208A) was used for acquisition of the measured voltage signal to a PC and an algorithm in Matlab software was used to demodulate the time varying impedance from a carrier signal. The variation of impedance with time during forced expiration as measured by the implemented impedance measurement system was compared with that obtained using a standard bellows type commercial spirometer (Vitalograph) on eight volunteers, between 22 and 32 years of age. The subjects included smokers, non-smokers, and asthma patients. Repeatability of the measurements were satisfactory. The correlation coefficient between the spirogram obtained using the IBS and that obtained using standard spirometer varied from 0.81 to 0.99 indicating preliminary success of the proposed technique. However, a possible source of error is the bending of the body during forced expiration which, if prevented, may give a better outcome.",
+        "email": "",
+        "conf": "Bangladesh Journal of Medical Physics",
+        "coauthors": [
+            "Md. Anas Ali",
+            "Muhammad Abdul Kadir",
+            "Khondkar Siddique-e Rabbani"
+        ],
+        "keywords": "Electrical Impedance Based Spirometer, Spirometry, Spirometer, Bioimpedance, Electrical Impedance"
+    },
+    {
+        "id": 650,
+        "label": 18,
+        "author": "m a kadir",
+        "title": "Improved Understanding of the Sensitivity of Linear Tetrapolar Impedance Measurement (TPIM) and 8-Electrode Focused Impedance Method (FIM) in a Volume Conductor",
+        "organization": "Department of Biomedical Physics &amp; Technology University of Dhaka",
+        "abstract": "Tetrapolar Impedance Measurement (TPIM) is a 4-electrode impedance measurement system appropriate for a volume conductor in which current is driven through a pair of electrodes while potential developed across another pair of electrodes is measured to provide a value of transfer impedance. The 8-electrode Focused Impedance Method (FIM-8) consists of two concentric and orthogonal linear TPIM systems with their transfer impedances added for the purpose of localizing the central zone. Detailed 3D sensitivity studies are necessary for proper application of the techniques in specific biomedical applications and most reported work present point sensitivity distributions. The present work mainly focuses on planar average sensitivity in planes parallel to the electrode plane and its variation with depth due to different combinations of electrode separations – both for current drive pair and the potential measuring pair. This was obtained through finite element simulation using COMSOL Multiphysics software for a 40x40x40cm3 volume. The results give useful information that can be used to design electrode configurations and measurement modalities for various applications.",
+        "email": "kadir@du.ac.bd",
+        "conf": "Bangladesh Journal of Medical Physics",
+        "coauthors": [
+            "Sayed Parvez Ahmed",
+            "Muhammad Abdul Kadir",
+            "Golam Dastegir Al-Quaderi",
+            "Rubina Rahman",
+            "Khondkar Siddique-e Rabbani"
+        ],
+        "keywords": "Electrical Impedance, Localized impedance, TPIM, FIM, Finite Element Method, Planar sensitivity"
+    },
+    {
+        "id": 655,
+        "label": 18,
+        "author": "m a kadir",
+        "title": "Possible applications of Focused Impedance Method (FIM) in biomedical and other areas of study",
+        "organization": "Department of Biomedical Physics &amp; Technology University of Dhaka",
+        "abstract": "Focused Impedance Method (FIM) based on 8, 6 and 4 electrode configurations have been innovated and developed for measuring the electrical impedance of a localised zone in a volume conductor, all based on tetrapolar impedance technique. The zone localization in FIM has been visualized through equipotential distributions, current density at the target point and perturbation produced at the potential measuring electrodes. The predicted behaviour has been verified though phantom measurements and analytical techniques by different groups. FIM is particularly sensitive and useful if the electrical impedance of a target object in the sensitive zone changes between two sets of measurements. This can be either due to a physical change in the target object, or, if its impedance has frequency dependence, through a change in the measurement frequency. In medical applications FIM is being developed for studying stomach and bladder emptying, localized lung function, detection of cervical and oral cancer, etc. FIM may have applications in industry to study physical mixtures of liquids and gases in pipelines and tanks, in geology to detect groundwater and other minerals, in oceanography, and in many other applications. Thus FIM appears to have a huge potential for application in different areas.",
+        "email": "kadir@du.ac.bd",
+        "conf": "Bangladesh Journal of Medical Physics",
+        "coauthors": [
+            "Khondkar Siddique-e Rabbani",
+            "Muhammad Abdul Kadir"
+        ],
+        "keywords": "Electrical Impedance technique, Focused Impedance Method, Volume conductor"
+    },
+    {
+        "id": 657,
+        "label": 18,
+        "author": "m a kadir",
+        "title": "Application of 6-electrode Focused Impedance Method (FIM) to study lungs ventilation",
+        "organization": "Department of Biomedical Physics &amp; Technology University of Dhaka",
+        "abstract": "To study the feasibility of using our newly developed 6 electrode Focused Impedance Method (FIM) for Lung ventilation, FIM measurements at a localized region in the frontal lower lobe of the lungs were compared with those obtained using a bellows type spirometer upon exhalation in steps. A linear relationship was obtained for different volumes of exhaled air for a healthy subject that reproduced well on repeat measurements. On a comparison of a similar FIM measurement but only with the total exhaled air volume (Vital Capacity) of several subjects, a linear trend line could be obtained indicating the efficacy of FIM in lungs ventilation measurements.",
+        "email": "",
+        "conf": "Proc. EIT2009",
+        "coauthors": [
+            "Muhammad Abdul Kadir",
+            "Tanvir Noor Baig",
+            "Khondkar Siddique-e Rabbani"
+        ],
+        "keywords": "Lungs ventilation, Focused impedance, electrical impedance"
+    },
+    {
+        "id": 649,
+        "label": 18,
+        "author": "m a kadir",
+        "title": "Focused impedance method to detect localized lung ventilation disorders in combination with conventional spirometry",
+        "organization": "Department of Biomedical Physics &amp; Technology University of Dhaka",
+        "abstract": "Conventional spirometry gives information on the overall ventilation of a person's lung; it cannot detect localized disorders in ventilation as occurring in pulmonary edema, pneumonia, tumor, TB, etc. Here we propose a new technique involving the recently developed focused impedance method (FIM) in combination with conventional spirometry to detect localized lung ventilation disorders. Electrical impedance of lung tissue changes as a function of air content and FIM provides a measurement of localized electrical impedance with sensitivity down to reasonable depths inside the body using a few surface electrodes; here we used a six-electrode version. At least four quadrants of the lungs in the frontal plane can be separately measured using a hand-held probe with spring backed skin surface electrodes. Firstly, spatial sensitivity distribution of the six-electrode FIM was obtained using finite element simulation which verified the focusing effect and its depth sensitivity. Percent change in impedance between maximum inspiration and expiration were measured at four quadrants of the chest of a healthy male subject giving four different values; that at the lower right quadrant was found to be the maximum, as also expected based on anatomy. Changes in impedance at this quadrant of the same subject were found to vary proportionately with exhaled air volumes, measured using a bellows-type spirometer. Similar FIM measurements at lower right lung of seven healthy subjects were found to be almost proportional (R2 = 0.7) to the total exhaled air volumes (vital capacity). This was the basis of the new technique. For a healthy individual, the ratio of the local impedance change to vital capacity (VC) will fall within a certain range for each of the four lung quadrants. A lower value at any quadrant would indicate disorder within that quadrant, while a larger value would indicate disorder in a region outside the particular quadrant. The FIM electrode probe can then be moved to take measurements at the other quadrants to locate the region of disorder. This preliminary study indicates that FIM in combination with conventional spirometry could be used to detect localized ventilation defects.",
+        "email": "",
+        "conf": "Biomedical Engineering Applications Basis and Communications",
+        "coauthors": [
+            "Muhammad Abdul Kadir",
+            "Tanvir Noor Baig",
+            "Khondkar Siddique-e Rabbani"
+        ],
+        "keywords": "Focused impedance method,Lung ventilation,Localized ventilation,Ventilation disorder"
+    },
+    {
+        "id": 645,
+        "label": 18,
+        "author": "m a kadir",
+        "title": "Use of a conical conducting layer with an electrical impedance probe to enhance sensitivity in epithelial tissues",
+        "organization": "Department of Biomedical Physics &amp; Technology University of Dhaka",
+        "abstract": "Tetra-polar electrical impedance measurement (TPIM) with a square geometry of electrodes is useful in the characterization of epithelial tissues, especially in the detection of cervical cancer at precancerous stages. However, in TPIM, the peak planar sensitivity just below the electrode surface is almost zero and increases to a peak value at a depth of about one third to one half of the electrode separation. To get high sensitivity for the epithelial layer, having thicknesses of 200 μm to 300 μm, the electrode separation needed is less than 1 mm, which is difficult to achieve in practical probes. This work proposes a conical conducting layer in front of a pencil like probe with a square geometry of TPIM electrodes to create virtual electrodes with much smaller separation at the body surface, thus increasing the sensitivity of the epithelial tissues. To understand the improvements, if any, 3D sensitivity distribution and transfer impedance were simulated using COMSOL Multiphysics software for a simplified body tissue model containing a 300 μm epithelial layer. It has been shown that fractional contribution of an epithelial layer can be increased several times placing a cylindrical conducting layer in between the tissue surface and the electrodes, which can further be enhanced using a conical conducting layer. The results presented in this paper can be used to choose an appropriate electrode separation, conducting layer height and cone parameters for enhanced sensitivity in the epithelial layer.",
+        "email": "",
+        "conf": "Journal of Electrical Bioimpedance",
+        "coauthors": [
+            "Muhammad Abdul Kadir",
+            "Khondkar Siddique-e Rabbani"
+        ],
+        "keywords": "Bioimpedance; Sensitivity; Epithelial tissue; virtual electrode; EIS;Impedance probe; conducting layer"
+    },
+    {
+        "id": 656,
+        "label": 18,
+        "author": "m a kadir",
+        "title": "Ventilation mapping of chest using Focused Impedance Method (FIM)",
+        "organization": "Department of Biomedical Physics &amp; Technology University of Dhaka",
+        "abstract": "Focused Impedance Method (FIM) provides an opportunity for localized impedance measurement down to reasonable depths within the body using surface electrodes, and has a potential application in localized lung ventilation study. This however needs assessment of normal values for healthy individuals. In this study, localized ventilation maps in terms of electrical impedance in a matrix formation around the thorax, both from the front and the back, were obtained from two normal male subjects using a modified configuration of FIM. For this the focused impedance values at full inspiration and full expiration were measured and the percentage difference with respect to the latter was used. Some of the measured values would have artefacts due to movements of the heart and the diaphragm in the relevant anatomical positions which needs to be considered with due care in any interpretation.",
+        "email": "",
+        "conf": "Journal of Physics Conference Series",
+        "coauthors": [
+            "Muhammad Abdul Kadir",
+            "Humayra Ferdous",
+            "Tanvir Noor Baig",
+            "Khondkar Siddique-e Rabbani"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 652,
+        "label": 18,
+        "author": "m a kadir",
+        "title": "Determination of organ volume using Focused Impedance Method (FIM): a simulation approach",
+        "organization": "Department of Biomedical Physics &amp; Technology University of Dhaka",
+        "abstract": "A noninvasive and radiation free technique for in-vivo measurement of the volume of organs or fluids in the human body is necessary for many clinical applications. Focused Impedance Method (FIM) is a novel technique of electrical impedance measurements which has enhanced sensitivity in a localized region. FIM can sense the change in transfer impedance of an organ within a reasonable depth of the human body using surface electrodes, minimizing contributions from its neighbouring regions. This of course assumes that the impedance properties of the embedded object are different from that of its surrounding tissues. This paper presents a new method for the determination of the volume of an organ within body using dual electrode separations of a concentric 4-electrode FIM configuration. In order to develop this formalism simulated FIM measurements using surface electrodes on a cubic volume conductor with embedded spherical objects were performed using a Finite Element (FE) based simulation software, COMSOL Multiphysics®. For the present methodology, the conductivity of the object with respect to its surroundings and its depth need to be known. The former is obtainable through some primary invasive or in vivo measurements while the latter may be approximated using anatomy. Experimental results on a phantom made up of a cubic tank filled with saline showed that the proposed method can be used to determine the volume of embedded objects to an accuracy of about 5% which is adequate for most physiological measurements. The technique may also find use in geology, oceanography and industry.",
+        "email": "kadir@du.ac.bd",
+        "conf": "Bangladesh Journal of Medical Physics",
+        "coauthors": [
+            "Sayed Parvez Ahmed",
+            "Muhammad Abdul Kadir",
+            "Rubina Rahman",
+            "Golam Dastegir Al Quaderi",
+            "Khondkar Siddique-e Rabbani"
+        ],
+        "keywords": "Organ Volume, Volume Determination, Focused Impedance Method, FIM, Electrical Impedance"
+    },
+    {
+        "id": 653,
+        "label": 18,
+        "author": "m a kadir",
+        "title": "Application of Focused Impedance Method (FIM) to Determine the Volume of an Object within a Volume Conductor",
+        "organization": "Department of Biomedical Physics &amp; Technology University of Dhaka",
+        "abstract": "Focused Impedance Method (FIM), a new technique of electrical impedance measurement having high sensitivity in the central region, can sense the change in transfer impedance of an object embedded at a shallow depth within a volume conductor of unchanging background conductivity, using electrodes at the surface. This paper presents a new method for measuring the volume of such an embedded object using two electrode separations of a concentric 4-electrode FIM configuration. The formalism developed requires the depth of the object to be known, which is possible using anatomy for objects in the human body, the main target of this research. The new method has been evaluated for a spherical object in a cubic volume conductor using COMSOL Multiphysics software simulations that use finite element method. The error in the evaluated radius of the object was less than 1%. Further studies using phantoms will be performed before applying this technique on human subjects for the measurement of the volume of acid secretion in the stomach and similar applications.",
+        "email": "",
+        "conf": "COMSOL Conference, Bangalore",
+        "coauthors": [
+            "Muhammad Abdul Kadir",
+            "Sayed Parvez Ahmed",
+            "Golam Dastegir Al-Quaderi",
+            "Rubina Rahman",
+            "Khondkar Siddique-e Rabbani"
+        ],
+        "keywords": "Electrical Impedance, FIM, Volume determination, Sensitivity distribution, Volume Conductor, Gastric acid secretion"
+    },
+    {
+        "id": 647,
+        "label": 18,
+        "author": "m a kadir",
+        "title": "Reconstruction algorithm for Pigeon Hole Imaging (PHI)",
+        "organization": "Department of Biomedical Physics &amp; Technology University of Dhaka",
+        "abstract": "Pigeon Hole Imaging (PHI) is a non-ionizing imaging modality that maps spatial distribution of electrical conductivity within a volume conductor. In PHI, electrical impedance is measured placing an electrode array on the surface of a volume conductor and the conductivity distribution in a plane parallel to the electrode array is obtained. This paper describes an image reconstruction algorithm for PHI based on 4-electrode Focused Impedance Measurements (FIM). The impedance measurements were simulated in a finite element based simulation software COMSOL Multiphysics for 5×5 and 6×6 PHI matrices. The measured impedance on the volume conductor surface just above an object of different conductivity compared to the volume conductor was found to be different than that in the neighbouring regions which is the basis of the image reconstruction algorithm. The developed algorithm was tested by modelling volume conductors containing multiple objects of different conductivities at different depths. It was found that PHI has 3D sensitivity and the developed algorithm can fairly detect objects with diameter at least of the order of half the electrode separation with depth equal to or less than electrode separation. Being a low cost and non-ionizing method, there is a potential of using PHI in the imaging of organs, tumors and blood vessels in human body although the image resolution is low.",
+        "email": "",
+        "conf": "International Conference on Electrical Information and Communication Technology (EICT)",
+        "coauthors": [
+            "Rushdi Zahid Rusho",
+            "Muhammad Abdul Kadir"
+        ],
+        "keywords": "Electrical bioimpedance,Pigeon Hole Imaging,Conductivity Imaging,Image Reconstruction,FIM,EIT"
+    }
+]

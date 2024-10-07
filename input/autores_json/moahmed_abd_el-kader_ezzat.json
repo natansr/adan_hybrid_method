@@ -1,0 +1,32 @@
+[
+    {
+        "id": 680,
+        "label": 21,
+        "author": "moahmed abd el-kader ezzat",
+        "title": "A Proposed System to Define Student Identity through Sound Recognition Techniques",
+        "organization": "Faculty of Specific Education Mansoura University Egypt",
+        "abstract": "This paper presents a framework for a proposed Sound recognition system to identify sound of human and detect who is the speaker. The presented system is an approach for identification sound through Wavelet and pattern recognition. Primary goals of the proposed system were to identify speaker sound by improve performance results and identify the sound. According to many researches and studies to the acoustic signature of many properties which make them the most discriminating between the dynamic characteristics of the human body in the identification and discrimination of sound, so everyone has a unique sound like one, everyone unique nervous system controls the audio device, everyone has their different sound waves from the rest of humanity. Firstly, the system receives sound from the person and converts it to digital signal. Secondly, it makes some pre-processing on signal to makes it clear by removing noise with the following functions: (I) Input Sound; (II) pre-processing; (III) signal feature extraction using wavelet analysis; (IV) classifying signal. And (V) detect the speaker; this showed in the diagram of the proposed system.",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Mohammad ehsan Alami",
+            "Moussa Mounir Atwi",
+            "Mohamed Ezzat"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 679,
+        "label": 21,
+        "author": "moahmed abd el-kader ezzat",
+        "title": "Constructing a System to Identify Student Identity through Sound Recognition Techniques",
+        "organization": "Faculty of Specific Education Mansoura University Egypt",
+        "abstract": "The proper user identification is a crucial part of the access control of any security system. User identification has been traditionally based on something that the user knows (typically a PIN, a password or a passphrase) or something that the user has (e.g. a key. a token, a magnetic or smart card, a badge, a passport). These traditional methods of the user identification unfortunately do not authenticate the user as such. The traditional security system that uses password isn't becoming useful in the era of information and communication technology. If someone knows the password of another password, He will have all the vital permissions that belong to him. As Traditional methods are based on properties that can be forgotten, disclosed, lost or stolen. Passwords often are easily accessible to colleagues and even occasional visitors and users tend to pass their tokens to or share their passwords with their colleagues to make their work easier. On the other hand, biometrics identifies humans as such. In case the biometric system used is working properly and reliably. It's not so easy to achieve. Biometrics is automated methods of identity verification or identification based on the principle of measuring physiological or behavioral characteristics such as a fingerprint, an iris pattern or a sound sample. Biometric characteristics are (or rather should be) unique and not duplicable or transferable. The biometric features are the vital way because it’s unique and so is being the best. As the questionnaire of quality assurance and accreditation system in Mansoura University needs student's ID and password to enter the system. The students use this system to opinions about the courses and faculty staff. There is no guarantee that the student is the same person who chooses this option, so that the biometric security systems must be used to protect the whole system. Therefore, this thesis presents a framework of a proposed system for student identification using the voice of students. It's depended on detect who is the speaker by using the feature of the sound signal. The proposed system is an approach for identifying sound through wavelet package transform. The main goal of the proposed system is to extract sound features and to find matching results to identify the students. The proposed framework for identifying student identity via sound recognition technique includes four stages the first stage (pre-processing) is concerned with recording different ten signal patterns for each student after reducing their noise. The second stage (feature extraction) extracts 20 features for each signal via five levels by using wavelet. The third stage (classification) classifies the sound database with artificial neural network. The network result the best performance is 86.8% at iteration 59. The fourth stage (identification match Algorithm) is identifying student by extracting the sound feature of the query student sound by matching it with the sound database.",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Mohamed Ezzat"
+        ],
+        "keywords": ""
+    }
+]

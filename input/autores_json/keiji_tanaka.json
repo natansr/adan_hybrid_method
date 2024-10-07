@@ -1,0 +1,1185 @@
+[
+    {
+        "id": 7472,
+        "label": 133,
+        "author": "keiji tanaka",
+        "title": "Prior experience of rotation is not required for recognizing objects seen from different angles",
+        "organization": "RIKEN Center for Brain Science",
+        "abstract": "An object viewed from different angles can be recognized and distinguished from similar distractors after the viewer has had experience watching it rotate. It has been assumed that as an observer watches the rotation, separate representations of individual views become associated with one another. However, we show here that once monkeys learned to discriminate individual views of objects, they were able to recognize objects across rotations up to 60°, even though there had been no opportunity to learn the association between different views. Our results suggest that object recognition across small or medium changes in viewing angle depends on features common to similar views of objects.",
+        "email": "",
+        "conf": "Nature Neuroscience",
+        "coauthors": [
+            "Gang Wang",
+            "Shinji Obama",
+            "Wakayo Yamashita",
+            "Keiji Tanaka"
+        ],
+        "keywords": "Gang Wang; Shinji Obama; Wakayo Yamashita; Tadashi Sugihara; Keiji Tanaka"
+    },
+    {
+        "id": 7496,
+        "label": 133,
+        "author": "keiji tanaka",
+        "title": "Columns for visual features of objects in monkey inferotemporal cortex",
+        "organization": "RIKEN Center for Brain Science",
+        "abstract": "AT early stages of the mammalian visual cortex, neurons with similar stimulus selectivities are vertically arrayed through the thickness of the cortical sheet and clustered in patches or bands across the surface. This organization, referred to as a 'column', has been found with respect to one-dimensional stimulus parameters such as orientation of stimulus contours1, eye dominance of visual inputs1, and direction of stimulus motion2. It is unclear, however, whether information with extremely high dimensions, such as visual shape, is organized in a similar columnar fashion or in a different manner in the brain. Here we report that the anterior inferotemporal area of the monkey cortex, the final station of the visual cortical stream crucial for object recognition3–8, consists of columns, each containing cells responsive to similar visual features of objects.",
+        "email": "",
+        "conf": "Nature",
+        "coauthors": [
+            "Ichiro Fujita",
+            "Keiji Tanaka",
+            "Minami Ito",
+            "Kang Cheng"
+        ],
+        "keywords": "Cerebral cortex, Visual cortex, Stimulus form, Macaca fuscata, Column organization, Monkey, Luminous stimulus, Brain (vertebrata), Mammalia, Primates, Simioidea, Central, nervous system, Vertebrata, Vision"
+    },
+    {
+        "id": 7453,
+        "label": 133,
+        "author": "keiji tanaka",
+        "title": "Developing Intuition: Neural Correlates of Cognitive-Skill Learning in Caudate Nucleus",
+        "organization": "RIKEN Center for Brain Science",
+        "abstract": "he superior capability of cognitive experts largely depends on automatic, quick information processing, which is often referred to as intuition. Intuition develops following extensive long-term training. There are many cognitive models on intuition development, but its neural basis is not known. Here we trained novices for 15 weeks to learn a simple board game and measured their brain activities in early and end phases of the training while they quickly generated the best next-move to a given board pattern. We found that the activation in the head of caudate nucleus developed over the course of training, in parallel to the development of the capability to quickly generate the best next-move, and the magnitude of the caudate activity was correlated with the subject's performance. In contrast, cortical activations, which already appeared in the early phase of training, did not further change. Thus, neural activation in the caudate head, but not those in cortical areas, tracked the development of capability to quickly generate the best next-move, indicating that circuitries including the caudate head may automate cognitive computations.",
+        "email": "keiji@riken.jp",
+        "conf": "The Journal of Neuroscience : The Official Journal of the Society for Neuroscience",
+        "coauthors": [
+            "Xiaohong Wan",
+            "Daisuke Takano",
+            "Takeshi Asamizuya",
+            "Chisato Suzuki",
+            "Kenichi Ueno",
+            "Kang Cheng",
+            "Takeshi Ito",
+            "Keiji Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7479,
+        "label": 133,
+        "author": "keiji tanaka",
+        "title": "Human Ocular Dominance Columns as Revealed by High-Field Functional Magnetic Resonance Imaging",
+        "organization": "RIKEN Center for Brain Science",
+        "abstract": "We mapped ocular dominance columns (ODCs) in normal human subjects using high-field (4 T) functional magnetic resonance imaging (fMRI) with a segmented echo planar imaging technique and an in-plane resolution of 0.47 × 0.47 mm2. The differential responses to left or right eye stimulation could be reliably resolved in anatomically well-defined sections of V1. The orientation and width (∼1 mm) of mapped ODC stripes conformed to those previously revealed in postmortem brains stained with cytochrome oxidase. In addition, we showed that mapped ODC patterns could be largely reproduced in different experiments conducted within the same experimental session or over different sessions. Our results demonstrate that high-field fMRI can be used for studying the functions of human brains at columnar spatial resolution.",
+        "email": "",
+        "conf": "Neuron",
+        "coauthors": [
+            "Kang Cheng",
+            "R. Allen Waggoner",
+            "Keiji Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7497,
+        "label": 133,
+        "author": "keiji tanaka",
+        "title": "Inferotemporal cortex and higher visual functions",
+        "organization": "RIKEN Center for Brain Science",
+        "abstract": "Recent studies have led to a better understanding of the mechanisms of object vision in the inferotemporal cortex. In particular, a columnar organization has been revealed, and a short-term change of responsiveness has been proposed as a neural correlate of working memory.",
+        "email": "",
+        "conf": "Current Opinion in Neurobiology",
+        "coauthors": [
+            "Keiji Tanaka"
+        ],
+        "keywords": "DMS,delayed matching to sample,TE,anterior part of inferotemporal cortex"
+    },
+    {
+        "id": 7505,
+        "label": 133,
+        "author": "keiji tanaka",
+        "title": "Cross-correlation analysis of geniculostriate neuronal relationships in cats",
+        "organization": "RIKEN Center for Brain Science",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of Neurophysiology",
+        "coauthors": [
+            "Keiji Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7490,
+        "label": 133,
+        "author": "keiji tanaka",
+        "title": "Neuronal selectivities to complex object features in the ventral visual pathway of the macaque cerebral cortex",
+        "organization": "RIKEN Center for Brain Science",
+        "abstract": "To infer relative roles of cortical areas at different stages of the ventral visual pathway, we quantitatively examined visual responses of cells in V2, V4, the posterior part of the inferotemporal cortex (posterior IT), and the anterior part of the inferotemporal cortex (anterior IT), using anesthetized macaque monkeys. 2. The critical feature for the activation was first determined for each recorded cell by using a reduction method. We started from images of three-dimensional complex objects and simplified the image of effective stimuli step by step by eliminating a part of the features present in the image. The simplest feature that maximally activated the cell was determined as the critical feature. The response to the critical feature was then compared with responses of the same cell to a routine set of 32 simple stimuli, which included white and black bars of four different orientations and squares or spots of four different colors. 3. Cells that responded maximally to particular complex object features were found in posterior IT and V4 as well as in anterior IT. The cells in posterior IT and V4 were, however, different from the cells in anterior IT in that many of them responded to some extent to some simple features, that the size of the receptive field was small, and that they intermingled in single penetrations with cells that responded maximally to some simple features. The complex critical features in posterior IT and V4 varied; they consisted of complex shapes, combinations of a shape and texture, and combinations of a shape and color. 4. We suggest that local neuronal networks in V4 and posterior IT play an essential role in the formation of selective responses to complex object features.",
+        "email": "",
+        "conf": "Journal of Neurophysiology",
+        "coauthors": [
+            "E Kobatake",
+            "Keiji Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7483,
+        "label": 133,
+        "author": "keiji tanaka",
+        "title": "Mechanisms of visual object recognition studied in monkeys",
+        "organization": "RIKEN Center for Brain Science",
+        "abstract": "Cells in area TE of the inferotemporal cortex of the monkey brain selectively respond to various moderately complex object-features, and those responding to similar features cluster in a columnar region elongated vertical to the cortical surface. Although cells within a column respond to similar features, their selectivity is not identical. The data of optical imaging in TE have suggested that the borders between neighboring columns are not discrete but columns representing related features overlap one another. We have also found, by training adult monkeys for discrimination of a specific set of shapes, that such a long-term training increases the proportion of TE cells responding to the shapes used in the training even in the adult. The data suggested that TE plays important roles in discrimination of complex shapes and in visual expert learning of discriminating a certain class of objects in the adult.",
+        "email": "",
+        "conf": "Spatial Vision",
+        "coauthors": [
+            "Keiji Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7470,
+        "label": 133,
+        "author": "keiji tanaka",
+        "title": "Reward Association Affects Neuronal Responses to Visual Stimuli in Macaque TE and Perirhinal Cortices",
+        "organization": "RIKEN Center for Brain Science",
+        "abstract": "To study the roles of the perirhinal cortex (PRh) and temporal cortex (area TE) in stimulus–reward associations, we recorded spike activities of cells from PRh and TE in two monkeys performing a visually cued go/no-go task. Each visual cue indicated the required motor action as well as the availability of reward after correct completion of the trial. Eighty object images were divided into four groups, each of which was assigned to one of four motor–reward conditions. The monkeys either had to release a lever (go response) or keep pressing it (no-go response), depending on the cue. Each of the go and no-go trials could be either a rewarded or unrewarded trial. A liquid reward was provided after correct responses in rewarded trials, whereas correct responses were acknowledged only by audiovisual feedback in unrewarded trials. Several measures of the monkeys' behavior indicated that the monkeys correctly anticipated the reward availability in each trial. The dependence of neuronal activity on the reward condition was examined by comparing mean discharges to each of the 40 rewarded stimuli with those to each of the 40 unrewarded stimuli. Many cells in both areas showed significant reward dependence in their responses to the visual cues, and this was not likely attributable to differences in behavior across conditions because the variations in neuronal activity were not correlated with trial-by-trial variations in latency of go responses or anticipatory sucking strength. These results suggest the involvement of PRh and TE in associating visual stimuli with reward outcomes.",
+        "email": "",
+        "conf": "The Journal of Neuroscience : The Official Journal of the Society for Neuroscience",
+        "coauthors": [
+            "Tsuguo Mogami",
+            "Keiji Tanaka"
+        ],
+        "keywords": "association,reward,inferotemporal,visual,perirhinal,macaque,unit recording"
+    },
+    {
+        "id": 7491,
+        "label": 133,
+        "author": "keiji tanaka",
+        "title": "Neurochemical gradient along the monkey occipito-temporal cortical pathway",
+        "organization": "RIKEN Center for Brain Science",
+        "abstract": "Examined the neuronal distribution of 2 calcium-binding proteins, calbindin (CB) and parvalbumin (PV), along the occipito-temporal cortical pathway, which sequentially connects visual areas Vl, V2, V4, TEO, and TE, and then areas TG and 36 in 3 monkeys. the goal was to elucidate neurochemical differences between cortical areas along the ventral visual pathway. Immunohistochemical staining showed that CB-containing pyramidal cells, which were mostly limited to layers 2 and 3, gradually increased in population from the posterior to the anterior areas. PV-containing nonpyramidal cells were sparser in areas TG and 36 than in the other areas. The posterior and anterior areas of the occipito-temporal cortical pathway were different in the chemical characteristics of their neurones.",
+        "email": "",
+        "conf": "Neuroreport",
+        "coauthors": [
+            "Hideki Kondo",
+            "Tsutomu Hashikawa",
+            "Keiji Tanaka",
+            "Edward G. Jones"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7476,
+        "label": 133,
+        "author": "keiji tanaka",
+        "title": "Conflict and Cognitive Control",
+        "organization": "RIKEN Center for Brain Science",
+        "abstract": "When there is conflict regarding which action plan to execute in response to a sensory stimulus, the brain exerts greater cognitive control to try and resolve the conflict. In their Perspective, Matsumoto and Tanaka explain new work ( Kerns et al.) showing that the detection of action-plan conflict by the anterior cingulate cortex leads to recruitment of greater cognitive control in the lateral prefrontal cortex.",
+        "email": "",
+        "conf": "Science",
+        "coauthors": [
+            "Kenji Matsumoto",
+            "Keiji Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7463,
+        "label": 133,
+        "author": "keiji tanaka",
+        "title": "Matching Categorical Object Representations in Inferior Temporal Cortex of Man and Monkey",
+        "organization": "RIKEN Center for Brain Science",
+        "abstract": "Inferior temporal (IT) object representations have been intensively studied in monkeys and humans, but representations of the same particular objects have never been compared between the species. Moreover, IT's role in categorization is not well understood. Here, we presented monkeys and humans with the same images of real-world objects and measured the IT response pattern elicited by each image. In order to relate the representations between the species and to computational models, we compare response-pattern dissimilarity matrices. IT response patterns form category clusters, which match between man and monkey. The clusters correspond to animate and inanimate objects; within the animate objects, faces and bodies form subclusters. Within each category, IT distinguishes individual exemplars, and the within-category exemplar similarities also match between the species. Our findings suggest that primate IT across species may host a common code, which combines a categorical and a continuous representation of objects.",
+        "email": "",
+        "conf": "Neuron",
+        "coauthors": [
+            "Nikolaus Kriegeskorte",
+            "Marieke Mur",
+            "Douglas A Ruff",
+            "Roozbeh Kiani",
+            "Jerzy Bodurka",
+            "Hossein Esteky",
+            "Keiji Tanaka",
+            "Peter A Bandettini"
+        ],
+        "keywords": "SYSNEURO"
+    },
+    {
+        "id": 7498,
+        "label": 133,
+        "author": "keiji tanaka",
+        "title": "On oscillating neuronal responses in the visual cortex of the monkey",
+        "organization": "RIKEN Center for Brain Science",
+        "abstract": "Recent studies of visual processing in the cat have shown stimulus-related oscillations in the 30- to 70-Hz range. We sought to replicate these findings in the monkey. 2. We recorded multiunit activity (MUA) and local field potentials (LFP) in areas V1 and middle-temporal area (MT), and MUA from the inferotemporal cortex (IT) of monkeys (Macaca fuscata). Recordings in all areas were made under conditions of anesthesia as close as possible to those in previous studies of oscillating responses in the cat. In addition, we recorded MUA in the IT of behaving monkeys while the monkeys performed a face discrimination task. 3. In areas V1 and MT, LFP power spectra showed broadband increases (1-100 Hz) in amplitude on stimulation by swept optimally oriented light bars, and not a shift in power from low to midfrequency, as has been reported in the cat. 4. MUA autocorrelograms (ACGs) classified by fitting Gabor functions, showed oscillations at approximately 10% of recording sites in V1 and MT, but these oscillations were in the alpha range (12-13 Hz). 5. MUA ACGs from IT in the anesthetized monkey showed no oscillations. 6. For MUA ACGs from IT in the behaving monkey, only two recording sites (out of 50) showed an oscillating response, with frequencies of 44 and 48 Hz. One oscillating response was associated with stimulation, and the other was associated with the absence of stimulation. 7. The very low incidence in the monkey of oscillating responses in the 30- to 70-Hz range (2 in 424 recordings made at 142 recording sites) and the absence of stimulus dependence suggest that such oscillations are unlikely to serve a function in the monkey, and that there may be a species difference between monkey and cat in the dynamics of neural activity in the visual cortex. 8. We found that methods of classifying responses as oscillating used in some of the studies of the cat may have led to overestimation of both the number of sites showing oscillation and the number of pairs of sites showing phase coherence. These problems arise from the failure to take account of badness of fit between Gabor functions and their corresponding ACGs, and from Gabor functions \"ringing\" in response to short phasic phenomena that could be consistent with nonoscillatory activity.",
+        "email": "",
+        "conf": "Journal of Neurophysiology",
+        "coauthors": [
+            "Malcolm Young",
+            "Keiji Tanaka",
+            "Shigeru Yamane"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7512,
+        "label": 133,
+        "author": "keiji tanaka",
+        "title": "Neuronal Connections and Receptive Field Organization of Area 19 Cells of the Cat",
+        "organization": "RIKEN Center for Brain Science",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Keisuke Toyama",
+            "Minoru Kimura",
+            "Keiji Tanaka",
+            "T. Shiida"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7465,
+        "label": 133,
+        "author": "keiji tanaka",
+        "title": "Object Category Structure in Response Patterns of Neuronal Population in Monkey Inferior Temporal Cortex",
+        "organization": "RIKEN Center for Brain Science",
+        "abstract": "Our mental representation of object categories is hierarchically organized, and our rapid and seemingly effortless categorization ability is crucial for our daily behavior. Here, we examine responses of a large number (>600) of neurons in monkey inferior temporal (IT) cortex with a large number (>1,000) of natural and artificial object images. During the recordings, the monkeys performed a passive fixation task. We found that the categorical structure of objects is represented by the pattern of activity distributed over the cell population. Animate and inanimate objects created distinguishable clusters in the population code. The global category of animate objects was divided into bodies, hands, and faces. Faces were divided into primate and nonprimate faces, and the primate-face group was divided into human and monkey faces. Bodies of human, birds, and four-limb animals clustered together, whereas lower animals such as fish, reptile, and insects made another cluster. Thus the cluster analysis showed that IT population responses reconstruct a large part of our intuitive category structure, including the global division into animate and inanimate objects, and further hierarchical subdivisions of animate objects. The representation of categories was distributed in several respects, e.g., the similarity of response patterns to stimuli within a category was maintained by both the cells that maximally responded to the category and the cells that responded weakly to the category. These results advance our understanding of the nature of the IT neural code, suggesting an inherently categorical representation that comprises a range of categories including the amply investigated face category.",
+        "email": "",
+        "conf": "Journal of Neurophysiology",
+        "coauthors": [
+            "Roozbeh Kiani",
+            "Hossein Esteky",
+            "Koorosh Mirpour",
+            "Keiji Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7489,
+        "label": 133,
+        "author": "keiji tanaka",
+        "title": "Processing of Contrast Polarity of Visual Images in Inferotemporal Cortex of the Macaque Monkey",
+        "organization": "RIKEN Center for Brain Science",
+        "abstract": "Cells in the anterior part of the inferotemporal cortex (anterior IT) respond to moderately complex stimulus features of object images. To study dependency of their responses on contrast polarity of stimulus images, we selected cells with optimal stimuli that were defined only by shape and not related to texture or color, and examined effects of reversing the contrast of the image or removing it except for edges between dark and bright parts of the image (“outlining”).The contrast reversal produced a reduction of the response to the optimal stimulus by >50% in 60% of tested cells; the outlining, in 70%. When the two transformations were considered together, 94% of the cells showed a reduction by >50%. Effects of the transformations on shape selectivity were also studied by comparing responses to several different shapes each of whose contours were expressed in different ways. Statistically significant changes in relative effectiveness of the different shapes as a function of contour expression were observed in more than half of the cells. These results suggest that responses of individual cells in anterior IT carry information about contrast polarity as well as about shape.",
+        "email": "",
+        "conf": "Cerebral Cortex",
+        "coauthors": [
+            "Minami Ito",
+            "Ichiro Fujita",
+            "Hiroshi Tamura",
+            "Keiji Tanaka"
+        ],
+        "keywords": "cercopithecidae,color,form perception,macaca,polarity"
+    },
+    {
+        "id": 7480,
+        "label": 133,
+        "author": "keiji tanaka",
+        "title": "Visual Response Properties of Cells in the Ventral and Dorsal Parts of the Macaque Inferotemporal Cortex",
+        "organization": "RIKEN Center for Brain Science",
+        "abstract": "We recorded from cells in the anterio-ventral (TEav) and anterio- dorsal (TEad) parts of area TE of the inferotemporal cortex and examined their responses to a set of 100 visual stimuli in awake, fixating monkeys. In both TEav and TEad we found that, depending on the stimulus, the time course of responses varied considerably within individual cells and that there were three main factors in the variation. One factor is variance in the balance between the initial transient part of responses around 130 ms after stimulus onset and the later part after 240 ms from stimulus onset. The later parts of responses were more stimulus selective. The second factor is variance in the latency of response onset and peak and the third is variance in the speed of decay from the peak within the initial part of the responses. Stronger responses had shorter onset and peak latencies and longer decay times. The results suggest that stimulus images can be discriminated very rapidly in TEav and TEad by detecting differences in response onset. TEav cells differed from TEad cells in that they were more difficult to activate than TEad cells: the proportion of responsive TEav cells was smaller, the maximal responses of individual cells were smaller than in TEad and the number of stimuli that evoked significant responses in individual responsive cells was also smaller than in TEad. Moreover, TEav cells, overall, responded more strongly to more colorful object images than less colorful ones, while TEad cells did not show such a tendency. However, the minimum onset latency of individual cells and the sharpness of stimulus selectivity did not differ significantly between TEav and TEad. Responses of TEav cells are as selective as those of TEad cells, although there remains a possibility that the domain of selectivity differs between the two areas. These results support an earlier anatomical finding that TEav and TEad are located at the same hierarchical level of separate serial pathways rather than at successive stages of a single pathway.",
+        "email": "",
+        "conf": "Cerebral Cortex",
+        "coauthors": [
+            "H Tamura",
+            "Keiji Tanaka"
+        ],
+        "keywords": "cercopithecidae,macaca,photic stimulation,time factors,symptom onset"
+    },
+    {
+        "id": 7484,
+        "label": 133,
+        "author": "keiji tanaka",
+        "title": "Functional architecture in monkey inferotemporal cortex revealed by in vivo optical imaging",
+        "organization": "RIKEN Center for Brain Science",
+        "abstract": "To investigate the functional organization in the monkey inferotemporal cortex, which is the last exclusively visual area along the ventral visual cortical pathway, optical imaging based on intrinsic signals was carried out. We first conducted single-cell recordings with microelectrodes and determined the features critical for the activation of single cells. For the subsequent optical imaging, each critical feature was presented, which evoked multiple dark spots. Individual spots were ∼0.5 mm in diameter and one of them covered the site of the electrode penetration at which the particular critical feature had been determined. The degree of stimulus selectivity varied from spot to spot, and from region to region even within a spot. Some regions were activated only by one of 12–16 stimuli, while others by more than three stimuli. There were spots specifically activated by faces, and the position of activation spot changed gradually along the cortical surface as the stimulus face was rotated in depth. The length of the overall region along the direction of shift of these spots was ∼1 mm. These results confirm the regional clustering of cells with similar stimulus selectivity and suggest larger units in which some parameters of object features are continuously mapped.",
+        "email": "",
+        "conf": "Neuroscience Research",
+        "coauthors": [
+            "Gang Wang",
+            "Manabu Tanifuji",
+            "Keiji Tanaka"
+        ],
+        "keywords": "Optical imaging,Intrinsic signals,Macaque monkey,Ventral visual pathway,Extrastriate visual cortex,Inferotemporal cortex,Object recognition,Face recognition"
+    },
+    {
+        "id": 7503,
+        "label": 133,
+        "author": "keiji tanaka",
+        "title": "Analysis of discontinuity in visual contours in area 19 of the cat",
+        "organization": "RIKEN Center for Brain Science",
+        "abstract": "",
+        "email": "",
+        "conf": "The Journal of Neuroscience",
+        "coauthors": [
+            "H Saito",
+            "Keiji Tanaka",
+            "Y Fukada",
+            "H Oyamada"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7507,
+        "label": 133,
+        "author": "keiji tanaka",
+        "title": "Cross-Correlation Analysis of Interneuronal Connectivity in cat visual cortex",
+        "organization": "RIKEN Center for Brain Science",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of Neurophysiology",
+        "coauthors": [
+            "Keisuke Toyama",
+            "Minoru Kimura",
+            "Keiji Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7499,
+        "label": 133,
+        "author": "keiji tanaka",
+        "title": "Occlusion-related cue used for analysis of motion in the primate visual cortex",
+        "organization": "RIKEN Center for Brain Science",
+        "abstract": "Examined the stimulus cues that are detected by the single cells in the ventral part of the medial superior temporal area in response to movements of a background pattern behind an object using 2 monkeys. The responses disappeared when the border of the object was blurred. Blurring the border degraded an occlusion-related cue (i.e., appearance and disappearance of components of the background at the border), suggesting that the occlusion-related cue is essential for the responses.",
+        "email": "",
+        "conf": "Neuroreport",
+        "coauthors": [
+            "Yoichi Sugita",
+            "Keiji Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7444,
+        "label": 133,
+        "author": "keiji tanaka",
+        "title": "Hue Selectivity in Human Visual Cortex Revealed by Functional Magnetic Resonance Imaging",
+        "organization": "RIKEN Center for Brain Science",
+        "abstract": "The variability of color-selective neurons in human visual cortex is considered more diverse than cone-opponent mechanisms. We addressed this issue by deriving histograms of hue-selective voxels measured using fMRI with a novel stimulation paradigm, where the stimulus hue changed continuously. Despite the large between-subject difference in hue-selective histograms, individual voxels exhibited selectivity for intermediate hues, such as purple, cyan, and orange, in addition to those along cone-opponent axes. In order to rule the possibility out that the selectivity for intermediate hues emerged through spatial summation of activities of neurons selectively responding to cone-opponent signals, we further tested hue-selective adaptations in intermediate directions of cone-opponent axes, by measuring responses to 4 diagonal hues during concurrent adaptation to 1 of the 4 hues. The selective and unidirectional reduction in response to the adapted hue lends supports to our argument that cortical neurons respond selectively to intermediate hues.",
+        "email": "",
+        "conf": "Cerebral Cortex",
+        "coauthors": [
+            "Ichiro Kuriki",
+            "Pei Sun",
+            "Kenichi Ueno",
+            "Keji Tanaka",
+            "Kang Cheng"
+        ],
+        "keywords": "color vision; fMRI adaptation; functional MRI; hue selectivity; human visual cortex; population histogram"
+    },
+    {
+        "id": 7447,
+        "label": 133,
+        "author": "keiji tanaka",
+        "title": "Time Context of Cue-Outcome Associations Represented by Neurons in Perirhinal Cortex",
+        "organization": "RIKEN Center for Brain Science",
+        "abstract": "The perirhinal cortex (PRh), which has extensive connections with diverse brain sites, may contribute to semantic memory by associating various types of information about objects. However, the extent of the types of associations in which PRh participates is unknown. In the present study, we let monkeys experience a consistent contingency between visual cues and different types of outcomes (water reward and sound-only acknowledgment) in a particular time context for many days and then recorded neuronal activities from PRh and area TE, which is the major source of visual inputs to PRh. We found that PRh cells represented the outcome type in their responses to the visual cues only in the time context in which the monkeys had experienced the cue-outcome contingency. In contrast, TE cells represented the outcome information whenever the cue appeared (i.e., independently from the related time context). These results showed that PRh cells represented not only the cue-outcome contingency but also the time context in which the monkeys had experienced the contingency. We conclude that PRh is not specific to the representation of sensory and associative properties of objects themselves but may represent broader information about objects, including the time context in which the objects are associated with particular outcomes.",
+        "email": "",
+        "conf": "The Journal of Neuroscience",
+        "coauthors": [
+            "Manoj Kumar Eradath",
+            "Tsuguo Mogami",
+            "Gang Wang",
+            "Keiji Tanaka"
+        ],
+        "keywords": "area TE,inferotemporal cortex,macaque monkey,reward"
+    },
+    {
+        "id": 7454,
+        "label": 133,
+        "author": "keiji tanaka",
+        "title": "Functional Signalers of Changes in Visual Stimuli: Cortical Responses to Increments and Decrements in Motion Coherence",
+        "organization": "RIKEN Center for Brain Science",
+        "abstract": "How does our brain detect changes in a natural scene? While changes by increments of specific visual attributes, such as contrast or motion coherence, can be signaled by an increase in neuronal activity in early visual areas, like the primary visual cortex (V1) or the human middle temporal complex (hMT+), respectively, the mechanisms for signaling changes resulting from decrements in a stimulus attribute are largely unknown. We have discovered opposing patterns of cortical responses to changes in motion coherence: unlike areas hMT+, V3A and parieto-occipital complex (V6+) that respond to changes in the level of motion coherence monotonically, human areas V4 (hV4), V3B, and ventral occipital always respond positively to both transient increments and decrements. This pattern of responding always positively to stimulus changes can emerge in the presence of either coherence-selective neuron populations, or neurons that are not tuned to particular coherences but adapt to a particular coherence level in a stimulus-selective manner. Our findings provide evidence that these areas possess physiological properties suited for signaling increments and decrements in a stimulus and may form a part of cortical vigilance system for detecting salient changes in the environment.",
+        "email": "",
+        "conf": "Cerebral Cortex",
+        "coauthors": [
+            "Mauro Costagli",
+            "Kenichi Ueno",
+            "Pei Sun",
+            "Justin L. Gardner",
+            "Xiaohong Wan",
+            "Emiliano Ricciardi",
+            "Pietro Pietrini",
+            "Keiji Tanaka",
+            "Kang Cheng"
+        ],
+        "keywords": "fMRI, hMT+, hV4, motion coherence, visual cortex"
+    },
+    {
+        "id": 7486,
+        "label": 133,
+        "author": "keiji tanaka",
+        "title": "Mechanisms of visual object recognition: Monkey and human studies",
+        "organization": "RIKEN Center for Brain Science",
+        "abstract": "The feature-based representation of object images in the inferotemporal cortex of macaque monkeys have been further characterized by optical imaging experiments. Recently, the close corelation between the activity of inferotemporal cells and the perception of object images has been revealed by single-unit recordings from behaving monkeys. The human homologue of the monkey inferotemporal cortex has been identified through use of new non-invasive techniques.",
+        "email": "",
+        "conf": "Current Opinion in Neurobiology",
+        "coauthors": [
+            "Keiji Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7450,
+        "label": 133,
+        "author": "keiji tanaka",
+        "title": "The Essential Role of Primate Orbitofrontal Cortex in Conflict-Induced Executive Control Adjustment",
+        "organization": "RIKEN Center for Brain Science",
+        "abstract": "Conflict in information processing evokes trial-by-trial behavioral modulations. Influential models suggest that adaptive tuning of executive control, mediated by mid-dorsal lateral prefrontal cortex (mdlPFC) and anterior cingulate cortex (ACC), underlies these modulations. However, mdlPFC and ACC are parts of distributed brain networks including orbitofrontal cortex (OFC), posterior cingulate cortex (PCC), and superior-dorsal lateral prefrontal cortex (sdlPFC). Contributions of these latter areas in adaptive tuning of executive control are unknown. We trained monkeys to perform a matching task in which they had to resolve the conflict between two behavior-guiding rules. Here, we report that bilateral lesions in OFC, but not in PCC or sdlPFC, impaired selection between these competing rules. In addition, the behavioral adaptation that is normally induced by experiencing conflict disappeared in OFC-lesioned, but remained normal in PCC-lesioned or sdlPFC-lesioned monkeys. Exploring underlying neuronal processes, we found that the activity of neurons in OFC represented the conflict between behavioral options independent from the other aspects of the task. Responses of OFC neurons to rewards also conveyed information of the conflict level that the monkey had experienced along the course to obtain the reward. Our findings indicate dissociable functions for five closely interconnected cortical areas suggesting that OFC and mdlPFC, but not PCC or sdlPFC or ACC, play indispensable roles in conflict-dependent executive control of on-going behavior. Both mdlPFC and OFC support detection of conflict and its integration with the task goal, but in contrast to mdlPFC, OFC does not retain the necessary information for conflict-induced modulation of future decisions.",
+        "email": "",
+        "conf": "The Journal of Neuroscience",
+        "coauthors": [
+            "Farshad A Mansouri",
+            "Mark J Buckley",
+            "Keiji Tanaka"
+        ],
+        "keywords": "conflict,executive control,lesion study,orbitofrontal cortex"
+    },
+    {
+        "id": 7471,
+        "label": 133,
+        "author": "keiji tanaka",
+        "title": "Prefrontal Cell Activities Related to Monkeys' Success and Failure in Adapting to Rule Changes in a Wisconsin Card Sorting Test Analog",
+        "organization": "RIKEN Center for Brain Science",
+        "abstract": "The cognitive flexibility to select appropriate rules in a changing environment is essential for survival and is assumed to depend on the integrity of prefrontal cortex (PFC). To explore the contribution of the dorsolateral PFC to flexible rule-based behavior, we recorded the activity of cells in this region of monkeys performing a Wisconsin Card Sorting Test (WCST) analog. The monkey had to match a sample to one of three test items by either color or shape. Liquid reward and a discrete visual signal (error signal) were given as feedback to correct and incorrect target selections, respectively. The relevant rule and its frequent changes were not cued, and the monkeys could find it only by interpreting the feedback. In one-third of cells, cellular activity was modulated by the relevant rule, both throughout the trial and between trials. The magnitude of the modulation correlated with the number of errors that the monkeys committed after each rule change in the course of reestablishing high performance. Activity of other cells differed between correct and error trials independently from the rule-related modulation. This difference appeared during actual responses and before the monkeys faced the problems. Many PFC cells responded to the error-signal presentation, and, in some of them, the magnitude of response depended on the relevant rule. These results suggest that the dorsolateral PFC contributes to WCST performance by maintaining the relevant rule across trials, assessing behavioral outcomes, and monitoring the processes that could lead to success and failure in individual trials.",
+        "email": "",
+        "conf": "The Journal of Neuroscience : The Official Journal of the Society for Neuroscience",
+        "coauthors": [
+            "Farshad A Mansouri",
+            "Kenji Matsumoto",
+            "Keiji Tanaka"
+        ],
+        "keywords": "WCST,short-term memory of rule,error-related activity,preparatory attention,history of success and failure,feedback representation"
+    },
+    {
+        "id": 7459,
+        "label": 133,
+        "author": "keiji tanaka",
+        "title": "Processing of infant-directed speech by adults",
+        "organization": "RIKEN Center for Brain Science",
+        "abstract": "Adults typically address infants in a special speech mode called infant-directed speech (IDS). IDS is characterized by a special prosody (i.e., higher pitched, slower and hyperarticulated) and a special lexicon (“baby talk”). Here we investigated which areas of the adult brain are involved in processing IDS, which aspects of IDS (prosodic or lexical) are processed, to what extent the experience of being a parent affects the way adults process IDS, and the effects of gender and personality on IDS processing. Using functional magnetic resonance imaging, we found that mothers with preverbal infants showed enhanced activation in the auditory dorsal pathway of the language areas, regardless of whether they listened to the prosodic or lexical component of IDS. We also found that extroverted mothers showed higher cortical activation in speech-related motor areas than did mothers with lower extroverted personality scores. Increased cortical activation levels were not found for fathers, non-parents, or mothers with older children.",
+        "email": "",
+        "conf": "NeuroImage",
+        "coauthors": [
+            "Yoshi-Taka Matsuda",
+            "Kenichi Ueno",
+            "R. Allen Waggoner",
+            "Donna Erickson",
+            "Yoko Shimura",
+            "Keiji Tanaka",
+            "Kang Cheng",
+            "Reiko Mazuka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7456,
+        "label": 133,
+        "author": "keiji tanaka",
+        "title": "Attention But Not Awareness Modulates the BOLD Signal in the Human V1 During Binocular Suppression",
+        "organization": "RIKEN Center for Brain Science",
+        "abstract": "Although recent psychophysical studies indicate that visual awareness and top-down attention are two distinct processes, it is not clear how they are neurally dissociated in the visual system. Using a two-by-two factorial functional magnetic resonance imaging design with binocular suppression, we found that the visibility or invisibility of a visual target led to only nonsignificant blood oxygenation level–dependent (BOLD) effects in the human primary visual cortex (V1). Directing attention toward and away from the target had much larger and robust effects across all study participants. The difference in the lower-level limit of BOLD activation between attention and awareness illustrates dissociated neural correlates of the two processes. Our results agree with previously reported V1 BOLD effects on attention, while they invite a reconsideration of the functional role of V1 in visual awareness.",
+        "email": "",
+        "conf": "Science",
+        "coauthors": [
+            "Masataka Watanabe",
+            "Kang Cheng",
+            "Yusuke Murayama",
+            "Kenichi Ueno",
+            "Takeshi Asamizuya",
+            "Keiji Tanaka",
+            "Nikos Logothetis"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7511,
+        "label": 133,
+        "author": "keiji tanaka",
+        "title": "Interneuronal connectivity betweenvisual cortical neurones of the cat as studied by cross-corrleation analysis of their impulse discharges",
+        "organization": "RIKEN Center for Brain Science",
+        "abstract": "",
+        "email": "",
+        "conf": "Brain Research",
+        "coauthors": [
+            "Minoru Kimura",
+            "Keiji Tanaka",
+            "Keisuke Toyama"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7452,
+        "label": 133,
+        "author": "keiji tanaka",
+        "title": "Cognitive Control Functions of Anterior Cingulate Cortex in Macaque Monkeys Performing a Wisconsin Card Sorting Test Analog",
+        "organization": "RIKEN Center for Brain Science",
+        "abstract": "Monkeys were trained to select one of three targets by matching in color or matching in shape to a sample. Because the matching rule frequently changed and there were no cues for the currently relevant rule, monkeys had to maintain the relevant rule in working memory to select the correct target. We found that monkeys' error commission was not limited to the period after the rule change and occasionally occurred even after several consecutive correct trials, indicating that the task was cognitively demanding. In trials immediately after such error trials, monkeys' speed of selecting targets was slower. Additionally, in trials following consecutive correct trials, the monkeys' target selections for erroneous responses were slower than those for correct responses. We further found evidence for the involvement of the cortex in the anterior cingulate sulcus (ACCs) in these error-related behavioral modulations. First, ACCs cell activity differed between after-error and after-correct trials. In another group of ACCs cells, the activity differed depending on whether the monkeys were making a correct or erroneous decision in target selection. Second, bilateral ACCs lesions significantly abolished the response slowing both in after-error trials and in error trials. The error likelihood in after-error trials could be inferred by the error feedback in the previous trial, whereas the likelihood of erroneous responses after consecutive correct trials could be monitored only internally. These results suggest that ACCs represent both context-dependent and internally detected error likelihoods and promote modes of response selections in situations that involve these two types of error likelihood.",
+        "email": "",
+        "conf": "The Journal of Neuroscience",
+        "coauthors": [
+            "Masaru Kuwabara",
+            "Farshad A Mansouri",
+            "Mark J Buckley",
+            "Keiji Tanaka"
+        ],
+        "keywords": "cognitive control,error,lesion,prefrontal cortex,response selection,response time"
+    },
+    {
+        "id": 7501,
+        "label": 133,
+        "author": "keiji tanaka",
+        "title": "Underlying mechanisms of the response specificity of expansion/contraction and rotation cells in the dorsal part of the medial superior temporal area of the Macaque monkey",
+        "organization": "RIKEN Center for Brain Science",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of Neurophysiology",
+        "coauthors": [
+            "Keiji Tanaka",
+            "Y Fukada",
+            "HA Saito"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7494,
+        "label": 133,
+        "author": "keiji tanaka",
+        "title": "Analysis of local and wide-field movements in the superior temporal visual areas of the macaque monkey",
+        "organization": "RIKEN Center for Brain Science",
+        "abstract": "Analysis of local and wide-field movements in the superior temporal visual areas of the macaque monkey",
+        "email": "",
+        "conf": "The Journal of Neuroscience",
+        "coauthors": [
+            "Keiji Tanaka",
+            "K. Hikosaka",
+            "H. Saito",
+            "M Yukie",
+            "Y Fukada",
+            "E. Iwai"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7469,
+        "label": 133,
+        "author": "keiji tanaka",
+        "title": "Neuronal Responses to Object Images in the Macaque Inferotemporal Cortex at Different Stimulus Discrimination Levels",
+        "organization": "RIKEN Center for Brain Science",
+        "abstract": "We can discriminate visual objects at multiple levels, from coarse categorization to individual identification. It is not known how the brain adapts to the varying levels of discrimination required in different behavioral contexts. In the present study, we investigated whether the stimulus selectivity of neuronal responses in the monkey inferotemporal cortex, which is the final unimodal stage in the ventral visual pathway, changes with the varying levels of discrimination required for different task conditions. Responses of each inferotemporal cell to the same set of nine object images were examined in two different task conditions. The task alternated between coarse and fine discriminations in the first experiment, and the rule alternated between categorization and individual object identification in the second experiment. Despite these changes in the task requirements and the resulting differences in the monkeys' behavior, we found that the responses of inferotemporal cells were largely unchanged in both experiments. Our results suggest that representation of object images in the inferotemporal cortex is stable and rather insensitive to these kinds of shifts in behavioral context. Neuronal adaptations to behavioral context may occur downstream of the inferotemporal cortex.",
+        "email": "keiji@riken.jp",
+        "conf": "The Journal of Neuroscience : The Official Journal of the Society for Neuroscience",
+        "coauthors": [
+            "Wataru Suzuki",
+            "Kenji Matsumoto",
+            "Keiji Tanaka"
+        ],
+        "keywords": "monkey,visual cortex,inferotemporal cortex,object discrimination,stimulus selectivity,task dependence"
+    },
+    {
+        "id": 7464,
+        "label": 133,
+        "author": "keiji tanaka",
+        "title": "Mnemonic Function of the Dorsolateral Prefrontal Cortex in Conflict-Induced Behavioral Adjustment",
+        "organization": "RIKEN Center for Brain Science",
+        "abstract": "Our cognitive abilities in performing tasks are influenced by experienced competition/conflict between behavioral choices. To determine the role of the anterior cingulate cortex (ACC) and dorsolateral prefrontal cortex (DLPFC) in the conflict detection-resolution process, we conducted complementary lesion and single-cell recording studies in monkeys that were resolving a conflict between two rules. We observed conflict-induced behavioral adjustment that persisted after lesions within the ACC but disappeared after lesions within the DLPFC. In the DLPFC, activity was modulated in some cells by the current conflict level and in other cells by the conflict experienced in the previous trial. These results show that the DLPFC, but not the ACC, is essential for the conflict-induced behavioral adjustment and suggest that encoding and maintenance of information about experienced conflict is mediated by the DLPFC.",
+        "email": "",
+        "conf": "Science",
+        "coauthors": [
+            "Farshad A Mansouri",
+            "Mark J Buckley",
+            "Keiji Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7446,
+        "label": 133,
+        "author": "keiji tanaka",
+        "title": "Neural encoding of opposing strategy values in anterior and posterior cingulate cortex",
+        "organization": "RIKEN Center for Brain Science",
+        "abstract": "Humans, and animals, often encounter ambiguous situations that require a decision on whether to take an offense or a defense strategy. Behavioral studies suggest that a strategy decision is frequently made before concrete options are evaluated. It remains enigmatic, however, how a strategy is determined without exploration of options. Here we investigated neural correlates of quick offense-versus-defense strategy decision in a board game, shogi. We found that the rostral anterior cingulate cortex and the posterior cingulate cortex complementally encoded the defense and attack strategy values, respectively. The dorsolateral prefrontal cortex compared the two strategy values. Several brain regions were activated during decision of concrete moves under an instructed strategy, whereas none of them showed correlation with defense or attack strategy values in their activities during strategy decision. These findings suggest that values of alternative strategies represented in different parts of the cingulate cortex have essential roles in intuitive strategy decision-making.",
+        "email": "",
+        "conf": "Nature Neuroscience",
+        "coauthors": [
+            "Xiaohong Wan",
+            "Kang Cheng",
+            "Keiji Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7473,
+        "label": 133,
+        "author": "keiji tanaka",
+        "title": "Contrast Adaptation and Representation in Human Early Visual Cortex",
+        "organization": "RIKEN Center for Brain Science",
+        "abstract": "The human visual system can distinguish variations in image contrast over a much larger range than measurements of the static relationship between contrast and response in visual cortex would suggest. This discrepancy may be explained if adaptation serves to recenter contrast response functions around the ambient contrast, yet experiments on humans have yet to report such an effect. By using event-related fMRI and a data-driven analysis approach, we found that contrast response functions in V1, V2, and V3 shift to approximately center on the adapting contrast. Furthermore, we discovered that, unlike earlier areas, human V4 (hV4) responds positively to contrast changes, whether increments or decrements, suggesting that hV4 does not faithfully represent contrast, but instead responds to salient changes. These findings suggest that the visual system discounts slow uninformative changes in contrast with adaptation, yet remains exquisitely sensitive to changes that may signal important events in the environment.",
+        "email": "",
+        "conf": "Neuron",
+        "coauthors": [
+            "Justin L Gardner",
+            "Pei Sun",
+            "R. Allen Waggoner",
+            "Kenichi Ueno",
+            "Keiji Tanaka",
+            "Kang Cheng"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7504,
+        "label": 133,
+        "author": "keiji tanaka",
+        "title": "Integration of Direction Signals of Image Motion in the Superior Temporal Sulcus of the Macaque Monkey",
+        "organization": "RIKEN Center for Brain Science",
+        "abstract": "",
+        "email": "",
+        "conf": "The Journal of Neuroscience",
+        "coauthors": [
+            "H.-A. Saito",
+            "M Yukie",
+            "Keiji Tanaka",
+            "E Iwai"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7500,
+        "label": 133,
+        "author": "keiji tanaka",
+        "title": "Coding visual images of objects in the inferotemporal cortex of the macaque monkey",
+        "organization": "RIKEN Center for Brain Science",
+        "abstract": "The inferotemporal cortex (IT) has been thought to play an essential and specific role in visual object discrimination and recognition, because a lesion of IT in the monkey results in a specific deficit in learning tasks that require these visual functions. To understand the cellular basis of the object discrimination and recognition processes in IT, we determined the optimal stimulus of individual IT cells in anesthetized, immobilized monkeys. 2. In the posterior one-third or one-fourth of IT, most cells could be activated maximally by bars or disks just by adjusting the size, orientation, or color of the stimulus. 3. In the remaining anterior two-thirds or three-quarters of IT, most cells required more complex features for their maximal activation. 4. The critical feature for the activation of individual anterior IT cells varied from cell to cell: a complex shape in some cells and a combination of texture or color with contour-shape in other cells. 5. Cells that showed different types of complexity for the critical feature were intermingled throughout anterior IT, whereas cells recorded in single penetrations showed critical features that were related in some respects. 6. Generally speaking, the critical features of anterior IT cells were moderately complex and can be thought of as partial features common to images of several different natural objects. The selectivity to the optimal stimulus was rather sharp, although not absolute. We thus propose that, in anterior IT, images of objects are coded by combinations of active cells, each of which represents the presence of a particular partial feature in the image.",
+        "email": "",
+        "conf": "Journal of Neurophysiology",
+        "coauthors": [
+            "Keiji Tanaka",
+            "H.-A. Saito",
+            "Y Fukada",
+            "M Moriya"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7508,
+        "label": 133,
+        "author": "keiji tanaka",
+        "title": "Organization of cat visual cortex as investigated by cross-correlation technique",
+        "organization": "RIKEN Center for Brain Science",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of Neurophysiology",
+        "coauthors": [
+            "Keisuke Toyama",
+            "Minoru Kimura",
+            "Keiji Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7451,
+        "label": 133,
+        "author": "keiji tanaka",
+        "title": "Dimensionality of Object Representations in Monkey Inferotemporal Cortex",
+        "organization": "RIKEN Center for Brain Science",
+        "abstract": "We have calculated the intrinsic dimensionality of visual object representations in anterior inferotemporal (AIT) cortex, based on responses of a large sample of cells stimulated with photographs of diverse objects. Because dimensionality was dependent on data set size, we determined asymptotic dimensionality as both the number of neurons and number of stimulus image approached infinity. Our final dimensionality estimate was 93 (SD:  11), indicating that there is basis set of approximately 100 independent features that characterize the dimensions of neural object space. We believe this is the first estimate of the dimensionality of neural visual representations based on single-cell neurophysiological data. The dimensionality of AIT object representations was much lower than the dimensionality of the stimuli. We suggest that there may be a gradual reduction in the dimensionality of object representations in neural populations going from retina to inferotemporal cortex as receptive fields become increasingly complex.",
+        "email": "keiji@riken.jp",
+        "conf": "Neural Computation",
+        "coauthors": [
+            "Sidney R Lehky",
+            "Roozbeh Kiani",
+            "Hossein Esteky",
+            "Keiji Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7495,
+        "label": 133,
+        "author": "keiji tanaka",
+        "title": "Serial processing of visual object-features in the posterior and anterior parts of the inferotemporal cortex.",
+        "organization": "RIKEN Center for Brain Science",
+        "abstract": "",
+        "email": "",
+        "conf": "Brain mechanisms of perception and memory: from neuron to behavior",
+        "coauthors": [
+            "Keiji Tanaka",
+            "Ichiro Fujita",
+            "Eucaly Kobatake",
+            "Minami Ito"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7487,
+        "label": 133,
+        "author": "keiji tanaka",
+        "title": "Representation of Visual Features of Objects in the Inferotemporal Cortex",
+        "organization": "RIKEN Center for Brain Science",
+        "abstract": "Cells in area TE of the inferotemporal cortex of the monkey brain selectively respond to various moderately complex object features, and those that respond to similar features cluster in a columnar region elongated vertical to the cortical surface. Columns representing related but different features partially overlap, and at least in some cases they comprise a continuous map of a piece of complex feature space. This continuous mapping is likely used for various computations, such as production of the image of the object at different viewing angles, illumination conditions, and articulation poses. Copyright © 1996 Elsevier Science Ltd.",
+        "email": "",
+        "conf": "Neural networks: the official journal of the International Neural Network Society",
+        "coauthors": [
+            "Keiji Tanaka"
+        ],
+        "keywords": "Macaque monkey,Extrastriate visual cortex,Inferotemporal cortex,Area TE,Object vision,Object recognition,Optical imaging,Population coding"
+    },
+    {
+        "id": 7466,
+        "label": 133,
+        "author": "keiji tanaka",
+        "title": "Medial prefrontal cell activity signaling prediction errors of action values",
+        "organization": "RIKEN Center for Brain Science",
+        "abstract": "To adapt behavior to a changing environment, one must monitor outcomes of executed actions and adjust subsequent actions accordingly. Involvement of the medial frontal cortex in performance monitoring has been suggested, but little is known about neural processes that link performance monitoring to performance adjustment. Here, we recorded from neurons in the medial prefrontal cortex of monkeys learning arbitrary action-outcome contingencies. Some cells preferentially responded to positive visual feedback stimuli and others to negative feedback stimuli. The magnitude of responses to positive feedback stimuli decreased over the course of behavioral adaptation, in correlation with decreases in the amount of prediction error of action values. Therefore, these responses in medial prefrontal cells may signal the direction and amount of error in prediction of values of executed actions to specify the adjustment in subsequent action selections.",
+        "email": "",
+        "conf": "Nature Neuroscience",
+        "coauthors": [
+            "Madoka Matsumoto",
+            "Kenji Matsumoto",
+            "Hiroshi Abe",
+            "Keiji Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7443,
+        "label": 133,
+        "author": "keiji tanaka",
+        "title": "Neural representation for object recognition in inferotemporal cortex",
+        "organization": "RIKEN Center for Brain Science",
+        "abstract": "We suggest that population representation of objects in inferotemporal cortex lie on a continuum between a purely structural, parts-based description and a purely holistic description. The intrinsic dimensionality of object representation is estimated to be around 100, perhaps with lower dimensionalities for object representations more toward the holistic end of the spectrum. Cognitive knowledge in the form of semantic information and task information feed back to inferotemporal cortex from perirhinal and prefrontal cortex respectively, providing high-level multimodal-based expectations that assist in the interpretation of object stimuli. Integration of object information across eye movements may also contribute to object recognition through a process of active vision.",
+        "email": "",
+        "conf": "Current Opinion in Neurobiology",
+        "coauthors": [
+            "Sidney R Lehky",
+            "Keiji Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7492,
+        "label": 133,
+        "author": "keiji tanaka",
+        "title": "Specific and Columnar Projection from Area TEO to TE in the Macaque Inferotemporal Cortex",
+        "organization": "RIKEN Center for Brain Science",
+        "abstract": "The organization of connections from area TEO to TE was studied by the use of the anterogrado tracer Phasaclus vulgans leucoagglutinin (PHA-L). Single or, in one case, two small injections of the tracer were made in the lateral pert of TEO. Labeled terminals wore found in restricted regions of TE within two to five dense foci. In these foci, terminals wore distributed beyond the middlo layers to form a columnar duster elongated ver tical to the cortical surface. This specificity of connections may derive from an organization that is feature specific rather than retinotopic. Single axons reconstructed from the columnar foci showed heterogeneous features in the laminar distribution. Arbors of some axons were localized in the superficial layers, and those of other were in the middle layers.",
+        "email": "",
+        "conf": "Cerebral Cortex",
+        "coauthors": [
+            "Kadharbatcha S Saleem",
+            "Keiji Tanaka",
+            "Kathleen Rockland"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7502,
+        "label": 133,
+        "author": "keiji tanaka",
+        "title": "Polysensory properties of neurons in the anterior bank of the caudal superior temporal sulcus of the macaque monkey",
+        "organization": "RIKEN Center for Brain Science",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of Neurophysiology",
+        "coauthors": [
+            "K. E. Hikosaka",
+            "E Iwai",
+            "H.-A. Saito",
+            "Keiji Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7455,
+        "label": 133,
+        "author": "keiji tanaka",
+        "title": "Demonstration of Tuning to Stimulus Orientation in the Human Visual Cortex: A High-Resolution fMRI Study with a Novel Continuous and Periodic Stimulation Paradigm",
+        "organization": "RIKEN Center for Brain Science",
+        "abstract": "Cells in the animal early visual cortex are sensitive to contour orientations and form repeated structures known as orientation columns. At the behavioral level, there exist 2 well-known global biases in orientation perception (oblique effect and radial bias) in both animals and humans. However, their neural bases are still under debate. To unveil how these behavioral biases are achieved in the early visual cortex, we conducted high-resolution functional magnetic resonance imaging experiments with a novel continuous and periodic stimulation paradigm. By inserting resting recovery periods between successive stimulation periods and introducing a pair of orthogonal stimulation conditions that differed by 90° continuously, we focused on analyzing a blood oxygenation leveldependent response modulated by the change in stimulus orientation and reliably extracted orientation preferences of single voxels. We found that there are more voxels preferring horizontal and vertical orientations, a physiological substrate underlying the oblique effect, and that these over-representations of horizontal and vertical orientations are prevalent in the cortical regions near the horizontal- and vertical-meridian representations, a phenomenon related to the radial bias. Behaviorally, we also confirmed that there exists perceptual superiority for horizontal and vertical orientations around horizontal and vertical meridians, respectively. Our results, thus, refined the neural mechanisms of these 2 global biases in orientation perception.",
+        "email": "",
+        "conf": "Cerebral Cortex",
+        "coauthors": [
+            "Pei Sun",
+            "Justin L Gardner",
+            "Mauro Costagli",
+            "Kenichi Ueno",
+            "R Allen Waggoner",
+            "Keiji Tanaka",
+            "Kang Cheng"
+        ],
+        "keywords": ": fMRI, oblique effect, orientation, primary visual cortex, radial bias"
+    },
+    {
+        "id": 7509,
+        "label": 133,
+        "author": "keiji tanaka",
+        "title": "Three classes of area 19 cortical cells of the cat classified by their neuronal connectivity and photic responsiveness",
+        "organization": "RIKEN Center for Brain Science",
+        "abstract": "",
+        "email": "",
+        "conf": "Vision Research",
+        "coauthors": [
+            "Minoru Kimura",
+            "T Shiida",
+            "Keiji Tanaka",
+            "Keisuke Toyama"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7488,
+        "label": 133,
+        "author": "keiji tanaka",
+        "title": "Optical Imaging of Functional Organization in the Monkey Inferotemporal Cortex",
+        "organization": "RIKEN Center for Brain Science",
+        "abstract": "To investigate the functional organization of object recognition, the technique of optical imaging was applied to the primate inferotemporal cortex, which is thought to be essential for object recognition. The features critical for the activation of single cells were first determined in unit recordings with electrodes. In the subsequent optical imaging, presentation of the critical features activated patchy regions around 0.5 millimeters in diameter, covering the site of the electrode penetration at which the critical feature had been determined. Because signals in optical imaging reflect average neuronal activities in the regions, the result directly indicates the regional clustering of cells responding to similar features.",
+        "email": "",
+        "conf": "Science",
+        "coauthors": [
+            "Gang Wang",
+            "Keiji Tanaka",
+            "Manabu TANIFUJI"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7485,
+        "label": 133,
+        "author": "keiji tanaka",
+        "title": "Effects of Shape-Discrimination Training on the Selectivity of Inferotemporal Cells in Adult Monkeys",
+        "organization": "RIKEN Center for Brain Science",
+        "abstract": "Effects of shape-discrimination training on the selectivity of inferotemporal cells in adult monkeys. J. Neurophysiol. 80: 324–330, 1998. Through extensive training, humans can become “visual experts,” able to visually distinguish subtle differences among similar objects with greater ease than those who are untrained. To understand the neural mechanisms behind this acquired discrimination ability, adult monkeys were fully trained to discriminate 28 moderately complex shapes. The training effects on the stimulus selectivity of cells in area TE of the inferotemporal cortex were then examined in anesthetized preparations. Area TE represents a later stage of the ventral visual cortical pathway that is known to mediate visual object discrimination and recognition. The recordings from the trained monkeys and untrained controls showed that the proportion of TE cells responsive to some member of the 28 stimuli was significantly greater in the trained monkeys than that in the control monkeys. Cell responses recorded from the trained monkeys were not sharply tuned to single training stimuli, but rather broadly covered several training stimuli. The distances among the training stimuli in the response space spanned by responses of the recorded TE cells were significantly greater in the trained monkeys than those in the control monkeys. The subset of training stimuli to which individual cells responded differed from cell to cell with only partial overlaps, suggesting that the cells responded to features common to several stimuli. These results are consistent with a model in which visual expertise is acquired through the development of differential responses by inferotemporal cells to the images of relevant objects.",
+        "email": "",
+        "conf": "Journal of Neurophysiology",
+        "coauthors": [
+            "Eucaly Kobatake",
+            "Gang Wang",
+            "Keiji Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7475,
+        "label": 133,
+        "author": "keiji tanaka",
+        "title": "The role of medial prefrontal cortex in achieving goals",
+        "organization": "RIKEN Center for Brain Science",
+        "abstract": "Achieving goals in changing environments requires the course of action to be selected on the basis of goal expectation and memory of action–outcome contingency. It is often also essential to evaluate action on the basis of immediate outcomes and the discrimination of early action steps from the final step towards the goal. Recently, in single-cell recordings in monkeys, the neuronal activity that appears to underlie these processes has been noted in the medial part of the prefrontal cortex. Medial prefrontal cells were also active when the subjects extracted the rules of a task in a novel environment. The processes described above might play important roles in rule learning.",
+        "email": "",
+        "conf": "Current Opinion in Neurobiology",
+        "coauthors": [
+            "Kenji Matsumoto",
+            "Keiji Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7467,
+        "label": 133,
+        "author": "keiji tanaka",
+        "title": "Cognitive neuroscience",
+        "organization": "RIKEN Center for Brain Science",
+        "abstract": "",
+        "email": "",
+        "conf": "Current Opinion in Neurobiology",
+        "coauthors": [
+            "Takeo Watanabe",
+            "Keiji Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7462,
+        "label": 133,
+        "author": "keiji tanaka",
+        "title": "Correction of 3D rigid body motion in fMRI time series by independent estimation of rotational and translational effects in k-space",
+        "organization": "RIKEN Center for Brain Science",
+        "abstract": "In functional magnetic resonance imaging (fMRI), even subvoxel motion dramatically corrupts the blood oxygenation level-dependent (BOLD) signal, invalidating the assumption that intensity variation in time is primarily due to neuronal activity. Thus, correction of the subject's head movements is a fundamental step to be performed prior to data analysis. Most motion correction techniques register a series of volumes assuming that rigid body motion, characterized by rotational and translational parameters, occurs. Unlike the most widely used applications for fMRI data processing, which correct motion in the image domain by numerically estimating rotational and translational components simultaneously, the algorithm presented here operates in a three-dimensional k-space, to decouple and correct rotations and translations independently, offering new ways and more flexible procedures to estimate the parameters of interest. We developed an implementation of this method in MATLAB, and tested it on both simulated and experimental data. Its performance was quantified in terms of square differences and center of mass stability across time. Our data show that the algorithm proposed here successfully corrects for rigid-body motion, and its employment in future fMRI studies is feasible and promising.",
+        "email": "",
+        "conf": "NeuroImage",
+        "coauthors": [
+            "Mauro Costagli",
+            "R. Allen Waggoner",
+            "Kenichi Ueno",
+            "Keiji Tanaka",
+            "Kang Cheng"
+        ],
+        "keywords": "fMRI,head motion,3D registration,rotation correction,translational shift,Fourier transform,k-space,IERATIK"
+    },
+    {
+        "id": 7448,
+        "label": 133,
+        "author": "keiji tanaka",
+        "title": "Anatomical inputs to sulcal portions of areas 9m and 8Bm in the macaque monkey",
+        "organization": "RIKEN Center for Brain Science",
+        "abstract": "Neuronal activities recorded from the dorsal bank of the anterior cingulate sulcus have suggested that this cortical area is involved in control of search vs. repetition, goal-based action selection and encoding of prediction error regarding action value. In this study, to explore potential anatomical bases for these neuronal activities, we injected retrograde tracers (CTB-Alexa-488 and CTB-gold) into the dorsal bank of the anterior cingulate sulcus and examined the distribution of labeled cell bodies in macaque monkey brains. The Nissl staining showed that the cortex in the dorsal bank of the anterior cingulate sulcus has consistent layer 4 which means that the cortical region is a part of the granular prefrontal cortex. The injection site belonged to the sulcal portion of area 9m in two cases and the sulcal portion of area 8Bm in one case. In addition to the continuous distribution of labeled cells in the two areas (areas 9m and 8Bm) around the injection site, the labeled cells were densely distributed in the cingulate areas (areas 24, 32, and 23) in all the cases. The dense labeling of cells was also found in other prefrontal areas (areas 46, 10, 11, and 12) in the two cases with injection into the sulcal portion of area 9m, whereas the dense labeling of cells was found in pre-motor areas (F6 and F7) in the case with injection into the sulcal portion of area 8Bm. The dense labeling of cells in the prefrontal and premotor areas was more similar to those previously found after injections into dorsal parts of areas 9 and 8B. Subcortical distribution of labeled cells was found in the mediodorsal nucleus of thalamus, claustrum, and substantia nigra pars compacta in all the cases.",
+        "email": "",
+        "conf": "Frontiers in Neuroanatomy",
+        "coauthors": [
+            "Manoj Kumar Eradath",
+            "Hiroshi Abe",
+            "Madoka Matsumoto",
+            "Kenji Matsumoto",
+            "Keiji Tanaka",
+            "Noritaka Ichinohe"
+        ],
+        "keywords": "retrograde tracer, labeled cell bodies, connections, area 9m, area 8Bm"
+    },
+    {
+        "id": 7460,
+        "label": 133,
+        "author": "keiji tanaka",
+        "title": "Opposing Effects of Contextual Surround in Human Early Visual Cortex Revealed by Functional Magnetic Resonance Imaging with Continuously Modulated Visual Stimuli",
+        "organization": "RIKEN Center for Brain Science",
+        "abstract": "Spatial context in vision has profound effects on neural responses and perception. Recent animal studies suggest that the effect of surround on a central stimulus can dramatically change its character depending on the contrast of the center stimulus, but such a drastic change has not been demonstrated in the human visual cortex. To examine the dependency of the surround effect on the contrast of the center stimulus, we conducted an functional magnetic resonance imaging experiment by using a low or a high contrast in the center region while the surround contrast was sinusoidally modulated between the two contrasts. We found that the blood oxygen level-dependent response in human V1 corresponding to the center region was differentially modulated by the surround contrast, depending crucially on the center contrast: whereas a suppressive effect was observed in conditions in which the center contrast was high, a facilitative effect was seen in conditions where the center contrast was low.",
+        "email": "",
+        "conf": "The Journal of Neuroscience : The Official Journal of the Society for Neuroscience",
+        "coauthors": [
+            "Satohiro Tajima",
+            "Masataka Watanabe",
+            "Chihiro Imai",
+            "Kenichi Ueno",
+            "Takeshi Asamizuya",
+            "Pei Sun",
+            "Keiji Tanaka",
+            "Kang Cheng"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7457,
+        "label": 133,
+        "author": "keiji tanaka",
+        "title": "Statistics of visual responses in primate inferotemporal cortex to object stimuli",
+        "organization": "RIKEN Center for Brain Science",
+        "abstract": "We have characterized selectivity and sparseness in anterior inferotemporal cortex, using a large data set. Responses were collected from 674 monkey inferotemporal cells, each stimulated by 806 object photographs. This 806 × 674 matrix was examined in two ways: columnwise, looking at responses of a single neuron to all images (single-neuron selectivity), and rowwise, looking at the responses of all neurons caused by a single image (population sparseness). Selectivity and sparseness were measured as kurtosis of probability distributions. Population sparseness exceeded single-neuron selectivity, with specific values dependent on the size of the data sample. This difference was principally caused by inclusion, within the population, of neurons with a variety of dynamic ranges (standard deviations of responses over all images). Statistics of large responses were examined by quantifying how quickly the upper tail of the probability distribution decreased (tail heaviness). This analysis demonstrated that population responses had heavier tails than single-neuron responses, consistent with the difference between sparseness and selectivity measurements. Population responses with spontaneous activity subtracted had the heaviest tails, following a power law. The very light tails of single-neuron responses indicate that the critical feature for each neuron is simple enough to have a high probability of occurring within a limited stimulus set. Heavy tails of population responses indicate that there are a large number of different critical features to which different neurons are tuned. These results are inconsistent with some structural models of object recognition that posit that objects are decomposed into a small number of standard features.",
+        "email": "",
+        "conf": "Journal of Neurophysiology",
+        "coauthors": [
+            "Sidney R Lehky",
+            "Roozbeh Kiani",
+            "Hossein Esteky",
+            "Keiji Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7510,
+        "label": 133,
+        "author": "keiji tanaka",
+        "title": "Computer-controlled visual stimulator for electrophysiological experiments",
+        "organization": "RIKEN Center for Brain Science",
+        "abstract": "",
+        "email": "",
+        "conf": "Vision Research",
+        "coauthors": [
+            "Keiji Tanaka",
+            "Keisuke Toyama"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7461,
+        "label": 133,
+        "author": "keiji tanaka",
+        "title": "Dissociable Components of Rule-Guided Behavior Depend on Distinct Medial and Prefrontal Regions",
+        "organization": "RIKEN Center for Brain Science",
+        "abstract": "Much of our behavior is guided by rules. Although human prefrontal cortex (PFC) and anterior cingulate cortex (ACC) are implicated in implementing rule-guided behavior, the crucial contributions made by different regions within these areas are not yet specified. In an attempt to bridge human neuropsychology and nonhuman primate neurophysiology, we report the effects of circumscribed lesions to macaque orbitofrontal cortex (OFC), principal sulcus (PS), superior dorsolateral PFC, ventrolateral PFC, or ACC sulcus, on separable cognitive components of a Wisconsin Card Sorting Test (WCST) analog. Only the PS lesions impaired maintenance of abstract rules in working memory; only the OFC lesions impaired rapid reward-based updating of representations of rule value; the ACC sulcus lesions impaired active reference to the value of recent choice-outcomes during rule-based decision-making.",
+        "email": "",
+        "conf": "Science",
+        "coauthors": [
+            "Mark J Buckley",
+            "Farshad A Mansouri",
+            "Hassan Hoda",
+            "Majid Mahboubi",
+            "Philip G F Browning",
+            "Sze C Kwok",
+            "Adam Phillips",
+            "Keiji Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7445,
+        "label": 133,
+        "author": "keiji tanaka",
+        "title": "Behavioral consequences of selective damage to frontal pole and posterior cingulate cortices",
+        "organization": "RIKEN Center for Brain Science",
+        "abstract": "Frontal pole cortex (FPC) and posterior cingulate cortex (PCC) have close neuroanatomical connections, and imaging studies have shown coactivation or codeactivation of these brain regions during performance of certain tasks. However, they are among the least well-understood regions of the primate brain. One reason for this is that the consequences of selective bilateral lesions to either structure have not previously been studied in any primate species. We studied the effects of circumscribed bilateral lesions to FPC or PCC on monkeys’ ability to perform an analog of Wisconsin Card Sorting Test (WCST) and related tasks. In contrast to lesions in other prefrontal regions, neither posttraining FPC nor PCC lesions impaired animals’ abilities to follow the rule switches that frequently occurred within the WCST task. However, FPC lesions were not without effect, because they augmented the ability of animals to adjust cognitive control after experiencing high levels of conflict (whereas PCC lesions did not have any effect). In addition, FPC-lesioned monkeys were more successful than controls or PCC-lesioned animals at remembering the relevant rule across experimentally imposed distractions involving either an intervening secondary task or a surprising delivery of free reward. Although prefrontal cortex posterior to FPC is specialized for mediating efficient goal-directed behavior to maximally exploit reward opportunities from ongoing tasks, our data led us to suggest that FPC is, instead, specialized for disengaging executive control from the current task and redistributing it to novel sources of reward to explore new opportunities/goals.",
+        "email": "",
+        "conf": "Proceedings of the National Academy of Sciences",
+        "coauthors": [
+            "Farshad A Mansouri",
+            "Mark J Buckley",
+            "Majid Mahboubi",
+            "Keiji Tanaka"
+        ],
+        "keywords": "frontal pole cortex,posterior cingulate cortex,executive control"
+    },
+    {
+        "id": 7449,
+        "label": 133,
+        "author": "keiji tanaka",
+        "title": "Neural Substrates of View-Invariant Object Recognition Developed without Experiencing Rotations of the Objects",
+        "organization": "RIKEN Center for Brain Science",
+        "abstract": "One fails to recognize an unfamiliar object across changes in viewing angle when it must be discriminated from similar distractor objects. View-invariant recognition gradually develops as the viewer repeatedly sees the objects in rotation. It is assumed that different views of each object are associated with one another while their successive appearance is experienced in rotation. However, natural experience of objects also contains ample opportunities to discriminate among objects at each of the multiple viewing angles. Our previous behavioral experiments showed that after experiencing a new set of object stimuli during a task that required only discrimination at each of four viewing angles at 30° intervals, monkeys could recognize the objects across changes in viewing angle up to 60°. By recording activities of neurons from the inferotemporal cortex after various types of preparatory experience, we here found a possible neural substrate for the monkeys' performance. For object sets that the monkeys had experienced during the task that required only discrimination at each of four viewing angles, many inferotemporal neurons showed object selectivity covering multiple views. The degree of view generalization found for these object sets was similar to that found for stimulus sets with which the monkeys had been trained to conduct view-invariant recognition. These results suggest that the experience of discriminating new objects in each of several viewing angles develops the partially view-generalized object selectivity distributed over many neurons in the inferotemporal cortex, which in turn bases the monkeys' emergent capability to discriminate the objects across changes in viewing angle.",
+        "email": "",
+        "conf": "The Journal of Neuroscience",
+        "coauthors": [
+            "Jun-ya Okamura",
+            "Reona Yamaguchi",
+            "Kazunari Honda",
+            "Gang Wang",
+            "Keiji Tanaka"
+        ],
+        "keywords": "monkey inferotemporal cortex,object,view invariance"
+    },
+    {
+        "id": 7478,
+        "label": 133,
+        "author": "keiji tanaka",
+        "title": "Behavioral evidence for working memory of sensory dimension in macaque monkeys",
+        "organization": "RIKEN Center for Brain Science",
+        "abstract": "For animals, which lack language codes, there might be limitations in the use of abstract concepts in guiding their behavior. We trained two macaque monkeys in a computerized version of Wisconsin Card Sorting Task (WCST) with two dimensions (shape and color) to test their capability for memorizing, updating and using representation of sensory dimension. A sample had to be matched with one of three test items by either matching in color or shape. The monkeys had to find the relevant sensory dimension and its sudden changes by trial and error only based on reward and error signals. Both monkeys succeeded in more than ten shifts in the rules within a daily session. Several probe tests showed that the monkeys in fact used the dimension-based matching rules, because the rule shift was generalized from the experience of some samples to all of the others in the sample set, and because the rules were immediately applied to newly introduced samples. The frequent shifts can be overcome only with representation of the sensory dimension in working memory. These results, thus, suggest that nonhuman primates can store sensory dimension such as color and shape in working memory, dynamically update it based on the behavioral outcomes, and use it to guide behavior, despite their lack of apparent language.",
+        "email": "",
+        "conf": "Behavioural Brain Research",
+        "coauthors": [
+            "Farshad A Mansouri",
+            "Keiji Tanaka"
+        ],
+        "keywords": "Working memory,Monkey,Abstract rule,WCST,Behavior,Selective attention"
+    },
+    {
+        "id": 7458,
+        "label": 133,
+        "author": "keiji tanaka",
+        "title": "The Neural Basis of Intuitive Best Next-Move Generation in Board Game Experts",
+        "organization": "RIKEN Center for Brain Science",
+        "abstract": "The superior capability of cognitive experts largely depends on quick automatic processes. To reveal their neural bases, we used functional magnetic resonance imaging to study brain activity of professional and amateur players in a board game named shogi. We found two activations specific to professionals: one in the precuneus of the parietal lobe during perception of board patterns, and the other in the caudate nucleus of the basal ganglia during quick generation of the best next move. Activities at these two sites covaried in relevant tasks. These results suggest that the precuneus-caudate circuit implements the automatic, yet complicated, processes of board-pattern perception and next-move generation in board game experts.",
+        "email": "",
+        "conf": "Science",
+        "coauthors": [
+            "Xiaohong Wan",
+            "Hironori Nakatani",
+            "Kenichi Ueno",
+            "Takeshi Asamizuya",
+            "Kang Cheng",
+            "Keiji Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7477,
+        "label": 133,
+        "author": "keiji tanaka",
+        "title": "Columns for Complex Visual Object Features in the Inferotemporal Cortex: Clustering of Cells with Similar but Slightly Different Stimulus Selectivities",
+        "organization": "RIKEN Center for Brain Science",
+        "abstract": "Cells in the inferotemporal cortex (area TE) selectively respond to complex visual object features and those that respond to similar features cluster in a columnar region elongated vertical to the cortical surface. What are the functional roles of the column structure in the inferotemporal cortex? Selectivity of cells within a column is similar but not identical. If we emphasize the similarity among cells within a column, we can regard the columns as units for description of object features. The variety of stimulus selectivity in a column may work as a tool to disregard subtle changes in input images when the system is directed to invariant recognition. Alternatively, if we emphasize the differences in selectivity of cells within a column, the columns can be compared to differential amplifiers, each of which represents variety within a group of features. The enormous number of objects present in nature can be efficiently described by combining outputs of the multiple differential amplifiers in the inferotemporal cortex. The two modes may work in parallel, with a graded balance changing according to the behavioral context. Determining whether or not these hypotheses are valid will require further studies.",
+        "email": "keiji@postman.riken.go.jp",
+        "conf": "Cerebral Cortex",
+        "coauthors": [
+            "Keiji Tanaka"
+        ],
+        "keywords": "amplifiers,cercopithecidae,exanthema,neurons,optics,brain,diagnostic imaging,health disparity,object recognition,primary visual cortex"
+    },
+    {
+        "id": 7506,
+        "label": 133,
+        "author": "keiji tanaka",
+        "title": "Distinct X- and Y-streams in the cat visual cortex revealed by bicuculline application",
+        "organization": "RIKEN Center for Brain Science",
+        "abstract": "",
+        "email": "",
+        "conf": "Brain Research",
+        "coauthors": [
+            "Keiji Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7468,
+        "label": 133,
+        "author": "keiji tanaka",
+        "title": "Enhancement of Object Representations in Primate Perirhinal Cortex During a Visual Working-Memory Task",
+        "organization": "RIKEN Center for Brain Science",
+        "abstract": "We compared single-cell activities in perirhinal cortex (PRh) as well as adjacent visual cortex (area TE) across two tasks. One task required the monkey to identify any stimulus repetition within a sequence of object stimuli. In the other task, the same stimuli were presented, but the monkey didn’t have to remember them. PRh responses during the object-memory task were elevated relative to those during the second task. In TE, on the other hand, there were no significant task-related differences in responses. We did not observe task-related differences related to repetition effects in either brain area. The onset of the enhanced signal in PRh during the object-memory task occurred with a latency of 80 ms after the onset of the stimulus response, suggesting that it was the result of top-down feedback.",
+        "email": "",
+        "conf": "Journal of Neurophysiology",
+        "coauthors": [
+            "Sidney R Lehky",
+            "Keiji Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7493,
+        "label": 133,
+        "author": "keiji tanaka",
+        "title": "Analysis of object motion in the ventral part of the medial superior temporal area of the macaque visual cortex",
+        "organization": "RIKEN Center for Brain Science",
+        "abstract": "The medial superior temporal area (MST) is an extrastriate area of the macaque visual cortex. Cells in MST have large receptive fields and respond to moving stimuli with directional selectivity. We previously suggested that the dorsal part of MST is mainly involved in analysis of field motion caused by movements of the animal itself, because most cells in the dorsal part preferentially responded to movements of a wide textured field rather than to movements of a small stimulus. To determine whether the remaining ventral part of MST differs in function from the dorsal part, we examined properties of cells in the ventral part in comparison with those of cells in the dorsal part, using anesthetized and paralyzed preparation. 2. Most cells in the ventral part preferably responded to movements of a small stimulus rather than to movements of a wide textured field. 3. Although the cells in the ventral part did not respond to movements of a textured field over a large window, many of them began to respond when a small stationary object was introduced in front of the moving field. The direction to which the cells responded in this stimulus configuration was opposite to the direction in which they responded to movements of an object on a stationary background. Activities of these cells thus represented the direction of relative movement of an object on a background, irrespective of whether the image of the object or the background moved on the retina. 4. We conclude that the ventral part of MST is distinctive from the dorsal part of MST and is mainly involved in the analysis of object movements in external space.",
+        "email": "",
+        "conf": "Journal of Neurophysiology",
+        "coauthors": [
+            "Keiji Tanaka",
+            "Yoichi Sugita",
+            "M Moriya",
+            "H.-A. Saito"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7482,
+        "label": 133,
+        "author": "keiji tanaka",
+        "title": "Curvature in Depth for Object Representation",
+        "organization": "RIKEN Center for Brain Science",
+        "abstract": "planted into oep mutants rescued ath5 expression. These results suggest that the prechordal axial tissues are important contributors to eye development, probably indirectly through their influence on the optic stalk. The proximate cause of the expression of ath5 was also investigated. The different phenotypes of the two Curvature in Depth mutants correlate with the presence (in cyc) or absence for Object Representation (in oep) of pax2. 1-expressing cells nearby in the optic stalk (see below). This suggests that these cells may",
+        "email": "",
+        "conf": "Neuron",
+        "coauthors": [
+            "Keiji Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7442,
+        "label": 133,
+        "author": "keiji tanaka",
+        "title": "Functional Division Among Prefrontal Cortical Areas in an Analog of Wisconsin Card Sorting Test",
+        "organization": "RIKEN Center for Brain Science",
+        "abstract": "The primate prefrontal cortex (PFC) is composed of several different areas, which have different anatomical connections with other brain structures. We have studied the functional divisions among the prefrontal areas by combining lesion-behavioral experiments with single-cell recordings in intact monkeys using an analog of the Wisconsin Card Sorting Test as a behavioral paradigm. Our results suggest that the PFC is composed of multiple functional units, each of which plays different elementary roles in the performance of cognitively demanding tasks. These elementary functions are mutually dependent on one another, and then the overall performance of the PFC goes beyond a mere sum of the elementary functions. We have also obtained results suggesting that the control of cognitively demanding tasks depends on the posterior parts of the PFC when they are well learned. The most anterior part of PFC, the frontopolar cortex, starts to play another role, i.e., exploration of other possibilities than those pursued by the current task. By having this function of the frontopolar cortex, primates may have increased the flexibility and adaptability of their behaviors in changing environments.",
+        "email": "",
+        "conf": "The Prefrontal Cortex as an Executive, Emotional, and Social Brain",
+        "coauthors": [
+            "Keiji Tanaka",
+            "Mark J. Buckley",
+            "Farshad A. Mansouri"
+        ],
+        "keywords": "Anterior cingulate sulcus area, Principal sulcus area, Orbitofrontal cortex, Frontopolar cortex, Double dissociation, Rule-based behavior, Working memory of rule, Response-selection mode, Rapid learning, Exploration "
+    },
+    {
+        "id": 7474,
+        "label": 133,
+        "author": "keiji tanaka",
+        "title": "Differences in Onset Latency of Macaque Inferotemporal Neural Responses to Primate and Non-Primate Faces",
+        "organization": "RIKEN Center for Brain Science",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of Neurophysiology",
+        "coauthors": [
+            "Roozbeh Kiani",
+            "Hossein Esteky",
+            "Keiji Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7481,
+        "label": 133,
+        "author": "keiji tanaka",
+        "title": "Late responses and perceptual awareness",
+        "organization": "RIKEN Center for Brain Science",
+        "abstract": "An electrophysiological study in monkey primary visual cortex reveals that a late component of neural activity is correlated with perceptual awareness of an object.",
+        "email": "keiji@postman.riken.go.jp",
+        "conf": "Nature Neuroscience",
+        "coauthors": [
+            "Keiji Tanaka"
+        ],
+        "keywords": ""
+    }
+]

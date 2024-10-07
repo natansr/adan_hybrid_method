@@ -1,0 +1,577 @@
+[
+    {
+        "id": 434,
+        "label": 8,
+        "author": "m a a shoukat choudhury",
+        "title": "Detection and Diagnosis of Plant-Wide Oscillations from Industrial Data using the Spectral Envelope Method",
+        "organization": "Professor of Chemical Engineering BUET Dhaka Bangladesh",
+        "abstract": "Plant-wide oscillations are common in many processes. Their effects propagate to many units and may impact the overall process performance. It is important to detect and diagnose the cause of such oscillations in order to rectify the situation. This paper proposes a new procedure to detect and diagnose plant-wide oscillations using routine operating data. A technique called spectral envelope is used to detect oscillations. The variables that have common oscillations are identified and categorized accurately by a statistical hypothesis test. A new index called the oscillation contribution index (OCI) is proposed to isolate the key variables as the potential root cause candidates of the common oscillation(s). Two industrial case studies are presented to demonstrate the utility and practicality of the proposed procedure",
+        "email": "",
+        "conf": "Journal of Process Control",
+        "coauthors": [
+            "Hailei Jiang",
+            "M.A.A. Shoukat Choudhury",
+            "Sirish Shah"
+        ],
+        "keywords": "Oscillation detection, Diagnosis, Spectral envelope, Principal component, Hypothesis test, Valve stiction, Control loop"
+    },
+    {
+        "id": 418,
+        "label": 8,
+        "author": "m a a shoukat choudhury",
+        "title": "Frequency analysis and compensation of valve stiction in cascade control loops",
+        "organization": "Professor of Chemical Engineering BUET Dhaka Bangladesh",
+        "abstract": "Valve stiction is often a common problem in control loops and stiction induced oscillation is the main cause of poor performance in control systems. Cascade control is extensively applied in process industry as an effective strategy to restrain disturbances and compensate process nonlinearities. In recent years many studies have been performed on the detection and quantification of valve stiction in single feedback control loops. However, there is a lack in developing a mechanism which can analyze stiction induced oscillation in cascade control loops. This work focuses on the frequency analysis of stiction induced oscillations in cascade control loops and proposes a mechanism of oscillation compensation through outer and inner controller tuning. The effect of oscillation compensation by changing control strategies is also discussed. The theoretical analysis is evaluated through simulation examples and a pilot-scale flow-level cascade control experiment.",
+        "email": "shoukat@che.buet.ac.bd",
+        "conf": "Journal of Process Control",
+        "coauthors": [
+            "Chen Li",
+            "M.A.A. Shoukat Choudhury",
+            "Biao Huang",
+            "Feng Qian"
+        ],
+        "keywords": "Stiction compensation, Frequency analysis, Controller tuning, Cascade control loop"
+    },
+    {
+        "id": 433,
+        "label": 8,
+        "author": "m a a shoukat choudhury",
+        "title": "Fault Detection of Rotating Machinery from Bicoherence Analysis of Vibration Data",
+        "organization": "Professor of Chemical Engineering BUET Dhaka Bangladesh",
+        "abstract": "The vibration signal carries the signature of faults in most rotating equipments, and early fault detection is possible by analyzing the signal using different signal processing techniques. In this paper we consider a gearbox as a typical representation of a rotating or cyclo-stationary process. Faults in gearboxes leave their signature on the vibration signal and generally manifest themselves as a non-linear transformation in the signal. Bicoherence analysis detects and quantifies the presence of non-linearity in the signal and thus indicates the severity of the fault in the gearbox. In this work, time synchronous averaging is used to find the proper representation of one period of the cyclo-stationary vibration signal. A pilot scale gearbox case study is presented to demonstrate the practicality and utility of the proposed technique.",
+        "email": "",
+        "conf": "IFAC",
+        "coauthors": [
+            "Enayet B. Halim",
+            "Shoukat Choudhury",
+            "Sirish Shah",
+            "Ming J. Zuo"
+        ],
+        "keywords": "Rotating Machinery, Fault Detection, Vibration, Bispectrum Analysis, Cyclo-Stationary"
+    },
+    {
+        "id": 411,
+        "label": 8,
+        "author": "m a a shoukat choudhury",
+        "title": "An Efficient Approach to Compensate Control Valve Stiction",
+        "organization": "Professor of Chemical Engineering BUET Dhaka Bangladesh",
+        "abstract": "Automatic control system is very common in modern industrial plants. The performance of the control loop largely depends on the control valve. Stiction is a commonly found problem in control valve. It produces oscillation in process output and decreases the longevity of the control valve. Oscillatory responses of the control loops due to valve stiction can disturb process operation, degrade product quality and decrease plant profitability. So, it is important to provide an efficient technique to minimize the detrimental effects of a sticky control valve before it can be sent for maintenance. In this research work, a stiction compensation technique of control valve is developed by adding an extra pulse with detuned controller action for a certain period of time. The performance of the proposed compensator is analyzed and compared with other stiction compensators available in the literature",
+        "email": "",
+        "conf": "International Conference on Electrical and Computer Engineering (ICECE). IEEE",
+        "coauthors": [
+            "Ahaduzzaman Nahid",
+            "Ashfaq Iftakher",
+            "M. A. A. Shoukat Choudhury"
+        ],
+        "keywords": "stiction,valve reversals,compensation,oscillations,longevity,detuned parameter"
+    },
+    {
+        "id": 440,
+        "label": 8,
+        "author": "m a a shoukat choudhury",
+        "title": "Detection and Diagnosis of Control Loop Nonlinearities Valve Stiction and Data Compression",
+        "organization": "Professor of Chemical Engineering BUET Dhaka Bangladesh",
+        "abstract": "The field of controller performance monitoring has received much attention in the engineering research literature. However, the diagnosis of poor control performance remains an open area. Performance diagnosis requires identification of the cause(s) of poor control performance. Poor controller tuning, oscillatory external disturbances, process nonlinearities and valve nonlinearities are the primary causes of poor control performance. Based on higher order statistical (HOS) theory, two new indices---the Non-Gaussianity Index (NGI) and the Non-Linearity Index (NLI)---have been developed to detect and quantify signal non-Gaussianity and nonlinearity. These indices, together with specific patterns in the mapping of process output (pv) and controller output (op), can be used to diagnose the causes of poor control loop performance. Stiction is the most common problem in spring-diaphragm type valves. A generalized definition of valve stiction based on the investigation of real plant data is proposed in this thesis. A simple two parameter data-driven model of valve stiction is developed. The model is simple, yet powerful enough to properly simulate the complex valve stiction phenomena. Both open and closed loop results have been presented and validated to show the capability of the model. Conventional invasive methods such as the valve travel test can detect stiction easily. However, they are expensive, time consuming, and tedious to use for examining thousands of valves in a typical process industry. A noninvasive method that can simultaneously detect and quantify control valve suction is presented. The method requires only routine operating process data. Over a dozen industrial case studies have demonstrated the wide applicability and practicality of this method as a useful diagnostic aid in troubleshooting poor control performance. In chemical industrial practice, data are often compressed, for archival purposes, using various techniques. Compression degrades data quality and induces nonlinearity in the data. The issues of data quality degradation and nonlinearity induction due to compression are investigated in this thesis. An automatic method for detection and quantification of the compression present in the archived data has been presented. Compelling and quantitative analyses have been presented to end the practice of process data compression.",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "M.A.A. Shoukat Choudhury"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 415,
+        "label": 8,
+        "author": "m a a shoukat choudhury",
+        "title": "Detection of rub in rotating machineries by Wavelet analysis of vibration data",
+        "organization": "Professor of Chemical Engineering BUET Dhaka Bangladesh",
+        "abstract": "Rubbing between the surfaces of the rotor and stator in a rotating machine can be detected and quantified by analyzing the vibration signal from the machine. Rubbing leaves its signature in both the high frequency and the low frequency region of the signal which can be detected using Wavelet analysis. The rub-related component in the high frequency region of the signal cannot be used to detect rub since it can be masked by high amount of noise present in industrial environment. The low frequency component is less vulnerable to noise and can be efficiently separated from the signal using Discrete Wavelet Transform. Once separated, the rub-related component of the signal can be quantified to measure the amount of rub present in the rotating system. This paper explains and illustrates the use of Discrete Wavelet Transformation to detect and quantify rub-related faults in rotating machineries. A simulated case study using the Jeffcott rotor model and a pilot plant experimental case study are also presented to demonstrate the efficacy of the proposed technique",
+        "email": "",
+        "conf": "European Control Conference (ECC).",
+        "coauthors": [
+            "E.B. Halim",
+            "Shoukat Choudhury",
+            "Sirish Shah",
+            "M.J. Zuo"
+        ],
+        "keywords": "Discrete wavelet transforms,Rotors,Vibrations,Time-frequency analysis,Noise"
+    },
+    {
+        "id": 431,
+        "label": 8,
+        "author": "m a a shoukat choudhury",
+        "title": "Time domain averaging across all scales: A novel method for detection of gearbox faults",
+        "organization": "Professor of Chemical Engineering BUET Dhaka Bangladesh",
+        "abstract": "The vibration signal of a gearbox carries the signature of the fault in the gears. As such early fault detection of the gearbox is possible by analyzing the vibration signal using different signal processing techniques. Time synchronous averaging can extract the periodic waveforms of a noisy vibration signal, whereas Wavelet transformation is able to characterize the local features of the signal at different scales. This paper proposes a new technique, time domain averaging across all scales, which combines the time synchronous average and wavelet transformation together to extract the periodic waveforms at different scales from noisy vibration signals. The technique efficiently cleans up noise and detects both local and distributed faults simultaneously. A pilot plant case study is presented to demonstrate the efficacy of the proposed technique.",
+        "email": "",
+        "conf": "Mechanical Systems and Signal Processing",
+        "coauthors": [
+            "Enayet B. Halim",
+            "M.A.A. Shoukat Choudhury",
+            "Sirish Shah",
+            "Ming J. Zuo"
+        ],
+        "keywords": "Rotating machineries, Vibration analysis, Wavelet analysis, Signal processing, Fault detection, Gearbox"
+    },
+    {
+        "id": 438,
+        "label": 8,
+        "author": "m a a shoukat choudhury",
+        "title": "Fault detection of gearbox from vibration signals using time-frequency domain averaging",
+        "organization": "Professor of Chemical Engineering BUET Dhaka Bangladesh",
+        "abstract": "The vibration signal of a gearbox carries the signature of the fault in the gears, and early fault detection of the gearbox is possible by analyzing the vibration signal using different signal processing techniques. Time domain average can extract the periodic waveforms of a noisy vibration signal, whereas wavelet transformation is able to characterize the local features of the signal in different scales. This paper proposes a new technique, time-frequency domain average, which combines the time domain average and wavelet transformation together to extract the periodic waveforms at different scales from noisy vibration signals. The technique efficiently cleans up noise and detects both local and distributed faults simultaneously. A pilot plant case study has been presented to demonstrate the efficacy of the proposed technique ",
+        "email": "shoukat.choudhury@matrikon.com",
+        "conf": "Proceedings of the American Control Conference",
+        "coauthors": [
+            "E.B. Halim",
+            "Sirish Shah",
+            "M.J. Zuo",
+            "Shoukat Choudhury"
+        ],
+        "keywords": "Fault detection,Time frequency analysis,Vibrations,Gears,Signal analysis,Signal processing,Wavelet domain,Wavelet analysis,Chemical analysis,Machinery"
+    },
+    {
+        "id": 442,
+        "label": 8,
+        "author": "m a a shoukat choudhury",
+        "title": "Diagnosis of Poor Control Loop Performance Using Higher Order Statistics",
+        "organization": "Professor of Chemical Engineering BUET Dhaka Bangladesh",
+        "abstract": "Higher-order statistical (HOS) techniques were first proposed over four decades ago. This paper is concerned with higher-order statistical analysis of closed-loop data for diagnosing the causes of poor control-loop performance. The main contributions of this work are to utilize HOS tools such as cumulants, bispectrum and bicoherence to develop two new indices: the non-Gaussianity index (NGI) and the nonlinearity index (NLI) for detecting and quantifying non-Gaussianity and nonlinearity that may be present in regulated systems, and to use routine operating data to diagnose the source of nonlinearity. The new indices together with some graphical plots have been found to be useful in diagnosing the causes of poor performance of control loops. Successful applications of the proposed method are demonstrated on simulated as well as industrial data. This study clearly shows that HOS-based methods are promising for closed-loop performance monitoring.",
+        "email": "",
+        "conf": "Automatica",
+        "coauthors": [
+            "M.A.A. Shoukat Choudhury",
+            "Sirish Shah",
+            "Nina F. Thornhill"
+        ],
+        "keywords": "Diagnosis, Stiction, Bispectrum, Cumulants, Bicoherence, Control-loop performance"
+    },
+    {
+        "id": 427,
+        "label": 8,
+        "author": "m a a shoukat choudhury",
+        "title": "New methods for detection of control loop interaction to prioritize control loop maintenance",
+        "organization": "Professor of Chemical Engineering BUET Dhaka Bangladesh",
+        "abstract": "In a chemical process there are many control loops connected in a multiloop control configuration. Change in set point and/or controller parameters of one control loop may also affect the variables of other loops. These loop interactions in a process plant can cause significant cost, quality and production losses of the plant. It is challenging to measure the degree of interaction between control loops and rank the loops according to the extent of interactions. This paper provides data driven techniques to determine control loop interactions and rank the loops according to their importance. First, canonical correlation is used to calculate interaction among the loops and then PageRank algorithm is used to determine rank of the loops. In another approach, integral of absolute or squared error is used to determine loop interaction and then a proposed index is used to determine loop rank. Simulation results show the validity of the proposed methods.",
+        "email": "",
+        "conf": "International Conference on Electrical & Computer Engineering (ICECE). IEEE",
+        "coauthors": [
+            "Anisur Rahman",
+            "Shoukat Choudhury"
+        ],
+        "keywords": "Loop interaction,Canonical correlation,IAE,ISE,LoopRank"
+    },
+    {
+        "id": 425,
+        "label": 8,
+        "author": "m a a shoukat choudhury",
+        "title": "Detection of control loop interactions and prioritization of control loop maintenance",
+        "organization": "Professor of Chemical Engineering BUET Dhaka Bangladesh",
+        "abstract": "Chemical processes with multiloop control configurations have significant amount of control loop interactions due to tight mass and heat integration. Change in set point and/or controller parameters of one control loop may affect the variables of other loops. The presence of loop interactions in a process plant can cause significant quality and production losses of the plant. It is challenging to measure the degree of interaction between control loops and rank the loops according to the extent of interactions. This paper presents two data driven techniques to quantify control loop interactions and rank the loops according to their importance. In the first approach, a novel method based on canonical correlation analysis has been developed to calculate interaction among the loops and then normalization is done with respect to the maximum canonical correlation to determine the rank of the loops. In another approach, two indices have been developed using integral of absolute or squared error criteria to quantify loop interaction and determine rank of the loops. Both methods require step test data of the plant. Simulation and experimental results show the validity and efficacy of the proposed methods.",
+        "email": "shoukat@che.buet.ac.bd",
+        "conf": "Control Engineering Practice",
+        "coauthors": [
+            "Anisur Rahman",
+            "M.A.A. Shoukat Choudhury"
+        ],
+        "keywords": "Loop interaction, Canonical correlation, IAE, ISE, Loop ranking"
+    },
+    {
+        "id": 439,
+        "label": 8,
+        "author": "m a a shoukat choudhury",
+        "title": "Detection and quantification of valve stiction",
+        "organization": "Professor of Chemical Engineering BUET Dhaka Bangladesh",
+        "abstract": "Stiction is a common problem in spring-diaphragm type valves, which are widely used in the process industry. Recently, there have been many attempts to understand, define, model and detect stiction in control valves. Most of the current methods cannot simultaneously detect and quantify stiction. This paper discusses the definition and modelling of stiction. It describes two methods to detect and quantify valve stiction using routine operating data. The methods are completely data-based. No additional excitation or experimentation of the plant is required. The methods have been applied to many industrial data sets and their wide applicability and practicality as useful diagnostic aids in control-loop performance monitoring has been demonstrated",
+        "email": "",
+        "conf": "Proceedings of the American Control Conference",
+        "coauthors": [
+            "Shoukat Choudhury",
+            "Mridul Jain",
+            "Sirish Shah"
+        ],
+        "keywords": "Valves,Monitoring,Control nonlinearities,Automatic control,Industrial control,Costs,Fluid flow control,Chemical engineering,Design engineering,Noise shaping"
+    },
+    {
+        "id": 446,
+        "label": 8,
+        "author": "m a a shoukat choudhury",
+        "title": "Detection and diagnosis of system nonlinearities using higher order statistics",
+        "organization": "Professor of Chemical Engineering BUET Dhaka Bangladesh",
+        "abstract": "Process monitoring methods have been studied widely in recent years, and several industrial applications have been published. Early detection and identification of abnormal and undesired process states and equipment failures are essential requirements for safe and reliable processes. This helps to reduce the amount of production losses during abnormal events. In this paper, statistical multivariate methods and neural networks applied in monitoring of an industrial dearomatisation process are compared. No appriori process knowledge for the methods were assumed. The data for the comparison were generated with a dynamic simulator model of the process. Special emphasis was put on a case of internal leak in a heat exchanger.",
+        "email": "",
+        "conf": "IFAC",
+        "coauthors": [
+            "M.A.A. Shoukat Choudhury",
+            "Sirish Shah",
+            "Nina Thornhill"
+        ],
+        "keywords": "Fault diagnosis, Neural networks, Statistical process control, Chemical industry"
+    },
+    {
+        "id": 432,
+        "label": 8,
+        "author": "m a a shoukat choudhury",
+        "title": "Diagnosis of Process Nonlinearities and Valve Stiction: Data Driven Approaches",
+        "organization": "Professor of Chemical Engineering BUET Dhaka Bangladesh",
+        "abstract": "In this book, Higher Order Statistical (HOS) theory is used to develop indices for detecting and quantifying signal non-Gaussianity and nonlinearity. These indices, together with specific patterns in the mapping of process output and controller output are used to diagnose the causes of poor control loop performance. Often valve stiction is the main cause of poor control performance. A generalized definition of valve stiction based on the investigation of real plant data is proposed. A simple data-driven model of valve stiction is developed. The model is simple, yet powerful enough to properly simulate the complex valve stiction phenomena. Both open and closed loop results have been presented and validated to show the capability of the model. Conventional invasive methods such as the valve travel test can detect stiction easily. However, they are expensive, time consuming and tedious to use for examining thousands of valves in a typical process industry. A non-invasive method that can simultaneously detect and quantify control valve stiction is presented. The method requires only routine operating data from the process. Over a dozen industrial case studies have demonstrated the wide applicability and practicality of this method. In chemical industrial practice, data are often compressed for archival purposes, using various techniques. Compression degrades data quality and induces nonlinearity in the data. The issues of data quality degradation and nonlinearity induction due to compression are investigated in this book. An automatic method for detection and quantification of the compression present in the archived data is discussed. Compelling and quantitative analyses have been recommended to end the practice of process data compression.",
+        "email": "",
+        "conf": "Springer Science & Business Media",
+        "coauthors": [
+            "Shoukat Choudhury",
+            "Sirish Shah",
+            "Nina Thornhill"
+        ],
+        "keywords": "Engineering"
+    },
+    {
+        "id": 443,
+        "label": 8,
+        "author": "m a a shoukat choudhury",
+        "title": "Detection and Quantification of Control Valve Stiction",
+        "organization": "Professor of Chemical Engineering BUET Dhaka Bangladesh",
+        "abstract": "Stiction is one of the most common problems in the spring-diaphragm type control valves, which are widely used in the process industry. Although there have been many attempts to understand and detect stiction in control valves, none of the current methods can simultaneously detect and quantify stiction. There is thus a clear need in the process industry for a non-invasive method that can not only detect but also quantify stiction so that the valves that need repair or maintenance can be identified, isolated and repaired. This work describes a method that can detect and quantify stiction that may present in control valves using routine closed loop operating data obtained from the process. No additional excitation or experimentation with the plant is required. Over a dozen industrial case studies have demonstrated the wide applicability and practicality of this method as an useful diagnostic aid in control-loop performance monitoring.",
+        "email": "",
+        "conf": "IFAC Proceedings Volumes",
+        "coauthors": [
+            "Shoukat Choudhury",
+            "Sirish Shah",
+            "Nina Thornhill"
+        ],
+        "keywords": "stiction, stickband, deadband, hysteresis, actuator, control valve, process control, nonlinearity, slip jump, clustering, ellipse, control loop, condition monitoring"
+    },
+    {
+        "id": 420,
+        "label": 8,
+        "author": "m a a shoukat choudhury",
+        "title": "Monoglycerides reduction in rapeseed oil transesterification for production of high quality biodiesel",
+        "organization": "Professor of Chemical Engineering BUET Dhaka Bangladesh",
+        "abstract": "Monoglycerides are intermediate by products in rapeseed oil transesterification. If they are present in the bio-fuel and the bio-fuel is used in vehicles, then they can form crystal at cold climate and block fuel injection system of the vehicles. To solve this problem kinetic study of transesterification of rapeseed oil has been carried out in this study. The process variables such as reaction time, temperature, agitation speed and molar ratio of methanol to oil have been optimised to achieve a reduced level of monoglycerides formation in a batch reactor. These information have been integrated into flow through industrial scale transesterification process. Industrial processes demonstrated a steady performance with reduced level of monoglycerides. Monoglycerides level have been reduced to 0.27% (w/w) using 9:1 molar ratio of methanol to oil in about 40 min reaction time. KOH was used as a catalyst to influence transesterification. Results from this study will be helpful to reduce monoglycerides in the industrial scale transesterification process.",
+        "email": "",
+        "conf": "International Journal of Oil Gas and Coal Technology",
+        "coauthors": [
+            "Mohammad Shahidul Islam",
+            "Christian Bundy",
+            "M.A.A. Shoukat Choudhury"
+        ],
+        "keywords": "biodiesel, gas chromatography, kinetics, monoglycerides, transesterification"
+    },
+    {
+        "id": 414,
+        "label": 8,
+        "author": "m a a shoukat choudhury",
+        "title": "Linear or Nonlinear? Comparing Measures of Non- linearity",
+        "organization": "Professor of Chemical Engineering BUET Dhaka Bangladesh",
+        "abstract": "Nonlinearity plays a significant role in the closed loop performance of a controller/process as it can render controller tuning ineffective. Nonlinearities can initiate oscillations in process variables that may cause plantwide oscillations, which in turn results in loss of plant profitability and rapid wear and tear of plant machinery. Thus, quantification of nonlinearity is important for designing appropriate controllers, troubleshooting process faults and ensuring smooth operation of a process plant. In this paper, two data-based nonlinearity measures namely, bicoherence and surrogate-data based measures are compared using physical models of a few common processes to identify which method works better for which process.",
+        "email": "shoukat@che.buet.ac.bd",
+        "conf": "Computer Aided Chemical Engineering",
+        "coauthors": [
+            "Malik Tahiyat",
+            "M. A. A. Shoukat Choudhury"
+        ],
+        "keywords": "nonlinearity, bicoherence, surrogate, modeling"
+    },
+    {
+        "id": 445,
+        "label": 8,
+        "author": "m a a shoukat choudhury",
+        "title": "Detection and diagnosis of plant-wide oscillations: An application study",
+        "organization": "Professor of Chemical Engineering BUET Dhaka Bangladesh",
+        "abstract": "This paper presents an overview of the emerging techniques for oscillation detection and diagnosis and investigate their efficiency through an industrial case study. The recently proposed autocorrelation function based method [15] is used for detection of multiple oscillations in process measurements and identifying signals having common oscillations. The signals having common oscillatory behavior are analyzed for the possible presence of valve stiction using the Higher Order Statistical method [1]. This method is helpful in identifying the key variables that are most likely to be the root cause of oscillations. We also present some issues pertinent to the diagnosis of oscillations, which are potential directions for future research.",
+        "email": "",
+        "conf": "IEEE",
+        "coauthors": [
+            "Vinay Kariwala",
+            "M.A.A. Shoukat Choudhury",
+            "Sirish Shah",
+            "J. Fraser Forbes",
+            "Edward S. Meadows"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 444,
+        "label": 8,
+        "author": "m a a shoukat choudhury",
+        "title": "A Data-Driven Model for Valve Stiction",
+        "organization": "Professor of Chemical Engineering BUET Dhaka Bangladesh",
+        "abstract": "The presence of nonlinearities, e.g., stiction, hysteresis and backlash in a control valve limits control loop performance. Stiction is the most common problem in spring-diaphragm type valves, which are widely used in the process industry. Though there have been many attempts to understand the stiction phenomena and model it, there is lack of a proper model which can be understood and related directly to the practical situation as observed in real valves in the process industry. This study focuses on the understanding, from industrial data, of the mechanism that causes stiction and proposes a new data-driven model of stiction, which can be directly related to real valves. It compares simulation results generated using the proposed model with industrial data.",
+        "email": "",
+        "conf": "IFAC Proceedings Volumes",
+        "coauthors": [
+            "Shoukat Choudhury",
+            "Nina Thornhill",
+            "Sirish Shah"
+        ],
+        "keywords": "stiction, stickband, deadband, hysteresis, backlash, control valve, static friction, viscous friction, nonlinearity, slip jump, control loop performance"
+    },
+    {
+        "id": 429,
+        "label": 8,
+        "author": "m a a shoukat choudhury",
+        "title": "Stiction Modelling",
+        "organization": "Professor of Chemical Engineering BUET Dhaka Bangladesh",
+        "abstract": "Pneumatic control valves are widely used in the process industry. Two types of valve-stiction models have been proposed in the literature. One is a detailed physical model that formulates the stiction phenomenon as precisely as possible. The other is a data-driven model that describes the relationship between the controller output and the valve position. Since a detailed physical model has a number of unknown physical parameters, it is time consuming as well as difficult to simulate an actual control valve using such a model. The value of a physics-based model is that it gives insights into the phenomena that are observed in practice and indicates which effects must be captured in a data-driven model. A data-driven model, on the other hand, is useful because it has only a few parameters and these are easy to define and simple to understand. This chapter briefly discusses a physics-based valve model followed by a detailed description of data-driven stiction models.",
+        "email": "",
+        "conf": "Detection and Diagnosis of Stiction in Control Loops",
+        "coauthors": [
+            "Shoukat Choudhury",
+            "Nina Thornhill",
+            "Manabu Kano",
+            "Sirish Shah"
+        ],
+        "keywords": "Control Valve, Exponentially Weighted Move Average, Dynamic Friction, Controller Output, Valve Position "
+    },
+    {
+        "id": 412,
+        "label": 8,
+        "author": "m a a shoukat choudhury",
+        "title": "Compensating the Effect of Control Valve Stiction",
+        "organization": "Professor of Chemical Engineering BUET Dhaka Bangladesh",
+        "abstract": "The presence of nonlinearities in a control valve limits the control loop performance. Stiction is the most commonly found problem in the pneumatic control valves. It decreases the control loop efficiency and causes oscillations in process variables. Compensation of its effect is beneficial before the sticky valve can be sent for maintenance. In this study a novel method by reducing controller action and adding an extra pulse of appropriate size has been developed to compensate stiction effects. It requires minimum information about the process. This  method reduces the variability of the process variable and decreases the valve stem movement. It can also obtain good set point tracking and disturbance rejections. The performance of this method is evaluated by both simulation and laboratory experimentations.",
+        "email": "",
+        "conf": "ICChE",
+        "coauthors": [
+            "Ahaduzzaman Nahid",
+            "Shoukat Choudhury"
+        ],
+        "keywords": "valve stiction, stiction compensation, valve positioner, valve reversals"
+    },
+    {
+        "id": 430,
+        "label": 8,
+        "author": "m a a shoukat choudhury",
+        "title": "Stabilizing the Operation of Industrial Processes using Data Driven Techniques",
+        "organization": "Professor of Chemical Engineering BUET Dhaka Bangladesh",
+        "abstract": "Poor performance of a control loop is usually caused by poor controller tuning, presence of disturbances, control loop interactions and/or loop nonlinearities. The presence of nonlinearities in control loops is one of the main reasons for poor performance of a linear controller designed based on linear control theory. In a control loop, nonlinearities may appear either in the control instruments such as valves and positioners or in the process. Among the control valve nonlinearities stiction, deadband, deadzone, hysteresis and saturation are most common. A nonlinear system often produces a non-Gaussian and nonlinear time series. The test of Gaussianity or nonlinearity of a control loop variable serves as a useful diagnostic aid towards diagnosing the causes of poor performance of a control loop. Ttwo indices, the Non-Gaussianity Index (NGI) and the Non-Linearity Index (NLI), developed in [1] are used to detect the possible presence of nonlinearity in the loop. These indices together with specific patterns in the process output (pv) vs. the controller output (op) plot can be conveniently used to diagnose the causes of poor control loop performance thus ensuring smooth operation of the plant. The method has been successfully applied to many industrial data sets. One of the interesting case studies is presented in this paper. The results of the analysis were confirmed and the results after the troubleshooting was performed are also presented.",
+        "email": "",
+        "conf": "Chemical Engineering Research Bulletin",
+        "coauthors": [
+            "Shoukat Choudhury",
+            "Ian Alleyne"
+        ],
+        "keywords": "Nonlinearities, stiction, performance monitoring, nonGaussianity, process industries, control valves"
+    },
+    {
+        "id": 413,
+        "label": 8,
+        "author": "m a a shoukat choudhury",
+        "title": "Novel Data Segmentation Methods for Data Driven Process Analyses",
+        "organization": "Professor of Chemical Engineering BUET Dhaka Bangladesh",
+        "abstract": "With the advent of computer control and Distributed Control System (DCS), it has become easy for process industries to store a huge amount of data everyday. These data are rich sources of information. Often it requires selecting a window of data from a large data set for calculating or estimating various performance metrics of the control loops or the process itself. For example, if data is collected at a sampling rate of 4 s, there will be 21,600 samples for each variable each day. Calculation of a performance measure or metric requires only a few hundred or a couple of thousand data points. The question is which part of the data should be used. This study attempts to find suitable data segmentation methods appropriate for the various purposes of data analysis. This study utilizes various simple statistical measures such as autocovariance function, signal to noise ratio, and skewness for selecting appropriate segment of the data. The performance of the segmentation methods has been evaluated using simulation examples and real industrial data sets. The selection of appropriate window of data largely increases the reliability of the data driven analyses.",
+        "email": "shoukat@che.buet.ac.bd",
+        "conf": "Computer Aided Chemical Engineering",
+        "coauthors": [
+            "Rajesh Paul",
+            "M. A. A. Shoukat Choudhury"
+        ],
+        "keywords": "Autocovariance, Data segmentation, Nonlinearity analysis, Oscillation detection, Signal to noise ratio"
+    },
+    {
+        "id": 426,
+        "label": 8,
+        "author": "m a a shoukat choudhury",
+        "title": "A two-degree-of-freedom dead time compensator for stable processes with dead time",
+        "organization": "Professor of Chemical Engineering BUET Dhaka Bangladesh",
+        "abstract": "This paper presents a new simplified approach for the design of dead time compensators for processes with dead time. The approach is based on a modified structure of the Smith predictor that allows to isolate the disturbance and set-point responses and thereby, providing two-degree-of-freedom control scheme. The proposed structure is easy to analyze and tune. Using an estimation of the dead time and process model of the plant, the proposed compensator has only two tuning parameters that determine the closed-loop performance and robustness. In order to evaluate the proposed compensator, a comparative analysis of robustness with the most recent algorithm proposed in the literature is presented. To demonstrate its applicability to real processes, the method is evaluated on a pilot plant.",
+        "email": "",
+        "conf": "nternational Symposium on Advanced Control of Industrial Processes (ADCONIP)",
+        "coauthors": [
+            "Kawnish Kirtania",
+            "Shoukat Choudhury"
+        ],
+        "keywords": "Tuning,Process control,Robustness,Transfer functions,Transmitters,Delay,Temperature control"
+    },
+    {
+        "id": 422,
+        "label": 8,
+        "author": "m a a shoukat choudhury",
+        "title": "A novel dead time compensator for stable processes with long dead times",
+        "organization": "Professor of Chemical Engineering BUET Dhaka Bangladesh",
+        "abstract": "This paper presents a new and simplified approach for the design of dead time compensators for processes with long dead times. The approach is based on a modified structure of the Smith predictor that allows the user to isolate the disturbance and set-point responses and thereby, provide a two-degrees-of-freedom control scheme. The proposed structure is easy to analyze and tune. Using an estimation of the dead time and process model of the plant, the proposed compensator is left with two tuning parameters that determine the closed-loop performance and robustness. The performance of the proposed compensator is compared with the most recent dead time compensator appeared in the literature. The method is evaluated on two simulated processes and a computer-interfaced pilot-scale two tank heating system to demonstrate the practicality and utility of the proposed scheme.",
+        "email": "shoukat@che.buet.ac.bd",
+        "conf": "Journal of Process Control",
+        "coauthors": [
+            "Kawnish Kirtania",
+            "Shoukat Choudhury"
+        ],
+        "keywords": "Dead time compensator, Stable processes. Smith predictor, Two-degrees-of-freedom controller, Set-point tracking, Regulatory control"
+    },
+    {
+        "id": 435,
+        "label": 8,
+        "author": "m a a shoukat choudhury",
+        "title": "Data based quantification of system nonlinearity",
+        "organization": "Professor of Chemical Engineering BUET Dhaka Bangladesh",
+        "abstract": "The presence of nonlinearities in a process can affect its control performance adversely. Changes in operating conditions due to nonlinearities may render the current controller tuning as ‘non-optimal'. Nonlinearities in valves, e.g., stiction may cause oscillations in process variables. Such oscillations from one control loop can easily propagate to different units of the plant, thus resulting in a plant-wide oscillations. The detection and quantification of process nonlinearity can help decide whether to implement a nonlinear controller or not. It is also useful in diagnosing the root-cause of plant-wide oscillations. A new Total Nonlinearity Index (TNLI) has been developed to quantify process nonlinearity. The previously published Non-Gaussianity Index (NGI) and Nonlinearity Index (NLI) are modified to overcome their limitations. The efficacy of the proposed indices is demonstrated using an illustrative example and an industrial case study.",
+        "email": "",
+        "conf": "IFAC",
+        "coauthors": [
+            "Shoukat Choudhury",
+            "Sirish Shah"
+        ],
+        "keywords": "Nonlinearity, Bispectrum, higher order statistics, control loops"
+    },
+    {
+        "id": 417,
+        "label": 8,
+        "author": "m a a shoukat choudhury",
+        "title": "Dispersion Modeling of Accidental Release of Chlorine Gas",
+        "organization": "Professor of Chemical Engineering BUET Dhaka Bangladesh",
+        "abstract": "This study investigates the impact of accidental release of Chlorine gas in surrounding areas. The impact is studied using standard dispersion modeling techniques considering various locations with different surface conditions (urban or rural) in different seasons and meteorological conditions. The affected areas which are harmful to human exposures at different levels are detected using Areal Locations of Hazardous Atmospheres (ALOHA) Software. The affected areas are divided into three level of concerns namely red zone, orange zone, yellow zone. Red zone is the affected area in which there is severe concentration of toxic gas and exposure to which may cause life threatening health effects or even death. Exposure to Orange Zone may cause long lasting adverse health effects and in Yellow zone average individual may feel notable discomfort, irritation but reversible upon cessation of exposure. The modeling was performed for an accidental release of 1.6 tons chlorine gas from a horizontal cylindrical tank lasting for one hour. For a typical summer atmospheric condition of Bangladesh, this accidental chlorine release would cause a red zone of 1.1 kilometers, orange zone of 3.6 kilometers and yellow zone stretching to 7.0 kilometers to downwind from the source. Variation in the different threat zones are observed in the article due to change in temperature, wind velocity and surface roughness (ground condition).",
+        "email": "",
+        "conf": "Proceedings of the International Conference on Chemical Engineering",
+        "coauthors": [
+            "Rajesh Paul",
+            "Animesh Mondal",
+            "M.A.A. Shoukat Choudhury"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 441,
+        "label": 8,
+        "author": "m a a shoukat choudhury",
+        "title": "A simple test to confirm control valve stiction",
+        "organization": "Professor of Chemical Engineering BUET Dhaka Bangladesh",
+        "abstract": "Stiction is a common problem in the widely used spring-diaphragm type control valves in the process industry. Several methods are available for detecting stiction in control valves. After detection of stiction, a test is required to confirm that the valve in question is indeed suffering from stiction. This paper presents a simple closed loop test, based on changing only the controller gain, for confirming the presence of stiction. The method does not require that the loop be put in manual, which can otherwise upset the plant. The usefulness of this test is demonstrated through simulation studies and an industrial application.",
+        "email": "",
+        "conf": "IFAC",
+        "coauthors": [
+            "M.A. A. Shoukat Choudhury",
+            "Vinay Kariwala",
+            "Sirish L.Shah",
+            "Hisato Douke",
+            "Haruo Takada",
+            "Nina F. Thornhill"
+        ],
+        "keywords": "Control loops, Control valves, Dead band, Process control, Nonlinearity, Static friction"
+    },
+    {
+        "id": 421,
+        "label": 8,
+        "author": "m a a shoukat choudhury",
+        "title": "Automation and Process Control",
+        "organization": "Professor of Chemical Engineering BUET Dhaka Bangladesh",
+        "abstract": "Automation and control play a significant role in the food processing industries because they increase production rate, guarantee better quality of final products, reduce production costs and manufacturing time, improve the efficiency of using raw materials, enhance hygienic conditions and ensure safety. Automation of unit operations and processes in the food industries can be beneficial in many other ways, for example it can suppress the influence of external disturbances, ensure stability of the process, and optimize process performance",
+        "email": "bijanfbs@iitr.ernet.in",
+        "conf": "Handbook of Food Process Design 1",
+        "coauthors": [
+            "Kazi Bayzid Kabir",
+            "M.A.A Shoukat Choudhury"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 423,
+        "label": 8,
+        "author": "m a a shoukat choudhury",
+        "title": "An alternative approach of Risk Analysis for Multivariable Alarm System",
+        "organization": "Professor of Chemical Engineering BUET Dhaka Bangladesh",
+        "abstract": "Alarm system of a plant works as a safeguard to prevent hazards and unexpected accidents. But too many false alarms may make the operators indifferent to critical alarms that may lead to serious mishaps. In this study, the risk based multivariable alarm system proposed by [1] has been restudied and an alternative approach of quantifying the system failure probability is proposed. Since in all the modern chemical plants there are adequate safety measures and the safety is ensured by installing different instruments, and the failure data of these instruments are available in [2], so the risk of the system can be quantified by applying statistical methods as a combination of several instruments If the risks and hazards associated with a system can be properly identified, the hazards can be correlated with the failure of the different parts of the instrumentation system and the probabilities of failure can be estimated [3]. Then it is necessary to know the consequence factor of a hazardous situation since risk depends on both the failure probability and the consequence probability. According to the severity of failure probabilities of the instruments of the physical system, the alarms can be indexed and all alarms of a single system can be consolidated into a single alarm, which will notify the operator about the importance of the situation. Since risks can also be properly indexed, it is easier for the operator to take necessary steps as soon as he gets the alarm. Thus the purpose of the alarm system will be fully satisfied = to keep the process operation safe and sound. In this study, failure probabilities were calculated for a simple model process namely a tank heating system.",
+        "email": "",
+        "conf": "Journal of Chemical Engineering",
+        "coauthors": [
+            "B M Sirajeel Arifin",
+            "Shoukat Choudhury"
+        ],
+        "keywords": "Risk based alarm system, multivariable alarm system, probability of failure"
+    },
+    {
+        "id": 437,
+        "label": 8,
+        "author": "m a a shoukat choudhury",
+        "title": "DETECTION AND DIAGNOSIS OF PLANT-WIDE OSCILLATIONS USING THE SPECTRAL ENVELOPE METHOD",
+        "organization": "Professor of Chemical Engineering BUET Dhaka Bangladesh",
+        "abstract": "Plant-wide oscillations are common in many processes. Their effects propagate to many units and may impact the overall process performance. It is important to detect and diagnose the oscillations early in order to rectify the situation. This paper proposes a new procedure to detect and diagnose plant-wide oscillations. A technique called spectral envelope is used to detect the oscillations. Two kinds of plots - scaling and power plots - are proposed to identify the variables exhibiting common oscillation(s). These plots are also useful in isolating the key variables as the candidates of the root cause. An industrial case study is presented to demonstrate the applicability of the proposed procedure.",
+        "email": "",
+        "conf": "IFAC Proceedings Volumes",
+        "coauthors": [
+            "Hailei Jiang",
+            "M.A.A. Shoukat Choudhury",
+            "Sirish L. Shah",
+            "John W. Cox",
+            "Michael A. Paulonis"
+        ],
+        "keywords": "Chemical industry Oscillation; Fault Diagnosis; Power Spectrum; Control loop; Process Monitoring"
+    },
+    {
+        "id": 424,
+        "label": 8,
+        "author": "m a a shoukat choudhury",
+        "title": "Interfacing an Interactive MIMO Process and Implementing Decoupler to Compensate Loop Interactions",
+        "organization": "Professor of Chemical Engineering BUET Dhaka Bangladesh",
+        "abstract": "Control of Multiple-input, multiple-output (MIMO) processes is difficult because of the presence of loop interactions. If the loop interactions are large, they require to design and implement decouplers to minimize the impact of interactions. This paper presents the design and implementation of decouplers for a two light bulb experimental set-up, which acts as a 2x2 (2-input, 2 output) interactive MIMO system. The set-up consists of two incandescent bulbs acting as processes (heat source) and two thermocouples for measuring their temperatures (controlled variables). The illumination or brightness of the bulbs are controlled by regulating input voltage (manipulated variables). The study involves both hardware interfacing with software and carrying out experimental investigation. Interfacing the hardware with the PID controller was done by using a data acquisition device (Advantech DAQ USB4716) and MATLAB® R2007, Simulink tool box. Internal Model Control (IMC) method was applied for designing PID controllers to control the individual bulb temperatures and ideal decoupling control strategy was applied to reduce control loop interactions. For these purposes four open loop transfer functions (2 individual processes and 2 interactions) were developed by performing step test. Simulation and experimentation of the interactive MIMO system depicts that the ideal decoupling control strategy can reduce loop interactions of the processes.",
+        "email": "",
+        "conf": "International Conference on Chemical Engineering",
+        "coauthors": [
+            "Imtiaz Ahmed",
+            "Samira Rostom",
+            "M.A.A. Shoukat Choudhury"
+        ],
+        "keywords": "MIMO Process, Interfacing, PID controller, Loop interactions, Decoupling"
+    },
+    {
+        "id": 428,
+        "label": 8,
+        "author": "m a a shoukat choudhury",
+        "title": "Troubleshooting Plantwide Oscillations using Nonlinearity Information",
+        "organization": "Professor of Chemical Engineering BUET Dhaka Bangladesh",
+        "abstract": "Plant-wide oscillations are common in many processes. Their effects propagate to many units and may impact the overall process performance. It is important to detect and diagnose the cause of such oscillations in order to rectify the situation and maintain the proper profitability of the plant. This paper proposes a new procedure to detect and diagnose plant-wide oscillations using routine operating data. The method has been developed based on the nonlinearity information in the process data. A new Total Nonlinearity Index (TNLI) has been defined to quantify nonlinearities. The method is based on the assumption that the nonlinearity is highest near the source and decreases as one moves away from the source. This assumption is true because chemical processes have the nature of low-pass filters and they filter out gradually higher order harmonics of the signals. Signals with higher order harmonics are generally more nonlinear. The proposed diagnostic method has already been successfully applied for troubleshooting many industrial plant-wide oscillation problems. Two of such case studies have been presented in this paper.",
+        "email": "",
+        "conf": "Journal of Chemical Engineering",
+        "coauthors": [
+            "M.A.A. Shoukat Choudhury"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 436,
+        "label": 8,
+        "author": "m a a shoukat choudhury",
+        "title": "Automatic Detection and Quantification of Stiction in Control Valves",
+        "organization": "Professor of Chemical Engineering BUET Dhaka Bangladesh",
+        "abstract": "Stiction is a common problem in spring-diaphragm type valves, which are widely used in the process industry. Although there have been many attempts to understand and detect stiction in control valves, none of the current methods can simultaneously detect and quantify stiction. Conventional invasive methods such as the valve travel test can easily detect stiction, but are expensive and tedious to apply to hundreds of valves to detect stiction. Thus there is a clear need in the process industry for a non-invasive method that can not only detect but also quantify stiction so that the valves that need repair or maintenance can be identified, isolated and repaired. This work describes a model free method that can detect and quantify stiction that may be present in control valves using routine operating data obtained from the process. No additional excitation or experimentation of the plant is required. Over a dozen industrial case studies have demonstrated the wide applicability and practicality of this method as an useful diagnostic aid in control loop performance monitoring.",
+        "email": "",
+        "conf": "Control Engineering Practice",
+        "coauthors": [
+            "M.A.A. Shoukat Choudhury",
+            "Sirish Shah",
+            "Nina Thornhill",
+            "David S. Shook"
+        ],
+        "keywords": "Stiction, Stickband, Deadband, Hysteresis, Actuator, Control valve"
+    },
+    {
+        "id": 419,
+        "label": 8,
+        "author": "m a a shoukat choudhury",
+        "title": "A Model Free Approach for Online Stiction Compensation",
+        "organization": "Professor of Chemical Engineering BUET Dhaka Bangladesh",
+        "abstract": "Stiction is one of the most adverse non-linearities that can affect a control valve. It impacts both valve longevity and product quality. Currently available stiction compensation methods either reduce the amplitude of oscillation at a cost of increased frequency or require knowledge about process and valve models. In this study a novel stiction compensation scheme is developed which reduces both oscillation amplitude and frequency, obtains good set point tracking and disturbance rejection, and yet requires minimal information about the process and is simple-to-implement online. The method has been successfully evaluated on a pilot plant interfaced to a commercial DCS system.",
+        "email": "",
+        "conf": "IFAC Proceedings Volumes",
+        "coauthors": [
+            "B M Sirajeel Arifin",
+            "Celso Munaro",
+            "M.A.A. Shoukat Choudhury",
+            "Sirish Shah"
+        ],
+        "keywords": "valve-stiction, stiction-compensation, online compensation, DCS system, DeltaV"
+    },
+    {
+        "id": 416,
+        "label": 8,
+        "author": "m a a shoukat choudhury",
+        "title": "Diagnosis of plantwide oscillations: A harmonics analysis approach",
+        "organization": "Professor of Chemical Engineering BUET Dhaka Bangladesh",
+        "abstract": "Highly complex and integrated modern chemical process plants are susceptible of disturbances that propagate throughout the plant from one unit to other interconnected units and create plant wide oscillations. These persisting oscillations are originated due to various faults such as sensor faults, valve faults, process faults and controller tuning faults. These types of nonlinear faults can be characterized by a fundamental frequency and its harmonics. This paper demonstrates a novel data driven off-line time domain method to identify the rootcause of plantwide or unit-wide disturbances to troubleshoot plantwide disturbances using harmonics analysis. The successful application of the proposed method has been demonstrated through simulated data",
+        "email": "shoukat@che.buet.ac.bd",
+        "conf": "Journal of Advances in Technology and Engineering Research",
+        "coauthors": [
+            "Nahid Sanzida",
+            "M. A. A. Shoukat Choudhury"
+        ],
+        "keywords": ""
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "id": 2656,
+        "label": 59,
+        "author": "jong sung lee",
+        "title": "Spatio-Temporal Models for Network Economic Loss Analysis Under Unscheduled Events: A Conceptual Design",
+        "organization": "University of Illinois",
+        "abstract": "The damages and losses caused by unscheduled events such as earthquakes, floods, and other major natural disasters have sudden and significant impacts on the economies of regions where these events occur. The impacts of damage on production facilities and lifelines (e.g. utility lines and transportation networks) may spread across several regions via importexport relationships and have serious economic impacts on even distant regions far from the location of the event.",
+        "email": "",
+        "conf": "Critical Infrastructure",
+        "coauthors": [
+            "Jong Sung Lee",
+            "Tschangho John Kim"
+        ],
+        "keywords": "Geographical Information System, Unify Modeling Language, Transportation Network, Final Demand, Railway Network "
+    },
+    {
+        "id": 2657,
+        "label": 59,
+        "author": "jong sung lee",
+        "title": "Selectorecombinative Genetic Algorithm to Relax Computational Complexity of Discrete Network Design Problem",
+        "organization": "University of Illinois",
+        "abstract": "A new approach is proposed for relaxing the computational complexity of the user equilibrium discrete network design problem (UE-DNDP), under deterministic traffic conditions, with a solution search procedure based on the selectorecombinative genetic algorithm (SGA). The SGA uses only selection and recombination operators rather than mutation. The UE-DNDP approach proposed in this study has a bilevel structure: the upper-level problem relates to the strategy of the network design authority, and the lower-level problem deals with network user behaviors. To solve the upper-level problem, the SGA is first used to create feasible network design solutions to the UE-DNDP by accounting for a budget constraint. Then the design authority selects the best network design strategy with minimum total system travel time (TSTT). Extensive experimental design and testing on GA operators and parameters are conducted to select the useful GA operators and parameters. For the lower-level problem, the best K-value concept is introduced to reduce the computational effort by allowing only a few best K-design solutions with best fitness values among the feasible network design solutions to the UE network evaluation model. The study uses statistical analysis to validate whether the proposed SGA-based UE-DNDP model is working well. The results of numerical analysis have shown that the proposed solution search procedure could significantly improve computational efficiency without loss of solution quality in terms of TSTT.",
+        "email": "",
+        "conf": "Transportation Research Record Journal of the Transportation Research Board",
+        "coauthors": [
+            "Kyunghwi Jeon",
+            "Jong Sung Lee",
+            "Satish V Ukkusuri",
+            "S. Travis Waller"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2655,
+        "label": 59,
+        "author": "jong sung lee",
+        "title": "SGST: An open source semantic geostreaming toolkit",
+        "organization": "University of Illinois",
+        "abstract": "Geo-referenced data streams (geostreams) have created major challenges on streaming data management, query, and integration. Semantically managing geostream data has the potential to provide better data integration and reasoning. We develop an open source Semantic GeoStreaming Toolkit (SGST) that aims to provide an integrated sensor data management solution. In particular, this paper uses the Open Geospatial Consortium (OGC) GeoSPARQL recommendation and a time-annotated RDF streaming data management service. The toolkit offers geostreaming data management, fetching, and RESTful web services. We demonstrate SGST with two real-world use cases including USGS earthquake GeoRSS feeds and geo-referenced Twitter feeds for citizen sensing. Issues related to interoperability, performance, and full support of GeoSPARQL are discussed.",
+        "email": "",
+        "conf": "ACM SIGSPATIAL International Workshop on GeoStreaming",
+        "coauthors": [
+            "Jong Sung Lee",
+            "Yong Liu",
+            "Liang yu"
+        ],
+        "keywords": "Geostreaming,Geostreaming data fetcher,Query,RDF,RESTful web service,Spatial index,Temporal index"
+    }
+]

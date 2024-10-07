@@ -1,0 +1,89 @@
+[
+    {
+        "id": 769,
+        "label": 23,
+        "author": "mohiuddin abdul qader",
+        "title": "Structured web search in small domain",
+        "organization": "Applied Researcher eBay Inc.",
+        "abstract": "In this paper our aim is to bridging the gap between machine interpretation of search queries in search engines and actual user queries. Our primary concentration is to find a way to represent diverse search result pages in a structured way to reduce search query complexity and satisfy the need of diverse people. We first propose a traditional small scale search engine, called BuetSearch, for Bangladesh University of Engineering and Technology (BUET) domain, which has been designed by combining the PageRank algorithm and a proposed ranking and weighting scheme for Information Retrieval scoring. Then we propose a K-nearest neighbor algorithm based document classification algorithm for structured representation of search results. The results show that web search in small domain has merit over traditional large scale search engines and can be optimized to provide excellent results. With the application of structured approach, web search can be significantly simplified and the inconvenience of the users can be reduced.",
+        "email": "",
+        "conf": "Computer and Information Technology. IEEE",
+        "coauthors": [
+            "Mohiuddin Abdul Qader",
+            "Sajjadur Rahman",
+            "Masud Hasan"
+        ],
+        "keywords": "Search engines,Google,Web pages,Web search,Prototypes,Query processing,Computers"
+    },
+    {
+        "id": 766,
+        "label": 23,
+        "author": "mohiuddin abdul qader",
+        "title": "A Comparative Study of Secondary Indexing Techniques in LSM-based NoSQL Databases",
+        "organization": "Applied Researcher eBay Inc.",
+        "abstract": "NoSQL databases are increasingly used in big data applications, because they achieve fast write throughput and fast lookups on the primary key. Many of these applications also require queries on non-primary attributes. For that reason, several NoSQL databases have added support for secondary indexes. However, these works are fragmented, as each system generally supports one type of secondary index, and may be using different names or no name at all to refer to such indexes. As there is no single system that supports all types of secondary indexes, no experimental head-to-head comparison or performance analysis of the various secondary indexing techniques in terms of throughput and space exists. In this paper, we present a taxonomy of NoSQL secondary indexes, broadly split into two classes: Embedded Indexes (i.e. lightweight filters embedded inside the primary table) and Stand-Alone Indexes (i.e. separate data structures). To ensure the fairness of our comparative study, we built a system, LevelDB++, on top of Google's popular open-source LevelDB key-value store. There, we implemented two Embedded Indexes and three state-of-the-art Stand-Alone indexes, which cover most of the popular NoSQL databases. Our comprehensive experimental study and theoretical evaluation show that none of these indexing techniques dominate the others: the embedded indexes offer superior write throughput and are more space efficient, whereas the stand-alone secondary indexes achieve faster query response times. Thus, the optimal choice of secondary index depends on the application workload. This paper provides an empirical guideline for choosing secondary indexes",
+        "email": "",
+        "conf": "International Conference on Management of Data",
+        "coauthors": [
+            "Mohiuddin Abdul Qader",
+            "Shiwen Cheng",
+            "Vagelis Hristidis"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 767,
+        "label": 23,
+        "author": "mohiuddin abdul qader",
+        "title": "A BAD Demonstration: Towards Big Active Data",
+        "organization": "Applied Researcher eBay Inc.",
+        "abstract": "Nearly all of today's Big Data systems are passive in nature. We demonstrate our Big Active Data (\"BAD\") system, a scalable system that continuously and reliably captures Big Data and facilitates the timely and automatic delivery of new information to a large population of interested users as well as supporting analyses of historical information. We built our BAD project by extending an existing scalable, open-source BDMS (AsterixDB [1]) in this active direction. In this demonstration, we allow our audience to participate in an emergency notification application built on top of our BAD platform, and highlight its capabilities.",
+        "email": "",
+        "conf": "VLDB Endowment",
+        "coauthors": [
+            "Steven Jacobs",
+            "Yusuf Sarwar Uddin",
+            "Michael Carey",
+            "Vagelis Hristidis",
+            "Vassilis J Tsotras",
+            "N Venkatasubramanian",
+            "Yao Wu",
+            "Syed Safir",
+            "Puvi Kaul",
+            "Xikui Wang",
+            "Mohiuddin Abdul Qader",
+            "Yawei Li"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 768,
+        "label": 23,
+        "author": "mohiuddin abdul qader",
+        "title": "DualDB: An Efficient LSM-based Publish/Subscribe Storage System",
+        "organization": "Applied Researcher eBay Inc.",
+        "abstract": "Publish/Subscribe systems allow subscribers to monitor for events of interest generated by publishers. Current publish/subscribe query systems are efficient when the subscriptions (queries) are relatively static -- for instance, the set of followers in Twitter -- or can fit in memory. However, an increasing number of applications in this era of Big Data and Internet of Things (IoT) are based on a highly dynamic query paradigm, where continuous queries are in the millions and are created and expire in a rate comparable, or even higher, to that of the data (event) entries. For instance moving objects like airplanes, cars or sensors may continuously generate measurement data like air pressure or traffic, which are consumed by other moving objects. In this paper we propose and compare a novel publish/subscribe storage architecture, DualDB, based on the popular NoSQL Log-Structured Merge Tree (LSM) storage paradigm, to support high-throughput and dynamic publish/subscribe systems. Our method naturally supports queries on both past and future data, and generate instant notifications, which are desirable properties missing from many previous systems. We implemented and experimentally evaluated our methods on the popular LSM-based LevelDB system, using real datasets. Our results show that we can achieve significantly higher throughput compared to state-of-the-art baselines.",
+        "email": "",
+        "conf": "Conference on Scientific and Statistical Database Management",
+        "coauthors": [
+            "Mohiuddin Abdul Qader",
+            "Vagelis Hristidis"
+        ],
+        "keywords": "Log-Structured Merge Tree, LevelDB, Publish/Subscribe, NoSQL,Continuous Query, Instant Notification, Triggers, Big Data"
+    },
+    {
+        "id": 765,
+        "label": 23,
+        "author": "mohiuddin abdul qader",
+        "title": "High-throughput publish/subscribe on top of LSM-based storage",
+        "organization": "Applied Researcher eBay Inc.",
+        "abstract": "State-of-the-art publish/subscribe systems are efficient when the subscriptions are relatively static—for instance, the set of followers in Twitter—or can fit in memory. However, now-a-days, many big data and IoT based applications follow a highly dynamic query paradigm, where both continuous queries and data entries are in the millions and can arrive and expire rapidly. In this paper we propose and compare several publish/subscribe storage architectures, based on the popular NoSQL log-structured merge tree (LSM) storage paradigm, to support high-throughput and highly dynamic publish/subscribe systems. Our framework naturally supports subscriptions on both historic and future streaming data, and generates instant notifications. We also extend our framework to efficiently support self-joining subscriptions, where streaming pub/sub records join with past pub/sub entries. Further, we show how hierarchical attributes, such as concept ontologies, can be efficiently supported; for example, a publication’s topic is “politics” whereas a subscription’s topic is “US politics.” We implemented and experimentally evaluated our methods on the popular LSM-based LevelDB system, using real datasets, for simple match and self-joining subscriptions on both flat and hierarchical attributes. Our results show that our approaches achieve significantly higher throughput compared to state-of-the-art baselines.",
+        "email": "",
+        "conf": "Distributed and Parallel Databases",
+        "coauthors": [
+            "Mohiuddin Abdul Qader",
+            "Vagelis Hristidis"
+        ],
+        "keywords": "Log-Structured Merge Tree,LevelDB,Publish/Subscribe,Self-join subscription,Dewey,Big Data,Internet of Things,Continuous Lookup Queries"
+    }
+]

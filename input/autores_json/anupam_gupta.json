@@ -1,0 +1,388 @@
+[
+    {
+        "id": 1758,
+        "label": 33,
+        "author": "anupam gupta",
+        "title": "Hybrid Lattice Boltzmann/Finite Difference simulations of viscoelastic multicomponent flows in confined geometries",
+        "organization": "Harvard University",
+        "abstract": "We propose numerical simulations of viscoelastic fluids based on a hybrid algorithm combining Lattice–Boltzmann models (LBM) and Finite Differences (FD) schemes, the former used to model the macroscopic hydrodynamic equations, and the latter used to model the polymer dynamics. The kinetics of the polymers is introduced using constitutive equations for viscoelastic fluids with finitely extensible non-linear elastic dumbbells with Peterlin's closure (FENE-P). The numerical model is first benchmarked by characterizing the rheological behavior of dilute homogeneous solutions in various configurations, including steady shear, elongational flows, transient shear and oscillatory flows. As an upgrade of complexity, we study the model in presence of non-ideal multicomponent interfaces, where immiscibility is introduced in the LBM description using the “Shan–Chen” interaction model. The problem of a confined viscoelastic (Newtonian) droplet in a Newtonian (viscoelastic) matrix under simple shear is investigated and numerical results are compared with the predictions of various theoretical models. The proposed numerical simulations explore problems where the capabilities of LBM were never quantified before.",
+        "email": "",
+        "conf": "Journal of Computational Physics",
+        "coauthors": [
+            "Anupam Gupta",
+            "Mauro Sbragaglia",
+            "Andrea Scagliarini"
+        ],
+        "keywords": "Polymers, Viscoelastic flows, Lattice Boltzmann models, Binary liquids, Droplet deformation, orientation"
+    },
+    {
+        "id": 1762,
+        "label": 33,
+        "author": "anupam gupta",
+        "title": "Two-dimensional homogeneous isotropic fluid turbulence with polymer",
+        "organization": "Harvard University",
+        "abstract": "We carry out an extensive and high-resolution direct numerical simulation of homogeneous, isotropic turbulence in two-dimensional fluid films with air-drag-induced friction and with polymer additives. Our study reveals that the polymers (a) reduce the total fluid energy, enstrophy, and palinstrophy; (b) modify the fluid energy spectrum in both inverse- and forward-cascade régimes; (c) reduce small-scale intermittency; (d) suppress regions of high vorticity and strain rate; and (e) stretch in strain-dominated regions. We compare our results with earlier experimental studies and propose new experiments.",
+        "email": "",
+        "conf": "Physical Review E",
+        "coauthors": [
+            "Anupam Gupta",
+            "Prasad Perlekar",
+            "Rahul Pandit"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 1747,
+        "label": 33,
+        "author": "anupam gupta",
+        "title": "Droplet breakup driven by shear thinning solutions in a microfluidic T-Junction",
+        "organization": "Harvard University",
+        "abstract": "Droplet-based microfluidics turned out to be an efficient and adjustable platform for digital analysis, encapsulation of cells, drug formulation, and polymerase chain reaction. Typically, for most biomedical applications, the handling of complex, non-Newtonian fluids is involved, e.g., synovial and salivary fluids, collagen, and gel scaffolds. In this study, we investigate the problem of droplet formation occurring in a microfluidic T-shaped junction, when the continuous phase is made of shear thinning liquids. At first, we review in detail the breakup process, providing extensive, side-by-side comparisons between Newtonian and non-Newtonian liquids over unexplored ranges of flow conditions and viscous responses. The non-Newtonian liquid carrying the droplets is made of Xanthan solutions, a stiff, rodlike polysaccharide displaying a marked shear thinning rheology. By defining an effective Capillary number, a simple yet effective methodology is used to account for the shear-dependent viscous response occurring at the breakup. The droplet size can be predicted over a wide range of flow conditions simply by knowing the rheology of the bulk continuous phase. Experimental results are complemented with numerical simulations of purely shear thinning fluids using lattice Boltzmann models. The good agreement between the experimental and numerical data confirm the validity of the proposed rescaling with the effective Capillary number.",
+        "email": "",
+        "conf": "Physical Review Fluids ",
+        "coauthors": [
+            "Enrico Chiarello",
+            "Anupam Gupta",
+            "Giampaolo Mistura",
+            "Mauro Sbragaglia",
+            "Matteo Plemo"
+        ],
+        "keywords": "T-junction, microfluidics, shear thinning polymers, Xanthan gum, Lattice Boltzmann"
+    },
+    {
+        "id": 1759,
+        "label": 33,
+        "author": "anupam gupta",
+        "title": "Tuning Drop Motion by Chemical Patterning of Surfaces",
+        "organization": "Harvard University",
+        "abstract": "We report the results of extensive experimental studies of the sliding of water drops on chemically heterogeneous surfaces formed by square and triangular hydrophobic domains printed on glass surfaces and arranged in various symmetric patterns. Overall, the critical Bond number, that is, the critical dimensionless force needed to depin the drop, is found to be strongly affected by the shape and the spatial arrangement of the domains. Soon after the droplet begins to move, stick–slip motion is observed on all surfaces, although it is less pronounced than that on striped surfaces. On the triangular patterns, anisotropic behavior is found with drops sliding down faster when the tips of the glass hydrophilic triangles are pointing in the down-plane direction. Away from the critical Bond number, the dynamic regime depends mainly on the static contact angle and weakly on the actual surface pattern. Lattice Boltzmann numerical simulations are performed to validate the experimental results and test the importance of the viscous ratio between the droplet phase and the outer phase.",
+        "email": "",
+        "conf": "Langmuir",
+        "coauthors": [
+            "Silvia Varagnolo",
+            "Veronica Schiocchet",
+            "Davide Ferraro",
+            "Giorgio Amati"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 1755,
+        "label": 33,
+        "author": "anupam gupta",
+        "title": "Universal Statistical Properties of Inertial-particle Trajectories in Three-dimensional Homogeneous Isotropic Fluid Turbulence",
+        "organization": "Harvard University",
+        "abstract": "We uncover universal statistical properties of the trajectories of heavy inertial particles in three-dimensional, statistically steady, homogeneous, and isotropic turbulent flows by extensive direct numerical simulations. We show that the probability distribution functions (PDFs) P(ϕ), of the angle ϕ between the Eulerian velocity u and the particle velocity v, at this point and time, shows a power-law region in which P(ϕ)∼ϕ−γ, with a new universal exponent γ≃4. Furthermore, the PDFs of the trajectory curvature κ and modulus θ of the torsion ϑ have power-law tails that scale, respectively, as P(κ)∼κ−hκ, as κ→∞, and P(θ)∼θ−hθ, as θ→∞, with exponents hκ≃2.5 and hθ≃3 that are universal to the extent that they do not depend on the Stokes number St (given our error bars). We also show that γ, hκ and hθ can be obtained by using simple stochastic models. We characterize the complexity of heavy-particle trajectories by the number NI(t,St) of points (up until time t) at which ϑ changes sign. We show that nI(St)≡limt→∞NI(t,St)t∼St−Δ, with Δ≃0.4 a universal exponent.",
+        "email": "",
+        "conf": "arvix preprint",
+        "coauthors": [
+            "Akshay Bhatnagar",
+            "Anupam Gupta",
+            "Dhrubaditya Mitra",
+            "Prasad Perlekar",
+            "Rahul Pandit"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 1757,
+        "label": 33,
+        "author": "anupam gupta",
+        "title": "Deformation and breakup of viscoelastic droplets in confined shear flow",
+        "organization": "Harvard University",
+        "abstract": "The deformation and breakup of Newtonian and viscoelastic droplets are studied in confined shear flow. Our numerical approach is based on a combination of lattice-Boltzmann models and finite difference schemes, the former used to model two immiscible fluids with variable viscosity ratio and the latter used to model the polymer dynamics. The kinetics of the polymers is introduced using constitutive equations for viscoelastic fluids with finitely extensible nonlinear elastic dumbbells with Peterlin's closure. We quantify the droplet response by changing the polymer relaxation time τP, the maximum extensibility L of the polymers, and the degree of confinement, i.e., the ratio of the droplet diameter to wall separation. In unconfined shear flow, the effects of droplet viscoelasticity on the critical capillary number Cacr for breakup are moderate in all cases studied. However, in confined conditions a different behavior is observed: The critical capillary number of a viscoelastic droplet increases or decreases, depending on the maximum elongation of the polymers, the latter affecting the extensional viscosity of the polymeric solution. Force balance is monitored in the numerical simulations to validate the physical picture.",
+        "email": "",
+        "conf": "Physical Review E",
+        "coauthors": [
+            "Anupam Gupta",
+            "Mauro Sbragaglia"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 1753,
+        "label": 33,
+        "author": "anupam gupta",
+        "title": "Effects of viscoelasticity on droplet dynamics and break-up in microfluidic T-Junctions: a lattice Boltzmann study",
+        "organization": "Harvard University",
+        "abstract": "The effects of viscoelasticity on the dynamics and break-up of fluid threads in microfluidic T-junctions are investigated using numerical simulations of dilute polymer solutions at changing the Capillary number (Ca), i.e. at changing the balance between the viscous forces and the surface tension at the interface, up to Ca ≈≈ 3×10-2. A Navier-Stokes (NS) description of the solvent based on the lattice Boltzmann models (LBM) is here coupled to constitutive equations for finite extensible non-linear elastic dumbbells with the closure proposed by Peterlin (FENE-P model). We present the results of three-dimensional simulations in a range of Ca which is broad enough to characterize all the three characteristic mechanisms of break-up in the confined T-junction, i.e. squeezing, dripping and jetting regimes. The various model parameters of the FENE-P constitutive equations, including the polymer relaxation time τPτP and the finite extensibility parameter L2, are changed to provide quantitative details on how the dynamics and break-up properties are affected by viscoelasticity. We will analyze cases with Droplet Viscoelasticity (DV), where viscoelastic properties are confined in the dispersed (d) phase, as well as cases with Matrix Viscoelasticity (MV), where viscoelastic properties are confined in the continuous (c) phase. Moderate flow-rate ratios Q ≈≈ O(1) of the two phases are considered in the present study. Overall, we find that the effects are more pronounced in the case with MV, as the flow driving the break-up process upstream of the emerging thread can be sensibly perturbed by the polymer stresses.",
+        "email": "",
+        "conf": "The European Physical Journal E",
+        "coauthors": [
+            "Anupam Gupta",
+            "Mauro Sbragaglia"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 1745,
+        "label": 33,
+        "author": "anupam gupta",
+        "title": "Deviation-angle and trajectory statistics for inertial particles in turbulence",
+        "organization": "Harvard University",
+        "abstract": "Small particles in suspension in a turbulent fluid have trajectories that do not follow the pathlines of the flow exactly. We investigate the statistics of the angle of deviation ϕ between the particle and fluid velocities. We show that, when the effects of particle inertia are small, the probability distribution function (PDF) Pϕ of this deviation angle shows a power-law region in which Pϕ∼ϕ−4. We also find that the PDFs of the trajectory curvature κ and modulus θ of the torsion ϑ have power-law tails that scale, respectively, as Pκ∼κ−5/2, as κ→∞, and Pθ∼θ−3, as θ→∞: These exponents are in agreement with those previously observed for fluid pathlines. We propose a way to measure the complexity of heavy-particle trajectories by the number NI(t,St) of points (up until time t) at which the torsion changes sign. We present numerical evidence that nI(St)≡limt→∞NI(t,St)t∼St−Δ for large St, with Δ≃0.5.",
+        "email": "anupam1509@gmail.com",
+        "conf": "PHYSICAL REVIEW E",
+        "coauthors": [
+            "Akshay Bhatnagar",
+            "Anupam Gupta",
+            "Dhrubaditya Mitra",
+            "Prasad Perlekar",
+            "Michael Wilkinson",
+            "Rahul Pandit"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 1760,
+        "label": 33,
+        "author": "anupam gupta",
+        "title": "Statistical Properties of the Intrinsic Geometry of Heavy-particle Trajectories in Two-dimensional Homogeneous Isotropic Turbulence",
+        "organization": "Harvard University",
+        "abstract": "We obtain, by extensive direct numerical simulations, trajectories of heavy inertial particles in two-dimensional, statistically steady, homogeneous, and isotropic turbulent flows, with friction. We show that the probability distribution function P(κ), of the trajectory curvature κ, is such that, as κ→∞, P(κ)∼κ−hr, with hr=2.07±0.09. The exponent hr is universal, insofar as it is independent of the Stokes number (St) and the energy-injection wave number. We show that this exponent lies within error bars of their counterparts for trajectories of Lagrangian tracers. We demonstrate that the complexity of heavy-particle trajectories can be characterized by the number NI(t,St) of inflection points (up until time t) in the trajectory and nI(St)≡limt→∞NI(t,St)t∼St−Δ, where the exponent Δ=0.33±0.02 is also universal.",
+        "email": "",
+        "conf": "arvix preprint",
+        "coauthors": [
+            "Anupam Gupta",
+            "Dhrubaditya Mitra",
+            "Prasad Perlekar",
+            "Rahul Pandit"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 1752,
+        "label": 33,
+        "author": "anupam gupta",
+        "title": "Depletion of Nonlinearity in Magnetohydrodynamic Turbulence: Insights from Analysis and Simulations",
+        "organization": "Harvard University",
+        "abstract": "We build on recent developments in the study of fluid turbulence [Gibbon \\textit{et al.} Nonlinearity 27, 2605 (2014)] to define suitably scaled, order-mm moments, D±mDm±, of ω±=ω±jω±=ω±j, where ωω and jj are, respectively, the vorticity and current density in three-dimensional magnetohydrodynamics (MHD). We show by mathematical analysis, for unit magnetic Prandtl number PMPM, how these moments can be used to identify three possible regimes for solutions of the MHD equations; these regimes are specified by inequalities for D±mDm± and D±1D1±. We then compare our mathematical results with those from our direct numerical simulations (DNSs) and thus demonstrate that 3D MHD turbulence is like its fluid-turbulence counterpart insofar as all solutions, which we have investigated, remain in \\textit{only one of these regimes}; this regime has depleted nonlinearity. We examine the implications of our results for the exponents q±q± that characterize the power-law dependences of the energy spectra E±(k)E±(k) on the wave number kk, in the inertial range of scales. We also comment on (a) the generalization of our results to the case PM≠1PM≠1 and (b) the relation between D±mDm± and the order-mm moments of gradients of hydrodynamic fields, which are used in characterizing intermittency in turbulent flows.",
+        "email": "",
+        "conf": "PHYSICAL REVIEW E",
+        "coauthors": [
+            "John D. Gibbon",
+            "Anupam Gupta",
+            "Giorgio Krstulovic",
+            "Rahul Pandit",
+            "Heene Politano",
+            "Yannick Ponty",
+            "Annick Pouquet",
+            "Ganapati Sahoo",
+            "Julia E Stawarz"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 1751,
+        "label": 33,
+        "author": "anupam gupta",
+        "title": "Binary-Fluid Turbulence: Signatures of Multifractal Droplet Dynamics and Dissipation Reduction",
+        "organization": "Harvard University",
+        "abstract": "We study the challenging problem of the advection of an active, deformable, finite-size droplet by a turbulent flow via a simulation of the coupled Cahn-Hilliard-Navier-Stokes (CHNS) equations. In these equations, the droplet has a natural two-way coupling to the background fluid. We show that the probability distribution function of the droplet center of mass acceleration components exhibit wide, non-Gaussian tails, which are consistent with the predictions based on pressure spectra. We also show that the droplet deformation displays multifractal dynamics. Our study reveals that the presence of the droplet enhances the energy spectrum E(k), when the wave number k is large; this enhancement leads to dissipation reduction.",
+        "email": "anupam1509@gmail.com",
+        "conf": "PHYSICAL REVIEW E",
+        "coauthors": [
+            "Nairita Pal",
+            "Prasad Perlekar",
+            "Anupam Gupta",
+            "Rahul Pandit"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 1744,
+        "label": 33,
+        "author": "anupam gupta",
+        "title": "Lyapunov dimension of elastic turbulence",
+        "organization": "Harvard University",
+        "abstract": "Low-Reynolds-number polymer solutions exhibit a chaotic behaviour known as ‘elastic turbulence’ when the Weissenberg number exceeds a critical value. The two-dimensional Oldroyd-B model is the simplest constitutive model that reproduces this phenomenon. To make a practical estimate of the resolution scale of the dynamics, one requires the assumption that an attractor of the Oldroyd-B model exists; numerical simulations show that the quantities on which this assumption is based are bounded. We estimate the Lyapunov dimension of this assumed attractor as a function of the Weissenberg number by combining a mathematical analysis of the model with direct numerical simulations.",
+        "email": "",
+        "conf": "Journal of Fluid Mechanics",
+        "coauthors": [
+            "Emmanuel Lance Christopher VI Medillo Plan",
+            "A. Gupta",
+            "Dario Vincenzi",
+            "John D. Gibbon"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 1756,
+        "label": 33,
+        "author": "anupam gupta",
+        "title": "Homogeneous Isotropic Superfluid Turbulence in Two Dimensions: Inverse and Forward Cascades in the Hall-Vinen-Bekharevich-Khalatnikov model",
+        "organization": "Harvard University",
+        "abstract": "We present the first direct-numerical-simulation study of the statistical properties of two-dimensional superfluid turbulence in the simplified, Hall-Vinen-Bekharevich-Khalatnikov two-fluid model. We show that both normal-fluid and superfluid energy spectra can exhibit two power-law regimes, the first associated with an inverse cascade of energy and the second with the forward cascade of enstrophy. We quantify the mutual-friction-induced alignment of normal and superfluid velocities by obtaining probability distribution functions of the angle between them and the ratio of their moduli.",
+        "email": "anupam1509@gmail.com",
+        "conf": "Physical Review B",
+        "coauthors": [
+            "Vishwanath Shukla",
+            "Anupam Gupta",
+            "Rahul Pandit"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 1754,
+        "label": 33,
+        "author": "anupam gupta",
+        "title": "A Lattice Boltzmann study of the effects of viscoelasticity on droplet formation in microfluidic cross-junctions",
+        "organization": "Harvard University",
+        "abstract": "Based on mesoscale lattice Boltzmann (LB) numerical simulations, we investigate the effects of viscoelasticity on the break-up of liquid threads in microfluidic cross-junctions, where droplets are formed by focusing a liquid thread of a dispersed (d) phase into another co-flowing continuous (c) immiscible phase. Working at small Capillary numbers, we investigate the effects of non-Newtonian phases in the transition from droplet formation at the cross-junction (DCJ) to droplet formation downstream of the cross-junction (DC) (Liu and Zhang, Phys. Fluids. 23, 082101 (2011)). We will analyze cases with Droplet Viscoelasticity (DV), where viscoelastic properties are confined in the dispersed phase, as well as cases with Matrix Viscoelasticity (MV), where viscoelastic properties are confined in the continuous phase. Moderate flow-rate ratios Q≈O(1)Q≈O(1) of the two phases are considered in the present study. Overall, we find that the effects are more pronounced with MV, where viscoelasticity is found to influence the break-up point of the threads, which moves closer to the cross-junction and stabilizes. This is attributed to an increase of the polymer feedback stress forming in the corner flows, where the side channels of the device meet the main channel. Quantitative predictions on the break-up point of the threads are provided as a function of the Deborah number, i.e., the dimensionless number measuring the importance of viscoelasticity with respect to Capillary forces.",
+        "email": "",
+        "conf": "The European Physical Journal E",
+        "coauthors": [
+            "A. Gupta",
+            "Mauro Sbragaglia"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 1743,
+        "label": 33,
+        "author": "anupam gupta",
+        "title": "The statistical properties of spiral- and scroll-wave turbulence in cardiac tissue",
+        "organization": "Harvard University",
+        "abstract": "Disorganized electrical activity in the heart leads to sudden cardiac death. To what extent can this electrical turbulence be viewed as classical fluid turbulence,which is an important central problem in modern physics? We investigate,for the first time,via extensive DNSs,the statistical properties of spiral-and scroll-wave turbulence in two- and three-dimensional excitable media by using approaches employed in studies of classical turbulence. We use the Panfilov and the Aliev-Panfilov mathematical models for cardiac tissue. We show that once electrical-wave turbulence has been initiated,there is a forward cascade,in which spirals or scrolls form,interact,and break to yield a turbulent state that is statistically steady and,far away from boundaries,is statistically homogeneous and isotropic. For the transmembrane potential V and the slow recovery variable g,which define our models,we define EV(k) and Eg(k),the electrical-wave analogs of the fluid energy spectrum E(k) in fluid turbulence. We show that EV(k) and Eg(k) are spread out over several decades in k. Thus spiral- and scroll-wave turbulence involves a wide range of spatial scales. EV(k) and Eg(k) show approximate power laws,in some range of k, however,their exponents cannot be determined as accurately as their fluid-turbulence counterparts. The dimensionless ratio L/λ is a convenient control parameter like the Reynolds number for fluid turbulence,where L is the linear size of the domain and λ the wavelength of a plane wave in the medium. By comparing several other statistical properties for spiral- and scroll-wave turbulence with their fluid-turbulence counterparts,we show that,although spiral- and scroll-wave turbulence have some statistical properties like those of fluid turbulence,overall these types of turbulence are special and differ in important ways from fluid turbulence.",
+        "email": "",
+        "conf": "arvix preprint",
+        "coauthors": [
+            "K. V. Rajany",
+            "Anupam Gupta",
+            "Alexander V Panfilov",
+            "Rahul Pandit"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 1746,
+        "label": 33,
+        "author": "anupam gupta",
+        "title": "Regularity criterion for solutions of the three-dimensional Cahn-Hilliard-Navier-Stokes equations and associated computations",
+        "organization": "Harvard University",
+        "abstract": "We consider the three-dimensional (3D) Cahn-Hilliard equations coupled to, and driven by, the forced, incompressible 3D Navier-Stokes equations. The combination, known as the Cahn-Hilliard-Navier-Stokes (CHNS) equations, is used in statistical mechanics to model the motion of a binary fluid. The potential development of singularities (blow-up) in the contours of the order parameter ϕ is an open problem. To address this we have proved a theorem that closely mimics the Beale-Kato-Majda theorem for the 3D incompressible Euler equations [J. T. Beale, T. Kato, and A. J. Majda, Commun. Math. Phys. 94, 61 (1984)]. By taking an L∞ norm of the energy of the full binary system, designated as E∞, we have shown that ∫t0E∞(τ)dτ governs the regularity of solutions of the full 3D system. Our direct numerical simulations (DNSs) of the 3D CHNS equations for (a) a gravity-driven Rayleigh Taylor instability and (b) a constant-energy-injection forcing, with 1283 to 5123 collocation points and over the duration of our DNSs confirm that E∞ remains bounded as far as our computations allow.",
+        "email": "",
+        "conf": "PHYSICAL REVIEW E",
+        "coauthors": [
+            "John D. Gibbon",
+            "Nairita Pal",
+            "Anupam Gupta",
+            "Rahul Pandit"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 1740,
+        "label": 33,
+        "author": "anupam gupta",
+        "title": "Effect of polymer-stress diffusion in the numerical simulation of elastic turbulence",
+        "organization": "Harvard University",
+        "abstract": "Elastic turbulence is a chaotic regime that emerges in polymer solutions at low Reynolds numbers. A common way to ensure stability in numerical simulations of polymer solutions is to add artificially large polymer-stress diffusion. In order to assess the accuracy of this approach in the elastic-turbulence regime, we compare numerical simulations of the two-dimensional Oldroyd-B and FENE-P models sustained by a cellular force with and without artificial diffusion. We find that artificial diffusion can have a dramatic effect even on the large-scale properties of the flow and we show some of the spurious phenomena that may arise when artificial diffusion is used.",
+        "email": "",
+        "conf": "Journal of Fluid Mechanics",
+        "coauthors": [
+            "Anupam Nath Gupta",
+            "Dario Vincenzi"
+        ],
+        "keywords": "Physics - Fluid Dynamics; Nonlinear Sciences - Chaotic Dynamics"
+    },
+    {
+        "id": 1749,
+        "label": 33,
+        "author": "anupam gupta",
+        "title": "Lattice Boltzmann Simulations of Droplet formation in confined Channels with Thermocapillary flows",
+        "organization": "Harvard University",
+        "abstract": "Based on mesoscale lattice Boltzmann simulations with the “Shan-Chen” model, we explore the influence of thermocapillarity on the breakup properties of fluid threads in a microfluidic T-junction, where a dispersed phase is injected perpendicularly into a main channel containing a continuous phase, and the latter induces periodic breakup of droplets due to the cross-flowing. Temperature effects are investigated by switching on-off both positive-negative temperature gradients along the main channel direction, thus promoting a different thread dynamics with anticipated-delayed breakup. Numerical simulations are performed at changing the flow rates of both the continuous and dispersed phases, as well as the relative importance of viscous forces, surface tension forces, and thermocapillary stresses. The range of parameters is broad enough to characterize the effects of thermocapillarity on different mechanisms of breakup in the confined T-junction, including the so-called “squeezing” and “dripping” regimes, previously identified in the literature. Some simple scaling arguments are proposed to rationalize the observed behavior, and to provide quantitative guidelines on how to predict the droplet size after breakup.",
+        "email": "",
+        "conf": "PHYSICAL REVIEW E",
+        "coauthors": [
+            "Anupam Gupta",
+            "Mauro Sbragaglia",
+            "Daniele Belardinelli",
+            "Kazuki Sugiyama"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 1742,
+        "label": 33,
+        "author": "anupam gupta",
+        "title": "Heavy inertial particles in turbulent flows gain energy slowly but lose it rapidly",
+        "organization": "Harvard University",
+        "abstract": "We present an extensive numerical study of the time irreversibility of the dynamics of heavy inertial particles in three-dimensional, statistically homogeneous, and isotropic turbulent flows. We show that the probability density function (PDF) of the increment, W(τ), of a particle's energy over a time scale τ is non-Gaussian, and skewed toward negative values. This implies that, on average, particles gain energy over a period of time that is longer than the duration over which they lose energy. We call this slow gain and fast loss. We find that the third moment of W(τ) scales as τ3 for small values of τ. We show that the PDF of power-input p is negatively skewed too; we use this skewness Ir as a measure of the time irreversibility and we demonstrate that it increases sharply with the Stokes number St for small St; this increase slows down at St≃1. Furthermore, we obtain the PDFs of t+ and t−, the times over which p has, respectively, positive or negative signs, i.e., the particle gains or loses energy. We obtain from these PDFs a direct and natural quantification of the slow gain and fast loss of the energy of the particles, because these PDFs possess exponential tails from which we infer the characteristic loss and gain times tloss and tgain, respectively, and we obtain tloss<tgain for all the cases we have considered. Finally, we show that the fast loss of energy occurs with greater probability in the strain-dominated region than in the vortical one; in contrast, the slow gain in the energy of the particles is equally likely in vortical or strain-dominated regions of the flow.",
+        "email": "anupam1509@gmail.com",
+        "conf": "PHYSICAL REVIEW E",
+        "coauthors": [
+            "Akshay Bhatnagar",
+            "Anupam Gupta",
+            "Dhrubaditya Mitra",
+            "Rahul Pandit"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 1750,
+        "label": 33,
+        "author": "anupam gupta",
+        "title": "Melting of a nonequilibrium vortex crystal in a fluid film with polymers: Elastic versus fluid turbulence",
+        "organization": "Harvard University",
+        "abstract": "We perform a direct numerical simulation of the forced, incompressible two-dimensional Navier-Stokes equation coupled with the FENE-P equations for the polymer-conformation tensor. The forcing is such that, without polymers and at low Reynolds numbers Re, the film attains a steady state that is a square lattice of vortices and antivortices. We find that, as we increase the Weissenberg number Wi, a sequence of nonequilibrium phase transitions transforms this lattice, first to spatially distorted, but temporally steady, crystals and then to a sequence of crystals that oscillate in time, periodically, at low Wi, and quasiperiodically, for slightly larger Wi. Finally, the system becomes disordered and displays spatiotemporal chaos and elastic turbulence. We then obtain the nonequilibrium phase diagram for this system, in the Wi-Ω plane, where Ω∝Re, and show that (a) the boundary between the crystalline and turbulent phases has a complicated, fractal-type character and (b) the Okubo-Weiss parameter Λ provides us with a natural measure for characterizing the phases and transitions in this diagram.",
+        "email": "",
+        "conf": "PHYSICAL REVIEW E",
+        "coauthors": [
+            "Anupam Gupta",
+            "Rahul Pandit"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 1761,
+        "label": 33,
+        "author": "anupam gupta",
+        "title": "Elliptical Tracers in Two-dimensional Homogeneous Isotropic Fluid Turbulence: the Statistics of Alignment Rotation and Nematic Order",
+        "organization": "Harvard University",
+        "abstract": "We study the statistical properties of orientation and rotation dynamics of elliptical tracer particles in two-dimensional, homogeneous, and isotropic turbulence by direct numerical simulations. We consider both the cases in which the turbulent flow is generated by forcing at large and intermediate length scales. We show that the two cases are qualitatively different. For large-scale forcing, the spatial distribution of particle orientations forms large-scale structures, which are absent for intermediate-scale forcing. The alignment with the local directions of the flow is much weaker in the latter case than in the former. For intermediate-scale forcing, the statistics of rotation rates depends weakly on the Reynolds number and on the aspect ratio of particles. In contrast with what is observed in three-dimensional turbulence, in two dimensions the mean-square rotation rate increases as the aspect ratio increases.",
+        "email": "",
+        "conf": "Physical Review E",
+        "coauthors": [
+            "Anupam Gupta",
+            "Dario Vincenzi",
+            "Rahul Pandit"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 1741,
+        "label": 33,
+        "author": "anupam gupta",
+        "title": "Inertial spheroids in homogeneous isotropic turbulence",
+        "organization": "Harvard University",
+        "abstract": "We study the rotational dynamics of inertial disks and rods in three-dimensional, homogeneous, isotropic turbulence. In particular, we show how the alignment and the decorrelation timescales of such spheroids depend, critically, on both the level of inertia and the aspect ratio of these particles. These results illustrate the effect of inertia—which leads to a preferential sampling of the local flow geometry—on the statistics of both disks and rods in a turbulent flow. Our results are important for a variety of natural and industrial settings where the turbulent transport of asymmetric, spheroidal inertial particles is ubiquitous.",
+        "email": "anupam1509@gmail.com",
+        "conf": "PHYSICAL REVIEW E",
+        "coauthors": [
+            "Amal Roy",
+            "Anupam Gupta",
+            "Samriddhi Sankar Ray"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 1748,
+        "label": 33,
+        "author": "anupam gupta",
+        "title": "How long do particles spend in vortical regions in turbulent flows?",
+        "organization": "Harvard University",
+        "abstract": "We obtain the probability distribution functions (PDFs) of the time that a Lagrangian tracer or a heavy inertial particle spends in vortical or strain-dominated regions of a turbulent flow, by carrying out direct numerical simulations of such particles advected by statistically steady, homogeneous, and isotropic turbulence in the forced, three-dimensional, incompressible Navier-Stokes equation. We use the two invariants, Q and R, of the velocity-gradient tensor to distinguish between vortical and strain-dominated regions of the flow and partition the Q−R plane into four different regions depending on the topology of the flow; out of these four regions two correspond to vorticity-dominated regions of the flow and two correspond to strain-dominated ones. We obtain Q and R along the trajectories of tracers and heavy inertial particles and find out the time tpers for which they remain in one of the four regions of the Q−R plane. We find that the PDFs of tpers display exponentially decaying tails for all four regions for tracers and heavy inertial particles. From these PDFs we extract characteristic time scales, which help us to quantify the time that such particles spend in vortical or strain-dominated regions of the flow.",
+        "email": "anupam1509@gmail.com",
+        "conf": "PHYSICAL REVIEW E",
+        "coauthors": [
+            "Akshay Bhatnagar",
+            "Anupam Gupta",
+            "Dhrubaditya Mitra",
+            "Rahul Pandit",
+            "Prasad Perlekar"
+        ],
+        "keywords": ""
+    }
+]

@@ -1,0 +1,1359 @@
+[
+    {
+        "id": 691,
+        "label": 22,
+        "author": "mohammed abdul qadeer",
+        "title": "Aerial surveillance system using UAV",
+        "organization": "Asst. Professor of Computer Engineering Aligarh Muslim University",
+        "abstract": "In today's world, there is a growing need for surveillance in order to maintain the decorum at a place and ensure the safety and security of its people. An aerial surveillance system will be worthwhile in this regard. This paper describes how an aerial surveillance system can be built using an unmanned aerial vehicle or a drone. We start by delineating the features of our aerial surveillance system and then discuss some of the technologies that we have used in building it. After that we mention how we have incorporated those technologies into a drone and have made them work together harmoniously in order to achieve our desired aerial surveillance system. This system will be a convenient and efficient alternative to current surveillance systems. It can be used in peace keeping activities and also real time monitoring of a place at any time of the day. The aim is to provide fast and efficient surveillance at an affordable rate so that it can be used widely at private, institutional and governmental level.",
+        "email": "",
+        "conf": "Wireless and Optical Communications Networks (WOCN). IEEE",
+        "coauthors": [
+            "Zainab Zaheer",
+            "Atiya Usmani",
+            "Ekram Khan",
+            "Mohammed Abdul Qadeer"
+        ],
+        "keywords": "surveillance,drone,quadcopter,UAV,Waypoints,live streaming"
+    },
+    {
+        "id": 745,
+        "label": 22,
+        "author": "mohammed abdul qadeer",
+        "title": "Information processing using Data Stream Management System on jamdroid",
+        "organization": "Asst. Professor of Computer Engineering Aligarh Muslim University",
+        "abstract": "GPS is an omnipresent technology for traffic analysis. The flip side; however in GPS is that it is not completely real time & it only deals with highways, freeways, sometimes main streets in large cities. Jamdroid is a real time, collaborative road traffic information system that aims to remedy these shortcomings of GPS. Jamdroid is a totally new concept, one which can hopefully replace or augment GPS in the near future. Hence for a system processing such large amount of data, provisions must be made for effective live stream handling. Data Stream Management Systems offers one such novel way of stream handling. We will see how such a system can gain immensely by incorporating Data Stream Management System, using open-source TelegraphCQ, for data stream processing & querying.",
+        "email": "",
+        "conf": "International Conference on Advances in Computing, Communication and Control",
+        "coauthors": [
+            "Nadeem Akhtar",
+            "Faraz Khan",
+            "Mohammed Abdul Qadeer"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 735,
+        "label": 22,
+        "author": "mohammed abdul qadeer",
+        "title": "Bandwidth Resource Allocation",
+        "organization": "Asst. Professor of Computer Engineering Aligarh Muslim University",
+        "abstract": "A data network may not be stable at the connection level under some unfair bandwidth allocation policies, even when the normal offered load condition is satisfied i.e. average traffic load at each link is less than its capacity. In this paper, we present that a data network is stable when the bandwidth of the network is allocated so as to provide a minimum bandwidth using max min fairness algorithm. Thus each user will be guaranteed for a minimum bandwidth he will be getting.",
+        "email": "",
+        "conf": "International Conference on Future Computer and Communication. IEEE",
+        "coauthors": [
+            "Rafeeq Ahmed",
+            "Mohammed Abdul Qadeer",
+            "Musheer Ahmad"
+        ],
+        "keywords": "bandwidth,max min fairness algorithm,packet capturing"
+    },
+    {
+        "id": 755,
+        "label": 22,
+        "author": "mohammed abdul qadeer",
+        "title": "Profile Management and Authentication Using LDAP",
+        "organization": "Asst. Professor of Computer Engineering Aligarh Muslim University",
+        "abstract": "In this paper, we present the technique to manage user profiles and authentication using LDAP (lightweight directory access protocol). The user profiles maintained in the LDAP directory information tree (DIT) which contains various information about users. This information can be retrieved by the users depending upon the level of access provided to them on the network. Various services use this authentication mechanism to allow the authorized users, who provide correct authentication information as stored in the LDAP server, to use the corresponding services. Virtual private network (VPN), remote access server (RAS), Web server, mail server can use LDAP for authenticating users.",
+        "email": "",
+        "conf": " International Conference on Computer Engineering and Technology, IEEE",
+        "coauthors": [
+            "Mohammed Abdul Qadeer",
+            "Mohammad Salim",
+            "M. Sana Akhtar"
+        ],
+        "keywords": "LDAP,client,server,SLAPD,schemas,database,ACLs,authentication,LDIF,Web Server,VPN,RAS,SendMail"
+    },
+    {
+        "id": 757,
+        "label": 22,
+        "author": "mohammed abdul qadeer",
+        "title": "Asterisk Voice Exchange: An Alternative to Conventional EPBX",
+        "organization": "Asst. Professor of Computer Engineering Aligarh Muslim University",
+        "abstract": "This paper highlights the design and implementation aspects of a VoIP based asterisk voice exchange, developing a fully functional voice exchange requires to set up a server based on Asterisk, connecting clients to that server with the help of soft phones and then configuring the soft phones with the server. Here in our implementation we have connected the clients to the server with the help of IAX protocols. The first part of the paper contains some introductory concepts about VoIP, followed by asterisk's internal architecture. In the third part of the paper we discuss about the codecs and protocols used by the packet switching based PBX networks and finally we brush up about the design and implementation aspects.",
+        "email": "",
+        "conf": "International Conference on Computer and Electrical Engineering, IEEE",
+        "coauthors": [
+            "Mohammed Abdul Qadeer",
+            "Ale Imran"
+        ],
+        "keywords": "VoIP,PBX,IAX,SIP,Asterisk,Trunk"
+    },
+    {
+        "id": 739,
+        "label": 22,
+        "author": "mohammed abdul qadeer",
+        "title": "Real Time Streaming Video over Bluetooth Network",
+        "organization": "Asst. Professor of Computer Engineering Aligarh Muslim University",
+        "abstract": "The Bluetooth specification describes a robust and powerful technology for short-range wireless communication. Unfortunately, the specification is immense and complicated, presenting a formidable challenge for novice developers. This paper is concerned with recording video from mobile phone to desktop computers and laptops. Users could be able to record huge data and stored in the computers within its range of Bluetooth dongle. Through we can create a Bluetooth PAN (Piconet) in which mobile computers can dynamically connect to master and communicate with other slave. Dynamically we can select any mobile computer and data transferred into that. Mobile has limited storage capacity with respect to computers, Therefore computers should be prefer to store recorded data.",
+        "email": "",
+        "conf": "Signal Processing and Communication Technologies. IEEE",
+        "coauthors": [
+            "M. Siddique Khan",
+            "Rehan Ahmad",
+            "Tauseef Ahmad",
+            "Mohammed Abdul Qadeer"
+        ],
+        "keywords": "Bluetooth,Video Streaming,Piconet,Quality of Service"
+    },
+    {
+        "id": 715,
+        "label": 22,
+        "author": "mohammed abdul qadeer",
+        "title": "E-commerce: From shopping carts to credit cards",
+        "organization": "Asst. Professor of Computer Engineering Aligarh Muslim University",
+        "abstract": "In the modern world, the concept of E-commerce has given the act of doing business a new direction and has evolved significantly than just being known as electronic payment on the Internet. E-commerce is growing at an exponential rate. There are several application areas in this category; like online banking activities, document automation in supply chain and logistics, teleconferencing, online office suites, shopping cart software, online shopping and order tracking. For example one is able to buy an airline ticket, movie ticket, household commodity, download music or a book just by giving a credit card number and click download button in a webpage. The user has a availability of worldwide markets and machines all the time, that are tireless unlike humans. Some of the major issues while enabling these services include privacy issues, data security and application technology. If security issues crop up among the users in such a situation, then it means that the services will be rendered redundant.",
+        "email": "maqadeer@gmail.com",
+        "conf": "International Conference on Communication Software and Networks. IEEE",
+        "coauthors": [
+            "Daud Khan",
+            "Praveen Varshney",
+            "Mohammed Abdul Qadeer"
+        ],
+        "keywords": "E-commerce,B2B,B2C"
+    },
+    {
+        "id": 682,
+        "label": 22,
+        "author": "mohammed abdul qadeer",
+        "title": "Security in cloud computing",
+        "organization": "Asst. Professor of Computer Engineering Aligarh Muslim University",
+        "abstract": "Cloud computing has manifold advantages and thus it is now considered as the best computing environment nowadays. It provides a plethora of benefits such as pay per use services, infrastructure etc. Cloud computing paradigm offers scalability. Along with this, it also provides flexibility, ease of computing, economic benefits and what not. the main thing holding the cloud back from being a boom advancement is the security issues related with its deployment models as the information and data uploaded onto the cloud may be classified and is easily accessible by hackers by some sophisticated methods This paper deals with some of these security concerns, some previous ways to mitigate those threats and some new proposed solutions to deal with these security concerns and secure the cloud to the fullest.",
+        "email": "",
+        "conf": "Communication Systems and Network Technologies (CSNT)",
+        "coauthors": [
+            "Vani Dayal Sharma",
+            "Somya Agarwai",
+            "Syeda Shira Moin",
+            "Mohammed Abdul Qadeer"
+        ],
+        "keywords": "Computing Paradigms,Cloud Deployment Models,Privacy,Hypervisor,Encryption"
+    },
+    {
+        "id": 725,
+        "label": 22,
+        "author": "mohammed abdul qadeer",
+        "title": "Network Traffic Analysis and Intrusion Detection Using Packet Sniffer",
+        "organization": "Asst. Professor of Computer Engineering Aligarh Muslim University",
+        "abstract": "Computer software that can intercept and log traffic passing over a digital network or part of a network is better known as packet sniffer. The sniffer captures these packets by setting the NIC card in the promiscuous mode and eventually decodes them. The decoded information can be used in any way depending upon the intention of the person concerned who decodes the data (i.e. malicious or beneficial purpose). Depending on the network structure one can sniff all or just parts of the traffic from a single machine within the network. However, there are some methods to avoid traffic narrowing by switches to gain access to traffic from other systems on the network. This paper focuses on the basics of packet sniffer and its working, development of the tool on Linux platform and its use for Intrusion Detection. It also discusses ways to detect the presence of such software on the network and to handle them in an efficient way. Focus has also been laid to analyze the bottleneck scenario arising in the network, using this self developed packet sniffer. Before the development of this indigenous software, minute observation has been made on the working behavior of already existing sniffer software such as wireshark (formerly known as ethereal), tcpdump, and snort, which serve as the base for the development of our sniffer software. For the capture of the packets, a library known as libpcap has been used. The development of such software gives a chance to the developer to incorporate the additional features that are not in the existing one",
+        "email": "",
+        "conf": "International Conference on Communication Software and Networks. IEEE",
+        "coauthors": [
+            "Mohammed Abdul Qadeer",
+            "Arshad Iqbal",
+            "Mohammad Zahid",
+            "Misbahur Rahman Siddiqui"
+        ],
+        "keywords": "Packet capture,traffic analysis,libpcap,network monitoring,NIC,promiscuous mode,Berkeley Packet Filter,Network analyzer,packet sniffer,intrusion detection"
+    },
+    {
+        "id": 685,
+        "label": 22,
+        "author": "mohammed abdul qadeer",
+        "title": "Performance analysis of software defined networks",
+        "organization": "Asst. Professor of Computer Engineering Aligarh Muslim University",
+        "abstract": "Recent developments in information and communication technology domain, in particular social, mobile, cloud and big data are insisting computer networks for high bandwidth, ubiquitous accessibility and dynamic management. Also existing network approaches cannot completely utilize the capability of the physical network infrastructure and resources. In response to the preceding requirements of the computer networks, one of the solution is to make more investment in the network. In this paper, we survey the Software Defined Networking information and aim at presenting the definition of Software Defined Network and its architectural principle. Two sections describes the application of Software Defined Network in real world and its performance analysis based on some parameters. In the next sections, we present the key benefits and challenges of Software Defined Networking. Next we present a brief conclusion with some discussion on the current implementations of Software Defined Networking.",
+        "email": "",
+        "conf": "Computational Intelligence and Communication Networks (CICN)",
+        "coauthors": [
+            "Anurag Garg",
+            "Viyangu Saini",
+            "Mohd Imran",
+            "Mohammed Abdul Qadeer"
+        ],
+        "keywords": "SDN,Open Flow,Linux ProGFE,Network Virtualization"
+    },
+    {
+        "id": 744,
+        "label": 22,
+        "author": "mohammed abdul qadeer",
+        "title": "Improving Real-Time GPS by incorporating TelegraphCQ in Jamdroid Architecture",
+        "organization": "Asst. Professor of Computer Engineering Aligarh Muslim University",
+        "abstract": "Data Stream Management System is a new class of stream handling with SQL-like queries & robustness at relatively high streams of data. TelegraphCQ is an open source DSMS tool developed towards handling live streams of data. Jamdroid, on the other hand, is a new collaborative project, developed on Android platform, that gathers road traffic reports from all its end-users, compiles the data and reports back to the navigation software of the users. It involves a data analysis algorithm running on the user device, and Internet servers that retrieve the data from the user, merge them, and send them back to the community. Such a system is meant to be accessed by a large number of users, and has to be fast-responsive enough to deal with all the requests; hence, provisions must be made for effective live stream handling. We will see how such a system can gain immensely by incorporating Data Stream Management System, using open-source TelegraphCQ, for data stream processing & querying.",
+        "email": "",
+        "conf": "International Symposium on Wireless Pervasive Computing. IEEE",
+        "coauthors": [
+            "Mohammed Abdul Qadeer",
+            "Nadeem Akhtar",
+            "Faraz Khan",
+            "Etienne Baratte"
+        ],
+        "keywords": "GPS,Jamdroid,Live Stream Processing,DSMS,TelegraphCQ"
+    },
+    {
+        "id": 741,
+        "label": 22,
+        "author": "mohammed abdul qadeer",
+        "title": "Apportioning Bandwidth to Clients as per Privileges",
+        "organization": "Asst. Professor of Computer Engineering Aligarh Muslim University",
+        "abstract": "In this paper we present a technique to allocate bandwidth to the clients as per the privileges. It means basically that each user can buy bandwidth which will be available as a premium, high and normal class bandwidth. As per the class a user buys he will be given a username and password. Using this username and password he will authenticate himself to the server. The server then provides bandwidth to that user for running the applications which fall within the bandwidth range of that class. The server queues all the packets coming to it from the internet connection and then sends them out on a priority basis which is defined by the class each user falls into.",
+        "email": "maqadeer@gmail.com",
+        "conf": "International Journal of Future Generation Communication and Networking",
+        "coauthors": [
+            "Mohammed Abdul Qadeer",
+            "Shahid Habib",
+            "Ahmad Yazdan Javaid"
+        ],
+        "keywords": "Bandwidth, Clients as per Privileges, Authentication"
+    },
+    {
+        "id": 707,
+        "label": 22,
+        "author": "mohammed abdul qadeer",
+        "title": "Dynamic Call Transfer through Wi-Fi Networks Using Asterisk",
+        "organization": "Asst. Professor of Computer Engineering Aligarh Muslim University",
+        "abstract": "In the forthcoming time where the coverage area of the Wi-Fi networks would increase drastically, the transfer of call between two users present in a Wi-Fi network can be achieved thus reducing the effective cost of call rates significantly. The following article presents a view of how people in any Wi-Fi network can call each other via the network. Once the user is registered as a genuine user using any authentication methodology, the ASTERISK SERVER which has DHCP server configured provides an IP to any user requesting having a Wi-Fi enabled cell phone. Now, this user can talk to any other user in a Wi-Fi network by sending and receiving speech signals as data packets over the network. Since the dependence over the service provider is removed, overall cost is drastically reduced.",
+        "email": "maqadeer@gmail.com",
+        "conf": "International Conference on Soft Computing for Problem Solving",
+        "coauthors": [
+            "Mohammed Abdul Qadeer"
+        ],
+        "keywords": "Asterisk, VoIP, SIP, IAX, cellphone, call "
+    },
+    {
+        "id": 717,
+        "label": 22,
+        "author": "mohammed abdul qadeer",
+        "title": "Implementation of location awareness and sharing system based on GPS and GPRS using J2ME PHP and MYSQL",
+        "organization": "Asst. Professor of Computer Engineering Aligarh Muslim University",
+        "abstract": "This document provides detail on the implementation of a location awareness system which gives the user's current location, sends this location using SMS (Short Message Service) plus sharing location with friends and family and view them on Google maps. Users can also take benefit of this application in emergency situations by using emergency feature of this application. To get the location coordinates, application is using GPS (Global Positioning System) as location provider. The application design has five parts: a mobile client, a web server, a database, GPS system and a map service. A mobile client which consists of a mobile and GPS receiver finds the location of the user to get aware of his location. In order to share this location the mobile client sends this location to the web server from where other users can get this location if they have the authentication provided by the user. The mobile client is implemented using J2ME which is one of the most promising software platforms for mobile devices. Sun representatives assert that 18 to 20 million mobile phones support the J2ME platform. Analysts predict that within the next few years, this technology will become omnipresent. According to Gartner Group estimates, in 2006, approximately 80 percent of mobile phones will support Java. The web server side programming is done using PHP and database is maintained by MYSQL",
+        "email": "maqadeer@gmail.com",
+        "conf": "International Conference on Computer Research and Development, IEEE",
+        "coauthors": [
+            "Ankur Chandra",
+            "Shashank Jain",
+            "Mohammed Abdul Qadeer"
+        ],
+        "keywords": "GPS,LBS,J2ME,Midmaps,Google maps,PHP,mysql,GSM,CDMA"
+    },
+    {
+        "id": 760,
+        "label": 22,
+        "author": "mohammed abdul qadeer",
+        "title": "Authentication Based QoS Using Bandwidth Limitation",
+        "organization": "Asst. Professor of Computer Engineering Aligarh Muslim University",
+        "abstract": "In this paper, we present a method for providing quality of service using bandwidth limitation. In practical demonstration of the idea, we have used an algorithm for packet queuing, a technique applicable in a setup where the systems are connected to the Internet through a server and the server receives and distributes all the packets requested from the all the users in the network. The idea basically involves making queues for all the packets and then, to guarantee quality of service, transmitting the packets after suitable delay. In summary, we have designed a module which can be used in a network with a server and which provides services like limiting data transfer rate, user based priority, and other related services.",
+        "email": "",
+        "conf": "International Symposium on Computer Science and its Applications, IEEE",
+        "coauthors": [
+            "Shahid Habib",
+            "Mohammed Abdul Qadeer",
+            "Ahmad Yazdan Javaid"
+        ],
+        "keywords": "authentication,quality of service,bandwidth limitation,packet queuing,Internet,resource scheduling,dynamic bandwidth allocation"
+    },
+    {
+        "id": 709,
+        "label": 22,
+        "author": "mohammed abdul qadeer",
+        "title": "GPS Locator: An Application for Location Tracking and Sharing Using GPS for Java Enabled Handhelds",
+        "organization": "Asst. Professor of Computer Engineering Aligarh Muslim University",
+        "abstract": "The use of mobile devices has become a part of our daily routine. Recently, mobile devices like mobile phones or portable digital displays (PDAs) are equipped with global positioning system (GPS) receptors that allow us to get the device's geographic position in real time. Location Based Services (LBS) are regarded as a key feature of many future mobile applications. GPS serves well for most outdoor applications, however, its dependence on satellites makes it ineffective for indoor environments. This document gives a detail on our ongoing project work in the field of Location Based Services for JAVA enabled mobile devices, equipped with GPS receptor. We present a novel technique to send GPS coordinates to other mobiles through Short Message Service (SMS) based on Global Positioning System (GPS) technology. This application also enables the users to get their current location coordinates (latitude, longitude and altitude) and they can also view their locations on the Google maps. Further, this application also enables the user to share his location with their friends through a web server using internet connectivity in their hand helds. GPS is a satellite-based navigation system made up of a network of 24 satellites placed into orbit by the United States (US) Department of Defense (DoD). GPS was originally intended for military applications, but in the 1980s, the government made the system available for civilian use. GPS can show you your exact position on the Earth in any weather conditions, anywhere in the world, 24 hours a day. There are no subscription fees or setup charges to use GPS [6].",
+        "email": "maqadeer@gmail.com",
+        "conf": "International Conference on Computational Intelligence and Communication Networks. IEEE",
+        "coauthors": [
+            "Ankur Chandra",
+            "Shashank Jain",
+            "Mohammed Abdul Qadeer"
+        ],
+        "keywords": "GPS,LBS,J2ME,MidMaps,Google Maps,GSM,CDMA"
+    },
+    {
+        "id": 756,
+        "label": 22,
+        "author": "mohammed abdul qadeer",
+        "title": "Monitoring and Analysis of Data Packets Using Data Stream Management System",
+        "organization": "Asst. Professor of Computer Engineering Aligarh Muslim University",
+        "abstract": "This paper introduces monitoring network packets, which we will show differ substantially from conventional DBMS analysis. In many applications in the real world, data is not stored at a place (as in conventional DBMS) i.e. in this model, data does not take the form of persistent relations, but rather arrives in multiple, continuous, rapid, time-varying data streams. Almost all traffic analysis tasks too fall under this category as the amount of data flowing are bursts of stream. The huge amount of data that has to be managed and analyzed together with the fact that many different analysis tasks are performed over a small set of different network trace formats, motivates us to study whether data stream management systems (DSMSs) might be useful to develop network traffic analysis tools.",
+        "email": "",
+        "conf": "International Conference on Computer and Electrical Engineering, IEEE",
+        "coauthors": [
+            "Mohammed Abdul Qadeer",
+            "Nadeem Akhtar",
+            "Faraz Khan",
+            "Faridul Haque"
+        ],
+        "keywords": "DBMS,DSMS,TelegraphCQ"
+    },
+    {
+        "id": 705,
+        "label": 22,
+        "author": "mohammed abdul qadeer",
+        "title": "Voice - Video Communication on Mobile Phones and PCs' Using Asterisk EPBX",
+        "organization": "Asst. Professor of Computer Engineering Aligarh Muslim University",
+        "abstract": "This paper presents the design and implementation of Asterisk server, which serves as the local exchange for placing voice and video calls within a private Wi-Fi cloud and legacy networks, that is, with the Public Switch Telephony Network (PSTN). The model is accessible within the area of a university campus and allows only those mobile phones and PCs' to connect to the Asterisk server which are registered with the wireless network. The work proposed in this paper has an added feature for placing the voice and video calls on mobile phones hence increasing the mobility of a user. The model is successful in carrying out voice and video calls on Android supported hand helds connected with the wireless network and PCs connected with both wired LAN and wireless LAN. Further, every user is provided with his own extension number that can be used to connect to the outside world.",
+        "email": "maqadeer@gmail.com",
+        "conf": "Communication Systems and Network Technologies. IEEE",
+        "coauthors": [
+            "Mohammed Abdul Qadeer",
+            "Kanika Shah",
+            "Utkarsh Goel"
+        ],
+        "keywords": "voice-video calls,wireless communications,VoIP calls,Asterisk,SIP"
+    },
+    {
+        "id": 688,
+        "label": 22,
+        "author": "mohammed abdul qadeer",
+        "title": "Mobile travel guide using image recognition and GPS/Geo tagging: A smart way to travel",
+        "organization": "Asst. Professor of Computer Engineering Aligarh Muslim University",
+        "abstract": "In our current tourism system, whenever a tourist visits a monument or a famous spot, to know more about the place, he/she hires a guide. With the advancement in the technology, the role of the guide is being taken up by the different services and applications. The increase in the use of mobile phones has made it easier to provide different applications available to the tourists `on the go'. In this project, we are making an android based mobile application that can be used as a guide by the tourists. The main function of this application is to recognize a monument or a famous spot from the picture clicked/uploaded by the user and to provide detailed information regarding it. This is achieved by using open-cv for image recognition. It then displays the information that is associated with that monument. The information is available in the JSON database. It will also be able to point the location of that monument on the map.",
+        "email": "",
+        "conf": "Wireless and Optical Communications Networks (WOCN). IEEE",
+        "coauthors": [
+            "Ramsha Fatima",
+            "Iffat Zarrin",
+            "Mohammed Abdul Qadeer",
+            "M. Sarosh Umar"
+        ],
+        "keywords": "Geo Tagging,GPS,Image Recognition,JSON,API,Open-CV"
+    },
+    {
+        "id": 754,
+        "label": 22,
+        "author": "mohammed abdul qadeer",
+        "title": "Encrypted Voice Calls with IP enabled Wireless Phones over GSM/CDMA/WiFi Networks",
+        "organization": "Asst. Professor of Computer Engineering Aligarh Muslim University",
+        "abstract": "A research on the related technology and implementation of IP phone based on WiFi network is discussed in this paper; it includes the net structure of the technology used in designing the terminal of IP phone. This technology is a form of telecommunication that allows data and voice transmissions to be sent across a wide range of interconnected networks. A WiFi enabled IP phone is used which is preinstalled with the Symbian Operating System and a software application is developed using J2ME which allows free and secured communication between selected IP phones in the WiFi network. This communication is done with the use of routing tables organized in the WiFi routers. Using the free bandwidth of 2.4 GHz communication channels are established. The communication channel being a free bandwidth is vulnerable to external attacks and hacking. Thereby this challenge of creating a secure communication channel is addressed by using two different encryption mechanisms. The payload and header of the voice data packets are encrypted using two different algorithm techniques. Hence the communication system is made almost fully secure. Also the WiFi server can tunnel the calls to the GSM network using UNC. Moreover the creation of a vertical handoff protocol will provide seamless communication for users. This handoff is defined in the context of a diverse network environment. It is cost effective, it allows easier communication, is great for international usages, and it can be very useful for large corporations. In time this will become a cheap and secure way to communicate and will have a large effect on university, business and personal communication.",
+        "email": "",
+        "conf": "International Conference on Computer Engineering and Technology, IEEE",
+        "coauthors": [
+            "Mohammed Abdul Qadeer",
+            "Robin Kasana",
+            "Sarvat Sayeed"
+        ],
+        "keywords": "IP phones,Wifi,Symbian,J2ME,encryption,GSM,UNC"
+    },
+    {
+        "id": 747,
+        "label": 22,
+        "author": "mohammed abdul qadeer",
+        "title": "Real-time GPS via Jamdroid server enhanced by TelegraphCQ & augmented by RFID tag",
+        "organization": "Asst. Professor of Computer Engineering Aligarh Muslim University",
+        "abstract": "As of now, GPS is an almost ubiquitous technology. However, it is not completely real time & it only deals with highways, freeways, sometimes main streets in large cities. Jamdroid is a real time, collaborative road traffic information system that aims to remedy these shortcomings of GPS. Jamdroid is a new collaborative project that gathers road traffic reports from all its end-users, compiles the data and reports back to the navigation software of the users. It involves a data analysis algorithm running on the user device, and Internet servers that retrieve the data from the user, merge them, and send them back to the community. We know that it might not be possible to equip every vehicle with a GPS receiver. Hence to maximize available traffic data, we explore the option of introducing RFID tag for gathering GPS data. Such a system is meant to be accessed by a large number of users, and has to be fast & responsive enough to deal with all the requests; hence, provisions must be made for effective live stream handling. We will see how such a system can gain immensely by incorporating Data Stream Management System, using open-source TelegraphCQ, for data stream processing & querying.",
+        "email": "",
+        "conf": "International Conference on Advances in Computing, Communication and Control",
+        "coauthors": [
+            "Mohammed Abdul Qadeer",
+            "Faraz Khan",
+            "Nadeem Akhtar"
+        ],
+        "keywords": "GPS, Jamdroid, Live Stream Processing, DSMS, RFIDs, TelegraphCQ"
+    },
+    {
+        "id": 763,
+        "label": 22,
+        "author": "mohammed abdul qadeer",
+        "title": "Bandwidth management using weighted fair queuing",
+        "organization": "Asst. Professor of Computer Engineering Aligarh Muslim University",
+        "abstract": "In this paper, we present a new technique for Bandwidth allocation among users in a server controlled network in a technical, industrial or institutional setup. In creating our project we shall be using fair queuing i.e. the system which is connected to the internet and on which our software is installed will be receiving all the packets requested from the user. Then putting all packets in a queue and transmitting them after a suitable delay will guarantee that the users receive the allocated bandwidth. The method is to send all network traffic to a centralized bandwidth manager that provides prioritization, rate limiting and other related services.",
+        "email": "",
+        "conf": "International Conference on Advanced Infocomm Technology",
+        "coauthors": [
+            "Mohammed Abdul Qadeer",
+            "Shahid Habib",
+            "Ahmad Yazdan Javaid"
+        ],
+        "keywords": "Resource Allocation, Bandwidth Limiting, Network Management, Bandwidth management"
+    },
+    {
+        "id": 700,
+        "label": 22,
+        "author": "mohammed abdul qadeer",
+        "title": "Wilcom: Application for Interacting via Voice Video and Text at Zero Cost in a Wi-Fi Cloud",
+        "organization": "Asst. Professor of Computer Engineering Aligarh Muslim University",
+        "abstract": "Wireless Communication has become a part of our daily routine. Wireless devices like mobile phones or portable digital displays (PDAs), Laptops need something other than internet for communication. The paper gives an overview to communicate using Wi-Fi networks, the internet and bypass mobile tariff for such applications.",
+        "email": "maqadeer@gmail.com",
+        "conf": "International Journal of Engineering and Technology",
+        "coauthors": [
+            "Utkarsh Goel",
+            "Faisal Khan",
+            "Mohammed Abdul Qadeer"
+        ],
+        "keywords": "Video streaming, audio streaming, text streaming"
+    },
+    {
+        "id": 742,
+        "label": 22,
+        "author": "mohammed abdul qadeer",
+        "title": "Voice communication over GGSN/SGSN",
+        "organization": "Asst. Professor of Computer Engineering Aligarh Muslim University",
+        "abstract": "SGSN and GGSN are the two core network elements of the general packet radio service which enables Internet to become mobile. It allows mobile users to access text based data services without continuously occupying a specific radio channel (which is not the case when you access voice channel). This paper successfully discusses the possibility of exploiting the data communication features of GGSN/SGSN to transmit voice packets, using a web server. This can help GPRS grow beyond its capability. As the data channel is considered to be economically viable in any network, If a mechanism is devised to use mobile's data channel for voice communication too, it will obviously be preferred over the conventional non-mobile based VOIP service. Because of the fact that general packet radio service through the GGSN/SGSN element can transfer data at the rate of 56 to 114 kbps (For EDGE it is 177.6 kbps) and has a continuous connection to internet via the core network elements, so if the voice at one end be broken into data packets and transmitted through a web server, can be reassembled at the other end. This process wont make a big hole in the customer's pocket and can easily make the VOIP go mobile, using the same network elements. While the traditional circuit switched network makes a quite bigger hole if the call is a long distance.",
+        "email": "",
+        "conf": "International Conference on Advanced Communication Technology. Vol. 1. IEEE",
+        "coauthors": [
+            "Ahmad Ali Habeeb",
+            "Mohammed Abdul Qadeer",
+            "Shamshir Ahmad"
+        ],
+        "keywords": "SGSN,GGSN,Voice over GPRS,VGPRS,GSM,GPRS,VOIP over Mobile,MIME,PHP,J2ME,SIP,RTP "
+    },
+    {
+        "id": 718,
+        "label": 22,
+        "author": "mohammed abdul qadeer",
+        "title": "Vehicular communication network inter vehicular communication of near future",
+        "organization": "Asst. Professor of Computer Engineering Aligarh Muslim University",
+        "abstract": "Vehicular Ad Hoc Networks (VANETs) are a special case of Mobile Ad Hoc Networks (MANETs). VANETs are self organizing networks. In this paper we will introduce VANETs, then we will look briefly at the various proposed protocols for VANETs viz. Destination Sequenced Distance Vector routing (DSDV), Dynamic Source Routing (DSR). Further in this paper we will briefly describe the various software that we have used in the simulation of VANETs viz. Simulation of Urban Mobility (SUMO), Mobility Model Generator for Vehicular Networks (MOVE) and Qualnet. We will then have a look at VANETs and their applicability on Indian roads before proposing WiMAX as a possible solution. Then we will have a look at the security issues in VANETs and before concluding the paper we will have a look at the various possible applications of VANETs.",
+        "email": "maqadeer@gmail.com",
+        "conf": "International Conference & Workshop on Emerging Trends in Technology",
+        "coauthors": [
+            "Syed Shabih Hasan",
+            "Mohammed Abdul Qadeer",
+            "Praveen Varshney"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 728,
+        "label": 22,
+        "author": "mohammed abdul qadeer",
+        "title": "Location based services using android (LBSOID)",
+        "organization": "Asst. Professor of Computer Engineering Aligarh Muslim University",
+        "abstract": "Initially mobile phones were developed only for voice communication but now days the scenario has changed, voice communication is just one aspect of a mobile phone. There are other aspects which are major focus of interest. Two such major factors are web browser and GPS services. Both of these functionalities are already implemented but are only in the hands of manufacturers not in the hands of users because of proprietary issues, the system does not allow the user to access the mobile hardware directly. But now, after the release of android based open source mobile phone a user can access the hardware directly and design customized native applications to develop Web and GPS enabled services and can program the other hardware components like camera etc. In this paper we will discuss the facilities available in android platform for implementing LBS services (geo-services). ",
+        "email": "",
+        "conf": "international conference on internet multimedia services architecture and applications (IMSAA). IEEE",
+        "coauthors": [
+            "Sandeep Kumar",
+            "Mohammed Abdul Qadeer",
+            "Archana Gupta"
+        ],
+        "keywords": "Android,LBS,CAS,GPS,Google Maps"
+    },
+    {
+        "id": 761,
+        "label": 22,
+        "author": "mohammed abdul qadeer",
+        "title": "Application Remote Control using Bluetooth (ARC)",
+        "organization": "Asst. Professor of Computer Engineering Aligarh Muslim University",
+        "abstract": "This paper describes an ingenious way of using Bluetooth-enabled mobile phones to control the PC applications with the help of a software application, which is based on client server architecture. The application ldquoapplication remote control using Bluetoothrdquo or (ARC) along with the mobile phone possess the ability to control various software applications such as Windows media player and Microsoft PowerPoint slideshows. It can also control electrical devices such as LEDs, fans using parallel (LPT) port of the PC, and PC monitor.",
+        "email": "",
+        "conf": "International Conference on Central Asia on Internet. IEEE",
+        "coauthors": [
+            "Mohammed Abdul Qadeer",
+            "Mohammad Sarosh Umar",
+            "Rahul Agrawal",
+            "Amit Singhal"
+        ],
+        "keywords": "Bluetooth,remote control,home networking,PAN,home appliances,wireless networks,J2ME,Java,handheld devices,Nokia 6600"
+    },
+    {
+        "id": 731,
+        "label": 22,
+        "author": "mohammed abdul qadeer",
+        "title": "WiMAX as a Next Generation Wireless Network",
+        "organization": "Asst. Professor of Computer Engineering Aligarh Muslim University",
+        "abstract": "IEEE 802.16/Worldwide Interoperability for Microwave Access (WiMAX) technology is a very promising successor to the current wireless technologies like 3G, IEEE 802.11/WiFi. WiMAX incorporates a number of advanced techniques which make it stand apart from the current technologies. WiMAX has evolved quite a lot from the 802.16 standard which was approved in December, 2001. It now has different modes of operations and offers mobility support along with robust security measures. For this to be implemented fully, it has to overcome quite a number of challenges.",
+        "email": "",
+        "conf": "International Conference on Computer Science and Information Technology. IEEE",
+        "coauthors": [
+            "Syed Shabih Hasan",
+            "Mohammed Abdul Qadeer"
+        ],
+        "keywords": "WiMAX,timeline,security,mobility support,challenges"
+    },
+    {
+        "id": 683,
+        "label": 22,
+        "author": "mohammed abdul qadeer",
+        "title": "Enhancement in data security using cryptography and compression",
+        "organization": "Asst. Professor of Computer Engineering Aligarh Muslim University",
+        "abstract": "In today's scenario, where everything is internet based, there is a huge demand for data security. A large number of cryptographic techniques are available to handle this problem. To increase data security, data can first be compressed using compression techniques and then encryption techniques can be applied. In this paper, we are proposing two new algorithms for encryption in which we have incorporated the concept of diffusion and confusion. The algorithms are based on Transposition cipher, Substitution cipher and Symmetric Key Encryption. Brute force on these algorithms can't be done so easily. These can be applied along with data compression to get more security.",
+        "email": "",
+        "conf": "Communication Systems and Network Technologies (CSNT)",
+        "coauthors": [
+            "Shariqua Izhar",
+            "Anchal Kaushal",
+            "Ramsha Fatima",
+            "Mohammed Abdul Qadeer"
+        ],
+        "keywords": "data security,cryptography,compression"
+    },
+    {
+        "id": 720,
+        "label": 22,
+        "author": "mohammed abdul qadeer",
+        "title": "A novel approach for resource allocation in broadband access networks",
+        "organization": "Asst. Professor of Computer Engineering Aligarh Muslim University",
+        "abstract": "The paper presents a new approach for Bandwidth control in Broadband Access Networks, especially Digital Subscriber Line (DSL) and Cable Internet (DOCSIS) users. The basic idea is to have a broadband line to the server receiving all the incoming bandwidth. The approach is to have bandwidth division among various VLANs in a network connected via a switch to a centralized server. This approach can be implemented either in an institution where the amount of bandwidth to each department falling under one VLAN can be allocated proportional to the usage and requirements or in an industry where bandwidth needs to be allocated to various divisions. The concept of giving bandwidth according to the VLAN has been made to enhance security and ensuring that the traffic of one VLAN reaches that particular VLAN only. The basic idea is to have a broadband line to the server receiving all the incoming bandwidth. The server then queue the packets according to the VLAN id. The VLAN id of some department having paid for higher bandwidth or having more importance will be given higher priority at the server. All packets belonging to a particular VLAN will be queued in the same queue. The VLAN having higher precedence will have more of its packets sent than the other queues to ensure that the VLAN which was allocated higher bandwidth will receive that bandwidth. The idea is to have VLANs spread across multiple switch yet providing the proportionate bandwidth to each VLAN and also provide mobility to each member of VLAN. Some end users who are of interdisciplinary departments will be members of two or more VLANs.",
+        "email": "maqadeer@gmail.com",
+        "conf": "International Conference and Workshop on Emerging Trends in Technology",
+        "coauthors": [
+            "Mohammed Abdul Qadeer",
+            "Shahid Habib",
+            "Ahmad Yazdan Javaid",
+            "M. A. Hafeez"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 750,
+        "label": 22,
+        "author": "mohammed abdul qadeer",
+        "title": "Voice over data over GPRS/EDGE networks",
+        "organization": "Asst. Professor of Computer Engineering Aligarh Muslim University",
+        "abstract": "GPRS or the general packet radio service is a non-voice value added technology that allows data communication over mobile phones in an Internet Protocol (IP)-based network [11]. This paper focuses on the transmission of voice over the existing data channel in GSM/GPRS networks using a Web server. Since the data channel in any network is economically viable for transmission, a mechanism to transfer voice over the existing network can prove to be a boon. Because of the fact that general packet radio service has a data rate from 56 to 114 kbps (In case of EDGE it goes upto 177.6 kbps) and has a continuous connection to internet via the GGSN & SGSN and is based on the packet switched network, so if the voice at one end be broken into data packets and transmitted through a Web server, can be reassembled at the other end. This whole process can be termed as Voice over data over Mobile (VODOM). Obviously GPRS based voice packet service should cost extremely less than the traditional circuit switched voice service.",
+        "email": "",
+        "conf": "International Conference on Computer Engineering and Technology , IEEE",
+        "coauthors": [
+            "Mohammed Abdul Qadeer",
+            "Ahmad Ali Habeeb",
+            "Shamshir Ahmad"
+        ],
+        "keywords": "Voice over data over Mobile,Voice over GPRS,VGPRS,GSM,GPRS,VOIP over Mobile,MIME,PHP,J2ME,SIP,RTP"
+    },
+    {
+        "id": 681,
+        "label": 22,
+        "author": "mohammed abdul qadeer",
+        "title": "Design and Simulation of Traffic Engineering using MPLS in GNS3 Environment",
+        "organization": "Asst. Professor of Computer Engineering Aligarh Muslim University",
+        "abstract": "Traffic engineering [1] is one of the best solution of IP routing when the routes are overloaded. Generally the router uses the shortest path solution from source to destination, so if at the same time all routers are looking for shortest path, their might be possibility of overloading and delay. So MPLS not just rely on shortest path. It utilized the underutilized paths, when all shortest paths are over utilized. The main objective of this work is to simulate the workings of MPLS with Traffic Engineering [2] in a network and to perform analysis of the advantages provided by MPLS as opposed to other commonly used network protocols. Additional objective is to assimilate exhaustive information on MPLS basics and fundamentals which helps beginners. Also, simulation of IP, ATM, FR etc based networks forms a part of the additional targets of this article. We have used GNS3 Simulator and Cisco 2691 Router iso image.",
+        "email": "",
+        "conf": "Computing Methodologies and Communication (ICCMC). IEEE",
+        "coauthors": [
+            "Mohd Imran",
+            "Mohd Amir Khan",
+            "Mohammed Abdul Qadeer"
+        ],
+        "keywords": "MPLS,OVERLAY MODELING ATM,BGP,IGP,IS-IS,OSPF"
+    },
+    {
+        "id": 740,
+        "label": 22,
+        "author": "mohammed abdul qadeer",
+        "title": "Asterisk VoIP Private Branch Exchange",
+        "organization": "Asst. Professor of Computer Engineering Aligarh Muslim University",
+        "abstract": "This paper intends to present some important theoretical and practical results that we faced during setting up a VoIP (Voice over Internet Protocol) server with the well known open source VoIP server Asterisk. For a fully functional voice exchange we require to set up a server based on Asterisk, connecting clients to the server with the help of soft/hard phones and then comes the configuration aspects of the soft phones with the server. Here in our implementation we have connected the clients to the server with the help of SIP protocols.",
+        "email": "",
+        "conf": "International Multimedia, Signal Processing and Communication Technologies. IEEE",
+        "coauthors": [
+            "Ale Imran",
+            "Mohammed Abdul Qadeer",
+            "M. J. R. Khan"
+        ],
+        "keywords": "VoIP,Asterisk,PBX,IAX,SIP,Trunks"
+    },
+    {
+        "id": 738,
+        "label": 22,
+        "author": "mohammed abdul qadeer",
+        "title": "4G as a Next Generation Wireless Network",
+        "organization": "Asst. Professor of Computer Engineering Aligarh Muslim University",
+        "abstract": "User requirements are growing faster than ever and the limitations of the current mobile communication systems have forced the researchers to come up with more advanced and efficient technologies. 4G mobile technology is the next step in this direction. 4G is the next generation of wireless networks that will totally replace 3G networks. It is supposed to provide its customers with better speed and all IP based multimedia services. 4G is all about an integrated, global network that will be able to provide a comprehensive IP solution where voice, data and streamed multimedia can be given to users on an \"Anytime, Anywhere\" basis. At present we have many technologies each capable of performing functions like supporting voice traffic using voice over IP (VoIP), broadband data access in mobile environment etc., but there is a great need of deploying such technologies that can integrate all these systems into a single unified system. 4G presents a solution of this problem as it is all about seamlessly integrating the terminals, networks and applications. The race to implement 4G is accelerating as well as quite challenging. The aim of this paper is to highlight the benefits, challenges in deployment and scope of 4G technologies.",
+        "email": "",
+        "conf": "International Conference on Future Computer and Communication. IEEE",
+        "coauthors": [
+            "Afaq H. Khan",
+            "Mohammed Abdul Qadeer",
+            "Juned A. Ansari",
+            "Sariya Waheed"
+        ],
+        "keywords": "4G,3G,VoIP,Wi-Fi,Wi-Max,PoC,CDMA,GPRS,TDMA,FDMA,GPS"
+    },
+    {
+        "id": 704,
+        "label": 22,
+        "author": "mohammed abdul qadeer",
+        "title": "Design and Implementation of Location Awareness and Sharing System using GPS and 3G/GPRS",
+        "organization": "Asst. Professor of Computer Engineering Aligarh Muslim University",
+        "abstract": "In this age of significant telecommunications competition, mobile network operators continuously seek new and innovative ways to create differentiation and increase profits. One of the best ways to accomplish this is through the delivery of highly personalized services. One of the most powerful ways to personalize mobile services is based on location. Location is a key to provide location based services (LBS) to the user because the location information is typically useful for coverage, deployment, routing, location service, target tracking and rescue operations. One of the most obvious technologies behind LBS is positioning, with the most widely recognized system being the Global Positioning System (GPS). There are no subscription fees or setup charges to use GPS. This document provides detail on the design and implementation of a java application which provides the users current location sends this location using SMS (Short Message Service) plus sharing location with friends and family and views them on maps. Users can also take benefit of this application in emergency situations by using emergency feature of this application. To get the location coordinates, application is using GPS (Global Positioning System) as location provider. The application design has five parts: a mobile client, a web server, a database, GPS system and a map service. A mobile client application which consists of a mobile and GPS receiver finds the location of the user to get aware of his location. In order to share this location the mobile client sends this location to the web server from where other users can get this location if they have the authentication provided by the user. The mobile client is implemented using J2ME which is one of the most promising software platforms for mobile devices. Sun representatives assert that 18 to 20 million mobile phones support the J2ME platform. Analysts predict that within the next few years, this technology will become omnipresent. The web server side programming is done using PHP and database is maintained by MYSQL.",
+        "email": "maqadeer@gmail.com",
+        "conf": "International Journal of Multimedia and Ubiquitous Engineering",
+        "coauthors": [
+            "Mohammed Abdul Qadeer",
+            "Ankur Chandra",
+            "Shashank Jain"
+        ],
+        "keywords": "GPS, LBS, J2ME, 3G, Midmaps, Google maps, PHP, mysql, GSM, CDMA"
+    },
+    {
+        "id": 721,
+        "label": 22,
+        "author": "mohammed abdul qadeer",
+        "title": "IP multimedia subsystem testbed using open source elements",
+        "organization": "Asst. Professor of Computer Engineering Aligarh Muslim University",
+        "abstract": "The IP Multimedia Subsystem (IMS), standardized by the 3GPP, is the most promising contender for replacing legacy, voice-dedicated mobile networks with an All-IP technology. As 3GPP IMS standards are in their embryonic state it becomes very crucial to test IMS clients during their development on a platform that simulates the IMS network. IMS client testbed also allows the developers to experiment all error circumstances which are not possible on a live network. Furthermore, it is also very costly to use an operator's live network for testing purpose. This paper highlights challenges involved and our experience of building an IMS client test bed using open source tools like OpenIMScore.",
+        "email": "maqadeer@gmail.com",
+        "conf": "International Conference and Workshop on Emerging Trends in Technology",
+        "coauthors": [
+            "Afaq Hasan Khan",
+            "Mohammed Abdul Qadeer",
+            "Misbahur Rahman Siddiqui"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 716,
+        "label": 22,
+        "author": "mohammed abdul qadeer",
+        "title": "The personal SMS gateway",
+        "organization": "Asst. Professor of Computer Engineering Aligarh Muslim University",
+        "abstract": "This application facility to send SMS without the need of a mobile phone and internet. It uses a GSM/GPRS modem and a SIM card to send messages to any mobile network. The cost of the message sent is based on the message tariff subscribed with the SIM card. Further the application is used to send private messages as well as used to broadcast any news content. The application can send, read received, deletes messages stored in the SIM card. The application interacts directly with microcontroller of the modem and uses the sole command used to interact with the network provider of the SIM card. Further the delivery reports of the sent messages are also displayed. The application also counts the total number of messages stored in the SIM card.",
+        "email": "maqadeer@gmail.com",
+        "conf": "International Conference on Communication Software and Networks. IEEE",
+        "coauthors": [
+            "Utkarsh Goel",
+            "Kanika Shah",
+            "Mohammed Abdul Qadeer"
+        ],
+        "keywords": "SMS gateway,GSM/GPRS modem"
+    },
+    {
+        "id": 696,
+        "label": 22,
+        "author": "mohammed abdul qadeer",
+        "title": "SIP-based Interactive Voice Response System using FreeSwitch EPBX",
+        "organization": "Asst. Professor of Computer Engineering Aligarh Muslim University",
+        "abstract": "Accessing information during a call without having to open up a web browser in a phone is not only easier but also efficient in time-constraint situations. To achieve this, we have implemented an Interactive Voice Response System (IVRS) for SIP-based phones. Telecommunication services plays a vital role in exchange of information. Although this system is limited to SIP-based phones, we propose a general IVRS that can be implemented for a regular network operator.",
+        "email": "",
+        "conf": "Wireless and Optical Communications Networks (WOCN). IEEE",
+        "coauthors": [
+            "Abdullah Mohammad Ansari",
+            "Md. Faisal Nehal",
+            "Mohammed Abdul Qadeer"
+        ],
+        "keywords": "Session Initiation Protocol (SIP),Interactive Voice Response System (IVRS),FreeSwitch,PBX"
+    },
+    {
+        "id": 752,
+        "label": 22,
+        "author": "mohammed abdul qadeer",
+        "title": "Bluetooth Enabled Mobile Phone Remote Control for PC",
+        "organization": "Asst. Professor of Computer Engineering Aligarh Muslim University",
+        "abstract": "This work confers an application which makes possible to use a Bluetooth enabled mobile phone to remote control home appliances such electric fan, LEDs and stepper motor, connected to the personal computer. It can also be used to control other computer applications such as multimedia players and facilitates the user while giving presentation on slides. It is a client-server based application which makes use of powerful Java technology to achieve its end. The program works on a variety of Bluetooth enabled mobile phone and is compatible with majority of Bluetooth stacks.",
+        "email": "",
+        "conf": "International Conference on Advanced Computer Control. IEEE",
+        "coauthors": [
+            "Mohammed Abdul Qadeer",
+            "Rahul Agrawal",
+            "Amit Singhal",
+            "Sarosh Umar"
+        ],
+        "keywords": "Bluetooth,mobile phones,home networking,PAN,wireless networks,J2ME,Java"
+    },
+    {
+        "id": 727,
+        "label": 22,
+        "author": "mohammed abdul qadeer",
+        "title": "Implementation of an IMS Testbed for Wired and Wireless Clients",
+        "organization": "Asst. Professor of Computer Engineering Aligarh Muslim University",
+        "abstract": "Rapid growth and evolution in the area of telecommunications has compelled the network operators to provide seamless integration of all communication applications on a single system. In these circumstances IMS has established itself as a foundation for future wireless and wireline convergence. It provides an opportunity to build an open IP based service platform that will enable an easy and efficient deployment of new multimedia communication services mixing telecom and data services. As 3GPP IMS standards are in their evolving state it becomes very essential to test IMS clients during their development on a platform that simulates the IMS network. IMS client test bed also let the developers to test all error conditions which are not possible on a live. Moreover, it is an expensive deal to use an operator's live network for testing purpose. Aim of this paper is to discuss an efficient architecture for IMS and our experience of building an IMS client test bed using open source elements like OpenIMScore. The test bed is built to accommodate IMS clients operating on varied access types like LAN, GPRS/EDGE/UMTS and Wi-Fi.",
+        "email": "",
+        "conf": "International Conference on Data Storage and Data Engineering. IEEE",
+        "coauthors": [
+            "Afaq Hasan Khan",
+            "Mohammed Abdul Qadeer"
+        ],
+        "keywords": "IMS,NGN,3GPP,OpenIMSCore,VoIP,Wi-Fi,WiMax,PoC"
+    },
+    {
+        "id": 706,
+        "label": 22,
+        "author": "mohammed abdul qadeer",
+        "title": "Femtocells and Their Integration with IMS",
+        "organization": "Asst. Professor of Computer Engineering Aligarh Muslim University",
+        "abstract": "With the expanding usage of mobile handsets for different types of communications, traditional landline service is being discarded in increasing numbers. But, the main hurdle in the mobile handset evolution is that when a user is inside a building there is degradation in the reception of signals. Femtocells have emerged out as a key solution to this problem. Femtocells are low power, indoor base-stations similar to Wi-Fi access points. They connect users with cellular providers via customers’ broadband Internet links, not via telephony infrastructure, thereby eliminating indoor reception problems. Femtocells extend carriers’ wireless networks directly into the homes. With this extension comes the challenge of integrating millions of wireless base stations with the existing mobile infrastructure. There are many different ways of achieving this integration. Among those, IMS (IP Multimedia Subsystem) based integration method can act as a major option. The purpose of this paper is to identify the issues surrounding this new technology, highlight the major challenges in the deployment of femtocells, give some preliminary ideas to overcome them and to bring forward the major reasons which strengthen the IMS candidature.",
+        "email": "maqadeer@gmail.com",
+        "conf": "Soft Computing for Problem Solving (SocProS)",
+        "coauthors": [
+            "Mohammed Abdul Qadeer",
+            "Afaq Hasan Khan",
+            "Ahmad Ali Habeeb"
+        ],
+        "keywords": "Femtocell, IMS, 3G "
+    },
+    {
+        "id": 712,
+        "label": 22,
+        "author": "mohammed abdul qadeer",
+        "title": "EMS: The talking mail service",
+        "organization": "Asst. Professor of Computer Engineering Aligarh Muslim University",
+        "abstract": "The application brings the facility which every person need in his each phase of life. It has facility of sending electronic mails with Google, Yahoo, MSN, AOL user accounts. This client is very similar to the other email clients but it can be used by anyone without the need of configuring differently for different users. It automatically sets its configuration depending upon the account type of the user that is currently logged in. Further this application consists of a feature that fetches user e-mails from the server. The fetching either POP3 or IMAP depends on the type of email server that is used and also on the user account settings. Only one at a time is fetched from the email server so as to avoid flooding of e-mails. It can write down your emails itself and can even read out your incoming messages.",
+        "email": "maqadeer@gmail.com",
+        "conf": "International Conference on Communication Software and Networks. IEEE",
+        "coauthors": [
+            "Utkarsh Goel",
+            "Kanika Shah",
+            "Shailendra Singh",
+            "Mohammed Abdul Qadeer"
+        ],
+        "keywords": "Send and receive emails,POP3,IMAP,SMTP"
+    },
+    {
+        "id": 722,
+        "label": 22,
+        "author": "mohammed abdul qadeer",
+        "title": "Fast heterogeneous computing with CUDA compatible Tesla GPU computing processor (personal supercomputing)",
+        "organization": "Asst. Professor of Computer Engineering Aligarh Muslim University",
+        "abstract": "This paper presents how fast heterogeneous computing can be achieved with Tesla GPU computing processor. Tesla GPU super computer brings the performance of a cluster to a workstation and turning it into a supercomputer. We have chosen molecular dynamics field to show fast and high performance computing with Tesla GPU. We have given a DCS (direct coulomb summation) algorithm for computing electrostatic fields around molecules with CUDA. Tesla GPU speeds up the molecular dynamics application up to 240X. These Tesla GPUs can be programmed with a NVIDIA's multi core programming architecture CUDA that provides easy development environment and accelerate scientific and engineering applications up to great extent.",
+        "email": "maqadeer@gmail.com",
+        "conf": "International Conference and Workshop on Emerging Trends in Technology",
+        "coauthors": [
+            "D. Kumar",
+            "Mohammed Abdul Qadeer"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 726,
+        "label": 22,
+        "author": "mohammed abdul qadeer",
+        "title": "Multimedia Distribution over IPTV and its Integration with IMS",
+        "organization": "Asst. Professor of Computer Engineering Aligarh Muslim University",
+        "abstract": "Digital television has been evolving for several years. Recent evolutions in the technology have made it possible to deliver digital television services over fixed and mobile broadband network, which is commonly known as IPTV. IPTV is a system in which digital television services are provided using internet protocol over a network. The deployment of Internet Protocol-based television (IPTV) over different broadband access networks is made possible by the new types of broadband access networks and improved media coding algorithms. Many service providers have started to deploy triple play services over DSL including IPTV as an essential service component. However, each service in the triple play bundle (e.g. IPTV, VoIP) has its own unique service-control framework and operations and billing support systems, increasing the complexity of the overall triple play service architecture therefore, there is a need of flexible network architecture. In this paper we discuss about the features of IPTV along with the integration of IMS and IPTV service platforms to reduce network complexity and provide a flexible network for new services.",
+        "email": "",
+        "conf": "International Conference on Data Storage and Data Engineering. IEEE",
+        "coauthors": [
+            "Mohammed Abdul Qadeer",
+            "Afaq Hasan Khan"
+        ],
+        "keywords": "IPTV,IMS,VoIP,DSL,NGN,3GPP,VoD,triple play"
+    },
+    {
+        "id": 762,
+        "label": 22,
+        "author": "mohammed abdul qadeer",
+        "title": "Differential allocation of Bandwidth to services based on priority",
+        "organization": "Asst. Professor of Computer Engineering Aligarh Muslim University",
+        "abstract": "We present a new method for managing bandwidth which is allocated among several services. In implementation of the idea, we have used a queuing algorithm, a packet queuing technique applicable in a setup where the systems are connected to the Internet through a server (running our module) and the server receives all the packets requested from the all the services. The technique basically involves making queues for all the packets and then, to guarantee proper (allocated) bandwidth, transmitting the packets after suitable delay. In short, we have designed a module to be used in a network with centralized control of bandwidth which provides services like limiting data transfer rate, service based priority, and other related services.",
+        "email": "",
+        "conf": "International Conference on Central Asia on Internet. IEEE",
+        "coauthors": [
+            "Mohammed Abdul Qadeer",
+            "Shahid Habib",
+            "Ahmad Yazdan Javaid"
+        ],
+        "keywords": "dynamic bandwidth allocation,resource scheduling,quality of service (QoS),resource allocation,network management services,queuing algorithms"
+    },
+    {
+        "id": 687,
+        "label": 22,
+        "author": "mohammed abdul qadeer",
+        "title": "JustQuick: Intelligent LBS using Android with GPS and geo-tagging applications",
+        "organization": "Asst. Professor of Computer Engineering Aligarh Muslim University",
+        "abstract": "JustQuick is an android based application that will provide details about the user's nearby services like ATM, bank, cafe, hospital, shops, etc. of a particular city. It will also provide a path from the user's current location to that particular services' location. Information provided by app from our own database. We also provide permission to authorized users to insert a new object to our database and able to modify a specific field at regular interval.",
+        "email": "",
+        "conf": "Applied and Theoretical Computing and Communication Technology (iCATccT). IEEE",
+        "coauthors": [
+            "Sudhir K. Tiwari",
+            "Gaurav K. Varshney",
+            "Mohammed Abdul Qadeer",
+            "M. Sarosh Umar"
+        ],
+        "keywords": "JustQuick,LBS,GPS,geo-tagging,android"
+    },
+    {
+        "id": 758,
+        "label": 22,
+        "author": "mohammed abdul qadeer",
+        "title": "Data stream management system: Tools for live stream handling & their application on trivial network analysis problems",
+        "organization": "Asst. Professor of Computer Engineering Aligarh Muslim University",
+        "abstract": "This paper presents handling and analysis of network packets using data stream management system tool TelegraphCQ. The number of tools for analyzing data traffic in the Internet is continuously increasing, because there is an increasing need in many different application domains. The high volume data that flows within a network requires one to rethink the fundamental architecture of a DBMS for this application area. The huge amount of data that has to be managed and analyzed together with the fact that many different analysis tasks are performed over a small set of different network trace formats, motivates us to study whether data stream management systems (DSMSs) might be useful to develop network traffic analysis tools .We will see that there are many tools available for live stream handling-each with its advantages & disadvantages.",
+        "email": "",
+        "conf": "International Conference on Innovations in Information Technology, IEEE",
+        "coauthors": [
+            "Nadeem Akhtar",
+            "Mohammed Abdul Qadeer",
+            "Faraz Khan",
+            "Faridul Haque"
+        ],
+        "keywords": "DSMS,TelegraphCQ,data analysis"
+    },
+    {
+        "id": 748,
+        "label": 22,
+        "author": "mohammed abdul qadeer",
+        "title": "Comparison of Tools for Data Mining and Retrieval in High Volume Data Stream",
+        "organization": "Asst. Professor of Computer Engineering Aligarh Muslim University",
+        "abstract": "Applications querying real time data streams in order to identify trends, patterns, or anomalies can often benefit from comparing the live stream data with archived historical stream data. This is especially true for applications involving live & unpredictable data like in traffic analysis & stock markets. However this data mining in DSMSs have turned out to be a costly proposition. In this paper, perform a comparative analysis between various tools available that can handle this historical data & hence facilitate in the Data Mining. For comparing the tools for data retrieval, we cover inclemently, from using traditional DBMS to the more sophisticated tools that utilize Bit-Map indexing or Hoeffding Algorithm. We will see how these tools can simultaneously analyze (1) live streams with high data rates and maintain (2) a large repository of historical stream data.",
+        "email": "",
+        "conf": "International Workshop on Knowledge Discovery and Data Mining. IEEE",
+        "coauthors": [
+            "Mohammed Abdul Qadeer",
+            "Nadeem Akhtar",
+            "Faraz Khan"
+        ],
+        "keywords": "TelegraphCQ,data mining,traffic analysis,Hoeffding Algorithm,Time Machine,Bit-Map indexing"
+    },
+    {
+        "id": 684,
+        "label": 22,
+        "author": "mohammed abdul qadeer",
+        "title": "Gesture recognition using Open-CV",
+        "organization": "Asst. Professor of Computer Engineering Aligarh Muslim University",
+        "abstract": "Hand Gesture Recognition is one of the technological fields which is developing with a very fast pace and due to which it is receiving great attention in the recent few years. The primary goal of gesture recognition is to identify specific human gestures. This paper includes introduction to gesture recognition, its various areas, working of gesture recognition system, applications, the proposed idea with its hardware & software implementation tools, the various technologies applied on the idea, benefits of idea, its shortcomings and future scope of gesture recognition system.",
+        "email": "",
+        "conf": "International Conference on Communication Systems and Network Technologies (CSNT)",
+        "coauthors": [
+            "Mohd. Baqir Khan",
+            "Kavya Mishra",
+            "Mohammed Abdul Qadeer"
+        ],
+        "keywords": "Hand gesture recognition,Feature extraction,Areas of gesture recognition,egmentation,Background subtraction"
+    },
+    {
+        "id": 759,
+        "label": 22,
+        "author": "mohammed abdul qadeer",
+        "title": "Deployment of IPTV over IMS architecture",
+        "organization": "Asst. Professor of Computer Engineering Aligarh Muslim University",
+        "abstract": "IPTV is a system used to deliver digital television services to the consumers through broadband. This delivery of digital television is made possible by using Internet Protocol over a broadband connection, usually in a managed network rather than the public Internet to preserve quality of service guarantees. The Internet Protocol (IP) multimedia subsystem, better known as ldquoThe IMSrdquo, is based on the specification of the session initiation protocol (SIP) as standardized by the Internet Engineering Task Force (IETF). IMS is an architecture for the convergence of data, speech and mobile networks and is based on a wide range of protocols, of which most have been developed by the IETF. It combines and enhances them to allow real time services on top of the universal mobile telecommunications system (UMTS) packet-switched domain. This paper presents various standardization efforts for IPTV, deployment of IPTV over IP Multimedia Subsystem. It further also deals the advantage of IMS based IPTV, its implementation challenges, performance and capacity , and testing requirement.",
+        "email": "",
+        "conf": "International Conference on Internet Multimedia Services Architecture and Applications, IEEE",
+        "coauthors": [
+            "M. Zahid",
+            "Mohammed Abdul Qadeer",
+            "Arshad Iqbal"
+        ],
+        "keywords": "Next Generation Networks,Fixed-Mobile Convergence,IPTV services,IP multimedia subsystem,Multimedia Delivery Architecture,ETSI TISPAN,Digital Video Broadcast Project"
+    },
+    {
+        "id": 730,
+        "label": 22,
+        "author": "mohammed abdul qadeer",
+        "title": "Security concerns in WiMAX",
+        "organization": "Asst. Professor of Computer Engineering Aligarh Muslim University",
+        "abstract": "WiMAX (Worldwide Interoperability for Microwave Access)/ IEEE 802.16 is a very promising 4G technology. WiMAX is now in the testing via implementation stage at various locations like Taiwan, India. The results have been, so far, very promising. With the growing popularity of WiMAX, the security risks have increased many folds. In this paper we will give an overview of the security architecture of WiMAX. Then we will give an overview of the various kinds of threats viz. Physical Layer and MAC Layer threats. Finally, we will have a look at improvement reported in multi hop WiMAX networks.",
+        "email": "",
+        "conf": "First Asian Himalayas International Conference on Internet. IEEE",
+        "coauthors": [
+            "Syed Shabih Hasan",
+            "Mohammed Abdul Qadeer"
+        ],
+        "keywords": "WiMAX,IEEE 802.16,security,encryption,security concerns"
+    },
+    {
+        "id": 753,
+        "label": 22,
+        "author": "mohammed abdul qadeer",
+        "title": "Conferencing Paging Voice Mailing via Asterisk EPBX",
+        "organization": "Asst. Professor of Computer Engineering Aligarh Muslim University",
+        "abstract": "This paper is intended to present theoretical and implementation details of various important features that are generally associated with an Asterisk based Voice Exchange i.e. conferencing, paging and voice mailing. Besides this we will be concentrating on the web based approach for the configuration of the hard phones that will be used at the clients end. Our approach follows the client server model for all subsidiary procedures. The application is developed in C language and is compatible with all the versions of Linux, essentially providing PC to PC data and voice communications.",
+        "email": "",
+        "conf": "International Conference on Computer Engineering and Technology, IEEE",
+        "coauthors": [
+            "Ale Imran",
+            "Mohammed Abdul Qadeer"
+        ],
+        "keywords": "Asterisk,VoIP,PBX,Voicemail,Conferencing,Paging,ST-302 hardphone"
+    },
+    {
+        "id": 699,
+        "label": 22,
+        "author": "mohammed abdul qadeer",
+        "title": "Neo Browser: Java Based Web Browser for Mobile Phones",
+        "organization": "Asst. Professor of Computer Engineering Aligarh Muslim University",
+        "abstract": "This paper presents a design and development of a web browser for J2ME enabled devices especially mobile phones. The paper gives a basic overview of the current stage in web browsing and the progress achieved and future advancements in our project we are looking forward to. At present, mobile phones include inbuilt web browsers but with limited functionalities, low support for multimedia and tabbed browsing. Our current work has completed web page parsing, audio and video streaming. The tabbing functionality is currently in development phase but the current status promises positive achievements in future.",
+        "email": "maqadeer@gmail.com",
+        "conf": "International Journal of Engineering and Technology",
+        "coauthors": [
+            "Shailendra Singh",
+            "Prashant Bhardwaj",
+            "Mohammed Abdul Qadeer"
+        ],
+        "keywords": "Audio and video streaming on mobile devices, J2ME web browser, mobile web browser, tabbed browsing for mobile phones"
+    },
+    {
+        "id": 702,
+        "label": 22,
+        "author": "mohammed abdul qadeer",
+        "title": "SMS Based Emerging Techniques for Monitoring and Controlling Android Mobiles",
+        "organization": "Asst. Professor of Computer Engineering Aligarh Muslim University",
+        "abstract": "This paper describes a software application for android mobile platform that discovers various excited applications of SMSs over its traditional text messaging application. It shows how various features in android mobiles can be automated by SMS. By this application user can perform various operations in its mobile even if mobile is very far from him , like by sending a single text message we can fetch and store our contact numbers, fetch our device’s location, auto respond to the incoming messages, send SMS from our remote mobile, fetching SIM and mobile details used for GSM network. Convenience to the user, security and efficiency are main issues that are considered. This application makes the use of services like telephony, location based services (LBS) and native android applications.",
+        "email": "maqadeer@gmail.com",
+        "conf": "International Journal of Engineering and Technology",
+        "coauthors": [
+            "Deepak Kumar",
+            "Mohammed Abdul Qadeer"
+        ],
+        "keywords": "Android, LBS, new SMS applications, telephony"
+    },
+    {
+        "id": 764,
+        "label": 22,
+        "author": "mohammed abdul qadeer",
+        "title": "IPTV Service over IP Multimedia Subsystem",
+        "organization": "Asst. Professor of Computer Engineering Aligarh Muslim University",
+        "abstract": "IP Multimedia services provide a dynamic combination of voice, video, messaging, data, etc. within the same session. By increasing the number of basic applications and the media that it is possible to combine, it is possible to increase the number of services offered to the end users, and thus to enrich the interpersonal communication experience. IPTV is a system used to deliver digital television services to the consumers through broadband. This delivery of digital television is made possible by using Internet Protocol over a broadband connection, usually in a managed network rather than the public Internet to preserve quality of service guarantees. The Internet Protocol (IP) Multimedia Subsystem, better known as \"The IMS\", is based on the specification of the Session Initiation Protocol (SIP) as standardized by the Internet Engineering Task Force (IETF). The IMS is an architecture for the convergence of data, speech and mobile networks and is based on a wide range of protocols, of which most have been developed by the IETF. It combines and enhances them to allow real time services on top of the Universal Mobile Telecommunications System (UMTS) packet-switched domain. This paper presents what IPTV is, its requirements, how IPTV will be merged with IMS and various standardization efforts for IPTV. It further also deals the advantage of IMS based IPTV, its implementation challenges, performance and capacity, and testing requirement.",
+        "email": "maqadeer@gmail.com",
+        "conf": "International Workshop on Next Generation Wireless Networks",
+        "coauthors": [
+            "Md Zahid",
+            "Arshad Iqbal",
+            "Mohammed Abdul Qadeer"
+        ],
+        "keywords": "Next Generation Networks, Fixed-Mobile Convergence, IPTV services, IP multimedia subsystem, Multimedia Delivery Architecture, ETSI TISPAN, Digital Video Broadcast Project"
+    },
+    {
+        "id": 695,
+        "label": 22,
+        "author": "mohammed abdul qadeer",
+        "title": "Student's Desk: My Workplace on Android",
+        "organization": "Asst. Professor of Computer Engineering Aligarh Muslim University",
+        "abstract": "This paper puts forward the original research work done and applied, keeping in perspective the needs of students. It routes you through the general initiative behind the application building and what it is about, along-with detailed information on the features incorporated in the application, which are-Time table, Notes, SPI Calculator, Reminder and Tools and its importance in a student's academic life. The application is built solely to fill in one purpose and that is to lower down the hectic and stressed life of students. It brings in a new mode for easy learning for the user. In addition to this, it also puts forward some of the future perspectives for this application, which if developed would increase its usage for the academic work at workplace as well as at home.",
+        "email": "",
+        "conf": "Advances in Computing and Communications. IEEE",
+        "coauthors": [
+            "Saurabh Agarwal",
+            "Tushark Bansal",
+            "Rajat Agarwal",
+            "Mohammed Abdul Qadeer"
+        ],
+        "keywords": "Students Desk,Time Table,Notes,SPI Calculator,Reminder,Tools,Android,Mobile Applications"
+    },
+    {
+        "id": 689,
+        "label": 22,
+        "author": "mohammed abdul qadeer",
+        "title": "LTE-U over Wi-Fi",
+        "organization": "Asst. Professor of Computer Engineering Aligarh Muslim University",
+        "abstract": "LTE is a standard for wireless data communications technology and a development of the GSM/UMTS standards, aimed at increasing the capacity and speed of wireless data networks, in licensed band. Now, LTE is being upgraded to LTE-U, which utilizes the unlicensed band. Wi-Fi is a local area wireless technology that allows an electronic device to exchange data or connect to the internet using 2.4 GHz UHF and 5 GHz SHF radio waves. Wi-Fi follows IEEE 802.11 standards. The latest standard of Wi-Fi that is in use is 802.11ac. It uses 5 GHz band only. This paper examines Wifi and its various standards, LTE and its bands, the difference between Wi-Fi (802.11ac) and LTE-U, and the need why unlicensed spectrum is used. We shall mainly focus on layer one and layer two parameters.",
+        "email": "",
+        "conf": "Wireless and Optical Communications Networks (WOCN). IEEE",
+        "coauthors": [
+            "Syeda Aasiyah Aijaz Termizi",
+            "Safia Rahmat",
+            "Mohammed Abdul Qadeer"
+        ],
+        "keywords": "LTE-U,LTE,Wi-Fi,spectrum,Secondary Carrier,Cellular,mobile devices,Wifi standards,cell,data rates"
+    },
+    {
+        "id": 686,
+        "label": 22,
+        "author": "mohammed abdul qadeer",
+        "title": "Data analytics using cloud computing",
+        "organization": "Asst. Professor of Computer Engineering Aligarh Muslim University",
+        "abstract": "Ours is a data centric world. Organizations around the globe are looking for ways to exploit the propulsive growth of data to find ways of exploring previously hidden insights so as to publish new revenue streams, gaining operational efficiencies and understanding customer needs better. Analytics comes to the rescue and with the aid of Cloud Computing it aids to explore this paradigm to a previously unimaginable extent. In this paper we discuss presently available and practiced methods to perform Cloud Analytics.",
+        "email": "",
+        "conf": "Computational Intelligence and Communication Networks (CICN)",
+        "coauthors": [
+            "Prakhar Maheshwari",
+            "Alankar Singhal",
+            "Mohammed Abdul Qadeer"
+        ],
+        "keywords": "Cloud Computing,Data Mining,Data Analytics,apriori,k means"
+    },
+    {
+        "id": 723,
+        "label": 22,
+        "author": "mohammed abdul qadeer",
+        "title": "Mobile web browser with streaming capability",
+        "organization": "Asst. Professor of Computer Engineering Aligarh Muslim University",
+        "abstract": "This paper gives an outline of our ongoing work in the field of a capable web browser for J2ME enabled mobile devices, especially cell phones. The paper gives a basic overview of the current stage in web browsing and additional networking advancements in portable devices as well as the progress achieved and future advancements in our project we are looking forward to. At the present stage, cell phones include their own web browsers but with limited functionalities and low multimedia support, especially on low bandwidth GPRS networks. The inability of J2ME in parsing a webpage and its substitutes like xml parsing are discussed. Our current work has reached web page parsing, downloading documents and multimedia files. Also, video streaming is currently in development phase but the current status promises positive achievements in future.",
+        "email": "maqadeer@gmail.com",
+        "conf": "International Conference and Workshop on Emerging Trends in Technology",
+        "coauthors": [
+            "A. Pachauri",
+            "Praveen Varshney",
+            "Mohammed Abdul Qadeer"
+        ],
+        "keywords": "Mobile phone, J2ME, Web Browser, XML Parsing, HTML parsing, Multimedia Streaming"
+    },
+    {
+        "id": 737,
+        "label": 22,
+        "author": "mohammed abdul qadeer",
+        "title": "IMS Network Architecture",
+        "organization": "Asst. Professor of Computer Engineering Aligarh Muslim University",
+        "abstract": "There is a rapid growth and evolution in the area of telecommunications and network operators are expected to provide seamless integration of all communication applications on a single system. In these circumstances IMS has emerged out as a key player. IMS is basically a network architecture consisting of an IP-based core network connected to multiple access networks to provide a converged service to wireless,wireline and cable subscribers. IMS has established itself as a foundation for future wireless and wireline convergence. It provides an opportunity to build an open IP based service platform that will enable an easy and efficient deployment of new multimedia communication services mixing telecom and data services. One thing which really makes a difference is that a common IMS based service platform can be used to serve various access mechanisms such as WiMAX, WiFi, UMTS,GSM, CDMA etc. IMS fills the gap between two of the most successful communication paradigm cellular and internet technology. This paper surveys the IMS network architecture and how its various components interact with each other.",
+        "email": "",
+        "conf": "International Conference on Future Computer and Communication. IEEE",
+        "coauthors": [
+            "Mohammed Abdul Qadeer",
+            "Afaq H. Khan",
+            "Juned A. Ansari",
+            "Sariya Waheed"
+        ],
+        "keywords": "IMS,network architecture,UMTS,3G,NGN,3GPP,3G.IP,FMC,IPTV,VoIP,Wi-Fi,Wi-Max,PoC"
+    },
+    {
+        "id": 751,
+        "label": 22,
+        "author": "mohammed abdul qadeer",
+        "title": "Design and Simulation of Interconnected Autonomous Systems",
+        "organization": "Asst. Professor of Computer Engineering Aligarh Muslim University",
+        "abstract": "Autonomous Systems such as Internet Service Provider (ISP), Enterprise Networks and Academic Networks provide Internet services like internet transit, domain name registration and hosting, dial-up access, leasedline access and co-location. Simulation provides an insight into the behavior of these AS. The internal details like designing, configuring and maintaining networks through protocols that include routing, switching, etc are well understood by this paper. This paper describes how the design of Autonomous Networks can be built on a NetworkDesigner while using leased line and Ethernet technologies. Later these designs can be simulated on a Network Simulator with the use of routing and switching protocols. For this scheme to be implemented successfully different equipment like routers, switches, Ethernet and serial connection, PCs, etc are used and techniques like IP addressing schemes, CIDR and VLSM is implemented.",
+        "email": "",
+        "conf": "International Conference on Computer Engineering and Technology, IEEE",
+        "coauthors": [
+            "Mohammed Abdul Qadeer",
+            "Piyush Varshney",
+            "Najmul Huda Khan"
+        ],
+        "keywords": "routing,switching,network simulator,network designer,leased line,Ethernet,CIDR and VLSM,Netsim"
+    },
+    {
+        "id": 719,
+        "label": 22,
+        "author": "mohammed abdul qadeer",
+        "title": "Mobi browser with remote video streaming",
+        "organization": "Asst. Professor of Computer Engineering Aligarh Muslim University",
+        "abstract": "This paper gives an overview of J2ME application for mobile devices and also gives a detail of our work in the field of a web browser having streaming capability for mobile devices, especially multimedia cell phones. This web browser solves the problem of tabbed-browsing with style, freedom, and customization. The paper gives a basic overview of the progress achieved and future advancements in our project we are looking forward to. If you like using Internet Explorer, Safari, Mozilla Firefox, Opera, or Chrome on your desktop, then you're going to love this browser on your hand held devices (i.e. mobile devices). Full control bar (back, forward, refresh, etc), that only displays when appropriate and it also save any history. The entire application works in either orientation. At the present stage, the number of mobile devices with different form factors and unique input and output facilities is growing substantially. Cell phones have their web browsers with limited functionalities and low multimedia support. Our current work has reached web page parsing, downloading documents, multimedia files and video streaming. Also, video streaming is tested on local server (Apache Tomcat) and this application can run on low bandwidth GPRS network.",
+        "email": "maqadeer@gmail.com",
+        "conf": "International Conference & Workshop on Emerging Trends in Technology",
+        "coauthors": [
+            "Syed Shabih Hasan",
+            "Praveen Varshney",
+            "Mohammed Abdul Qadeer"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 734,
+        "label": 22,
+        "author": "mohammed abdul qadeer",
+        "title": "Novel scheme for securing passwords",
+        "organization": "Asst. Professor of Computer Engineering Aligarh Muslim University",
+        "abstract": "The most common method of authentication or protection against intrusion in a computer system is to use alphanumeric usernames and password. Choosing a strong password and protecting the chosen password has always been a popular topic among security researchers. Traditionally strong password schemes could provide with certain degree of security but strong password leads complexity and difficult to memorize and often leads their owner to write them down on paper. As a result, security becomes compromised. Also a good password is one which can be typed quickly, so someone else can't look over your shoulder. In this paper we explore some techniques of protecting the passwords and try to eliminate the shouldering problem. We also try to eliminate the dictionary attacks and brute-force attacks. Later on we tried to evolve a password scheme with some graphic technique which can be used in highly secured applications.",
+        "email": "",
+        "conf": "International Conference on Digital Ecosystems and Technologies. IEEE",
+        "coauthors": [
+            "Mohammad Shahid",
+            "Mohammed Abdul Qadeer"
+        ],
+        "keywords": "Password security,varying password,expression based password,moving balls based password,dictionary attacks"
+    },
+    {
+        "id": 711,
+        "label": 22,
+        "author": "mohammed abdul qadeer",
+        "title": "E-radio: The electronic music service",
+        "organization": "Asst. Professor of Computer Engineering Aligarh Muslim University",
+        "abstract": "This application provides a facility to listen your favorite music anytime, anywhere. It provides live streaming from more than 80 radio stations all around the globe. The application is an audio service transmitted via the Internet. Music streaming on the Internet is usually referred to as web casting since it is not transmitted broadly through wireless means. Internet radio involves streaming media, presenting listeners with a continuous stream of audio that cannot be paused or replayed, much like traditional broadcast media; in this respect, it is distinct from on-demand file serving. Internet radio is also distinct from pod casting, which involves downloading rather than streaming. Many Internet radio services are associated with a corresponding traditional (terrestrial) radio station or radio network. Internet-only radio stations are independent of such associations. Internet radio services are usually accessible from anywhere in the world.",
+        "email": "maqadeer@gmail.com",
+        "conf": "Communication Software and Networks. IEEE",
+        "coauthors": [
+            "Utkarsh Goel",
+            "Gulnawaz Aamir",
+            "Kanika Shah",
+            "Mohammed Abdul Qadeer"
+        ],
+        "keywords": "Web radio,net radio,internet radio streaming radio and e-radio"
+    },
+    {
+        "id": 703,
+        "label": 22,
+        "author": "mohammed abdul qadeer",
+        "title": "Non-Uniform Steps Model: New Layer to Traditional Security Encryption Algorithms (Next Generation Data Security Layer).",
+        "organization": "Asst. Professor of Computer Engineering Aligarh Muslim University",
+        "abstract": "The rapidly increasing reliance of nearly every kind of organization on systems that process electronic data has introduced new concerns, and to tackle the misuse of precious data, encryption of important data has to be done. Traditional encryption security algorithms are well known and can undergo attacks in a number of ways. In this paper we will introduce encryption and the different encryption algorithms, then we will look briefly at the new purposed algorithm based on Non-Uniform Steps Model, which can be applied as a layer over traditional encryption algorithm to enhance power of them. Further in this paper we will briefly describe the various encryption algorithms that we can utilize with Non-Uniform Steps model to enhance security and issues involved with the algorithm and their possible solution. We will try to characterize proposed algorithm to have some experimental analysis. We will then have a look at encryption models applicability and propose new algorithms as a possible solution of number of problems. We will lastly conclude the paper.",
+        "email": "maqadeer@gmail.com",
+        "conf": "International Journal of Engineering and Technology",
+        "coauthors": [
+            "Nitish Varshney",
+            "Mohammed Abdul Qadeer"
+        ],
+        "keywords": "Communication system security, data security, security, signature verification"
+    },
+    {
+        "id": 693,
+        "label": 22,
+        "author": "mohammed abdul qadeer",
+        "title": "Travel management system using GPS & geo tagging on Android platform",
+        "organization": "Asst. Professor of Computer Engineering Aligarh Muslim University",
+        "abstract": "TRAVEL PORTAL is an android project used for acquiring information about particular city's hotels, restaurants, historical places, etc. It will also provide the current location of the user. This application will also be used by travelling agencies to manage their customer trips, acquire information, etc. This application will provide notepad to add important task to do. It will also provide help center to the user to chat with administrator to solve the queries. Travel Portal application is based on the idea that travelers rely on other traveler reviews to plan their trips. This project Travel Portal helps build strong web enabled solutions that are customized to the needs of individual customers; turnkey solutions for travel agencies and intermediaries, airlines, hotels and transportation companies.",
+        "email": "",
+        "conf": "Wireless and Optical Communications Networks (WOCN). IEEE",
+        "coauthors": [
+            "Amrah Maryam",
+            "Nadia Siddiqui",
+            "Mohammed Abdul Qadeer",
+            "M. Sarosh Umar"
+        ],
+        "keywords": "GPS,Geo Tagging,Android SDK"
+    },
+    {
+        "id": 733,
+        "label": 22,
+        "author": "mohammed abdul qadeer",
+        "title": "Feedback based Real Time Video Communication (Over an IP Network)",
+        "organization": "Asst. Professor of Computer Engineering Aligarh Muslim University",
+        "abstract": "In this paper we present an idea for guaranteed performance in real time video communication with error resiliency. The idea carries three main concepts called connection establishment with user defined performance parameters, back pressure re-routing and error resiliency by feedback control. The performance parameters we consider here are time delay and bandwidth. Establishing a connection that gives user a guaranteed performance is achieved by making tests at the intermediate nodes while making a virtual circuit to ensure that the nodes are capable of giving required performance. The backpressure re-routing will take care of making new paths for the video packets when any of the nodes in existing path is no more able to perform with required parameters values. Finally the two-way communication over the same channel is used for the feedback based error control to effectively maintain the visual quality at the receiving end.",
+        "email": "",
+        "conf": "International Conference on the Applications of Digital Information and Web Technologies. IEEE",
+        "coauthors": [
+            "Mohammed Abdul Qadeer",
+            "Syed Wasif Haider",
+            "Anamika Varshney",
+            "Mohammad Fahad Hafeez",
+            "Sadaf Zia"
+        ],
+        "keywords": "Real time communication,Congestion control,Backpressure,Feedback based re-routing,Real time video,Network delays"
+    },
+    {
+        "id": 710,
+        "label": 22,
+        "author": "mohammed abdul qadeer",
+        "title": "Mobile Peer to Peer Spontaneous and Real-Time Social Networking",
+        "organization": "Asst. Professor of Computer Engineering Aligarh Muslim University",
+        "abstract": "In this paper, we try to present a social networking model based on a hybrid combination of mp2p and traditional client-server technologies. The handheld devices used today are much better in performance in terms of processing power and memory than many of the web servers of early times. These handheld devices are also equipped with so many multimedia features that they have become the primary device for people to capture day-to-day occurrences. Moreover, a handheld device is always carried by a person with him wherever he goes. We would try to develop a hybrid model of client-server and peer to peer technologies which would provide spontaneous and instantaneous updates to the peers in the trusted group without actually “pushing” of updates by the user, at the same time, overcoming the limitations of traditional client-server approach of the social networking websites of today.",
+        "email": "maqadeer@gmail.com",
+        "conf": "Communications in Computer and Information Science",
+        "coauthors": [
+            "Abhishek Varshney",
+            "Mohammed Abdul Qadeer"
+        ],
+        "keywords": "mobile peer to peer network, mp2p, real-time sharing, spontaneous social networking, ubiquitous networking "
+    },
+    {
+        "id": 694,
+        "label": 22,
+        "author": "mohammed abdul qadeer",
+        "title": "Anti-theft application for android based devices",
+        "organization": "Asst. Professor of Computer Engineering Aligarh Muslim University",
+        "abstract": "This paper presents a technique to improve anti-theft for android based mobile phones by using different services like MMS instead of SMS. As the use of smartphones, tablets, phablets based on android operating system is increasing, many scenarios related with anti-theft have already been proposed and many software based on anti-theft have also been developed, but most of these software are not freely available and it's difficult to identify the thief by using these software's e.g. GPS Tracking. We put forward a new scheme, which enhances the present scenario, based on new technologies like Multimedia Messages. The scenario proposed in this work is totally dependent on the hardware of your smartphone like camera (front & back) and support for multimedia messages. Once this software is installed, it will work in the background, stores the current SIM number in a variable and keeps checking continuously for SIM change, whenever SIM gets changed from mobile, it will take snapshots and record a video in the background i.e., without taking user permission and then it will send an MMS, and number of snap shots, to an alternate mobile number and an email id, which was provided during installation. The enviable advantage of this software is that it is very easy to configure and it keeps running in the background without interrupting the user. To some extent it helps the owner to identify the thief.",
+        "email": "",
+        "conf": "IEEE International Advance Computing Conference (IACC)",
+        "coauthors": [
+            "Azeem Ush Shan Khan",
+            "Mohammad Naved Qureshi",
+            "Mohammed Abdul Qadeer"
+        ],
+        "keywords": "Android,MMS,Multimedia Messages,Snapshots,Email"
+    },
+    {
+        "id": 729,
+        "label": 22,
+        "author": "mohammed abdul qadeer",
+        "title": "Interference evaluation and MS controlled handoff technique for femtocell",
+        "organization": "Asst. Professor of Computer Engineering Aligarh Muslim University",
+        "abstract": "Femtocells (aka Home Node B) are low-power wireless access points that operate in licensed spectrum to connect standard mobile devices to a mobile operator's network using residential DSL or cable broadband connections. This device has evolved out of the research that despite of large deployment of macrocell (BTS/BSC) in high density apartment areas and densely populated urban population, the signal strength and voice quality is a major challenge to achieve. But on the other side of the coin there are potential handoff challenges in the implementation of femtocells because of the limitations in the number of adjacent cell sites and unavailability of adequate neighboring cell information during mobility. This paper focuses on the overview of femtocell technology, its potential implementation challenges, Interference evaluation, traditional handoff technique and the suggestion to adopt mobile station (MS) controlled handoff technique that should be adopted in order to successfully handover the control from the mobile operator cell (macrocell) to the femtocell and vice versa.",
+        "email": "",
+        "conf": "First Asian Himalayas International Conference on Internet. IEEE",
+        "coauthors": [
+            "Ahmad Ali Habeeb",
+            "Mohammed Abdul Qadeer"
+        ],
+        "keywords": "Femtocell,Home Node B,Handoff,3GPP,Femto Forum,GSM,UMTS,WiMAX,DSL,Hand over"
+    },
+    {
+        "id": 697,
+        "label": 22,
+        "author": "mohammed abdul qadeer",
+        "title": "GSM and PSTN gateway for asterisk EPBX",
+        "organization": "Asst. Professor of Computer Engineering Aligarh Muslim University",
+        "abstract": "This paper intends to describe the voice and video calling on mobile phones and PCs', as well as the GSM integration with asterisk PBX server. The clients can register on the asterisk server through mobile phones or PCs'. The devices should be connected to the server via wireless or wired LAN. The registered clients can make free voice and video calls to communicate among themselves. The clients can call among themselves even if they are registered on two different asterisk servers, if the servers are connected through IAX protocol. The gateway is used to route VoIP calls on to the PSTN network (GSM as well as landline) and vice-versa. 4-port FXO/FXS card is used for implementing PSTN gateway while a Bluetooth enabled mobile phone compatible with asterisk server is used to implement the GSM gateway. This model will drastically reduce the overall cost of communication.",
+        "email": "",
+        "conf": "Wireless and Optical Communications Networks (WOCN). IEEE",
+        "coauthors": [
+            "Priyanka Gupta",
+            "Neha Agrawal",
+            "Mohammed Abdul Qadeer"
+        ],
+        "keywords": "Asterisk low-cost communication,EPBX,SIP,IAX GSM Gateway,PSTN Gateway"
+    },
+    {
+        "id": 714,
+        "label": 22,
+        "author": "mohammed abdul qadeer",
+        "title": "SMS via 160by2: The international message service",
+        "organization": "Asst. Professor of Computer Engineering Aligarh Muslim University",
+        "abstract": "The paper presents an application which is used for sending SMS without the need of opening browser. It uses 160by2 for sending messages to any mobile network in India, Kuwait, UAE, Saudi, Singapore, Philippines & Malaysia. Most of the messages get delivered within five seconds. The service does not send SMS to those mobile numbers who have activated \"Do not disturb\" service popular for Indian mobile numbers. The user must be registered on 160by2 so as to use this SMS service. The message service sends SMS to any mobile network in India, Kuwait and Singapore. This application can run on desktop and on handhelds. The desktop version needs .NET framework to execute. ",
+        "email": "maqadeer@gmail.com",
+        "conf": " International Conference on Communication Software and Networks. IEEE",
+        "coauthors": [
+            "Utkarsh Goel",
+            "Kanika Shah",
+            "Faisal Khan",
+            "Mohammed Abdul Qadeer"
+        ],
+        "keywords": "Send unlimited free SMS to any mobile network in India,Kuwait,UAE,Saudi,Singapore,Philippines and Malaysia"
+    },
+    {
+        "id": 690,
+        "label": 22,
+        "author": "mohammed abdul qadeer",
+        "title": "SyncWorld: A cloud storage/synchronization service using Java and Php",
+        "organization": "Asst. Professor of Computer Engineering Aligarh Muslim University",
+        "abstract": "Cloud Computing is a major field of study. Cloud Storage is regarded as an infrastructure to cloud computing and personal cloud storage are gaining popularity. This paper presents the development of a user friendly and efficient personal cloud synchronization and storage service using java and php. The application follows a new algorithm and its architecture is beyond the conventional client/server or peer to peer.",
+        "email": "",
+        "conf": "Wireless and Optical Communications Networks (WOCN). IEEE",
+        "coauthors": [
+            "Rishabh Singh",
+            "Aman Abidi",
+            "Mohammed Abdul Qadeer"
+        ],
+        "keywords": "Cloud Computing,Server,Client"
+    },
+    {
+        "id": 732,
+        "label": 22,
+        "author": "mohammed abdul qadeer",
+        "title": "Differentiated Services with Multiple Random Early Detection Algorithm using ns2 Simulator",
+        "organization": "Asst. Professor of Computer Engineering Aligarh Muslim University",
+        "abstract": "This paper presents an overview of random early detection algorithm and differentiated services on ns2. In the present scenario of computer networks the traffic is increasing exponentially due to which packet losses are also increasing at a great rate. An active queue management in routers and gateways can potentially reduce packet loss rates in the Internet. In this paper we have proposed use of an active queue management algorithm, a modified form of RED algorithm, called MRED (Multi RED) which is an effective way to reduce packet loss rates in the internet. MRED computes the packet drop probability based on our heuristic method rather than the simple method used in RED and enables bandwidth allocation over a single link to different types of traffics. Using simulation, MRED can be shown to perform better than existing queue management schemes. This paper also introduces implementation of DiffServ (differentiated service) and MRED on ns2 simulator thus depicting advantages of QoS (quality of service) to improve network congestion.",
+        "email": "",
+        "conf": "International Conference on Computer Science and Information Technology. IEEE",
+        "coauthors": [
+            "Mohammed Abdul Qadeer",
+            "Vikas Sharma",
+            "Ankit Agarwal",
+            "S. Sabahat Husain"
+        ],
+        "keywords": "ns2,RED,MRED,DiffServ,Qos,IntServ,RSVP,Tcl.Queue"
+    },
+    {
+        "id": 701,
+        "label": 22,
+        "author": "mohammed abdul qadeer",
+        "title": "Application of AI in Home Automation",
+        "organization": "Asst. Professor of Computer Engineering Aligarh Muslim University",
+        "abstract": "Home automation is on horizon. It is an emerging technology and also a need of today. From the last decade a number of standards have been defined for home appliances. The main objectives of home automation are controlling, management and co-ordination of home appliances in a comfortable, effective and secure way. On the other hand, Artificial Intelligence is evolving as a technology for developing automatic systems that can perceive the environment, learn from environment, and can make decision using case based reasoning. Using Vision capability, knowledge based, learn ability, decision making and reasoning the AI provides a better solution for almost all automatic systems. In this paper we will see the types of home automation systems and then see how these system can utilize the AI tools so as to increase the effectiveness, powerfulness etc. ",
+        "email": "maqadeer@gmail.com",
+        "conf": "International Journal of Engineering and Technology",
+        "coauthors": [
+            "Sandeep Kumar",
+            "Mohammed Abdul Qadeer"
+        ],
+        "keywords": "Home automation, artificial intelligence, knowledge base systems, secure home"
+    },
+    {
+        "id": 724,
+        "label": 22,
+        "author": "mohammed abdul qadeer",
+        "title": "Bottleneck analysis and traffic congestion avoidance",
+        "organization": "Asst. Professor of Computer Engineering Aligarh Muslim University",
+        "abstract": "With the help of software such as packet sniffer one can easily intercept or capture the network packets that travel across the network. The sniffer captures these packets by setting the NIC card in the promiscuous mode and eventually decodes them and they can be used for several fruitful purposes. This paper discusses the different steps for the development of packet sniffer using Linux as a platform. This paper presents a novel approach to the development of a packet sniffer, one which we have employed and added features for packet analysis and intrusion detection. It also lists different steps that can be taken to encounter the malicious use of packet sniffers (e.g. ARP sniffing, SNMP monitoring etc.). Packet sniffer developed by us can be used for network monitoring to prevent bottlenecks when network congestion occurs. The development phase began after studying the behavior of already existing sniffer softwares such as Wire Shark or Ethereal on both Linux and Windows platform. In the development of the packet sniffer a library known as libpcap is used, which is an in built feature of an OS and help us to grab the packets directly from the network card.",
+        "email": "maqadeer@gmail.com",
+        "conf": "International Conference and Workshop on Emerging Trends in Technology",
+        "coauthors": [
+            "Mohammed Abdul Qadeer",
+            "Afaq Hasan Khan",
+            "Ahmad Ali Habeeb",
+            "M. A. Hafeez"
+        ],
+        "keywords": "Network analyzer, packet sniffer, packet capture, traffic analysis, libpcap, network monitoring, NIC, promiscuous mode"
+    },
+    {
+        "id": 698,
+        "label": 22,
+        "author": "mohammed abdul qadeer",
+        "title": "Convergence of LBS and AI",
+        "organization": "Asst. Professor of Computer Engineering Aligarh Muslim University",
+        "abstract": "Location Based Service (LBS) refers to class of applications that provides services based on the current or a known location. The location information can be obtained through the mobile communication network or the Global Navigation Satellite Systems (GNSS) [8]. But in all the cases after extracting information we have to make an exhaustive processing over this extracted geographic information. And this exhaustive processing requires a significant amount of time if it is performed by traditional techniques. Artificial Intelligence, on the other hand, has been proven to be useful in the interpretation of spatial resource information. On of the artificial intelligence technique to support spatial processing is artificial neural networks (ANNs). The recent developments in ANN technology have made it more ofan applied mathematical technique that has some similarities to the human brain. The integration of LBS with AIoffers a potential mechanismto lower the analysis-time of spatial information. One major advantage is that this integration allows the interpretive result from a small area to be transferred to a larger, geographically similar area. The objective of this paper is to discuss about the relativity of LBS services and Artificial Intelligence technologies and to uncover the benefits of converging LBS and AI.",
+        "email": "maqadeer@gmail.com",
+        "conf": "Journal of Machine Learning and Computing",
+        "coauthors": [
+            "Sandeep Kumar",
+            "Mohammed Abdul Qadeer",
+            "Sumit Kumar Singh"
+        ],
+        "keywords": "LBS, GIS, AI, ANNs"
+    },
+    {
+        "id": 692,
+        "label": 22,
+        "author": "mohammed abdul qadeer",
+        "title": "Indoor positioning system using Wi-Fi & Bluetooth Low Energy technology",
+        "organization": "Asst. Professor of Computer Engineering Aligarh Muslim University",
+        "abstract": "In the era of wireless communication, almost every other person uses a smartphone not only for traditional calling, but for multiple services. Wi-Fi based services have been on rise, and Wi-Fi signals are omnipresent nowadays. Exploiting the feature of Wi-Fi signal detection from android smartphones, we built an app for user positioning in indoor environment. For testing purposes, we use pre-installed Wi-Fi access points and Beacon devices based on Bluetooth Low Energy (BLE) technology in our department for indoor positioning at the department. Using the classical RSSI based trilateration algorithm, we improved upon the location estimation using gradient descent over error function. We then analyze the results of location estimation with actual measurement of distances.",
+        "email": "",
+        "conf": "Wireless and Optical Communications Networks (WOCN). IEEE",
+        "coauthors": [
+            "Vibhu Varshney",
+            "Rajat Kant Goel",
+            "Mohammed Abdul Qadeer"
+        ],
+        "keywords": "Indoor positioning,RSSI,positioning algorithm,error minimization,Wi-Fi based positioning,Bluetooth Low Energy,android application"
+    },
+    {
+        "id": 708,
+        "label": 22,
+        "author": "mohammed abdul qadeer",
+        "title": "Media Independent Handover (IEEE 802.21): Framework for Next Generation Vertical Handover Protocols",
+        "organization": "Asst. Professor of Computer Engineering Aligarh Muslim University",
+        "abstract": "Although various wireless access network technologies with different characteristics and performance level have been developed, no single network that can satisfy the anytime, anywhere, and any service wireless access needs of mobile users. A truly seamless mobile environment can only be realized by considering vertical and horizontal handoffs together. One of the major design issues in heterogeneous wireless networks is the support of vertical handoff. Vertical handoff occurs when a user with a multi-interface terminal changes association from one type of wireless access technology to another while maintaining an active session. It is believed that vertical handoff decision will be based on multiple criteria. In this paper review of Vertical Handoff Mechanisms (VHM), decision models and IEEE standard 802.21 (also called Media Independent Handover) have been discussed for seamless vertical handover.",
+        "email": "maqadeer@gmail.com",
+        "conf": "International Conference on Computational Intelligence and Communication Networks. IEEE",
+        "coauthors": [
+            "Vikas Sharma",
+            "Ankit Agarwal",
+            "Mohammed Abdul Qadeer"
+        ],
+        "keywords": "VHM,MIH,Vertical Handoff,Handover,IEEE 802.21"
+    },
+    {
+        "id": 713,
+        "label": 22,
+        "author": "mohammed abdul qadeer",
+        "title": "Track-Pedia: The universal tracker",
+        "organization": "Asst. Professor of Computer Engineering Aligarh Muslim University",
+        "abstract": "This application brings the facility to locate anyone on the maps. This provides the exact coordinates of any postal address. It also converts a postal address into its corresponding coordinates. It also brings the facility to get the elevation of a particular place above the sea level. The application also tells the route between any two places in the world with the details such as duration, time, distance, etc. This feature also specifies the travelling mode which includes Driving, Cycling, etc. It further provides a facility for a user to get directions from some given set of waypoints. Moreover, the application displays the maps according to the place, Latitudes and Longitudes specified by the user. This also brings the facility to trace an Indian mobile number. It also tells the location of a tower to which a mobile is connected with.",
+        "email": "maqadeer@gmail.com",
+        "conf": "International Conference on Communication Software and Networks. IEEE",
+        "coauthors": [
+            "Utkarsh Goel",
+            "Kanika Shah",
+            "Mohammed Abdul Qadeer",
+            "Mohd. Umair"
+        ],
+        "keywords": "Postal address locator,directions between places,mobile locator,weather,elevation of a place"
+    },
+    {
+        "id": 749,
+        "label": 22,
+        "author": "mohammed abdul qadeer",
+        "title": "Data Retrieval and Security Using Lightweight Directory Access Protocol",
+        "organization": "Asst. Professor of Computer Engineering Aligarh Muslim University",
+        "abstract": "In the present world of communication and information interchange where more and more users are bound to use the same services and data with different access levels, the need for providing protection against potential breach of secured data has gained profound importance. Some of the common services are virtual private network (VPN), remote access server (RAS), Web server, mail server etc. In the following paper we present the technique of providing customized user level access and security through the use of LDAP for above mentioned services. The profiles of all users are maintained under LDAP directory information tree (DIT) from which information about any particular user, willing to login or retrieve data, can be used to provide successful authentication.",
+        "email": "",
+        "conf": "International Workshop on Knowledge Discovery and Data Mining. IEEE",
+        "coauthors": [
+            "Mohammad Salim",
+            "M. Sana Akhtar",
+            "Mohammed Abdul Qadeer"
+        ],
+        "keywords": "LDAP,Web Server,VPN,RAS,SendMail,client,server,SLAPD,schemas,database,ACLs,authentication,LDIF"
+    },
+    {
+        "id": 746,
+        "label": 22,
+        "author": "mohammed abdul qadeer",
+        "title": "RFID Enhancement in Road Traffic Analysis by Augmenting Reciever with TelegraphCQ",
+        "organization": "Asst. Professor of Computer Engineering Aligarh Muslim University",
+        "abstract": "The radio frequency identification (RFID) tags are an integral part of lives today, whether realized or not. Thousands of applications are currently using RFID tags and the number is growing. RFID finds its application in fields as diverse as race timing, transportation payments, passports, & animal identification. This paper aims at combining the ubiquitous applicability of RFIDs with high speed live stream querying capabilities of TelegraphCQ. This paper also aims at providing means of data mining with this accumulated data. The fulcrum of RFID application for this paper is road traffic analysis but this can easily be generalized to include above mentioned RFID applications also.",
+        "email": "",
+        "conf": "International Workshop on Knowledge Discovery and Data Mining. IEEE",
+        "coauthors": [
+            "Faraz Khan",
+            "Nadeem Akhtar",
+            "Mohammed Abdul Qadeer"
+        ],
+        "keywords": "RFID tag,TelegraphCQ,data mining,traffic analysis,receiver"
+    },
+    {
+        "id": 736,
+        "label": 22,
+        "author": "mohammed abdul qadeer",
+        "title": "A Novel Scheme for Mobile Payment using RFID-enabled Smart SIMcard",
+        "organization": "Asst. Professor of Computer Engineering Aligarh Muslim University",
+        "abstract": "Mobile phones have become essential part of everybodypsilas daily life. Efforts have been made to add more features into the mobile devices. Contact less payment is another dimension that adds value to mobile phones. In contact less payment through mobile device, user is able to pay using his mobile device without touching or swiping card on a reading device. In this paper, we present an idea to equip mobile devices with RFID-enabled SIM (subscriber identity module) card to carry out money transfer. RFID-enabled SIM is a special SIM card that includes RFID (radio frequency identification) chip in the SIM casing. We propose an architecture to integrate RFID and normal SIM features into a single specialized RFID-enabled SIM. This specialized SIM can be used for normal phone applications as well as contact less payment. RFID enables the mobile user to be identified by the RFID reader and SIM stores the payment information. We discuss various scenarios in which RFID-enabled SIM can be used for different applications. This mode of payment provides freedom, flexibility, mobility and security to the customer.",
+        "email": "",
+        "conf": "International Conference on Future Computer and Communication. IEEE",
+        "coauthors": [
+            "Mohammed Abdul Qadeer",
+            "Nadeem Akhtar",
+            "Shalini Govil",
+            "Anuja Varshney"
+        ],
+        "keywords": "Contactless payment,Pervasive Computing,RFID,smart SIMcard"
+    },
+    {
+        "id": 743,
+        "label": 22,
+        "author": "mohammed abdul qadeer",
+        "title": "Real time video streaming over heterogeneous networks",
+        "organization": "Asst. Professor of Computer Engineering Aligarh Muslim University",
+        "abstract": "Technological advances allow handheld devices to be equipped with faster processors and wireless interfaces, making the performance comparable to laptop Computers. In this paper, we describe real-time video streaming over heterogeneous networks namely Bluetooth, Wi-Fi and GPRS-EDGE. The wireless channel used for communication in different network varies in their Bandwidth, supported Bit rate and Unequal Error Protection coding techniques. In Bluetooth we can create a Bluetooth PAN (Piconet) in which mobile computers can dynamically connect to master and communicate with other slave. In Wi-Fi real-time video streaming over wireless LANs for both unicast and multicast transmission. The wireless channel is modeled as a packet-erasure channel at the IP level. The video delivery system in GPRS-EDGE is based on MPEG-4 video simple profile and on the IETF protocols RTSP, RTP, and RTCP for the media delivery and synchronization in compliance with the 3GPP specifications for packet streaming services (PSS).",
+        "email": "",
+        "conf": "International Conference on Advanced Communication Technology IEEE",
+        "coauthors": [
+            "Mohammed Abdul Qadeer",
+            "Rehan Ahmad",
+            "Mohd Siddique Khan",
+            "Tauseef Ahmad"
+        ],
+        "keywords": "Bluetooth,Video Streaming,Piconet,Quality of Service,Performance,GPRS-EDGE,IEEE802.11,wireless LANs,MPEG-4,IETF,RTSP,RTP,RTCP,PSS"
+    }
+]

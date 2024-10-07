@@ -1,0 +1,94 @@
+[
+    {
+        "id": 1800,
+        "label": 36,
+        "author": "amit kumar banerjee",
+        "title": "Bioinformatics with Solutions in Pest Management Science: An Insight into the Evolving Technologies",
+        "organization": "Senior Research Fellow Indian Institute of Chemical Technology",
+        "abstract": "The basic need of human being is food and health. Struggle for these initiated at the dawn of evolution. Technology has advanced exponentially and different aspects of comfort are there in the present society but the basic needs never altered. Initial civilization fought with unwanted intruders, be it another species or other human themselves, the same “struggle for existence” continues till now and it will be there for ever. Recent advancement, be it molecular biological research, micro arrays, nano technology or any other advanced analytical technique, is helping to gain more insight on the target pests. Recent pest management techniques need to combat against agricultural pests as well as vectors of several life threatening and deadly diseases. Available statistics suggests that more crucial precautions are to be taken in near future. Only development of new pesticide is not going to be the solution to fight against this problem. Computational biology as an integrated discipline is slowly getting inserted in pest management. It is involved in the core data analyses level in R & D sectors along with efficient mass communication and knowledge distribution technologies to establish direct link with the farmers and other grass root workers. Greater range of dimensionality made this stream indispensable and effective in all aspect. In this article we have described numerous areas of pest management where bioinformatics is directly or indirectly playing key role. This application encompasses, pesticide designing and screening, optimization in pesticide production, toxicity prediction for a series of pesticides, development of decision support systems and different types of general and specialized scientific applications and databases etc. Though the requirement is more still the present status and its popularity and applicability is showing us a novel direction in pest management. May be in future we will be able to handle this hazard with more authority and efficiency.",
+        "email": "",
+        "conf": "Pests and Pathogens: Management Strategies",
+        "coauthors": [
+            "U.S.N Murty",
+            "Amit Kumar Banerjee"
+        ],
+        "keywords": "Pest management, IPM, Computation biology, Bioinformatics, Decision support system, Homology Modeling, QSAR."
+    },
+    {
+        "id": 1798,
+        "label": 36,
+        "author": "amit kumar banerjee",
+        "title": "Neurochemicals Behaviours and Psychiatric Perspectives of Neurological Diseases",
+        "organization": "Senior Research Fellow Indian Institute of Chemical Technology",
+        "abstract": "Structural changes in different regions of the brain have become clinically relevant and regarded as the signature phenomenon for neurological diseases. Morphological changes in brain are also associated with neuronal and neurochemical alterations. Studies have showed that minute changes in neurochemical levels may have marked impact on the psychobehaviourof  the subject. Several neurological disease profiles have been reported with such specific psychobehavioural expression. However, application of behavioural abnormalities as possible disease progress markers has not been considered and emphasised much. Reports suggestedthat- the subjects, who have already entered into the terminal stage of the disease, used to show cardinal behavioural signs for a specific disease profile. However, psychologicalexpressions are comparatively early expressive. As most of the neurodegenerative disordersare unidirectional and progressive by nature, therapeutic intervention at the right time isessential for attaining the desired outcome. Moreover, early diagnosis can aid in managingthe disease progression also. Psychobehavioural analysis could meet the expected outcomeof disease diagnosis if implemented properly and timely. In the present review, we have amalgamated the reported behavioural anomalies with the supportive background fromneurochemical basis. Further, we have concluded that behaviour centric studies could b ea p ote ntial diagnostic tool for the early diagnosis of major neurological diseases such asAlzheimer disease, Parkinson’s disease, Amyotrophic lateral sclerosis (ALS), Bipolar disorder,Schizophrenia, Impulse control disorder (ICD) and Obsessive-compulsive disorder (OCD).",
+        "email": "",
+        "conf": "Neuropsychiatry",
+        "coauthors": [
+            "Amarendranath Choudhury, Tripti Sahu, Praveena Lakshmi Ramanujam, Amit Kumar Banerjee, Indrajeet Chakraborty, Arun Kumar R, Neelima Arora"
+        ],
+        "keywords": "Neurotransmitters, Psychology, Neurodegenerative disorders, Behaviour"
+    },
+    {
+        "id": 1795,
+        "label": 36,
+        "author": "amit kumar banerjee",
+        "title": "Zika outbreak aftermath: Status progress concerns and new insights",
+        "organization": "Senior Research Fellow Indian Institute of Chemical Technology",
+        "abstract": "Zika, a neurotrophic virus belonging to Flaviviridae family of viruses and transmitted by vector mosquitoes of Aedes species, took the world by storm during its recent outbreak. Its spread to newer territories, unprecedented pace of transmission, lack of existing therapeutic agents and vaccines and an empty drug pipeline raised an alarm. Uncertainty about full spectrum of diseases and its long-term consequences, newly discovered modes of transmission and controversies over vector status of mosquito species like Culex quinquefasciatus led to layers of complexity and presented new hurdles and challenges in Zika virus research. This review summarizes the progress and updates of efforts, concerns, financial burden and available resources in light of newly acquired knowledge in Zika virus research.",
+        "email": "",
+        "conf": "Future Virology",
+        "coauthors": [
+            "Neelima Arora",
+            "Amit Kumar Banerjee",
+            "Lakshmi Narasu Mangamoori"
+        ],
+        "keywords": "Aedes aegypti, Aedes albopictus, economic burden, flavivirus, forecasting, mathematical model, mosquito-borne viral disease, transmission, Zika virus, Zika virus outbreak"
+    },
+    {
+        "id": 1796,
+        "label": 36,
+        "author": "amit kumar banerjee",
+        "title": "Neurology in the Light of Genomics: Application of NGS and GWAS in Understanding Complex Neurological Disorders",
+        "organization": "Senior Research Fellow Indian Institute of Chemical Technology",
+        "abstract": "Understanding structure and function of human brain remains the most intriguing region of advanced research. Neurological disorders also constitute a major proportion of ongoing brain associated research as several disorders are still not known in a comprehensive manner from a molecular, causative and functional perspective. Earlier linkage studies were considered the most reliable means to answer certain neurogenetics related questions in relevance to heredity and disease inheritance. Technical limitations and ethical issues always hindered the path of deriving more useful insight and understanding neurological diseases such as Schizophrenia, Epilepsy, Parkinson’s disease, Alzheimer’s disease, Bipolar Disorder, ADHD, ALS and other neurological issues. Improvement in the interdisciplinary approaches including genomics based analyses such as NGS, GWAS, GCTA enabled us to explore and understand the causes and factors responsible for onset of neurological conditions and effect of such neurological conditions on human wellbeing. This review summarizes the recent and on-going research carried out globally to unravel the mysteries of various neurological disorders employing latest genomics based technologies. The technological background and disease specific implementations are described in detail.",
+        "email": "",
+        "conf": "Neuropsychiatry",
+        "coauthors": [
+            "Amit Kumar Banerjee",
+            "Neelima Arora"
+        ],
+        "keywords": "Neurological disorders, NGS, GWAS, GCTA, Schizophrenia, Epilepsy, Parkinson’s disease, Alzheimer’s disease, Bipolar disorder, ADHD, ALS"
+    },
+    {
+        "id": 1797,
+        "label": 36,
+        "author": "amit kumar banerjee",
+        "title": "Structural analysis of the Babesia microti thioredoxin reductase: a potential drug target for babesiosis treatment",
+        "organization": "Senior Research Fellow Indian Institute of Chemical Technology",
+        "abstract": "Babesia microti, the causative agent of human babesiosis which was endemic in United States and parts of Europe with sporadic cases in other regions is expanding its geographical range. Being a common transfusion threat, Babesia has become a cause of concern in researchers and epidemiologists. Human babesiosis is now recognized as an emerging disease and gains more attention now than ever before. Thioredoxin reductase, a promising drug target in apicomplexan parasite has been validated in several species. This study focused on in-silico analysis of physicochemical properties, functional and structural aspects of thioredoxin reductase of B. microti. Comparative modeling approach was adopted for developing the three dimensional structural model of Thioredoxin reductase of Babesia microti. The model developed was found to be of reasonably good stereo-chemical quality by structure validation servers. This study will provide valuable insights about the function and structure of the enzyme thioredoxin reductase of B. microti and aid in developing effective chemotherapeutic agents for control and treatment of Babesia.",
+        "email": "",
+        "conf": "Biomedical Research",
+        "coauthors": [
+            "Neelima Arora, Amit Kumar Banerjee, Mangamoori Lakshmi Narasu"
+        ],
+        "keywords": "Babesia microti, Babesiosis, Thioredoxin reductase"
+    },
+    {
+        "id": 1799,
+        "label": 36,
+        "author": "amit kumar banerjee",
+        "title": "Application of Intelligent Techniques for Classification of Bacteria Using Protein Sequence-Derived Features",
+        "organization": "Senior Research Fellow Indian Institute of Chemical Technology",
+        "abstract": "Standard molecular experimental methodologies and mathematical procedures often fail to answer many phylogeny and classification related issues. Modern artificial intelligent-based techniques, such as radial basis function, genetic algorithm, artificial neural network, and support vector machines are of ample potential in this regard. Reliance on a large number of essential parameters will aid in enhanced robustness, reliability, and better accuracy as opposed to single molecular parameter. This study was conducted with dataset of computed protein physicochemical properties belonging to 20 different bacterial genera. A total of 57 sequential and structural parameters derived from protein sequences were considered for the initial classification. Feature selection based techniques were employed to find out the most important features influencing the dataset. Various amino acids, hydrophobicity, relative sulfur percentage, and codon number were selected as important parameters during the study. Comparative analyses were performed applying RapidMiner data mining platform. Support vector machine proved to be the best method with maximum accuracy of more than 91 %.",
+        "email": "",
+        "conf": "Applied biochemistry and biotechnology",
+        "coauthors": [
+            "Amit Kumar Banerjee",
+            "Vadlamani Ravi",
+            "U S N Murty",
+            "Neelava Sengupta",
+            "Batepatti Karuna"
+        ],
+        "keywords": "Histidine kinase, Classification, Datamining, Physicochemical property, Support vector machine, Radial basis function"
+    }
+]

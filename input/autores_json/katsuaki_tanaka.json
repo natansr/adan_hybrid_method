@@ -1,0 +1,254 @@
+[
+    {
+        "id": 6827,
+        "label": 129,
+        "author": "katsuaki tanaka",
+        "title": "Development of a Recommender System based on Extending Contexts of Content and Personal History",
+        "organization": "Saitama Institute of Technology",
+        "abstract": "The flood of information on the Internet makes a person who approaches it without some strong intention feel overwhelmed. One way to redress the balance between a person and the flood is a computer-based recommender system, and many Web sites use such systems. These systems on a Web site work for similar items. However, the field of personal activity is not limited to handling one kind of knowledge or one Web site, but also involves off-line activities in the real world. To handle personal off-line activity, LifeLog was proposed as a method to record it, but the main purpose of LifeLog is to record a personal history. The uses of such a history are still being studied. We have developed a recommender system that captures personal context from a history of personal online and offline activities, treats information on Web sites as a large set of context, and discovers and extends the overlaps of personal activities and Web sites, then recommends information located in the Web sites. The aim of the system is to allow a person to enjoy waves of information again. The system was implemented as part of the My Life Assist Service for mobile phones provided by NTT DOCOMO, Inc. as a field experiment from December 2007 to February 2008",
+        "email": "katsuaki@ailab.t.u-tokyo.ac.jp",
+        "conf": "Journal of Emerging Technologies in Web Intelligence",
+        "coauthors": [
+            "Katsuaki Tanaka",
+            "Koichi Hori",
+            "Masato Yamamoto"
+        ],
+        "keywords": "recommender system, mobile phone, context awareness, LifeLog"
+    },
+    {
+        "id": 6836,
+        "label": 129,
+        "author": "katsuaki tanaka",
+        "title": "Practice oriented Content Co-creation Support Systems",
+        "organization": "Saitama Institute of Technology",
+        "abstract": "People’s intellectual activities are held in actual practices, not only in human brains. Support systems for such activities should be designed totally within practices. Our purpose in this research is to support creative activities of ordinary people focusing on practices and collaborations. In this paper, we introduce and analyze our two workshops: photo-attached acrostic workshop, and mobile video workshop.",
+        "email": "",
+        "conf": "International Conference on Collaboration Technologies",
+        "coauthors": [
+            "Kosuke Numa",
+            "Kiyoko Toriumi",
+            "Jun Abe",
+            "Tatsuo Sugimoto",
+            "Masako Miyata",
+            "Hideki Yoshimoto",
+            "Katsuaki Tanaka",
+            "Mina Akaishi",
+            "Koichi Hori"
+        ],
+        "keywords": "content co-creation support system,    intellectual activity,    ordinary people,    photo-attached, acrostic workshop,    mobile video workshop,    support system,    human brain,    actual practice,    creative activity"
+    },
+    {
+        "id": 6832,
+        "label": 129,
+        "author": "katsuaki tanaka",
+        "title": "Using Design Information to Support Model-Based Fault Diagnosis Tasks",
+        "organization": "Saitama Institute of Technology",
+        "abstract": "In today’s complex systems, it can be difficult to specify the cause of a fault. In general, backward reasoning that derives the cause from the fault is used for diagnosis. Knowledge that shows the state of the target object based on the fault is necessary for this inference. However, especially in the field of space, each system is peculiar to each project, and knowledge that associates causes with faults tends to be insufficient. Model-based diagnosis is therefore used. It uses a model of a target system to recreate the fault, thus showing the condition of the target system. To construct such models, knowledge of the target system is required. We have developed a system that collects knowledge during the design process, and provides it to the model construction process.",
+        "email": "",
+        "conf": "Lecture Notes in Computer Science",
+        "coauthors": [
+            "Katsuaki Tanaka",
+            "Yoshikiyo Kato",
+            "Shinichi Nakasuka",
+            "Koichi Hori"
+        ],
+        "keywords": "Design Rationale, Target System, Telemetry Data, Fault Tree Analysis, Communication Subsystem "
+    },
+    {
+        "id": 6835,
+        "label": 129,
+        "author": "katsuaki tanaka",
+        "title": "Problem Decomposition and Multi-agent System Creation for Distributed Problem Solving",
+        "organization": "Saitama Institute of Technology",
+        "abstract": "As human society glows large and complex problems which human being must solve is also becoming large and complex. In many cases, a problem must be solved cooperatively by many people. There arise a problem of decomposing the problem into sub-problems, distributing these sub-problems to number of persons and organizing these people in such a way that the problem can be solved most efficiently. This orga- nization is not universal but is made specific to the given problem. It is possible to create a multi-agent system to correspond to the cooperative work by persons. Here is a problem of creating an organization of the agents dynamically that is suited for coping with the specific problem. It is the major objective of this paper to discuss a way of generating a multi-agent system with examples.",
+        "email": "",
+        "conf": "International Symposium on Methodologies for Intelligent Systems",
+        "coauthors": [
+            "Katsuaki Tanaka",
+            "Michiko Higashiyama",
+            "Setsuo Ohsuga"
+        ],
+        "keywords": "Inference Engine, Problem Decomposition, Interface Agent, Agent Controller, Chief Designer "
+    },
+    {
+        "id": 6833,
+        "label": 129,
+        "author": "katsuaki tanaka",
+        "title": "Feature Word Tracking in Time Series Documents",
+        "organization": "Saitama Institute of Technology",
+        "abstract": "Data mining from time series documents is a new challenge in text mining and, for this purpose, time dependent feature extraction is an important problem. This paper proposes a method to track feature terms in time series documents. When analyzing and mining time series data, the key is to handle time information. The proposed method applies non-linear principal component analysis to document vectors that consist of term frequencies and time information. This paper reports preliminary experimental results in which the proposed method is applied to a corpus of topic detection and tracking, and we show that the proposed method is effective in extracting time dependent terms.",
+        "email": "",
+        "conf": "Lecture Notes in Computer Science",
+        "coauthors": [
+            "Atsuhiro Takasu",
+            "Katsuaki Tanaka"
+        ],
+        "keywords": "Feature Space, News Article, Document Cluster, Kernel Principal Component Analysis, Feature Term "
+    },
+    {
+        "id": 6830,
+        "label": 129,
+        "author": "katsuaki tanaka",
+        "title": "Development of a Recommender System based on Personal History",
+        "organization": "Saitama Institute of Technology",
+        "abstract": "The flood of information on the Internet makes a person who surf it without some strong intention strayed into it. One of the ways to control the balance between a person and the flood is a recommender system by computer, and many web sites use it. These systems work on a web site for the same kind of items. However the field of personal activity is not limited to handle the same kind of thing and a web site, but also offline area in the real world. To handle personal offline activities, LifeLog is proposed as method to record it, but the main purpose of LifeLog is recording a personal history. How to use a history has still been studied stage. The authors have developed a recommender system that captures personal context from history of personal online and offline activities, treats information on web sites as a large set of context, and finds out and extends overlap of them, then recommends information located there. The aim of the system is that a person can enjoy waves of information again.",
+        "email": "",
+        "conf": "Transactions of the Japanese Society for Artificial Intelligence",
+        "coauthors": [
+            "Katsuaki Tanaka",
+            "Koichi Hori",
+            "Masato Yamamoto"
+        ],
+        "keywords": "recommender system; mobile phone; context awareness; life log"
+    },
+    {
+        "id": 6834,
+        "label": 129,
+        "author": "katsuaki tanaka",
+        "title": "MODEL-BASED CREATION OF AGENTS AND DISTRIBUTION OF PROBLEM SOLVING",
+        "organization": "Saitama Institute of Technology",
+        "abstract": "Problem solving process is defined as 'a subject applies activities to an object'. A combination of Subject, Activity, Object represents a problem solving and is called a problem model. It is represented as an agent. When a problem is large, it is decomposed into sub-problems based on the problem model structure and a structure of agents is created as a multi-agent system. Each agent solves assigned sub-problem and cooperates with the other agents to solve the whole problem. Persons control agents via user agents.",
+        "email": "",
+        "conf": "Intelligent Agent Technology: Research and Development.",
+        "coauthors": [
+            "Katsuaki Tanaka",
+            "Setsuo Ohsuga"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6825,
+        "label": 129,
+        "author": "katsuaki tanaka",
+        "title": "Extracting tasks in design process records",
+        "organization": "Saitama Institute of Technology",
+        "abstract": "We extracted design process as series tasks for objects from design process records. First, we tried to extract topics and its transitions from documents. The system divided documents into smaller text fragments and grouped these into clusters. We regarded a cluster as a topic. The system iterated clustering as topic extraction at certain intervals based on created times of documents and generated a graph of topics and its transitions. Then the system chose clusters that related to focused object and searched co-occurring words with the object from text fragments. It represented clusters labeled with these words and its transition.",
+        "email": "",
+        "conf": "Computer Science and Software Engineering (JCSSE)",
+        "coauthors": [
+            "Katsuaki Tanaka",
+            "Koichi Hori"
+        ],
+        "keywords": "Information Sharing System,Topic Detection,Document Stream Processing,Design Support System  "
+    },
+    {
+        "id": 6829,
+        "label": 129,
+        "author": "katsuaki tanaka",
+        "title": "A Case Study on Interactions with User Contributed Website in a Public Space",
+        "organization": "Saitama Institute of Technology",
+        "abstract": "In this paper, we show our pilot study on Web interaction in public spaces. We now usually access to the Web personally in our office or home, but we think we will soon use the Web communally in public spaces in near future. To reveal the principle of such interaction with user contributed Websites, we developed an event and a system. This paper describes the outline of the event and the system, and the analysis of the practice.",
+        "email": "",
+        "conf": "Social Intelligence Design (SID2008)",
+        "coauthors": [
+            "Kosuke Numa",
+            "Hironori Tomobe",
+            "Katsuaki Tanaka",
+            "Takuichi Nishimura",
+            "Koichi Hori",
+            "Takeshi Sunaga"
+        ],
+        "keywords": "Web Interaction, Public Spaces, User Contributed Website, Media Art"
+    },
+    {
+        "id": 6831,
+        "label": 129,
+        "author": "katsuaki tanaka",
+        "title": "Semantic Structure Transition with Elapsed Time",
+        "organization": "Saitama Institute of Technology",
+        "abstract": "To enable cooperative problem solving by people and computers it is necessary to share the transition of objects, because objects at a given time are the accumulation of their transitions. With this perspective, we defined semantic structure as the organization of problem-solving systems. Semantic structure transition with elapsed time reflects how and what knowledge is used to solve a problem. Based on this argument, we constructed two systems for a semantic structure. The first system was designed to construct and manage the semantic structure, and the second was designed to derive the semantic structure transitions.",
+        "email": "katsuaki@ai.rcast.u- tokyo.ac.jp",
+        "conf": "Semantic Computing Initiative",
+        "coauthors": [
+            "Katsuaki Tanaka",
+            "Mina Akaishi",
+            "Koichi Hori"
+        ],
+        "keywords": "information sharing system, semantic structure transition,topic detection, document stream processing"
+    },
+    {
+        "id": 6839,
+        "label": 129,
+        "author": "katsuaki tanaka",
+        "title": "Towards a supporting system for amplifying reflective thinking of program creators",
+        "organization": "Saitama Institute of Technology",
+        "abstract": "The social concern with designing some kind of contents has been growing for the last several years in multimedia society. In current Broadcasting industry, an important topic has been focused on how to design contents. The Ministry of Public Management in Japan announced that Analog broadcasting will be terminated and completely replaced to Digital broadcasting in 2011. Generally speaking, most broadcasting stations in Japan were worried about the shortage of contents, funds and manpower. However, the effective methodology for contents production is not established in many cases. On the other hand, various studies have been conducted on designing contents in a number of academic fields. These studies have produced important achievements. We focus on designing radio contents. Besides, we consider the method of competitive contents in all its aspects. First, we explored the relationship between the process of radio production and structure of the scenario of radio program. We, then, observed Creators’ working style. Understanding the relationship between the process of radio production and structure of the scenario of radio program is important for a number of theoretical and practical reasons. The purpose of this study is extraction of structured knowledge and development of a contents support tool in radio program works. This paper describes an application of the radio program components by applying the methodology of “Knowledge Nebula Crystallizer for Knowledge Liquidization and Crystallization”. In this paper, as a case model of the “Knowledge Creation” in modern society, we propose a radio production and its contents generation methodology.",
+        "email": "katsuaki@ai.rcast.u-tokyo.ac.jp ",
+        "conf": "",
+        "coauthors": [
+            "Miwa Yokoyama",
+            "Katsuaki Tanaka",
+            "Mina Akaishi",
+            "Koichi Hori"
+        ],
+        "keywords": "Program production, Design process, Creative contents, Knowledge Liquidization and Crystallization "
+    },
+    {
+        "id": 6838,
+        "label": 129,
+        "author": "katsuaki tanaka",
+        "title": "Generating and Recomposing Contents using Networked Sensor Information",
+        "organization": "Saitama Institute of Technology",
+        "abstract": "In this paper, we introduce our current two projects — (1) automatic content generation based on networked sensors and (2) dynamic recomposition of contents —, then we integrate these methods and propose a new framework for people’s expressing support.",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Kenro Aihara",
+            "Hideaki Takeda",
+            "Katsuaki Tanaka",
+            "Mina Akaishi",
+            "Koichi Hori"
+        ],
+        "keywords": "networked sensor information   "
+    },
+    {
+        "id": 6828,
+        "label": 129,
+        "author": "katsuaki tanaka",
+        "title": "Design with Discourse to Design from the \"Ethics Level\".",
+        "organization": "Saitama Institute of Technology",
+        "abstract": "In this paper, we describe the concept, practice, and support systems of “design with discourse” that is a method to design from the “ethics level.” First, we place the ethics level in the hierarchical representation of artifacts. Second, we systematize the concept of design with discourse. Third, we describe practice of design with discourse with two examples. Then, we present an overview of support systems that embody the concept of design with discourse. Finally, we conclude that design with discourse contributes to systematic design from the ethics level.",
+        "email": "",
+        "conf": "Frontiers in Artificial Intelligence and Applications",
+        "coauthors": [
+            "Kaira Sekiguchi",
+            "Katsuaki Tanaka",
+            "Koichi Hori"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6826,
+        "label": 129,
+        "author": "katsuaki tanaka",
+        "title": "Reuse and Remix: Content Recomposition System based on Automatic Draft Generation",
+        "organization": "Saitama Institute of Technology",
+        "abstract": "In this paper, we propose a framework for content circulation. Reusing and remixing contents are keys to expressing activities. In our framework, a system supports decomposing and recomposing by automatic draft content generation. As a field test, we implemented the framework on a support system for a workshop, in which participants created contents based on a format of expression named photo-attached acrostics. Through observation of the practice, we concluded that our framework could help content recomposition. We think our framework is applicable to various manners of expressions like Web content creation.",
+        "email": "",
+        "conf": "Journal of Emerging Technologies in Web Intelligence",
+        "coauthors": [
+            "Kosuke Numa",
+            "Katsuaki Tanaka",
+            "Mina Akaishi",
+            "Koichi Hori"
+        ],
+        "keywords": "content recomposition, creative activity support, content circulation, automatic content generation, participatory workshop "
+    },
+    {
+        "id": 6837,
+        "label": 129,
+        "author": "katsuaki tanaka",
+        "title": "Activating Expression Life Cycle by Automatic Draft Generation and Interactive Creation",
+        "organization": "Saitama Institute of Technology",
+        "abstract": "In this research, we propose the expression life cycle model which consists of liquidization and crystallization of expressions. We believe that activating this cycle will enrich and widen our views of thinking and feeling. After providing a framework for activating the cycle by automatic draft generation and interactive creation processes, the preliminary practices and prototypes are introduced.",
+        "email": "",
+        "conf": "International Workshop on Recommendation and Collaboration (ReColl’08)",
+        "coauthors": [
+            "Kosuke Numa",
+            "Katsuaki Tanaka",
+            "Mina AKAISHI",
+            "Koichi Hori"
+        ],
+        "keywords": "Expression life cycle, liquidization and crystallization, creativity support, automatic draft generation, interactive, incremental creation"
+    }
+]

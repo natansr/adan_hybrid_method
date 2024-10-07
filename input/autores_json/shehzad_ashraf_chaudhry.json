@@ -1,0 +1,916 @@
+[
+    {
+        "id": 535,
+        "label": 11,
+        "author": "shehzad ashraf chaudhry",
+        "title": "An Improved and Secure Biometric Authentication Scheme for Telecare Medicine Information Systems Based on Elliptic Curve Cryptography",
+        "organization": "International Islamic University Islamabad",
+        "abstract": "Telecare medicine information system (TMIS) offers the patients convenient and expedite healthcare services remotely anywhere. Patient security and privacy has emerged as key issues during remote access because of underlying open architecture. An authentication scheme can verify patient’s as well as TMIS server’s legitimacy during remote healthcare services. To achieve security and privacy a number of authentication schemes have been proposed. Very recently Lu et al. (J. Med. Syst. 39(3):1–8, 2015) proposed a biometric based three factor authentication scheme for TMIS to confiscate the vulnerabilities of Arshad et al.’s (J. Med. Syst. 38(12):136, 2014) scheme. Further, they emphasized the robustness of their scheme against several attacks. However, in this paper we establish that Lu et al.’s scheme is vulnerable to numerous attacks including (1) Patient anonymity violation attack, (2) Patient impersonation attack, and (3) TMIS server impersonation attack. Furthermore, their scheme does not provide patient untraceability. We then, propose an improvement of Lu et al.’s scheme. We have analyzed the security of improved scheme using popular automated tool ProVerif. The proposed scheme while retaining the plusses of Lu et al.’s scheme is also robust against known attacks.",
+        "email": "shahzad@iiu.edu.pk",
+        "conf": "Journal of Medical Systems",
+        "coauthors": [
+            "Shehzad Ashraf Chaudhry",
+            "Khalid Mahmood",
+            "Syed Husnain Abbas Naqvi",
+            "Muhammad Khurram Khan"
+        ],
+        "keywords": "Three factor authentication, BioHashing, Elliptic curve cryptography, Impersonation attack, TMIS, ProVerif, Anonymity, Privacy"
+    },
+    {
+        "id": 520,
+        "label": 11,
+        "author": "shehzad ashraf chaudhry",
+        "title": "A provably secure anonymous authentication scheme for Session Initiation Protocol",
+        "organization": "International Islamic University Islamabad",
+        "abstract": "Recently, Lu et al. presented a mutual authentication scheme for Session Initiation Protocol. Lu et al. claimed their scheme provides safeguard against familiar attacks and offers efficient authentication facility. However, this paper divulges that the scheme of Lu et al. is prone to server and user impersonation attacks. Additionally, the scheme of Lu et al. implicates correctness concerns. Consequently, an enhanced scheme is proposed, not only to resolve correctness concerns but also to provide robustness against server and user impersonation attacks. The proposed scheme makes use of a user-specific secret parameter to deal with the security and correctness issues. The formal and informal security analysis proves the robustness and efficiency of the proposed scheme against all familiar attacks. Furthermore, security analysis is also substantiated through popular automated tool PROVERIF",
+        "email": "shahzad@iiu.edu.pk",
+        "conf": "Security and Communication Networks",
+        "coauthors": [
+            "Shehzad Ashraf Chaudhry",
+            "Imran Khan",
+            "Azeem Irshad",
+            "Muhammad Usman Ashraf",
+            "Muhammad Khurram Khan",
+            "Hafiz Farooq Ahmad"
+        ],
+        "keywords": "password; authentication; key agreement; provable security; impersonation attack; correctness; PROVERIF"
+    },
+    {
+        "id": 511,
+        "label": 11,
+        "author": "shehzad ashraf chaudhry",
+        "title": "Efficient end-to-end authentication protocol for wearable health monitoring systems",
+        "organization": "International Islamic University Islamabad",
+        "abstract": "Wearable health monitoring systems (WHMSs) will play an increasingly important role in future e-healthcare and enable smart and ubiquitous healthcare services. Given its sensitivity, the health data should be protected against unauthorized access. As a result, it is critical to design an end-to-end mutual authentication protocol that enables secure communication between the wearable sensor and medical professionals. Recently, Amin et al. proposed an anonymity preserving mutual authentication protocol for WHMSs. However, we identify that their protocol suffers from stolen mobile device attack, desynchronization attack, and sensor key exposure. Then we put forward an improved end-to-end authentication protocol based on quadratic residues. Comprehensive security analysis is conducted to show that the proposed protocol fixes these flaws of Amin et al.’s protocol and satisfies all desired requirements. The comparison with these existing protocols demonstrates that our protocol provides a practical end-to-end security solution for WHMSs.",
+        "email": "",
+        "conf": "Computers & Electrical Engineering",
+        "coauthors": [
+            "Qi Jiang",
+            "Jianfeng Ma",
+            "Chao Yang",
+            "Xindi Ma",
+            "Jian Shen",
+            "Shehzad Ashraf Chaudhry"
+        ],
+        "keywords": "Wearable health monitoring systems, Authentication, Key agreement, Privacy, Quadratic residues, Smart card"
+    },
+    {
+        "id": 546,
+        "label": 11,
+        "author": "shehzad ashraf chaudhry",
+        "title": "Structure modeling and mutational analysis of gap junction beta 2 (GJB2)",
+        "organization": "International Islamic University Islamabad",
+        "abstract": "The genome sequencing accomplishes complete genetic blue prints for hundreds of organisms, including humans. In the current era, we are trying to focus on analyzing, controlling and modifying functions of proteins encoded by these genomes. This task is attained by protein three dimensional structures. Three dimensional (3 D) structure is very useful for understanding biological functions. Gap junction beta 2 (GJB2), human gene encoding for gap junction beta 2 protein is involved in various hearing disorders in Pakistani families. After the first report of GJB2 involvement in Pakistani families, it was necessary to further study this protein. Therefore, a 3D structure of GJB2 was developed using comparative modeling approach. For modeling, a template was selected by blastp at NCBI and the best template selected was 2ZW3. By comparing the template-target sequence, a model was created using MODELLER, a program for homology modeling. The accuracy of the predicted structure was checked using Ramachandran plot which showed that the residue falling in the favored region was 92.4%. The predicted GJB2 model can be used to understand the defects that lead to deafness and eventually in drug designing. Domains and different properties of GJB2 were analyzed by applying online servers. Most frequent mutations of GJB2 were discussed by differentiating between damaging and benignity.",
+        "email": "",
+        "conf": "African Journal of Biotechnology",
+        "coauthors": [
+            "Samina Bilal",
+            "Hamid Rashid",
+            "Jabar Zaman Khan Khattak",
+            "Shehzad Ashraf Ch",
+            "Tahira Sultana",
+            "Asif Mir"
+        ],
+        "keywords": "GJB2, 3D structure, 2ZW3, DFNB1, MODELLER."
+    },
+    {
+        "id": 513,
+        "label": 11,
+        "author": "shehzad ashraf chaudhry",
+        "title": "An enhanced lightweight anonymous biometric based authentication scheme for TMIS",
+        "organization": "International Islamic University Islamabad",
+        "abstract": "In recent past, Mir and Nikooghadam presented an enhanced biometrics based authentication scheme using lightweight symmetric key primitives for telemedicine networks. This scheme was introduced in an anticipation to the former biometrics based authentication system proposed by Yan et al. Mir and Nikooghadam declared that their scheme is invincible against potential attacks while providing user anonymity. Our study and in-depth analysis unveil that Mir and Nikooghadam’s authentication scheme is susceptible to smart card stolen attack, moreover anonymity violation is still possible despite the claim of Mir and Nikooghadam. We have utilized the random oracle model in order to perform security analysis. The analysis endorses that the proposed scheme is robust enough to provide protection against all potential attacks specially smart card stolen attack and user anonymity violation attack. Analysis is further substantiated through an automated software application ProVerif. The analysis also shows that proposed scheme is computationally efficient than Mir and Nikooghadam’s scheme.",
+        "email": "shahzad@iiu.edu.pk",
+        "conf": "Multimedia Tools and Applications",
+        "coauthors": [
+            "Shehzad Ashraf Chaudhry",
+            "Husnain Naqvi",
+            "Muhammad Khurram Khan"
+        ],
+        "keywords": "Authentication, Key agreement, Biometrics, Smart card, Smart card stolen attack, Anonymity violation, ProVerif, Telemedicine"
+    },
+    {
+        "id": 537,
+        "label": 11,
+        "author": "shehzad ashraf chaudhry",
+        "title": "A secure and efficient authenticated encryption for electronic payment systems using elliptic curve cryptography",
+        "organization": "International Islamic University Islamabad",
+        "abstract": "The use of e-payment system for electronic trade is on its way to make daily life more easy and convenient. Contrarily, there are a number of security issues to be addressed, user anonymity and fair exchange have become important concerns along with authentication, confidentiality, integrity and non-repudiation. In a number of existing e-payment schemes, the customer pays for the product before acquiring it. Furthermore, many such schemes require very high computation and communication costs. To address such issues recently Yang et al. proposed an authenticated encryption scheme and an e-payment scheme based on their authenticated encryption. They excluded the need of digital signatures for authentication. Further they claimed their schemes to resist replay, man-in-middle, impersonation and identity theft attack while providing confidentiality, authenticity, integrity and privacy protection. However our analysis exposed that Yang et al.’s both authenticated encryption scheme and e-payment system are vulnerable to impersonation attack. An adversary just having knowledge of public parameters can easily masquerade as a legal user. Furthermore, we proposed improved authenticated encryption and e-payment schemes to overcome weaknesses of Yang et al.’s schemes. We prove the security of our schemes using automated tool ProVerif. The improved schemes are more robust and more lightweight than Yang et al.’s schemes which is evident from security and performance analysis.",
+        "email": "shahzad@iiu.edu.pk",
+        "conf": "Electronic Commerce Research",
+        "coauthors": [
+            "Shehzad Ashraf Chaudhry",
+            "Mohammad Sabzinejad Farash",
+            "Syed Husnain Abbas Naqvi",
+            "Muhammad Sher"
+        ],
+        "keywords": "Authenticated encryption,  E-payment system,  Elliptic curve cryptography,  Digital signature,  Signcryption,  ProVerif"
+    },
+    {
+        "id": 525,
+        "label": 11,
+        "author": "shehzad ashraf chaudhry",
+        "title": "A lightweight message authentication scheme for Smart Grid communications in power sector",
+        "organization": "International Islamic University Islamabad",
+        "abstract": "The Internet of Things (IoT) has plenty of applications including Smart Grid (SG). IoT enables smooth and efficient utilization of SG. It is assumed as the prevalent illustration of IoT at the moment. IP-based communication technologies are used for setting SG communication network, but they are challenged by huge volume of delay sensitive data and control information between consumers and utility providers. It is also challenged by numerous security attacks due to resource constraints in smart meters. Sundry schemes proposed for addressing these problems are inappropriate due to high communication, computation overhead and latency. In this paper, we propose a hybrid Diffie–Hellman based lightweight authentication scheme using AES and RSA for session key generation. To ensure message integrity, the advantages of hash based message authentication code are exploited. The scheme provides mutual authentication, thwarting replay and man-in-the-middle attacks and achieves message integrity, while reducing overall communication and computation overheads.",
+        "email": "shahzad@iiu.edu.pk",
+        "conf": "Computers & Electrical Engineering",
+        "coauthors": [
+            "Khalid Mahmood",
+            "Shehzad Ashraf Chaudhry",
+            "Husnain Naqvi",
+            "Taeshik Shon",
+            "Hafiz Farooq Ahmad"
+        ],
+        "keywords": "Authentication, Smart meter security, Lightweight cryptography, IoT, Smart Grid, ProVerif"
+    },
+    {
+        "id": 504,
+        "label": 11,
+        "author": "shehzad ashraf chaudhry",
+        "title": "A lightweight and secure two factor anonymous authentication protocol for Global Mobility Networks",
+        "organization": "International Islamic University Islamabad",
+        "abstract": "Global Mobility Networks(GLOMONETs) in wireless communication permits the global roaming services that enable a user to leverage the mobile services in any foreign country. Technological growth in wireless communication is also accompanied by new security threats and challenges. A threat-proof authentication protocol in wireless communication may overcome the security flaws by allowing only legitimate users to access a particular service. Recently, Lee et al. found Mun et al. scheme vulnerable to different attacks and proposed an advanced secure scheme to overcome the security flaws. However, this article points out that Lee et al. scheme lacks user anonymity, inefficient user authentication, vulnerable to replay and DoS attacks and Lack of local password verification. Furthermore, this article presents a more robust anonymous authentication scheme to handle the threats and challenges found in Lee et al.’s protocol. The proposed protocol is formally verified with an automated tool(ProVerif). The proposed protocol has superior efficiency in comparison to the existing protocols.",
+        "email": "",
+        "conf": "PLoS ONE",
+        "coauthors": [
+            "Ahmed Fraz Baig",
+            "Khwaja Mansoor ul Hassan",
+            "Anwar Ghani",
+            "Shehzad Ashraf Chaudhry",
+            "Imran Khan",
+            "Muhammad Usman Ashraf"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 527,
+        "label": 11,
+        "author": "shehzad ashraf chaudhry",
+        "title": "An improved Authentication Protocol for SIP-based VoIP",
+        "organization": "International Islamic University Islamabad",
+        "abstract": "The SIP being an application layer protocol for signaling has been considered as the most ppropriate one for multimedia applications. In order to detect some collisions and replay attacks, the SIP offers built-in authentication mechanism as per its specification, designated as HTTP digest based authentication, but study reveals that it is vulnerably susceptible to heterogeneous security issues such as impersonation attacks, man-in-the-middle attacks (MITM), server spoofing and password guessing attacks. Very recently Zhang et al. proposed symmetric key based anonymous authentication scheme for SIP. They claimed the scheme to provide privacy and anonymity, but the analysis in this paper expose that Zhang et al.’s scheme does not provide dynamic identity hence it is not anonymous. Furthermore, we proposed an improved anonymous authentication scheme for SIP. The scheme is more secure as compared with Zhang et al.’s scheme.",
+        "email": "shahzad@iiu.edu.pk",
+        "conf": "Conference on Recent Advances in Computer Systems",
+        "coauthors": [
+            "Husnain Naqvi",
+            "Shehzad Ashraf Chaudhry",
+            "Khalid Mahmood"
+        ],
+        "keywords": "VoIP, SIP, Authentication"
+    },
+    {
+        "id": 539,
+        "label": 11,
+        "author": "shehzad ashraf chaudhry",
+        "title": "An efficient signcryption scheme with forward secrecy and public verifiability based on hyper elliptic curve cryptography",
+        "organization": "International Islamic University Islamabad",
+        "abstract": "The need for Lightweight cryptography is on the rise as transition has been made from wired to wireless network. Wireless systems inherently are insecure and resource (power) constrained, to deal with these constraints, many techniques for symmetric and asymmetric cryptography are defined. One such important developement is Signcryption to achieve message confidentiality, integrity, sender and message authentication, non repudiation, forward secrecy as well as unforgeability,and public verifiability. Since Signcryption combines the signature and encryption therefore the cost is very less in comparison to those schemes based on the signature then encryption. Many signcryption schemes have been proposed based on El-Gamal, RSA and ECC till today. This paper highlights limitations of the existing ECC based schemes using signcryption. These limitations include some missing security aspects as well as high computation power requirement, more communication overhead incurred and large memory requirements. Further it proposes an efficient lightweight signcryption scheme based on HECC which fulfills all the security requirements. The scheme reduced significant amounts of computation, communication costs and message size as compared to existing signcryption schemes making it the good candidate for environments suffer from the resource limitation problems.",
+        "email": "shahzad@iiu.edu.pk",
+        "conf": "Multimedia Tools and Applications",
+        "coauthors": [
+            "Shehzad Ashraf Chaudhry",
+            "Nizamud Din",
+            "Muhammad Sher",
+            "Anwar Ghani",
+            "Husnain Naqvi",
+            "Azeem Irshad"
+        ],
+        "keywords": "Hyperelliptic curve cryptosystem, Lightweight cryptography, ECC, HECC, Signcryption, Public verifiability, Authentication, Forward secrecy"
+    },
+    {
+        "id": 519,
+        "label": 11,
+        "author": "shehzad ashraf chaudhry",
+        "title": "An anonymous and provably secure biometric-based authentication scheme using chaotic maps for accessing medical drop box data",
+        "organization": "International Islamic University Islamabad",
+        "abstract": "Telecare medicine information systems (TMISs) provides a platform to the participating medical entities to share medical data over an insecure public channel. Medical drop box (MDB) is used for the said purpose, where electronic health record (EHR) is maintained for national health information exchange (NHIX). EHR is a crucial part of MDB. Therefore, the main challenge in NHIX is to restrict MDB access to only the authenticated entities. Very Recently, Moon et al. introduced a biometrics-based authentication scheme using chaotic maps for TMISs. The authors claimed that their scheme is efficient and robust in terms of its usage and implementation. However, this paper unveils that due to storage of verifier table on server, their scheme is having scalability and efficiency issues. Furthermore, the use of the same parameters IM1IM1 and IM2IM2 during different login requests makes the scheme traceable. Therefore, an improved scheme using chaotic maps has been proposed in this paper, which provides user anonymity and untraceability along with computational efficiency. The security of the proposed scheme is evaluated in detail through the random oracle model. The analysis reveals that the proposed scheme is robust and secure against the known attacks. Moreover, analysis is further verified through popular automated tool ProVerif.",
+        "email": "shahzad@iiu.edu.pk",
+        "conf": "The Journal of Supercomputing",
+        "coauthors": [
+            "Imran Khan",
+            "Shehzad Ashraf Chaudhry",
+            "Muhammad Sher",
+            "Javed I. Khan",
+            "Muhammad Khurram Khan"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 533,
+        "label": 11,
+        "author": "shehzad ashraf chaudhry",
+        "title": "An improved smart card based authentication scheme for session initiation protocol",
+        "organization": "International Islamic University Islamabad",
+        "abstract": "Sessioninitiation protocol (SIP) reformed the controlling routine of voice over Internet Protocol based communication over public channels. SIP is inherently insecure because of underlying open text architecture. A number of solutions are proposed to boost SIP security. Very recently Farash (Peer to Peer Netw. Appl. 1–10, 2014) proposed an enhanced protocol to improve the security of Tu et al.’s protocol (Peer to Peer Netw. Appl. 1–8, 2014). Further, Farash claimed his protocol to be secure against all known attacks. However, in this paper we show that Farash’s protocol is insecure against impersonation attack, password guessing attack, lacks user anonymity and is vulnerable to session-specific temporary information attack. Further, we have proposed an upgraded protocol to enhance the security. The security and performance analysis shows that the proposed protocol reduced one point multiplication as compared with Farash’s protocol, while resisting all known attacks. We have proved the security of proposed protocol using automated tool ProVerif.",
+        "email": "shahzad@iiu.edu.pk",
+        "conf": "Peer-to-Peer Networking and Applications",
+        "coauthors": [
+            "Saru Kumari",
+            "Shehzad Ashraf Chaudhry",
+            "Fan Wu",
+            "Xiong Li",
+            "Mohammad Sabzinejad Farash",
+            "Mohammad Khurram Khan"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 548,
+        "label": 11,
+        "author": "shehzad ashraf chaudhry",
+        "title": "Secure Mechanism for Handling Targeted Attacks in Infrastructure Based Wireless Mesh Networks",
+        "organization": "International Islamic University Islamabad",
+        "abstract": "Infrastructure based Wireless mesh networks allow heterogeneous types of networks to be connected at a time through wireless mesh routers. Since the nodes of every network have different processing power, bandwidth, amount of energy etc. so this situation can lead to targeted attacks. An Internet connected node can easily generate flood over a node of sensor network. So to handle these types of attacks we in this paper introduced a new secure authentication mechanism that works when a potential of attack is detected. Moreover we also authorized the nodes of the wireless mesh network to demand data according to their capacity by using pull data traffic control mechanism. We applied this solution first on mesh routers to discourage targeted attacks and secondly we applied the solution on an individual node that lies in between a node and mesh router.",
+        "email": "",
+        "conf": "International Conference on Information Security and Assurance",
+        "coauthors": [
+            "Rehan Shafi",
+            "Aneel Rahim",
+            "Fahad Bin Muhaya",
+            "Shehzad Ashraf",
+            "Muhammad Sher"
+        ],
+        "keywords": "Wireless Mesh Network, Pull Data Traffic Control Mechanism, Authentication, Flooding "
+    },
+    {
+        "id": 547,
+        "label": 11,
+        "author": "shehzad ashraf chaudhry",
+        "title": "Efficient signcryption schemes based on Hyperelliptic curve cryptosystem",
+        "organization": "International Islamic University Islamabad",
+        "abstract": "Securing data over wireless medium got significant importance because of inherent problems of power, memory and processing constraints. Hyper elliptic curve cryptosystem (HECC) is an emerging public key cryptosystem suitable for such resource constrained environment due to its high efficiency and shorter key size, HECC can be used for digital signatures and encryption to provide confidentiality and authenticity. In this paper, we proposed a resource efficient signcryption schemes based on Hyperelliptic curve cryptosystem. Compared with existing schemes our proposed scheme can save up to 40% computational cost and a minimum of 40% of Communication Overhead.",
+        "email": "shahzad@iiu.edu.pk",
+        "conf": "International Conference on Emerging Technologies. IEEE",
+        "coauthors": [
+            "Nizamud Din",
+            "Shehzad Ashraf Chaudhry",
+            "Waqas Nasar",
+            "Qaisar Javaid"
+        ],
+        "keywords": "Hyperelliptic curve cryptosystem,Jacobian group,genus,Signcryption,formatting,style,styling,insert (key words)"
+    },
+    {
+        "id": 545,
+        "label": 11,
+        "author": "shehzad ashraf chaudhry",
+        "title": "Ensuring Minimal Communication Overhead in Low Bandwidth Network File",
+        "organization": "International Islamic University Islamabad",
+        "abstract": "All wireless networks are resource constrained, the battery power, memory and bandwidth are main constraints along with security of information in wireless networks. Running of ordinary file systems on such wireless networks can result in short battery life and bandwidth dilemma for large file sharing, which results in high latency and unbearable delays which user do not consider while working on wireless networks, also the security is second main issue in wireless networks as any false node can inject his packet or private information can be divulged to someone who is not intended, so there is paramount need of an efficient and secure file system for wireless networks. The paper describes the need of secure and bandwidth efficient file system for wireless networks and also proposes a file system which is secure and bandwidth efficient and can become a part and parcel of wireless networks. Simulation results are evident of the performance achieved for our proposed scheme. Proposed methodology can save maximum bandwidth by taking advantage of cross file commonalities, in best case analysis it will just transmit a packet containing just hash tree.",
+        "email": "",
+        "conf": "Computer Science and its Applications",
+        "coauthors": [
+            "Muhammad Ahsan Habib",
+            "Waqas Nasar",
+            "Shehzad Ashraf Chaudhry",
+            "Ahsan Jamal Khan"
+        ],
+        "keywords": "NFS, Hash tree, Cross file commonalities "
+    },
+    {
+        "id": 528,
+        "label": 11,
+        "author": "shehzad ashraf chaudhry",
+        "title": "An improved and robust biometrics-based three factor authentication scheme for multiserver environments",
+        "organization": "International Islamic University Islamabad",
+        "abstract": "The rapid advancement in communication technologies enables remote users to acquire a number of online services. All such online services are provided remotely facilitating the users to freely move any where with out disruption of the services. In order to ensure seamless and secure services to the remote user such services espouse authentication protocols. A number of authentication protocols are readily available to achieve security and privacy in remote client server architecture. Most of these schemes are tailored for single server architecture. In such scenario, if a user wants to attain the services provided by more than one servers he has to register with each server. In recent times, multiserver authentication has got much attention, where a user can register once and then can acquire services provided by multiple servers. Very recently, Lu et al. proposed a biometric, smart card and password-based three factor authentication scheme usable for multiserver environments. Furthermore, Lu et al. identified their scheme to resist known attacks. However, the analysis in this paper ascertains that Lu et al.’s scheme is vulnerable to impersonation attack. An adversary registered to the system just after knowing the public identity of a user can impersonate himself as the latter. Then we propose an improvement over Lu et al.’s scheme. Our improvement is more robust than the existing schemes. The security of proposed scheme is substantiated formally along with informal security discussion, while same is also validated using a popular automated tool ProVerif. The analysis confirms that proposed scheme achieves mutual authentication and is robust against known attacks. In addition, the proposed scheme does not incur any extra computation as compared with Lu et al.’s scheme.",
+        "email": "shahzad@iiu.edu.pk",
+        "conf": "The Journal of Supercomputing",
+        "coauthors": [
+            "Shehzad Ashraf Chaudhry",
+            "Husnain Naqvi",
+            "Mohammad Sabzinejad Farash",
+            "Taeshik Shon",
+            "Muhammad Sher"
+        ],
+        "keywords": "Biometrics, Authentication, Multiserver, Impersonation attack, Smartcard stolen attack, Anonymity, ProVerif"
+    },
+    {
+        "id": 523,
+        "label": 11,
+        "author": "shehzad ashraf chaudhry",
+        "title": "A Provably Secure RFID Authentication Protocol Based on Elliptic Curve for Healthcare Environments",
+        "organization": "International Islamic University Islamabad",
+        "abstract": "To enhance the quality of healthcare in the management of chronic disease, telecare medical information systems have increasingly been used. Very recently, Zhang and Qi (J. Med. Syst. 38(5):47, 32), and Zhao (J. Med. Syst. 38(5):46, 33) separately proposed two authentication schemes for telecare medical information systems using radio frequency identification (RFID) technology. They claimed that their protocols achieve all security requirements including forward secrecy. However, this paper demonstrates that both Zhang and Qi’s scheme, and Zhao’s scheme could not provide forward secrecy. To augment the security, we propose an efficient RFID authentication scheme using elliptic curves for healthcare environments. The proposed RFID scheme is secure under common random oracle model.",
+        "email": "shahzad@iiu.edu.pk",
+        "conf": "Journal of Medical Systems",
+        "coauthors": [
+            "Mohammad Sabzinejad Farash",
+            "Omer Nawaz",
+            "Khalid Mahmood",
+            "Shehzad Ashraf Chaudhry",
+            "Muhammad Khurram Khan"
+        ],
+        "keywords": "Telecare medical information systems, RFID, Elliptic curve, Authentication, Untraceable privacy, Random oracle model"
+    },
+    {
+        "id": 524,
+        "label": 11,
+        "author": "shehzad ashraf chaudhry",
+        "title": "An efficient and anonymous multi-server authenticated key agreement based on chaotic map without engaging Registration Centre",
+        "organization": "International Islamic University Islamabad",
+        "abstract": "Multi-server authentication (MSA) enables the user to avail multiple services permitted from various servers out of a single registration through registration centre. Earlier, through single-server authentication, a user had to register all servers individually for availing the respective services. In the last few years, many MSA-based schemes have been presented; however, most of these suffer communication overhead cost due to the Registration Centre (RC) involvement in every mutual authentication session. In voice communication this round-trip latency becomes even more noticeable. Hence, the focus of the protocols design has been shifted towards light-weight cryptographic techniques such as Chebyshev chaotic map technique (CCM). We have reviewed few latest MSA-related schemes based on CCM and elliptic curve cryptography (ECC) as well. Based on these limitations and considerations, we have proposed a single-round trip MSA protocol based on CCM technique that foregoes the RC involvement during mutual authentication. Our study work is cost efficient in terms of communication delay and computation, and provides enhanced security by the use of public key cryptosystem. The proposed scheme is duly backed by formal security analysis and performance evaluation.",
+        "email": "shahzad@iiu.edu.pk",
+        "conf": "The Journal of Supercomputing",
+        "coauthors": [
+            "Azeem Irshad",
+            "Muhammad Sher",
+            "Shehzad Ashraf Chaudhry",
+            "Husnain Naqvi",
+            "Mohammad Sabzinejad Farash"
+        ],
+        "keywords": "Multi-server authentication, Chebyshev chaotic map, Registration centre, Authentication key agreement"
+    },
+    {
+        "id": 505,
+        "label": 11,
+        "author": "shehzad ashraf chaudhry",
+        "title": "Cryptanalysis and improvement of a Multi-server Authentication protocol by Lu et al",
+        "organization": "International Islamic University Islamabad",
+        "abstract": "The increasing number of subscribers and demand of multiplicity of services has turned Multi-Server Authentication (MSA) into an integral part of remote authentication paradigm. MSA not only offers an efficient mode to register the users by engaging a trusted third party (Registration Centre), but also a cost-effective architecture for service procurement, onwards. Recently, Lu et al.’s scheme demonstrated that Mishra et al.’s scheme is unguarded to perfect forward secrecy compromise, server masquerading, and forgery attacks, and presented a better scheme. However, we discovered that Lu et al.’s scheme is still susceptible to malicious insider attack and non-compliant to perfect forward secrecy. This study presents a critical review on Lu et al.’s scheme and then proposes a secure multi-server authentication scheme. The security properties of contributed work are validated with automated Proverif tool and proved under formal security analysis.",
+        "email": "shahzad@iiu.edu.pk",
+        "conf": "KSII Transactions on Internet and Information Systems",
+        "coauthors": [
+            "Azeem Irshad",
+            "Muhammad Sher",
+            "Bander A Alzahrani",
+            "Aiiad Albeshri",
+            "Shehzad Ashraf Chaudhry",
+            "Saru Kumari"
+        ],
+        "keywords": "Multi-server authentication, remote authentication, biometrics, cryptanalysis"
+    },
+    {
+        "id": 544,
+        "label": 11,
+        "author": "shehzad ashraf chaudhry",
+        "title": "Public Verifiable Signcryption Schemes with Forward Secrecy Based on Hyperelliptic Curve Cryptosystem",
+        "organization": "International Islamic University Islamabad",
+        "abstract": "Signcryption is a process of combining encryption and signature into a single logical step. Traditional signcryption schemes provide message confidentiality and sender authentication, sender authentication can only be provided after unsigncryption of signcrypted text, so the third part can only verify the sender after breaching the confidentiality. In public verifiable signcryption schemes a third party or judge can verify authenticity of sender without breaching the confidentiality and without knowing the receiver private key, the judge just needs the signcrypted text and some additional parameters. In this paper, we proposed a resource efficient Hyperelliptic curve cryptosystem based signcryption schemes to provide message confidentiality, authentication, integrity, unforgeability, non-repudiation, along with forward secrecy and public verifiability. In case of dispute the judge can verify signcrypted text directly without sender/receiver private parameters. Our schemes are resource efficient and can be applied to any resource constrained environments.",
+        "email": "",
+        "conf": "International Conference on Information Systems, Technology and Management",
+        "coauthors": [
+            "Shehzad Ashraf Chaudhry",
+            "Nizamuddin",
+            "Muhammad Sher"
+        ],
+        "keywords": "Hyperelliptic curve cryptosystem, Jacobian group, genus, Signcryption, Public Verifiability, Forward Secrecy "
+    },
+    {
+        "id": 508,
+        "label": 11,
+        "author": "shehzad ashraf chaudhry",
+        "title": "An improved anonymous authentication scheme for distributed mobile cloud computing services",
+        "organization": "International Islamic University Islamabad",
+        "abstract": "Mobile cloud computing blend mobile and cloud computing together with the help of wireless communication technology to achieve benefits for the stakeholders. These stakeholders include mobile users, mobile service operators and cloud service providers. Assorted challenges are also there for the implementation of mobile cloud computing but security and privacy are the dominant concerns. In order to achieve security and privacy of the said system several attempts are taken up. As the underlying system is complex and more prone against security threats, therefore strong authentication and privacy preserving schemes are desired. Three factor biometrics based authentication schemes are considered more secure for such huge and complex systems. Moreover, computational intelligence is getting popular nowadays for designing more vigorous and reliable biometrics based authentication schemes. Very recently, Tsai and Lo proposed an identity based authentication scheme for distributed mobile cloud computing environments. They claimed to achieve single sign on authentication for multiple service providers. Furthermore, they emphasized the usefulness and security of their scheme. However, the analysis in this paper shows that Tsai and Lo’s scheme is insecure against server forgery attack. It is proved that any adversaries having knowledge of just public parameters can forge as a valid service provider. Then an improved scheme is proposed to mitigate the security weakness. The security of proposed scheme is instantiated under random oracle model as well as the protocol validation model of popular automated tool ProVerif.",
+        "email": "",
+        "conf": "Cluster Computing",
+        "coauthors": [
+            "Shehzad Ashraf Chaudhry",
+            "I Luk Kim",
+            "Seungmin Rho",
+            "Mohammad Sabzinejad Farash",
+            "Taeshik Shon"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 529,
+        "label": 11,
+        "author": "shehzad ashraf chaudhry",
+        "title": "A Robust and Efficient Privacy Aware Handover Authentication Scheme for Wireless Networks",
+        "organization": "International Islamic University Islamabad",
+        "abstract": "A handover authentication protocol ensures secure and seamless roaming over multiple access points. A number of such protocols are proposed, but most of these protocols are inefficient or insecure. Very recently, Li et al. (Wireless Pers Commun 80(2):581–589, 2015) proposed a privacy-aware handover authentication protocol, and claimed their protocol to be more lightweight and secure than existing protocols. However, our analysis identifies that Li et al.’s protocol is insecure against access point impersonation attack. As a remedy, we proposed an improved protocol to fix the security weakness of Li et al.’s protocol. The improved protocol achieves the provable security in the random oracle model against the hardness assumptions of the elliptic curve discrete logarithm problem and elliptic curve computational Diffie–Hellman problem. The proposed handover authentication protocol is also formally analyzed with the automated tool ProVerif. The improved protocol not only enhances the security but is more lightweight than other related protocols.",
+        "email": "shahzad@iiu.edu.pk",
+        "conf": "Wireless Personal Communications",
+        "coauthors": [
+            "Shehzad Ashraf Chaudhry",
+            "Mohammad Sabzinejad Farash",
+            "Syed Husnain Abbas Naqvi",
+            "SK Hafizul Islam",
+            "Taeshik Shon"
+        ],
+        "keywords": "Handover authentication,  Elliptic curve cryptography,  Impersonation attack,  Random oracle model,  ProVerif"
+    },
+    {
+        "id": 502,
+        "label": 11,
+        "author": "shehzad ashraf chaudhry",
+        "title": "An Anonymous and Efficient Multiserver Authenticated Key Agreement With Offline Registration Centre",
+        "organization": "International Islamic University Islamabad",
+        "abstract": "Multiserver authentication (MSA) architecture permits its registered users to get the services of various service providers without performing separate registrations with each server. Since, a single registration from registration authority, a trusted third party, is sufficient to get mutually authenticated with service providers, onwards. In this paper, we have emphasized only on the MSA-based schemes that do not require online registration authority for mutual authentication. While, considering those MSA schemes, to date, there is no secure and efficient MSA protocol in our observation that is free of all four limitations at the same time, such as 1) free of the hassle of storage of server-based parameters in users' smart card by registration authority, 2) free of the transmission of user-based identities to all servers in a network, 3) free of a single secret key distribution to all servers as assumed in a trusted system, and 4) free from employing costly bilinear pairing operations. In view of those shortcomings, we present an anonymous MSA protocol that nearly counters all those problems using elliptic curve cryptography and escaping costly pairing operations. Our scheme also demonstrates the scheme's robustness using formal security analysis employing random oracle model and automated tool analysis",
+        "email": "shahzad@iiu.edu.pk",
+        "conf": "IEEE Systems Journal",
+        "coauthors": [
+            "Azeem Irshad",
+            "Shehzad Ashraf Chaudhry",
+            "Muhammad Sher",
+            "Bander A. Alzahrani",
+            "Saru Kumari",
+            "Xiong Li",
+            "Fan Wu"
+        ],
+        "keywords": "Attacks,cryptanalysis,multiserver authentication (MSA),registration centre,security,trusted third party"
+    },
+    {
+        "id": 510,
+        "label": 11,
+        "author": "shehzad ashraf chaudhry",
+        "title": "An elliptic curve cryptography based lightweight authentication scheme for smart grid communication",
+        "organization": "International Islamic University Islamabad",
+        "abstract": "An evolved grid system, Smart Grid, enables appropriate adjustments in the amount of electricity generation by providing the capability to monitor the consumption behavior of customers. This advance grid system can help to promote cultural heritage because it is responsible to provide un-interruptible and reliable power supply in smart way. Smart grid is one of the key component for enabling smart cities and obviously, any city with more smart amenities will ultimately attract visitors to come and visit rich heritage. In smart grid, Supervisory Control and Data Acquisition (SCDA) system is responsible for keeping the underlying communication secure between substations and corresponding control center. While communication between customers and substations needs more enhancements as the existing protocols do not meet the comprehensive security requirements of smart grid. Due to the complex nature of smart grid and diverse security requirements, designing a suitable authentication scheme is a challenging task. For delay sensitive networks like smart grid, an ideal authentication scheme should withstand against all known security attacks, involving lightweight operations with trivial computations. ECC provides same security level with much less key sizes as compared with other security techniques such as RSA, DSA and DH. Keeping in mind the complex and delay sensitive nature of smart grid, a lightweight ECC based authentication scheme is proposed here. The proposed scheme not only provides mutual authentication with low computation and communication cost but also withstand against all known security attacks.",
+        "email": "",
+        "conf": "Future Generation Computer Systems",
+        "coauthors": [
+            "Khalid Mahmood",
+            "Shehzad Ashraf Chaudhry",
+            "Husnain Naqvi",
+            "Saru Kumari",
+            "Xiong Li",
+            "Arun Kumar Sangaiah"
+        ],
+        "keywords": "Smart grid, Authentication, Elliptic curve cryptography, Lightweight cryptography, BAN logic, ProVerif"
+    },
+    {
+        "id": 532,
+        "label": 11,
+        "author": "shehzad ashraf chaudhry",
+        "title": "A Secure Authentication Scheme for Session Initiation Protocol Based on Elliptic Curve Cryptography",
+        "organization": "International Islamic University Islamabad",
+        "abstract": "In 2014, Tu et al. proposed an authentication scheme for session initiation protocol. Very soon Farash realized that Tu et al.'s scheme can not resist server forgery attack, then Farash proposed an improved protocol. However in this paper, we show that Tu et al.'s scheme can not resist server forgery attack as well as strong replay and denial of services attack. Furthermore, we show that Farash's improved scheme can not resists strong replay and denial of services attack. Then we propose an improved and robust scheme. The improved scheme while resisting forgery and related attacks do not make any extra computation as compared Tu et al. and Farash's schemes.",
+        "email": "shahzad@iiu.edu.pk",
+        "conf": "Pervasive Intelligence and Computing. IEEE",
+        "coauthors": [
+            "Shehzad Ashraf Chaudhry",
+            "Khalid Mahmood",
+            "Husnain Naqvi",
+            "Muhammad Sher"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 507,
+        "label": 11,
+        "author": "shehzad ashraf chaudhry",
+        "title": "An Enhanced and Provably Secure Chaotic Map-Based Authenticated Key Agreement in Multi-Server Architecture",
+        "organization": "International Islamic University Islamabad",
+        "abstract": "In the multi-server authentication (MSA) paradigm, a subscriber might avail multiple services of different service providers, after registering from registration authority. In this approach, the user has to remember only a single password for all service providers, and servers are relieved of individualized registrations. Many MSA-related schemes have been presented so far, however with several drawbacks. In this connection, recently Li et al. in Wirel. Pers. Commun., (2016). doi:10.1007/s11277-016-3293-x presented a chaotic map-based multi-server authentication scheme. However, we observed that Li et al. suffer from malicious server insider attack, stolen smart card attack, and session-specific temporary information attack. This research work is based on improving security of Li et al.’s protocol in minimum possible computation cost. We also evaluate the security for the contributed work which is provable under formal security analysis employing random oracle model and BAN Logic.",
+        "email": "",
+        "conf": "Arabian Journal for Science and Engineering",
+        "coauthors": [
+            "Azeem Irshad",
+            "Shehzad Ashraf Chaudhry",
+            "Qi Xie",
+            "Xiong Li",
+            "Mohammad Sabzinejad Farash",
+            "Saru Kumari",
+            "Fan Wu"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 521,
+        "label": 11,
+        "author": "shehzad ashraf chaudhry",
+        "title": "An Improved Remote User Authentication Scheme Using Elliptic Curve Cryptography",
+        "organization": "International Islamic University Islamabad",
+        "abstract": "Internet of Things has drastically expanded the global network for information exchange, because thousands of communication devices are becoming part of the global network. Besides the numerous benefits of global network expansion, secure communication and authentication among the comprising elements of the global network is also posing great challenges. Recently, Huang et al. proposed a key agreement scheme in order to facilitate user authenticity using elliptic curve cryptography. Huang et al. further emphasized the scheme is secure. Nevertheless, comprehensive analysis in this paper, demonstrates that Huang et al. scheme has correctness issues and is prone to impersonation/forgery attack. Then an improved scheme is presented to tenacity the said glitches existent in Huang et al.’s scheme. The security analysis of proposed scheme is substantiated in random oracle model. Furthermore, a simulation of proposed scheme is carried out by automated formal tool ProVerif. The performance and security assessments show that the scheme presented in this paper withstand impersonation attack and offers adequate security while reducing significant computation cost as compared with Huang et al.’s scheme. Hence, due to better performance and security, the proposed scheme is the appropriate one for security sensitive and resource constrained environments.",
+        "email": "shahzad@iiu.edu.pk",
+        "conf": "Wireless Personal Communications",
+        "coauthors": [
+            "Shehzad Ashraf Chaudhry",
+            "Husnain Naqvi",
+            "Khalid Mahmood",
+            "Hafiz Farooq Ahmad",
+            "Muhammad Khurram Khan"
+        ],
+        "keywords": "Biometrics, Authentication, Forgery attack, Anonymity, ECC, ProVerif, Random oracle"
+    },
+    {
+        "id": 515,
+        "label": 11,
+        "author": "shehzad ashraf chaudhry",
+        "title": "An improved Multi-server Authentication Scheme for Distributed Mobile Cloud Computing Services",
+        "organization": "International Islamic University Islamabad",
+        "abstract": "Mobile cloud computing (MCC) has revolutionized the way in which the services can be obtained from the cloud service providers. Manifold increase in the number of mobile devices and subscribers in MCC has further enhanced the need of an efficient and robust authentication solution. Earlier, the subscribers could get cloud-computing services from the cloud service providers only after having consulted the trusted third party. Recently, Tsai and Lo has proposed a multi-server authenticated key agreement solution for MCC based on bilinear pairing, to eliminate the trusted third party for mutual authentication. The scheme has been novel as far as the minimization of trusted party involvement in authenticating the user and service provider, is concerned. However, the Tsai and Lo scheme has been found vulnerable to server spoofing attack (misrepresentation attack), de-synchronization attack and denial-of-service attack, which renders the scheme unsuitable for practical deployment in different wireless mobile access networks. Therefore, we have proposed an improved model based on bilinear pairing, countering the identified threats posed to Tsai and Lo scheme. Besides, the proposed work also demonstrates performance evaluation and formal security analysis.",
+        "email": "shahzad@iiu.edu.pk",
+        "conf": "KSII Transactions on Internet and Information Systems",
+        "coauthors": [
+            "Azeem Irshad",
+            "Muhammad Sher",
+            "Hafiz Farooq Ahmad",
+            "Bander A. Alzahrani",
+            "Shehzad Ashraf Chaudhry",
+            "Rahul Kumar"
+        ],
+        "keywords": "Multi-server authentication, mobile cloud computing, trusted third party, attacks, cryptanalysis"
+    },
+    {
+        "id": 536,
+        "label": 11,
+        "author": "shehzad ashraf chaudhry",
+        "title": "A lightweight anonymous authentication scheme for consumer roaming in ubiquitous networks with provable security",
+        "organization": "International Islamic University Islamabad",
+        "abstract": "Ubiquitous networks enable mobile users to communicate with each other efficiently and independently without the need of inventing agent. This approach is proved to be delay and spectral efficient. Due to the nature of underlying Big data, such networks are prone to several security and privacy challenges. Because such gigantic data is not only difficult to store, maintain and manipulate but Big data’s open architecture makes the security threats inevitable. Therefore, incorporating authentication between mobile node and foreign network during roaming in ubiquitous networks has become a tedious task. Very recently, Farash et al. found a number of weaknesses in the schemes proposed by Wen et al. and Shin et al. Furthermore, Farash et al. proposed an enhanced scheme for roaming user in ubiquitous network. However, after thorough investigation, we show fragilities of Farash et al.’s scheme against (1) mobile user anonymity violation; (2) disclosure of secret parameter of mobile node; (3) session key disclosure; and (4) mobile node impersonation attacks. Therefore, we propose an improved scheme to fix these fragilities. We analyze the security of proposed scheme using popular automated verification tool ProVerif. The analysis confirms that the proposed scheme resists the known attacks while having quite low overhead as compared with Farash et al.’s scheme. Therefore, in order to get better performance proposed scheme is a suitable candidate to be employed along with supercomputing systems for dealing the security challenges of big data in ubiquitous networks.",
+        "email": "shahzad@iiu.edu.pk",
+        "conf": "International Journal of Communication Systems",
+        "coauthors": [
+            "Mohammad Sabzinejad Farash",
+            "Shehzad Ashraf Chaudhry",
+            "Mohammad Heydari",
+            "S. Mohammad Sajad Sadough",
+            "Saru Kumari",
+            "Muhammad Khurram Khan"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 531,
+        "label": 11,
+        "author": "shehzad ashraf chaudhry",
+        "title": "Cryptanalysis and Improvement of \"A Secure Password Authentication Mechanism for Seamless Handover in Proxy Mobile IPv6 Networks\"",
+        "organization": "International Islamic University Islamabad",
+        "abstract": "Proxy Mobile IPv6 is a network-based localized mobility management protocol that supports mobility without mobile nodes’ participation in mobility signaling. The details of user authentication procedure are not specified in this standard, hence, many authentication schemes have been proposed for this standard. In 2013, Chuang et al., proposed an authentication method for PMIPv6, called SPAM. However, Chuang et al.’s Scheme protects the network against some security attacks, but it is still vulnerable to impersonation and password guessing attacks. In addition, we discuss other security drawbacks such as lack of revocation procedure in case of loss or stolen device, and anonymity issues of the Chuang et al.’s scheme. We further propose an enhanced authentication method to mitigate the security issues of SPAM method and evaluate our scheme using BAN logic.",
+        "email": "",
+        "conf": "PLoS ONE",
+        "coauthors": [
+            "Mojtaba Alizadeh",
+            "Mazdak Zamani",
+            "Sabariah Baharun",
+            "Azizah Abdul Manaf",
+            "Kouichi Sakurai",
+            "Hiroki Anada",
+            "Hassan Keshavarz",
+            "Shehzad Ashraf Chaudhry",
+            "Muhammad Khurram Khan"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 509,
+        "label": 11,
+        "author": "shehzad ashraf chaudhry",
+        "title": "An Improved SIP Authentication Scheme Based on Server-Oriented Biometric Verification",
+        "organization": "International Islamic University Islamabad",
+        "abstract": "The Session Initiation Protocol (SIP) provides a way to control the wired and wireless Voice over Internet Protocol-based communication over an insecure channel. The SIP protocol is not secure due to relying on an intrinsically open text-based communication, which further stresses the strengthening of SIP authentication protocols. Many solutions have been put forward in the last few years to design the secure and efficient SIP authentication protocols for multimedia. Recently, Zhang et al. proposed a SIP authentication protocol with an enhanced feature that enables the server authenticate the users on the basis of biometric verification. However, after a careful observation, one can witness few limitations regarding privileged insider attack, session specific temporary attack, De-synchronization attack; denial-of-service attack, inefficient password modification and lack forward secrecy compromise. We have proposed a secure scheme countering the identified flaws of Zhang et al. and other contemporary schemes. We also demonstrate the security strength of proposed scheme by employing the formal security analysis under BAN logic.",
+        "email": "",
+        "conf": "Wireless Personal Communications",
+        "coauthors": [
+            "Azeem Irshad",
+            "Saru Kumari",
+            "Xiong Li",
+            "Fan Wu",
+            "Shehzad Ashraf Chaudhry",
+            "Hamed Arshad"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 538,
+        "label": 11,
+        "author": "shehzad ashraf chaudhry",
+        "title": "An enhanced privacy preserving remote user authentication scheme with provable security",
+        "organization": "International Islamic University Islamabad",
+        "abstract": "Very recently, Kumari et al. proposed a symmetric key and smart card‐based remote user password authentication scheme to enhance Chung et al.'s scheme. They claimed their enhanced scheme to provide anonymity while resisting all known attacks. In this paper, we analyze that Kumari et al.'s scheme is still vulnerable to anonymity violation attack as well as smart card stolen attack. Then we propose a supplemented scheme to overcome security weaknesses of Kumari et al.'s scheme. We have analyzed the security of the proposed scheme in random oracle model which confirms the robustness of the scheme against all known attacks. We have also verified the security of our scheme using automated tool ProVerif",
+        "email": "shahzad@iiu.edu.pk",
+        "conf": "Security and Communication Networks",
+        "coauthors": [
+            "Shehzad Ashraf Chaudhry",
+            "Mohammad Sabzinejad Farash",
+            "Syed Husnain Abbas Naqvi",
+            "Saru Kumari",
+            "Muhammad Khurram Khan"
+        ],
+        "keywords": "authentication; provable security; symmetric key cryptography; smart card stolen attack; anonymity violation; ProVerif"
+    },
+    {
+        "id": 541,
+        "label": 11,
+        "author": "shehzad ashraf chaudhry",
+        "title": "A single round-trip SIP authentication scheme for Voice over Internet Protocol using smart card",
+        "organization": "International Islamic University Islamabad",
+        "abstract": "The Session Initiation Protocol (SIP) has revolutionized the way of controlling Voice over Internet Protocol (VoIP) based communication sessions over an open channel. The SIP protocol is insecure for being an open text-based protocol inherently. Different solutions have been presented in the last decade to secure the protocol. Recently, Zhang et al. authentication protocol has been proposed with a sound feature that authenticates the users without any password-verifier database using smart card. However, the scheme has a few limitations and can be made more secure and optimized regarding cost of exchanged messages, with a few modifications. Our proposed key-agreement protocol makes a use of two server secrets for robustness and is also capable of authenticating the involved parties in a single round-trip of exchanged messages. The server can now authenticate the user on the request message received, rather than the response received upon sending the challenge message, saving another round-trip of exchanged messages and hence escapes a possible denial of service attack.",
+        "email": "shahzad@iiu.edu.pk",
+        "conf": "Multimedia Tools and Applications",
+        "coauthors": [
+            "Azeem Irshad",
+            "Muhammad Sher",
+            "Eid Rehman",
+            "Shehzad Ashraf Ch",
+            "Mahmood Ul Hassan",
+            "Anwar Ghani"
+        ],
+        "keywords": "Session initiation protocol, Authentication, Security, Voice over Internet Protocol, Smart card"
+    },
+    {
+        "id": 526,
+        "label": 11,
+        "author": "shehzad ashraf chaudhry",
+        "title": "A secure biometric based multi-server authentication scheme for social multimedia networks",
+        "organization": "International Islamic University Islamabad",
+        "abstract": "Social networking is one of the major source of massive data. Such data is not only difficult to store, manipulate and maintain but it’s open access makes it security prone. Therefore, robust and efficient authentication should be devised to make it invincible against the known security attacks. Moreover, social networking services are intrinsically multi-server environments, therefore compatible and suitable authentication should be designed accordingly. Sundry authentication protocols are being utilized at the moment and many of them are designed for single server architecture. This type of remote architecture resists each user to get itself register with each server if multiple servers are employed to offer online social services. Recently multi-server architecture for authentication has replaced the single server architecture, and it enable users to register once and procure services from multiple servers. A short time ago, Lu et al. presented two authentication schemes based on three factors. Furthermore, both Lu et al.’s schemes are designed for multi-server architecture. Lu et al. claimed the schemes to be invincible against the known attacks. However, this paper shows that one of the Lu et al.’s scheme is susceptible to user anonymity violation and impersonation attacks, whereas Lu et al.’s second scheme is susceptible to user impersonation attack. Therefore an enhanced scheme is introduced in this paper. The proposed scheme is more robust than subsisting schemes. The proposed scheme is thoroughly verified and validated with formal and informal security discussion, and through the popular automated tool ProVerif. The in-depth analysis affirms that proposed scheme is lightweight in terms of computations while attaining mutual authentication and is invincible against the known attacks, hence is more suitable for automated big data analysis for social multimedia networking environments.",
+        "email": "",
+        "conf": "Multimedia Tools and Applications",
+        "coauthors": [
+            "Shehzad Ashraf Chaudhry"
+        ],
+        "keywords": "Social multimedia networking, Big data analysis, Biometrics, Authentication, Multi server, Impersonation attack, Anonymity, ProVerif"
+    },
+    {
+        "id": 506,
+        "label": 11,
+        "author": "shehzad ashraf chaudhry",
+        "title": "A secure mutual authenticated key agreement of user with multiple servers for critical systems",
+        "organization": "International Islamic University Islamabad",
+        "abstract": "Recent technological advances in almost all critical systems’ domains have led to an explosive growth of multimedia big data. Those advances encompass the ever increasing innovative digital and remote mobile devices being operated on the users’ end. Due to the openness of critical system, the service providers in such networks are facing security challenges to authenticate those mobile devices on the field, and delivering services. In this scenario, the Multi-server authentication (MSA) framework seems to be a promising solution that enables its subscribers to avail services from different servers without getting registered to each server individually. In last few years many MSA protocols depending on RC-Offline authentication during mutual authentication, have been presented. However, to date, there is no efficient MSA scheme to our knowledge that is free of all three weaknesses, simultaneously. That is, 1) free from storage of server-based parameters (public keys or other values) in smart card by registration authority, 2) free from the assumption of publishing of server-based public keys publicly and 3) free from a single secret sharing with all servers so that it could avoid server masquerading (insider) attack. Considering these limitations, we present a multi-server authentication protocol that withstands above drawbacks using lightweight cryptographic operations. The rationale of the proposed work was to present an efficient RC-Offline MSA scheme. Our scheme is also backed by formal security analysis based on GNY logic and automated security verification using ProVerif tool.",
+        "email": "shahzad@iiu.edu.pk",
+        "conf": "Multimedia Tools and Applications",
+        "coauthors": [
+            "Azeem Irshad",
+            "Muhammad Sher",
+            "Shehzad Ashraf Chaudhry",
+            "Saru Kumari",
+            "Arun Kumar Sangaiah",
+            "Xiong Li",
+            "Fan Wu"
+        ],
+        "keywords": "Multi-server authentication, Information security, Cryptanalysis, Attacks,Cryptography"
+    },
+    {
+        "id": 512,
+        "label": 11,
+        "author": "shehzad ashraf chaudhry",
+        "title": "A privacy preserving authentication scheme for roaming in ubiquitous networks",
+        "organization": "International Islamic University Islamabad",
+        "abstract": "",
+        "email": "",
+        "conf": "Cluster Computing",
+        "coauthors": [
+            "Shehzad Ashraf Chaudhry",
+            "Aiiad Albeshri",
+            "Naixue Xiong",
+            "Changhoon Lee",
+            "Taeshik Shon"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 522,
+        "label": 11,
+        "author": "shehzad ashraf chaudhry",
+        "title": "An improved one-to-many authentication scheme based on bilinear pairings with provable security for mobile pay-TV systems",
+        "organization": "International Islamic University Islamabad",
+        "abstract": "In 2012, Wang and Qin proposed an authentication mechanism in order to get access control for mobile pay-TV organization to enhance the Sun and Leu’s technique. Wang and Qin declared that their technique satisfies the security expectations or requirements intended for mobile pay-TV system. However, this work indicates that Wang and Qin’s scheme suffers from a nontrivial weakness. Successful impersonation attack is easily possible from an adversary who can impersonate mobile set (MS) to cheat the head-end system (HS). An adversary does not even need secret information to do so. As a remedy, we proposed an enhanced authentication technique for mobile pay-TV systems by taking a slight change in Wang and Qin’s scheme. The proposed scheme maintains the merits and covers the demerits of the previous schemes.",
+        "email": "shahzad@iiu.edu.pk",
+        "conf": "Multimedia Tools and Applications",
+        "coauthors": [
+            "Mohammad Heydari",
+            "Seyed Mohammad-Sajad Sadough",
+            "Shehzad Ashraf Chaudhry",
+            "Mohammad Sabzinejad Farash",
+            "Khalid Mahmood"
+        ],
+        "keywords": "Mobile pay-TV systems, Authentication scheme, Impersonation attack, Elliptic curves, Bilinear pairings, Provable security"
+    },
+    {
+        "id": 503,
+        "label": 11,
+        "author": "shehzad ashraf chaudhry",
+        "title": "Secure Remote User Mutual Authentication Scheme with Key Agreement for Cloud Environment",
+        "organization": "International Islamic University Islamabad",
+        "abstract": "Authentication schemes are widely used mechanisms to thwart unauthorized access of resources over insecure networks. Several smart card based password authentication schemes have been proposed in the literature. In this paper, we demonstrate the security limitations of a recently proposed password based authentication scheme, and show that their scheme is still vulnerable to forgery and offline password guessing attacks and it is also unable to provide user anonymity, forward secrecy and mutual authentication. With the intention of fixing the weaknesses of that scheme, we present a secure authentication scheme. We show that the proposed scheme is invulnerable to various attacks together with attacks observed in the analyzed scheme through both rigorous formal and informal security analysis. Furthermore, the security analysis using the widely-accepted Real-Or-Random (ROR) model ensures that the proposed scheme provides the session key (SK) security. Finally, we carry out the performance evaluation of the proposed scheme and other related schemes, and the result favors that the proposed scheme provides better trade-off among security and performance as compared to other existing related schemes.",
+        "email": "",
+        "conf": "Mobile Networks and Applications",
+        "coauthors": [
+            "Marimuthu Karuppiah",
+            "Ashok Kumar Das",
+            "Xiong Li",
+            "Saru Kumari",
+            "Fan Wu",
+            "Shehzad Ashraf Chaudhry",
+            "R. Niranchana"
+        ],
+        "keywords": "Smart card, Authentication, User anonymity, Mutual authentication, Key agreement, ROR model, Security"
+    },
+    {
+        "id": 518,
+        "label": 11,
+        "author": "shehzad ashraf chaudhry",
+        "title": "A secure and provable multi-server authenticated key agreement for TMIS based on Amin et al. scheme",
+        "organization": "International Islamic University Islamabad",
+        "abstract": "The security for Telecare Medicine Information Systems (TMIS) has been crucial for reliable dispensing of the medical services to patients at distant locations. Security and privacy element needs to be there for any physician or caregiver to make certain an appropriate diagnosis, medical treatment or any other exchange of critical information. In this connection, many relevant TMIS-based authentication schemes have been presented, however various forms of attacks and inefficiencies render these schemes inapplicable for a practical scenario. Lately, Amin et al. proposed a scheme based on a multi-server authentication for TMIS. However, the Amin et al., scheme has been found vulnerable to user and server impersonation attacks. We have proposed an improved model with higher performance and efficiency, as evident from the forthcoming sections. Besides, the scheme has been backed up by formal security analysis using BAN logic to ensure the resilience of the proposed scheme.",
+        "email": "shahzad@iiu.edu.pk",
+        "conf": "Multimedia Tools and Applications",
+        "coauthors": [
+            "Azeem Irshad",
+            "Muhammad Sher",
+            "Omer Nawaz",
+            "Shehzad Ashraf Chaudhry",
+            "Imran Khan",
+            "Saru Kumari"
+        ],
+        "keywords": "Remote authentication, Biometrics, TMIS Security, Attack, BAN logic, Cryptanalysis"
+    },
+    {
+        "id": 517,
+        "label": 11,
+        "author": "shehzad ashraf chaudhry",
+        "title": "A Multiserver Biometric Authentication Scheme for TMIS using Elliptic Curve Cryptography",
+        "organization": "International Islamic University Islamabad",
+        "abstract": "Recently several authentication schemes are proposed for telecare medicine information system (TMIS). Many of such schemes are proved to have weaknesses against known attacks. Furthermore, numerous such schemes cannot be used in real time scenarios. Because they assume a single server for authentication across the globe. Very recently, Amin et al. (J. Med. Syst. 39(11):180, 2015) designed an authentication scheme for secure communication between a patient and a medical practitioner using a trusted central medical server. They claimed their scheme to extend all security requirements and emphasized the efficiency of their scheme. However, the analysis in this article proves that the scheme designed by Amin et al. is vulnerable to stolen smart card and stolen verifier attacks. Furthermore, their scheme is having scalability issues along with inefficient password change and password recovery phases. Then we propose an improved scheme. The proposed scheme is more practical, secure and lightweight than Amin et al.’s scheme. The security of proposed scheme is proved using the popular automated tool ProVerif",
+        "email": "shahzad@iiu.edu.pk",
+        "conf": "Journal of Medical Systems",
+        "coauthors": [
+            "Shehzad Ashraf Chaudhry",
+            "Muhammad Tawab Khan",
+            "Muhammad Khurram Khan",
+            "Taeshik Shon"
+        ],
+        "keywords": "Authentication; Biometrics; Impersonation attack; Multiserver; ProVerif; Smart card stolen; Stolen verifier"
+    },
+    {
+        "id": 534,
+        "label": 11,
+        "author": "shehzad ashraf chaudhry",
+        "title": "An improved and provably secure privacy preserving authentication protocol for SIP",
+        "organization": "International Islamic University Islamabad",
+        "abstract": "Session Initiation Protocol (SIP) has proved to be the integral part and parcel of any multimedia based application or IP-based telephony service that requires signaling. SIP supports HTTP digest based authentication, and is responsible for creating, maintaining and terminating sessions. To guarantee secure SIP based communication, a number of authentication schemes are proposed, typically most of these are based on smart card due to its temper resistance property. Recently Zhang et al. presented an authenticated key agreement scheme for SIP based on elliptic curve cryptography. However Tu et al. (Peer to Peer Netw. Appl 1–8, 2014) finds their scheme to be insecure against user impersonation attack, furthermore they presented an improved scheme and claimed it to be secure against all known attacks. Very recently Farash (Peer to Peer Netw. Appl 1–10, 2014) points out that Tu et al.’s scheme is vulnerable to server impersonation attack, Farash also proposed an improvement on Tu et al.’s scheme. However, our analysis in this paper shows that Tu et al.’s scheme is insecure against server impersonation attack. Further both Tu et al.’s scheme and Farash’s improvement do not protect user’s privacy and are vulnerable to replay and denial of services attacks. In order to cope with these limitations, we have proposed a privacy preserving improved authentication scheme based on ECC. The proposed scheme provides mutual authentication as well as resists all known attacks as mentioned by Tu et al. and Farash.",
+        "email": "shahzad@iiu.edu.pk",
+        "conf": "Peer-to-Peer Networking and Applications",
+        "coauthors": [
+            "Shehzad Ashraf Chaudhry",
+            "Syed Husnain Abbas Naqvi",
+            "Muhammad Sher",
+            "Mohammad Sabzinejad Farash",
+            "Mahamood Ul hassan"
+        ],
+        "keywords": "Authentication, Authenticated key agreement, Elliptic curve cryptography, Impersonation attack, Provable security, ProVeri"
+    },
+    {
+        "id": 514,
+        "label": 11,
+        "author": "shehzad ashraf chaudhry",
+        "title": "An improved and secure chaotic map based authenticated key agreement in multi-server architecture",
+        "organization": "International Islamic University Islamabad",
+        "abstract": "Multi-Server Authentication (MSA) provides the user an efficient way to avail multiple services of various multimedia service providers, once after getting registered from a registration centre. Previously, a user had to register all servers individually to use their respective service; which proves to be a redundant and inefficient procedure in comparison with MSA. Many MSA-based techniques have been put forward by researchers, so far, however with proven pitfalls. In the last few years, the focus has been shifted towards a more flexible and efficient Chebyshev cryptographic technique. In this regard, recently Tan’s scheme presented a chaotic map based multi-server authentication scheme with a focus on login scalability. Nonetheless, Tan’s scheme has been found vulnerable to insider (impersonation attack) and stolen smart card attacks. Besides, the Tan’s scheme fails to differentiate the login requests between the two presented cases. The current study work is based on improving the Tan’s technique in terms of security in almost an equivalent cost. The security for proposed work is evaluated in the performance evaluation section, while it shows that the security is provable under formal security model, as well as using BAN Logic.",
+        "email": "shahzad@iiu.edu.pk",
+        "conf": "Multimedia Tools and Applications",
+        "coauthors": [
+            "Azeem Irshad",
+            "Muhammad Sher",
+            "Shehzad Ashraf Chaudhry",
+            "Qi Xie",
+            "Saru Kumari",
+            "Fan Wu"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 500,
+        "label": 11,
+        "author": "shehzad ashraf chaudhry",
+        "title": "An efficient and secure design of multi-server authenticated key agreement protocol",
+        "organization": "International Islamic University Islamabad",
+        "abstract": "Multi-server authentication, being a crucial component of remote communication, provides the ease of one-time registration to users from a centralized registration authority. Therefore, the users could avail the offered services after getting authenticated of any service provider using the same registration credentials. In recent years, many multi-server authentication protocols have been demonstrated. Nonetheless, the existing schemes do not meet the security and efficiency requirements of the time. Recently, Chuang et al. presented a multi-server biometric authentication protocol which was later crypt-analysed and improved by Lin et al. with the identification of few attacks. Later, we discover that Lin et al.’s protocol is still prone to replay attack, privileged insider attack, trace attack, de-synchronization attack and key-compromise impersonation attacks. In this study, we present a multi-server authentication protocol which is not only comparable with Lin et al.’s scheme but also efficient than other state-of-the-art multi-server protocols. The security properties of our scheme are proved using formal analysis and evaluated with automated verification tool based on ProVerif.",
+        "email": "shahzad@iiu.edu.pk",
+        "conf": "The Journal of Supercomputing",
+        "coauthors": [
+            "Azeem Irshad",
+            "Husnain Naqvi",
+            "Shehzad Ashraf Chaudhry",
+            "Shouket Raheem",
+            "Saru Kumari",
+            "Ambrina Kanwal",
+            "Muhammad Usman"
+        ],
+        "keywords": "Multi-server authentication, Biometric verification, Online serviceproviders, Cryptanalysis, Attacks"
+    },
+    {
+        "id": 501,
+        "label": 11,
+        "author": "shehzad ashraf chaudhry",
+        "title": "Pairing based anonymous and secure key agreement protocol for smart grid edge computing infrastructure",
+        "organization": "International Islamic University Islamabad",
+        "abstract": "The most vital concern in the realization of the Internet of Things (IoT) is to encounter the disparate communication systems and technologies. Interoperability solutions such as standards can help us to integrate plenty of diverse devices and their applications in an interoperable framework. Since Smart Grid is a non-trivial prevalent application of Edge computing under the umbrella of IoT. The Smart Grid furnishes communication through Internet Protocol to enable interoperability. However, IP-Based communication makes it vulnerable to serious security threats. Therefore, the secure information sharing among diverse communicating agents in the smart grid environments has become a vital concern. Specifically, to enable secure communication between the smart meter and utility, key management prior to authentication is the most critical task to do. Nowadays, several mechanisms have been introduced to establish secure communication within the emerging smart grid environment. Although, these protocols do not support smart meter anonymity and fail to offer reasonable security. In this paper, we use the identity-based signature to present an anonymous key agreement protocol for the Smart Grid infrastructure. This protocol enables the smart meters to get connected with utility control anonymously to avail the services provided by them. The smart meters realize this objective with the private key in the absence of trusted authority. The trusted authority is involved only during the registration phase The proposed protocol is verified and validated through random oracle model and automated tool ProVerif. Moreover, performance analysis is also observed to consolidate the reliability and efficiency of the proposed protocol.",
+        "email": "",
+        "conf": "Future Generation Computer Systems",
+        "coauthors": [
+            "Khalid Mahmood",
+            "Xiong Li",
+            "Shehzad Ashraf Chaudhry",
+            "Husnain Naqvi",
+            "Saru Kumari",
+            "Arun Kumar Sangaiah",
+            "Joel J.P.C.Rodrigues"
+        ],
+        "keywords": "Smart grid, Authentication, Anonymity, Smart meter, Edge computing, ProVerif"
+    },
+    {
+        "id": 542,
+        "label": 11,
+        "author": "shehzad ashraf chaudhry",
+        "title": "An efficient key agreement with rekeying for secured body sensor networks",
+        "organization": "International Islamic University Islamabad",
+        "abstract": "Dynamic key management is a pre requisite for ensuring confidentiality, authentication and other security primitives, which are needed in almost every type of network especially for future body sensor networks which shares patients personal information on network, the bio stats of the patient should be protected against attacks, the paper presents a simple key exchange protocol for implementing different security primitives to ensure patient's privacy, the paper reviews a key management protocols proposed by Eldefrawy et al. and Jiang et al.and then a light weight key exchange protocol with rekeying is proposed for key agreement between a gateway and BSN sensors.",
+        "email": "",
+        "conf": "Conference on Digital Information Processing and Communications (ICDIPC). IEEE",
+        "coauthors": [
+            "Zahid Mehmood",
+            "Dr Nizamud Din",
+            "Shehzad Ashraf Chaudhry",
+            "Waqas Nasar",
+            "Anwar Ghani"
+        ],
+        "keywords": "Body Sensor Network,Session Key,Rekeying,RSA,public key Cryptography"
+    },
+    {
+        "id": 540,
+        "label": 11,
+        "author": "shehzad ashraf chaudhry",
+        "title": "A secure authentication scheme for session initiation protocol by using ECC on the basis of Tang and Liu scheme",
+        "organization": "International Islamic University Islamabad",
+        "abstract": "Session initiation protocol (SIP) provides the basis for establishing the voice over internet protocol sessions after authentication and exchanging signaling messages. SIP is one of the significant and extensively used protocols in the multimedia protocol stack. Since the RFC2617 was put forth, numerous schemes for SIP authentication have been presented to overcome the flaws. Recently, in 2012, Tang and Liu proposed SIP based authentication protocol and claimed for eliminating the threats in Arshad and Ikram protocol. However the scheme can be made more robust by making further improvements, as the former scheme may come under a threat by adversaries through impersonating a server, given that the user password is compromised. We have proposed an improved protocol for SIP authentication by using elliptic curve cryptography that encounters the previous threat with enhanced security. The analysis shows that proposed scheme is suitable for applications with higher security requirements.",
+        "email": "shahzad@iiu.edu.pk",
+        "conf": "Security and Communication Networks",
+        "coauthors": [
+            "Azeem Irshad",
+            "Muhammad Sher",
+            "Muhammad Shahzad Faisal",
+            "Anwer Ghani",
+            "Mahmood Ul Hassan",
+            "Shehzad Ashraf Chaudhry"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 516,
+        "label": 11,
+        "author": "shehzad ashraf chaudhry",
+        "title": "An efficient and anonymous Chaotic Map based authenticated key agreement for multi-server architecture",
+        "organization": "International Islamic University Islamabad",
+        "abstract": "Multi-server authentication enables the subscribers to enjoy an assortment of services from various service providers based on a single registration from any registration centre. Previously, a subscriber had to register from each service provider individually to avail respective services relying on single server authentication. In the past, a number of multi-server authentication techniques can be witnessed that employed lightweight and even computationally intensive cryptographic operations. In line with this, Zhu has presented a chaotic map based multi-server authentication scheme recently, which is not only vulnerable to denial-of-service attack, stolen-verifier attack, but also lacks anonymity. This research aims at improving the Zhu’s protocol in terms of cost and efficiency. Moreover, the comparative study is presented for the performance of improved model against the existing scheme, and the security of proposed model is formally proved using BAN Logic.",
+        "email": "shahzad@iiu.edu.pk",
+        "conf": "KSII Transactions on Internet and Information Systems",
+        "coauthors": [
+            "Azeem Irshad",
+            "Hafiz Farooq Ahmad",
+            "Bander A Alzahrani",
+            "Muhammad Sher",
+            "Shehzad Ashraf Chaudhry"
+        ],
+        "keywords": "Multi-server authentication, cryptography, anonymity, Chebyshev chaotic map, Authentication key agreement"
+    },
+    {
+        "id": 543,
+        "label": 11,
+        "author": "shehzad ashraf chaudhry",
+        "title": "An authenticated key agreement with rekeying for secured body sensor networks based on hybrid cryptosystem",
+        "organization": "International Islamic University Islamabad",
+        "abstract": "In recent years personal health monitoring Body Sensor Network (BSN) have got significant importance. Due to its sensitive and constrained nature, health data should be transported / kept confidentially, therefore, lightweight cryptographic technique and key management schemes are required in BSN. In this paper we have proposed a hybrid authenticated key agreement with rekeying for Body Sensor Network. Our scheme is based on Symmetric and Elliptic Curve Cryptography. The proposed scheme reduces seventy four percent memory requirements for keys storage, eighty seven percent Computation Cost and sixty one percent Communication Overhead",
+        "email": "",
+        "conf": "EEE International Conference on Networking, Sensing and Control",
+        "coauthors": [
+            "Noor Ul Amin",
+            "Muhammad Asad",
+            "Nizamud Din",
+            "Shehzad Ashraf Chaudhry"
+        ],
+        "keywords": "Session Key; Elliptic Curve Cryptography; Body Sensor Network; Rekeying"
+    },
+    {
+        "id": 530,
+        "label": 11,
+        "author": "shehzad ashraf chaudhry",
+        "title": "An Improved Authentication Scheme for Electronic Payment Systems in Global Mobility Networks",
+        "organization": "International Islamic University Islamabad",
+        "abstract": "The use of e-payment system for electronic trade is on its way to make daily life more easy and convenient‎. ‎Contrarily‎, ‎there are a number of security issues to be addressed‎, ‎user anonymity and fair exchange have become important concerns along with authentication‎, ‎confidentiality‎, ‎integrity and non-repudiation‎. ‎In a number of existing e-payment schemes‎, ‎the customer pays for the product before acquiring it‎. ‎Furthermore‎, ‎many such schemes require very high computation and communication costs‎. ‎To address such issues recently Yang et.al‎. ‎proposed an authenticated encryption scheme and an e-payment scheme based on their authenticated encryption‎. ‎They excluded the need of digital signatures for authentication‎, ‎further they claimed their schemes to resist replay‎, ‎man-in-middle‎, ‎impersonation and identity theft attack‎, ‎while providing confidentiality‎, ‎authenticity‎, ‎integrity and privacy protection‎. ‎However our analysis exposed that Yang et al.'s both authenticated encryption scheme and e-payment system are vulnerable to impersonation attack‎. ‎An adversary just having knowledge of public parameters can easily masquerade as a legal user‎. ‎Furthermore‎, ‎we proposed improved authenticated encryption and e-payment schemes to overcome weaknesses of Yang et al.'s schemes‎. ‎We prove the security of our schemes using automated tool ProVerif‎. ‎The improved schemes are more robust and more lightweight than Yang et al.'s schemes which is evident from security and performance analysis‎.",
+        "email": "shahzad@iiu.edu.pk",
+        "conf": "Information technology and control",
+        "coauthors": [
+            "Mohammad Heydari",
+            "S Mohammad-Sajad Sadough",
+            "Shehzad Ashraf Chaudhry",
+            "Mohammad Sabzinejad Farash",
+            "Mohammad Reza Aref"
+        ],
+        "keywords": "authenticated encryption; e-payment system; elliptic curve cryptography; digital signature;signcryption"
+    },
+    {
+        "id": 499,
+        "label": 11,
+        "author": "shehzad ashraf chaudhry",
+        "title": "A scalable and secure RFID mutual authentication protocol using ECC for Internet of Things",
+        "organization": "International Islamic University Islamabad",
+        "abstract": "Very recently, Alamr et al (J. Supercomput 1‐14 doi: 10.1007/s11227‐016‐1861‐1) presented a radio frequency identifier (RFID) authentication protocol for the Internet of Things (IoT) through elliptic curve cryptography (ECC). They claimed the protocol to achieve several security properties and thwart all known attacks. However, this paper shows that their scheme is having correctness and scalability issues. The reader in their protocol can accommodate only one tag, which is not desirable in the IoT environments. The paper finally suggests an improvement to cater the correctness and scalability issues.",
+        "email": "",
+        "conf": "International Journal of Communication Systems",
+        "coauthors": [
+            "Muhammad Naeem",
+            "Shehzad Ashraf Chaudhry",
+            "Khalid Mahmood",
+            "Marimuthu Karuppiah",
+            "Saru Kumari"
+        ],
+        "keywords": ""
+    }
+]

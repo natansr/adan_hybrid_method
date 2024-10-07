@@ -1,0 +1,2049 @@
+[
+    {
+        "id": 4277,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "Sketch-based Volumetric Seeded Region Growing",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "Interactive volume segmentation is an essential and important step in medical image processing. Conventional interactive methods typically demand significant amounts of time and do not lend to a natural interaction scheme with the 3D volume. In this paper we present a sketch-based interface for seeded region growing volume segmentation. In our approach, the user freely sketches regions of interest (ROI) directly over the 3D volume. Parts of the volume outside the ROIs are then automatically cut out in real-time. The user repeats this process as many times as necessary until he/she decides to specify the seed point 3D location directly at the ROI. To prevent unexpected segmentations, the region growing is restricted to the specified ROI. Our sketch-based system utilizes GPU programming to achieve real-time processing for both rendering and volumetric cutting independent from the size and shape of the sketched strokes",
+        "email": "",
+        "conf": "SBM",
+        "coauthors": [
+            "Hung-Li Jason Chen",
+            "Faramarz F. Samavati",
+            "Mario Costa Sousa",
+            "Joseph Ross Mitchell"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4273,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "'Black T2'at 3T MRI: a biomarker for disability in MS?",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "",
+        "email": "",
+        "conf": "MULTIPLE SCLEROSIS",
+        "coauthors": [
+            "Yunyan Zhang",
+            "L M Metz",
+            "Rana Zabad",
+            "Joseph Ross Mitchell"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4305,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "Distributed vector processing of the S-transform for medical applications",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "",
+        "email": "",
+        "conf": "Canadian Conference on Electrical and Computer Engineering",
+        "coauthors": [
+            "Robert A Brown",
+            "Hongmei Zhu",
+            "Joseph Ross Mitchell"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4270,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "The clinical response to minocycline in multiple sclerosis is accompanied by beneficial immune changes: A pilot study",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "Minocycline has immunomodulatory and neuroprotective activities in vitro and in an animal model of multiple sclerosis (MS). We have previously reported that minocycline decreased gadolinium-enhancing activity over six months in a small trial of patients with active relapsing-remitting MS (RRMS). Here we report the impact of oral minocycline on clinical and magnetic resonance imaging (MRI) outcomes and serum immune molecules in this cohort over 24 months of open-label minocycline treatment. Despite a moderately high pretreatment annualized relapse rate (1.3/year pre-enrolment; 1.2/year during a three-month baseline period) prior to treatment, no relapses occurred between months 6 and 24. Also, despite very active MRI activity pretreatment (19/40 scans had gadolinium-enhancing activity during a three-month run-in), the only patient with gadolinium-enhancing lesions on MRI at 12 and 24 months was on half-dose minocycline. Levels of the p40 subunit of interleukin (IL)-12, which at high levels might antagonize the proinflammatory IL-12 receptor, were elevated over 18 months of treatment, as were levels of soluble vascular cell adhesion molecule-1. The activity of matrix metalloproteinase-9 was decreased by treatment. Thus, clinical and MRI outcomes are supported by systemic immunological changes and call for further investigation of minocycline in MS.",
+        "email": "",
+        "conf": "Multiple Sclerosis",
+        "coauthors": [
+            "Rana Zabad",
+            "L M Metz",
+            "T.R. Todoruk",
+            "Y Zhang",
+            "Joseph Ross Mitchell",
+            "M Yeung",
+            "D G Patry",
+            "R B Bell",
+            "Voon Wee Yong"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4250,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "A Smartphone Client-Server Teleradiology System for Primary Diagnosis of Acute Stroke",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "Recent advances in the treatment of acute ischemic stroke have made rapid acquisition, visualization, and interpretation of images a key factor for positive patient outcomes. We have developed a new teleradiology system based on a client-server architecture that enables rapid access to interactive advanced 2-D and 3-D visualization on a current generation smartphone device (Apple iPhone or iPod Touch, or an Android phone) without requiring patient image data to be stored on the device. Instead, a server loads and renders the patient images, then transmits a rendered frame to the remote device. Our objective was to determine if a new smartphone client-server teleradiology system is capable of providing accuracies and interpretation times sufficient for diagnosis of acute stroke. This was a retrospective study. We obtained 120 recent consecutive noncontrast computed tomography (NCCT) brain scans and 70 computed tomography angiogram (CTA) head scans from the Calgary Stroke Program database. Scans were read by two neuroradiologists, one on a medical diagnostic workstation and an iPod or iPhone (hereafter referred to as an iOS device) and the other only on an iOS device. NCCT brain scans were evaluated for early signs of infarction, which includes early parenchymal ischemic changes and dense vessel sign, and to exclude acute intraparenchymal hemorrhage and stroke mimics. CTA brain scans were evaluated for any intracranial vessel occlusion. The interpretations made on an iOS device were compared with those made at a workstation. The total interpretation times were recorded for both platforms. Interrater agreement was assessed. True positives, true negatives, false positives, and false negatives were obtained, and sensitivity, specificity, and accuracy of detecting the abnormalities on the iOS device were computed. The smartphone client-server teleradiology system appears promising and may have the potential to allow urgent management decisions in acute stroke. However, this study was retrospective, involved relatively few patient studies, and only two readers. Generalizing conclusions about its clinical utility, especially in other diagnostic use cases, should not be made until additional studies are performed.",
+        "email": "",
+        "conf": "Journal of Medical Internet Research",
+        "coauthors": [
+            "Joseph Ross Mitchell",
+            "Pranshu Sharma",
+            "Jayesh Modi",
+            "Mark Simpson",
+            "Monroe Thomas",
+            "Michael D Hill",
+            "Mayank Goyal"
+        ],
+        "keywords": "Acute stroke; teleradiology; computed tomography; mhealth; mobile phone "
+    },
+    {
+        "id": 4249,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "Texture Characterization of Tumors",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "A new approach for texture characterization of tumors based on a 2D S-Transform. Previous methods have already been developed using transforms such as the wavelet transform or the Gabor transform. However, these transforms are either not frequency invariant (wavelet transform) or have a fixed resolution (Gabor transform) To solve these problems we employ a 2D S-Transform. The S-Transform, a generalization of the Short-time Fourier transform, provides a time-frequency distribution of a signal. Therefore one can obtain the frequency content of a pixel or of a tumor ROI by averaging pixel spectrums over the tumor . A tool has been developed that computes the S-Transform in real time for a pixel and in 2 or 3 seconds for a tumor, while previous methods take much longer time. To quantify the tumor texture we compute statistics based on pixel spectrums. The first statistic, a texture curve, is the frequency vs its average power at each pixel or over the entire tumor. The second statistic, for a tumor, is a KL-divergence to calculate the deviation of histograms, obtained at each frequency, from a normal distribution. Finally, a map of the area under the texture curve for a band of frequencies shows the average power at each pixel of the tumor. First experiments on images of 20 tumor-bearing patients (10 for the training set, 10 for the test set) using the texture curves allowed us to classify homogeneous and heterogeneous tumors with an accuracy of around 80%.",
+        "email": "",
+        "conf": "Conference: Care About Cancer",
+        "coauthors": [
+            "Paul Morel",
+            "Changizi Neda",
+            "Cheng Hing",
+            "Joseph Ross Mitchell"
+        ],
+        "keywords": "Texture Characterization, Tumor, Pseudo-Progression,Stockwell Transform,Machine Learning"
+    },
+    {
+        "id": 4285,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "Maximum Entropy Deconvolution for Dynamic Susceptibility Contrast Magnetic Resonance Imaging",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "Dynamic susceptibility contrast magnetic resonance imaging (DSC-MRI) describes local tissue perfusion by rapidly imaging a bolus of contrast agent as it passes through the cerebral vasculature. DSC-MRI may identify functionally salvageable tissue in acute ischemic stroke. The DSC-MRI data set is a 4-dimensional function of space and time. In order to obtain quantitative, absolute maps of tissue perfusion the measured time curves must be deconvolved for each pixel in the 3D volume. The most widely used deconvolution method for DSC-MRI, singular value decomposition (SVD), can cause truncation artifact in the deconvolved curves, resulting in inaccuracies in the perfusion measurements. We present a maximum entropy (ME) deconvolution approach to obtain quantitative measures of local cerebral perfusion. SVD is discussed in the context of Fourier theory and insight is provided into the motivation for a statistically-based iterative reconstruction algorithm. Rigorous computer simulations are performed to evaluate and compare ME and SVD in clinically realistic situations. Our results show that ME better recovers the true perfusion profiles. It achieves a smaller mean squared error than SVD and provides significantly better estimates of cerebral blood flow and blood volume.",
+        "email": "",
+        "conf": "Conference on Visualization, Imaging, and Image Processing",
+        "coauthors": [
+            "Sylvia A Drabycz",
+            "Robert A Brown",
+            "Alan G Law",
+            "Joseph Ross Mitchell"
+        ],
+        "keywords": "Deconvolution, magnetic resonance, perfusion, stroke"
+    },
+    {
+        "id": 4244,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "Parallel process for level set segmentation of volume data",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "A parallelized sparse field method for segmenting a volume dataset is provided. Using a processor a level set field within a multi-dimensional dataset comprising a plurality of voxels is initialized in parallel operation. The multi-dimensional dataset is indicative of an object. An initial set of active voxels is then generated in parallel operation in dependence upon the initialized level set field. New active voxels are determined in parallel operation. Duplicate active voxels are then removed in parallel operation, followed by compacting the active voxels in parallel operation. The process is repeated until a quantitative stopping criterion is met and level set segmentation data indicative of a feature of the object are determined in dependence upon the level set field.",
+        "email": "",
+        "conf": "U.S. Patent",
+        "coauthors": [
+            "Mike Roberts",
+            "Mario Costa Sousa",
+            "Joseph Ross Mitchell"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4225,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "MRI-Based Texture Analysis to Differentiate Sinonasal Squamous Cell Carcinoma from Inverted Papilloma",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "Because sinonasal inverted papilloma can harbor squamous cell carcinoma, differentiating these tumors is relevant. The objectives of this study were to determine whether MR imaging–based texture analysis can accurately classify cases of noncoexistent squamous cell carcinoma and inverted papilloma and to compare this classification performance with neuroradiologists' review. Adult patients who had inverted papilloma or squamous cell carcinoma resected were eligible (coexistent inverted papilloma and squamous cell carcinoma were excluded). Inclusion required tumor size of >1.5 cm and preoperative MR imaging with axial T1, axial T2, and axial T1 postcontrast sequences. Five well-established texture analysis algorithms were applied to an ROI from the largest tumor cross-section. For a training dataset, machine-learning algorithms were used to identify the most accurate model, and performance was also evaluated in a validation dataset. On the basis of 3 separate blinded reviews of the ROI, isolated tumor, and entire images, 2 neuroradiologists predicted tumor type in consensus. The inverted papilloma (n = 24) and squamous cell carcinoma (n = 22) cohorts were matched for age and sex, while squamous cell carcinoma tumor volume was larger (P = .001). The best classification model achieved similar accuracies for training (17 squamous cell carcinomas, 16 inverted papillomas) and validation (7 squamous cell carcinomas, 6 inverted papillomas) datasets of 90.9% and 84.6%, respectively (P = .537). For the combined training and validation cohorts, the machine-learning accuracy (89.1%) was better than that of the neuroradiologists' ROI review (56.5%, P = .0004) but not significantly different from the neuroradiologists' review of the tumors (73.9%, P = .060) or entire images (87.0%, P = .748). MR imaging–based texture analysis has the potential to differentiate squamous cell carcinoma from inverted papilloma and may, in the future, provide incremental information to the neuroradiologist.",
+        "email": "",
+        "conf": "American Journal of Neuroradiology",
+        "coauthors": [
+            "Shreya Ramkumar",
+            "Sara Ranjbar",
+            "Shuluo Ning",
+            "D. Lal",
+            "C.M. Zwart",
+            "C.P. Wood",
+            "S.M. Weindling",
+            "T. Wu",
+            "Joseph R. Mitchell",
+            "J. Li",
+            "J.M. Hoxworth"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4306,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "Reliable computer assisted measurement of stroke lesion volumes",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "",
+        "email": "",
+        "conf": "Stroke",
+        "coauthors": [
+            "Joseph Ross Mitchell",
+            "A Tomanek",
+            "Jessica E Simon",
+            "Alastair Buchan"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4233,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "QuantitativeT2: Interactive quantitative T2 MRI witnessed in mouse glioblastoma",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "The aim of this study was to establish an advanced analytical platform for complex in vivo pathologies. We have developed a software program, QuantitativeT2, for voxel-based real-time quantitative T2 magnetic resonance imaging. We analyzed murine brain tumors to confirm feasibility of our method for neurological conditions. Anesthetized mice (with invasive gliomas, and controls) were imaged on a 9.4 Tesla scanner using a Carr–Purcell–Meiboom–Gill sequence. The multiecho T2 decays from axial brain slices were analyzed using QuantitativeT2. T2 distribution histograms demonstrated substantial characteristic differences between normal and pathological brain tissues. Voxel-based quantitative maps of tissue water fraction (WF) and geometric mean T2 (gmT2) revealed the heterogeneous alterations to water compartmentalization caused by pathology. The numeric distribution of WF and gmT2 indicated the extent of tumor infiltration. Relative evaluations between in vivo scans and ex vivo histology indicated that the T2s between 30 and 150 ms were related to cellular density and the integrity of the extracellular matrix. Overall, QuantitativeT2 has demonstrated significant advancements in qT2 analysis with real-time operation. It is interactive with an intuitive workflow; can analyze data from many MR manufacturers; and is released as open-source code to encourage examination, improvement, and expansion of this method.",
+        "email": "",
+        "conf": "Journal of Medical Imaging",
+        "coauthors": [
+            "Tonima Sumya Ali",
+            "Thorarin Albert Bjarnason",
+            "Donna L. Senger",
+            "Jeffrey F. Dunn",
+            "Jeffery T. Joseph",
+            "Joseph Ross Mitchell"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4242,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "Empowering Excellence of Care by Radiology Informatics",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "",
+        "email": "",
+        "conf": "Intelligent Systems IEEE",
+        "coauthors": [
+            "Jing Li",
+            "Teresa Wu",
+            "Joseph Ross Mitchell",
+            "Amy K Hara",
+            "William Pavlicek",
+            "Leland S Hu",
+            "Alvin C Silva",
+            "Christine M. Zwart"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4316,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "Classification and analysis of multiple sclerosis lesions in spin-echo MR exams",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "",
+        "email": "",
+        "conf": "Proceedings of SPIE - The International Society for Optical Engineering",
+        "coauthors": [
+            "Joseph Ross Mitchell",
+            "Stephen J. Karlik",
+            "Donald H Lee",
+            "Aaron Fenster"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4254,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "Is quantitative T2 sensitive to tumor cell infiltration?",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "BTICs established from fresh surgical specimens were injected into the brains of 5 SCID mice [5]. Tumors were allowed to establish and mice were scanned on day 92 followed by immediate sacrifice. The brains were fixed, paraffin embedded, cut into 5 µm thick slices, and prepared for immunohistochemical analysis. Slices within the MR scan were stained with a neural specific progenitor marker (nestin) that can selectively show tumor cell cytoskeleton so that the density of the stain represents tumor cell population. MRI",
+        "email": "",
+        "conf": "nternational Society for Magnetic Resonance in Medicine",
+        "coauthors": [
+            "Tonima Ali",
+            "T Bjarnason",
+            "B Sun",
+            "Joseph Ross Mitchell"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4274,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "Rician noise and the T2 distribution: fitting complex decays",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "Magnetic resonance images are formed typically by taking the magnitude of reconstructed complex values. The magnitude operation changes the noise distribution from Gaussian to Rician [1]. This operation causes artifacts in T2 distributions calculated using the non-negative least squares (NNLS) algorithm. This algorithm is used to fit exponential decays to data acquired using quantitative T2 (qT2) techniques. The artifacts caused by non-Gaussian noise distributions are becoming more relevant as scientists begin to identify tissue compartments with long T2 decays [2,3]. Here we propose, and examine, one potential method to overcome this limitation: calculation of T2 distributions using NNLS to fit phase-corrected complex data. Noise in the corrected complex data retains a zero-mean Gaussian distribution, and therefore meets a critical criterion of the NNLS algorithm. ",
+        "email": "",
+        "conf": "Proceedings of the ISMRM",
+        "coauthors": [
+            "TA Bjarnason",
+            "Cheryl R Mccreary",
+            "Jeff Dunn",
+            "Joseph Ross Mitchell"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4264,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "Identifying lesion growth with MR imaging in acute ischemic stroke",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "To determine whether different MR diffusion‐ and perfusion‐weighted imaging (DWI and PWI) parameters are important in distinguishing lesion growth from the acute lesion and from oligemia. MR DWI and PWI were acquired from thirteen patients. We defined three regions: (i) LESION ‐ intersection of acute and final lesions, (ii) GROWTH ‐ portion of final lesion not part of acute lesion, and (iii) OLIGEMIA ‐ region of perfusion abnormality not part of either the acute or final lesions. We used logistic regression modeling to distinguish GROWTH from LESION and from OLIGEMIA on a voxel‐wise basis using DWI‐ and PWI‐based parameters. Final models were selected based on the Wald statistic and validated by cross‐validation using the mean (± standard deviation) area under the curve (AUC) from receiver operating characteristic analysis. The final model for differentiating GROWTH from LESION included DWI, the apparent diffusion coefficient (ADC), cerebral blood flow (CBF) and tissue type (AUC = 0.939 ± 0.028). The final model for differentiating GROWTH from OLIGEMIA included DWI, ADC, CBF, and time‐to‐peak (AUC = 0.793 ± 0.106).  Different MR parameters are important in differentiating lesion growth from acute lesion and from oligemia in acute ischemic stroke.",
+        "email": "",
+        "conf": "Journal of Magnetic Resonance Imaging",
+        "coauthors": [
+            "Michael Bristow",
+            "Brett W Poulin",
+            "Jessica E Simon",
+            "Michael D Hill",
+            "Jayme C Kosior",
+            "Shelagh B Coutts",
+            "Richard Frayne",
+            "Joseph Ross Mitchell",
+            "Andrew M Demchuk"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4246,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "Validation study of a fast accurate and precise brain tumor volume measurement",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "Precision and accuracy are sometimes sacrificed to ensure that medical image processing is rapid. To address this, our lab had developed a novel level set segmentation algorithm that is 16× faster and >96% accurate on realistic brain phantoms. This study reports speed, precision and estimated accuracy of our algorithm when measuring MRIs of meningioma brain tumors and compares it to manual tracing and modified MacDonald (MM) ellipsoid criteria. A repeated-measures study allowed us to determine measurement precisions (MPs) – clinically relevant thresholds for statistically significant change. Speed: the level set, MM, and trace methods required 1:20, 1:35, and 9:35 (mm:ss) respectively on average to complete a volume measurement (p < 0.05). Accuracy: the level set was not statistically different to the estimated true lesion volumes (p > 0.05). Precision: the MM's within-operator and between-operator MPs were significantly higher (worse) than the other methods (p < 0.05). The observed difference in MP between the level set and trace methods did not reach statistical significance (p > 0.05). Our level set is faster on average than MM, yet has accuracy and precision comparable to manual tracing.",
+        "email": "",
+        "conf": "Computer methods and programs in biomedicine",
+        "coauthors": [
+            "Mong Dang",
+            "Jayesh Modi",
+            "Mike Roberts",
+            "Christopher Chan",
+            "Joseph Ross Mitchell"
+        ],
+        "keywords": "Volume,Segmentation,Image processing,Brain tumor,Magnetic resonance imaging"
+    },
+    {
+        "id": 4303,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "Textural analysis in detecting early multiple sclerosis lesion activities: a preliminary report",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of Cerebral Blood Flow & Metabolism",
+        "coauthors": [
+            "Hongmei Zhu",
+            "X Wei",
+            "Yunyan Zhang",
+            "Joseph Ross Mitchell"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4312,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "In vivo multicomponent T2-weighted relaxation in normal guinea pig brain at 1.5 and 4.0 tesla",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "",
+        "email": "",
+        "conf": "Annals of Neurology",
+        "coauthors": [
+            "S Karlik",
+            "P Gareau",
+            "Joseph Ross Mitchell",
+            "Brian K. Rutt"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4267,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "The Use of Magnetic Resonance Imaging to Noninvasively Detect Genetic Signatures in Oligodendroglioma",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "Some patients with low-grade glioma have extraordinarily long survival times; current, early treatment does not prolong their lives. For this reason, therapies that sometimes have neurologic side effects are often deferred intentionally. In a study of oligodendrogliomas, we used a quantitative method of MR analysis based on the S-transform to investigate whether codeletion of chromosomes 1p and 19q, a marker of good prognosis, could be predicted accurately by measuring image texture. Differences in texture were seen between tumors with codeletion of chromosomes 1p and 19q and those with intact 1p and 19q alleles on contrast-enhanced T1-weighted and T2-weighted MR images. Quantitative MR texture on T2 images predicted codeletion of chromosomes 1p and 19q with high sensitivity and specificity. This new method of MR image interpretation may have the potential to augment the diagnostic assessment of patients with suspected low-grade glioma.",
+        "email": "",
+        "conf": "Clinical Cancer Research",
+        "coauthors": [
+            "Robert A Brown",
+            "Magdalena Zlatescu",
+            "Angelique Sijben",
+            "Joseph Ross Mitchell"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4260,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "T2 MRI texture analysis is a sensitive measure of tissue injury and recovery resulting from acute inflammatory lesions in multiple sclerosis",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "T2 hyperintensity is pathologically non-specific in multiple sclerosis (MS) yet lesion analysis remains an important disease outcome. Texture analysis based on the polar Stockwell Transform (PST) was performed on twelve acute T2 lesions before, during, and after the development of gadolinium-enhancement. When regular myelin structure is disrupted coarse texture increases because tissue becomes disorganized. Coarse texture was quantified as the sum of low frequency energy (sumLFE). Matching regions of contralateral and general normal appearing white matter (NAWM) and chronic T2 lesions were analyzed in parallel as controls. Coarse texture increased in acute lesions during enhancement (p < 0.05) then variably recovered. It remained stable in NAWM and tended to increase in chronic T2 lesions. Seven of twelve acute lesions persisted visually at 8 months and the sumLFE was higher in these visually persistent lesions (p < 0.05) than in resolved lesions. The sumLFE at month 8 correlated with that in pre-lesional NAWM and in acute lesions (p < 0.05) and was independent of lesion volume, signal intensity (SI), and location. This study suggests that PST texture analysis extracts more information about tissue integrity than conventional MRI analysis that relies on lesion size and SI. Texture analysis also appears to identify abnormalities in pre-lesional NAWM, to measure tissue injury in acute lesions, predict poor recovery, and detect mild ongoing tissue injury in chronic T2 lesions. PST texture analysis using conventional MRI may therefore provide valuable new insights into lesion pathology by measuring tissue integrity. This small longitudinal study supports further validation of the PST technique.",
+        "email": "",
+        "conf": "NeuroImage",
+        "coauthors": [
+            "Yunyan Zhang",
+            "Hongmei Zhu",
+            "Joseph Ross Mitchell",
+            "Fiona Costello",
+            "Luanne M. Metz"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4288,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "Has your patient's multiple sclerosis lesion burden or brain atrophy actually changed?",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "",
+        "email": "",
+        "conf": "Multiple Sclerosis",
+        "coauthors": [
+            "Xingchang Wei",
+            "Charles R Guttmann",
+            "Simon K Warfield",
+            "Joseph Ross Mitchell"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4310,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "Reduced visual evoked responses in multiple sclerosis patients with optic neuritis: Comparison of functional magnetic resonance imaging and visual evoked potentials",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "",
+        "email": "",
+        "conf": "Multiple Sclerosis",
+        "coauthors": [
+            "P J Gareau",
+            "Sabiha Gati",
+            "R S Menon",
+            "S J Karlik"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4317,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "Multispectral analysis and visualization of multiple sclerosis lesions in MR volumes of the brain",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "",
+        "email": "",
+        "conf": "Proceedings of SPIE - The International Society for Optical Engineering",
+        "coauthors": [
+            "Joseph Ross Mitchell",
+            "Stephen J. Karlik",
+            "Donald H Lee",
+            "Aaron Fenster"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4258,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "Predicting MGMT Methylation Status of Glioblastomas from MRI Texture",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "In glioblastoma (GBM), promoter methylation of the DNA repair gene MGMT is associated with benefit from chemotherapy. Because MGMT promoter methylation status can not be determined in all cases, a surrogate for the methylation status would be a useful clinical tool. Correlation between methylation status and magnetic resonance imaging features has been reported suggesting that non-invasive MGMT promoter methylation status detection is possible. In this work, a retrospective analysis of T2, FLAIR and T1-post contrast MR images in patients with newly diagnosed GBM is performed using L1-regularized neural networks. Tumor texture, assessed quantitatively was utilized for predicting the MGMT promoter methylation status of a GBM in 59 patients. The texture features were extracted using a space-frequency texture analysis based on the S-transform and utilized by a neural network to predict the methylation status of a GBM. Blinded classification of MGMT promoter methylation status reached an average accuracy of 87.7%, indicating that the proposed technique is accurate enough for clinical use.",
+        "email": "",
+        "conf": "Medical Image Computing and Computer-Assisted Intervention",
+        "coauthors": [
+            "Ilya Levner",
+            "Sylvia Drabycz",
+            "Gloria B Roldan",
+            "Paula De Robes",
+            "J Gregory Cairncross",
+            "Joseph Ross Mitchell"
+        ],
+        "keywords": "Methylation Status, Image Texture, Extract Texture Feature, MGMT Promoter Methylation Status, MGMT Status"
+    },
+    {
+        "id": 4241,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "An algorithm for noise correction of dual-energy computed tomography material density images",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "Dual-energy computed tomography (DECT) images can undergo a two-material decomposition process which results in two images containing material density information. Material density images obtained by that process result in images with increased pixel noise. Noise reduction in those images is desirable in order to improve image quality. A noise reduction algorithm for material density images was developed and tested. A three-level wavelet approach combined with the application of an anisotropic diffusion filter was used. During each level, the resulting noise maps are further processed, until the original resolution is reached and the final noise maps obtained. Our method works in image space and, therefore, can be applied to any type of material density images obtained from any DECT vendor. A quantitative evaluation of the noise-reduced images using the signal-to-noise ratio (SNR), contrast-to-noise ratio (CNR) and 2D noise power spectrum was done to quantify the improvements. The noise reduction algorithm was applied to a set of images resulting in images with higher SNR and CNR than the raw density images obtained by the decomposition process. The average improvement in terms of SNR gain was about 49 % while CNR gain was about 52 %. The difference between the raw and filtered regions of interest mean values was far from reaching statistical significance (minimum p>0.89, average p>0.97). We have demonstrated through a series of quantitative analyses that our novel noise reduction algorithm improves the image quality of DECT material density images.",
+        "email": "",
+        "conf": "International Journal of Computer Assisted Radiology and Surgery",
+        "coauthors": [
+            "Rafael Simon Maia",
+            "Christian Jacob",
+            "Amy K Hara",
+            "Alvin C. Silva",
+            "William Pavlicek",
+            "Joseph Ross Mitchell"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4292,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "A novel method demonstrates that gray and white matter have measurable differences in cerebral perfusion and apparent diffusion coefficient values in stroke penumbra",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "",
+        "email": "",
+        "conf": "Stroke",
+        "coauthors": [
+            "Jessica E Simon",
+            "Michael Bristow",
+            "DM Stepien",
+            "Joseph Ross Mitchell"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4223,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "Computed Tomography-Based Texture Analysis to Determine Human Papillomavirus Status of Oropharyngeal Squamous Cell Carcinoma",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "To determine whether machine learning can accurately classify human papillomavirus (HPV) status of oropharyngeal squamous cell carcinoma (OPSCC) using computed tomography (CT)-based texture analysis. Texture analyses were retrospectively applied to regions of interest from OPSCC primary tumors on contrast-enhanced neck CT, and machine learning was used to create a model that classified HPV status with the highest accuracy. Results were compared against the blinded review of 2 neuroradiologists. The HPV-positive (n = 92) and -negative (n = 15) cohorts were well matched clinically. Neuroradiologist classification accuracies for HPV status (44.9%, 55.1%) were not significantly different (P = 0.13), and there was a lack of agreement between the 2 neuroradiologists (κ = −0.145). The best machine learning model had an accuracy of 75.7%, which was greater than either neuroradiologist (P < 0.001, P = 0.002). Useful diagnostic information regarding HPV infection can be extracted from the CT appearance of OPSCC beyond what is apparent to the trained human eye.",
+        "email": "",
+        "conf": "Journal of Computer Assisted Tomography",
+        "coauthors": [
+            "Sara Ranjbar",
+            "Shuluo Ning",
+            "Christine M. Zwart",
+            "Christopher P. Wood",
+            "Steven M. Weindling",
+            "Teresa Wu",
+            "Joseph Ross Mitchell",
+            "Jing Li",
+            "Joseph M. Hoxworth"
+        ],
+        "keywords": "human papillomavirus,machine learning,oropharyngeal cancer,oropharynx,radiomics,squamous cell carcinoma,texture analysis"
+    },
+    {
+        "id": 4243,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "Active inflammation increases the heterogeneity of MRI texture in mice with relapsing experimental allergic encephalomyelitis",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "Inflammation modulates tissue damage in relapsing-remitting multiple sclerosis (MS) both acutely and chronically, but its severity is difficult to evaluate with conventional MRI analysis. In mice with experimental allergic encephalomyelitis (EAE, a model of MS), we administered ultra small particles of iron oxide to track macrophage-mediated inflammation during the onset (relapse) and recovery (remission) of disease activity using high field MRI. We performed MRI texture analysis, a sensitive measure of tissue regularity, and T2 assessment both in EAE lesions and the control tissue, and measured spinal cord volume. We found that inflammation was 3 times more remarkable at onset than at recovery of EAE in histology yet demyelination appeared similar across animals and disease course. In MRI, lesion texture was more heterogeneous; T2 was lower; and spinal cord volume was greater in EAE than in controls, but only MRI texture was worse at relapse than at remission of EAE. Moreover, MRI texture correlated with spinal cord volume and tended to correlate with the extent of disability in EAE. While subject to further confirmation, our findings may suggest the sensitivity of MRI texture analysis for accessing inflammation.",
+        "email": "",
+        "conf": "Magnetic Resonance Imaging",
+        "coauthors": [
+            "Yunyan Zhang",
+            "Jennifer Wells",
+            "Richard Buist",
+            "James Peeling",
+            "V Wee Yong",
+            "Joseph Ross Mitchell"
+        ],
+        "keywords": "MRI,Texture analysis,Local spatial frequency analysis,InflammationExperimental allergic encephalomyelitis,Histology"
+    },
+    {
+        "id": 4311,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "Image Processing and Feature Detection-A Post-Processing Technique to Suppress Fluid Signal and Increase Contrast in Multispectrel MR Exams of MS Patients",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "",
+        "email": "",
+        "conf": "Lecture Notes in Computer Science",
+        "coauthors": [
+            "Joseph Ross Mitchell",
+            "P Gareau",
+            "S Karlik",
+            "Brian K. Rutt"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4256,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "Smart Phone and Tablet-Based Teleradiology for Rapid Diagnosis",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Jayesh Modi",
+            "Jaret Hargreaves",
+            "Kyle Peterson",
+            "Mayank Goyal",
+            "Joseph Ross Mitchell"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4307,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "Magnetization transfer and multicomponent T2 relaxation measurements with histopathologic correlation in an experimental model of MS",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of Magnetic Resonance Imaging",
+        "coauthors": [
+            "P.J. Gareau",
+            "Brian K. Rutt",
+            "S.J. Karlik",
+            "Joseph Ross Mitchell"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4253,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "Corpus Callosum Volume and Interhemispheric Transfer in Multiple Sclerosis",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "The corpus callosum (CC) is frequently compromised in patients with multiple sclerosis (MS). Structural and functional measurements of the CC may be useful to monitor the progression of the disease. The aim of this pilot study was to determine if bimanual tactile temporal thresholds correlates with CC volume. A tactile temporal threshold is the longest temporal interval that separates the onsets of two tactile stimuli when they are judged by the observer as simultaneous. Judgments to bimanual stimulations require interhemispheric transfer via the CC. Thresholds were examined in MS patients and matched controls. Magnetic resonance (MR) images were acquired on a 3T MR system within 48 hours of clinical assessment and measurement of thresholds. Corpus callosum volume was assessed by using a semiautomatic livewire algorithm. The CC volume was smaller (by 21% on average, p <0.01) and thresholds were higher (by 49% on average, p <0.03) in MS patients when compared to controls. A significant correlation (r = -0.66, p = 0.01) between CC volume and thresholds emerged for the MS patients. Measuring treatment benefits of neuroprotective and repair therapies is a well recognized challenge in MS research. The overall findings of this study suggest that these measurements, which involve the transfer of information interhemispherically via the CC, may be promising outcome measures that warrant further scientific exploration to develop a model to measure recovery.",
+        "email": "",
+        "conf": "The Canadian journal of neurological sciences. Le journal canadien des sciences neurologiques",
+        "coauthors": [
+            "Lenora Brown",
+            "Yunyan Zhang",
+            "Joseph Ross Mitchell",
+            "R Zabad",
+            "L M Metz"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4230,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "Multiparametric Magnetic Resonance Imaging and Texture Analysis to Distinguish Sinonasal Inverted Papilloma from Squamous Cell Carcinoma",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "Inverted papilloma (IP) is an uncommon epithelial tumor that occurs in the sinonasal tract. Although benign, it can exhibit aggressive behavior including a propensity for invasion and recurrence. The association of IP with synchronous or metachronous squamous cell carcinoma (SCCA) is well documented, making the differentiation of these tumor types with imaging relevant. A convoluted cerebriform pattern is recognized on magnetic resonance imaging (MRI) as indicative of, but not entirely specific for, IP. Moreover, this represents a subjective finding that suffers from interobserver variability, particularly with smaller tumors. Determine if MRI texture patterns allow accurate, objective, and potentially automated differentiation of sinonasal IP from SCCA. This retrospective study was approved by the institutional review board, and the need for informed consent was waived. The pathology database was electronically queried to identify patients who underwent surgical resection of sinonasal IP or SCCA between January 1, 2008 and December 31, 2014. For inclusion, a diagnostic quality MRI obtained pre-operatively had to be available in the digital archives and needed to include axial T1, axial T2 fat-suppressed, and axial T1 post-contrast fat-suppressed MRI sequences (1.5 or 3 Tesla) for texture analysis. Subjects were excluded if their age was less than 18 years or if they had received any prior treatment for the tumor with surgery, chemotherapy, or radiation therapy. Images were resampled to ensure each had an 18 cm field-of-view and a 256x256 pixel array. Image intensities were normalized to have the dynamic range of 0–255. A board-certified neuroradiologist identified the axial level at which the tumor had the greatest cross-sectional area and manually placed the largest possible rectangular region of interest (ROI) within the tumor. For each ROI, five widely-known texture algorithms including Gray Level Co-occurrence Matrix, Discrete Orthonormal Stockwell Transform, Gabor Filter Banks, Local Binary Pattern, and Laplacian of Gaussian Histogram were applied to generate the texture features. Next, principal component analysis (PCA), a well-known approach to reducing the dimensionality of the features and increasing the robustness of the predictive models, was implemented. Multiple machine-learning algorithms were then used to find correlations between (potentially non-linear) combinations of texture features and tumor type (IP or SCCA). Leave-one-out cross-validation was used to identify the most accurate machine-learning derived models. Multiparametric MRI in conjunction with advanced imaging informatics techniques (texture analysis and machine learning) can help non-invasively distinguish sinonasal IP from SCCA. Future directions will include the prospective validation of this model.",
+        "email": "",
+        "conf": "Journal of Neurological Surgery Part B: Skull Base",
+        "coauthors": [
+            "Shreya Ramkumar",
+            "Sara Ranjbar",
+            "Shuluo Ning",
+            "Devyani Lal",
+            "Christopher P Wood",
+            "Christine M Zwart",
+            "Teresa Wu",
+            "Joseph Ross Mitchell",
+            "Jing Li",
+            "Joseph M Hoxworth"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4222,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "Computer-Aided Diagnosis of Contrast-Enhanced Spectral Mammography: A Feasibility Study",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "Artificial intelligence (AI) is rapidly moving from an experimental phase to an implementation phase in many fields, including medicine. The combination of improved availability of large datasets, increasing computing power, and advances in learning algorithms has created major performance breakthroughs in the development of AI applications. In the last 5 years, AI techniques known as deep learning have delivered rapidly improving performance in image recognition, caption generation, and speech recognition. Radiology, in particular, is a prime candidate for early adoption of these techniques. It is anticipated that the implementation of AI in radiology over the next decade will significantly improve the quality, value, and depth of radiology's contribution to patient care and population health, and will revolutionize radiologists' workflows. The Canadian Association of Radiologists (CAR) is the national voice of radiology committed to promoting the highest standards in patient-centered imaging, lifelong learning, and research. The CAR has created an AI working group with the mandate to discuss and deliberate on practice, policy, and patient care issues related to the introduction and implementation of AI in imaging. This white paper provides recommendations for the CAR derived from deliberations between members of the AI working group. This white paper on AI in radiology will inform CAR members and policymakers on key terminology, educational needs of members, research and development, partnerships, potential clinical applications, implementation, structure and governance, role of radiologists, and potential impact of AI on radiology in Canada.",
+        "email": "",
+        "conf": "European Journal of Radiology",
+        "coauthors": [
+            "Bhavika K Patel",
+            "Sara Ranjbar",
+            "Teresa Wu",
+            "Joseph Ross Mitchell"
+        ],
+        "keywords": "Artificial intelligence; Deep learning; Healthcare; Imaging; Machine learning; Medicine; Quality improvement; Radiology"
+    },
+    {
+        "id": 4220,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "NIMG-12. RADIOGENOMICS ON VENUS AND MARS: IMPACT OF SEX-DIFFERENCES ON MRI AND GENETIC CORRELATIONS IN GLIOBLASTOMA",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "MRI-based modeling can help characterize the intratumoral genetic heterogeneity of Glioblastoma (GBM). Yet, published models to date have neglected the potential impact of sex-differences on the accuracy of MRI-genetic correlations. Specifically, there is growing awareness that female GBM patients can display different genetic/molecular aberrations and phenotypic expression compared to male counterparts. In this exploratory study, we compare MRI signal and key GBM driver alterations across a cohort of male and female GBM patients, using image-guided biopsies and spatially matched multi-parametric MRI. We collected 61 image-guided biopsies from 18 primary GBM patients (9/9 male/female). For each biopsy, we analyzed DNA copy number variants (CNV) for 6 core GBM driver genes reported by TCGA: amplifications (++) for EGFR and PDGFRA and deletions (--) for PTEN, CDKN2A, RB1, TP53. We compared regional CNV status with spatially matched MRI texture measurements from co-registered biopsy locations. Advanced MRI features included relative cerebral blood volume (rCBV) on DSC-perfusion, mean diffusivity (MD) and fractional anisotropy (FA) on diffusion tensor imaging. We identified univariate correlations for combined and sex-specific (male, female) subgroups. We also built multivariate predictive decision-tree models for each GBM driver gene and used leave-one-out-cross-validation (LOOCV) to determine area-under-curve (AUC) on ROC analysis to compare accuracies across combined and sex-specific models. We identified multiple univariate correlations between regional CNV status and spatially matched MRI texture features that were specific to either male or female GBM tumors. For instance, EGFR++ specifically correlated with T2W image textures in male biopsies but rCBV textures in female biopsies. In general, sex-specific analyses on decision-tree modeling improved predictive accuracies (AUC) compared to combined (male+female) modeling, particularly for EGFR++ (p<0.05), PTEN--(p<0.025), and TP53-- (p<0.025). Sex-differences impact MRI-genetic correlations and warrant further study in larger GBM cohorts.",
+        "email": "",
+        "conf": "Neuro-Oncology",
+        "coauthors": [
+            "Leland Hu",
+            "Nathan Gaw",
+            "Hyunsoo Yoon",
+            "Jennifer Eschbacher",
+            "Lesile C Baxter",
+            "Kris A Smith",
+            "Peter Nakaji",
+            "John P Karis",
+            "Paula Whitmire",
+            "Andrea Hawkins-Daarud",
+            "Kyle Singleton",
+            "Pamela Jackson",
+            "Susan Christine Massey",
+            "Bernard Bendok",
+            "Joseph Mitchell",
+            "Teresa Wu",
+            "Nihan Tran",
+            "Joshua Rubin",
+            "Kristin Swanson",
+            "Jing Li"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4265,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "Self-similarity of Images in the Fourier Domain with Applications to MRI",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "Results presented in this paper represent part of an ongoing research programme dedicated to the resolution enhancement of Fourier domain magnetic resonance (MR) data. Here we explore the use of self-similarity methods that may aid in frequency extrapolation of such data. To this end, we present analytical and empirical results demonstrating the self similarity of complex, Fourier domain MR data.",
+        "email": "",
+        "conf": "Image Analysis and Recognition",
+        "coauthors": [
+            "Greg Mayer",
+            "Edward R. Vrscay",
+            "M. L. Lauzon",
+            "B G Goodyear",
+            "Joseph Ross Mitchell"
+        ],
+        "keywords": "Fourier Domain, Resolution Enhancement, Magnetic Resonance Data, Domain Block, Range Block "
+    },
+    {
+        "id": 4280,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "A novel method to derive separate gray and white matter cerebral blood flow measures from MR imaging of acute ischemic stroke patients",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of Cerebral Blood Flow & Metabolism",
+        "coauthors": [
+            "Jessica E Simon",
+            "Michael Bristow",
+            "Hong Lu",
+            "Joseph Ross Mitchell"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4294,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "Progressive Transmission of 3D MR Images: Data-and Transform-Space Strategies",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "The paper addresses progressive transmission of magnetic resonance images across a network. For an interactive capability, the percentage of the data set transmitted vis-àvis quality of the evolving rendering is fundamental, and three progressive schemes with different characteristics are presented. (a) A basic parallel-slice decomposition is accompanied by the optimal Individually Best Remaining Region (IBRR) ordering algorithm provided. (b) A nonplanar decomposition algorithm with IBRR gives a second direct way. (c) A transform space approach which uses element magnitude ordering followed by inverse transformation supplies a third method for 3D progressive imaging. Results are illustrated and discussed with a 50x256x256 MR head section: (b) is more accurate than (a) for overall rendering if 8, 12, 16 or 20 percent of the data are transmitted, while (c) is effective for showing internal detail (MS lesions) earlier in its sequence – in fact when only 1% of the data is transmitted and used.",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Robert A Brown",
+            "Ismael Baeza",
+            "Hongmei Zhu",
+            "Rafael J Villanueva",
+            "Joseph Ross Mitchell",
+            "Javier Villanueva-Oller",
+            "Alan G Law"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4269,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "Applying the S-Transform to Magnetic Resonance Imaging Texture Analysis",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "Texture analysis is an important tool for quantitative assessment of medical signals and images. In particular, texture characteristics can help classify and segment specific types of pathology. Often, texture features are extracted from co-occurrence measures of small neighborhoods of pixels. However, methods based on co-occurrence statistics have been largely unsuccessful at differentiating between benign and malignant tissues. We present a texture analysis approach for magnetic resonance images based on local spectral analysis using the Stransform. Our technique produces a texture curve for each pixel in an image that contains spatial frequencies up to the Nyquist frequency. We have successfully used this approach to examine texture characteristics of oligodendroglioma brain tumors. Using our approach, we are able to classify chemosensitive and chemoresistant tumors with high sensitivity and specificity. Texture analysis of magnetic resonance images based on the S-transform may allow improved diagnosis and monitoring of neurological pathology.",
+        "email": "rmitch@imaginginformatics.ca",
+        "conf": "Pseudo-differential operators: Partial differential equations and time-frequency analysis",
+        "coauthors": [
+            "Thorarin A Bjarnason",
+            "Sylvia Drabycz",
+            "Daniel H Adler",
+            "J Gregory Cairncross",
+            "Joseph Ross Mitchell"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4278,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "Real-Time Super Resolution Contextual Close-up of Clinical Volumetric Data.",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "We present an illustrative visualization system for real-time and high quality rendering of clinical volumetric medical data. Our technique is inspired by a medical illustration technique for depicting contextual close-up views of selected regions of interest where internal anatomical features are rendered in high detail. Our method integrates four important components: decimation of original volume for interactivity, B-spline subdivision for super-resolution rendering, fast gradient quantization technique for feature extraction and GPU fragment shaders for gradient dependent rendering and transfer functions. Examples with clinical CT and MRI data demonstrate the capabilities of our system.",
+        "email": "",
+        "conf": "Joint Eurographics/IEEE VGTC conference on Visualization. Eurographics Association",
+        "coauthors": [
+            "T. Taerum",
+            "Mario Costa Sousa",
+            "Faramarz F. Samavati",
+            "S Chan",
+            "Joseph Ross Mitchell"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4257,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "An analysis of image texture tumor location and MGMT promoter methylation in glioblastoma using magnetic resonance imaging",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "In glioblastoma (GBM), promoter methylation of the DNA repair gene O6-methylguanine-DNA methyltransferase (MGMT) is associated with benefit from chemotherapy. Correlations between MGMT promoter methylation and visually assessed imaging features on magnetic resonance (MR) have been reported suggesting that noninvasive detection of MGMT methylation status might be possible. Our study assessed whether MGMT methylation status in GBM could be predicted using MR imaging. We conducted a retrospective analysis of MR images in patients with newly diagnosed GBM. Tumor texture was assessed by two methods. First, we analyzed texture by expert consensus describing the tumor borders, presence or absence of cysts, pattern of enhancement, and appearance of tumor signal in T2-weighted images. Then, we applied space–frequency texture analysis based on the S-transform. Tumor location within the brain was determined using automatized image registration and segmentation techniques. Their association with MGMT methylation was analyzed. We confirmed that ring enhancement assessed visually is significantly associated with unmethylated MGMT promoter status (P = 0.006). Texture features on T2-weighted images assessed by the space–frequency analysis were significantly different between methylated and unmethylated cases (P < 0.05). However, blinded classification of MGMT promoter methylation status reached an accuracy of only 71%. There were no significant differences in the locations of methylated and unmethylated GBM tumors. Our results provide further evidence that individual MR features are associated with MGMT methylation but better algorithms for predicting methylation status are needed. The relevance of this study lies on the application of novel techniques for the analysis of anatomical MR images of patients with GBM allowing the evaluation of subtleties not seen by an observer and facilitating the standardization of the methods, decreasing the potential for interobserver bias.",
+        "email": "",
+        "conf": "NeuroImage",
+        "coauthors": [
+            "Sylvia Drabycz",
+            "Gloria B Roldan",
+            "Paula A de Robles",
+            "Daniel Adler",
+            "John B Mclntyre",
+            "Anthony M Magliocco",
+            "J Grefory Cairncross",
+            "Joseph Ross Mitchell"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4324,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "Line integral computations : a comparison of several algorithms /",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "Integrals along lines passing through arrays of integer data are used in many applications. Existing algorithms employ parametric methods and floating point calculations to determine the data values that contribute to the line integrals, along with some form of interpolation to weight these data values. A new, nonparametric integer‐arithmetic noninterpolating algorithm (NI0) and an extension using first‐order interpolation (NI1) are presented here. These algorithms are compared for accuracy and speed with both Siddon’s [Med. Phys. 1 2, 252 (1985)] parametric floating point algorithm using no interpolation (PF0) and our extension using first‐order interpolation (PF1). NI1 gives line integral values significantly closer to those of PF1 than does PF0 and runs nine times faster on a VAXstation 2000. NI0 gives less accurate line integral values than does PF0 but runs 19 times faster.",
+        "email": "",
+        "conf": "Computers in Physics",
+        "coauthors": [
+            "Joseph Ross Mitchell",
+            "Peter Dickof",
+            "Alan G. Law"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4297,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "PWI/DWI mismatch: Better definition required - Response",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "",
+        "email": "",
+        "conf": "Stroke",
+        "coauthors": [
+            "Shelagh B Coutts",
+            "Jessica E Simon",
+            "Andrew Demchuk",
+            "Joseph Ross Mitchell"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4221,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "Canadian Association of Radiologists White Paper on Artificial Intelligence in Radiology",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "Artificial intelligence (AI) is rapidly moving from an experimental phase to an implementation phase in many fields, including medicine. The combination of improved availability of large datasets, increasing computing power, and advances in learning algorithms has created major performance breakthroughs in the development of AI applications. In the last 5 years, AI techniques known as deep learning have delivered rapidly improving performance in image recognition, caption generation, and speech recognition. Radiology, in particular, is a prime candidate for early adoption of these techniques. It is anticipated that the implementation of AI in radiology over the next decade will significantly improve the quality, value, and depth of radiology's contribution to patient care and population health, and will revolutionize radiologists' workflows. The Canadian Association of Radiologists (CAR) is the national voice of radiology committed to promoting the highest standards in patient-centered imaging, lifelong learning, and research. The CAR has created an AI working group with the mandate to discuss and deliberate on practice, policy, and patient care issues related to the introduction and implementation of AI in imaging. This white paper provides recommendations for the CAR derived from deliberations between members of the AI working group. This white paper on AI in radiology will inform CAR members and policymakers on key terminology, educational needs of members, research and development, partnerships, potential clinical applications, implementation, structure and governance, role of radiologists, and potential impact of AI on radiology in Canada.",
+        "email": "",
+        "conf": "Canadian Association of Radiologists Journal",
+        "coauthors": [
+            "An Tang, Roger Tam, Alexandre Cadrin-Chênevert, Will Guest, Jaron Chong, Joseph Barfett, Leonid Chepelev, Robyn Cairns, J Ross Mitchell, Mark D Cicero, Manuel Gaudreau Poudrette 10, Jacob L Jaremko, Caroline Reinhold, Benoit Gallix, Bruce Gray, Raym Geis"
+        ],
+        "keywords": "Artificial intelligence, Machine learning, Deep learning, Radiology, Imaging, Medicine, Healthcare, Quality improvement"
+    },
+    {
+        "id": 4291,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "Minocycline Reduces Gadolinium-Enhancing Magnetic Resonance Imaging Lesions in Multiple Sclerosis [1]",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "",
+        "email": "",
+        "conf": "Annals of Neurology",
+        "coauthors": [
+            "Luanne M Metz",
+            "Yunyan Zhang",
+            "Michael Yeung",
+            "Joseph Ross Mitchell"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4284,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "Texture analysis for non-invasive identification of brain tumor genotype from MRI",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "Traditional time-frequency analysis is either limited to fixed window widths (short-time Fourier transform) or non-sinusoidal basis functions (wavelets). The recently developed S-transform (ST) combines features from both to reveal frequency variation over both space and time. The ST has been used successfully in the medical imaging field for noise removal and texture analysis of brain magnetic resonance (MR) images. We have developed an ST-based texture analysis procedure capable of differentiating two genetically distinct forms of oligodendroglioma, a malignant brain tumor. As only one of these forms is sensitive to chemotherapy, correct classification is critical to proper treatment. While a brain biopsy is necessary to obtain tissue for genetic analysis, our method is non-invasive, utilizing only information from MR imaging. Oligodendroglioma is a malignant brain cancer. Unlike other brain tumors oligodendroglioma is sometimes sensitive to treatment with chemotherapy. It is known that a specific genetic abnormality, loss of the chromosomal arms 1p and 19q, is a strong predictor of this chemosensitivity. However, genetic analysis requires an invasive biopsy operation. Nevertheless, proper classification of tumor genotype is critical for disease management and patient prognosis. We present a noninvasive method for classifying oligodendroglioma tumors into 1p/19q deleted and intact groups using a new method we have developed for texture analysis of magnetic resonance images. Our results show a highly significant difference between the two tumor groups on each of three common MR contrasts.",
+        "email": "rmitch@ucalgary.ca",
+        "conf": "International Conference on Visualization, Imaging, and Image Processing, ACTA",
+        "coauthors": [
+            "Robert A Brown",
+            "Magdelena Zlatescu",
+            "J Grefory Cairncross",
+            "Joseph Ross Mitchell"
+        ],
+        "keywords": "S-transform, time-frequency analysis, texture analysis, MR imaging, oligodendroglioma, brain cancer"
+    },
+    {
+        "id": 4217,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "Accurate Patient-Specific Machine Learning Models of Glioblastoma Invasion Using Transfer Learning",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "MR imaging–based modeling of tumor cell density can substantially improve targeted treatment of glioblastoma. Unfortunately, interpatient variability limits the predictive ability of many modeling approaches. We present a transfer learning method that generates individualized patient models, grounded in the wealth of population data, while also detecting and adjusting for interpatient variabilities based on each patient's own histologic data. We recruited patients with primary glioblastoma undergoing image-guided biopsies and preoperative imaging, including contrast-enhanced MR imaging, dynamic susceptibility contrast MR imaging, and diffusion tensor imaging. We calculated relative cerebral blood volume from DSC-MR imaging and mean diffusivity and fractional anisotropy from DTI. Following image coregistration, we assessed tumor cell density for each biopsy and identified corresponding localized MR imaging measurements. We then explored a range of univariate and multivariate predictive models of tumor cell density based on MR imaging measurements in a generalized one-model-fits-all approach. We then implemented both univariate and multivariate individualized transfer learning predictive models, which harness the available population-level data but allow individual variability in their predictions. Finally, we compared Pearson correlation coefficients and mean absolute error between the individualized transfer learning and generalized one-model-fits-all models. Tumor cell density significantly correlated with relative CBV (r = 0.33, P < .001), and T1-weighted postcontrast (r = 0.36, P < .001) on univariate analysis after correcting for multiple comparisons. With single-variable modeling (using relative CBV), transfer learning increased predictive performance (r = 0.53, mean absolute error = 15.19%) compared with one-model-fits-all (r = 0.27, mean absolute error = 17.79%). With multivariate modeling, transfer learning further improved performance (r = 0.88, mean absolute error = 5.66%) compared with one-model-fits-all (r = 0.39, mean absolute error = 16.55%). Transfer learning significantly improves predictive modeling performance for quantifying tumor cell density in glioblastoma.",
+        "email": "",
+        "conf": "American Journal of Neuroradiology",
+        "coauthors": [
+            "L.S. Hu",
+            "H. Yoon",
+            "J.M. Eschbacher",
+            "L.C. Baxter",
+            "A.C. Dueck",
+            "A. Nespodzany",
+            "K.A. Smith",
+            "P. Nakaji",
+            "Y. Xu",
+            "L. Wang",
+            "J.P. Karis",
+            "A.J. Hawkins-Daarud",
+            "K.W. Singleton",
+            "P.R. Jackson",
+            "B.J. Anderies",
+            "B.R. Bendok",
+            "R.S. Zimmerman",
+            "C. Quarles",
+            "A.B. Porter-Umphrey",
+            "M.M. Mrugala",
+            "A. Sharma",
+            "J.M. Hoxworth",
+            "M.G. Sattur",
+            "N. Sanai",
+            "P.E. Koulemberis",
+            "C. Krishna",
+            "Joseph Ross Mitchell",
+            "T. Wu",
+            "N.L. Tran",
+            "K.R. Swanson",
+            "J. Li"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4289,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "Posterior fossa lesion volume and slowed information processing in multiple sclerosis",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "",
+        "email": "",
+        "conf": "Brain",
+        "coauthors": [
+            "Catherine J Archibald",
+            "Xingchang Wei",
+            "James N Scott",
+            "Joseph Ross Mitchell"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4235,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "Selection and Pilot Implementation of a Mobile Image Viewer: A Case Study",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "For health care providers, mobile image viewing increases image accessibility, which could lead to faster interpretation/consultations and improved patient outcomes. We explored the technical requirements and challenges associated with implementing a commercial mobile image viewer and conducted a small study testing the hypothesis that the mobile image viewer would provide faster image access. A total of 19 clinicians (9 radiologists, 3 surgeons, 4 neurologists, and 3 physician assistants) evaluated (1) a desktop commercial picture archiving and communication system (PACS) viewer, (2) a desktop viewer developed internally over 20 years and deployed throughout the enterprise (ENTERPRISE viewer) and (3) a commercial Food and Drug Administration class II-cleared mobile viewer compatible with Web browsers, tablets, and mobile phones. Data were collected during two separate 7-day periods, before and after mobile image viewer deployment. Data included image viewer chosen, time to view first image, technical issues, diagnostic confidence, and ease of use. A mobile viewer provided faster time to first image, improved technical performance, ease of use, and diagnostic confidence, compared with desktop image viewers.",
+        "email": "",
+        "conf": "JMIR mHealth and uHealth",
+        "coauthors": [
+            "Christine Marie Zwart",
+            "Miao He",
+            "Teresa Wu",
+            "Bart M Demaerschalk",
+            "Joseph Ross Mitchell",
+            "Amy K Hara"
+        ],
+        "keywords": "mHealth; Pilot projects; Radiology; Telemedicine; Teleradiology "
+    },
+    {
+        "id": 4229,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "Radiogenomics to characterize regional genetic heterogeneity in glioblastoma",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "Glioblastoma (GBM) exhibits profound intratumoral genetic heterogeneity. Each tumor comprises multiple genetically distinct clonal populations with different therapeutic sensitivities. This has implications for targeted therapy and genetically informed paradigms. Contrast-enhanced (CE)-MRI and conventional sampling techniques have failed to resolve this heterogeneity, particularly for nonenhancing tumor populations. This study explores the feasibility of using multiparametric MRI and texture analysis to characterize regional genetic heterogeneity throughout MRI-enhancing and nonenhancing tumor segments. We collected multiple image-guided biopsies from primary GBM patients throughout regions of enhancement (ENH) and nonenhancing parenchyma (so called brain-around-tumor, [BAT]). For each biopsy, we analyzed DNA copy number variants for core GBM driver genes reported by The Cancer Genome Atlas. We co-registered biopsy locations with MRI and texture maps to correlate regional genetic status with spatially matched imaging measurements. We also built multivariate predictive decision-tree models for each GBM driver gene and validated accuracies using leave-one-out-cross-validation (LOOCV). We collected 48 biopsies (13 tumors) and identified significant imaging correlations (univariate analysis) for 6 driver genes: EGFR, PDGFRA, PTEN, CDKN2A, RB1, and TP53. Predictive model accuracies (on LOOCV) varied by driver gene of interest. Highest accuracies were observed for PDGFRA (77.1%), EGFR (75%), CDKN2A (87.5%), and RB1 (87.5%), while lowest accuracy was observed in TP53 (37.5%). Models for 4 driver genes (EGFR, RB1, CDKN2A, and PTEN) showed higher accuracy in BAT samples (n = 16) compared with those from ENH segments (n = 32).MRI and texture analysis can help characterize regional genetic heterogeneity, which offers potential diagnostic value under the paradigm of individualized oncology.",
+        "email": "",
+        "conf": "Neuro-Oncology",
+        "coauthors": [
+            "Leland S. Hu",
+            "Shuluo Ning",
+            "Jennifer M. Eschbacher",
+            "Leslie C. Baxter",
+            "Nathan Gaw",
+            "Sara Ranjbar",
+            "Jonathan Plasencia",
+            "Amylou C. Dueck",
+            "Sen Peng",
+            "Kris A. Smith",
+            "Peter Nakaji",
+            "John P. Karis",
+            "C. Chad Quarles",
+            "Teresa Wu",
+            "Joseph C. Loftus",
+            "Robert B. Jenkins",
+            "Hugues Sicotte",
+            "Thomas M. Kollmeyer",
+            "Brian P. O'Neill",
+            "William Elmquist",
+            "Joseph M. Hoxworth",
+            "David Frakes",
+            "Jann Sarkaria",
+            "Kristin R. Swanson",
+            "Nhan L. Tran",
+            "Jing Li",
+            "Joseph Ross Mitchell"
+        ],
+        "keywords": "genetic, glioblastoma, heterogeneity, radiogenomics, texture"
+    },
+    {
+        "id": 4261,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "Image Texture Characterization Using the Discrete Orthonormal S-Transform.",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "We present a new efficient approach for characterizing image texture based on a recently published discrete, orthonormal space-frequency transform known as the DOST. We develop a frequency-domain implementation of the DOST in two dimensions for the case of dyadic frequency sampling. Then, we describe a rapid and efficient approach to obtain local spatial frequency information for an image and show that this information can be used to characterize the horizontal and vertical frequency patterns in synthetic images. Finally, we demonstrate that DOST components can be combined to obtain a rotationally invariant set of texture features that can accurately classify a series of texture patterns. The DOST provides the computational efficiency and multi-scale information of wavelet transforms, while providing texture features in terms of Fourier frequencies. It outperforms leading wavelet-based texture analysis methods.",
+        "email": "",
+        "conf": "Journal of digital imaging",
+        "coauthors": [
+            "Sylvia Drabycz",
+            "Robert Glenn Stockwell",
+            "Joseph Ross Mitchell"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4300,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "Segmentation of multiple sclerosis lesions using support vector machines",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "",
+        "email": "",
+        "conf": "Proceedings of SPIE - The International Society for Optical Engineering",
+        "coauthors": [
+            "Ricardo J. Ferrari",
+            "Xingchang Wei",
+            "Yunyan Zhang",
+            "Joseph Ross Mitchell"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4268,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "Isosurface Ambient Occlusion and Soft Shadows with Filterable Occlusion Maps.",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "Volumetric data sets are often examined by displaying isosurfaces, surfaces where the data or function takes on a given value. We propose a new method for rendering isosurfaces at interactive rates while supporting dynamic ambient occlusion and/or soft shadows and requiring minimal pre-computation time. By approximating the occlusion in a region as the percentage of occluding voxels in that region, we reduce the ambient occlusion problem to the same problem faced in soft shadow mapping algorithms. In order to quickly extract the number of occluding voxels in an image region, we propose representing distributions using filterable representations such as variance shadow maps or convolution shadow maps. By choosing different sampling patterns from these maps we can dynamically approximate ambient occlusion and/or soft shadows.",
+        "email": "",
+        "conf": "IEEE/ EG Symposium on Volume and Point-Based Graphics",
+        "coauthors": [
+            "Eric Penner",
+            "Joseph Ross Mitchell"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4263,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "Texture quantification of medical images using a novel complex space-frequency transform",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "To develop an efficient space-frequency transform for texture analysis and demonstrate its application on magnetic resonance (MR) images of multiple sclerosis (MS) patients. We applied our new transform to MR images of three enhancing lesions from two relapsing-remitting MS patients acquired serially over 9 months. Local spectra of the images were generated using our new technique, and spatial frequencies corresponding to MS lesion activity were extracted by applying a band-pass filter and inverting. We examined the changes in T2 intensity and low-frequency energy (LFE) over time within the lesion, surrounding tissue and a region of normal-appearing white matter (NAWM). We calculated complex local spectra of 428 × 428 images in approximately 1 min and achieved a spatial frequency resolution of 0.05 cm−1. We observed an increase in LFE within the lesion and a drop in LFE in the hyperintense border of tissue surrounding the lesion. We have developed an efficient, invertible transform that produces high-resolution local frequency spectra of an MR image in approximately 1 min. Negative LFE values in the boundaries of an active lesion may help discriminate between the core lesion undergoing demyelination and a border of inflammation.",
+        "email": "",
+        "conf": "International Journal of Computer Assisted Radiology and Surgery",
+        "coauthors": [
+            "Sylvia Drabycz",
+            "Joseph Ross Mitchell"
+        ],
+        "keywords": "Fourier analysis, Computer-assisted image interpretation, Magnetic resonance imaging, Multiple sclerosis"
+    },
+    {
+        "id": 4238,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "MRI Texture Analysis Predicts p53 Status in Head and Neck Squamous Cell Carcinoma",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "Head and neck cancer is common, and understanding the prognosis is an important part of patient management. In addition to the Tumor, Node, Metastasis staging system, tumor biomarkers are becoming more useful in understanding prognosis and directing treatment. We assessed whether MR imaging texture analysis would correctly classify oropharyngeal squamous cell carcinoma according to p53 status. A cohort of 16 patients with oropharyngeal squamous cell carcinoma was prospectively evaluated by using standard clinical, histopathologic, and imaging techniques. Tumors were stained for p53 and scored by an anatomic pathologist. Regions of interest on MR imaging were selected by a neuroradiologist and then analyzed by using our 2D fast time-frequency transform tool. The quantified textures were assessed by using the subset-size forward-selection algorithm in the Waikato Environment for Knowledge Analysis. Features found to be significant were used to create a statistical model to predict p53 status. The model was tested by using a Bayesian network classifier with 10-fold stratified cross-validation.  Feature selection identified 7 significant texture variables that were used in a predictive model. The resulting model predicted p53 status with 81.3% accuracy (P < .05). Cross-validation showed a moderate level of agreement (κ = 0.625). This study shows that MR imaging texture analysis correctly predicts p53 status in oropharyngeal squamous cell carcinoma with ∼80% accuracy. As our knowledge of and dependence on tumor biomarkers expand, MR imaging texture analysis warrants further study in oropharyngeal squamous cell carcinoma and other head and neck tumors.",
+        "email": "",
+        "conf": "American Journal of Neuroradiology",
+        "coauthors": [
+            "M Dang",
+            "John T Lysack",
+            "Teresa Wu",
+            "T.W. Matthews",
+            "S.P. Chandarana",
+            "N.T. Brockton",
+            "P. Bose",
+            "G. Bansal",
+            "H. Cheng",
+            "Joseph Ross Mitchell",
+            "Joseph Dort"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4232,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "Adaptive noise correction of dual-energy computed tomography images",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "Noise reduction in material density images is a necessary preprocessing step for the correct interpretation of dual-energy computed tomography (DECT) images. In this paper we describe a new method based on a local adaptive processing to reduce noise in DECT images. An adaptive neighborhood Wiener (ANW) filter was implemented and customized to use local characteristics of material density images. The ANW filter employs a three-level wavelet approach, combined with the application of an anisotropic diffusion filter. Material density images and virtual monochromatic images are noise corrected with two resulting noise maps. The algorithm was applied and quantitatively evaluated in a set of 36 images. From that set of images, three are shown here, and nine more are shown in the online supplementary material. Processed images had higher signal-to-noise ratio (SNR) and contrast-to-noise ratio (CNR) than the raw material density images. The average improvements in SNR and CNR for the material density images were 56.5 and 54.75 %, respectively. We developed a new DECT noise reduction algorithm. We demonstrate throughout a series of quantitative analyses that the algorithm improves the quality of material density images and virtual monochromatic images.  ",
+        "email": "",
+        "conf": "International Journal of Computer Assisted Radiology and Surgery",
+        "coauthors": [
+            "Rafael Simon Maia",
+            "Christian Jacob",
+            "Amy K. Hara",
+            "Alvin C. Silva",
+            "William Pavlicek",
+            "Joseph Ross Mitchell"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4293,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "3D Progressive Imaging with Feature Selection.",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "Progressive transmission of 3D images with an added capability for accelerated rendering of a selected subfeature is presented. The overall progressive imaging scheme here uses the Fourier transform ℑ of an image A: decreasing ordering of element magnitudes in ℑ (A) space, partial selection and then application of ℑ-1 provides an effective progressive imaging algorithm. The same Fourier-based technique is employed for accelerated filling out of a selected emerging subfeature. Effectiveness of the combination is illustrated and discussed, with a 50×256×256 magnetic resonance head data set.",
+        "email": "",
+        "conf": "International Conference on Mathematics and Engineering Techniques in Medicine and Biological Scienes, METMBS",
+        "coauthors": [
+            "Robert A Brown",
+            "Hongmei Zhu",
+            "Joseph Ross Mitchell",
+            "A. G. Law"
+        ],
+        "keywords": "Interactive progressive imaging"
+    },
+    {
+        "id": 4279,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "MR perfusion and diffusion in acute ischemic stroke: Human gray and white matter have different thresholds for infarction",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of Cerebral Blood Flow & Metabolism",
+        "coauthors": [
+            "Michael Bristow",
+            "Jessica E Simon",
+            "Robert A Brown",
+            "Joseph Ross Mitchell"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4286,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "Progressive Transmission of Digital Images: Four-step Multidimensional Procedures",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of Mathematical Imaging and Vision",
+        "coauthors": [
+            "Ismael Baeza",
+            "RJ Villanueva",
+            "A Law",
+            "Robert A Brown"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4283,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "Resolution-Dependent Estimates of Multiple Sclerosis Lesion Loads",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "",
+        "email": "",
+        "conf": "The Canadian journal of neurological sciences. Le journal canadien des sciences neurologiques",
+        "coauthors": [
+            "M.K. Erskine",
+            "L.L. Cook",
+            "K.E. Riddle",
+            "S.J. Karlik"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4314,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "Quantification of multiple sclerosis lesion volumes in 1.5 and 0.5 T anisotropically filtered and unfiltered MR exams",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "",
+        "email": "",
+        "conf": "Medical Physics",
+        "coauthors": [
+            "Joseph Ross Mitchell",
+            "Stephen J. Karlik",
+            "Donald H. Lee",
+            "Aaron Fenster"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4302,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "Recanalization regardless of tPA use improves clinical outcome and reduces infarct growth on MRI in stroke patients",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "",
+        "email": "",
+        "conf": "Stroke",
+        "coauthors": [
+            "Jessica E Simon",
+            "Joseph Ross Mitchell",
+            "Richard Frayne",
+            "R Sevick"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4309,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "Sonographic surveillance of abdominal aortic aneurysms: What is the smallest change in measured diameter that reliably reflects aneurysm growth?",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "",
+        "email": "",
+        "conf": "Canadian Association of Radiologists Journal",
+        "coauthors": [
+            "M H Schmidt",
+            "Joseph Ross Mitchell",
+            "D B Downey"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4298,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "Texture Analysis of MR Images of Minocycline Treated MS Patients",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "",
+        "email": "",
+        "conf": "Lecture Notes in Computer Science",
+        "coauthors": [
+            "Yunyan Zhang",
+            "Hongmei Zhu",
+            "Ricardo J. Ferrari",
+            "Joseph Ross Mitchell"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4236,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "Texture analysis of images using a two-dimensional fast time-frequency transform",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "The two-dimensional S-transform (ST-2D) is a time-frequency representation that is widely used in medical image processing but prohibitive in both storage and computation time. The high computation time required for generating local spectrum discourages the use of ST-2D for analyzing textures in medical images. A two-dimensional fast time-frequency transform (FTFT-2D) for computing the local spectrum instantaneously and accurately is proposed. It can also be used to compute the complete redundant discrete ST-2D output, if needed. It reduces the storage requirement by generating a compressed form of the ST-2D. In addition, the memory efficient and adaptive nature of the FTFT-2D make it suitable for user-specific requirements.",
+        "email": "",
+        "conf": "Journal of Medical Imaging",
+        "coauthors": [
+            "Chun Hing Cheng",
+            "Pyari Mohan Pradhan",
+            "Joseph Ross Mitchell"
+        ],
+        "keywords": "medical image processing, S-transform, time–time-transform, time-frequency representation"
+    },
+    {
+        "id": 4259,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "Multiexponential T2 and Magnetization Transfer MRI of Demyelination and Remyelination in Murine Spinal Cord",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "Identification of remyelination is important in the evaluation of potential treatments of demyelinating diseases such as multiple sclerosis. Local injection of lysolecithin into the brain or spinal cord provides a murine model of demyelination with spontaneous remyelination. The aim of this study was to determine if quantitative, multicomponent T2 (qT2) analysis and magnetization transfer ratio (MTR), both indicative of myelin content, could detect changes in myelination, particularly remyelination, of the cervical spinal cord in mice treated with lysolecithin. We found that the myelin water fraction and geometric mean T2 value of the intra/extracellular water significantly decreased at 14 days then returned to control levels by 28 days after injury, corresponding to clearance of myelin debris and remyelination which was shown by eriochrome cyanine and oil red O staining of histological sections. The MTR was significantly decreased 14 days after lysolecithin injection, and remained low over the time course studied. Evidence of demyelination shown by both qT2 and MTR lagged behind the histological evidence of demyelination. Myelin water fraction increased with remyelination, however MTR remained lower after 28 days. The difference between qT2 and MTR may identify early remyelination.",
+        "email": "",
+        "conf": "NeuroImage",
+        "coauthors": [
+            "Cheryl R Mccreary",
+            "Thorarin A Bjarnason",
+            "Viktor Skihar",
+            "Joseph Ross Mitchell",
+            "Wee Yong",
+            "Jeff Dunn"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4231,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "Multi-Parametric MRI and Texture Analysis to Visualize Spatial Histologic Heterogeneity and Tumor Extent in Glioblastoma",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "Genetic profiling represents the future of neuro-oncology but suffers from inadequate biopsies in heterogeneous tumors like Glioblastoma (GBM). Contrast-enhanced MRI (CE-MRI) targets enhancing core (ENH) but yields adequate tumor in only ~60% of cases. Further, CE-MRI poorly localizes infiltrative tumor within surrounding non-enhancing parenchyma, or brain-around-tumor (BAT), despite the importance of characterizing this tumor segment, which universally recurs. In this study, we use multiple texture analysis and machine learning (ML) algorithms to analyze multi-parametric MRI, and produce new images indicating tumor-rich targets in GBM. We recruited primary GBM patients undergoing image-guided biopsies and acquired pre-operative MRI: CE-MRI, Dynamic-Susceptibility-weighted-Contrast-enhanced-MRI, and Diffusion Tensor Imaging. Following image coregistration and region of interest placement at biopsy locations, we compared MRI metrics and regional texture with histologic diagnoses of high- vs low-tumor content (≥80% vs <80% tumor nuclei) for corresponding samples. In a training set, we used three texture analysis algorithms and three ML methods to identify MRI-texture features that optimized model accuracy to distinguish tumor content. We confirmed model accuracy in a separate validation set. We collected 82 biopsies from 18 GBMs throughout ENH and BAT. The MRI-based model achieved 85% cross-validated accuracy to diagnose high- vs low-tumor in the training set (60 biopsies, 11 patients). The model achieved 81.8% accuracy in the validation set (22 biopsies, 7 patients). Multi-parametric MRI and texture analysis can help characterize and visualize GBM’s spatial histologic heterogeneity to identify regional tumor-rich biopsy targets.",
+        "email": "",
+        "conf": "PLoS ONE",
+        "coauthors": [
+            "Leland S. Hu",
+            "Shuluo Ning",
+            "Jennifer M. Eschbacher",
+            "Nathan Gaw",
+            "Amylou C Dueck",
+            "Kris A Smith",
+            "Peter Nakaji",
+            "Jonathan Plasencia",
+            "Sara Ranjbar",
+            "Stephen J Price",
+            "Nhan Tran",
+            "Joseph Loftus",
+            "Robert Jenkins",
+            "Brian P O'Neill",
+            "William Elmquist",
+            "Leslie C Baxter",
+            "Fei Gao",
+            "David Frakes",
+            "John P Karis",
+            "Christine Zwart",
+            "Kristin R Swanson",
+            "Jann Sarkaria",
+            "Teresa Wu",
+            "Joseph Ross Mitchell",
+            "Jing Li"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4295,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "Removal of phase artifacts from fMRI data using a Stockwell transform filter improves brain activity detection",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "",
+        "email": "",
+        "conf": "Magnetic Resonance in Medicine",
+        "coauthors": [
+            "Bradley G Goodyear",
+            "Hongmei Zhu",
+            "Robert A Brown",
+            "Joseph Ross Mitchell"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4218,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "Brain MR Radiomics to Differentiate Cognitive Disorders",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "Subtle and gradual changes occur in the brain years before cognitive impairment due to age-related neurodegenerative disorders. The authors examined the utility of hippocampal texture analysis and volumetric features extracted from brain magnetic resonance (MR) data to differentiate between three cognitive groups (cognitively normal individuals, individuals with mild cognitive impairment, and individuals with Alzheimer’s disease) and neuropsychological scores on the Clinical Dementia Rating (CDR) scale. Data from 173 unique patients with 3-T T1-weighted MR images from the Alzheimer’s Disease Neuroimaging Initiative database were analyzed. A variety of texture and volumetric features were extracted from bilateral hippocampal regions and were used to perform binary classification of cognitive groups and CDR scores. The authors used diagonal quadratic discriminant analysis in a leave-one-out cross-validation scheme. Sensitivity, specificity, and area under the receiver operating characteristic curve were used to assess the performance of models. The results show promise for hippocampal texture analysis to distinguish between no impairment and early stages of impairment. Volumetric features were more successful at differentiating between no impairment and advanced stages of impairment. MR radiomics may be a promising tool to classify various cognitive groups.",
+        "email": "",
+        "conf": "Journal of Neuropsychiatry",
+        "coauthors": [
+            "Sara Ranjbar",
+            "Stefanie N Velgos",
+            "Amylou C. Dueck",
+            "Yonas E Geda",
+            "Joseph Ross Mitchell"
+        ],
+        "keywords": "MRI, Texture analysis, Alzheimer’s disease, Mild cognitive impairment, Machine learning, Radiomics"
+    },
+    {
+        "id": 4281,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "Neuroprotective effect of minocycline? A longitudinal MRI study in MS patients treated with minocycline",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "",
+        "email": "",
+        "conf": "Multiple Sclerosis",
+        "coauthors": [
+            "Yunyan Zhang",
+            "LM Metz",
+            "Voon Wee Yong",
+            "Joseph Ross Mitchell"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4228,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "RADIOGENOMICS TO CHARACTERIZE REGIONAL GENETIC HETEROGENEITY IN GLIOBLASTOMA",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "Glioblastoma (GBM) exhibits profound intratumoral genetic heterogeneity. Each tumor comprises multiple genetically distinct clonal populations with different therapeutic sensitivities. This has implications for targeted therapy and genetically informed paradigms. Contrast-enhanced (CE)-MRI and conventional sampling techniques have failed to resolve this heterogeneity, particularly for nonenhancing tumor populations. This study explores the feasibility of using multiparametric MRI and texture analysis to characterize regional genetic heterogeneity throughout MRI-enhancing and nonenhancing tumor segments. . We collected multiple image-guided biopsies from primary GBM patients throughout regions of enhancement (ENH) and nonenhancing parenchyma (so called brain-around-tumor, [BAT]). For each biopsy, we analyzed DNA copy number variants for core GBM driver genes reported by The Cancer Genome Atlas. We co-registered biopsy locations with MRI and texture maps to correlate regional genetic status with spatially matched imaging measurements. We also built multivariate predictive decisiontree models for each GBM driver gene and validated accuracies using leave-one-out-cross-validation (LOOCV). MRI and texture analysis can help characterize regional genetic heterogeneity, which offers potential diagnostic value under the paradigm of individualized oncology.",
+        "email": "",
+        "conf": "Neuro-Oncology",
+        "coauthors": [
+            "Leland S. Hu",
+            "Shuluo Ning",
+            "Jennifer M. Eschbacher",
+            "Leslie C. Baxter",
+            "Nathan Gaw",
+            "Sara Ranjbar",
+            "Jonathan Plasencia",
+            "Amylou C. Dueck",
+            "Sen Peng",
+            "Kris A. Smith",
+            "Peter Nakaji",
+            "John P. Karis",
+            "C. Chad Quarles",
+            "Teresa Wu",
+            "Joseph C. Loftus",
+            "Robert B. Jenkins",
+            "Hugues Sicotte",
+            "Thomas M. Kollmeyer",
+            "Brian P. O’Neill",
+            "William Elmquist",
+            "Joseph M. Hoxworth",
+            "David Frakes",
+            "Jann Sarkaria",
+            "Kristin R. Swanson",
+            "Nhan L. Tran",
+            "Jing Li",
+            "J. Ross Mitchell"
+        ],
+        "keywords": "genetic, glioblastoma, heterogeneity, radiogenomics, texture"
+    },
+    {
+        "id": 4271,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "Reduced Memory Requirements for the S-Transform",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "The S-transform (ST) is used to study time-varying signals, revealing frequency changes through time. The application of the ST is limited by its substantial memory requirements. A sparse form of the ST (sST) is described that reduces memory requirements by an order of magnitude, yet faithfully reconstructs the original signal.",
+        "email": "",
+        "conf": "Canadian Conference on Electrical and Computer Engineering",
+        "coauthors": [
+            "Thorarin A Bjarnason",
+            "Sylvia Drabycz",
+            "Joseph Ross Mitchell"
+        ],
+        "keywords": "Fourier transforms,Geophysics computing,Biomedical measurements,Geophysical measurements,Magnetic resonance,Application software,Time frequency analysis,Visualization,Biomedical computing,Length measurement"
+    },
+    {
+        "id": 4282,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "Distributed vector Processing of a new local MultiScale Fourier transform for medical imaging applications",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE Transactions on Medical Imaging",
+        "coauthors": [
+            "Robert A Brown",
+            "Hongmei Zhu",
+            "Joseph Ross Mitchell"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4262,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "A Novel Method to Visualize Quantitative T2 MRI Data: qT2-View",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "T2 decay is a relaxation mechanism of water protons in an MRI image. Adequately sampling and analyzing T2 decays, a technique called quantitative T2 (qT2), allow scientists to discern microcompartmental structure by creating a T2 distribution. We have developed a new tool, called qT2-View, written in Objective-C for Mac OS X. Our new tool uses three interactive panels to visualize single-slice and multi-slice qT2 MRI data. Input data consists of a decay train for each voxel of the original field of view. This is processed to produce a T2 distribution for every voxel within a segmented region of interest. A T2 distribution histogram is also calculated and displayed for the segmented region. Users can quickly and easily specify a range of T2 times using selector bars in the histogram to create area fraction and geometric mean T2 maps. Users can window/level the maps to improve contrast. A proton density weighted image of the original MR data is presented in the background of area fraction map for anatomical reference. qT2-View allows rapid visualization of area fraction and geometric mean T2 maps for any range of T2 times, speeding up the process of viewing and identifying T2 ranges of interest for studying heterogeneous diseases such as MS and cancer. qT2-View is designed for arbitrary image sizes and T2-decay durations. Currently the software updates the three calculated maps at three frames per second",
+        "email": "",
+        "conf": "International Journal of Computer Assisted Radiology and Surgery",
+        "coauthors": [
+            "Tonima Ali",
+            "Thorarin A Bjarnason",
+            "Mark A Simpson",
+            "Joseph Ross Mitchell"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4304,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "A Novel Method for Deriving Grey and White Matter CBF Using Multi-Spectral MR",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "Quantified measures, such as CBF, may be useful in the treatment of acute stroke for identifying salvageable tissue at risk of infarction. Critical to the development of these applications is the ability to determine the blood flow within different tissue types. For example, grey matter (GM) and white matter (WM) have different ischemic thresholds.1 Another key requirement is the capability to co-register data from different time-points allowing comparison of baseline to follow-up imaging. We present a novel method to determine tissue-specific blood flow that utilises automatic segmentation of tissue and quantified CBF maps which can be coregistered across time as required. We have demonstrated that a multi-spectral analysis of an acute stroke MR protocol can successfully derive CBF values for GM and WM individually. Our method is novel in that we measured tissue specific CBF within an entire tissue type as opposed to a small ROI. Literature values for CBF exist but are derived from small operator placed ROIs. One ROI analysis found CBF = 40.7 ±10.9 ml/100 mg/min for GM and CBF = 21.7 ±3.5 ml/100 mg/min for WM.5  Our value for WM appears higher than literature values but this reflects substantial variation in CBF across the tissue as a whole. Other studies typically locate the ROI in a region of minimal CBF in WM.6  This method is a preliminary step towards our goal of deriving CBF values within ischemic GM and WM in hyper-acute and follow-up scans. We are currently evaluating IR-SEPI to determine its ability to differentiate GM and WM in the presence of ischemia. Our method may help clinicians accurately identify salvageable tissue in hyper-acute ischemic stroke.",
+        "email": "",
+        "conf": "Proc. Intl. Soc. Mag. Reson. Med",
+        "coauthors": [
+            "Robert A Brown",
+            "Jessica E Simon",
+            "H Lu",
+            "M L Lauzon",
+            "R Frayne",
+            "Joseph Ross Mitchell"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4313,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "MR multispectral analysis of multiple sclerosis lesions",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of Magnetic Resonance Imaging",
+        "coauthors": [
+            "Joseph Ross Mitchell",
+            "Craig Jones",
+            "Stephen J. Karlik",
+            "Aaron Fenster"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4245,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "Parallel multi-material decomposition of Dual-Energy CT data",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "Dual-Energy Computed Tomography (DECT) is a new modality of CT where two images are acquired simultaneously at two energy levels, and then decomposed into two material density images. It is also possible to further decompose these images into volume fraction images that approximate the percentage of a given material at each pixel. Here, we describe a novel parallel version of the multilateral decomposition algorithm proposed by Mendonça et al., which is used to obtain volume fraction images. Our parallel version accelerates decomposition by 200x. We also discuss some of the algorithm limitations.",
+        "email": "",
+        "conf": "IEEE International Symposium on Computer-Based Medical Systems",
+        "coauthors": [
+            "Rafael Simon Maia",
+            "Christian Jacob",
+            "Joseph Ross Mitchell",
+            "Amy K Hara",
+            "Alvin C Silva",
+            "William Pavlicek"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4251,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "iPhone-Based Teleradiology for the Diagnosis of Acute Cervico-Dorsal Spine Trauma",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "To assess the feasibility of iPhone-based teleradiology as a potential solution for the diagnosis of acute cervico-dorsal spine trauma. We have developed a solution that allows visualization of images on the iPhone. Our system allows rapid, remote, secure, visualization of medical images without storing patient data on the iPhone. This retrospective study is comprised of cervico-dorsal computed tomogram (CT) scan examination of 75 consecutive patients having clinically suspected cervico-dorsal spine fracture. Two radiologists reviewed CT scan images on the iPhone. Computed tomogram spine scans were analyzed for vertebral body fracture and posterior elements fractures, any associated subluxation-dislocation and cord lesion. The total time taken from the launch of viewing application on the iPhone until interpretation was recorded. The results were compared with that of a diagnostic workstation monitor. Inter-rater agreement was assessed. The sensitivity and accuracy of detecting vertebral body fractures was 80% and 97% by both readers using the iPhone system with a perfect inter-rater agreement (kappa:1). The sensitivity and accuracy of detecting posterior elements fracture was 75% and 98% for Reader 1 and 50% and 97% for Reader 2 using the iPhone. There was good inter-rater agreement (kappa: 0.66) between both readers. No statistically significant difference was noted between time on the workstation and the iPhone system. iPhone-based teleradiology system is accurate in the diagnosis of acute cervico-dorsal spinal trauma. It allows rapid, remote, secure, visualization of medical images without storing patient data on the iPhone.",
+        "email": "",
+        "conf": "The Canadian journal of neurological sciences. Le journal canadien des sciences neurologiques",
+        "coauthors": [
+            "Jayesh Modi",
+            "Pranshu Sharma",
+            "Alex Earl",
+            "Mark Simpson",
+            "Joseph Ross Mitchell",
+            "Mayank Goyal"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4227,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "An Introduction to Radiomics: An Evolving Cornerstone of Precision Medicine",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "Over the past decade a compelling body of literature has emerged suggesting a more pivotal role for imaging in the diagnosis, prognosis, and monitoring of diseases. These advances have facilitated the rise of an emerging practice known as Radiomics: the extraction and analysis of large numbers of quantitative features from medical images to improve disease characterization and prediction of outcome. Our aim is to clarify the potential clinical utility of radiomics specifically in solid tumor cancer care. First, we discuss the clinical processes of cancer management (i.e., diagnosis, monitoring, and treatment). Second, the limitations of the current process are discussed followed by a discourse of the benefits of radiomics. Third, we provide a high-level description of the workflow of radiomics and explain how it relates to biomedical texture analysis. We conclude with a review of the literature in this field and the remaining challenges ahead.",
+        "email": "",
+        "conf": "Biomedical Texture Analysis. Academic Press",
+        "coauthors": [
+            "Sara Ranjbar",
+            "Joseph Ross Mitchell"
+        ],
+        "keywords": "Imaging,Radiomics,Solid tumors,Radiogenomics,Quantitative features"
+    },
+    {
+        "id": 4224,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "Biomedical Texture Analysis: Fundamentals Tools and Challenges",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "Biomedical Texture Analysis: Fundamentals, Applications, Tools and Challenges describes the fundamentals and applications of biomedical texture analysis (BTA) for precision medicine. It defines what biomedical textures (BTs) are and why they require specific image analysis design approaches when compared to more classical computer vision applications. The fundamental properties of BTs are given to highlight key aspects of texture operator design, providing a foundation for biomedical engineers to build the next generation of biomedical texture operators. Examples of novel texture operators are described and their ability to characterize BTs are demonstrated in a variety of applications in radiology and digital histopathology. Recent open-source software frameworks which enable the extraction, exploration and analysis of 2D and 3D texture-based imaging biomarkers are also presented. This book provides a thorough background on texture analysis for graduate students and biomedical engineers from both industry and academia who have basic image processing knowledge. Medical doctors and biologists with no background in image processing will also find available methods and software tools for analyzing textures in medical images.",
+        "email": "",
+        "conf": "Academic Press",
+        "coauthors": [
+            "Adrien Depeursinge",
+            "Omar S. Al-Kadi",
+            "Joseph Ross Mitchell"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4290,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "Relationship between Supra-Annual Trends in Influenza Rates and Stroke Occurrence",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "",
+        "email": "",
+        "conf": "Neuroepidemiology",
+        "coauthors": [
+            "Thalia Shoshana Field",
+            "Hongmei Zhu",
+            "Michael Tarrant",
+            "Michael D Hill"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4240,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "Healthcare Intelligence: Turning Data into Knowledge",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "Exceptional opportunities exist for researchers and practitioners to invest in conducting innovative and transformative research in data mining and health informatics. This IEEE Intelligent Systems \"Trends and Controversies\" (T&C) department hopes to raise awareness and highlight recent research to move toward such goals. The introduction, \"Healthcare Intelligence: Turning Data into Knowledge,\" is written by Hui Yang and Erhun Kundakcioglu. Next, \"Empowering Excellence of Care by Radiology Informatics\" is written by Jing Li, Teresa Wu, J. Ross Mitchell, Amy K. Hara, William Pavlicek, Leland S. Hu, Alvin C. Silva, and Christine M. Zwart. Third, \"Opportunities for Operations Research in Medical Decision Making\" is written by Sait Tunc, Oguzhan Alagoz, and Elizabeth Burnside. Fourth, \"Diagnostic Network Modeling of Neural Connectivity Using Functional Magnetic Resonance Imaging\" is written by W. Art Chaovalitwongse, Georgiy Presnyakov, Yulian Cao, Sirirat Sujitnapitsatham, Daehan Won, Tara Madhyastha, Kurt E. Weaver, Paul R. Borghesani, and Thomas J. Grabowski. The final article, \"Spatial Clustering in Public Health: Advances and Challenges,\" is written by Lianjie Shu, Man Ho Ling, Shui-Yee Wong, and Kwok-Leung Tsui.",
+        "email": "",
+        "conf": "Intelligent Systems IEEE",
+        "coauthors": [
+            "Hui Yang",
+            "Erhun Kundakcioglu",
+            "Jing Li",
+            "Teresa Wu",
+            "Joseph Ross Mitchell",
+            "Amy K Hara",
+            "William Pavlicek",
+            "Leland S Hu",
+            "Alvin C Silva",
+            "Christine M Zwart",
+            "Sait Tunc",
+            "Oguzhan Alagoz",
+            "Elizabeth Burnside",
+            "W Art Chaovalitwongse",
+            "Georgiy Presnyakov",
+            "Yulian Cao",
+            "Sirirat Sujitnapitsatham",
+            "Daehan Won",
+            "Tara Madhyastha",
+            "Kurt E Weaver",
+            "Paul R Bordhesani",
+            "Thomas J Grabowski",
+            "Lianjie Shu",
+            "Man Ho Ling",
+            "Shui-Yee Wong",
+            "Kwok-Leung Tsui"
+        ],
+        "keywords": "healthcare intelligence,health IT,data mining,health informatics,bioinformatics,Big Data,intelligent systems"
+    },
+    {
+        "id": 4318,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "Three-dimensional colour Doppler imaging",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "",
+        "email": "",
+        "conf": "Ultrasound in Medicine & Biology",
+        "coauthors": [
+            "Paul Picot",
+            "Daniel W Rickey",
+            "Joseph Ross Mitchell",
+            "Aaron Fenster"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4321,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "Three-dimensional color Doppler imaging of the carotid artery",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "",
+        "email": "",
+        "conf": "Proceedings of SPIE - The International Society for Optical Engineering",
+        "coauthors": [
+            "Paul Picot",
+            "Daniel W Rickey",
+            "Joseph Ross Mitchell",
+            "Aaron Fenster"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4234,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "Incorporating approximate rotational invariance into two-dimensional S-transform",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "The discrete two-dimensional (2D) S-transform (ST-2D) is a space-frequency representation that provides the local spectrum at each pixel in an image. The inherent localisation properties of the ST-2D make it a preferred candidate for space-frequency analysis. However, the ST-2D is sensitive to the image rotation. This limits its use in many image processing applications such as texture analysis. This study describes the rotational sensitivity of the ST-2D, and explains how this limits its application. To overcome these problems, a novel rotationally invariant S-transform (RIST) is formulated, and its rotational invariance is investigated. The RIST can provide approximate rotational invariance for magnitudes and complex values over a wide range of rotation angles, but with a trade-off of higher computation time. The RIST may be useful for many medical, scientific and industrial applications.",
+        "email": "",
+        "conf": "IET Image Processing",
+        "coauthors": [
+            "Chun Hing Cheng",
+            "Pyari Mohan Pradhan",
+            "Joseph Ross Mitchell"
+        ],
+        "keywords": "RIST; space-frequency representation; two-dimensional S-transform; rotationally invariant S-transform; approximate rotational invariance; ST-2D; image rotation; space-frequency analysis; inherent localisation properties"
+    },
+    {
+        "id": 4275,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "3D MR Microscopy Rendering with Non-Uniformity Correction and a Non-Linear Adaptive Noise Filter for Studies of a Transgenic Mouse Heart Model of Myxomatous Valvular Disease",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "3D MR microscopy was used to image isolated hearts to study myxomatous valvular disease (MVD) in a unique transgenic mouse model [1]. MVD encompasses several genetic entities that show a common set of degenerative alterations in valvular histology and function. The mitral valve is most frequently affected; however, the involved human genes have yet to be identified. The Hs3st1 gene codes for the enzyme 3-O-sulfotransferase-1 (3OST1), which regulates production of certain heparan sulfate molecules (HSAT+). Hs3st1-/- mice have significant chances of developing mitral or aortic valve leaflet thickening. However, MVD produces focal lesion of only ~50-150µm thickness, which greatly hampers the study of this disease in mice. Echocardiography can only provide a qualitative assessment of leaflet thickening; whereas, histologic sectioning can miss the small focal lesions. MRI has the advantage that some soft tissues can be observed in 3D without the destruction associated with sectioning, allowing for visualization of the valves in situ. It also has the advantage that 2-3 hours of imaging can provide enough data for a full 3D reconstruction, leaving the sample intact for specific histological or molecular studies that would not be conducive to obtaining 3D information",
+        "email": "",
+        "conf": "Proc. Intl. Soc. Mag. Reson. Med",
+        "coauthors": [
+            "Jeff Dunn",
+            "Nicholas W Shworak",
+            "S C Chan",
+            "Joseph Ross Mitchell"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4226,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "Abstract A08: Histologic evidence for a bio-mathematical model of glioblastoma invasion",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "Investigate the utility of patient-specific spatial predictions of tumor cell density from a bio-mathematical model. Glioblastomas (GBMs) are the most malignant of all primary brain tumors. While it is known there is always a non-detectable portion of the tumor, current techniques of monitoring GBM progression, imaging and initial histological assessment, are not able to reliably estimate the tumor invasion past the enhancing region on T2-Weighted (T2W) imaging. Over the last two decades, a large effort has been made to create a simple patient-specific mathematical model of gliomas. The resulting model, referred to as the Proliferation-Invasion (PI) model, is based on two key parameters, the net growth rate, ρ, and the dispersal coefficient, D. In this model, the ratio of D/ρ is related to degree of invasion and the product D*ρ, is related to the speed of growth. The intuitive understanding provided by this model has been able to provide patient-specific understanding of disease kinetics enabling prediction of outcomes following surgical resection, radiation and the development of a prognostic response metric. Previous literature utilizing this model has been based on the assumption that what is seen on the pretreatment T1-Weighted contrast-enhanced (T1Gd) and T2W, images correspond to an 80% and 16% tumor cell density threshold respectively. This assumption allows for an estimate of D/ρ from a single time point of imaging. While these values were based on extensive experience, for ethical and technical reasons, they have never been rigorously investigated histologically. Recent technological advances have made it possible for surgeons to use an MRI to guide the acquisition of tissue making it possible to know with a good degree of accuracy where on the MR image the histological specimen comes from. Our analysis showed that the intuitive ordering of diffuse to nodular tumor profiles from the PI model is consistent with the histologic data. Further, utilizing the histologic data, limitations to a universal threshold cutoff of the T2/FLAIR region are specified and a better threshold cutoff value is suggested. We hope that this paper will lead to more studies of this kind resulting in more accurate ways to predict the spatial distribution of GBM tumor cells from medical imaging. Such advances could revolutionize surgical procedures and radiation therapy and may enable additional insights into tumor kinetic differences meaningful for treatment. ",
+        "email": "",
+        "conf": "Cancer Research",
+        "coauthors": [
+            "Andrea Hawkins-Daarud, Lauren DeGirolamo, Joshua Jacobs, Kamala Clark-Swanson, Jennifer M. Eschbacher, Kris A. Smith, Peter Nakaji, Leslie C. Baxter, John P. Karis, Teresa Wu, Joseph Ross Mitchell, Jing Li, Leland Hu and Kristin R. Swanson"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4239,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "Pilot Study: Evaluation of Dual-Energy Computed Tomography Measurement Strategies for Positron Emission Tomography Correlation in Pancreatic Adenocarcinoma",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "We sought to determine whether dual-energy computed tomography (DECT) measurements correlate with positron emission tomography (PET) standardized uptake values (SUVs) in pancreatic adenocarcinoma, and to determine the optimal DECT imaging variables and modeling strategy to produce the highest correlation with maximum SUV (SUVmax). We reviewed 25 patients with unresectable pancreatic adenocarcinoma seen at Mayo Clinic, Scottsdale, Arizona, who had PET–computed tomography (PET/CT) and enhanced DECT performed the same week between March 25, 2010 and December 9, 2011. For each examination, DECT measurements were taken using one of three methods: (1) average values of three tumor regions of interest (ROIs) (method 1); (2) one ROI in the area of highest subjective DECT enhancement (method 2); and (3) one ROI in the area corresponding to PET SUVmax (method 3). There were 133 DECT variables using method 1, and 89 using the other methods. Univariate and multivariate analysis regression models were used to identify important correlations between DECT variables and PET SUVmax. Both R 2 and adjusted R 2 were calculated for the multivariate model to compensate for the increased number of predictors. The average SUVmax was 5 (range, 1.8–12.0). Multivariate analysis of DECT imaging variables outperformed univariate analysis (r = 0.91; R 2 = 0.82; adjusted R 2 = 0.75 vs r < 0.58; adjusted R 2 < 0.34). Method 3 had the highest correlation with PET SUVmax (R 2 = 0.82), followed by method 1 (R 2 = 0.79) and method 2 (R 2 = 0.57). DECT thus has clinical potential as a surrogate for, or as a complement to, PET in patients with pancreatic adenocarcinoma.",
+        "email": "",
+        "conf": "Journal of Digital Imaging",
+        "coauthors": [
+            "Jorge Oldan",
+            "Miao He",
+            "Teresa Wu",
+            "Alvin C. Silva",
+            "Jing Li",
+            "Joseph Ross Mitchell",
+            "William M. Pavlicek",
+            "Michael C. Roarke",
+            "Amy K. Hara"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4322,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "A comparison of line integral algorithms",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "",
+        "email": "",
+        "conf": "Computers in Physics",
+        "coauthors": [
+            "Joseph Ross Mitchell",
+            "Peter Dickof",
+            "Alan G. Law"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4319,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "Automated detection and quantification of multiple sclerosis lesions in MR volumes of the brain",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "",
+        "email": "",
+        "conf": "Proceedings of SPIE - The International Society for Optical Engineering",
+        "coauthors": [
+            "Joseph Ross Mitchell",
+            "Stephen J. Karlik",
+            "Donald H Lee",
+            "Aaron Fenster"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4299,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "Reliability of Assessing Percentage of Diffusion-Perfusion Mismatch",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "",
+        "email": "",
+        "conf": "Stroke",
+        "coauthors": [
+            "Shelagh B Coutts",
+            "Jessica E Simon",
+            "Anna I Tomanek",
+            "Andrew Demchuk"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4266,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "Pilot Study of Minocycline in Relapsing-Remitting Multiple Sclerosis",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "Current multiple sclerosis (MS) treatment is only partially effective and not all patients respond well. The goal in this study was to evaluate minocycline for its safety, tolerability, and MRI impact as a potential therapy over 36 months after a three month run-in in ten relapsing-remitting (RR) MS patients. Clinical assessments were at three month intervals until six months, then at six month intervals. Three Tesla MRI was performed monthly during the run-in and first six months of treatment, then at 12, 24, and 36 months. Treatment was safe and well tolerated. Annualized relapse rate was 1.2 during the run-in and 0.25 during treatment. The proportion of active scans was lower during the first six months of treatment (5.6%, p<0.001) and during the extension (8.7%, p= 0.002) than during the run-in (47.5%). Consistent with these outcomes, mean T2 lesion volume remained stable over three years and percent brain volume change was reduced during year three (-0.37%) of minocycline treatment. This trial is limited by small sample and no control group but suggests that minocycline is safe and potentially beneficial in RRMS. This supports further investigation of its efficacy.",
+        "email": "",
+        "conf": "The Canadian journal of neurological sciences. Le journal canadien des sciences neurologiques",
+        "coauthors": [
+            "Yunyan Zhang",
+            "Luanne M Metz",
+            "Voon Wee Yong",
+            "Robert B Bell",
+            "Michael Yeung",
+            "David G Patry",
+            "Joseph Ross Mitchell"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4219,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "NIMG-16. IMPACT OF SEX DIFFERENCES AND TUMOR LOCATION ON SURVIVAL OUTCOMES IN GLIOBLASTOMA PATIENTS",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "Glioblastoma (GBM) is the most common malignant primary brain tumor in adults with a median survival of 14–16 months. Patient sex plays an important role in GBM as there is a difference in incidence rates and outcome between males and females, which may be attributable to differences in genetic makeup and physiology. Investigate the impact of tumor location and sex differences on survival outcomes based on tumor location, laterality, age, handedness, and extent of resection. Patients (129 males and 87 females) who received standard-of-care were included. Analyses were performed using Cox proportional hazard modeling and Kaplan-Meier analysis (log-rank test) to determine which variables impacted patient survival. Overall survival was significantly longer in females in comparison to males (197 days, p = 0.0391). Investigating specific tumor locations, females with a tumor in the left frontal lobe (n = 12) showed a survival advantage compared to females with a right frontal (n = 15) GBM (2853 days, p = 0.0160). Significant differences in median OS were also associated with age. Female patients below the age of fifty showed significantly longer survival (2602 days, n = 84, p<0.001). Interestingly, 70% of IDH1 mutant tumors (n = 10) and 76% of MGMT methylated tumors (n = 26) were found in the frontal lobe and were found in the right hemisphere. Together, our results demonstrate that age, sex, and specific brain locations are associated with differences in genetics and survival in GBM.",
+        "email": "",
+        "conf": "Neuro-Oncology",
+        "coauthors": [
+            "Julia Lorence",
+            "Susan Christine Massey",
+            "Sandra Johnston",
+            "Sara Ranjbar",
+            "Paula Whitmire",
+            "Cassandra Rickertsen",
+            "Gustavo De Leon",
+            "Barrett Anderies",
+            "Haylye White",
+            "Kyle Singleton",
+            "Leland Hu",
+            "Joseph Mitchell",
+            "Alyx Porter",
+            "Maciej Mrugala",
+            "Bernard Bendok",
+            "Joshua Rubin",
+            "Kristin Swanson"
+        ],
+        "keywords": "glioblastoma,adult,objective (goal),o(6)-methylguanine-dna, methyltransferase,sex characteristics,brain,frontal lobe,genetics,handedness,neoplasms,physiology,log rank test,right cerebral hemisphere,standard of care,impact,idh1 gene"
+    },
+    {
+        "id": 4323,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "Visualization and analysis of multiple sclerosis lesions in magnetic resonance images [microform].",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "Magnetic Resonance Imaging (MRI) provides very sensitive indication of the presence and extent of the lesions of Multiple Sclerosis (MS). As a result, quantifying changes in the number and extent of lesions in MR images has been used to indicate disease activity in clinical trials of new therapies. However, lesion quantification is long, arduous, and subject to variability between and within operators. These factors limit the application of quantitative techniques and increase the duration, and thus cost, of clinical trials which rely on their measurements to assess therapeutic effect.;A computerised system was developed for assisted 3-D quantification and analysis of MS lesions in standard spin-echo MR exams. Manual and assisted quantification were compared using repeated measurements of lesions in MR exams of a phantom and MS patient. Results indicate that assisted quantification reduced inter-operator variability by 1/3, and reduced intra-operator variability by 1/2. The minimum significant change between two successive measurements of lesion volume by the same operator, was 0.64 cm{dollar}\\sp3{dollar} for manual quantification, and 0.42 cm{dollar}\\sp3{dollar} for assisted quantification. For two different operators making successive measurements, the minimum significant change was 0.94 cm{dollar}\\sp3{dollar} for manual quantification, but only 0.47 cm{dollar}\\sp3{dollar} for assisted quantification.;Repeated measurements were also used to determine the impact on operator variability of: (a) lesion quantification in high-field (1.5T) versus mid-field (0.5T) exams; and, (b) an anisotropic diffusion filter algorithm which reduces image noise without blurring or moving object boundaries. Results suggest that inter- and intra-operator variability are reduced by anisotropic filtering, and by quantification in 0.5T exams. Reduced operator variabilities may result from higher detail signal-to-noise ratios (dSNR's) in 0.5T and filtered exams.;Finally, pathological change may occur within a lesion without a corresponding change in volume. Therefore, a new technique was developed to provide lesion composition information from MR exam intensities. Analysis of serial exams of 3 MS patients revealed changes in the intensity spectra within lesions, even when their volume remained constant. Together, assisted lesion quantification and analysis may provide additional insight into disease activity, and improve the sensitivity of clinical trials of new therapies.",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Joseph Ross Mitchell",
+            "J. Ross"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4248,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "Texture Analysis Improves Accuracy of Computer-assisted Differentiation between Small Hepatic Cysts and Hepatocellular Carcinoma on Noncontrast CT",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "Small (< 1.5cm in diameter) liver lesions are commonly detected incidentally on non-contrast CT exams. Characterization of these lesions as cystic or solid is crucial to patient management but is frequently not possible without other imaging modalities. Evaluation This study explored whether texture analysis could increase diagnostic confidence for the differentiation of simple Hepatic Cysts (SC) and Hepatocellular Carcinoma (HCC) from normal liver parenchyma (NP) in non-contrast CT exams. Patients (42) were retrospectively selected, 21 with ultrasound confirmed SC and 21 with positive pathology for HCC. Images were resampled to 0.75mm per pixel. Circular ROIs were drawn to fit the smallest lesion and copied nearby to overlie NP. A total of 84 ROIs were defined (21 SC + 21 HCC + 42 NP). Intensity metrics (IM) were measured, and texture features extracted, using either an S-Transform (ST) or a Wavelet Transform (WT) for each ROI. A Support Vector Machine Classifier was used to solve the classification problem. A leave-one-out cross-validation was used to estimate classification accuracy. Using IM only the accuracy was 89%. The statistical power to detect a 'biomarker of tissue type' was found to be equal to 0.98 at a 95% confidence level. Using IM and either ST or WT increased accuracy to 94%. Using IM and both ST and WT increased the accuracy to 95%. SCs were identified with 100% sensitivity (SN) and 100% specificity (SP). Differentiating HCC from NP had SN=77% (SP=94%) using IM only. Using IM and ST, the SN was 83% (SP=98%). Using IM and WT, the SN was 90% (SP=95%). Using IM and both WT and ST, the SN was 87% (SP=98%). Discussion The accuracy of distinguishing SC from NP or HCC tissue is improved by adding transform based texture features to pixel intensity analysis. Due to the small number of cases not correctly classified on the basis of intensity, this texture-enabled additional accuracy did not reach statistical significance. CONCLUSION Image intensity combined with texture analysis provides a robust tool that could aid in the discrimination between SC, HCC and NP for small liver lesions on non-contrast CT, avoiding the expense and inconvenience of additional imaging.",
+        "email": "",
+        "conf": "Radiological Society of North America",
+        "coauthors": [
+            "Jurek Smolen",
+            "Helen O'Grady",
+            "Jingde Du",
+            "Hing Cheng",
+            "Paul Morel",
+            "Lino Ramirez",
+            "Colin Holmes",
+            "Audrey Spielman",
+            "Joseph Ross Mitchell",
+            "Lindsay Machan"
+        ],
+        "keywords": "Texture Analysis,Computer Assisted Differentiation"
+    },
+    {
+        "id": 4301,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "Reliability in assessment of DWI/PWI mismatch",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "",
+        "email": "",
+        "conf": "Stroke",
+        "coauthors": [
+            "Shelagh B Coutts",
+            "Jessica E Simon",
+            "AI Tomanek",
+            "AM Demchuk"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4272,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "A New Method to Collapse the S-Transform Into Local Spectra by Integrating in Squares",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "",
+        "email": "",
+        "conf": "Canadian Conference on Electrical and Computer Engineering",
+        "coauthors": [
+            "Sylvia Drabycz",
+            "Thorarin A Bjarnason",
+            "Joseph Ross Mitchell"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4237,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "S-transform based approach for texture analysis of medical images",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "Image texture is often characterized using gray level co-occurrence matrices (GLCM). The GLCM statistics reflect only the highest power and spatial frequencies. To address this, researchers have employed discrete wavelet transform (DWT) along with GLCM. However, this method involves a computationally complex convolution operation in the spatial domain, and also inherits the sampling limitations of the DWT. Extending texture analysis to the space-frequency (SF) domain will uncover patterns not visible through the GLCM-based approaches while still capitalizing on the effectiveness of the traditional co-occurrence matrix. The discrete S-transform (DST) provides the SF representation at a pixel by localizing with a Gaussian modulated sinusoidal window. The DST based texture analysis is proposed to improve upon the GLCM while providing advantages over wavelets. This paper presents the promising preliminary results achieved using the proposed method.",
+        "email": "",
+        "conf": "High Performance Computing and Applications (ICHPCA). IEEE",
+        "coauthors": [
+            "Pyari Mohan Pradhan",
+            "Chun Hing Cheng",
+            "Joseph Ross Mitchell"
+        ],
+        "keywords": "Grey level co-occurrence matrix,S-transform,texture analysis"
+    },
+    {
+        "id": 4287,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "Progressive imaging: S-Transform order",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "",
+        "email": "",
+        "conf": "The ANZIAM Journal",
+        "coauthors": [
+            "Hongmei Zhu",
+            "Robert A Brown",
+            "Rafael Jacinto Villanueva",
+            "A. G. Law"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4308,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "A Post-processing Technique to Suppress Fluid Signal and Increase Contrast in Multispectral MR Exams of MS Patients",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "",
+        "email": "",
+        "conf": "Lecture Notes in Computer Science",
+        "coauthors": [
+            "Joseph Ross Mitchell",
+            "Paula j. Gareau Foster",
+            "Stephen Karlik",
+            "Brian K. Rutt"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4320,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "Three-dimensional optical microscopy of water trees in polyethylene",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of Materials Science",
+        "coauthors": [
+            "D. M. Shinozaki",
+            "P. C. Cheng",
+            "Sujithera Haridoss",
+            "Aaron Fenster"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4255,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "A work-efficient GPU algorithm for level set segmentation",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "We present a novel GPU level set segmentation algorithm that is both work-efficient and step-efficient. Our algorithm has O(log n) step-complexity, in contrast to previous GPU algorithms [Lefohn et al. 2004; Jeong et al. 2009] which have O(n) step-complexity. Moreover our algorithm limits the active computational domain to the minimal set of changing elements by examining both the temporal and spatial derivatives of the level set field. We apply our algorithm to 3D medical images (Figure 1) and demonstrate that our algorithm reduces the total number of processed level set field elements by 16x and is 14x faster than previous GPU algorithms with no reduction in segmentation accuracy.",
+        "email": "",
+        "conf": "ACM SIGGRAPH",
+        "coauthors": [
+            "Mike Roberts",
+            "Jeff Packer",
+            "Mario Costa Sousa",
+            "Joseph Ross Mitchell"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4296,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "Quantitative Assessment of Carotid Plaque Composition Using Multicontrast MRI and Registered Histology",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "",
+        "email": "",
+        "conf": "Magnetic Resonance in Medicine",
+        "coauthors": [
+            "Sharon Elizabeth Clarke",
+            "Robert R Hammond",
+            "Joseph Ross Mitchell",
+            "Brian K. Rutt"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4247,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "Computational texture analysis: finding ischemic brain tissue in early ct images of acute ischemic stroke",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "",
+        "email": "",
+        "conf": "Stroke",
+        "coauthors": [
+            "Q. P. Thomson",
+            "Jayesh Modi",
+            "Shelagh B Coutts",
+            "Andrew M Demchuk",
+            "Michael D Hill",
+            "S K Boyd",
+            "Mayank Goyal",
+            "Joseph Ross Mitchell"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4315,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "The variability of manual and computer assisted quantification of multiple sclerosis lesion Volumes",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "",
+        "email": "",
+        "conf": "Medical Physics",
+        "coauthors": [
+            "Joseph Ross Mitchell",
+            "Stephen J. Karlik",
+            "Donald H Lee",
+            "Aaron Fenster"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4276,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "A Novel MRI Texture Analysis of Demyelination and Inflammation in Relapsing-Remitting Experimental Allergic Encephalomyelitis",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "",
+        "email": "",
+        "conf": "Lecture Notes in Computer Science",
+        "coauthors": [
+            "Yunyan Zhang",
+            "Jennifer Wells",
+            "Richard Buist",
+            "Joseph Ross Mitchell"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4252,
+        "label": 80,
+        "author": "joseph ross mitchell",
+        "title": "AnalyzeNNLS: Magnetic resonance multiexponential decay image analysis",
+        "organization": "Artificial Intelligence Officer",
+        "abstract": "Exponential decays are fundamental to magnetic resonance imaging, yet adequately sampling and analyzing multiexponential decays is rarely attempted. The advantage of multiexponential analysis is the quantification of sub-voxel structure caused by water compartmentalization, with application as a non-invasive imaging biomarker for myelin. We have developed AnalyzeNNLS, software designed specifically for multiexponential decay image analysis that has a user-friendly graphical user interface and can analyze data from many MR manufacturers. AnalyzeNNLS is a simple, platform independent analysis tool that was created using the extensive mathematical and visualization libraries in Matlab, and released as open source code allowing scientists to evaluate, scrutinize, improve, and expand.",
+        "email": "rmitch@imaginginformatics.ca",
+        "conf": "Journal of Magnetic Resonance",
+        "coauthors": [
+            "Thorarin A Bjarnason",
+            "Joseph Ross Mitchell"
+        ],
+        "keywords": "Magnetic resonance,Quantitative T2,Matlab,Multiexponential analysis,Visualization"
+    }
+]

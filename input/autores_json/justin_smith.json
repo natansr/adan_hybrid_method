@@ -1,0 +1,311 @@
+[
+    {
+        "id": 5264,
+        "label": 105,
+        "author": "justin smith",
+        "title": "Model-categories of coalgebras over operads",
+        "organization": "Professor of Mathematics Drexel University",
+        "abstract": "",
+        "email": "",
+        "conf": "Theory and Applications of Categories",
+        "coauthors": [
+            "Justin R Smith"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5273,
+        "label": 105,
+        "author": "justin smith",
+        "title": "Equivariant Moore Spaces. II --- The low-dimensional case",
+        "organization": "Professor of Mathematics Drexel University",
+        "abstract": "This paper considers the question of when such spaces exist, given n and M. This is a special case of the Steenrod problem that was dealt with in [9], which developed an obstruction theory for the existence of such spaces. In the special case studied h.: re it turns out that additional obstructions exist to the formation of equivariant 3~ ore spaces that are derived essentially from that fact that a topological space is a limit of multiplicative constructions (stages of a Postnikov tower). This additional obstruction is called the",
+        "email": "",
+        "conf": "Journal of Pure and Applied Algebra",
+        "coauthors": [
+            "Justin R Smith"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5261,
+        "label": 105,
+        "author": "justin smith",
+        "title": "Steenrod coalgebras of simplicial complexes",
+        "organization": "Professor of Mathematics Drexel University",
+        "abstract": "In this paper, we extend earlier work by showing that if $ X $ and $ Y $ are simplicial complexes (ie simplicial sets whose simplices are determined by their vertices), a morphism $ g: N (X)\\to N (Y) $ of Steenrod coalgebras (normalized chain-complexes equipped with extra structure) induces one of their topological realizations $\\hat {g}:| X|\\to| Y| $. If $ g $ is an isomorphism, then it induces an isomorphism between $ X $ and $ Y $, implying that they are homeomorphic.",
+        "email": "jsmith@drexel.edu",
+        "conf": " arXiv preprint",
+        "coauthors": [
+            "Justin R Smith"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5277,
+        "label": 105,
+        "author": "justin smith",
+        "title": "Complements of Codimension-Two Submanifolds --- I: The Fundamental Group",
+        "organization": "Professor of Mathematics Drexel University",
+        "abstract": "This paper is the first in a series that will study the homotopy types of the complements of certain classes of codimension-two imbeddings of compact manifolds--in particular, this paper will study the groups that can occur as fundamental groups. The results of this paper apply equally to smooth, PL, or topological imbeddings and manifolds. All manifolds in this paper will be assumed to be compact and connected and all imbeddings will be assumed to be locally-flat and to carry the boundry of the imbedded manifold transversely to that of the ambient manifold",
+        "email": "",
+        "conf": "Illinois journal of mathematics",
+        "coauthors": [
+            "Justin R Smith"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5262,
+        "label": 105,
+        "author": "justin smith",
+        "title": "Steenrod coalgebras",
+        "organization": "Professor of Mathematics Drexel University",
+        "abstract": "This paper shows that a functorial version of the “higher diagonal” of a space used to compute Steenrod squares actually contains far more topological information — including (in some cases) the space's integral homotopy type.",
+        "email": "jsmith@drexel.edu",
+        "conf": "Topology and its Applications",
+        "coauthors": [
+            "Justin R Smith"
+        ],
+        "keywords": "Operads,Completions,Homotopy theory,Coalgebras"
+    },
+    {
+        "id": 5267,
+        "label": 105,
+        "author": "justin smith",
+        "title": "Cofree coalgebras over operads",
+        "organization": "Professor of Mathematics Drexel University",
+        "abstract": "This paper explicitly constructs cofree coalgebras over operads in the category of DG-modules. Special cases are also considered in which the general expression simplifies (such as the pointed, irreducible case).",
+        "email": "jsmith@drexel.edu",
+        "conf": "Topology and its Applications",
+        "coauthors": [
+            "Justin R Smith"
+        ],
+        "keywords": "Operads,Cofree coalgebras"
+    },
+    {
+        "id": 5278,
+        "label": 105,
+        "author": "justin smith",
+        "title": "Acyclic Localizations",
+        "organization": "Professor of Mathematics Drexel University",
+        "abstract": "This paper studies the following problem: Gi$ en a projective chain complex C, over a ring A, and a surjective homomorphism of rings F : A + A F, what conditions must be satisfied by th,e homology of C, SO that C, @A A ’ will be u:y&? This problem arises naturally in connection with many topological questions. For example, in high-dimensional knot theory the irdcegral homology of itile complement vanishes above the first dimension while the homology with respect to suitable local coefficients may be very complex ",
+        "email": "",
+        "conf": "Journal of Pure and Applied Algebra",
+        "coauthors": [
+            "Justin R Smith"
+        ],
+        "keywords": "Primary 18G25,16A08: Secondary 16A54,55J15"
+    },
+    {
+        "id": 5269,
+        "label": 105,
+        "author": "justin smith",
+        "title": "The Design and Analysis of Parallel Algorithms",
+        "organization": "Professor of Mathematics Drexel University",
+        "abstract": "This book surveys existing parallel algorithms, with emphasis on design methods and complexity results. The computational problems the author presents are grouped into three classes: Class I sorting, searching, and related problems such as selection, merging, and generating permutations; Class 2 numerical problems such as elementary matrix operations, fast Fourier transforms, and some basic linear algebra kernels; and Class 3 problems arising in various application areas, such as graph theory, computational geometry, tree traversals, optimization problems, and the bitcomplexity of computing.",
+        "email": "",
+        "conf": "Oxford University",
+        "coauthors": [
+            "Justin R Smith",
+            "Ali Smith"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5260,
+        "label": 105,
+        "author": "justin smith",
+        "title": "Steenrod coalgebras III. The fundamental group",
+        "organization": "Professor of Mathematics Drexel University",
+        "abstract": "In this note, we extend earlier work by showing that if X and Y are delta-complexes (i.e. simplicial sets without degeneracy operators), a morphism g:N(X)→N(Y) of Steenrod coalgebras (normalized chain-complexes equipped with extra structure) induces one of 2-skeleta g^:X2→Y2, inducing a homomorphism π1(g^):π1(X)→π1(Y) that is an isomorphism if g is an isomorphism. This implies a corresponding conclusion for a morphism g:C(X)→C(Y) of Steenrod coalgebras on unnormalized chain-complexes of simplicial sets.",
+        "email": "jsmith@drexel.edu",
+        "conf": " arXiv preprint",
+        "coauthors": [
+            "Justin R Smith"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5265,
+        "label": 105,
+        "author": "justin smith",
+        "title": "Cofree coalgebras over operads II Homology invariance",
+        "organization": "Professor of Mathematics Drexel University",
+        "abstract": "This paper proves that homology equivalences of cogenerating complexes induce homology equivalences of the cofree coalgebras in many interesting cases. We show that the underlying chain complex of any cofree coalgebra is naturally a direct summand of the underlying chain-complex of a cofree coalgebra over a free operad. This is combined with the previous result to prove the homology invariance of all cofree coalgebras.",
+        "email": "jsmith@drexel.edu",
+        "conf": " arXiv preprint",
+        "coauthors": [
+            "Justin R Smith"
+        ],
+        "keywords": "operads, cofree coalgebras, homology invariance"
+    },
+    {
+        "id": 5271,
+        "label": 105,
+        "author": "justin smith",
+        "title": "Parallel Algorithms for Depth-First Searches I. Planar Graphs",
+        "organization": "Professor of Mathematics Drexel University",
+        "abstract": "This paper presents an unbounded-parallel algorithm for performing a depth-first search of a planar undirected graph. The algorithm uses $O(n^4 )$ processors and executes in $O(\\log ^3 n)$-time. It had previously been conjectured that the problem of computing a depth-first spanning tree was inherently sequential.",
+        "email": "",
+        "conf": "SIAM Journal on Computing",
+        "coauthors": [
+            "Justin R Smith"
+        ],
+        "keywords": "parallel algorithms, depth-first search, computational complexity, inherently sequential problems"
+    },
+    {
+        "id": 5272,
+        "label": 105,
+        "author": "justin smith",
+        "title": "Topological realizations of chain complexes 1. the general theory",
+        "organization": "Professor of Mathematics Drexel University",
+        "abstract": "This paper studies the following question: Given a group n, and a projective Z w-chain complex C, does there exist a topological space with a fundamental group rr and with the property that the chain-complex of its universal cover is chain-homotopy equivalent to C? This is a generalization of the Steenrod Problem. In the Steenrod Problem (proposed by Steenrod in 1960) the chain complex was a projective resolution of a Zp-module. The present paper develops an obstruction theory for the existence of topological realizations of a chain-complex, algebraically classifies these realizations (if the obstructions vanish), and proves that rational chain-complexes are always stably realizable. ",
+        "email": "",
+        "conf": "Topology and its Applications",
+        "coauthors": [
+            "Justin R Smith"
+        ],
+        "keywords": "Primary 55S45,Secondary 55M99"
+    },
+    {
+        "id": 5263,
+        "label": 105,
+        "author": "justin smith",
+        "title": "Cellular coalgebras over the Barratt-Eccles operad I",
+        "organization": "Professor of Mathematics Drexel University",
+        "abstract": "This paper considers a class of coalgebras over the Barratt-Eccles operad and shows that they classify Z-completions of pointed, reduced simplicial sets. As a consequence, they encapsulate the homotopy types of nilpotent simplicial sets. This result is a direct generalization of Quillen's result characterizing rational homotopy types via cocommutative coalgebras.",
+        "email": "jsmith@drexel.edu",
+        "conf": " arXiv preprint",
+        "coauthors": [
+            "Justin R Smith"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5280,
+        "label": 105,
+        "author": "justin smith",
+        "title": "Homology Surgery Theory and Perfect Groups",
+        "organization": "Professor of Mathematics Drexel University",
+        "abstract": "This theorem was originally proved by Hausmann in [3] for i even by performing surgery on imbedded integral homology spheres. Using a similar technique, Cappell and Shaneson proved the theorem in the odd-dimensional case. See [3] for geometric proofs. The algebraic methods of the present paper may extend to more general results relating homology surgery groups to Wall groups",
+        "email": "",
+        "conf": "Topology",
+        "coauthors": [
+            "Justin R Smith"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5276,
+        "label": 105,
+        "author": "justin smith",
+        "title": "Complements of codimension-two submanifolds. III. Cobordism theory",
+        "organization": "Professor of Mathematics Drexel University",
+        "abstract": "This paper will study the relationship between the middle-dimensional complementary homology modules of a codimension-two imbedding of compact manifolds and its cobordism class. We will also obtain general results on the cobordism classification of codimension-two imbeddings that extend those of Kervaire ([14]) and Levine ([15]) on knots, Cappell and Shaneson (see [7]) on local knots, parametrized knots and knotted lens spaces as well as results of Ocken (in [19]) and Stoltzfus (in [37]). We also provide an algebraic formulation of general results of Cappell and Shaneson (in [7] and [8]) involving Poincare imbeddings and the codimensiontwo splitting problem.",
+        "email": "",
+        "conf": "Pacific Journal of Mathematics",
+        "coauthors": [
+            "Justin R Smith"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5279,
+        "label": 105,
+        "author": "justin smith",
+        "title": "Complements of codimension-two submanifolds",
+        "organization": "Professor of Mathematics Drexel University",
+        "abstract": "",
+        "email": "",
+        "conf": "Illinois journal of mathematics",
+        "coauthors": [
+            "Justin R Smith"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5274,
+        "label": 105,
+        "author": "justin smith",
+        "title": "Group Cohomology and Equivariant Moore Spaces",
+        "organization": "Professor of Mathematics Drexel University",
+        "abstract": "This paper will describe a relation between the homology and cohomology groups of a group rt and the Tor-and Ext-functors of modules over the integral group ring Zn. This relation will be applied to reformulate the obstruction theory to the existence of equivariant Moore spaces developed in [3] in a manner that may facilitate computation of the obstructions. Although the main theorem of this paper is a consequence of well-known results, I have never seen it explicitly stated before. I am indebted to Henri Cartan and Alex",
+        "email": "",
+        "conf": "Journal of Pure and Applied Algebra",
+        "coauthors": [
+            "Justin R Smith"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5268,
+        "label": 105,
+        "author": "justin smith",
+        "title": "Iterating the Cobar Construction",
+        "organization": "Professor of Mathematics Drexel University",
+        "abstract": "This book develops a new topological invariant called the m-structure, which incorporates all information contained in the canonical coproduct and the Steenrod operations. Given a chain complex equipped with an m-structure, Smith shows that its cobar construction also",
+        "email": "",
+        "conf": "Memoirs of the American Mathematical Society",
+        "coauthors": [
+            "Justin R Smith"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5266,
+        "label": 105,
+        "author": "justin smith",
+        "title": "Homotopy theory of coalgebras over operads",
+        "organization": "Professor of Mathematics Drexel University",
+        "abstract": "This paper constructs model structures on the categories of coalgebras and pointed irreducible coalgebras over an operad. The underlying chain-complex is assumed to be unbounded and the results for bounded coalgebras over an operad are derived from the unbounded case.",
+        "email": "jsmith@drexel.edu",
+        "conf": " arXiv preprint",
+        "coauthors": [
+            "Justin R Smith"
+        ],
+        "keywords": "operads, cofree coalgebras"
+    },
+    {
+        "id": 5275,
+        "label": 105,
+        "author": "justin smith",
+        "title": "Complements of Codimension-Two Submanifolds --- II: Homology Below the Middle Dimension",
+        "organization": "Professor of Mathematics Drexel University",
+        "abstract": "This paper studies the modules that can occur as the homology modules below the middle dimension of the complement of a codimension-two imbedding of compact manifolds and it therefore forms a continuation of [26]. Particular attention is focused upon the modules that can occur as the homology modules of a certain covering space of the complement which, in the case of knots, is the infinite cyclic cover.",
+        "email": "",
+        "conf": "Illinois journal of mathematics",
+        "coauthors": [
+            "Justin R Smith"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5281,
+        "label": 105,
+        "author": "justin smith",
+        "title": "Equivariant moore spaces",
+        "organization": "Professor of Mathematics Drexel University",
+        "abstract": "This paper studies the foUowing problem. originally proposed by Steenrod in 1960: Given a group 11, a right Ill-module M and an integer n>I, does there exist a topological space Xwith the properties … I. 11 (X)=lI; I 2. HlX) z O. htO. n; … Section 1 of the present paper develops",
+        "email": "",
+        "conf": "Algebraic and geometric topology",
+        "coauthors": [
+            "Justin R Smith"
+        ],
+        "keywords": "Primary 55S45,Secondary 18G55"
+    },
+    {
+        "id": 5270,
+        "label": 105,
+        "author": "justin smith",
+        "title": "Topological realizations of chain complexes II. The rational case",
+        "organization": "Professor of Mathematics Drexel University",
+        "abstract": "This paper continues the study of the realizability question for chain complexes. We address the following question: Given a group π and a Qπ-projective chain-complex , does there exist a topological space with fun damental group isomorphic to π whose equivariant chain complex is TΊ We essentially answer this question in the affirmative in an important special case and develop a purely algebraic obstruction theory for the problem in the general case.",
+        "email": "",
+        "conf": "Pacific Journal of Mathematics",
+        "coauthors": [
+            "Justin R Smith"
+        ],
+        "keywords": ""
+    }
+]

@@ -1,0 +1,316 @@
+[
+    {
+        "id": 6685,
+        "label": 126,
+        "author": "asterio tanaka",
+        "title": "A Service-based Approach for Data Integration based on Business Process Models.",
+        "organization": "Professor of Computer Science",
+        "abstract": "Business-IT alignment is gaining more importance in enterprises, and is already considered essential for efficiently achieving enterprise goals. This led organizations to follow Enterprise Architecture approaches, with the Information Architecture as one of its pillars. Information architecture aims at providing an integrated and holistic view of the business information, and this requires applying a data integration approach. However, despite several works on data integration research, the problem is far from being solved. The highly heterogeneous computer environments present new challenges such as distinct DBMSs, distinct data models, distinct schemas and distinct semantics, all in the same scenario. On the other hand, new issues in enterprise environment, such as the emergence of BPM and SOA approaches, contribute to a new solution for the problem. This paper presents a service-based approach for data integration, in which the services are derived from the organization’s business process models. The proposed approach comprises a framework of different types of services (data services, concept services), a method for data integration service identification from process models, and a metaschema needed for the automation and customization of the proposed approach in a specific organization. We focus on handling heterogeneities with regard to different DBMSs and differences among data models, schemas and semantics.",
+        "email": "",
+        "conf": "ICEIS",
+        "coauthors": [
+            "Hesley Py",
+            "Lucia Castro",
+            "Fernanda Araujo Baio",
+            "Asterio K. Tanaka"
+        ],
+        "keywords": "Data integration, Business process, Services, Information architecture"
+    },
+    {
+        "id": 6691,
+        "label": 126,
+        "author": "asterio tanaka",
+        "title": "Combining Mediator and Data Warehouse Technologies for Developing Environmental Decision Support Systems",
+        "organization": "Professor of Computer Science",
+        "abstract": "Governmental and environmental agencies have recognized that data Warehouses (DWs) oriented to the environmental domain can have a deep impact on the ability to preserve the environment. However, extracting environmental data from external sources in order to load them into the data organization area of a DW is much more complex when compared with conventional DWs. In environmental DWs, extraction is frequently based on autonomous, heterogeneous external sources distributed over the Web. In order to improve this process, we propose an architecture that combines a middleware system and DW technology. The use of this architecture has been achieved through the implementation of a tool called LSExtract, which has been built on top of a middleware system called Le Select. Its goal is to locate and extract relevant and accurate information from heterogeneous data sources over the Web, extract data published by Le Select, and load it, after some transformations, into the data organization area of an environmental DW.",
+        "email": "",
+        "conf": "International Conference on Geographic Information Science",
+        "coauthors": [
+            "Ana Maria de Carvalho Moura",
+            "Marcio Victorino",
+            "Asterio K. Tanaka"
+        ],
+        "keywords": "Data Warehouse, Staging Area, Publication Site, Heterogeneous Data Source, Mediation Technology "
+    },
+    {
+        "id": 6687,
+        "label": 126,
+        "author": "asterio tanaka",
+        "title": "GeoOlap: An Integrated Approach for Decision Support",
+        "organization": "Professor of Computer Science",
+        "abstract": "The integration of information from different sources within the enterprise is one of the basis for implementing successful Decision Support Systems (DSS). Typically a DSS supplies analytical information obtained and transformed from large data warehouses. Recently, the geographical component of information has become more important due to the growing use of this type of information in logistics, marketing, and other applications. This work describes GeoOIap, a decision support approach that proposes a method to develop decision support applications that integrates analytical and georeferenccd elements from the ground up - at the design stage - and OLAP (On-Line Analytical Processing) and GIS (Geographical Information System) technologies to visualize the results. Additionally, this paper describes PostGeoOIap, an open source general-purpose tool, which supports GeoOlap and that allows developers to easily build decision support applications. A case study is presented to validate the proposed ideas.",
+        "email": "",
+        "conf": "Research and Practical Issues of Enterprise Information Systems II",
+        "coauthors": [
+            "Rodrigo Soares Manhes",
+            "Sahudy Montenegro Gonzalez",
+            "Giovanni Colonese",
+            "Rogerio Atem de Carvalho",
+            "Asterio K. Tanaka"
+        ],
+        "keywords": "Data warehousing, Open source, decision support system, Data integration, Enterprise modeling and integration "
+    },
+    {
+        "id": 6693,
+        "label": 126,
+        "author": "asterio tanaka",
+        "title": "An architecture for dimensional and spatial analyses integration",
+        "organization": "Professor of Computer Science",
+        "abstract": "During the last 30 years, decisions involving conventional data have been supported by traditional decision support systems, like EIS (Executive Information Systems), DSS (Decision Support Systems) and lately OLAP (On-Line Analytical Processing) systems on Data Warehouse (DW) environments. Another kind of system also used by decision makers is Geographical Information System (GIS). These systems focus on spatial analysis and are more commonly used in specific application domains like Cartography, Insurance, Health and Environment Management. In this paper, we propose an architecture that supports dimensional and spatial analyses, which takes advantage of the main features and functionalities of OLAP and GIS tools, through an integration model at conceptual/logical level. A case study is described which applies the proposed framework",
+        "email": "tanaka@uniriotec.br",
+        "conf": "Proceedings of the 5th World Multiconference on Systemics, Cibernetics and Informatics,",
+        "coauthors": [
+            "Ana Cristina",
+            "F Ferreira",
+            "Maria Luiza",
+            "Asterio K. Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6689,
+        "label": 126,
+        "author": "asterio tanaka",
+        "title": "PostGeoOlap: An Open-Source Tool for Decision Support",
+        "organization": "Professor of Computer Science",
+        "abstract": "A Decision Support System (DSS) is an application that analyzes business data and presents it so that users can make business decisions more easily. A DSS may present information graphically and may include an expert system or artificial intelligence. Typically, information that a decision support application might gather and present is analytical and aggregated information on large data warehouses and geographical information. This work describes PostGeoOlap, a decision support tool that integrates OLAP (On-Line Analytical Processing) and GIS (Geographical Information System) technologies in a single application. PostGeoOlap is an open source and a general-purpose tool to be used by application developers to easily develop their decision support applications. This tool works on the PostGreSQL DBMS using its spatial extensions (PostGIS) and performs the analytical and geographical functionalities using data warehouses. A case study is presented to validate the proposed ideas",
+        "email": "tanaka@uniriotec.br",
+        "conf": "Proceedings of the 2nd Simpósio Brasileiro de Sistemas de Informação",
+        "coauthors": [
+            "Giovanni Colonese",
+            "Rodrigo Soares Manhes",
+            "Sahudy Montenegro",
+            "Maria Auxiliadora"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6696,
+        "label": 126,
+        "author": "asterio tanaka",
+        "title": "Active Database Modeling and Design Tools: Issues Approache and Architecture.",
+        "organization": "Professor of Computer Science",
+        "abstract": "Although a lot of research is being done on active databases, and a few commercial relational Dl3~ ISs already provide support for some active database capabilities (eg Ingres, InterBase, Oracle, and Sybase), to the best of our knowledge, currently there are no design tools that can take full advantage of these new capabilities. Using current relational database design methodology, the specification of active behavior iii the form of triggers/rules and stored procedures has to be done after-the-fact, ie, after the translation of",
+        "email": "",
+        "conf": " IEEE Data Eng. Bull",
+        "coauthors": [
+            "Shamkant B. Navathe",
+            "Asterio K. Tanaka",
+            "Sharma Chakravarthy"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6682,
+        "label": 126,
+        "author": "asterio tanaka",
+        "title": "Application of Knowledge Discovery in Databases in Evapotranspiration Estimation: an Experiment in the State of Rio de Janeiro",
+        "organization": "Professor of Computer Science",
+        "abstract": "With the growing volume of data in various areas such as Hydrology, there is a need for using information systems to aid in handling such data. This article is a report of an experiment that used knowledge discovery techniques to estimate an important component of the hydrological cycle: evapotranspiration. The experiment reported in this article was done with weather data and showed that some algorithms, such as M5P, present good results when compared to historical data of the estimated evapotranspiration.",
+        "email": "tanaka@uniriotec.br",
+        "conf": "nformation Systems: A Computer Socio-Technical",
+        "coauthors": [
+            "Fernando Xavier",
+            "Asterio K. Tanaka",
+            "Kate Revoredo"
+        ],
+        "keywords": "KDD, Data Mining, Hydrology, Evapotranspiration, Linear Regression"
+    },
+    {
+        "id": 6683,
+        "label": 126,
+        "author": "asterio tanaka",
+        "title": "A geo-ontology to support the semantic integration of geoinformation from the national spatial data infrastructure",
+        "organization": "Professor of Computer Science",
+        "abstract": "The profusion of geoinformation and the diversity of providers increasingly demand availability of integrated geoinformation. The Brazilian National Spatial Data Infrastructure (INDE) and the Web 2.0 technologies provide the existence of such solutions. In this context, geoinformation needs to be discovered and processed, seamlessly and semantically interoperable through the services offered by INDE, independently of the existing technological arrangement. It is essential to have an information model that represents the involved concepts, their characteristics and their relationships. The development of a geo-ontology, in order to consolidate aspects of spatial metadata, spatial features and geographic names, is the challenge addressed by this work.",
+        "email": "tanaka@cc.gatech.edu",
+        "conf": "GeoInfo",
+        "coauthors": [
+            "P.J.A. Gimenez",
+            "Asterio K. Tanaka",
+            "Fernanda Araujo Baio"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6681,
+        "label": 126,
+        "author": "asterio tanaka",
+        "title": "Database Supported Cooperative Problem Solving.",
+        "organization": "Professor of Computer Science",
+        "abstract": "Cooperative problem solving can be viewed as a complex activity requiring harmonious and dynamic interaction between active agents and passive agents. This problem is currently being addressed by the research community at various levels of abstraction. Broadly, this paper analyzes the problem of cooperative problem solving from a database perspective and argues that recent advances in database technology facilitate development of a viable solution to the above problem. Specifically, in this paper, we first analyze the problem of cooperative problem solving to identify its underlying key characteristics. Based upon our analysis, we partition the problem space into classes along a spectrum and indicate the level of cooperation required. We propose near-term as well as long-term solutions for cooperative problem solving that progressively enhances the functionality of database systems by synthesizing appropriate abstractions and techniques. Furthermore, we identify problems, such as agent capability modeling that require further research to address the most general form of cooperative problem solving.",
+        "email": "tanaka@cc.gatech.edu",
+        "conf": "International Journal of Cooperative Information Systems",
+        "coauthors": [
+            "SHARMA CHAKRAVARTHY",
+            "KAMALAKAR KARLAPALEM",
+            "SHAMKANT B. NAVATHE",
+            "ASTERIO TANAKA"
+        ],
+        "keywords": "Problem solving agents,active database systems,cooperative problem solving,agent capability modeling,coordination,collaboration"
+    },
+    {
+        "id": 6688,
+        "label": 126,
+        "author": "asterio tanaka",
+        "title": "A conceptual model for a knowledge base homogeneously stored in a database environment",
+        "organization": "Professor of Computer Science",
+        "abstract": "This paper proposes a conceptual approach as a way for storing Knowledge Bases in a Database Environment. The evolution of the model happened with the use of Entity-Relationship (ER) diagrams, Venn diagrams, Object-Oriented (OO) models and State Transition diagrams. With that model we are working in the construction of a Knowledge Server homogeneously stored in a Database environment and speculate about the possibility of that database to be shared in an heterogeneous environment. This research is an integration effort between the areas of Software Engineering (SE), Artificial Intelligence (AI) and Databases (DB) at Instituto Militar de Engenharia (IME).",
+        "email": "",
+        "conf": "Brazilian Symposium on Artificial Intelligence",
+        "coauthors": [
+            "Emmanuel Passos",
+            "Alberto Sade",
+            "Cicero Roberto Garcez",
+            "Asterio K. Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6684,
+        "label": 126,
+        "author": "asterio tanaka",
+        "title": "An architecture to support information sources discovery through semantic search",
+        "organization": "Professor of Computer Science",
+        "abstract": "In most scenarios, different information sources coexist and their content overlap, thus requiring domain knowledge to discover, understand and integrate information. In general, information sources are not designed for integration and their descriptive metadata do not suffice to enable IIS to consistently and unambiguously discover which information sources contain the required data to be integrated. This paper proposes an architecture to discover information sources through the use of semantic search techniques on top of corporative metadata repositories. Our experiments using a prototype of the proposed architecture obtained positive results with regard to precision and recall.",
+        "email": "",
+        "conf": "IEEE International Conference on Information Reuse & Integration",
+        "coauthors": [
+            "Veronica Santos",
+            "Fernanda Araujo Baio",
+            "Asterio K. Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6695,
+        "label": 126,
+        "author": "asterio tanaka",
+        "title": "A Methodology for Application Design Using Active Database Technology",
+        "organization": "Professor of Computer Science",
+        "abstract": "Even though there has been a fair amount of work done in the incorporation of active behavior into database systems, little research has addressed the conceptual, DBMS-independent representation of the active behavioral aspects of the applications. This report presents the work done in the introduction of active aspects of information systems at the conceptual schema level. ER is described, which is an extension of the ER model to express active database behavior in the form of events and rules. Also described is a language to accommodate the concepts of events and rules in the ER schema. A methodology is proposed for the design of active databases based on the ER model, as an extension for traditional database design methodology. With the extension, the data model mapping step includes the translation of active database behavior specified in the conceptual schema into triggers or event alerters written in the DBMSs DDL/DML. Finally, the implementation of a graphical tool is described, which can do the mapping from the ER model to the logical schema of the target database.",
+        "email": "",
+        "conf": "GEORGIA INST OF TECH ATLANTA",
+        "coauthors": [
+            "Shamkant Navathe",
+            "Asterio K. Tanaka",
+            "Ramesh Madhavan",
+            "Yee H. Gan"
+        ],
+        "keywords": "DATA BASES , SYSTEMS ENGINEERING , SYSTEMS APPROACH , METHODOLOGY , DATA MANAGEMENT , INFORMATION SYSTEMS , MODELS , TOOLS , TARGETS , GRAPHICS , ARTIFICIAL INTELLIGENCE , BEHAVIOR , MAPPING"
+    },
+    {
+        "id": 6692,
+        "label": 126,
+        "author": "asterio tanaka",
+        "title": "The Ecobase project: database and web technologies for environmental information systems",
+        "organization": "Professor of Computer Science",
+        "abstract": "A very large number of data sources on environment, energy, and natural resources are available worldwide. Unfortunately, users usually face several problems when they want to search and use relevant information. In the Ecobase project, we address these problems in the context of several environmental applications in Brazil and Europe. We propose a distributed architecture for environmental information systems (EIS) based on the Le Select middleware developed at INRIA. In this paper, we present this architecture and its capabilities, and discuss the lessons learned and open issues.",
+        "email": "",
+        "conf": "ACM SIGMOD Record",
+        "coauthors": [
+            "Luc Bouganim",
+            "M. C. Cavalcanti",
+            "Franoise Fabret",
+            "Patrick Valduriez"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6690,
+        "label": 126,
+        "author": "asterio tanaka",
+        "title": "Organization and structure of the Brazilian soil information system (SigSolos - version 1.0)",
+        "organization": "Professor of Computer Science",
+        "abstract": "",
+        "email": "",
+        "conf": "Revista Brasileira de Cincia do Solo",
+        "coauthors": [
+            "Csar S Chagas",
+            "Waldir Carvalho",
+            "Silvio Barge Bhering",
+            "Asterio K Tanaka",
+            "J. F. M. Baca"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6699,
+        "label": 126,
+        "author": "asterio tanaka",
+        "title": "On conceptual design of active databases",
+        "organization": "Professor of Computer Science",
+        "abstract": "A database system is a collection of data whose de nition, construction, manipulation, and usage are controlled by special software called a database management system (DBMS). Database systems have evolved and become very popular in the past few decades, and their scope of application has expanded from traditional, business data processing systems to new classes of non-conventional information systems. There has been an increasing interest in providing new functionalities to DBMSs, so that they can fully support such non",
+        "email": "",
+        "conf": "College of Computing, Georgia Institute of Technology",
+        "coauthors": [
+            "Asterio K. Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6698,
+        "label": 126,
+        "author": "asterio tanaka",
+        "title": "Meeting the Cooperative Problem Solving Challenge: A Database-Centered Approach",
+        "organization": "Professor of Computer Science",
+        "abstract": "Cooperative problem solving is a complex activity requiring harmonious interaction between active agents (typically humans providing sequencing, decision making, and coordination components) and systems (typically passive — providing inferencing as well as algorithmic computation). Although each component (or the node involved in problem solving) is autonomous and is capable of sophisticated problem solving, the problem cannot be solved by any individual node and without cooperation among the nodes. This problem is currently being addressed by the research community at various levels of abstraction. This paper concentrates on the enhancements of the functionality of a database management system required for supporting cooperative problem solving. Several problems addressed in the literature, such as automation of office environments can be viewed as a special (and perhaps a simple) case of cooperative problem solving. In our view, recent advances in database technology (viz. active and heterogeneous database management systems) and maturation of other concepts (viz. temporal and object-oriented databases) provide us with a repertoire of techniques and abstractions for formulating a viable solution to the above problem. In this paper, we first analyze the problem of cooperative problem solving to identify key underlying characteristics. We propose a database-centered solution by combining and extending techniques and abstractions to support the characteristics identified. We describe our immediate and long-term solutions for supporting cooperative problem solving. Finally, we present an example that exemplifies our multi-staged solution.",
+        "email": "",
+        "conf": "CKBS’90",
+        "coauthors": [
+            "Sharma Chakravarthy",
+            "S. B. Navathe",
+            "Kamalakar Karlapalem",
+            "Asterio K. Tanaka"
+        ],
+        "keywords": "Cooperative Activity, Activity Coordinator, Temporal Database, Active Database, Cooperative Problem "
+    },
+    {
+        "id": 6697,
+        "label": 126,
+        "author": "asterio tanaka",
+        "title": "ER-R: An Enhanced ER Model with Situation-Action Rules to Capture Application Semantics.",
+        "organization": "Professor of Computer Science",
+        "abstract": "",
+        "email": "",
+        "conf": "ER",
+        "coauthors": [
+            "Asterio K. Tanaka",
+            "Shamkant B. Navathe",
+            "Sharma Chakravarthy",
+            "Kamalakar Karlapalem"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6686,
+        "label": 126,
+        "author": "asterio tanaka",
+        "title": "Special track on Enterprise Information Systems: editorial message.",
+        "organization": "Professor of Computer Science",
+        "abstract": "Enterprise Information Systems are those intended to support business in the contemporary knowledge-based global economy. Therefore, developing and deploying these systems means to deal with complex and cross-disciplinary enterprise integration issues. EIS area embraces a plethora of subjects that range from Enterprise Resources Planning (ERP), Enterprise Content Management (ECM) and Customer Relationship Management (CRM) to Decision Support Systems and Business Intelligence. This track complements other SAC'2008 tracks such as Database Theory, Technology, and Applications, Data Mining, Data Streams, Document Engineering, e-Business Applications, Information Access and Retrieval, Organizational Engineering, Requirement Engineering, Software Engineering, and Computer Security, by stressing technology and business integration issues.",
+        "email": "",
+        "conf": "ACM symposium on Applied computing",
+        "coauthors": [
+            "Rogrio Atem De Carvalho",
+            "Asterio K. Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6694,
+        "label": 126,
+        "author": "asterio tanaka",
+        "title": "A Metadata Model for Supporting Data Extraction from Environmental Information Systems",
+        "organization": "Professor of Computer Science",
+        "abstract": "",
+        "email": "",
+        "conf": "Geographic Information Science",
+        "coauthors": [
+            "Ana Moura",
+            "H Perez",
+            "Asterio K Tanaka"
+        ],
+        "keywords": ""
+    }
+]

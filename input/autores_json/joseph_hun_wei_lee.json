@@ -1,0 +1,998 @@
+[
+    {
+        "id": 2679,
+        "label": 60,
+        "author": "joseph hun wei lee",
+        "title": "Integrated physical and ecological management of the East River",
+        "organization": "Chair Professor The Hong Kong University of Science and Technology",
+        "abstract": "We present an independent assessment of the health and water sustainability of the East River (Dongjiang) in South China, which is the source of nearly 80% of Hong Kong's water supply. Field measurements show that the water quality in the upper and middle reaches is generally good and well exceeds the drinking quality standard, with high bio-diversity. The streamflow of the East River Basin is satisfactorily simulated using both the distributed MIKE-SHE model and the lumped HSPF model. With an average streamflow of 760 m3/s, the River is able to satisfy the current water demand. Using the HSPF model, the water quality is found to have deteriorated in recent years. In addition to water supply, the River also supports a variety of needs such as hydro-power generation, waste assimilation, navigation, habitat for aquatic life, and expulsion of sea water intrusion. Using the projected need of 150 m3/s for water supply, the instream flow requirement based on hydrological and water quality simulation is estimated to be 467 m3/s in 2010. This suggests that the water sustainability of the East River requires alternative strategies, which may include integrated water resources management, provision of better wastewater treatment, and water and soil conservation.",
+        "email": "hreclhw@hku.hk;jhwlee@ust.hk",
+        "conf": "Water Science & Technology Water Supply",
+        "coauthors": [
+            "Joseph Hun Wei Lee",
+            "Zhaoyin Wang",
+            "Wai Thoe",
+            "Dongsheng Cheng"
+        ],
+        "keywords": "Bio-diversity, East River, instream water requirement, integrated river management, sustainability, water quality modelling"
+    },
+    {
+        "id": 2700,
+        "label": 60,
+        "author": "joseph hun wei lee",
+        "title": "Numerical experiment on two-dimensional line thermal",
+        "organization": "Chair Professor The Hong Kong University of Science and Technology",
+        "abstract": "The time evolution of a two-dimensional line thermal-a turbulent flow produced by an initial element with signifi-cant buoyancy released in a large water body, is numerically studied with the two-equation ke model for turbulence closure. The numerical results show that the thermal is characteri",
+        "email": "",
+        "conf": "China Ocean Engineering",
+        "coauthors": [
+            "J.H.W. Lee",
+            "G.Q. Chen"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2717,
+        "label": 60,
+        "author": "joseph hun wei lee",
+        "title": "Continuous source in tidal flow: A numerical study of the transport equation",
+        "organization": "Chair Professor The Hong Kong University of Science and Technology",
+        "abstract": "A detailed comparative numerical study of a continuous source discharging in a tidal flow has been performed. The advective term in the one-dimensional transport equation consists of a constant freshwater velocity and an isotropic oscillating component. Various finite element solutions are investigated. Compared to the analytical solution of the dynamic steady state concentration, the numerical results for typical estuarine conditions clearly indicate the superiority of the collocation method with Hermite basis functions. An extended Fourier series analysis that accounts for the source condition is developed to explain the numerical behaviour of the different schemes.",
+        "email": "",
+        "conf": "Applied Mathematical Modelling",
+        "coauthors": [
+            "C. W. Li",
+            "Joseph Hun Wei Lee"
+        ],
+        "keywords": "mathematical model,finite elements,advection-dominated transport equation,continuous source,tidal flow"
+    },
+    {
+        "id": 2684,
+        "label": 60,
+        "author": "joseph hun wei lee",
+        "title": "Turbulence modelling of a lock-release oil slick",
+        "organization": "Chair Professor The Hong Kong University of Science and Technology",
+        "abstract": "The motion of a lock-release oil slick as an immiscible two-fluid gravity current is numerically studied by a finite difference algorithm based on the volume of fluid (VOF) method for the basic formulation and a rigid cover approximation for the open free surface. Detailed numerical simulation with careful model validation reveals the existence of turbulence and the adaptability of the renormalization group (RNG) k-ε model for the Reynolds-stress closure in the case of the oil stick. The time evolution arid spatial distribution of the mean velocity, turbulence kinetic energy and turbulent viscosity are characterized. The mechanism for the transition from an initial gravity-inertial phase to a second gravity-viscous pliant is shown to be the relaminarization effect of the initially high1y turbulent slick. Compared well with known theoretical analyses and experimental observations, the turbulence modeling results in self-similar spreading laws in terms of the fact that the oil slick passes through the initial gravity-inertial phase with the front speed decreasing as t(superscript -1/3) where t is the time measured from lock release) and the second gravity-viscous phase with the front speed decreasing as t(superscript -5/8).",
+        "email": "",
+        "conf": "China Ocean Engineering",
+        "coauthors": [
+            "G.-Q. Chen",
+            "L.-Z. Zhang",
+            "Joseph Hun Wei Lee"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2686,
+        "label": 60,
+        "author": "joseph hun wei lee",
+        "title": "Comparative Analysis of Data-Driven and GIS-Based Conceptual Rainfall-Runoff Model",
+        "organization": "Chair Professor The Hong Kong University of Science and Technology",
+        "abstract": "Modeling of the rainfall-runoff process is important in hydrology. Historically, researchers relied on conventional deterministic modeling techniques based either on the physics of the underlying processes, or on the conceptual systems which may or may not mimic the underlying processes. This study investigates the suitability of a conceptual technique along with a data-driven technique, to model the rainfall-runoff process. The conceptual technique used is based on the Xinanjiang model coupled with geographic information system (GIS) for runoff routing and the data-driven model is based on genetic programming (GP), which was used for rainfall-runoff modeling in the recent past. To verify GP’s capability, a simple example with a known relation from fluid mechanics is considered first. For a small, steep-sloped catchment in Hong Kong, it was found that the conceptual model outperformed the data-driven model and provided a better representation of the rainfall-runoff process in general, and better prediction of peak discharge, in particular. To demonstrate the potential of GP as a viable data-driven rainfall-runoff model, it is successfully applied to two catchments located in southern China.",
+        "email": "",
+        "conf": "Journal of Hydrologic Engineering",
+        "coauthors": [
+            "A. W. Jayawardena",
+            "Nitin Muttil",
+            "Joseph H.W. Lee"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2696,
+        "label": 60,
+        "author": "joseph hun wei lee",
+        "title": "Environmental management of marine fish culture in Hong Kong",
+        "organization": "Chair Professor The Hong Kong University of Science and Technology",
+        "abstract": "Marine fish farming is an important commercial practice in Hong Kong. Marine fish farms located in eutrophic coastal waters often face the threat of severe dissolved oxygen depletion associated with algal blooms and red tides. On the other hand, mariculture activities also contribute to pollution. The sustainable management of mariculture requires proper siting of the fish farms and stocking density control. Both of these are related to the carrying capacity of the water body concerned, which is mainly governed by its flushing characteristics. A simple method to determine the carrying capacity of a fish farm has been developed by using three-dimensional (3D) hydrodynamic modelling and its effective coupling with a diagenetic water quality model. A systematic methodology using numerical tracer experiments has been developed to compute the tidal flushing in a fish farm. The flushing time is determined from the results of a numerical tracer experiment using robust 3D hydrodynamic and mass transport models. A unit tracer concentration is initially prescribed inside the region of interest and zero elsewhere; the subsequent mass transport and the mass removal process are then tracked. The fish farms are usually situated in well-sheltered shallow embayments and may not connect directly to the open water. It is found that it is necessary to define both “local” and “system-wide” flushing times to represent the effectiveness of the mass exchange with the surrounding water body and the open sea respectively. A diagenetic water quality model simulating the sediment–water–pollutant interaction is employed to address the response of the water column and the benthic layer to pollution discharges. With the flushing rate reliably computed, the carrying capacity of the fish farm can be determined in terms of key water quality parameters: chlorophyll-a, dissolved oxygen, organic nitrogen and potential lowest dissolved oxygen level on a day of negligible photosynthetic production. The predictions are well-supported by field data.",
+        "email": "hreclhw@hkucc.hku.hk",
+        "conf": "Marine Pollution Bulletin",
+        "coauthors": [
+            "J.H.W. Lee",
+            "K W Choi",
+            "Feleke Arega"
+        ],
+        "keywords": "Mariculture,Coastal inlets,Eutrophication,Hydrodynamics,Carrying capacity,Flushing time,Water quality model,Oxygen depletion,Organic pollution,Fish farm"
+    },
+    {
+        "id": 2707,
+        "label": 60,
+        "author": "joseph hun wei lee",
+        "title": "Turbulent gravity current of lock release type: A numerical study",
+        "organization": "Chair Professor The Hong Kong University of Science and Technology",
+        "abstract": "The time evolution of a turbulent gravity current of lock release type, formed by a finite volume of homogeneous fluid released instantaneously into another fluid of slightly lower density, is studied numerically via the renormalization group (RNG) κ-ϵ model for Reynolds-stress closure to characterize the flow with transitional and highly localized turbulence. Consistent with previous experimental observations, the numerical results show that the gravity current passes through two distinct phases, an initial slumping phase in which the current head advances steadily, and a second self-similar phase in which the front velocity decreases like the negative third power of the time after release. An overall entrainment ratio proportional to the distance from the release point is found and compares well with available experimental data for the slumping phase.",
+        "email": "",
+        "conf": "Communications in Nonlinear Science and Numerical Simulation",
+        "coauthors": [
+            "G.Q. Chen",
+            "Joseph Hun Wei Lee"
+        ],
+        "keywords": "turbulent flow,gravity current,numerical simulation"
+    },
+    {
+        "id": 2658,
+        "label": 60,
+        "author": "joseph hun wei lee",
+        "title": "Particle tracking modeling of sediment-laden jets",
+        "organization": "Chair Professor The Hong Kong University of Science and Technology",
+        "abstract": "This paper presents a general model to predict the particulate transport and deposition from a sediment-laden horizontal momentum jet. A three-dimensional (3-D) stochastic particle tracking model is developed based on the governing equation of particle motion. The turbulent velocity fluctuations are modelled by a Lagrangian velocity autocorrelation function that captures the trapping of sediment particles in turbulent eddies, which result in the reduction of settling velocity. Using classical solutions of mean jet velocity, and turbulent fluctuation and dissipation rate profiles derived from computational fluid dynamics calculations of a pure jet, the equation of motion is solved numerically to track the particle movement in the jet flow field. The 3-D particle tracking model predictions of sediment deposition and concentration profiles are in excellent agreement with measured data. The computationally demanding Basset history force is shown to be negligible in the prediction of bottom deposition profiles.",
+        "email": "",
+        "conf": "Advances in Geosciences",
+        "coauthors": [
+            "Shu Ning Chan",
+            "J.H.W. Lee"
+        ],
+        "keywords": "DRNTU,Engineering,Civil engineering,Construction technology"
+    },
+    {
+        "id": 2705,
+        "label": 60,
+        "author": "joseph hun wei lee",
+        "title": "Head advancement of turbulent gravity current: Numerical solution",
+        "organization": "Chair Professor The Hong Kong University of Science and Technology",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of Hydrodynamics",
+        "coauthors": [
+            "G.-Q. Chen",
+            "Joseph Hun Wei Lee"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2690,
+        "label": 60,
+        "author": "joseph hun wei lee",
+        "title": "Predicting Super Spreading Events during the 2003 Severe Acute Respiratory Syndrome Epidemics in Hong Kong and Singapore",
+        "organization": "Chair Professor The Hong Kong University of Science and Technology",
+        "abstract": "One of the intriguing characteristics of the 2003 severe acute respiratory syndrome (SARS) epidemics was the occurrence of super spreading events (SSEs). Here, the authors report the results of identifying the occurrence of SSEs in the Hong Kong and Singapore epidemics using mathematical and statistical analysis. Their predicted occurrence of SSEs agreed well with the reported occurrence of all seven super spreaders in the two cities. Additional unidentified SSEs were also found to exist. It was found that 71.1% and 74.8% of the infections were attributable to SSEs in Hong Kong and Singapore, respectively. There also seemed to be “synchronized” occurrences of infection peaks in both the community and the hospitals in Hong Kong. The results strongly suggested that the infection did not depend on the total number of symptomatic cases, with only a very small proportion of symptomatic individuals being shown to be infectious (i.e., able to infect other individuals). The authors found that the daily infection rate did not correlate with the daily total number of symptomatic cases but with the daily number of symptomatic cases who were not admitted to a hospital within 4 days of the onset of symptoms.",
+        "email": "",
+        "conf": "American Journal of Epidemiology",
+        "coauthors": [
+            "Yuguo Li, Ignatius T. S. Yu, Pengcheng Xu, J. H. W. Lee, Tze Wai Wong, Peng Lim Ooi, Adrian C. Sleigh"
+        ],
+        "keywords": "disease outbreaks; disease transmission; infection; severe acute respiratory syndrome"
+    },
+    {
+        "id": 2659,
+        "label": 60,
+        "author": "joseph hun wei lee",
+        "title": "Postoperation Performance of the Tai Hang Tung Storage Scheme in Storm Events: 2D Hydraulic Analysis and Field Verification",
+        "organization": "Chair Professor The Hong Kong University of Science and Technology",
+        "abstract": "The Tai Hang Tung Storage Scheme (THTSS) is an essential part of the West Kowloon Drainage Improvement Project that aims to solve the flooding problem in Mongkok, a congested and densely populated district of the Hong Kong Special Administration Region of China. The heart of the flood detention scheme is a 100,000-m3100,000-m3 underground storage tank beneath the Tai Hang Tung Recreation Ground, a triple side-weir system, and transitions to the upstream inlets and downstream channels. During heavy storms, part of the flood flow will spill over the side weirs into the underground storage tank and be temporarily stored; the flow diversion serves to attenuate the flood peaks and prevent downstream flooding. The THTSS was commissioned in 2005, and flow monitoring has been conducted since 2007. The operation of THTSS has essentially resolved the historic flooding problem. Nevertheless, the THTSS performance was put to an extreme test on June 7, 2008, when the highest hourly rainfall on record occurred. The heavy storm led to rapid filling up of the storage tank and minor local street flooding. This storm event suggested the need to use hydrodynamic models to evaluate the performance of the THTSS system. One-dimensional (1D) and two-dimensional (2D) mathematical models have been developed for the THTSS system including the side weir channels and transitions. The complex hydraulics in the triple side-weir system is first studied via a 2D numerical solution of the shallow water equations using a shock-capturing finite-volume method; the flow behavior and weir overflow distributions are compared with laboratory experiments and field data. Measured flood levels in the surcharged system are also studied using a 1D unsteady flow model for key storm events. The calibrated models are used to analyze postcommission performance of the system and to interpret the complex turbulent flows measured during the field survey.",
+        "email": "",
+        "conf": "Journal of Hydraulic Engineering",
+        "coauthors": [
+            "Joseph Hun Wei Lee",
+            "Ken T.M. Wong",
+            "K. W. Choi",
+            "Feleke Arega"
+        ],
+        "keywords": "Flood control, Drainage, Weir, Hydraulics, Modeling, Storage tank, Numerical simulation, Storm water, Urban area"
+    },
+    {
+        "id": 2675,
+        "label": 60,
+        "author": "joseph hun wei lee",
+        "title": "Hydraulic model study of the Tai Hang Tung Storage Scheme",
+        "organization": "Chair Professor The Hong Kong University of Science and Technology",
+        "abstract": "The Tai Hang Tung Storage Scheme (THTSS) is an essential component of theWest Kowloon Drainage Improvement (Stage 2) Project that aims to solve the flooding problem in Mongkok—a congested and densely populated district of the Hong Kong Special Administration Region. Over the years rapid development and changes in land use have resulted in significant increases in surface stormwater runoff, and the existing drainage system failed to cope with severe rainstorms. Rather than digging up roads and widening/adding existing drains, an economic drainage improvement plan calls for the construction of a 100, 000m3 underground storage tank upstream of the flooding black spots, below an existing football field in the vicinity of the Tai Hang Tung–Tat Chee Road junction. The upstream storage can serve to attenuate peak floods and protect downstream areas from flooding. Due to the complicated flows in the stormwater drainage system (including subcritical and supercritical open channel flows, pressurized flow in closed conduit, side weir overflows, and transitional flows at junctions), a 1:22 undistorted Froude scale physical model was designed and constructed to study the feasibility and performance of the THTSS scheme. As a complement, a 1D numerical model of the unsteady flow was developed to study water stages and flow characteristics for different side-weir arrangements. The key findings of the physical and numerical model studies are reported herein. The studies have resulted in an optimal design of the flood storage scheme; the physical model tests and numerical model results indicate that THTSS can enhance the flood control capacity to cope with a one in 50-year rainstorm.",
+        "email": "",
+        "conf": "Journal of Hydraulic Research",
+        "coauthors": [
+            "Joseph Hun Wei Lee",
+            "C.H.C. Chan",
+            "Cuiping Kuang",
+            "P. Clark",
+            "N. Townsend",
+            "W. Y. Shiu"
+        ],
+        "keywords": "Tai Hang Tung Storage Scheme (THTSS), urban flood control, one in 50 year rainstorm, stormwater drainage system, side weirs, overflow"
+    },
+    {
+        "id": 2702,
+        "label": 60,
+        "author": "joseph hun wei lee",
+        "title": "Two-dimensional line thermal",
+        "organization": "Chair Professor The Hong Kong University of Science and Technology",
+        "abstract": "",
+        "email": "",
+        "conf": "Communications in Nonlinear Science and Numerical Simulation",
+        "coauthors": [
+            "G.Q. Chen",
+            "Joseph Hun Wei Lee"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2665,
+        "label": 60,
+        "author": "joseph hun wei lee",
+        "title": "FIELD STUDIES OF E. COLI DECAY RATE AT A COASTAL BEACH IN HONG KONG",
+        "organization": "Chair Professor The Hong Kong University of Science and Technology",
+        "abstract": "E. coli is a commonly used bacterial water quality indicator due to its high correlation with swimming associated illnesses. The determination of E. coli decay rate is significant in many engineering applications. We have carried out the first systematic study of E. coli decay rate in subtropical Hong Kong coastal waters. Field experiments are carried out at the Big Wave Bay beach during and after storm events to study the E. coli decay rate; a parallel tracer method (with E. coli and freshwater fraction as the two natural tracers) is used to obtain the in-situ E. coli decay rate. It is found that the in-situ E. coli decay rates range from 1.1 to 5.0 d−1 (T90 - time required to have a 90% reduction of the initial bacteria level = 11.0 − 48.2 h) for episodic storm events. It takes about 1-2 days for E. coli to return to the level before the storm in strong sunshine. The results are consistent with independent laboratory studies and provide a basis for the determination of E. coli decay rate in environmental engineering applications.",
+        "email": "",
+        "conf": "Asian And Pacific Coasts",
+        "coauthors": [
+            "Y. M. CHAN",
+            "Wai Thoe",
+            "Joseph Hun Wei Lee"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2683,
+        "label": 60,
+        "author": "joseph hun wei lee",
+        "title": "PIV observation of instantaneous velocity structure of lock release gravity currents in the slumping phase",
+        "organization": "Chair Professor The Hong Kong University of Science and Technology",
+        "abstract": "The experiments of lock release gravity currents were performed in a rectangular channel with salt water and fresh water. The spreading law of the salt water is validated by using a digital video to record the progress of the current. Detailed instantaneous velocity structure of lock release gravity currents in the slumping phase was studied experimentally with particle image velocimetry (PIV). The time variation of the spatial distribution of velocity and vorticity is obtained, which shows some qualitative characters of the current as well as the effects of the bottom boundary layer and upper mixing layer.",
+        "email": "",
+        "conf": "Communications in Nonlinear Science and Numerical Simulation",
+        "coauthors": [
+            "J.B. Zhu",
+            "Cunbiao Lee",
+            "G.Q. Chen",
+            "Joseph H.W. Lee"
+        ],
+        "keywords": "Gravity current,Environmental fluid mechanics,Experimental measurement"
+    },
+    {
+        "id": 2704,
+        "label": 60,
+        "author": "joseph hun wei lee",
+        "title": "VISJET-a computer ocean outfall modelling system",
+        "organization": "Chair Professor The Hong Kong University of Science and Technology",
+        "abstract": " Sewage and industrial effluents from coastal cities are often discharged into the adjacent sea after some land-based treatment. In modern design, the wastewater is often discharged in buoyant jet groups from risers mounted on a submarine outfall on the seabed to achieve rapid mixing of effluents with tidal flow. A mathematical model for buoyant jets in currents based on the Lagrangian models, called JETLAG, was developed. The paper presents a system called VISJET, for visualizing the ocean sewage discharge system based on the JETLAG model. We discuss the features of VISJET system and show how computer visualization can be used to help with the design of an ocean sewage discharge system",
+        "email": "",
+        "conf": "Proceedings Computer Graphics International",
+        "coauthors": [
+            "S.K.B. Cheung",
+            "Dexter Leung",
+            "W. Wang",
+            "Joseph Hun Wei Lee",
+            "V. Cheung"
+        ],
+        "keywords": "Oceans,Effluents,Mathematical model,Visualization,Sea measurements,Cities and towns,Sludge treatment,Wastewater treatment,Underwater vehicles,Lagrangian functions"
+    },
+    {
+        "id": 2664,
+        "label": 60,
+        "author": "joseph hun wei lee",
+        "title": "REAL-TIME FORECAST OF MARINE BEACH WATER QUALITY IN HONG KONG",
+        "organization": "Chair Professor The Hong Kong University of Science and Technology",
+        "abstract": "Bacterial concentration (E. coli) is adopted as the key indicator of beach water quality in Hong Kong. As E. coli level in a beach varies dynamically on a daily basis, the current beach management system which relies on past data may not be able to fully track the bacterial variation. This study develops a real-time system for four marine beaches in Hong Kong to forecast beach water quality on a daily basis. Multiple Linear Regression (MLR) models are developed and validated against daily data over three months in 2008. An overall accuracy of over 70% in predicting water quality compliance/exceedance can be achieved. For beaches significantly affected by local non-point source pollution, the model can predict 71% of observed exceedance, when compared to 0% by the current system. The predictive models are applied to give real-time beach water quality forecast over the entire bathing season in 2009. As salinity data is not available during real-time application, a general model is developed to first predict salinity using an ANN sub-model. An overall accuracy of 70-90% can be achieved in real-time beach water quality forecast. The real-time forecasting system is incorporated in the WATERMAN system to deliver daily beach water quality forecasts for Hong Kong beaches, to enhance protection of public health and the utilization of our marine beach resources.",
+        "email": "",
+        "conf": "Asian And Pacific Coasts",
+        "coauthors": [
+            "Wai Thoe",
+            "Joseph Hun Wei Lee"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2711,
+        "label": 60,
+        "author": "joseph hun wei lee",
+        "title": "Instabilities and bifurcations of interfacial water waves",
+        "organization": "Chair Professor The Hong Kong University of Science and Technology",
+        "abstract": "The fourth‐order Zakharov equation for interfacial waves of two‐layered fluids with finite depths is derived to include quintet interactions. Using this new equation the class I and class II instability and bifurcation of a two‐dimensional Stokes interfacial wave into a three‐dimensional steady wave is studied. Results are in good agreement with those by numerical calculations from the full unapproximated water wave and with experimental data.",
+        "email": "",
+        "conf": "Physics of Fluids A Fluid Dynamics",
+        "coauthors": [
+            "C. P. Zhou",
+            "Joseph Hun Wei Lee",
+            "Y. K. Cheung"
+        ],
+        "keywords": "Bifurcation, Theoretical study, Non viscous fluid, Layered fluid, Interface, Two layer medium, Internal wave, Stability, Wave train"
+    },
+    {
+        "id": 2719,
+        "label": 60,
+        "author": "joseph hun wei lee",
+        "title": "Internal hydraulic jump in stratified counterflow.",
+        "organization": "Chair Professor The Hong Kong University of Science and Technology",
+        "abstract": "Based on a Boussinesq approximation of the governing momentum equations for an internal hydraulic jump in a two-layer counterflow, two important properties of an equal counterflow are demonstrated analytically. Corresponding to a given supercritical upstream state, there can be either two possible downstream conjugate states within the physically realizable range, or none at all. Further, the energy loss criterion across the jump is always satisfied. Consequently, the uniqueness of the downstream state cannot be determined by energy considerations, as done previously for the internal jump in a coflowing stratified flow. Physical arguments, coupled with some experimental observations indicate strongly that the conjugate state closer to the upstream state is the one that will be physically realized. The concept presented herein has been successfully applied to the study of stability and mixing of buoyant discharges in shallow water.",
+        "email": "",
+        "conf": "Journal of the Engineering Mechanics Division",
+        "coauthors": [
+            "Joseph Hun Wei Lee"
+        ],
+        "keywords": "Rivers and streams,Hydraulic jump,Water stratification,Hydraulic properties,Water discharge,Boussinesq equations,Approximation methods,Energy loss"
+    },
+    {
+        "id": 2718,
+        "label": 60,
+        "author": "joseph hun wei lee",
+        "title": "Multiple shallow water jets in coflowing current.",
+        "organization": "Chair Professor The Hong Kong University of Science and Technology",
+        "abstract": "",
+        "email": "",
+        "conf": "IAHR Congress",
+        "coauthors": [
+            "J.H.W. Lee"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2666,
+        "label": 60,
+        "author": "joseph hun wei lee",
+        "title": "Geographical distribution of red and green Noctiluca scintillans",
+        "organization": "Chair Professor The Hong Kong University of Science and Technology",
+        "abstract": "The dinoflagellate Noctiluca scintillans is one of the most important and abundant red tide organisms and it is distributed world-wide. It occurs in two forms. Red Noctiluca is heterotrophic and fills the role of one of the microzooplankton grazers in the foodweb. In contrast, green Noctiluca contains a photosynthetic symbiont Pedinomonas noctilucae (a prasinophyte), but it also feeds on other plankton when the food supply is abundant. In this review, we document the global distribution of these two forms and include the first maps of their global distribution. Red Noctiluca occurs widely in the temperate to sub-tropical coastal regions of the world. It occurs over a wide temperature range of about 10°C to 25°C and at higher salinities (generally not in estuaries). It is particularly abundant in high productivity areas such as upwelling or eutrophic areas where diatoms dominate since they are its preferred food source. Green Noctiluca is much more restricted to a temperature range of 25°C–30°C and mainly occurs in tropical waters of Southeast Asia, Bay of Bengal (east coast of India), in the eastern, western and northern Arabian Sea, the Red Sea, and recently it has become very abundant in the Gulf of Oman. Red and green Noctiluca do overlap in their distribution in the eastern, northern and western Arabian Sea with a seasonal shift from green Noctiluca in the cooler winter convective mixing, higher productivity season, to red Noctiluca in the more oligotrophic warmer summer season.",
+        "email": "",
+        "conf": "Chinese Journal of Oceanology and Limnology",
+        "coauthors": [
+            "Paul J. Harrison",
+            "Ken Furuya",
+            "P. M. Glibert",
+            "J. Xu",
+            "B. Liu",
+            "K. Yin",
+            "J. H. W. Lee",
+            "D. M. Anderson",
+            "R. Gowen",
+            "A. R. Al-Azri",
+            "Alvin Y. T. Ho"
+        ],
+        "keywords": "Noctiluca; global distribution; distribution map; green Noctiluca; dinoflagellate"
+    },
+    {
+        "id": 2689,
+        "label": 60,
+        "author": "joseph hun wei lee",
+        "title": "Impact of reclamation and HATS Stage I on Victoria Harbour Hong Kong",
+        "organization": "Chair Professor The Hong Kong University of Science and Technology",
+        "abstract": "",
+        "email": "",
+        "conf": "IAHR-APD Congress",
+        "coauthors": [
+            "Cuiping Kuang",
+            "Joseph Hun Wei Lee"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2674,
+        "label": 60,
+        "author": "joseph hun wei lee",
+        "title": "Real-time hydro-environmental modeling and visualization system for public engagement",
+        "organization": "Chair Professor The Hong Kong University of Science and Technology",
+        "abstract": "Quantitative environmental impact assessment (EIA) provides a tool for decision makers and the public to understand issues relating to sustainable development. The use of advanced hydro-environmental modelling and visualization technology can help to provide an intuitive and interactive digital platform to better communicate EIA issues and thus promote continuous public involvement and stakeholder engagement. Such a platform must be based on a robust hydrodynamic model engine that provides seamless predictions from the near to far field. This lecture summarizes the key issues of impact assessment in urban coastal cities, and presents examples of impact assessment of several major sewage outfalls, including the Hong Kong Harbour Area Treatment Scheme. The predictions of a recently developed Distributed Entrainment Sink Approach (DESA) for dynamic coupling of the near and far fields are compared with alternative “actual source\" approaches and field experiments. The conceptual elements of a real time water quality forecast and management system are outlined.",
+        "email": "jhwlee@ust.hk",
+        "conf": "Environmental Fluid Mechanics",
+        "coauthors": [
+            "Joseph Hun Wei Lee",
+            "K. W. Choi"
+        ],
+        "keywords": "Mixing and transport,Environmental impact,Risk assessment,Public engagement,Three-dimensional models,Hydrodynamics and water quality"
+    },
+    {
+        "id": 2673,
+        "label": 60,
+        "author": "joseph hun wei lee",
+        "title": "Mixing of Coflowing Jets in Rivers",
+        "organization": "Chair Professor The Hong Kong University of Science and Technology",
+        "abstract": "Domestic and industrial wastewater effluents are often discharged into rivers after some treatment. An effective way of rapidly reducing effluent concentrations to acceptable levels within a mixing zone is to discharge the effluent in the form of multiple jets into a coflowing river flow at some distance from the riverbank. An accurate and efficient predictive model of multiple coflowing jets is required for impact and risk assessment of environmental discharges into rivers. In the present study, a new semi-analytical model for multiple coflowing jets is developed using the method of superposition based on Reichardt’s hypothesis. Jet excess momentum fluxes are hypothesized to be Gaussian and additive, which is supported by both theory and experimental observations. The predicted jet mixing characteristics of multiple coflowing jets from the present model compares favorably with basic experimental data. The present model is able to predict the entire concentration field, and thus mixing zone, downstream of an effluent discharge, and has potential application in river discharges.",
+        "email": "",
+        "conf": "Advances in Water Resources and Hydraulic Engineering",
+        "coauthors": [
+            "Bowwii Pani",
+            "Joseph Hun Wei Lee",
+            "Adrian C. H. Lai"
+        ],
+        "keywords": "coflowing jets, Reichardt’s hypothesis, superposition method, jet dilution, multiple jets "
+    },
+    {
+        "id": 2701,
+        "label": 60,
+        "author": "joseph hun wei lee",
+        "title": "Effect of downstream control on stability and mixing of a vertical buoyant jet in confined depth",
+        "organization": "Chair Professor The Hong Kong University of Science and Technology",
+        "abstract": "The effect of downstream control on the mixing of a plane turbulent heated jet discharging vertically into confined depth is studied using the buoyancy extended k-∊ model. The steady two-dimensional turbulent flow, temperature and turbulence fields are computed using the finite volume method on a high resolution grid. In the absence of a specific downstream control, the numerical predictions demonstrate three generic flow patterns for different jet discharges and environmental parameters: i) a flow with circulation cells of alternate rotation for non-buoyant discharge; ii) a stable buoyant discharge with the mixed fluid leaving the vertical jet region in a surface warm water layer; and iii) an unstable buoyant discharge with flow recirculation and re-entrainment of heated water. A stratified counterflow region always appears in the far-field for both stable and unstable buoyant discharges. The near field interaction and hence discharge stability is governed by only two dimensionless parameters - the discharge densimetric Froude number Fo and the depth to jet width ratio H/B. The computed velocity and temperature fields agree well with the laboratory flow-visualization and temperature measurements of Jirka & Harleman (1979). Numerical prediction of stability categories is in excellent agreement with experiments. For a given discharge and depth, it is found that the jet stability can be predicted regardless of downstream control, provided that the channel length exceeds about 6H. The effect of a strong downstream control close to the discharge primarily results in a flooded internal jump and the lowering of the interface level in the stratified counterflow region. Consistent with the detailed measurements of Andreopoulos, Praturi and Rodi (1986), the predictions show a clear reduction of the bulk dilution, although the effect of downstream control on the jet discharge stability is insignificant.",
+        "email": "",
+        "conf": "Journal of Hydraulic Research",
+        "coauthors": [
+            "Cr P. Kuang",
+            "Joseph H.W. Lee"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2693,
+        "label": 60,
+        "author": "joseph hun wei lee",
+        "title": "Real-time prediction of coastal algal blooms using genetic programming",
+        "organization": "Chair Professor The Hong Kong University of Science and Technology",
+        "abstract": "Harmful algal blooms (HAB) have been widely reported and have become a serious environmental problem world wide due to its negative impacts to aquatic ecosystems, fisheries, and human health. A capability to predict the occurrence of algal blooms with an acceptable accuracy and lead-time would clearly be very beneficial to fisheries and environmental management. In this study, we present the first real-time modelling and prediction of algal blooms using a data driven evolutionary algorithm, Genetic Programming (GP). The prediction of the algal blooms is carried out at Kat O station in Hong Kong using 3 years of high frequency (two-hourly) chlorophyll fluorescence and related hydro-meteorological and water quality data. The results for daily prediction of chlorophyll fluorescence, a measure of algal biomass, are within reasonable accuracy for a lead-time of up to 2 days. As compared to traditional data-driven models, GP has the advantage of evolving an equation relating input and output variables. A detailed analysis of the results of the GP models shows that GP correctly identifies the key input variables in accordance with ecological reasoning; the results generally concur with that obtained with artificial neural network. GP has been shown to be a viable alternative for real-time algal bloom prediction, with an added advantage of interpreting the evolved equations.",
+        "email": "",
+        "conf": "Hydroinformatics",
+        "coauthors": [
+            "Nitin Muttil",
+            "Joseph Hun Wei Lee",
+            "A. W. Jayawardena"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2682,
+        "label": 60,
+        "author": "joseph hun wei lee",
+        "title": "Numerical study of the Tai Hang Tung storage Scheme Hong Kong",
+        "organization": "Chair Professor The Hong Kong University of Science and Technology",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Cuiping Kuang",
+            "Joseph Hun Wei Lee",
+            "H.-C. Chan",
+            "P Clark",
+            "N Townsend",
+            "S. Raymond"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2663,
+        "label": 60,
+        "author": "joseph hun wei lee",
+        "title": "Obituary for Professor Toshiharu Kojiri",
+        "organization": "Chair Professor The Hong Kong University of Science and Technology",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of Hydro-environment Research",
+        "coauthors": [
+            "Joseph Hun Wei Lee"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2714,
+        "label": 60,
+        "author": "joseph hun wei lee",
+        "title": "Dissolved Oxygen Variations in Marine Fish Culture Zone",
+        "organization": "Chair Professor The Hong Kong University of Science and Technology",
+        "abstract": "Extensive field measurements aimed at studying short‐term dissolved oxygen (DO) variability have been carried out in a marine fish culture zone in Hong Kong. A dynamic oxygen budget model is developed to analyze the diurnal water‐quality data from a series of 26‐hr surveys. The model formulation includes phytoplankton dynamics and photosynthetic production, sediment oxygen demand (SOD), fish respiration, carbonaceous and nitrogenous oxidation, and atmospheric oxygen transfer. The model is used to determine the components of oxygen consumption and production—in particular, the SOD and carbon‐to‐chlorophyll (CCHL) ratio. It is found that SOD and algal respiration are major oxygen consumption items, and the CCHL ratio is much higher than reported in previous mathematical model studies. Simulations of the diurnal DO variation are compared with data over a wide range of meteorological and ecological conditions. The model interpretation provides a basis for the formulation of a water‐quality model for short‐term DO forecasts",
+        "email": "",
+        "conf": "Journal of Environmental Engineering",
+        "coauthors": [
+            "J.H.W. Lee",
+            "Rudolf Wu",
+            "Y. K. Cheung",
+            "P. P. S. Wong"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2712,
+        "label": 60,
+        "author": "joseph hun wei lee",
+        "title": "Line momentum source in cross-flow",
+        "organization": "Chair Professor The Hong Kong University of Science and Technology",
+        "abstract": "A series of jets in shallow water is represented as a line source of momentum in a two-dimensional flow. The flow field produced in the presence of cross-current is determined by a finite element solution to the governing shallow water equations. The effects of shoreline boundary and the magnitude of the cross-current are studied and the results are compared satisfactorily with experiments. The global flow features and the induced flow at the line source are in general well predicted. While in the case of strong cross-current the fine flow features around the source cannot be reproduced due to its three-dimensional nature.",
+        "email": "",
+        "conf": "International Journal of Engineering Science",
+        "coauthors": [
+            "C. W. Li",
+            "Joseph Hun Wei Lee"
+        ],
+        "keywords": "Flow field, Shallow water, Crossflow, Fluid injection, Interaction, Multiple jet, Submerged jet, Numerical simulation"
+    },
+    {
+        "id": 2716,
+        "label": 60,
+        "author": "joseph hun wei lee",
+        "title": "A Microcomputer Model for Flood Prediction with Applications",
+        "organization": "Chair Professor The Hong Kong University of Science and Technology",
+        "abstract": "A generally applicable mathematical model, tailored for use on a Personal Computer, as the design tool to simulate unsteady flood flow in a network of interconnected rivers has been developed and applied to the Sham Chun River along the border between Hong Kong and the People's Republic of China. The effect on the improved Sham Chun River due to the proposed river training in the River Indus, one of its tributaries, is evaluated. The one‐dimensional unsteady flow model itself is broadly applicable to a wide range of hydrologic conditions and varying field situations. It incorporates real hydraulic features including branched channels and ‘tidal flats’ flooding and drying. The time history of water stages and discharges are computed at any desired location throughout the connected essentially one‐dimensional channel network subject to initial and boundary conditions. Details are given of techniques adapted in using the computational scheme to quantify the unsteady flow condition and the means to assure an efficient numerical solution as well as to verify the accuracy of the computed outputs by subjection to carefully selected schematic simplified test cases and real prototype cases with numerical solution method is a useful predictive engineering tool in river design.",
+        "email": "",
+        "conf": "Computer-Aided Civil and Infrastructure Engineering",
+        "coauthors": [
+            "K. W. Chau",
+            "Joseph Hun Wei Lee"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2660,
+        "label": 60,
+        "author": "joseph hun wei lee",
+        "title": "Daily Forecasting of Hong Kong Beach Water Quality by Multiple Linear Regression Models",
+        "organization": "Chair Professor The Hong Kong University of Science and Technology",
+        "abstract": "A daily forecast system of marine beach water quality (WATERMAN) has been developed for Hong Kong. Individual multiple linear regression (MLR) models were developed to forecast daily water quality (lnEC concentration) at each of the 41 beaches. The forecast system was developed through data assimilation with the most recent water quality data, and supported by field studies and deterministic hydrological, hydrodynamic, and water quality models. Model input parameters included three rainfall variables (daily rainfall in the previous three days): the previous day’s solar radiation, onshore wind speed, and water temperature; tide level and predicted salinity at sampling time; and the geometric mean of the five most recent E. coli measurements. The forecasts were disseminated through the Internet and smart phone apps. The operational performance of the beach water quality forecast system during 2010–2011 is presented for 16 representative beaches. An overall accuracy of 78–100% in forecasting compliance or exceedance of the water quality objective (WQO) can be obtained, with correct positives (exceedances) of approximately 30–70%. A parameter analysis reveals beaches with different characteristics: (1) beaches dominated by nonpoint pollution sources; (2) beaches affected by nearby point source pollution; and (3) clean beaches that are relatively free of pollution. As compared with the current beach advisory based entirely on sparsely sampled data, the number of incorrect forecasts of WQO exceedances (beach incorrectly open) can be significantly reduced by 25% using the forecast system. The corresponding reduction of excess illnesses attributable to the incorrect open forecasts can be estimated to be approximately 30%. The forecast system is able to enhance protection of public health while allowing maximum beach access.",
+        "email": "jhwlee@ust.hk",
+        "conf": "Journal of Environmental Engineering",
+        "coauthors": [
+            "Wai Thoe",
+            "Joseph Hun Wei Lee"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2677,
+        "label": 60,
+        "author": "joseph hun wei lee",
+        "title": "Assessment of ecological system in East River and corresponding ecological restoration strategies",
+        "organization": "Chair Professor The Hong Kong University of Science and Technology",
+        "abstract": "The stream ecology of the East River is investigated by using the benthic macro-invertebrates as indicator. Samples were taken from 12 selected sites with different environmental conditions from upper reaches to lower reaches. It is found that the biodiversity and bio-community index of benthic invertebrates maintain a relatively high level respectively in the upper reaches and middle reaches of the river, but they are reduced to nearly zero in the lower reaches. The analysis on samples obtained from the Zengjiang Bay and Xizhijiang Oxbow Lake indicates that the major ecological stress is loss of habitats due to reclamation and separation of riparian water from the river. The restoration strategies are suggested accordingly. The strategies include: 1. creating multiple habitats with high habitat diversity, such as riparian lakes, wetlands, backwater and sluggish flow zones and reconnect separated lakes with the river; 2. adjusting the operation scheme of the upstream reservoir to mitigate the impact induced by instantaneous fluctuation of flow discharge; 3. stabilizing river banks, controlling river erosion and protecting the riverside vegetation.",
+        "email": "",
+        "conf": "Shuili Xuebao/Journal of Hydraulic Engineering",
+        "coauthors": [
+            "Zhaoyin Wang",
+            "Dongsheng Cheng",
+            "Xue.-Hua Duan",
+            "Joseph Hun Wei Lee"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2672,
+        "label": 60,
+        "author": "joseph hun wei lee",
+        "title": "NITROGEN SOURCE APPORTIONMENT OF THE EAST RIVER (DONGJIANG) CHINA",
+        "organization": "Chair Professor The Hong Kong University of Science and Technology",
+        "abstract": "The East River, locally known as Dongjiang, is the major source of potable water supply for Hong Kong. Because of the rapid economic development in the basin, concerns have been raised regarding the water quality in the river. In this study, total nitrogen (TN) export from the basin in 1998 is estimated for various sources based on a simple correlative approach utilizing measured concentrations in the river, together with some mass balance constraints based on socio-economic data. A modeling tool, HSP-F, is used for discharge calculation. The export coefficients for four land-use classes are calibrated and compared with literature. It is found that municipal input together with the contribution from farm animals are the major sources of nitrogen in the basin. A total load of 113, 000 t N/a has been estimated, giving an average specific export coefficient of 41.5 kg/ha/a, of which 68% are from non-point sources from the urban land-use and 17% from farm animals. The spatial distribution of nitrogen provenance is highly uneven and is concentrated in the downstream areas near Huizhou, Dongguan and Shenzhen.",
+        "email": "",
+        "conf": "Asian geographer",
+        "coauthors": [
+            "Lincoln Fok",
+            "Wai Thoe",
+            "A. KOENIG",
+            "M. R. Peart",
+            "Joseph Hun Wei Lee"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2713,
+        "label": 60,
+        "author": "joseph hun wei lee",
+        "title": "Forecasting of Dissolved Oxygen in Marine Fish Culture Zone",
+        "organization": "Chair Professor The Hong Kong University of Science and Technology",
+        "abstract": "Short‐term trends in dissolved oxygen in a weakly flushed marine fish culture zone in Hong Kong are studied by a real‐time water‐quality model with seven system variables: dissolved oxygen, chlorophyll‐a, organic nitrogen, ammonia, nitrate, zooplankton, and sediment algal carbon. The carbon‐chlorophyll ratio is computed as a function of a time‐variable saturating light intensity. Sediment oxygen demand is related to organic loads from the fish farm as well as algal biomass. Water‐quality predictions are compared with well‐documented field observations for both background and algal bloom conditions, over time scales on the order of a month. Model simulations demonstrate the importance of light intensity and photosynthetic production in dissolved oxygen variations, which are well predicted. The model also provides useful insights into the causes of severe oxygen depletion and phytoplankton dynamics in a eutrophic subtropical coastal marine ecosystem.",
+        "email": "",
+        "conf": "Journal of Environmental Engineering",
+        "coauthors": [
+            "J.H.W. Lee",
+            "Rudolf Wu",
+            "Y. K. Cheung"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2709,
+        "label": 60,
+        "author": "joseph hun wei lee",
+        "title": "An analysis of the oxygen balance in an anoxic tidal river",
+        "organization": "Chair Professor The Hong Kong University of Science and Technology",
+        "abstract": "A time-dependent, mixed-segment, slack tide oxygen balance model has been developed for the study of a heavily polluted tidal river discharging to a coastal bay.Deoxygenation and reaeration, BOD settling, benthal demand, freshwater flushing, and tidal mixing are the key processes modelled. Significant features of the model include the oxygen balance formulation under anoxic conditions and the tidal exchange condition at the seaward boundary. The simple model enables a clear and consistent interpretation of a set of dry season water quality data and an assessment of the assimilative capacity of the river is also made",
+        "email": "",
+        "conf": "JOURNAL OF HYDRODYNAMICS SERIES B-ENGLISH EDITION",
+        "coauthors": [
+            "Joseph Hun Wei Lee",
+            "K.W. Choi",
+            "H-G. Chen",
+            "M-H. Lin"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2691,
+        "label": 60,
+        "author": "joseph hun wei lee",
+        "title": "Numerical determination of flushing time for stratified water bodies",
+        "organization": "Chair Professor The Hong Kong University of Science and Technology",
+        "abstract": "It is often advantageous to model a semi-enclosed estuarine or coastal embayment (e.g. fish farms or tidal inlets, or typhoon shelters) as a separate system within a larger water body connected to the outer sea. The water quality of the system depends crucially on its flushing time—the average time of a particle in the system. The flushing time is governed by the barotropic and baroclinic tidal exchanges between the system and the outer sea. We describe herein a general method to determine systematically the flushing time of a stratified water body via a numerical tracer experiment. Numerical solution of the 3D flow and mass transport equations for many practical problems show that the tracer mass removal process depends on the physical topography and bathymetry, tidal range and the degree of stratification in the outer sea. Field application suggests that the tracer mass variation can be well approximated by a double-exponential decay curve that can be described by three flushing coefficients. Using a simple analytical two-segment model, the flushing coefficients can be given a clear physical interpretation, and the flushing time can be easily determined in terms of the coefficients. The method is illustrated by application to a number of tidal inlets in Hong Kong, in both the dry and wet season. The connection between the numerically determined flushing time and the traditional bulk flushing time obtained from salt-balance methods is established.",
+        "email": "hreclhw@hkucc.hku.hk",
+        "conf": "Journal of Marine Systems",
+        "coauthors": [
+            "K.W. Choi",
+            "J.H.W. Lee"
+        ],
+        "keywords": "Flushing time,Tidal flushing,Density stratification,Three-dimensional modelling,Numerical model,Tracer experiment,Water quality"
+    },
+    {
+        "id": 2670,
+        "label": 60,
+        "author": "joseph hun wei lee",
+        "title": "Forecasting of coastal algal blooms - A hydraulic engineering perspective",
+        "organization": "Chair Professor The Hong Kong University of Science and Technology",
+        "abstract": "Harmful algal blooms and red tides can lead to beach closures, dissolved oxygen depletion and fish kills, and shellfish contamination. Coastal algal blooms are complex hydro-biological phenomena that are notoriously difficult to predict. We present herein a simple algal bloom forecast model that is derived from deterministic water quality modeling and field observational experience. Algal bloom occurrence is predicted as a function of vertical hydrodynamic stability and nutrient availability. The model requires minimal field measurements as input and is highly suited for operational forecasts. Predictions of the model are compared with field observations. The development of a near real time early warning system for forecasting the likelihood of algal blooms and red tides for fisheries management is presented.",
+        "email": "",
+        "conf": "Asian and Pacific Coasts",
+        "coauthors": [
+            "Joseph Hun Wei Lee",
+            "Ken T.M. Wong"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2680,
+        "label": 60,
+        "author": "joseph hun wei lee",
+        "title": "Epilithic diatom as a biological indicator for the assessment of water quality in the East River",
+        "organization": "Chair Professor The Hong Kong University of Science and Technology",
+        "abstract": "A group research project has been initiated to develop an integrated river management strategy and assessment criteria for the East River in Guangdong province. Four field surveys were conducted in 2004 to study the geomorphologic, hydrologic and environmental features of the basin. Epilithic diatom and water samples were collected from four sites in the upper and lower reaches of the river. A total of 23 diatom genera were identified from the study sites during the two sampling periods. The diatom genus Nitzschia represented the most pollutant dependent epilithic diatoms, comprising over 38% of the overall diatom population in the polluted sites. The correlation between water quality and the Shannon diversity index (H), generic index (GI), trophic diatom index (TDI) and diatom assemblage index to organic pollution (DAIpo) was investigated in this study. The results suggested that epilithic diatom might be used as a biological indicator for the environmental health assessment of the East River.",
+        "email": "",
+        "conf": "Water Science & Technology Water Supply",
+        "coauthors": [
+            "K.W. Fan",
+            "Lincoln Fok",
+            "Joseph Hun Wei Lee",
+            "Fei Chen"
+        ],
+        "keywords": "Biological indicator, East River, epilithic diatom, Nitzschia, water quality"
+    },
+    {
+        "id": 2676,
+        "label": 60,
+        "author": "joseph hun wei lee",
+        "title": "Influence of the biomass content in sediment on the sediment nutrient flux for a pulsed organic load",
+        "organization": "Chair Professor The Hong Kong University of Science and Technology",
+        "abstract": "A laboratory study was carried out to investigate the influence of the biomass content in the sediment on the rate of diagenesis of particulate organic materials (POM) and the consequent sediment oxygen demand (SOD) and nutrient fluxes. Fish food pellets were loaded into the sediment to simulate a sudden POM input. Three types of sediments with different biomass contents were tested, including a raw marine sediment, the marine sediment after one month of cultivation and an artificial sediment of sand and clay without any biomass. There was little difference in organic flux from the three different sediments. However, compared to the artificial sediment, the marine sediments had much higher SOD and ammonia flux. A mathematical model also has been developed for the SOD dynamics and nutrient fluxes. Both the experimental and simulation results indicate the important role of the biomass in the sediment in POM diagenesis, SOD and nutrient fluxes.",
+        "email": "",
+        "conf": "Marine Pollution Bulletin",
+        "coauthors": [
+            "Y.X. Wang",
+            "X.Y. Li",
+            "Joseph Hun Wei Lee"
+        ],
+        "keywords": "Biomass,Dissolved oxygen (DO),Eutrophication,Sediment nutrient flux,Sediment oxygen demand (SOD),Sediment pollution,Marine water quality"
+    },
+    {
+        "id": 2688,
+        "label": 60,
+        "author": "joseph hun wei lee",
+        "title": "Nutrient load estimation in nonpoint source pollution of Hong Kong region",
+        "organization": "Chair Professor The Hong Kong University of Science and Technology",
+        "abstract": "Red tides and eutrophication have been frequently observed over the past two decades in coastal waters around Hong Kong, which are caused by many factors and one of them is the nutrient from nonpoint source pollution (NSP). This paper concentrates on the nutrients carried by river flow from watersheds. Since there are no systematical data sets of nonpoint source pollution in Hong Kong, monthly river water quality measurements, rainfall and river flow data, land uses, and other related information are used to analyze the characteristics of NSP and estimate the nutrient loads for Hong Kong region. Main achievements are as follows: firstly, besides mean concentration for single land use, the concept of integrated mean concentration for mixed land uses was proposed and applied. Secondly, mean concentrations were carried out for different land uses (agriculture, town, grassland, shrubland and woodland), each Water Control Zone, and Hong Kong region. Thirdly, the annual nutrient loads were estimated, for the first time in this paper, with various methods for the whole area of Hong Kong, and about 8,000 tons of TN and 1,500 tons TP are transported into coastal waters from Hong Kong's land in 1998.",
+        "email": "",
+        "conf": "Water Science & Technology",
+        "coauthors": [
+            "H E Li",
+            "J.H.W. Lee",
+            "A Koenig",
+            "A. W. Jayawardena"
+        ],
+        "keywords": "Hong Kong, integrated mean concentration, load estimation, nonpoint source pollution, nutrients"
+    },
+    {
+        "id": 2692,
+        "label": 60,
+        "author": "joseph hun wei lee",
+        "title": "Real time prediction of coastal algal blooms using artificial neural networks",
+        "organization": "Chair Professor The Hong Kong University of Science and Technology",
+        "abstract": "The occurrence of harmful algal blooms (HAB) in coastal waters is a chronic problem in many parts of the world. The development of real time measurement systems and forecasting models of HAB is important for understanding the algal dynamics and for fisheries and environmental management. In the recent past, data-driven modelling techniques such as artificial neural networks have been increasingly used to model algal bloom dynamics. However the predictability of most of these models is questionable due to the use of interpolated data from low frequency measurements. We present here the first real time modelling and prediction of algal bloom dynamics using artificial neural networks. The model is based on continuous high frequency measurements of water quality and hydro-meteorological parameters at Kat O field monitoring station in Hong Kong. A multi-layer perceptron neural network model trained with back propagation algorithm is employed to model and predict the algal biomass (chlorophyll fluorescence) with different lead times. Daily values of chlorophyll fluorescence, dissolved oxygen, water temperature, solar radiation and wind speed are used as input variables. Multivariate statistical analysis of the input variables and tests with different network scenarios suggest that the use of past values of chlorophyll fluorescence alone is sufficient for algal prediction. Consistent with previous studies, this illustrates the auto-regressive nature of the bloom dynamics in the semi-enclosed coastal waters of Hong Kong. Comparison of predicted and observed chlorophyll fluorescence suggest that the neural network can make reliable real time predictions up to 2-days lead-time.",
+        "email": "",
+        "conf": "Hydroinformatics",
+        "coauthors": [
+            "Joseph Hun Wei Lee",
+            "T.M.K.G. Fernando",
+            "Ken T.M. Wong"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2703,
+        "label": 60,
+        "author": "joseph hun wei lee",
+        "title": "A real time early warning and modelling system for red tides in Hong Kong",
+        "organization": "Chair Professor The Hong Kong University of Science and Technology",
+        "abstract": "",
+        "email": "",
+        "conf": "International Symposium on Stochastic Hydraulics",
+        "coauthors": [
+            "J.H.W. Lee",
+            "Ken T.M. Wong",
+            "Y. Huang",
+            "A. W. Jayawardena"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2697,
+        "label": 60,
+        "author": "joseph hun wei lee",
+        "title": "Nutrient load estimation methods for rivers",
+        "organization": "Chair Professor The Hong Kong University of Science and Technology",
+        "abstract": "",
+        "email": "",
+        "conf": "International Journal of Sediment Research",
+        "coauthors": [
+            "H. E. Li",
+            "J.H.W. Lee",
+            "M. Cai"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2687,
+        "label": 60,
+        "author": "joseph hun wei lee",
+        "title": "Real time observations of coastal algal blooms by an early warning system",
+        "organization": "Chair Professor The Hong Kong University of Science and Technology",
+        "abstract": "In eutrophic sub-tropical coastal waters around Hong Kong, phytoplankton or unicellular microalgae can grow rapidly to very high concentrations under favourable environmental conditions. These harmful algal blooms (HABs) have led to massive fish kills, hypoxia, and beach closures. However, to date the causality and mechanism of coastal algal blooms are still poorly understood. A remotely controlled autonomous real time field monitoring system has been developed to continuously track the changes in chlorophyll fluorescence, dissolved oxygen and other hydro-meteorological variables at two representative mariculture zones. The system can give an alarm when a bloom is detected, so that timely manual water quality sampling can be carried out to supplement the telemetric data. During 2000–2003, the system has successfully tracked 19 algal blooms. In the shallow weakly flushed coastal water (depth 7–10 m, tidal current 5–19 cm s−1), the bloom is short-lived, typically lasting a few days to over a week, with chlorophyll and DO concentrations in the range of 20–40 mg m−3 and 2–15 g m−3, respectively. It is found that: (1) the chlorophyll concentration is strongly correlated with its past values in the previous week, suggesting an auto-regressive type of algal dynamics; (2) the dissolved oxygen can reach highly super-saturated levels (12 g m−3) during a diatom bloom, and decreases to below 4 g m−3 at the tail of the growth phase; (3) in contrast, a dinoflagellate bloom is characterized by a much more pronounced vertical structure. Diel vertical migration and aggregation to dense layers are clearly observed. Significant dissolved oxygen consumption is associated with the migration, resulting in DO drops by as much as 6 g m−3 during the bloom; (4) the predominance of diatoms and dinoflagellates at the two sites can be explained in terms of the different hydrographic and nutrient conditions (the N:P ratio). Net algal growth rate, sinking and swimming velocities are derived from the in situ bloom data. The 4-year high frequency data set provides a basis for development of models for forecast of harmful algal blooms.",
+        "email": "",
+        "conf": "Estuarine Coastal and Shelf Science",
+        "coauthors": [
+            "J.H.W. Lee",
+            "Ivor John Hodgkiss",
+            "Ken T.M. Wong",
+            "I.H.Y. Lam"
+        ],
+        "keywords": "red tide,harmful algal blooms,field observation,diatoms,dinoflagellates,species selection,dissolved oxygen,early warning system"
+    },
+    {
+        "id": 2667,
+        "label": 60,
+        "author": "joseph hun wei lee",
+        "title": "Impact of river training on the hydraulics of Shenzhen River",
+        "organization": "Chair Professor The Hong Kong University of Science and Technology",
+        "abstract": "Shenzhen River is a tidal river on the border between Hong Kong and Shenzhen. It flows southwest towards Deep Bay in the Pearl River Estuary in south China. In the past, Shenzhen River was narrow, meandering and only capable of conveying floods of return period 2–5 years. To alleviate the flooding hazard, Hong Kong and Shenzhen governments have carried out the Shenzhen River Regulation Project jointly since 1995. The river downstream has been trained to cater for flooding of 50-year return period. However, unexpectedly, the trained Shenzhen River has been seriously silted by 3 m of sediment 5 years after the completion of river training. This diminishes the effectiveness of river training on enhancing flood discharge capacity. We present a study on the impact of river training on Shenzhen River hydraulics by an integrated three-dimensional numerical hydrodynamic model. The model is verified against field data and shows good agreement with the observed hydrodynamics; wetting and drying of inner Deep Bay tidal flats are successfully simulated. The model simulations show that river training has drastically altered the hydraulics of Shenzhen River. Tidal propagation in the river has changed from a damped tidal oscillation to a more standing wave character with less amplitude damping. Tidal current is reduced by about 50%. Vertical salinity stratification and gravitational circulations are formed within the trained river in the dry season. The bottom upstream residual current in the two-layered residual circulation strongly suggests the input of sediment from Deep Bay and sediment trapping in the river.",
+        "email": "",
+        "conf": "Journal of Hydro-environment Research",
+        "coauthors": [
+            "Shu Ning Chan",
+            "Joseph Hun Wei Lee"
+        ],
+        "keywords": "River training,Estuarine circulation,Numerical hydrodynamic model"
+    },
+    {
+        "id": 2710,
+        "label": 60,
+        "author": "joseph hun wei lee",
+        "title": "Three-dimensional computational study of asymmetric flows using Navier-Stokes equations",
+        "organization": "Chair Professor The Hong Kong University of Science and Technology",
+        "abstract": "The unsteady, compressible, thin-layer Navier-Stokes equations are used to obtain three-dimensional, asymmetric, vortex-flow solutions around cones and cone-cylinder configurations. The equations are solved using an implicit, upwind, flux-difference splitting, finite-volume scheme. The computational applications cover asymmetric flows around a 5 semi-apex angle cone of unit length at various Reynolds number. Next, a cylindrical afterbody of various length is added to the conical forebody to study the effect of the length of cylindrical afterbody on the flow asymmetry. All the asymmetric flow solutions are obtained by using a short-duration side-slip disturbance.",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Y. K. Cheung",
+            "Joseph Hun Wei Lee",
+            "A.Y.T Leung",
+            "Tin-Chee Wong",
+            "Osama A. Kandil",
+            "C. H. Liu"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2668,
+        "label": 60,
+        "author": "joseph hun wei lee",
+        "title": "A post-operation audit of the Tai Hang Tung Storage Scheme",
+        "organization": "Chair Professor The Hong Kong University of Science and Technology",
+        "abstract": "TheTai HangTung Storage Scheme (THTSS) aims to solve the flooding problem in Mongkok – a highly densely populated commercial and industrial district of West Kowloon, Hong Kong. For a 50-year design storm, a maximum upstream inflow of Q = 110 m3/s must be conveyed within acceptable water levels. The heart of the flood detention scheme is a 100,000 m3 underground storage tank, a triple side weir system, and transitions to the upstream inlets and downstream channels. The THTSS design was developed from a combination of heuristic reasoning, physical and numerical model studies. The performance of the THTSS during the heavy rainstorm of June 2008 is reviewed. The complex hydraulics in the triple side-weir system is first studied via a 2D numerical solution of the shallow water equations using a shock-capturing finite volume method; the flow behavior and weir overflow distributions are compared with experiments. Measured flood levels in the surcharged system are studied using a 1D unsteady model for key storm events and different weir level settings. The audit offers insights into the hydraulic control and optimal operation of the system.",
+        "email": "",
+        "conf": "In Environmental Hydraulics",
+        "coauthors": [
+            "Joseph Hun Wei Lee",
+            "Ken T.M. Wong",
+            "K.W. Choi",
+            "Feleke Arega"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2678,
+        "label": 60,
+        "author": "joseph hun wei lee",
+        "title": "The Birth of JHER",
+        "organization": "Chair Professor The Hong Kong University of Science and Technology",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of Hydro-environment Research",
+        "coauthors": [
+            "Joseph Hun Wei Lee",
+            "Il Won Seo"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2669,
+        "label": 60,
+        "author": "joseph hun wei lee",
+        "title": "Dynamic interaction of buoyant plumes",
+        "organization": "Chair Professor The Hong Kong University of Science and Technology",
+        "abstract": "Dynamic interaction of multiple plumes is commonly observed in the natural and built environment. When multiple plumes are discharging close to each other, the plume induced flow and pressure field leads to a change in the trajectory and mixing characteristics of adjacent plumes in proximity. A general semi-analytical model for the dynamic interaction of multiple plumes in stagnant ambient is proposed. The flow field induced by plumes is computed by a distribution of point sinks with strength equal to the entrainment per unit",
+        "email": "",
+        "conf": " International Symposium on Enviornmental Hydraulics",
+        "coauthors": [
+            "Adrian C. H. Lai",
+            "J.H.W. Lee"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2685,
+        "label": 60,
+        "author": "joseph hun wei lee",
+        "title": "Modelling of sediment oxygen demand and organic flux for a pulsed sediment organic load",
+        "organization": "Chair Professor The Hong Kong University of Science and Technology",
+        "abstract": "Biodegradation of organic matter in the sediment affects both the level of dissolved oxygen (DO) in the overlaying water and material flux into the water body. In the present study, a mathematical model was developed to describe the DO dynamics and related organic transformation in the sediment after a pulsed load of rich organic, sediment. The model includes DO diffusion at the sediment–water interface and inside the sediment, diagenetic reactions of particulate organic to soluble organic, substances, biodegradation of soluble organic, and related DO consumption. The model can simulate sediment oxygen demand (SOD) in a dynamic system after a sudden organic load on the sediment and the flux of both biodegradable and non-biodegradable organic can be predicted. In addition, laboratory experiments were conducted using SOD chambers to investigate the SOD dynamics and sediment material fluxes. The sediment of the batch SOD tests was loaded with fish food at various rates for the sudden organic input. Numerical simulations for SOD and organic fluxes compared well with the experimental measurements. The results demonstrate that the model can be used to predict the effect of sediment pollutants on the water quality of surface waters.",
+        "email": "",
+        "conf": "Water Science & Technology",
+        "coauthors": [
+            "Y.X. Wang",
+            "X.Y. Li",
+            "Joseph Hun Wei Lee"
+        ],
+        "keywords": "Boundary layer, pollutant transport, sediment oxygen demand, sediment pollution, water quality modelling"
+    },
+    {
+        "id": 2698,
+        "label": 60,
+        "author": "joseph hun wei lee",
+        "title": "Mixing of a turbulent jet in crossflow - The advected line puff",
+        "organization": "Chair Professor The Hong Kong University of Science and Technology",
+        "abstract": "The mixing of turbulent jets and plumes in a current is illustrated by a detailed study of a jet in crossflow. The practical importance of dilution prediction in environmental applications and simple equations based on selfsimilarity and the line puff analogy are first discussed. A 3D numerical solution of an advected line puff-a turbulent non-buoyant jet introduced at no excess hori?. ontal momentum into a horizontal crossflow, is then presented. The numerical results of the standard two-equation ke model show that the advected line puff is",
+        "email": "",
+        "conf": "Environmental Fluid Mechanics: Theories and Applications. ASCE",
+        "coauthors": [
+            "Joseph Hun Wei Lee",
+            "G.Q. Chen",
+            "Cuiping Kuang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2694,
+        "label": 60,
+        "author": "joseph hun wei lee",
+        "title": "The Measurement of Sediment Oxygen Demand -Diffusional Mass Transfer and Chamber Hydraulics",
+        "organization": "Chair Professor The Hong Kong University of Science and Technology",
+        "abstract": "The sediment oxygen demand (SOD) is the rate of oxygen consumption exerted by the bottom sediment on the overlying water-due to both benthic respiration and the biochemical oxidation of reducing substances released from the sediment. The SOD is often a major component of the dissolved oxygen (DO) budget and hence a key parameter in water quality models, particularly in relatively shallow waters. In general, the benthic oxygen flux depends on the velocity and DO concentration of the overlying water, and the biochemical oxygen",
+        "email": "",
+        "conf": "International Symposium on River Sedimentation",
+        "coauthors": [
+            "Joseph Hun Wei Lee",
+            "Feleke Arega",
+            "Cuiping Kuang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2681,
+        "label": 60,
+        "author": "joseph hun wei lee",
+        "title": "Global Behaviors of a Round Buoyant Jet in a Counterflow",
+        "organization": "Chair Professor The Hong Kong University of Science and Technology",
+        "abstract": "Spreading of a buoyant jet into a counterflowing ambient flow stream is investigated in the laboratory with the laser-induced fluorescence (LIF) technique. The jet behaviors are found to depend on two flow parameters. The densimetric Froude number (F)(F) characterizes the ratio between the initial buoyant force on the jet effluent and the initial jet momentum. The jet-to-current velocity ratio (R)(R) compares the initial jet exit velocity to the speed of the counterflow. Experiments are carried out at Froude numbers F=3–11F=3–11 and velocity ratios RR between 2.5 and 18. Time-averaged patterns of the jet are revealed by the mean LIF concentration field of jet effluent. Global features of the jet including its trajectory, spreading, and dilution are analyzed from the mean LIF images. The buoyant jet penetrates forward  into the counterflow for some distance before it is turned backwards by the counterflow. Buoyancy in the effluent results in some vertical rise of the jet in this first region of forward flow, especially at a high velocity ratio. The flow then transits into the second region of backward flow. Buoyant jet effluent is advected backwards by the counterflow and at the same time continuing to rise in a plume-like manner. Radial profiles of mean effluent concentration at successive stations along the jet centerline are found to follow reasonably well the Gaussian distribution. The predictions of the Lagrangian model JETLAG are compared with the experimental data for this complex situation of buoyant jet in counterflow. The jet trajectory data are also interpreted using a length scale analysis.",
+        "email": "",
+        "conf": "Journal of Hydraulic Engineering",
+        "coauthors": [
+            "Kit Ming Lam",
+            "Wei Yin Lee",
+            "C. H. C. Chan",
+            "Joseph Hun Wei Lee"
+        ],
+        "keywords": "Behavior, Concentration, Countercurrent, Effluent, Laboratory test, Experimental study, Buoyancy, Hydraulics, Water jet, Forecast model, Plume, Technology, Image processing, Velocity"
+    },
+    {
+        "id": 2715,
+        "label": 60,
+        "author": "joseph hun wei lee",
+        "title": "Response in harbour due to incidence of second-order low-frequency waves",
+        "organization": "Chair Professor The Hong Kong University of Science and Technology",
+        "abstract": "Using the method of multiple scales and matched asymptotic expansions, the response in a harbour due to the incidence of the set-down wave of a group wave train with narrow spectrum is investigated. The envelope of the incident wave train is assumed to modulate slowly in the direction of wave propagation. The relationship between the envelopes of incident waves and transmitted or scattered waves is derived. It is shown that the second-order scattered wave generated by the set-down wave of the incident wave train propagates only at the longwave celerity √gh. This scattered wave in the harbour is discussed along with the response due to the set-down wave. The resonant response has been calculated for two types of geometries.",
+        "email": "",
+        "conf": "Wave Motion",
+        "coauthors": [
+            "C.P. Zhou",
+            "Y.K. Cheung",
+            "Joseph Hun Wei Lee"
+        ],
+        "keywords": "Wave effect, Low frequency, Dock basins, Wave scattering, Hydrodynamics, Mathematical model, Second order, Harbor Resonance"
+    },
+    {
+        "id": 2708,
+        "label": 60,
+        "author": "joseph hun wei lee",
+        "title": "Water Quality Model for Mariculture Management",
+        "organization": "Chair Professor The Hong Kong University of Science and Technology",
+        "abstract": "In marine fish farms located in subtropical eutrophic coastal waters, the dissolved oxygen (DO) level is often intimately related to algal growth dynamics. For effective mariculture management, a simple, tractable model that can elucidate the dependence of water quality on the important hydrographic, meteorological, and ecological parameters is required. A quasisteady water quality model is formulated herein to predict the long-term (seasonal) average concentrations of phytoplankton, organic nitrogen, dissolved inorganic nitrogen, and potential dissolved oxygen drop (PDOD) for fish farms located in weakly flushed tidal embayments. The fish culture zone is treated as a completely mixed nitrogen-limited system in which algal carbon is decomposed and nutrients regenerated continuously. The model assumes Monod-growth type relations for algal growth and nutrient uptake and incorporates algal settling and respiration, and tidal flushing. Using realistic estimates of light and temperature limiting factors and kinetic rate coefficients, model predictions of seasonally averaged water quality and qualitative features are well supported by field data.",
+        "email": "",
+        "conf": "Journal of Environmental Engineering",
+        "coauthors": [
+            "Joseph Hun Wei Lee",
+            "P. P. S. Wong"
+        ],
+        "keywords": "Aquaculture, Hong Kong, Marine environment, Models, Nutrient, Dissolved oxygen, Phytoplankton, Pisciculture, Water quality, South China Sea"
+    },
+    {
+        "id": 2706,
+        "label": 60,
+        "author": "joseph hun wei lee",
+        "title": "Asymptotic similarity of axisymmetric thermal",
+        "organization": "Chair Professor The Hong Kong University of Science and Technology",
+        "abstract": "Self-similarity relations governing axisymmetrical thermals are established via an asymptotic dimensional analysis and a computational fluid dynamics study based on the two-equation κ - ε model for turbulence closure.",
+        "email": "",
+        "conf": "Communications in Nonlinear Science and Numerical Simulation",
+        "coauthors": [
+            "Guoqian Chen",
+            "Joseph Hun Wei Lee"
+        ],
+        "keywords": "environmental fluid mechanics,thermal,turbulence modeling"
+    },
+    {
+        "id": 2662,
+        "label": 60,
+        "author": "joseph hun wei lee",
+        "title": "Daily prediction of marine beach water quality in Hong Kong",
+        "organization": "Chair Professor The Hong Kong University of Science and Technology",
+        "abstract": "Bacterial concentration (Escherichia coli) is generally adopted as a key indicator of beach water quality. Currently the beach management system in Hong Kong relies on past water quality data sampled at intervals between 3 and 14 days. Beach advisories are issued when the geometric mean E. coli level of the past five samples exceeds the beach water quality objective (WQO) of 180 counts/100 mL. When the E. coli level varies dynamically, the system is not able to track the daily bacterial variation. And yet worldwide there does not exist a generally accepted method to predict beach water quality in a marine environment, which is influenced by hydro-meteorological variables, catchment characteristics, as well as complicated tidal currents and wave effects. A comprehensive study of beach water quality prediction has been carried out for four representative beaches in Hong Kong: Big Wave Bay (BW), Deep Water Bay (DW), New Cafeteria (NC) and Silvermine Bay (SIL). Statistical analysis of the extensive regular monitoring data was carried out for two periods before and after the commissioning of the Harbour Area Treatment Scheme (HATS): (1990–1997) and (2002–2006) respectively. The data analysis shows that E. coli is strongly correlated with seven hydro-environmental variables: rainfall, solar radiation, wind speed, tide level, salinity, water temperature and past E. coli concentration. The relative importance of the parameters is beach-specific, and depends on the local geographical and hydrographical characteristics as well as location of nearby pollution sources. Multiple Linear Regression (MLR) and Artificial Neural Network (ANN) models are developed from the sparsely sampled regular monitoring data (2002–2006) to predict the next-day E. coli concentration using the key hydro-environmental variables as input parameters. The models are validated against daily monitoring data in the bathing seasons of 2007 and 2008. The models are able to track the dynamic changes in E. coli concentration and predict WQO compliance/exceedance with an overall accuracy of 70–96%. Both the MLR and ANN models are superior to the current beach advisories in capturing water quality variations, and in predicting WQO exceedances. For example, the models predict around 80% and 50% of the exceedances at BW and NC respectively in June–July 2007, as compared to 0% and 14% based purely on past data. Similarly, observed exceedances are predicted with success rates of 71%, 42%, and 53% at BW, NC, and SIL respectively during July–October 2008, as compared with 0%, 0%, and 6% using the current water quality assessment criterion. The MLR and ANN models have similar performances; ANN model tends to be better in predicting the high-end concentrations, with however a greater number of false positive predictions (false alarms). This work demonstrates the practical feasibility of predicting bacterial concentration based on the critical hydro-environmental variables, and paves the way for developing a real time water quality forecast and management system for Hong Kong.",
+        "email": "hreclhw@hku.hk;jhwlee@ust.hk",
+        "conf": "Journal of Hydro-environment Research",
+        "coauthors": [
+            "Wai Thoe",
+            "S.H.C. Wong",
+            "K. W. Choi",
+            "J.H.W. Lee"
+        ],
+        "keywords": "Marine beach water quality,Daily prediction,Statistical model,Data-driven model"
+    },
+    {
+        "id": 2695,
+        "label": 60,
+        "author": "joseph hun wei lee",
+        "title": "Wave attenuation over mud bed: A pseudo-plastic model",
+        "organization": "Chair Professor The Hong Kong University of Science and Technology",
+        "abstract": "A two~ layermodel, with theupperlayerbeing the perfectfluid and the lower layer being the pseudo—plastic fluid describingwaterwaveattenuation overm udbed. wases tablished. A sim plified m ethod based on the principle ofe—quivalentwork wasapplied to solvethe boundary value prob—lem s. The com putationalresults ofthe m odelshow that the two—'layer perfect fluid model and the perfect—viscous fluid m odelareallspecialeasesofthepresentmode1. Thecom plex nonlinearpropertiesofwaveattenuation overm ud bed, can be explained by the",
+        "email": "",
+        "conf": "Journal of Hydrodynamics",
+        "coauthors": [
+            "Qing He Zhang",
+            "Onyx W.H. Wai",
+            "Joseph Hun Wei Lee"
+        ],
+        "keywords": "wave attenuation;mud bed;pseudu plastic model;equivalent work"
+    },
+    {
+        "id": 2661,
+        "label": 60,
+        "author": "joseph hun wei lee",
+        "title": "Real-time forecasting of Hong Kong beach water quality by 3D deterministic model",
+        "organization": "Chair Professor The Hong Kong University of Science and Technology",
+        "abstract": "Bacterial level (e.g. Escherichia coli) is generally adopted as the key indicator of beach water quality due to its high correlation with swimming associated illnesses. A 3D deterministic hydrodynamic model is developed to provide daily water quality forecasting for eight marine beaches in Tsuen Wan, which are only about 8 km from the Harbour Area Treatment Scheme (HATS) outfall discharging 1.4 million m3/d of partially-treated sewage. The fate and transport of the HATS effluent and its impact on the E. coli level at nearby beaches are studied. The model features the seamless coupling of near field jet mixing and the far field transport and dispersion of wastewater discharge from submarine outfalls, and a spatial–temporal dependent E. coli decay rate formulation specifically developed for sub-tropical Hong Kong waters. The model prediction of beach water quality has been extensively validated against field data both before and after disinfection of the HATS effluent. Compared with daily beach E. coli data during August–November 2011, the model achieves an overall accuracy of 81–91% in forecasting compliance/exceedance of beach water quality standard. The 3D deterministic model has been most valuable in the interpretation of the complex variation of beach water quality which depends on tidal level, solar radiation and other hydro-meteorological factors. The model can also be used in optimization of disinfection dosage and in emergency response situations.",
+        "email": "hreclhw@hkucc.hku.hk",
+        "conf": "Water Research",
+        "coauthors": [
+            "Shu Ning Chan",
+            "Wai Thoe",
+            "J.H.W. Lee"
+        ],
+        "keywords": "Marine beach water quality,Hydrodynamic model,Submarine sewage outfall,Daily forecast"
+    },
+    {
+        "id": 2699,
+        "label": 60,
+        "author": "joseph hun wei lee",
+        "title": "Advected turbulent line thermal driven by concentration difference",
+        "organization": "Chair Professor The Hong Kong University of Science and Technology",
+        "abstract": "The spatial evolution of an advected line thermal driven by concentration difference––a turbulent buoyant body of fluid, for which small density difference is caused by a proportional variation in scalar concentration, horizontally introduced at no excess momentum into a horizontal ambient current, is studied using the standard two-equation k–ε model with a buoyancy expansion. The numerical results show that the advected line thermal is characterized longitudinally by a flat trajectory with scalar dilution taking place essentially near the jet exit, and transversely by a vortex-pair flow and a kidney-shaped concentration structure with double peak maxima corresponding to stronger buoyancy effect; the computed flow details and scalar mixing characteristics can be described by self-similar relations beyond a dimensionless distance of around 10; the aspect ratio for the kidney-shaped sectional thermal is found to be around 1.2–1.4; the predicted flow feature and mixing rate are well supported by asymptotic dimensional analysis and related experimental data. The analogy between a steady advected line thermal and corresponding time-dependent line thermal is also found reasonable by a special exploration into the horizontal velocity distribution and the significance of horizontal diffusion effect of the advected line thermal. Only about half of the vertical momentum resulting from the buoyancy effect is found contained in the advected line thermal, corresponding to an added virtual mass coefficient of approximately 1 for the sectional thermal.",
+        "email": "",
+        "conf": "Communications in Nonlinear Science and Numerical Simulation",
+        "coauthors": [
+            "G.Q Chen",
+            "Joseph Hun Wei Lee"
+        ],
+        "keywords": "Thermal and plume,Environmental fluid mechanics"
+    },
+    {
+        "id": 2671,
+        "label": 60,
+        "author": "joseph hun wei lee",
+        "title": "How to write a good paper for a top international journal",
+        "organization": "Chair Professor The Hong Kong University of Science and Technology",
+        "abstract": "Now, given the soundness of the Chinese economy, the steady increase in the government's funding for basic and applied research, and the general appreciation of the importance of scientific development, the time has come for China to make its presence felt on the international research stage.",
+        "email": "",
+        "conf": "Journal of Hydro-environment Research",
+        "coauthors": [
+            "Joseph Hun Wei Lee",
+            "Il Won Seo"
+        ],
+        "keywords": ""
+    }
+]

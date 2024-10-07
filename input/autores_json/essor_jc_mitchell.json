@@ -1,0 +1,2098 @@
+[
+    {
+        "id": 3652,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Analysing Raman images of pharmaceutical products by sample-sample 2D correlation spectroscopy",
+        "organization": "University of Greenwich",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of Pharmacy and Pharmacology",
+        "coauthors": [
+            "Slobodan Sasic",
+            "Donald A Clark",
+            "John C Mitchell",
+            "Martin John Snowden"
+        ],
+        "keywords": "Raman images, pharmaceutical products, 2D correlation spectroscopy"
+    },
+    {
+        "id": 3642,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Rapid accurate and precise quantitative drug analysis: Comparing liquid chromatography tandem mass spectrometry and chip-based nanoelectrospray ionisation mass spectrometry",
+        "organization": "University of Greenwich",
+        "abstract": "We have developed a liquid chromatography tandem mass spectrometry (LC-MS/MS) system capable of achieving better than 2% accuracy, routinely over a wide concentration range of 1–800 ng mL−1. We demonstrate that the necessary high precision, high accuracy and rapid analysis can be achieved using LC-MS/MS technology. Automated nanoelectrospray ionisation tandem mass spectrometry (nanoESI-MS/MS) technology can be employed to eliminate the chromatographic step completely. In this paper, nanoESI-MS/MS is evaluated and compared directly with LC-MS/MS for the quantitative analysis of two-test analytes, amitriptyline (ATT) and 5-methoxytryptamine (5-MTT), in aqueous/organic mixture. Calibration curves were found to be linear over a wide concentration range of 1–800 ng mL−1 for both analytes using LC-MS/MS. Using nanoESI-MS/MS ATT gave a linear response while 5-MTT gave a non-linear response using nanoESI-MS/MS over the same concentration range as in LC-MS/MS. Accuracy and precision values of quality control samples (QCs) at four concentration levels were analysed in replicates of six at each level using 5-MTT and ATT as test analytes for both techniques. The LC-MS/MS system was capable of achieving accuracy levels of 99.50–101.96% for ATT and 100.17–100.40% for 5-MTT. Accuracy levels using nanoESI-MS/MS were not comparable to LC-MS/MS, they ranged from 90.09–100.18% for ATT and 95.95–113.55% for 5-MTT. The precision values obtained for nanoESI-MS/MS were in good agreement with those obtained by LC-MS/MS.",
+        "email": "",
+        "conf": "European Journal of Mass Spectrometry",
+        "coauthors": [
+            "Louisa Alfazema",
+            "Don Richards",
+            "Sylvie Glbart",
+            "John C Mitchell",
+            "Martin John Snowden"
+        ],
+        "keywords": "accuracy, precision, 5-methoxytryptamine, amitriptyline, quantitative MS/MS, chip-based nanoelectrospray"
+    },
+    {
+        "id": 3675,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Sistemas transportadores de drogas",
+        "organization": "University of Greenwich",
+        "abstract": "Drug delivery system controls the distribution of drugs for optimal therapeutic efficacy. The complex of higly active drugs with macromolecular carriers seems to offer a promising way to optimize their delivery. Dendrimers can be used as drug delivery system and this paper addresses the effectivenes of the approach. The host-guest system improves the solubility of hydrazides and mesoionic 1,3,4-thiadiazolium-2-aminide compounds.",
+        "email": "",
+        "conf": "Qumica Nova",
+        "coauthors": [
+            "Montanari Maria Luiza C",
+            "Montanari Carlos Alberto",
+            "Dorila Pil-Veloso",
+            "A E Beezer",
+            "John C Mitchell"
+        ],
+        "keywords": "dendrimers; drug delivery; solubility"
+    },
+    {
+        "id": 3683,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Diode-array UV Spectrometric Evidence for a Concentration Dependent Phase Transition in Dilute Aqueous Solutions of Pluronic F87 (Poloxamer 237)",
+        "organization": "University of Greenwich",
+        "abstract": "Incubation of dilute polymer solutions with a KI–I2 standard shows the presence of a concentration dependent phase transition for the poly(oxyethylene)+ poly(oxypropylene)+ poly(oxyethylene) block copolymer F87 (P237) using diode-array UV spectrometry; the transition is shown to be reversible and reproducible and is in agreement with previous data obtained via high-sensitivity differential scanning microcalorimetry (HSDSC).",
+        "email": "",
+        "conf": "Chemical Communications",
+        "coauthors": [
+            "Simon Gaisford",
+            "Anthony E. Beezer",
+            "John C. Mitchell",
+            "Watson Loh",
+            "Jill K. Finnie",
+            "Stuart J. Williams"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3662,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "The stability of benzoyl peroxide by isothermal microcalorimetry",
+        "organization": "University of Greenwich",
+        "abstract": "Isothermal microcalorimetry may be used to determine kinetic and thermodynamic parameters for chemical reactions. This paper reports rate constants, determined as a function of temperature, and the activation enthalpy for the degradation of solid benzoyl peroxide as determined by isothermal microcalorimetry. Studies were conducted on aqueous suspension phase, solid benzoyl peroxide. In addition, supporting evidence is cited from work carried out in this laboratory on the solution phase degradation of benzoyl peroxide using UV-visible spectrophotometry. The activation energy obtained by microcalorimetry was Ea=137.8±6.6 kJ mol−1 and the activation energy obtained from UV-visible spectrophotometry was Ea=112.7±4.2 kJ mol−1.",
+        "email": "",
+        "conf": "International Journal of Pharmaceutics",
+        "coauthors": [
+            "F Zaman",
+            "A E Beezer",
+            "John C Mitchell",
+            "Q Clarkson",
+            "J Elliot",
+            "A F Davis",
+            "Richard J Willson"
+        ],
+        "keywords": "Calorimetry,Stability,Benzoyl peroxide"
+    },
+    {
+        "id": 3628,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Applications of DNP-NMR for the measurement of heteronuclear T1 relaxation times",
+        "organization": "University of Greenwich",
+        "abstract": "Measurement of heteronuclear spin–lattice relaxation times is hampered by both low natural abundance and low detection sensitivity. Combined with typically long relaxation times, this results in extended acquisition times which often renders the experiment impractical. Recently a variant of dynamic nuclear polarisation has been demonstrated in which enhanced nuclear spin polarisation, generated in the cryo-solid state, is transferred to the liquid state for detection. Combining this approach with small flip angle pulse trains, similar to the FLASH-T1 imaging sequence, allows the rapid determination of spin–lattice relaxation times. In this paper we explore this method and its application to the measurement of T1 for both carbon-13 and nitrogen-15 at natural abundance. The effects of RF inhomogeneity and the influence of proton decoupling in the context of this experiment are also investigated.",
+        "email": "",
+        "conf": "Journal of Magnetic Resonance",
+        "coauthors": [
+            "Iain Day",
+            "John C Mitchell",
+            "Martin John Snowden",
+            "Adrian Davis"
+        ],
+        "keywords": "Dynamic nuclear polarisation,Spin–lattice relaxation,Heteronuclear"
+    },
+    {
+        "id": 3698,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "3H-134-Benzotriazepines from (N-arylbenzimidoyl)-5-dimethylaminotetrazoles: 17-vs. 15-cyclisation of extended dipolar nitrile imines",
+        "organization": "University of Greenwich",
+        "abstract": "Thermolysis of both 1- and 2-N-arylbenzimidoyl-5-dimethylaminotetrazoles [(7) or (8)] generates nitrile imines (9), which cyclise to yield either 1,2,4-triazoles (10) or 3H-1,3,4-benzotriazepines (12), depending on the nature of the N-aryl group and on conditions.",
+        "email": "",
+        "conf": "Journal of the Chemical Society Chemical Communications",
+        "coauthors": [
+            "Gerhard V. Boyd",
+            "John Cobb",
+            "Peter F Lindley",
+            "John C Mitchell",
+            "George A. Nicolaou"
+        ],
+        "keywords": "Aromatic compound, Bicyclic compound, Five membered ring, Cyclization, Substituent effect, Nitrogen heterocycle, Nitrilimine, Reaction orientation, Thermal reaction"
+    },
+    {
+        "id": 3604,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Monitoring real time polymorphic transformation of sulfanilamide by diffuse reflectance visible spectroscopy",
+        "organization": "University of Greenwich",
+        "abstract": "This study investigated the development of a novel approach to surface characterization of drug polymorphism and the extension of the capabilities of this method to perform ‘real time’ in situ measurements. This was achieved using diffuse reflectance visible (DRV) spectroscopy and dye deposition, using the pH sensitive dye, thymol blue (TB). Two polymorphs, SFN-β and SFN-γ, of the drug substance sulfanilamide (SFN) were examined. The interaction of adsorbed dye with polymorphs showed different behavior, and thus reported different DRV spectra. Consideration of the acid/base properties of the morphological forms of the drug molecule provided a rationalization of the mechanism of differential coloration by indicator dyes. The kinetics of the polymorphic transformation of SFN polymorphs was monitored using treatment with TB dye and DRV spectroscopy. The thermally-induced transformation fitted a first-order solid-state kinetic model (R2=0.992), giving a rate constant of 2.43×10−2 s−1.",
+        "email": "J.Mitchell@Greenwich.ac.uk",
+        "conf": "Journal of Pharmaceutical Analysis",
+        "coauthors": [
+            "Tracy Ehiwe",
+            "Bruce Alexander",
+            "John C Mitchell",
+            "Martin J Sowden",
+            "Laura J. Waters"
+        ],
+        "keywords": "Polymorphic transformation,Sulfanilamide,Diffuse reflectance visible spectroscopy,Powder X-ray diffraction,Differential scanning calorimetry"
+    },
+    {
+        "id": 3686,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Determination of Thermodynamic and Kinetic Parameters from Isothermal Heat Conduction Microcalorimetry: Applications to Long-Term-Reaction Studies",
+        "organization": "University of Greenwich",
+        "abstract": "The application of heat conduction isothermal microcalorimetry has been proposed for some time as a rapid and general technique for the determination of both thermodynamic and kinetic parameters of chemical reactions. These applications have been suggested as being of particular relevance to solid-state reactions and, industrially important, to the prediction of long-term stability and of compatibility data for pharmaceutical materials. However, there has yet to be the development of a general procedure that does not require additional noncalorimetric data and that is free of assumptions, which can be used to determine the thermodynamic and kinetic parameters for a reaction, from calorimetric data. It is the purpose of this paper to describe such a general approach which does not depend upon knowledge of initial concentrations (quantity), enthalpy, or any predetermined reaction order. Equations have been developed which incorporate calorimetrically accessible data (Phi, the power, and q, the heat output) and which also include the rate constant, k, the change in enthalpy of the reaction, Delta H, and the order of reaction. A second procedure is also described which depends only on the analysis of the calorimetric signal and which involves no formal chemical kinetic based equations. The methods described allow estimation of, for example, the annual extent of degradation of a solid compound. The methods developed have been tested through examination of both calculated and experimental data. The experimental work examined very slow reactions (lifetime of years) of known order (there are little reliable enthalpy data available for slow reactions) and involved calorimetric observation of these reactions for up to 50 h. In all cases, the method yielded the appropriate, i.e., conforms to literature data, rate constant, reaction order, and, where available, reaction enthalpy. Some situations in which this microcalorimetric approach and subsequent data analysis will be of utility are discussed.",
+        "email": "",
+        "conf": "The Journal of Physical Chemistry",
+        "coauthors": [
+            "Richard J Willson",
+            "Anthony E. Beezer",
+            "John C Mitchell",
+            "Watson Loh"
+        ],
+        "keywords": "CALORIMETRY;STABILITY"
+    },
+    {
+        "id": 3682,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "A kinetic study of the oxidation of L-ascorbic acid (vitamin C) in solution using an isothermal microcalorimeter",
+        "organization": "University of Greenwich",
+        "abstract": "This paper reports the results of a microcalorimetric study of the oxidation of L-ascorbic acid in solution. The study of the oxidation reaction was carried out under varying conditions of pH, oxygen concentration, ascorbic acid concentration, temperature, addition of ethylenediaminetetraacetic acid (EDTA) and addition of a radical scavenger. From these results it is proposed that ascorbic acid is oxidised in solution by molecular oxygen via an ascorbic acid radical, formed from the interaction of ascorbic acid and free metal in solution. The oxidation product, dehydroascorbic acid, then goes on to form other products by hydrolysis. The change in enthalpy associated with the oxidation reaction was determined as − 130.9 kJ mol−1 and the reaction has a first order rate constant, with respect to the oxygen concentration, of 1.8 × 10−4 s−1. The rate of oxidation was found to increase with pH, oxygen concentration of metal in solution.",
+        "email": "",
+        "conf": "Thermochimica Acta",
+        "coauthors": [
+            "R.J. Wilson",
+            "A.E. Beezer",
+            "John C Mitchell"
+        ],
+        "keywords": "Ascorbic acid,Isothermal microcalorimetry,Kinetic parameters,Mechanism of reaction,Thermodynamic parameters"
+    },
+    {
+        "id": 3603,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Investigation of the thermal and storage stability of bovine haemoglobin by ultra violet-visible and circular dichroism spectroscopies",
+        "organization": "University of Greenwich",
+        "abstract": "The effects of temperature, pH and long-term storage on the secondary structure and conformation changes of bovine haemoglobin (bHb) were studied using circular dichroism (CD) and ultraviolet-visible (UV-vis) spectroscopies. Neural network software was used to deconvolute the CD data to obtain the fractional content of the five secondary structures. The storage stability of bHb solutions in pH 6, 7 and 8 buffers was significantly higher at 4 oC in comparison to 23 oC for the first 3 days. A complete denaturation of bHb was observed after 40 days irrespective of storage temperature or pH. The bHb solutions were also exposed to heating and cooling cycles between 25 and 65 oC and structural changes were followed by UV-vis and CD spectroscopies. These experiments demonstrated that -helix content of bHb decreases steadily with increasing temperature above 35 oC at all pH values. The loss in - helicity and gain in random coil conformations was pH-dependent and greatest under alkaline conditions. Furthermore, there was minimal recovery of the secondary structure content upon cooling to 25 oC. The use of bHb as a model drug is very common and this study illustrates the significance of storage and processing conditions on its stability",
+        "email": "",
+        "conf": "Journal of Pharmaceutical Analysis",
+        "coauthors": [
+            "Ruchir Bhomia",
+            "Vivek Trivedi",
+            "Nichola J. Coleman",
+            "John C Mitchell"
+        ],
+        "keywords": "Bovine haemoglobin; Circular dichroism; Thermal stability; Storage stability"
+    },
+    {
+        "id": 3616,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Effect of membrane dialysis on characteristics of lyophilised chitosan wafers for potential buccal delivery of proteins",
+        "organization": "University of Greenwich",
+        "abstract": "The effect of membrane dialysis on the characteristics of chitosan based lyophilised wafers was investigated. Gels loaded with BSA, glycerol and d-mannitol were lyophilised with or without membrane dialysis and characterised by X-ray diffraction, attenuated total reflectance Fourier transform infra red spectroscopy, circular dichroism, scanning electron microscopy, hydration capacity, in vitro mucoadhesivity and drug dissolution. The dialysed wafers demonstrated enhanced mucoadhesion and drug release properties while newly formed sodium acetate in the undialysed wafers caused increased crystallinity with poor mucoadhesion and drug release properties. Removal of sodium acetate by membrane dialysis is essential for obtaining optimised wafers for potential application to the buccal mucosa surface.",
+        "email": "",
+        "conf": "International journal of biological macromolecules",
+        "coauthors": [
+            "Isaac Ayensu",
+            "John C Mitchell",
+            "Joshua Boateng"
+        ],
+        "keywords": "Buccal delivery,Chitosan,Lyophilised wafers,Membrane dialysis,Mucoadhesion,Protein delivery"
+    },
+    {
+        "id": 3673,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Organized Media as Redox Catalysts",
+        "organization": "University of Greenwich",
+        "abstract": "Micellar catalysis for a methylene blue (MB)−ascorbate ion (AA-) redox reaction (activation energy 114 kJ mol-1) has been observed to occur because of the binding of the substrates onto the micellar surface by hydrophobic and electrostatic interaction. This increases the encounter probability, leading to a substantially accelerated reaction. The reported study indicates that the most likely substrate solubilization sites in micelles and reverse micelles are the interfacial and Stern regions. Studies on the effect of various salting-in and salting-out agents, an increase in the hydrophobicity of the dye, and the size of the reverse micellar water pool provide no evidence of deeper penetration into the micellar core. In addition, a fascile reversible electron-transfer reaction for the MB−AA- and MB−BH4- systems has been observed with coinage metal sol particles. Metal sol-induced catalysis occurs due to the availability of a suitable substrate which acts as a mediator for the electron-transfer reaction between MB and the reductant.",
+        "email": "",
+        "conf": "Langmuir",
+        "coauthors": [
+            "Tarasankar Pal",
+            "Swati De",
+            "Nikhil R Jana",
+            "Narayan Pradhan",
+            "Rampada Mandal",
+            "Anjali Pal",
+            "A E Beezer",
+            "John C Mitchell"
+        ],
+        "keywords": "Transfer reactions,Redox reactions,Hydrophobicity,Catalysis,Micelles"
+    },
+    {
+        "id": 3617,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Perichromism: A Novel Rapid Spectroscopic Technique to Distinguish Between Amorphous and Crystalline Material",
+        "organization": "University of Greenwich",
+        "abstract": "There are currently no techniques that allow facile on-line determination between amorphous and crystalline material. Herein, a new colorimetric method, perichromism, has been developed to distinguish between amorphous and crystalline material, based on diffuse reflection ultraviolet–visible (UV-visible) spectroscopy. A probe molecule, phenol red, at 0.1% w/w concentration was added to sucrose and dissolved in water. The solution was freeze-dried, which resulted in an amorphous excipient with the probe molecule incorporated in an intimate mixture. The samples were then stored at a selected controlled temperature and relative humidity to allow control of crystallization of the sucrose. The amorphous or crystalline nature of each sample, both with and without the addition of the phenol red probe molecule, was monitored through X-ray diffraction, differential scanning calorimetry, and Raman spectroscopy. It was found that sucrose remained amorphous when stored in an atmosphere with a relative humidity below 32%; above this level, crystallization occurred. It was found that the presence of the probe molecule did not alter the extent of crystallinity of sucrose. Analysis of the samples containing the phenol red probe by diffuse reflection spectroscopy revealed that spectra could be classified into two groups depending on the λmax. Furthermore, correlation of the diffuse reflection spectra with X-ray diffraction and differential scanning calorimetry data showed that sucrose was amorphous in one group and crystalline in the other group, thereby revealing that diffuse reflection spectroscopy can, when phenol red is used as a probe molecule, quickly and easily determine whether sucrose is crystalline or amorphous.",
+        "email": "",
+        "conf": "Applied Spectroscopy",
+        "coauthors": [
+            "Patrick J. Major",
+            "Stephen Wicks",
+            "Bruce Alexander",
+            "John C Mitchell"
+        ],
+        "keywords": "Amorphous; Crystalline; DRUV spectroscopy; Ultraviolet-visible spectroscopy; Perichromism; Diffuse reflection spectroscopy;DRS"
+    },
+    {
+        "id": 3634,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Raman line mapping as a fast method for analyzing pharmaceutical bead formulations",
+        "organization": "University of Greenwich",
+        "abstract": "This paper describes the use of principal component analysis (PCA) to de-noise Raman spectra and considerably shorten data acquisition time in Raman mapping experiments. A solid dosage pharmaceutical material (bead) is mapped by a Raman line-mapping system. The mapping acquisition time was varied from 30 s (usually employed in practice) to only 3 s. Apparently excessive noise in the maps measured for 3 s is removed by PCA and the maps of all three components of the bead are then binarized and compared. It is found that spatial difference is negligible despite the remarkably different acquisition times employed. The spectra acquired for 3 s and reconstructed via PCA are found to largely overlap with the spectra acquired for 30 s. The signal to noise ratio of the Raman mapping spectra does not obey the expected √t dependence, thereby preventing straightforward estimation of the shortest usable acquisition time (which is to a lesser extent also a function of the binarization threshold). The results reveal that Raman microscopy can be considered a fast method for mapping some materials, in contrast to the established opinion that it is an inherently slow technique.",
+        "email": "",
+        "conf": "The Analyst",
+        "coauthors": [
+            "Slobodan Sasic",
+            "Donald A Clark",
+            "John C Mitchell",
+            "Martin John Snowden"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3607,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Functional Characterisation and Permeation Studies of Lyophilised Thiolated Chitosan Xerogels for Buccal Delivery of Insulin",
+        "organization": "University of Greenwich",
+        "abstract": "Stable and mucoadhesive, lyophilised, thiolated chitosan xerogels, loaded with insulin for buccal mucosa deliv- ery, in place of the currently used parenteral route have been developed. The xerogels were backed with impervious ethyl- cellulose laminate to ensure unidirectional release and also loaded with enzyme inhibitor to enhance insulin permeability across the buccal mucosa. Characterisation of xerogels using 1 HNMR confirmed the degree of deacetylation of the syn- thesised thiolated chitosan. The amount of thiol groups immobilised on the modified chitosan was quantified by Ellman’s reaction and molecular weight monitored by gel permeation chromatography. The stability of the secondary structure of insulin was examined by attenuated total reflectance Fourier transform infra-red spectroscopy and circular dichroism. In vitro and ex vivo permeation studies were undertaken by using EpiOral ™ and sheep buccal membrane respectively. Insu- lin released from thiolated chitosan xerogels, loaded with aprotinin (enzyme inhibitor and permeation enhancer) showed a 1.7-fold increase in permeation through EpiOral ™ buccal tissue construct compared to the pure drug. However, permea- tion was decreased for xerogels containing the enzyme inhibitor glutathione. Further, aprotinin containing xerogels en- hanced insulin permeation through sheep buccal membrane and demonstrated good linear correlation with the permeation data from the EpiOral ™ study. The results show the potential application of lyoph ilised thiolated chitosan xerogels con- taining aprotinin with improved mucoadhesion, penetration enhancing and enzyme inhibition characteristics for buccal mucosa delivery of macromolecules such as insulin.",
+        "email": "",
+        "conf": "Protein and Peptide Letters",
+        "coauthors": [
+            "Joshua S Boateng",
+            "John C Mitchell",
+            "Harshavardhan Pawar",
+            "Isaac Ayensu"
+        ],
+        "keywords": "Buccal mucosa; chitosan; enzyme inhibitor; insulin; permeation enhancement; xerogel"
+    },
+    {
+        "id": 3609,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Construction and physiochemical characterisation of a multi-composite potential oral vaccine delivery system (VDS)",
+        "organization": "University of Greenwich",
+        "abstract": "An increasing human population requires a secure food supply and a cost effective, oral vaccine delivery system for livestock would help facilitate this end. Recombinant antigen adsorbed onto silica beads and coated with myristic acid, was released (∼15% (w/v)) over 24 h at pH 8.8. At pH 2, the myristic acid acted as an enteric coating, protecting the antigen from a variety of proteases. The antigen adsorbed onto silica particles, coated in myristic acid had a conserved secondary structure (measured by circular dichroism (CD) spectroscopy) following its pH-triggered release. Small angle neutron scattering (SANS) was used to measure the thickness of the adsorbed antigen, finding that its adsorbed conformation was slightly greater than its solution radius of gyration, i.e. 120–160 Å. The addition of myristic acid led to a further increase in particle size, with scattering data consistent with an acid thickness slightly greater than a monolayer of fully extended alkyl chains and a degree of hydration of around 50%. Whilst adsorbed onto the silica and coated in myristic acid, the protein was stable over 14 days at 42 °C, indicating a reduced need for cold chain storage. These data indicate that further investigation is warranted into the development of this technology.",
+        "email": "",
+        "conf": "International Journal of Pharmaceutics",
+        "coauthors": [
+            "Marie Pettit",
+            "Paul D. R. Dyer",
+            "John C Mitchell",
+            "Peter C Griffiths",
+            "Bruce Alexander",
+            "Beatrice Cattoz",
+            "Richard K Heenan",
+            "Stephen M King",
+            "Ralf Schweins",
+            "Frank Pullen",
+            "Stephen R Wicks",
+            "Simon C W Richardson"
+        ],
+        "keywords": "Vaccine,Enteric,Immobilisation,Silica,Synthetic protein"
+    },
+    {
+        "id": 3696,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "A mild convenient halogen-exchange route to gem-difluorides and trifluorides",
+        "organization": "University of Greenwich",
+        "abstract": "Reaction of gem -dihalides R1R2CX2 (X= Cl or I) and of PhCCl3 with AgBF4 at room or sub-ambient temperatures affords the corresponding gem-difluorides and trifluoride in unoptimised yields of 35–84%.",
+        "email": "",
+        "conf": "Tetrahedron Letters",
+        "coauthors": [
+            "A.J. Bloodworth",
+            "Kevin J. Bowyer",
+            "John C Mitchell"
+        ],
+        "keywords": "Silver I Tetrafluoborates, Aliphatic compound, Benzenic compound, Geminal compound, Monocyclic compound, Saturated compound, Fluorine Organic compounds, Halocarbon Dichloromethane, Exchange reaction"
+    },
+    {
+        "id": 3699,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Derivatization of the Fusarium mycotoxin moniliformin for gas chromatography-mass spectrometry analysis",
+        "organization": "University of Greenwich",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of Chromatography A",
+        "coauthors": [
+            "John Gilbert",
+            "Martin David Rose",
+            "I. Parker",
+            "M J Shepherd",
+            "John C Mitchell",
+            "M. J. Perkins"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3640,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "The development of smart fabrics",
+        "organization": "University of Greenwich",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of Pharmacy and Pharmacology",
+        "coauthors": [
+            "Natasa Majcen",
+            "Martin John Snowden",
+            "John C Mitchell",
+            "J Victoria Cornelius",
+            "Bojana Voncina"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3646,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Identification of a better catalyst in amide preparation and a demonstration of a new optimisation tool",
+        "organization": "University of Greenwich",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of Pharmacy and Pharmacology",
+        "coauthors": [
+            "Y. Kang",
+            "R. Bright",
+            "D. J. Dale",
+            "P. J. Dunn",
+            "F. Hussain",
+            "C. Mason",
+            "John C Mitchell",
+            "Martin John Snowden"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3701,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Alkylated perepoxides: peroxonium versus phenonium intermediates from .beta.-haloalkyl tert-butyl peroxides and silver trifluoroacetate",
+        "organization": "University of Greenwich",
+        "abstract": "",
+        "email": "",
+        "conf": "The Journal of Organic Chemistry",
+        "coauthors": [
+            "A. J. Bloodworth",
+            "Kevin J. Bowyer",
+            "John C Mitchell"
+        ],
+        "keywords": "Carboxylic acid, Alkylation, Three membered ring, Substitute effect, Fluorite Organic compounds, Oxygen heterocycle, Reaction intermediate, Iodine Organic compounds, Dichloromethane, Oxonium compounds, Organic peroxide, Intramolecular reaction, Spiran"
+    },
+    {
+        "id": 3596,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Prediction of human intestinal absorption using micellar liquid chromatography with an aminopropyl stationary phase",
+        "organization": "University of Greenwich",
+        "abstract": "The extent of human intestinal absorption (HIA) for a drug is considered to be an important pharmacokinetic parameter which must be determined for orally administered drugs. Traditional experimental methods relied upon animal testing and are renowned for being time consuming and expensive as well as being ethically unfavourable. As a result, the development of alternative methods to evaluate a drug's pharmacokinetics is crucial. Micellar liquid chromatography is considered to be one of these methods that can replace the use of animals in the prediction of HIA. In this study, the combination of an aminopropyl column with the biosurfactant sodium deoxycholate bile salt was used in the experimental determination of micelle–water partition coefficients (log Pmw) for a group of compounds. Multiple linear regression was then used for the prediction of HIA using the experimentally determined log Pmw along with other molecular descriptors, leading to the construction of a model equation of R2 = 85% and a prediction power represented by R2Pred. = 72%. The use of micellar liquid chromatography with an aminopropyl column in combination with sodium deoxycholate was found to be a good method for the prediction of human intestinal absorption, providing data for a far wider range of compounds compared with previous studies.",
+        "email": "",
+        "conf": "Biomedical Chromatography",
+        "coauthors": [
+            "Dina Shokry",
+            "Laura J. Waters",
+            "Gareth M. B. Parkes",
+            "John C Mitchell"
+        ],
+        "keywords": "aminopropyl column; biosurfactant; human intestinal absorption; micellar liquid chromatography; multiple linear regression; pharmacokinetics; sodium deoxycholate"
+    },
+    {
+        "id": 3703,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Structural studies of an oligomer (vinyl chloride tetramer) isolated from poly(vinyl chloride) resin used for food packaging applications",
+        "organization": "University of Greenwich",
+        "abstract": "A presumptive single component previously isolated from PVC base resin and tentatively identified from GC-MS data as a vinyl chloride tetramer (mol. wt = 248) has been the subject of further studies. After hydrogenation, two isomeric compounds were separable by capillary GC. Mass spectra confirmed the earlier assignment of one double bond in the parent compounds. Further evidence for the presence of a pair of isomers in the apparently pure tetramer was obtained by epoxidation where two products giving identical mass spectra were produced. The MS fragmentation pattern suggested that the double bond position was allylic to chlorine; GC-MS analysis of the derived chlorohydrins supported this conclusion. Analysis of the tetramer by NMR gave complex overlapping signals, thought to be due to impurities, which hindered interpretation. Some supportive evidence for an allylic double bond was obtained. The structure of the tetramer thus remains only partially determined; the complexities of isomer purification and the difficulties of assigning chlorine substituent patterns make future unequivocal characterisation unlikely.",
+        "email": "",
+        "conf": "European Polymer Journal",
+        "coauthors": [
+            "John Gilbert",
+            "M.J. Shepherd",
+            "M.A. Wallwork",
+            "C Crews",
+            "J R Startin",
+            "John C Mitchell"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3618,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Development and physico-mechanical characterisation of lyophilised chitosan wafers as potential protein drug delivery systems via the buccal mucosa",
+        "organization": "University of Greenwich",
+        "abstract": "Lyophilised wafers from chitosan have been developed as potential protein drug delivery systems via the buccal mucosa. Wafers were prepared by lyophilising aqueous gels of the polymer incorporating varying concentrations of glycerol as plasticizer and d-mannitol as cryoprotectant. The different formulations were characterised by their physico-mechanical properties in order to select the optimum system for further development. The optimised formulation with 6.5 mg each of both plasticizer and cryoprotectant was loaded with bovine serum albumin and lyophilised with or without annealing. Differential scanning calorimetry was used to determine the appropriate lyophilisation cycle by evaluating thermal events before lyophilisation and possible phase separation of bovine serum albumin after lyophilisation. Texture analysis was employed to investigate the in vitro mucoadhesive properties in tensile mode, residual moisture content by thermo-gravimetric analysis while hydration capacity and drug release studies were performed in 0.1 M phosphate buffered saline. Microscopic architecture and crystallinity were examined using scanning electron microscopy and X-ray diffractometry respectively. The ease of hydration, in vitro mucoadhesive characteristics, microscopic architecture and BSA release were influenced by the annealing process. A 7 h cumulative percentage drug release of 91.5% and 80.1% was observed for the annealed and non-annealed wafers respectively. The results showed the potential of employing lyophilised chitosan wafers for buccal mucosa delivery of protein based drugs.",
+        "email": "",
+        "conf": "Colloids and surfaces B: Biointerfaces",
+        "coauthors": [
+            "Isaac Ayensu",
+            "John C Mitchell",
+            "Joshua Boateng"
+        ],
+        "keywords": "Chitosan,Lyophilised wafers,Mucoadhesion,Buccal delivery,Protein"
+    },
+    {
+        "id": 3643,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Milling made easy: Nanoindentation as a predictor of Bulk properties",
+        "organization": "University of Greenwich",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "L.J. Taylor",
+            "D.G. Papadopoulos",
+            "Martin John Snowden",
+            "John C Mitchell",
+            "P.J. Dunn"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3685,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Thermochemical investigation of possible interactions between urea and some sparingly soluble solutes in aqueous solution",
+        "organization": "University of Greenwich",
+        "abstract": "The interaction of alkyl-p-hydroxybenzoates and of β-phenylalanine with urea in dilute aqueous solution which has been proposed by some workers, has been investigated by microcalorimetry. The derived enthalpies are all less than −50 J mol−1 and hence are too small to be considered as describing specific interactions between urea and the study solutes. Furthermore a linear relationship is shown to exist for a wide variety of compounds, including the study solutes, between solute size (surface area and molecular or van der Waals' volume) and ΔtrsG, the Gibbs function for solute transfer from water to aqueous urea solution. Both these findings support the view that the effect of urea upon these solutes' aqueous solubility is an entropically controlled bulk solvent process rather than specific complex formation between urea and solute. The results are discussed in the light of recent models of the hydrophobic effect which propose displacement by urea of water solvation molecules in the solute's hydration shell.",
+        "email": "",
+        "conf": "Thermochimica Acta",
+        "coauthors": [
+            "Watson Loh",
+            "Anthony E. Beezer",
+            "John C Mitchell"
+        ],
+        "keywords": "Alkylhydroxy,benzoate,Gibbs function,Phenylalanine,Solute transfer,Urea"
+    },
+    {
+        "id": 3648,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Influence of particle size on surface energy components of inhalation grade lactose",
+        "organization": "University of Greenwich",
+        "abstract": "particle size, surface energy",
+        "email": "",
+        "conf": "Journal of Pharmacy and Pharmacology",
+        "coauthors": [
+            "Sunil Narishetty",
+            "M. J. Humphrey",
+            "John C Mitchell",
+            "Martyn Ticehurst"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3624,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Colloidal microgel in removal of water from biodiesel",
+        "organization": "University of Greenwich",
+        "abstract": "A series of poly(N-isopropylacrylamide) [pNIPAM]-based homo-polymer and co-polymer microgel particles were prepared by surfactant-free emulsion polymerisation. The co-monomers were acrylic acid, 4-vinylpyridine, butyl acrylate, 4-vinylbiphenyl and vinyl laurate. Co-monomers were added at a concentration of 10% (w/w) relative to the base monomer pNIPAM for the preparation of each co-polymer microgel. The co-monomers chosen vary by their organic chain length, polarity and pH sensitivity, as these should influence how the particles behave in aqueous and non-aqueous solvents. The effect of adding different types of co-monomer into the microgel structure was investigated with respect to their dispersibility in different solvents. These microgel particles have shown useful application in the removal of water from biodiesel prepared from rape seed. Karl Fischer experiments showed that microgel particles can be used to reduce the water content in biodiesel to an acceptable level for incorporation into internal combustion engines.",
+        "email": "",
+        "conf": "Colloids and Surfaces A Physicochemical and Engineering Aspects",
+        "coauthors": [
+            "Hasiken Nur",
+            "Martin John Snowden",
+            "Victoria Cornelius",
+            "John C Mitchell",
+            "P J Harvey",
+            "L.S. Bene"
+        ],
+        "keywords": "Colloidal microgels,Biodiesel,Karl Fischer,Dispersibility,Water absorbent"
+    },
+    {
+        "id": 3697,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Stereochemical evidence for an alkylated perepoxide intermediate",
+        "organization": "University of Greenwich",
+        "abstract": "",
+        "email": "",
+        "conf": "The Journal of Organic Chemistry",
+        "coauthors": [
+            "A. J. Bloodworth",
+            "Kevin J. Bowyer",
+            "John C Mitchell"
+        ],
+        "keywords": "Organic cation, Three membered ring, Oxygen heterocycle, Reaction intermediate, Iodination, Metalation, Peroxidation, Stereochemistry, Chemical substitution"
+    },
+    {
+        "id": 3678,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Surface enhanced Raman scattering (SERS) study of membrane transport processes",
+        "organization": "University of Greenwich",
+        "abstract": "",
+        "email": "",
+        "conf": "International Journal of Pharmaceutics",
+        "coauthors": [
+            "E Wood",
+            "C Sutton",
+            "A.E Beezer",
+            "J A Creighton",
+            "A F Davis",
+            "John C Mitchell"
+        ],
+        "keywords": "Surface enhanced Raman scattering,Membrane transport,Stratum corneum"
+    },
+    {
+        "id": 3694,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Isolation and identification of trichothecenes from Fusarium compactum suspected in the aetiology of a major intoxication of sandhill cranes",
+        "organization": "University of Greenwich",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of Agricultural and Food Chemistry",
+        "coauthors": [
+            "Richard J. Cole",
+            "Joe W. Dorner",
+            "John Gilbert",
+            "David N. Mortimer",
+            "Colin Crews",
+            "J. C. Mitchell",
+            "Ronald M. Windingstad",
+            "Paul E. Nelson",
+            "Horace G. Cutler"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3708,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Conformational analysis of fused-ring 12-diazetidines by carbon-13 nuclear magnetic resonance spectroscopy",
+        "organization": "University of Greenwich",
+        "abstract": "",
+        "email": "",
+        "conf": "The Journal of Organic Chemistry",
+        "coauthors": [
+            "Michael E. Landis",
+            "John C Mitchell",
+            "Diana L. Offen"
+        ],
+        "keywords": "ORGANIC COMPOUNDS, CHEMICAL SOLUTION, TEMPERATURE, TRICYCLIC COMPOUND, SUBSTITUENT EFFECT, INVERSION BARRIER, DIESTER, DIKETONE, NMR SPECTROMETRY, CONFORMATION INVERSION, CHEMICAL SHIFT, NITROGEN HETEROCYCLE, TOLUENE, ACETONE, MOLECULAR PHYSICS, ATOMIC PHYSICS"
+    },
+    {
+        "id": 3636,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "GRIND-based QSPR method to predict the enantiomeric excess in catalysis",
+        "organization": "University of Greenwich",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of Pharmacy and Pharmacology",
+        "coauthors": [
+            "I. Morao",
+            "P. D. Higginson",
+            "John C Mitchell",
+            "Martin John Snowden"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3621,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Synthesis and properties of polyelectrolyte microgel particles",
+        "organization": "University of Greenwich",
+        "abstract": "A series of cationic poly(N-isopropylacrylamide/4-vinylpyridine) [poly(NIPAM/4-VP)] polyelectrolyte co-polymer microgels have been prepared by surfactant free emulsion polymerization (SFEP) with varying compositions of 4-VP and NIPAM. The compositions of 4-VP were 15, 25, 35, 45, 55 wt.% relative to NIPAM. The temperature and pH responsive swelling–deswelling properties of these microgels have been investigated using dynamic light scattering (DLS) and electrophoretic mobility measurements. DLS results have shown that the particle diameter of the poly(NIPAM/4-VP) microgels decreases with increasing concentration (wt.%) of 4-VP over the 20–60 °C temperature range due to the increased amount of hydrophobic group. The particle size of all poly(NIPAM/4-VP) microgel series increases with decreasing pH, as the 4-VP units become more protonated at low pH below the pKa (5.39) of the monomer 4-VP. Electrophoretic mobility results have shown that electrophoretic mobility increases as the temperature/pH increases at a constant background ionic strength (1 × 10− 4 mol dm− 3 NaCl). These results are in good agreement with DLS results. The temperature/pH sensitivity of these microgels depends on the ratio of NIPAM/4-VP concentration in the co-polymer microgel systems. The combined temperature/pH responsiveness of these polyelectrolyte microgels can be used in applications where changes in particle size with small change in pH or temperature is of great consequence.",
+        "email": "",
+        "conf": "Advances in Colloid and Interface Science",
+        "coauthors": [
+            "Hasiken Nur",
+            "V.T. Pinkrah",
+            "John C Mitchell",
+            "L S Benee",
+            "Martin John Snowden"
+        ],
+        "keywords": "Polyelectrolyte,Microgels,DLS,Electrophoretic mobility,pH and temperature responsive swelling"
+    },
+    {
+        "id": 3615,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Dissolution enhancement of poorly water-soluble APIs processed by hot-melt extrusion using hydrophilic polymers",
+        "organization": "University of Greenwich",
+        "abstract": "The aim of this study was to investigate the efficiency of hydrophilic polymers to enhance the dissolution rate of poorly water-soluble active pharmaceutical ingredients (APIs) processed by hot-melt extrusion (HME). Indomethacin (INM) and famotidine (FMT) were selected as model active substances while polyvinyl caprolactam graft copolymer, soluplus (SOL) and vinylpyrrolidone-vinyl acetate copolymer grades, Kollidon VA64 (VA64) and Plasdone S630 (S630) were used as hydrophilic polymeric carriers. For the purpose of the study, drug–polymer binary blends at various ratios were processed by a Randcastle single screw extruder. The physicochemical properties and the morphology of the extrudates were evaluated through X-ray diffraction (XRD), differential scanning calorimetry (DSC) and scanning electron microscopy (SEM). Increased drug loadings of up to 40% were achieved in the extruded formulations for both drugs. INM and FMT exhibited strong plasticization effects with increasing concentrations and were found to be molecularly dispersed within the polymer blends. The in vitro dissolution studies showed increased INM/FMT release rates for all formulations compared to that of pure APIs alone.",
+        "email": "",
+        "conf": "Drug Development and Industrial Pharmacy",
+        "coauthors": [
+            "Mohammed Maniruzzaman",
+            "M M Rana",
+            "Joshua Boateng",
+            "John C Mitchell",
+            "Dennis Douroumis"
+        ],
+        "keywords": "Hot-melt extrusion, dissolution enhancement, solid dispersions, hydrophilic polymers, insoluble drugs"
+    },
+    {
+        "id": 3614,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Mesoporous silica nanoparticles in nanotechnology",
+        "organization": "University of Greenwich",
+        "abstract": "Mesoporous silica nanoparticles (MSNs) are a versatile drug delivery system that can be used for loading of different guest molecules such as peptides, proteins, anticancer agents, and genetic material. MSNs are considered promising drug carriers due to their tuneable particle size, pore structure, and surface functionalization. Thus, MSNs provide opportunities for their effective application in a wide variety of fields. In the current review, we discuss both conventional and advanced MSNs synthesis methods, including their applications for drug delivery, gatekeepers, and biosensors. In addition, the research progress in biocompatibility, cytotoxicity, and internalization mechanisms is reported.",
+        "email": "",
+        "conf": "Critical Reviews in Biotechnology",
+        "coauthors": [
+            "Dennis Douroumis",
+            "Ichioma Onyesom",
+            "Mohammed Maniruzzaman",
+            "John C Mitchell"
+        ],
+        "keywords": "Mesoporous silica nanoparticles, drug delivery, biocompatibility, cytotoxicity, functionalization"
+    },
+    {
+        "id": 3669,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Pharmaceutical microcalorimetry: Applications to long-term stability studies",
+        "organization": "University of Greenwich",
+        "abstract": "Calorimetry has been a mainstay of stability analyses for some time in the form of differential scanning microcalorimetry (DSC). This technique exploits high (relatively) temperature studies of pure materials and of formulations to accelerate any degradation or interactions. The behaviour of the material at storage or ambient conditions is then estimated via extrapolation from the Arrhenius equation. Recent developments in isothermal microcalorimetry allow the direct determination of both kinetic and thermodynamic parameters for long, slow reactions from studies conducted at appropriate temperatures and under designated environmental control (pH, pO2, RH etc.). This review introduces the kinetic analysis of microcalorimetric data and, through selected examples, shows applications of the method.",
+        "email": "",
+        "conf": "International Journal of Pharmaceutics",
+        "coauthors": [
+            "Anthony E Beezer",
+            "Simon Gaisford",
+            "Andrew K Hills",
+            "Richard J Willson",
+            "John C Mitchell"
+        ],
+        "keywords": "Isothermal microcalorimetry,Kinetics,Stability"
+    },
+    {
+        "id": 3597,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Formation of a Bile Salt-Drug Hydrogel to Predict Human Intestinal Absorption",
+        "organization": "University of Greenwich",
+        "abstract": "The unique character of bile salts to self-assemble into hydrogels in the presence of halide salts was exploited in this work to facilitate the prediction of human intestinal absorption (%HIA) for a set of 25 compounds. This was achieved by firstly incorporating each compound separately within the process of gel formation to create a series of gel-drug membranes. Scanning electron microscopy analysis of the freeze-dried samples of the blank bile salt hydrogels and drug-loaded bile salt hydrogels indicated a unique microstructure made of a network of intertwined fibrils. Drug-loaded sodium deoxycholate hydrogels were then utilized as the donor phase to study permeability using flow-through and static diffusion cells. The resulting values of the release-permeability coefficient (Kp) were then analyzed, along with other molecular descriptors, for the %HIA using multiple linear regression. Overall, when comparing predicted values (using the systems presented in this study) with known literature values, it can be seen that both methods (i.e., using static and flow-through cells) had good predictability with R2PRED values of 79.8% and 79.7%, respectively. This study therefore proposes a novel, accurate, and precise way to predict HIA for compounds of pharmaceutical interest using a simple in vitro permeation system. It is important to develop alternatives to the current methods used in prediction of HIA, which are expensive and time-consuming or include the use of animals. Therefore, the proposed method in this study being economic and time-saving provides superiority over these current methods and suggests the possibility of its use as an alternate to such methods for prediction of HIA.",
+        "email": "",
+        "conf": "Journal of Pharmaceutical Sciences",
+        "coauthors": [
+            "Dina Shokry",
+            "Laura J. Waters",
+            "Gareth M. B. Parkes",
+            "John C Mitchell",
+            "Martin John Snowden"
+        ],
+        "keywords": "sodium deoxycholate,NaDC,human intestinal absorption,%HIA,hydrogels,flow-through cells,static diffusion cells,absorption,permeation"
+    },
+    {
+        "id": 3664,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Direct Determination of Equilibrium Thermodynamic and Kinetic Parameters from Isothermal Heat Conduction Microcalorimetry",
+        "organization": "University of Greenwich",
+        "abstract": "Calorimetry is recognized1-8 as a noninvasive, nondestructive method for the determination of both the thermodynamic and the kinetic parameters associated with chemical reactions. The most immediate applications of the technique have been found in the determination of long-term stability data particularly for pharmaceuticals. However, the methods proposed required that calorimetric data (thermal power, Φ, watts recorded as a function of time) be analyzed iteratively to obtain the order of the reaction n, the rate constant k, and the enthalpy change of reaction ΔRH. A necessary assumption in this process was that all of the sample placed into the calorimeter would react. This is obviously a severe constraint for the flexibility and application of the method. This paper reports a significant extension of the procedure that allows direct calculation of all of the above parameters. Moreover, the equations that are developed permit the determination of the actual quantity of the sample placed into the calorimeter that will react. Indeed, for successful determination of the desired kinetic, thermodynamic, and equilibrium parameters, it is not necessary, in principle, to have any knowledge about a sample other than its total mass. It is possible to determine, in addition to n, k, and ΔRH, the equilibrium constant K for the reaction studied together with the associated values of the Gibbs function and entropy changes ΔRG and ΔRS. Moreover, because the reaction is to be studied over a temperature range, the activation energy Ea is also accessible.",
+        "email": "",
+        "conf": "The Journal of Physical Chemistry B",
+        "coauthors": [
+            "Anthony E. Beezer",
+            "Andrew C. Morris",
+            "Michael A. A. O'Neill",
+            "Richard J. Willson",
+            "Andrew K. Hills",
+            "John C. Mitchell",
+            "Joseph A. Connor"
+        ],
+        "keywords": "Equilibrium constant,Kinetic parameters,Chemical calculations,Equilibrium,Order"
+    },
+    {
+        "id": 3679,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Diode-Array UV Spectrometric Evidence for Cooperative Interactions in Binary Mixtures of Pluronics F77 F87 and F127",
+        "organization": "University of Greenwich",
+        "abstract": "Iodine incorporation UV spectroscopy provides evidence that (PEOA−PPOB−PEOA) block copolymers (Pluronics) of related composition will aggregate either cooperatively or independently. Studying binary mixtures of Pluronics, selected from a series of Pluronics containing the same ratio of PEO:PPO (70% PEO, 30% PPO), allowed the effects of varying polymeric mass on the type of interaction observed to be investigated. Preliminary results indicate that the mass ratio of the PPO moieties determines the type of interaction observed.",
+        "email": "",
+        "conf": "Langmuir",
+        "coauthors": [
+            "Simon Gaisford",
+            "Anthony E Beezer",
+            "John C Mitchell"
+        ],
+        "keywords": "Binary mixtures,Solutions,Absorption,Aggregation,Polymers"
+    },
+    {
+        "id": 3689,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "An Investigation of Dilute Aqueous Solution Behavior of Poly(oxyethylene) + Poly(oxypropylene) + Poly(oxyethylene) Block Copolymers",
+        "organization": "University of Greenwich",
+        "abstract": "Dilute solution phase scanning microcalorimetric transition data for 27 members of the pluronic ABA block copolymer family are presented. Analysis of these data suggest a correlation between thermodynamic parameters for the observed transitions and poly(propylene oxide) content.",
+        "email": "",
+        "conf": "Langmuir",
+        "coauthors": [
+            "Anthony E. Beezer",
+            "Watson Loh",
+            "John C Mitchell",
+            "P G Royall",
+            "D O Smith",
+            "M S Tute",
+            "J K Armstrong",
+            "B Z Chowdhry",
+            "Stephen A Leharne",
+            "D Eagland",
+            "N J Crowther"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3601,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "The Use of Bile Salt Micelles for the Prediction of Human Intestinal Absorption",
+        "organization": "University of Greenwich",
+        "abstract": "Human intestinal absorption (HIA) will dictate biopharmaceutical performance through its influence on absorption, distribution, metabolism, and elimination and can vary significantly depending upon the nature of the compound under consideration. In this study, an in vitro assay method is proposed for the prediction of HIA through the measurement of drug solubility in an aqueous phase containing micellar bile salt, namely sodium deoxycholate. A series of twenty compounds, displaying a range of physicochemical properties and known HIA values, were analyzed using UV spectroscopy to determine a solubilization ratio for each compound. A micelle/water partition coefficient (Kxm/a) was calculated and then used to develop an equation through simple linear regression; logit HIA = −0.919 + 0.4618 logKxm/a (R2 = 0.85). From this equation, a value for % HIA was determined which compared well with literature. Furthermore, 4 additional drugs were then analyzed using the developed equation and found to match well with literature, confirming the suitability of the method. Using a simple, economic, and robust UV bile salt assay allows prediction of HIA and avoids many of the disadvantages of other techniques, such as animal-based methods.",
+        "email": "",
+        "conf": "Journal of Pharmaceutical Sciences",
+        "coauthors": [
+            "Laura J. Waters",
+            "Dina Shokry",
+            "Gareth M. B. Parkes",
+            "John C Mitchell"
+        ],
+        "keywords": "human intestinal absorption,HIA,solubilization,UV,bile salts"
+    },
+    {
+        "id": 3647,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Influence of particle size on mechanical properties of pharmaceutical crystals",
+        "organization": "University of Greenwich",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of Pharmacy and Pharmacology",
+        "coauthors": [
+            "L. J. Taylor",
+            "D. G. Papaclopoulos",
+            "John C Mitchell",
+            "Martin John Snowden"
+        ],
+        "keywords": "particle size, mechanical properties, pharmaceutical crystals"
+    },
+    {
+        "id": 3635,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Theoretical Prediction of the Enantiomeric Excess in Asymmetric Catalysis. An Alignment-Independent Molecular Interaction Field Based Approach",
+        "organization": "University of Greenwich",
+        "abstract": "The enantiomeric excess of three different asymmetric catalyses has been predicted in excellent agreement with the experiments using a 3D-QSPR approach. In particular, GRid INdependent Descriptors generated from molecular interaction fields together with a simple partial least-squares method were found to be adequate to describe the enantioselectivity induced by these metal−ligand complexes.",
+        "email": "",
+        "conf": "The Journal of Organic Chemistry",
+        "coauthors": [
+            "Simone Sciabola",
+            "Alexander Alex",
+            "Paul D Higginson",
+            "John C Mitchell",
+            "Martin J Snowden",
+            "Inaki Morao"
+        ],
+        "keywords": "Quantitative structure property relationship,Asymmetric catalysis,Ligands,Catalysts,Molecular interactions"
+    },
+    {
+        "id": 3641,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Swelling of cationic polyelectrolyte colloidal microgels: Thermodynamic considerations",
+        "organization": "University of Greenwich",
+        "abstract": "The swelling, as a function of temperature, of cationic (poly(N-isopropylacrylamide/methylenebisacrylamide/4-vinylpyridine) [poly(NIPAM/BA/4-VP] microgels (synthesized using different mole fractions of 4-VP), has been studied by photon correlation spectroscopy (PCS). Analysis of the PCS data showed that the volumes occupied by these microgels are constant, for each microgel, over a range of temperatures (320–333 K). The volume occupied by a given microgel at 333 K is hypothesized to be a property of the microgel itself. These data support the view that the microgel volume at 333 K is a convenient and appropriate reference state. The limit (333 K) volumes are constant and the same, within experimental error, for all the microgels. The particularly interesting observation made from this study is that the normalised volume data, at 333 K, for all samples is similar to that of poly(NIPAM/BA) microgels. Furthermore, the normalised volume data illustrate well how the defined swelling ratio discriminates between the microgels in terms of their sensitivity to temperature. A thermodynamic approach, using van’t Hoff analysis, allows direct comparison of swelling as a function of temperature for these microgel systems. Importantly, entropy values undergo a change in sign from positive at low (288 K) temperature to negative values at high (333 K) temperature. In addition, the thermodynamic analysis suggests that at temperatures below the volume phase transition temperature (VPTT) of the microgel, interstitial solvent is similar to bulk solvent whereas this is not the case at temperatures above the VPTT.",
+        "email": "",
+        "conf": "Colloids and Surfaces A Physicochemical and Engineering Aspects",
+        "coauthors": [
+            "Victoria T. Pinkrah",
+            "Anthony E. Beezer",
+            "Babur Chowdhry",
+            "Louise H Gracia",
+            "Victoria J Cornelius",
+            "John C Mitchell",
+            "Vanessa Castro-Lopez",
+            "Martin John Snowden"
+        ],
+        "keywords": "PCSCationic poly(NIPAM/BA/4-vinylpyridine),Mole fraction composition,Thermodynamic parameters,Thermodynamic activity,Reference state"
+    },
+    {
+        "id": 3649,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "The study of the reaction between xylose and glycine in freeze-dried materials",
+        "organization": "University of Greenwich",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of Pharmacy and Pharmacology",
+        "coauthors": [
+            "D. Fei",
+            "A. D. Auffrett",
+            "John C Mitchell",
+            "Martin John Snowden"
+        ],
+        "keywords": "xylose, glycine, freeze-dried materials"
+    },
+    {
+        "id": 3663,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "The stability of benzoyl peroxide formulations determined from isothermal microcalorimetric studies",
+        "organization": "University of Greenwich",
+        "abstract": "Recent developments in the analysis of microcalorimetric data output allow the possibility of determining both thermodynamic and kinetic parameters for complex reaction systems. Such experiments routinely take around 50 h, hence qualifying for the description rapid. The methods have earlier been applied to a study of the stability of benzoyl peroxide itself in aqueous suspension. This paper reports the results of isothermal microcalorimetric study of the stability of benzoyl peroxide in the presence of a wide range of excipients and in formulated materials. The results are shown to assist in formulation design, are achieved rapidly and are derived from direct experimental study of the complex systems themselves. That is, no ancillary information is required nor are the studies invasive or destructive.",
+        "email": "",
+        "conf": "International Journal of Pharmaceutics",
+        "coauthors": [
+            "Flora Zaman",
+            "Anthony E. Beezer",
+            "John C Mitchell",
+            "Quentin Clarkson",
+            "J Elliot",
+            "M Nisbet",
+            "Adrian F. Davis"
+        ],
+        "keywords": "Calorimetry,Benzoyl peroxide,Formulation excipients,Stability"
+    },
+    {
+        "id": 3638,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Achieving high accuracy and precision in LC-MS/MS assays for pharmaceutical analysis",
+        "organization": "University of Greenwich",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of Pharmacy and Pharmacology",
+        "coauthors": [
+            "Louisa Alfazema",
+            "Don Richards",
+            "S. Gelebart",
+            "Martin John Snowden"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3666,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Dendripore and dendrilock concepts new controlled delivery strategies",
+        "organization": "University of Greenwich",
+        "abstract": "",
+        "email": "",
+        "conf": "American Chemical Society",
+        "coauthors": [
+            "Roseita Esfand",
+            "Donald Andrew Tomalia",
+            "A.E. Beezer",
+            "E. Anthony",
+            "John C Mitchell",
+            "M Hardy",
+            "C. Orford"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3633,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Accuracy vs Time Dilemma on the Prediction of NMR Chemical Shifts: A Case Study (Chloropyrimidines)",
+        "organization": "University of Greenwich",
+        "abstract": "The nuclear magnetic shieldings of two chloropyrimidine species have been predicted and analyzed by means of ab initio and DFT methods. The results have been compared with the experimental values and with those from other database-related approaches. These dataset-based techniques are found to be particularly valuable because of the accurate and instantaneous prediction of the 13C chemical shifts. On the other hand, only a few quantum chemistry based approaches were showed to be the most precise to predict 1H chemical shifts and to elucidate unequivocally the 1H NMR spectra of the regioisomeric mixture under study. Special emphasis was put on incorporating the solvent effect, implicitly, or explicitly. The influence of the level of theory and basis set in the predicted values has also been discussed.",
+        "email": "",
+        "conf": "The Journal of Organic Chemistry",
+        "coauthors": [
+            "Manuel Perez",
+            "Torren M Peakman",
+            "Alexander Alex",
+            "Paul D Higginson",
+            "John C Mitchell",
+            "Martin J Snowden",
+            "Inaki Morao"
+        ],
+        "keywords": "Solvents,Basis sets,Chemical calculations,Mathematical methods,Molecules"
+    },
+    {
+        "id": 3598,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Incorporating physiologically relevant mobile phases in micellar liquid chromatography for the prediction of human intestinal absorption",
+        "organization": "University of Greenwich",
+        "abstract": "Micellar liquid chromatography is a popular method used in the determination of a compound's lipophilicity. This study describes the use of the obtained micelle–water partition coefficient (log Pmw) by such a method in the prediction of human intestinal absorption (HIA). As a result of the close resemblance of the novel composition of the micellar mobile phase to that of physiological intestinal fluid, prediction was deemed to be highly successful. The unique micellar mobile phase consisted of a mixed micellar mixture of lecithin and six bile salts, i.e. a composition matching that found in the human intestinal environment, prepared in ratios resembling those in the intestine. This is considered to be the first method to use a physiological mixture of biosurfactants in the prediction of HIA. As a result, a mathematical model with high predictive ability (R2PRED = 81%) was obtained using multiple linear regression. The micelle–water partition coefficient (log Pmw) obtained from micellar liquid chromatography was found to be a successful tool for prediction where the final optimum model included log Pmw and polar surface area as key descriptors with high statistical significance for the prediction of HIA. This can be attributed to the nature of the mobile phase used in this study which contains the lecithin–bile salt complex, thus forming a bilayer system and therefore mimicking absorption across the intestinal membrane.",
+        "email": "",
+        "conf": "Biomedical Chromatography",
+        "coauthors": [
+            "Dina S Shokry",
+            "Laura J. Waters",
+            "Gareth M. B. Parkes",
+            "John C Mitchell"
+        ],
+        "keywords": "bile salt, HIA, lipophilicity, MLC, Pmw"
+    },
+    {
+        "id": 3637,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Synthesis and characterisation of hydrophobically modified and crosslinked pullulan with enhanced viscosity characteristics",
+        "organization": "University of Greenwich",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of Pharmacy and Pharmacology",
+        "coauthors": [
+            "G. H. Gibson",
+            "A. D. Auffret",
+            "M. J. Humphrey",
+            "John C Mitchell",
+            "Martin John Snowden"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3659,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Survey of the effect of fill volume on the values for the enthalpy and rate constant derived from isothermal microcalorimetry: Applications of a newly developed test reaction",
+        "organization": "University of Greenwich",
+        "abstract": "A recent paper has reported the results of an inter/intralaboratory study into a test and reference reaction for isothermal microcalorimeters, the imidazole catalysed hydrolysis of triacetin. The values derived were 2.8×10−6±9.7×10−8 dm3 mol−1 s−1 and −91.7±3 kJ mol−1 for the rate constant and enthalpy, respectively. This paper reports the findings of an investigation, using this test reaction, into the effect of ampoule fill volume on the recovery of the derived rate constant and enthalpy. Fill volume is likely to be of significance for all commercially available, heat conduction, isothermal microcalorimeters. Experiments, reported here, were performed in a thermal activity monitor (TAM, thermometric AB, Jarfalla, Sweden) operating in the batch mode, for 3, 4 and 20 ml glass ampoules and 4 ml stainless steel ampoules. It is shown that the rate constant can be accurately recovered at fill volumes greater than 50% but below 50% fill volume this accuracy diminishes.",
+        "email": "",
+        "conf": "Thermochimica Acta",
+        "coauthors": [
+            "Michael A. A. O'Neill",
+            "A. E. Beezer",
+            "R. M. Deal",
+            "A C Morris",
+            "John C Mitchell",
+            "J A Orchard",
+            "J. A. Connor"
+        ],
+        "keywords": "Triacetin,Volume study,Isothermal microcalorimetry"
+    },
+    {
+        "id": 3693,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Thermodynamic analysis of scanning calorimetric transitions observed for dilute aqueous solutions of ABA block copolymers",
+        "organization": "University of Greenwich",
+        "abstract": "Dilute aqueous solutions of a series of poly(oxyethylene)-poly(oxypropylene)-poly(oxyethylene) block polymers have been shown to undergo phase transitions. A high-sensitivity differential scanning calorimetric (HSDSC) study of these block copolymers bas enabled the thermodynamic parameters for the phase transitions to be obtained. The thermodynamic parameters are all dependent on poly(oxypropylene) content of the polymer and riot on poly(oxyethylene) content or total polymer molecular mass. The importance of the poly(oxypropylene) in determining the aqueous solution phase properties of these polymers is further emphasized by the positive value for the heat capacity change from pre- to postphase transition. A positive heat capacity change is characteristic of \"melting\" of water ordered by exposed nonpolar groups. The work reported in this paper shows that the thermodynamic parameters describing the polymer phase transitions can be derived from basic thermodynamic principles and from consideration of the poly(oxypropylene) content. The theoretical analysis described in this paper also predicts that these polymers should undergo a second phase transition at high temperature and indeed these transitions have been detected by HSDSC.",
+        "email": "",
+        "conf": "The Journal of Physical Chemistry",
+        "coauthors": [
+            "N. M. Mitchard",
+            "A. E. Beezer",
+            "John C Mitchell",
+            "J K Armstrong",
+            "B Z Chowdhry",
+            "S Leharne",
+            "Graham Buckton"
+        ],
+        "keywords": "calorimetry, ethylene oxide, propylene, oxide block copolymers"
+    },
+    {
+        "id": 3632,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Kinetic Data by Nonisothermal Reaction Calorimetry: A Model-Assisted Calorimetric Evaluation",
+        "organization": "University of Greenwich",
+        "abstract": "The use of a reaction calorimeter in combination with kinetic modeling software to obtain nonisothermal kinetic data is presented. The Diels−Alder reaction of maleic anhydride and isoprene in DMF was used as a model to demonstrate the feasibility of the method. The Arrhenius A factor and the activation energy could be achieved from a single experiment with a reaction calorimeter (Mettler RC1) by fitting the experimental heat generation curve to a second-order kinetic model using commercially available software packages. The use of fitting software revealed a discrepancy between the experimental reaction heat and the heat calculated from the rate parameters. This discrepancy could be resolved by reintegration of the heat generation curve using an adjusted baseline derived from the rate data. The methodology was applied by varying reaction conditions (starting concentrations, heat rate, temperature range), and the results appeared to be independent of these variations within the experimental errors (Ea = 58.5 ± 2.0 kJ mol-1, A factor 4.02 × 106 L mol-1 s-1). It is shown by comparison with literature data that this fast method generates kinetic parameters with a sufficient reliability to be used with process-modeling tools for computer-supported scale-up.",
+        "email": "",
+        "conf": "Organic Process Research & Development",
+        "coauthors": [
+            "Wilfried Hoffmann",
+            "Ying Kang",
+            "John C Mitchell",
+            "Martin John Snowden"
+        ],
+        "keywords": "Chemical reactions,Calibration,Kinetic parameters,Kinetic modeling,Kinetics"
+    },
+    {
+        "id": 3681,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Determination of Receptor-Bound Drug Conformations by QSAR Using Flexible Fitting to Derive a Molecular Similarity Index",
+        "organization": "University of Greenwich",
+        "abstract": "Results are presented for a QSAR analysis of bisamidines, using a similarity index as descriptor. The method allows for differences in conformation of bisamidines at the receptor site to be taken into consideration. In particular, it has been suggested by others that pentamidine binds in the minor groove of DNA in a so-called isohelical conformation, and our QSAR supports this suggestion. The molecular similarity index for comparison of molecules can be used as a parameter for correlating and hence rationalising the activity as well as suggesting the design of bioactive molecules. The studied compounds had been evaluated for potency against Leishmania mexicana amazonensis, and this potency was used as a dependent variable in a series of QSAR analyses. For the calculation of similarity indexes, each analogue was in turn superimposed on a chosen lead compound in a reference conformation, either extended or isohelical, maximising overlap and hence similarity by flexible fitting.",
+        "email": "",
+        "conf": "Journal of Computer-Aided Molecular Design",
+        "coauthors": [
+            "Carlos Alberto Montanari",
+            "M. S. Tute",
+            "A. E. Beezer",
+            "John C Mitchell"
+        ],
+        "keywords": "QSAR; Conformation; Molecular similarity; Bisamidines; Pentamidine; Electrotopological state"
+    },
+    {
+        "id": 3606,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Formulation Characterisation and Stabilisation of Buccal Films for Paediatric Drug Delivery of Omeprazole",
+        "organization": "University of Greenwich",
+        "abstract": "This study aimed to develop films for potential delivery of omeprazole (OME) via the buccal mucosa of paediatric patients. Films were prepared using hydroxypropylmethylcellulose (HPMC), methylcellulose (MC), sodium alginate (SA), carrageenan (CA) and metolose (MET) with polyethylene glycol (PEG 400) as plasticiser, OME (model drug) and L-arg (stabiliser). Gels (1% w/w) were prepared at 40°C using water and ethanol with PEG 400 (0–1% w/w) and dried in an oven (40°C). Optimised formulations containing OME and L-arg (1:1, 1:2 and 1:3) were prepared to investigate the stabilisation of the drug. Tensile properties (Texture analysis, TA), physical form (differential scanning calorimetry, DSC; X-ray diffraction, XRD; thermogravimetric analysis, TGA) and surface topography (scanning electron microscopy, SEM) were investigated. Based on the TA results, SA and MET films were chosen for OME loading and stabilisation studies as they showed a good balance between flexibility and toughness. Plasticised MET films were uniform and smooth whilst unplasticised films demonstrated rough lumpy surfaces. SA films prepared from aqueous gels showed some lumps on the surface, whereas SA films prepared from ethanolic gels were smooth and uniform. Drug-loaded gels showed that OME was unstable and therefore required addition of L-arg. The DSC and XRD suggested molecular dispersion of drug within the polymeric matrix. Plasticised (0.5% w/w PEG 400) MET films prepared from ethanolic (20% v/v) gels and containing OME: L-arg 1:2 showed the most ideal characteristics (transparency, ease of peeling and flexibility) and was selected for further investigation.",
+        "email": "",
+        "conf": "AAPS PharmSciTech",
+        "coauthors": [
+            "Sajjad Khan",
+            "Joshua Boateng",
+            "John C Mitchell",
+            "Vivek Trivedi"
+        ],
+        "keywords": "Buccal drug delivery, Plasticiser, Oral films, Omeprazole, Paediatric"
+    },
+    {
+        "id": 3691,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "The synthesis of chiral dendritic molecules based on the repeat unit L-glutamic acid",
+        "organization": "University of Greenwich",
+        "abstract": "The convenient synthesis of a glutamate based dendrimeric molecule is reported. This chiral unsymmetrical dendrimer, contains 15 chiral centres all with identical configurations (L). The convenient synthesis of a glutamate dendrimeric molecule is reported. This chiral, unsymmetrical dendrimer contains 15 chiral centres all with identical configurations (L).",
+        "email": "",
+        "conf": "Tetrahedron Letters",
+        "coauthors": [
+            "Lance J. Twyman",
+            "Anthony E. Beezer",
+            "John C Mitchell"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3620,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Freeze-dried thiolated chitosan formulations for protein delivery via the buccal mucosa",
+        "organization": "University of Greenwich",
+        "abstract": "The buccal mucosa has received increased attention in recent years for the delivery of proteins/peptides as an alternative to the currently used parenteral route [1]. Although limited by molecular size, hydrophobicity and low permeability of membranes, thiolated chitosan derivatives have however been identified to deliver proteins/peptides across the buccal mucosa because of their mucoadhesive, penetration enhancing and peptidase inhibition properties [2]. This project aims to develop freeze-dried thiolated chitosan formulations for protein delivery via the buccal mucosa and to determine the effectiveness of cryoprotection and annealing on the stability of the protein drug.",
+        "email": "",
+        "conf": "Journal of Pharmacy and Pharmacology",
+        "coauthors": [
+            "Isaac Ayensu",
+            "John C Mitchell",
+            "Joshua Boateng"
+        ],
+        "keywords": "chitosan, drug-delivery, mucoadhesive, freeze-drying, wafers, thiolated chitosan"
+    },
+    {
+        "id": 3684,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Group additivity function determined by Taylor-Aris modified diffusion techniques",
+        "organization": "University of Greenwich",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of Pharmacy and Pharmacology",
+        "coauthors": [
+            "Paul G Royall",
+            "Antony E Beezer",
+            "John C Mitchell"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3631,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Preparation of SMART wound dressings based on colloidal microgels and textile fibres",
+        "organization": "University of Greenwich",
+        "abstract": "Wound dressings and other types of wound healing technologies are experiencing fast-paced development and rapid growth. As the population ages, demand will continue to rise for advanced dressings used to treat chronic wounds, such as pressure ulcers, venous stasis ulcers, and diabetic ulcers. Moist wound dressings, which facilitate natural wound healing in a cost-effective manner, will be increasingly important. In commercially available hydrogel / gauze wound dressings the gel swells to adsorb wound excreta and provide an efficient non adhesive particle barrier. An alternative to hydrogels are microgels. Essentially discrete colloidal gel particles, as a result of their very high surface area to volume ratio compared to bulk gels, they have a much faster response to external stimuli such as temperature or pH. In response to either an increase or decrease in solvent quality these porous networks shrink and swell reversibly. When swollen the interstitial regions within the polymer matrix are available for further chemistry; such as the incorporation of small molecules. The reversible shrinking and swelling as a function of external stimuli provides a novel drug release system. As the environmental conditions of a wound change over its lifetime, tending to increase in pH if there is an infection combining these discrete polymeric particles with a substrate such as cotton, results in a smart wound dressing.",
+        "email": "",
+        "conf": "Proceedings of SPIE - The International Society for Optical Engineering",
+        "coauthors": [
+            "Victoria J. Cornelius",
+            "Natasa Majcen",
+            "Martin J. Snowden",
+            "John C. Mitchell",
+            "Bojana Voncina"
+        ],
+        "keywords": "SMART wound dressings, matrices, molecules, networks, particles, polymers, veins, wound healing"
+    },
+    {
+        "id": 3612,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "pH Effects in Micellar Liquid Chromatographic Analysis for Determining Partition Coefficients for a Series of Pharmaceutically Related Compounds",
+        "organization": "University of Greenwich",
+        "abstract": "Five drugs were studied using micellar liquid chromatography (MLC) to determine micelle-water partition coefficients (Pmw) over a range of mobile phase pH values and column temperatures. In all cases the sodium dodecyl sulphate mobile phase utilised a CN reversed-phase column with UV detection, optimised for the λmax of each drug. The pH of the mobile phase was systematically varied over the range 3 to 7 pH units, incorporating values above and below the pKa‘s of the drugs studied. From this it was possible to determine MLC based values of Pmw and establish their relationships with pKa values, software predicted partition coefficients (clogP), dissociation constants (logD) and published partitioning data (logPow). This study also considered the relationship between column temperature, from 294K to 317K, and Pmw. For all five drugs it was found that Pmw decreased with increasing pH implying a systematic increased preference for the drug to remain in the aqueous phase rather than partition into the micellar phase. In addition, the partition coefficient displayed a linear relationship with log D over the pH range for each drug with a ‘break-point’ observed at the pKa for each drug. With respect to increasing temperature, the results were non-linear indicating that there is no general relationship for these drugs with temperature. Overall, it was found that MLC is suited to the measurement of partition coefficients for pharmaceutical compounds yet it should be noted that both pH and temperature play a significant role in the values obtained.",
+        "email": "",
+        "conf": "Current Pharmaceutical Analysis",
+        "coauthors": [
+            "Laura J. Waters",
+            "Yasser Shahzad",
+            "John C Mitchell"
+        ],
+        "keywords": "CMC; HPLC; MLC; Micellar Liquid Chromatography; aromatic hydrocarbons; logP; pH; partition coefficients; physicochemical property"
+    },
+    {
+        "id": 3702,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Identification of a novel side-product formed during the methylation of sulphapyridine prior to gas chromatographic analysis",
+        "organization": "University of Greenwich",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of Chromatography A",
+        "coauthors": [
+            "John Gilbert",
+            "J.R. Startin",
+            "M.J. Shepherd",
+            "John C Mitchell"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3712,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "A NOVEL USE OF RAMAN SPECTROSCOPY: ANALYSIS OF THE STRUCTURAL COMPOSITION OF COMONOMER MICROGELS",
+        "organization": "University of Greenwich",
+        "abstract": "Co-monomer microgels, which have molecular weights of tens of millions of Daltons, present scientific challenges in attempts to analyse their monomer composition both qualitatively and quantitatively. However, uniquely, Raman spectroscopy may be a potentially useful technique for such purposes. Colloidal polymeric microgel systems [1] are particularly appealing from a research perspective because they provide an opportunity to investigate conformational changes in cross-linked polymeric systems. Microgels composed of co-monomers are currently of significant academic and industrial interest [2] due to their potential uses in diverse interdisciplinary areas of scientific interest [3] including drug delivery and as scaffolds for catalysis [4]. However the analysis of the structural composition of microgels is a non-trivial experimental problem. It is proposed that in the case of co-monomer microgels, Raman spectroscopy can be used as a quick and easy method to ensure that co-polymerization has occurred and also to determine, semi-quantitatively, the percentage incorporation of the monomers. ",
+        "email": "",
+        "conf": "Science Access",
+        "coauthors": [
+            "J. P. Ryall",
+            "Andrew P. Mendham",
+            "R. Withnall",
+            "I H Gracia",
+            "V T P Pinkrah",
+            "John C Mitchell",
+            "M J Snowden",
+            "Babur Z Chowdhry"
+        ],
+        "keywords": "Semi-quantitative analysis, colloid, nanoparticles, structural analysis"
+    },
+    {
+        "id": 3709,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Cycloadditions with quadricyclane. Synthesis of fused-ring 12-diazetidines",
+        "organization": "University of Greenwich",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of Organic Chemistry",
+        "coauthors": [
+            "Michael E. Landis",
+            "John C Mitchell"
+        ],
+        "keywords": "CHEMICAL REACTION, NITROGEN HETEROCYCLE, TRICYCLIC COMPOUND, HYDROCARBON, TETRACYCLIC COMPOUND, SATURATED COMPOUND, REACTION INTERMEDIATE, CYCLOADDITION, ORGANIC CHEMISTRY"
+    },
+    {
+        "id": 3654,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Predictive Milling of Pharmaceutical Materials Using Nanoindentation of Single Crystals",
+        "organization": "University of Greenwich",
+        "abstract": "Five pharmaceutical materials, including two salts and three neutral compounds, have been subjected to nanoindentation analysis on a single-crystal scale. The nanoindentation experiments were used to calculate a brittleness index for each of the five materials. These results were compared to the size reductions that were obtained on a pilot-plant scale mill. A good correlation between single crystal and large pilot-plant scale results was obtained for the range of materials studied.",
+        "email": "",
+        "conf": "Organic Process Research & Development",
+        "coauthors": [
+            "L. J. Taylor",
+            "D. G. Papadopoulos",
+            "P. J. Dunn",
+            "A C Bentham",
+            "N J Dawson",
+            "John C Mitchell",
+            "Martin John Snowden"
+        ],
+        "keywords": "Nanoindentation,Deformation,Crystals,Hardness,Materials"
+    },
+    {
+        "id": 3671,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "The imidazole catalysed hydrolysis of triacetin: A medium term chemical calibrant for isothermal microcalorimeters",
+        "organization": "University of Greenwich",
+        "abstract": "This paper reports an isothermal microcalorimetric study of the imidazole catalysed hydrolysis of triacetin as an example of a solution phase medium term reaction. The results of this study are then discussed in context of its potential as a quantitative chemical calibrant for calorimeters, especially isothermal microcalorimeters. It will be also shown that chemical calibrants can be important for the determination of the stability of the calorimetric signal itself and hence to the consideration of location and set-up of the calorimeter. The imidazole catalysed triacetin hydrolysis reaction was studied in the calorimeter over a period of up to 50 days at 298.15 K and at pH 7.09. We have determined that, under these conditions, this reaction is second order with a rate constant of 8.64 × 10−4 ± 1.5 × 10−5 dm3 mol−1 s−1 and an associated change in enthalpy of −95.2 ± 1.6 kJ mol−1. The data analysis for this reaction was performed using a new mathematical approach for the calculation of kinetic and thermodynamic parameters from calorimetric data.",
+        "email": "",
+        "conf": "Thermochimica Acta",
+        "coauthors": [
+            "Richard J Willson",
+            "Anthony E. Beezer",
+            "Andrew K. Hills",
+            "John C Mitchell"
+        ],
+        "keywords": "Isothermal microcalorimetry,Reaction order,Triacetin,Kinetics,Thermodynamics"
+    },
+    {
+        "id": 3599,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Preparation of polycaprolactone nanoparticles via supercritical carbon dioxide extraction of emulsions",
+        "organization": "University of Greenwich",
+        "abstract": "Polycaprolactone (PCL) nanoparticles were produced via supercritical fluid extraction of emulsions (SFEE) using supercritical carbon dioxide (scCO2). The efficiency of the scCO2 extraction was investigated and compared to that of solvent extraction at atmospheric pressure. The effects of process parameters including polymer concentration (0.6–10% w/w in acetone), surfactant concentration (0.07 and 0.14% w/w) and polymer-to-surfactant weight ratio (1:1–16:1 w/w) on the particle size and surface morphology were also investigated. Spherical PCL nanoparticles with mean particle sizes between 190 and 350 nm were obtained depending on the polymer concentration, which was the most important factor where increase in the particle size was directly related to total polymer content in the formulation. Nanoparticles produced were analysed using dynamic light scattering and scanning electron microscopy. The results indicated that SFEE can be applied for the preparation of PCL nanoparticles without agglomeration and in a comparatively short duration of only 1 h.",
+        "email": "",
+        "conf": "Drug Delivery and Translational Research",
+        "coauthors": [
+            "Adejumoke Ajiboye",
+            "Vivek Trivedi",
+            "John C Mitchell"
+        ],
+        "keywords": "Solvent extraction, Polycaprolactone, Nanoparticles, Supercritical carbon dioxide, Supercritical fluid extraction of emulsions"
+    },
+    {
+        "id": 3658,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "The base catalysed hydrolysis of methyl paraben: A test reaction for flow microcalorimeters used for determination of both kinetic and thermodynamic parameters",
+        "organization": "University of Greenwich",
+        "abstract": "The results of an inter/intra-laboratory study into a test and reference reaction for isothermal microcalorimeters, the imidazole catalysed hydrolysis of triacetin, have been reported in a recent paper [Thermochim. Acta 380 (2001) 13]. The results and conclusions drawn from this study have been extended to a consideration of the need for a similar test and reference reaction for isothermal microcalorimeters operating in flow mode. This paper reports the findings of a preliminary inter/intra-laboratory study of the base catalysed hydrolysis of methyl 4-hydroxy benzoate (methyl paraben) and its suitability as a test and reference reaction. The derived values for the hydrolysis reaction were (3.15±0.11)×10−4 s−1 and −50.5±4.3 kJ mol−1 for the rate constant and enthalpy, respectively. It is also reported how such a test and reference reaction can be used to validate the thermal output from a LKB 10-700-1 and Thermometric Thermal Activity Monitor (TAM) 2277-202 flow microcalorimeters.",
+        "email": "",
+        "conf": "Thermochimica Acta",
+        "coauthors": [
+            "Michael A. A. O'Neill",
+            "A E Beezer",
+            "C. Labetoulle",
+            "L Nicolaides",
+            "John C Mitchell",
+            "J A Orchard",
+            "J A Connor",
+            "R B Kemp",
+            "D. Olomolaiye"
+        ],
+        "keywords": "Test and reference reaction,Flow microcalorimetry,Methyl paraben,Triacetin"
+    },
+    {
+        "id": 3602,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "A Modern Approach to the Heckel Equation: The Effect of Compaction Pressure on the Yield Pressure of Ibuprofen and its Sodium Salt",
+        "organization": "University of Greenwich",
+        "abstract": "Despite being heavily criticised in the literature the most widely used and accepted compaction equation is the Heckel equation proposed by Heckel in 1961. Its presence in literature for 55 years is due to the ease in which it can distinguish between plastic and brittle materials. Achieving the correct balance of plastic and brittle materials in a formulation is critical to ensure adequate tablet strength is achieved therefore classifying materials using the Heckel equation is attractive. Despite the importance of this understanding, especially in the design and manufacture of direct compression formulations, there are no set analytical testing standards or materials classification guidelines. Instead many workers have attempted to develop techniques for the measurement and classification of a materials deformation but there is still confusion and contradiction present in this field. In this study we repot on report the effect of compaction pressure on the yield pressure of ibuprofen and its sodium salt. Ibuprofen and its sodium salt were selected as models for study due to the availability of comparative literature yield pressure values. The reported variation in yield pressure can be significant e.g, ibuprofen which has literature values of 21-1139 MPa. This study proposes an approach to determine yield pressure from the Heckel equation using a linear regression method. The full linear regression methodology utilised is described and is used to report the yield pressure of ibuprofen and its sodium salt dihydrate. This technique reveals the most representative compaction pressure in order to derive yield pressure to be 121 MPa. The yield pressure of ibuprofen and its sodium salt have been shown to increase with increasing compaction pressure. The reported values lie between 52-78 MPa for ibuprofen and 48-75 MPa for ibuprofen sodium dihydrate. The slightly lower reported yield pressure values for ibuprofen sodium suggest increased plasticity which could be attributed to the water contained within the structure acting as a plasticiser.",
+        "email": "J.Mitchell@Greenwich.ac.uk",
+        "conf": " Journal of Nanomedicine & Nanotechnology",
+        "coauthors": [
+            "Debbie Hooper",
+            "Fiona Catherine Clarke",
+            "John C Mitchell",
+            "Martin John Snowden"
+        ],
+        "keywords": "Heckel equation; Deformation; Yield pressure; Linear regression; True density"
+    },
+    {
+        "id": 3695,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Mechanistic aspects of oxygen transfer by gem-dialkylperoxonium ions",
+        "organization": "University of Greenwich",
+        "abstract": "",
+        "email": "",
+        "conf": "The Journal of Organic Chemistry",
+        "coauthors": [
+            "A. J. Bloodworth",
+            "T. Melvin",
+            "John C Mitchell"
+        ],
+        "keywords": "Hammett constant, Five membered ring, Electrophile, Organic hydroperoxide, Oxygen heterocycle, Oxonium compounds, Oxidation, Chemical properties, Sulfoxide, Selectivity, Oxygen transfer"
+    },
+    {
+        "id": 3677,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "A calorimetric bioassay of diterpenoids from Chilean medicinal plants against Streptococcus mutans",
+        "organization": "University of Greenwich",
+        "abstract": "The activities of three diterpenoids isolated from Chilean medicinal plants, kaurenoic, 18-acetoxy-cis-cleroda-3, 13-Z-dien-15-oic-acid-and salvic acid, have been quantitatively evaluated against Streptococous mutans by means of a microcalorimetric technique. Salvic acid exhibited a reasonable antibacterial activity, comparable with that of control iodine.",
+        "email": "",
+        "conf": "Boletin de la Sociedad Chilena de Quimica",
+        "coauthors": [
+            "Alejandro Moll Urza",
+            "Marcos Caroli Rezende",
+            "Anthony E Beezer",
+            "John C Mitchell"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3608,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Effect of Pressure on the Melting Point of Pluronics in Pressurized Carbon Dioxide",
+        "organization": "University of Greenwich",
+        "abstract": "",
+        "email": "",
+        "conf": "Industrial & Engineering Chemistry Research",
+        "coauthors": [
+            "Ruchir Bhomia",
+            "Vivek Trivedi",
+            "John C Mitchell",
+            "Nichola J Coleman",
+            "Martin John Snowden"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3661,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "UV-spectrophotometry study of membrane transport processes with a novel diffusion cell",
+        "organization": "University of Greenwich",
+        "abstract": "A novel diffusion cell has been constructed which allows study of membrane diffusion processes without the need for sampling of the receiver compartment, that is highly sensitive and, being based around a diode array spectrophotometer also allows for continuous, real-time recording of multi-species concentration changes in the receiving compartment. The system is controlled to operate isothermally (via a Peltier control system) at temperatures between 15 and 85 °C. To examine the performance of this novel design, the transfer of tetracaine from a preparation in PEG 400 (20% tetracaine in PEG 400) has been studied. The results have been used to determine flux, lag time and related parameters. The performance of the novel cell is compared with results from traditional Franz cell diffusion studies.",
+        "email": "",
+        "conf": "International Journal of Pharmaceutics",
+        "coauthors": [
+            "K.T.E. Kierstan",
+            "A E Beezer",
+            "John C Mitchell",
+            "J Hadgraft",
+            "S L Raghavan",
+            "A F Davis"
+        ],
+        "keywords": "Novel diffusion cell,Membrane transport,Tetracaine"
+    },
+    {
+        "id": 3707,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Bilayer induced diastereomeric kinetic differentiation",
+        "organization": "University of Greenwich",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of the American Chemical Society",
+        "coauthors": [
+            "Russell C. Petter",
+            "John C. Mitchell",
+            "William J. Brittain",
+            "Thomas J. McIntosh",
+            "Ned A. Porter"
+        ],
+        "keywords": "Benzene (chloro), compound amphipath, azo compound, Conformation constant speed, Layer bimolecular, Enantioselectivity, Hydrazine, Hydrogen cyanide, Lauric acid (6-oxo) methyl ester, Lipid, Pyrolysis, vesicle"
+    },
+    {
+        "id": 3653,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Mechanical characterisation of powders using nanoindentation",
+        "organization": "University of Greenwich",
+        "abstract": "Powder processes such as milling and compaction are, in part, dependent on the deformation and fracture properties of the material. Nanoindentation has emerged as a technique that enables the measurement of these properties from very small quantities of sample, including single crystals, thus allowing the possibility of predicting bulk powder behaviour from a few crystals. As a feasibility study, nanoindentation has been used to measure the mechanical properties of single crystals for five pharmaceutical materials, as prepared by commercial crystallisation processes. Young's modulus and hardness were determined by analysis of hysteresis curves. Fracture toughness was determined using an indentation fracture mechanics approach, similar to that applied to ceramics and semi-brittle materials.",
+        "email": "",
+        "conf": "Powder Technology",
+        "coauthors": [
+            "L. J Taylor",
+            "D. G Papadopoulos",
+            "P. J Dunn",
+            "A C Bentham",
+            "John C Mitchell",
+            "Martin John Snowden"
+        ],
+        "keywords": "Fracture toughness,Nanoindentation,Pharmaceutical"
+    },
+    {
+        "id": 3692,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Scanning calorimetric studies of poly(ethylene oxide)/poly(propylene oxide)/poly(ethylene oxide) triblock copolymers(poloxamers) and poly(propylene oxide) in dilute aqueous solution",
+        "organization": "University of Greenwich",
+        "abstract": "",
+        "email": "",
+        "conf": "Tetrahedron letters",
+        "coauthors": [
+            "Jonathan K Armstrong",
+            "Stephen A Leharne",
+            "John C Mitchell",
+            "Babur Chowdhry"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3690,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Taylor-Aris Diffusion Studies of Solute-Polymer Interactions. 1. Alkyl p-Hydroxybenzoates with an ABA Block Copolymer (Poloxamer P407) in Aqueous Solution",
+        "organization": "University of Greenwich",
+        "abstract": "This paper describes the application of the Taylor-Aris dispersion technique to the study of the diffusion of an homologous series of alkyl p-hydroxybenzoates in aqueous solutions of an ABA block copolymer, Poloxamer P407. The fraction of polymer incorporated solute was calculated after correction of the diffusion coefficients for polymer obstructional effects. These fractions increase along the homologous series allowing the use of a group contribution approach to evaluate the increment in the Gibbs function per methylene group for the incorporation process. The value obtained, -1.9 kJ mol(-1), reveals that the solubilization sites provided by the polymer aggregates are similar to those reported for micelles of low molar mass surfactants. The nature of the possible interactions between these solutes and the polymer micelles is also discussed.",
+        "email": "",
+        "conf": "Langmuir",
+        "coauthors": [
+            "Watson Loh",
+            "Anthony E. Beezer",
+            "John C Mitchell"
+        ],
+        "keywords": "THERMODYNAMIC PARAMETERS;SELF-DIFFUSION;COEFFICIENTS;SYSTEMS;WATER;25-DEGREES-C;MICELLES;CULTURE;GELS "
+    },
+    {
+        "id": 3619,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Taste masking of paracetamol by hot-melt extrusion: An in vitro and in vivo evaluation",
+        "organization": "University of Greenwich",
+        "abstract": "The purpose of this study was the in vitro and in vivo evaluation of the masking efficiency of hot melt extruded paracetamol (PMOL) formulations. Extruded granules containing high PMOL loadings in Eudragit EPO® (EPO) or Kollidon® VA64 (VA64) were prepared by hot-melt extrusion (HME). The taste masking effect of the processed formulation was evaluated in vivo by a panel of six healthy human volunteers. In addition, in vitro evaluation was carried out by an Astree e-tongue equipped with seven sensors. Taste sensing technology demonstrated taste improvement for both polymers by correlating the data obtained for the placebo polymers and the pure APIs alone. The best masking effect was observed for VA64 at 30% PMOL loading. The e-tongue results were in good agreement with the in vivo evaluation. In vitro dissolution of the extruded granules showed rapid PMOL releases.",
+        "email": "",
+        "conf": "European journal of pharmaceutics and biopharmaceutics: official journal of Arbeitsgemeinschaft fur Pharmazeutische Verfahrenstechnik e.V",
+        "coauthors": [
+            "Mohammed Maniruzzaman",
+            "Joshua Boateng",
+            "Marion Bonnefille",
+            "Attila Aranyos",
+            "John C Mitchell",
+            "Dennis Douroumis"
+        ],
+        "keywords": "Hot-melt extrusion,Taste masking,Electronic tongue,Solubility parameter"
+    },
+    {
+        "id": 3629,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "The implementation of FT-Raman spectroscopy to study solid state moisture induced changes in the crystallographic nature of pharmaceutical excipients - a lesson in humidity",
+        "organization": "University of Greenwich",
+        "abstract": "An aqueous solution of sucrose was lyophilised, producing amorphous sucrose. This wasthen stored under different humidity at 25ºC for 1 week, allowing some samples tocrystallise. FT-Raman spectroscopy and PXRD have been successfully shown toqualitatively distinguish between amorphous and crystalline samples of sucrose. The datafrom the two techniques is complementary.",
+        "email": "",
+        "conf": "Journal of Pharmacy and Pharmacology",
+        "coauthors": [
+            "P. J. Major",
+            "Victoria Cornelius",
+            "John C Mitchell",
+            "J. Murphy"
+        ],
+        "keywords": "FT-Raman, PXRD, sucrose, humidity, amorphous, crystalline"
+    },
+    {
+        "id": 3676,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Thermodynamic and kinetic parameters from isothermal heat conduction microcalorimetry",
+        "organization": "University of Greenwich",
+        "abstract": "Recent developments have led to a general procedure that allows the analysis of microcalorimetric data to determine both kinetic and thermodynamic parameters. This makes microcalorimetry a technique with a potential for the accurate prediction of long-term stability, and excipient compatibility, of pharmaceutical compounds. The data presented here show the uses and limitations of this general method when applied to simple solution phase reactions, that are fast to medium term in duration, and suggest how the method may be extended to more complex heterogeneous systems that reflect cases which may be encountered industrially.",
+        "email": "",
+        "conf": "Pure and Applied Chemistry",
+        "coauthors": [
+            "Anthony E Beezer",
+            "Richard J Willson",
+            "John C Mitchell",
+            "Andrew K Hills",
+            "Simon Gaisford",
+            "Eleanor Wood",
+            "Joseph A Connor"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3650,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Effects of chirality on the salt formation of histidine",
+        "organization": "University of Greenwich",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of Pharmacy and Pharmacology",
+        "coauthors": [
+            "M. N. Johnson",
+            "N. Feeder",
+            "Martin John Snowden",
+            "John C Mitchell"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3660,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Sources of error and their correction in the analysis of isothermal heat conduction microcalorimetric data: Applications of a newly developed test reaction",
+        "organization": "University of Greenwich",
+        "abstract": "A recent investigation of a test reaction for isothermal heat conduction microcalorimeters, used for the determination of thermodynamic and kinetic parameters, resulted in the following recommended values for the imidazole-catalysed hydrolysis of triacetin at 298 K: the reaction rate constant, k=(2.80±0.1)×10−6 dm3 mol−1 s−1, and the reaction enthalpy change, ΔRH=−91.7±3.0 kJ mol−1. Knowledge of these values allows the performance of a microcalorimeter to be evaluated. Thus, it may be possible to correct data for those cases in which there is mis-assignment of the true instrument baseline zero, of the upper calibration setting and of a drift in the instrument baseline. This paper describes the expected data output and its analysis in these cases. For these instances, it is possible to identify the error source and to manipulate subsequent data to produce “corrected” results. The procedures are illustrated through the use of data simulated as output.",
+        "email": "",
+        "conf": "Thermochimica Acta",
+        "coauthors": [
+            "Andrew K. Hills",
+            "Anthony E. Beezer",
+            "John C Mitchell",
+            "Joseph A. Connor"
+        ],
+        "keywords": "Microcalorimetry,Test reaction,Error sources,Data correction"
+    },
+    {
+        "id": 3611,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Surfactant and temperature effects on paraben transport through silicone membranes",
+        "organization": "University of Greenwich",
+        "abstract": "This study investigates the effects of two surfactants (one anionic and one non-ionic) and controlled modifications in temperature (298–323 K) on the permeation of two structurally similar compounds through a silicone membrane using a Franz diffusion cell system. In all cases the presence of an anionic surfactant, namely sodium dodecyl sulphate (SDS), reduced the permeation of both compounds (methylparaben and ethylparaben) over a period of 24 h. The degree of permeation reduction was proportional to the concentration of surfactant with a maximum effect observed, with an average reduction of approximately 50%, at the highest surfactant concentration of 20 mM. Differences were seen around the critical micelle concentration (CMC) of SDS implying the effect was partially connected with the favoured formation of micelles. In contrast, the presence of non-ionic surfactant (Brij 35) had no effect on the permeation of methylparaben or ethylparaben at any of the concentrations investigated, both above and below the CMC of the surfactant. From these findings the authors conclude that the specific effects of SDS are a consequence of ionic surfactant–silicone interactions retarding the movement of paraben through the membrane through indirect modifications to the surface of the membrane. As expected, an increase in experimental temperature appeared to enhance the permeation of both model compounds, a finding that is in agreement with previously reported data. Interestingly, in the majority of cases this effect was optimum at the second highest temperature studied (45 °C) which suggests that permeation is a temperature-dependent phenomenon.",
+        "email": "",
+        "conf": "Colloids and surfaces B: Biointerfaces",
+        "coauthors": [
+            "Laura J Waters",
+            "Laura Dennis",
+            "Aisha Bibi",
+            "John C Mitchell"
+        ],
+        "keywords": "Silicone membranes,Surfactant,Temperature,Paraben,Skin permeability,In vitro"
+    },
+    {
+        "id": 3630,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "The use of colloidal microgels for the controlled delivery of proteins and peptides",
+        "organization": "University of Greenwich",
+        "abstract": "Colloidal microgels may be used for the absorption and controlled release of confirmationally sensitive molecules such as proteins and peptides. These monodisperse microgels are easily prepared in a single pot reaction from e.g. Nisopropylacrylamide, butyl acrylate and methacrylic acid in the presence of a cross-linking agent and a suitable free radical initiator. The resultant materials display dramatic conformational changes in aqueous dispersion in response to changes in e.g. environmental pH. Colloidal microgels are capable of absorbing a range of different proteins and peptides at one pH, affording them protection by changing the conformation of the microgel following a pH change. A further change in environmental pH will allow the microgel to adopt a more extended confirmation and therefore allow the release of the encapsulated material. In the case of e.g. insulin this would offer the possibility of an oral delivery route. At the pH of stomach the microgel adopts a compact conformation, \"protecting\" the protein from denaturation. As the pH increases passing into the GI tract, the microgel changes its conformation to a more expanded form and thereby allows the protein to be released. Colloidal microgels offer an opportunity for the controlled release of conformationally sensitive protein and peptide molecules via an oral route.",
+        "email": "",
+        "conf": "Proceedings of SPIE - The International Society for Optical Engineering",
+        "coauthors": [
+            "Victoria Cornelius",
+            "Martin John Snowden",
+            "John C Mitchell"
+        ],
+        "keywords": "colloidal microgels, absorption, dispersion, molecules, mouth, stomach"
+    },
+    {
+        "id": 3711,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "INTERROGATION OF POLY (N-ISOPROPYLACRYLAMIDE-BISACRYLAMIDE) MICROGEL NANOPARTICLES BY RAMAN SPECTROSCOPY",
+        "organization": "University of Greenwich",
+        "abstract": "Uniquely, Raman spectroscopy has been used to investigate the volume phase transition of microgels as well as structural differences between colloidal and freeze dried microgels. Microgels-sometimes referred to as “intelligent” (capable of reacting to a wide range of environmental stimuli) materials-are intra-molecularly cross-linked supramolecular polymeric colloidal dispersions [1]. Because of their porous ‘sponge-like’ open-network structure they can undergo reversible de-swelling/swelling (i.e. a volume phase transition; VPT) either isothermally (e.g. as a function of pH) and/or as a function of temperature [2]. Raman spectroscopy has been used, herein, for the first time, to investigate both the VPT properties and the structural differences between an aqueous colloidal dispersion and freeze- dried poly (N-isopropylacrylamide/ N, N'-methylenebisacrylamide) [poly(NIPAM/BA)] microgel samples. Anionic [poly(NIPAM/BA)] microgels (10 wt% cross-linker density) with terminal -SO3-groups were synthesized (by surfactant-free emulsion polymerization) and purified as described previously [3].",
+        "email": "",
+        "conf": "Science Access",
+        "coauthors": [
+            "John P. Ryall",
+            "Robert Withnall",
+            "John C Mitchell",
+            "Martin John Snowden",
+            "Babur Z Chowdhry"
+        ],
+        "keywords": "microgel, colloid, nanoparticle, volume phase transition, polymer conformation, Raman scattering "
+    },
+    {
+        "id": 3622,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Semi-quantitative analysis of the monomer composition in co-polymer microgels using solid state Raman and NMR spectroscopy",
+        "organization": "University of Greenwich",
+        "abstract": "A series of colloidal microgels have been prepared by surfactant-free emulsion polymerisation (SFEP) based on the N-isopropylacrylamide (NIPAM) monomer. 4-Vinylpyridine (4-VP) and butylacrylate (BuA) have been used as co-monomers. Co-polymer poly(NIPAM/4-VP) and poly(NIPAM/BuA) have been prepared with various monomer ratios, ranging from pure poly(NIPAM) to pure poly(BuA)/poly(4-VP). Freeze-dried samples of the microgels have been analysed by solid state (ss) Raman and NMR (Nuclear Magnetic Resonance) spectroscopy to investigate the monomer composition in the co-polymer microgels. Spectral data have been analysed graphically and also statistically. Spectroscopic measurements have shown that co-polymerization has occurred. The graphical and statistical analysis of the spectroscopic data for both co-polymer microgels, enables the semi-quantitative measurement of the percentage incorporation of co-monomers (4-VP/BuA) in the co-polymer microgels. A good correlation exists between the Raman and NMR results, however, Raman spectroscopy is much less time consuming (Raman spectral acquisition time is less than 10 minutes) and the measurements are easy to make and very small quantities (less than 1 mg) of the sample are required. This compares with the experimental measurements of ∼72 hours and 100–200 mg of sample that are required for the NMR experiments.",
+        "email": "",
+        "conf": "The Analyst",
+        "coauthors": [
+            "Hasiken Nur",
+            "Victoria Cornelius",
+            "L S Bene",
+            "John C Mitchell",
+            "I J Day",
+            "Martin John Snowden"
+        ],
+        "keywords": "Surfactant, Quantitative analysis, Statistical analysis, Spectral data, Solid state, Polymer, Polymerization, NMR, spectrometry, Raman spectrometry"
+    },
+    {
+        "id": 3668,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Thermodynamic and kinetic analysis of isothermal microcalorimetric data: Applications to consecutive reaction schemes",
+        "organization": "University of Greenwich",
+        "abstract": "Recent developments have led to a general procedure that allows the analysis of isothermal microcalorimetric data to determine both kinetic and thermodynamic information. Such an analysis means that isothermal microcalorimetry is a powerful technique with which to gain information on a wide range of reactions. Previously, the method of analysis has, principally, been applied to simple, two-state, solution phase reactions. It is the purpose of the data presented here to show how such an analysis may be applied to solution phase reactions that follow more complex, consecutive reaction pathways using, as a model and example, the acid catalyzed hydrolysis of potassium hydroxylamine trisulfonate.",
+        "email": "",
+        "conf": "Thermochimica Acta",
+        "coauthors": [
+            "Simon Gaisford",
+            "Andrew K Hills",
+            "Anthony E Beezer",
+            "John C Mitchell"
+        ],
+        "keywords": "Microcalorimetric data,Solution phase reactions,Thermodynamic analysis"
+    },
+    {
+        "id": 3700,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Oxygen transfer by dialkylperoxonium ions",
+        "organization": "University of Greenwich",
+        "abstract": "",
+        "email": "",
+        "conf": "The Journal of Organic Chemistry",
+        "coauthors": [
+            "A. J. Bloodworth",
+            "T. Melvin",
+            "John C Mitchell"
+        ],
+        "keywords": "Silver I Tetrafluoborates, Bicyclic compound, Tricyclic compound, Hydrogen Peroxides, Oxygen heterocycle, Oxygen transfer"
+    },
+    {
+        "id": 3710,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "RAMAN SPECTROSCOPIC STUDIES OF CHEMICALLY MODIFIED PULLULANS",
+        "organization": "University of Greenwich",
+        "abstract": "Experimental Raman spectra have been obtained for pullulan, carboxymethyl-pullulan, acetylated-pullulan as well as pullulan coupled to alkyl amines of various chain lengths. In the studies reported herein pullulan has been structurally modified by chemical incorporation of various functional moieties and analysed by Raman spectroscopy. One reason for conducting such an investigation is to compare and contrast the usefulness of Raman compared to NMR [2] techniques for the analysis of the structural composition of the derivatized pullulans. Raman spectroscopy has proved to be particularly useful in identifying different chemical functionalities and assessing the degree of polymer modification. ",
+        "email": "",
+        "conf": "Science Access",
+        "coauthors": [
+            "G. H. Gibson",
+            "J. P. Ryall",
+            "Martin John Snowden",
+            "John C Mitchell",
+            "R Withnall",
+            "Babur Chowdhry"
+        ],
+        "keywords": "Raman scattering, chemical derivatization, pullulans, analysis"
+    },
+    {
+        "id": 3705,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Evidence for the existence of peroxonium intermediates",
+        "organization": "University of Greenwich",
+        "abstract": "Low temperature 1H and 2H nmr are consistent with the presence of peroxonium intermediates in the intramolecular alkylation of two different bromoperoxides. In one case decomposition of this peroxonium intermediates results in unusual heterolytic oxygen—oxygen bond cleavage and methyl migration.",
+        "email": "",
+        "conf": "Tetrahedron Letters",
+        "coauthors": [
+            "John C Mitchell",
+            "Simon Heaton",
+            "Ned A. Porter"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3610,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Study of the Effect of Pressure on Melting Behavior of Saturated Fatty Acids in Liquid or Supercritical Carbon Dioxide",
+        "organization": "University of Greenwich",
+        "abstract": "The melting point depression of saturated fatty acids (C12–C18) was investigated in liquid or supercritical carbon dioxide. The pressure and temperature melting point ranges were determined for each excipient in liquid or supercritical CO2. Additionally, the effect of pressure on the melting point of fatty acids was also more closely studied in the (7.0 to 50.0) MPa range. Untreated and CO2-treated samples were analyzed by differential scanning calorimetry (DSC) and X-ray diffraction (XRD). A melting point depression in the range (10.8 to 19.5) K was observed for the fatty acids studied in this work. The melting behavior of fatty acids in CO2 was found to be dependent on pressure and carbon chain length. Melting temperature curves for each of the fatty acids in CO2 exhibited a minimum as a function of pressure. Analysis by DSC and XRD indicated that CO2 treatment had no impact on the morphological or crystallographic properties of these excipients under the selected experimental conditions.",
+        "email": "",
+        "conf": "Journal of Chemical & Engineering Data",
+        "coauthors": [
+            "Vivek Trivedi",
+            "Ruchir Bhomia",
+            "John C Mitchell",
+            "Nichola J Coleman",
+            "Dennis Douroumis",
+            "Martin John Snowden"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3645,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Thermodynamic Considerations of Microgel Swelling Behavior",
+        "organization": "University of Greenwich",
+        "abstract": "A simple but novel thermodynamic model is presented, based upon van't Hoff analysis, for the reversible swelling behavior of colloidal microgels. The swelling, as a function of temperature, of poly(N-isopropylacrylamide/N,N‘-methylenebisacrylamide) as well as poly(N-isopropylacrylamide/vinylpyridine/N,N‘-methylenebisacrylamide) and poly(N-isopropylacrylamide/acrylic acid/N,N‘-methylenebisacrylamide) microgel dispersions in H2O and D2O has been studied by photon correlation spectroscopy (PCS). PCS data was used to obtain the hydrodynamic diameter and hence the volume of the microgels (before and after reconstitution following freeze-drying) as a function of temperature. The choice of standard reference states, for analyzing the data attained, is discussed, and the one selected is that of the volume of the microgels at 333 K in H2O. For all microgels examined the volume, at this temperature, is shown to be independent of solvent (H2O, D2O). The derived data has allowed the exploration of a novel thermodynamic approach to the study of the swelling behavior of the microgels. The constant volume, at 333 K, for each of the polymer systems constituting the microgels is suggested to be an intrinsic property of the polymers themselves.",
+        "email": "",
+        "conf": "Langmuir",
+        "coauthors": [
+            "V T Pinkrah",
+            "AE Beezer",
+            "Babur Chowdhry",
+            "L H Gracia",
+            "John C Mitchell",
+            "Martin John Snowden"
+        ],
+        "keywords": "Absorption,Thermodynamics,Gels,Solvents,Polymers"
+    },
+    {
+        "id": 3680,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Solid state reactions studied by isothermal microcalorimetry; The solid state oxidation of ascorbic acid",
+        "organization": "University of Greenwich",
+        "abstract": "This paper reports a new method for the analysis of isothermal calorimetric data, for reactions in the solid state. As an illustration for this method of analysis, the solid state oxidation of L-ascorbic acid (vitamin C) has been studied. The investigation considers the role that water plays in the solid state oxidation of ascorbic acid and hence poses questions of the generality of water in solid state reactions. Isothermal heat conduction microcalorimetry (e.g., TAM, Thermometric, Sweden) has, for some time, been proposed as a general and rapid analytical technique that allows the calculation of the kinetic and thermodynamic parameters of chemical reactions. A new method for the determination of the kinetic and thermodynamic parameters from calorimetric data allows the quantitative study of reactions without preconceptions of the reaction mechanism and quantities of material reacting. This allows the quantitative study of reactions, especially reactions in the solid state, which, because of the inherently complex nature of reaction, are very difficult to analyse by any other means. From the analysis of the calorimetric data for the solid state oxidation of ascorbic acid at 298.15 K, we have determined that the reaction has a change in enthalpy of −195 ±10 kJ mol−1 with an associated rate constant of 4.1 × 10−6 s−1. The study was carried out as a function of the quantity of water, between dry (i.e. under ambient conditions) to 200μl, added to 0.5 g ascorbic acid. The dry sample of ascorbic acid was used directly from the container, no special attention was paid to prevent atmospheric moisture entering the sample before loading the sample. Between these water quantities the kinetic and thermodynamic parameters remained the same, indicating that the reaction mechanism was unchanging throughout the range studied.",
+        "email": "",
+        "conf": "International Journal of Pharmaceutics",
+        "coauthors": [
+            "Richard J Willson",
+            "Anthony E. Beezer",
+            "John C Mitchell"
+        ],
+        "keywords": "Microcalorimetry,Solid state reaction,Ascorbic acid,Kinetics"
+    },
+    {
+        "id": 3657,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Dendrimers as Potential Drug Carriers; Encapsulation of Acidic Hydrophobes within Water Soluble PAMAM Derivatives.",
+        "organization": "University of Greenwich",
+        "abstract": "This paper describes the synthesis of three neutral water soluble poly(amidoamine) (PAMAM) dendrimer derivatives. The ability of the two larger dendrimers to bind small acidic hydrophobic molecules is reported. Spectroscopic data and pH behaviour suggested that the acidic hydrophobes were forming stable ion pairs with the dendrimer's internal, basic tertiary nitrogens. With respect to forming 1:1 and 2:1 substrate/dendrimer complexes, both of the larger dendrimers were equally efficient at binding. All dendrimer/substrate complexes were completely miscible with water in all proportions (i.e. infinitely water soluble). When the bound substrates are drug moieties, then the resulting complexes could be considered as potential drug delivery systems. Flow calorimetry demonstrated that the dendrimers were able to release their hydrophobic guests when in contact with a biological cell.",
+        "email": "",
+        "conf": "Tetrahedron",
+        "coauthors": [
+            "A. E Beezer",
+            "A. S. H King",
+            "I. K Martin",
+            "John C Mitchel",
+            "L J Twyman",
+            "C. F Wain"
+        ],
+        "keywords": "dendrimers,PAMAM,drug delivery,static micelles"
+    },
+    {
+        "id": 3655,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Improving Quantitative Measurements for the Evaporative Light Scattering Detector",
+        "organization": "University of Greenwich",
+        "abstract": "A study was undertaken to evaluate a generic calibration routine for the evaporative light scattering detector (ELSD). The calibration routine was designed for use with gradient HPLC-ELSD in order to adjust for the effects of the non-linear response curve and the variation in response with mobile phase composition. A single calibrant was employed with an automated injection protocol to enable rapid capture of the calibration information. The study assessed the validity of the calibration method and the suitability of the calibrant for the quantitation and purity estimation of a series of structurally unrelated compounds. The calibration routine was demonstrated to improve the quality of quantitative estimates and purity estimates given by the gradient HPLC-ELSD. The average error in quantitation for the series of materials was 8.3%.",
+        "email": "",
+        "conf": "Chromatographia",
+        "coauthors": [
+            "B. T. Mathews",
+            "P. D. Higginson",
+            "R. Lyons",
+            "John C Mitchell",
+            "N W Sach",
+            "M J Snowden",
+            "M R Taylor",
+            "A G Wright"
+        ],
+        "keywords": "evaporative light-scattering detector, ELSD, column liquid chromatography, detector calibration"
+    },
+    {
+        "id": 3627,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Determination of micelle/water partition coefficients and associated thermodynamic data for dialkyl phthalate esters",
+        "organization": "University of Greenwich",
+        "abstract": "Micelle/water partition coefficients for three dialkyl phthalate esters — dimethyl phthalate ester (DMP), diethyl phthalate ester (DEP) and dipropyl phthalate ester (DPP) were obtained by micellar liquid chromatography (MLC). Experiments were conducted over a temperature range which led to calculation of a Gibbs free energy, enthalpy and entropy of transfer for the phthalate esters. In addition, small angle neutron scattering (SANS) experiments were conducted with no substantial change observed in micelle size before and after phthalate ester incorporation. Overall, a novel method for obtaining thermodynamic information, based on partitioning data, has been developed for dialkyl phthalate esters using micellar liquid chromatography.",
+        "email": "",
+        "conf": "Journal of Thermal Analysis and Calorimetry",
+        "coauthors": [
+            "Laura J. Waters",
+            "Stephen A Leharne",
+            "John C Mitchell",
+            "John Paul Hanrahan"
+        ],
+        "keywords": "micellar liquid chromatography (MLC), micelle size, partitioning, phthalate esters, thermodynamics"
+    },
+    {
+        "id": 3613,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "In vitro characterisation of chitosan based xerogels for potential buccal delivery of proteins",
+        "organization": "University of Greenwich",
+        "abstract": "Chitosan and thiolated-chitosan based xerogels have been prepared by lyophilising aqueous gels of the polymers incorporating glycerol, d-mannitol and BSA with an annealing process. Analytical characterisation was by circular dichroism, infrared spectroscopy, X-ray diffraction and scanning electron microscopy. Swelling capacities of 1110 ± 23.3% and 480 ± 18.2% were obtained for the chitosan and TG-chitosan xerogels respectively. Thiolation caused improved in vitro mucoadhesive properties by demonstrating peak adhesive force of 4.5 ± 0.7 and 5.8 ± 0.2 N, and total work of adhesion of 6.5 ± 1.0 and 19 ± 0.8 mJ for chitosan and thiolated-chitosan xerogels respectively. In vitro drug dissolution studies using Bradford's assay showed BSA release of 91.5 ± 3.7% and 94.4 ± 7.3% from the chitosan and thiolated-chitosan xerogels respectively. These results demonstrate the potential of developing lyophilised thiolated-chitosan xerogels with optimised mucoadhesion characteristics for buccal mucosa delivery of protein based drugs.",
+        "email": "",
+        "conf": "Carbohydrate Polymers",
+        "coauthors": [
+            "Isaac Ayensu",
+            "John C Mitchell",
+            "Joshua Boateng"
+        ],
+        "keywords": "Thiolated-chitosan,Lyophilisation,Mucoadhesion,Buccal delivery,Protein"
+    },
+    {
+        "id": 3626,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Investigation of the Potential of the Dissolution Dynamic Nuclear Polarization Method for General Sensitivity Enhancement in Small-Molecule NMR Spectroscopy",
+        "organization": "University of Greenwich",
+        "abstract": "We report results of applying a commercial implementation of the dissolution dynamic nuclear polarization (DNP) methodology developed by K. G. Golman et al. to a range of molecular species in the mass range of 100–400 Da. The molecules are typical of those that might be encountered in natural product chemistry or pharmaceutical analysis. Using an experimental protocol previously reported, in combination with the ERETIC method for generating a reference signal for estimation of concentrations, we determine the signal enhancement and high-field, liquid-state T 1 values for many of the carbon atoms in the six species studied. The results presented in this work suggest that the measured variation in nuclear magnetic resonance enhancements within a given molecule, arising from the dissolution DNP method, is accounted for principally by relaxation of 13C atoms towards thermal polarization values in the liquid state. We conclude that dissolution DNP will be able to be employed for a wide range of chemical species, provided that the total time taken for dissolution and transfer of solutions is comparable to, or shorter than, the high-field, liquid-state T 1 values in the species being studied.",
+        "email": "",
+        "conf": "Applied Magnetic Resonance",
+        "coauthors": [
+            "Iain Day",
+            "John C Mitchell",
+            "Martin John Snowden",
+            "Adrian Davis"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3625,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Practical solvent system selection for counter-current separation of pharmaceutical compounds",
+        "organization": "University of Greenwich",
+        "abstract": "Counter-current chromatography (CCC) is a technique that shows a lot of potential for large scale purification. Its usefulness in a “research and development” pharmaceutical environment has been investigated, and the conclusions are shown in this article. The use of CCC requires the development of an appropriate solvent system (a parameter of critical importance), a process which can be tedious. This article presents a novel strategy, combining a statistical approach and fast HPLC to generate a three-dimensional partition coefficient map and rapidly predict an optimal solvent system. This screen is performed in half a day and involves 9 experiments per solvent mixture. Test separations were performed using that screen to ensure the validity of the method.",
+        "email": "",
+        "conf": "Journal of Chromatography A",
+        "coauthors": [
+            "Stphane Dubant",
+            "Ben Mathews",
+            "Paul Higginson",
+            "Robert Crook",
+            "Martin Snowden",
+            "John C Mitchell"
+        ],
+        "keywords": "Counter-current chromatography,Solvent system selection,Pharmaceutical,Statistical approach"
+    },
+    {
+        "id": 3687,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Scanning Microcalorimetric Investigations of Phase Transitions in Dilute Aqueous Solutions of Poly(oxypropylene)",
+        "organization": "University of Greenwich",
+        "abstract": "High-sensitivity differential scanning calorimetry (HSDSC) has been used to investigate, in detail, phase transitions in dilute aqueous solutions of poly(oxypropylene), POP. The calorimetric traces are distinctly asymmetric, which suggests an aggregation process though the reported contemporaneous appearance of clouding indicates that phase separation is occurring. Two equilibrium schemes are proposed to account for the HSDSC output: monomer reversible arrow aggregate reversible arrow separate phase or monomer reversible arrow; separate phase. The first proposes that aggregation is a precursor to phase separation. The second ignores this possibility. Model simulations of the HSDSC output of both phase separation and aggregation have been performed and compared with systems which are believed to either aggregate or phase separate. The data appear to be more suitably described by the scheme which has aggregation as a midway step. Model fitting to the aggregation model of the apparent excess heat capacity-temperature function has allowed evaluation of the van't Hoff enthalpy. The effects of molecular mass, concentration, and scan rate on the characteristic thermodynamic parameters of the POP transitions have been evaluated. In addition the results have been compared with thermodynamic parameters obtained from a study of aqueous solutions of two poly(oxyethylene)-poly(oxypropylene) -poly(oxyethylene) (pluronic) block copolymers in order to investigate the effect of poly(oxyethylene) on the phase transitions. HSDSC model fitting suggests that the aggregation process involves several molecular clusters. The number of clusters and indeed the number of molecular chains comprising a cluster are dependent upon the molecular weight of the poly(oxypropylene) and, for the pluronics, on the presence of poly(oxyethylene) blocks. These numbers however appear to be relatively insensitive to changes in concentration. Finally an enthalpy-entropy compensation plot indicates that the underlying solute-solute and solute-solvent interactions which give rise to the phase transitions are the same regardless of sample.",
+        "email": "",
+        "conf": "The Journal of Physical Chemistry",
+        "coauthors": [
+            "Jonathan Armstrong",
+            "Babur Chowdhry",
+            "Ronan O'Brien",
+            "Anthony Beezer",
+            "John Mitchell",
+            "Stephen Leharne"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3667,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Evaluation of novel dendrimer chiral stationary phases using HPLC",
+        "organization": "University of Greenwich",
+        "abstract": "The reversed phase chromatographic properties of the [G1]-L-glutamic and ethyl ester-AC-silica (1), [G2]-L-glutamic acid ethyl ester-AC-silica (2) and the [G1]-L-glutamic acidt-butyl ester-AC-silica (3) dendrimer stationary phases were evaluated. Initial studies involved the comparison between these phases with a classic reversed phase (i.e. ODS1) by the separation of a standard reversed phase test mixture composed of dimethylphthalate, nitrobenzene, anisole, diphenylamine and fluorene. Separations were achieved with comparable performance to those obtained with the conventional reversed phase (ODS1). However, it was apparent that the chromatographic selectivity exhibited by the dendrimer stationary phases was different from that of the ODS1 phase. On a per mole basis, the dendrimers exhibited similar (and sometimes greater) affinity for these analytes compared with the ODS1 ligand. Subsequent chromatographic experiments were conducted upon the dendrimer chiral stationary phases using chiral analytes under reversed phase and normal phase conditions. Chiral resolution was not observed.",
+        "email": "",
+        "conf": "Chromatographia",
+        "coauthors": [
+            "B. T. Mathews",
+            "A. E. Beezer",
+            "Martin John Snowden",
+            "M J Hardy",
+            "John C Mitchell"
+        ],
+        "keywords": "HPLC chromatography, Reversed phase chromatography, Derivatization, Ultraviolet detector, Performance evaluation, Fluorene, Glutamic acid derivative polymer, Chiral stationary, phase, Branched polymer, Dendritic structure, α-Aminoacid"
+    },
+    {
+        "id": 3656,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Analysis of challenging pharmaceutical samples using chemical and elemental images",
+        "organization": "University of Greenwich",
+        "abstract": "Chemical images obtained using vibrational spectroscopic techniques have emerged as rapid, non invasive means to access the quality of a phramaceutical formulation. A hyperspectral datacube, containing several thousand spatially resolved spectra, is acquired by combining vibrational spectroscopy with digital imaging or by rastering point measurements across a sample. This enables the spatial distribution and interaction of chemical components within the sampled area to be determined. This paper will discuss the use of vibrational spectroscopic methods in the analysis of challenging pharmaceutical samples.",
+        "email": "",
+        "conf": "Microscopy and Microanalysis",
+        "coauthors": [
+            "Rachel H. Brody",
+            "Katharine T.E. Kierstan",
+            "Donald A. Clark",
+            "John C Mitchell",
+            "Martin John Snowden"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3688,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Microcalorimetry in the screening of discovery compounds and in the investigation of novel drug delivery systems",
+        "organization": "University of Greenwich",
+        "abstract": "Calorimetry has for some time been proposed as a rapid method for determination of bioactivity. This paper describes the background to this application and describes how it has been extended to the study of bioassay techniques via microcalorimetry in the development of structure activity relationships (SARs). That SARs can be developed indicates that it is possible to guide drug synthetic strategy through the results of microcalorimetric investigations, and this approach is explored here. In an extension of this approach it is argued that microcalorimetry is well suited to the examination of novel drug delivery systems, allowing investigation of the capacity of drug delivery molecules to release the drug in the presence of a target organism.",
+        "email": "",
+        "conf": "Thermochimica Acta",
+        "coauthors": [
+            "Anthony E. Beezer",
+            "John C Mitchell",
+            "Rachel M. Colegate",
+            "David J Scally",
+            "Lance J Twyman",
+            "Richard J Willson"
+        ],
+        "keywords": "Bioassay,Dendrimer,Drug delivery,Microcalorimetry"
+    },
+    {
+        "id": 3644,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Identification of New Catalysts to Promote Imidazolide Couplings and Optimisation of Reaction Conditions Using Kinetic Modelling",
+        "organization": "University of Greenwich",
+        "abstract": "Three catalysts were used to promote an imidazolide coupling. These catalysts were 2-hydroxypyridine (HOPy), endo-N-hydroxy-5-norbornene-2,3-dicarboximide (HONB) (both reported for the first time to catalyse this type of reaction), and 1-hydroxybenzotriazole (HOBt). The thermal safety, cost, and catalytic effectiveness of these three catalysts are compared. In addition, kinetic modelling using the Dynochem software was used to optimise the HOBt- and HOPy-catalysed reactions. By use of this simulation method, the optimal reaction conditions, such as catalyst quantity, reaction time, and reaction temperature were predicted. Subsequent experiments confirmed that the predictions were accurate.",
+        "email": "",
+        "conf": "Organic Process Research & Development",
+        "coauthors": [
+            "Robert Bright",
+            "David J. Dale",
+            "Peter J. Dunn",
+            "Farhat Hussain",
+            "Ying Kang",
+            "Clive Mason",
+            "John C. Mitchell",
+            "Martin J. Snowden"
+        ],
+        "keywords": "Catalysts,Amides,Organic compounds,Ethyl groups,Kinetic modeling"
+    },
+    {
+        "id": 3706,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Intramolecular alkylation of peroxides and hydroperoxides; peroxide transfer via peroxonium intermediates",
+        "organization": "University of Greenwich",
+        "abstract": "A series of homologous peroxy-bromides is reacted with silver ion in organic solvents. Cyclic peroxide formation occurs along with peroxide transfer to the carbon originally bearing bromine. A preference for five-membered ring peroxonium ion formation is observed in these intramolecular alkylations.",
+        "email": "",
+        "conf": "Tetrahedron Letters",
+        "coauthors": [
+            "Ned A. Porter",
+            "John C Mitchell"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3623,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Local examination of skin diffusion using FTIR spectroscopic imaging and multivariate target factor analysis",
+        "organization": "University of Greenwich",
+        "abstract": "In the context of trans-dermal drug delivery it is very important to have mechanistic insight into the barrier function of the skin's stratum corneum and the diffusion mechanisms of topically applied drugs. Currently spectroscopic imaging techniques are evolving which enable a spatial examination of various types of samples in a dynamic way. ATR-FTIR imaging opens up the possibility to monitor spatial diffusion profiles across the stratum corneum of a skin sample. Multivariate data analyses methods based on factor analysis are able to provide insight into the large amount of spectroscopically complex and highly overlapping signals generated. Multivariate target factor analysis was used for spectral resolution and local diffusion profiles with time through stratum corneum. A model drug, 4-cyanophenol in polyethylene glycol 600 and water was studied. Results indicate that the average diffusion profiles between spatially different locations show similar profiles despite the heterogeneous nature of the biological sample and the challenging experimental set-up.",
+        "email": "",
+        "conf": "Analytica chimica acta",
+        "coauthors": [
+            "John Tetteh",
+            "Kerstin Mader",
+            "Jean-michel Andanson",
+            "W J McAuley",
+            "M E Lane",
+            "J Hadgraft",
+            "S G Kazarian",
+            "John C Mitchell"
+        ],
+        "keywords": "Fourier transform infrared spectroscopy,Skin,Stratum corneum,Target factor analysis,Fourier transform infrared imaging"
+    },
+    {
+        "id": 3665,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "The synthesis of immobilised chiral dendrimers",
+        "organization": "University of Greenwich",
+        "abstract": "A one pot synthetic approach to amino acid based chiral dendrimers was shown to give good yields for dendrimers with peptide linkages. Using this synthetic strategy, modification of the peripheral functionality is possible, as is the substitution of other amino acids to give mixed amino acid based dendrimers. Immobilization of our dendrimers was accomplished using a coupling method involving the carboxy derivatised dendrimers with an aminopropyl modified silica. The use of 2-ethoxy-1-ethoxy-1,2-dihydroquinoline in a one pot protocol gave enhanced reaction conditions from which silicas bearing very high levels of dendrimer were obtained. Solid state NMR analysis substantiated that the dendrimers were bound to the silica and that they appeared to be structurally intact. These immobilised chiral dendrimers constitute a new class of chiral stationary phases for use in HPLC.",
+        "email": "",
+        "conf": "New Journal of Chemistry",
+        "coauthors": [
+            "B. T. Mathews",
+            "A E Beezer",
+            "Martin John Snowden",
+            "M J Hardy",
+            "John C Mitchell"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3651,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Chemical modification of the edible film polysaccharide pullulan",
+        "organization": "University of Greenwich",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of Pharmacy and Pharmacology",
+        "coauthors": [
+            "G. H. Gibson",
+            "Martin John Snowden",
+            "John C Mitchell"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3674,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Drug delivery systems",
+        "organization": "University of Greenwich",
+        "abstract": "A comprehensive treatment of the science, technology, and regulation of rate-controlled administration of therapeutic agents, with coverage of the basic concepts, fundamental principles, biomedical rationales, and potential applications. This revised and updated",
+        "email": "",
+        "conf": "Qumica Nova",
+        "coauthors": [
+            "Maria Luiza C. Montanari",
+            "Carlos Alberto Montanari",
+            "Dorila Pil-Veloso",
+            "John C Mitchell"
+        ],
+        "keywords": "Controlled release form, Dosage form, Monograph, Drug, Pharmaceutical technology"
+    },
+    {
+        "id": 3704,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "The chemistry of peroxonium ions and dioxygen ylides",
+        "organization": "University of Greenwich",
+        "abstract": "",
+        "email": "",
+        "conf": "Chemical Society Reviews",
+        "coauthors": [
+            "John C Mitchell"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3605,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Development functional characterization of alginate dressing as potential protein delivery system for wound healing",
+        "organization": "University of Greenwich",
+        "abstract": "This study aimed to develop and characterize stable films as potential protein delivery dressings to wounds. Films were prepared from aqueous gels of sodium alginate (SA) and glycerol (GLY) (SA:GLY 1:0, 1:1, 1:2, 2:3, 2:1, 4:3). Purified recombinant glutathione-s-transferase (GST), green fluorescent protein (GFP) and GST fused in frame to GFP (GST-GFP) (model proteins) were characterized (SDS PAGE, Western blotting, immune-detection, and high sensitivity differential scanning calorimetry) and loaded (3.3, 6.6 and 30.2 mg/g of film) into SA:GLY 1:2 film. These were characterized using texture analysis, differential scanning calorimetry (DSC), thermogravimetric analysis (TGA), scanning electron microscopy, swelling, adhesion, dissolution and circular dichroism (CD). The protein loaded dressings were uniform, with a good balance between flexibility and toughness. The films showed ideal moisture content required for protein conformation (TGA), interactions between proteins and film components (DSC), indicating stability which was confirmed by CD. Swelling and adhesion showed that formulations containing 6.6 mg/g of protein possessed ideal characteristics and used for in vitro dissolution studies. Protein release was rapid initially and sustained over 72 h and data fitted to various kinetic equations showed release followed zero-order and Fickian diffusion. The results demonstrate the potential of SA dressings for delivering therapeutic proteins to wounds.",
+        "email": "",
+        "conf": "International journal of biological macromolecules",
+        "coauthors": [
+            "Frederick U Momoh",
+            "Joshua Boateng",
+            "Simon C W Richardson",
+            "Babur Z Chowdhry",
+            "John C Mitchell"
+        ],
+        "keywords": "Alginate dressing,GST-GFP proteins,Wound healing"
+    },
+    {
+        "id": 3670,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "The Synthesis of Water Soluble Dendrimers and Their Application as Possible Drug Delivery Systems",
+        "organization": "University of Greenwich",
+        "abstract": "The synthesis of two water soluble dendrimers is described. The formation of water soluble inclusion complexes with a variety of small, hydrophobic guest molecules is also described. Moreover, when these guest molecules are drug moieties, then the resulting drug/dendrimer complexes can be considered ideal candidates for use as novel drug delivery systems.",
+        "email": "",
+        "conf": "Tetrahedron Letters",
+        "coauthors": [
+            "Lance J. Twyman",
+            "Anthony E. Beezer",
+            "R. Esfand",
+            "Martin J Hardy",
+            "John C Mitchell"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3600,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "Effect of plasma surface treatment of poly(dimethylsiloxane) on the permeation of pharmaceutical compounds",
+        "organization": "University of Greenwich",
+        "abstract": "This paper addresses the modification of poly(dimethylsiloxane), i.e. PDMS, using plasma surface treatment and a novel application of the membrane created. A set of model compounds were analysed to determine their permeation through PDMS, both with and without plasma treatment. It was found that plasma treatment reduced permeation for the majority of compounds but had little effect on some compounds, such as caffeine, with results indicating that polarity plays an important role in permeation, as is seen in human skin. Most importantly, a direct correlation was observed between plasma-modified permeation data and literature data through calculation of membrane permeability (Kp) values suggesting plasma-modified silicone membrane (PMSM) could be considered as a suitable in vivo replacement to predict clinical skin permeation.",
+        "email": "",
+        "conf": "Journal of Pharmaceutical Analysis",
+        "coauthors": [
+            "Laura J. Waters",
+            "Catherine V. Finch",
+            "A K M Mehedi Hasan Bhuiyan",
+            "Karl Hemming",
+            "John C Mitchell"
+        ],
+        "keywords": "Permeation,PDMS,Silicone,Plasma,Flux,Hydrophobicity"
+    },
+    {
+        "id": 3639,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "The structural and compositional analysis of colloidal microgels and their development as controlled absorption/release devices",
+        "organization": "University of Greenwich",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of Pharmacy and Pharmacology",
+        "coauthors": [
+            "L. H. Gracia",
+            "Martin John Snowden",
+            "John C Mitchell",
+            "M. J. Humphrey"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3672,
+        "label": 72,
+        "author": "essor jc mitchell",
+        "title": "The Synthesis of Chiral Dendrimeric Molecules Based on Amino Acid Repeat Units",
+        "organization": "University of Greenwich",
+        "abstract": "The synthesis of hyperbranched poly-L-aspartic acid, poly-L-glutamic acid and poly-L-lysine is reported.",
+        "email": "",
+        "conf": "Journal of Chemical Research",
+        "coauthors": [
+            "Lance J. Twyman",
+            "Anthony E. Beezer",
+            "Roseita Esfand",
+            "Benjamin T Mathews",
+            "John C Mitchell"
+        ],
+        "keywords": ""
+    }
+]

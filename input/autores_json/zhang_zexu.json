@@ -1,0 +1,202 @@
+[
+    {
+        "id": 5764,
+        "label": 117,
+        "author": "zhang zexu",
+        "title": "Finite-time stability analysis and stabilization for uncertain continuous-time system with time-varying delay",
+        "organization": "Harbin Institute of Technology",
+        "abstract": "The problem of finite-time stability for a class of continuous-time system with norm-bounded uncertainties and time-varying delay is studied in this paper. The original system is firstly transformed into two interconnected subsystems. In order to extract the time-varying term of time delay, a two-term approximation of time-varying delay is used. By using the delay-dependent Lyapunov–Krasovskii-like functional and the method of linear matrix inequality (LMI), sufficient conditions for finite-time stability are derived. The derived conditions can analyze the finite-time stability of system and calculate the upper bound of time delay. In order to stabilize unstable system, the state-feedback and output-feedback controller are respectively designed. Results of numerical examples show the effectiveness of the proposed approach.",
+        "email": "zexuzhang@hit.edu.cn",
+        "conf": "Journal of the Franklin Institute",
+        "coauthors": [
+            "Zhuo Zhang",
+            "Zexu Zhang",
+            "Hui Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5765,
+        "label": 117,
+        "author": "zhang zexu",
+        "title": "Finite-time stability analysis and stabilization for linear discrete-time system with time-varying delay",
+        "organization": "Harbin Institute of Technology",
+        "abstract": "The problem of finite-time stability for linear discrete-time systems with time-varying delay is studied in this paper. In order to deal with the time delay, the original system is firstly transformed into two interconnected subsystems. By constructing a delay-dependent Lyapunov–Krasovskii functional and using a two-term approximation of the time-varying delay, sufficient conditions of finite-time stability are derived and expressed in terms of linear matrix inequalities (LMIs). The derived stability conditions can be applied into analyzing the finite-time stability and deriving the maximally tolerable delay. Compared with the existing results on finite-time stability, the derived stability conditions are less conservative. In addition, for the stabilization problem, we design the state-feedback controller. Finally, numerical examples are used to illustrate the effectiveness of the proposed method.",
+        "email": "zexuzhang@hit.edu.cn",
+        "conf": "Journal of the Franklin Institute",
+        "coauthors": [
+            "Zhuo Zhang",
+            "Zexu Zhang",
+            "Hui Zhang",
+            "Bo Zheng",
+            "Hamid Reza Karimi"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5771,
+        "label": 117,
+        "author": "zhang zexu",
+        "title": "Recovery of Egomotion from Optical Flow with Large Motion Based on Subspace Method",
+        "organization": "Harbin Institute of Technology",
+        "abstract": "In this paper a novel algorithm to determine optical flow field with large motion is presented. Then, a subspace method for estimating 3D egomotion from optical flow computed is proposed. The algorithm of optical flow is robust and reliable to the large motion, which is very important to recover the 3D egomotion parameters. Based on the flow velocity computed from image sequence, the subspace method is carried out in three steps using three sets of equations derived from nonlinear equation of motion perspective. At first, the translational direction of the observer's motion is recovered by searching a candidate over a discrete space to minimize a residual function. Once the translation has been estimated, the rotation components of the observer's motion can been resolved from the second set of equations by using the least square optimization. At last, the relative depth map of the scene is recovered using the third set of equations. Promising quantitative results are reported from experiments with simulated data and synthetic image.",
+        "email": "zexuzhang@hit.edu.cn",
+        "conf": "IEEE International Conference on Robotics and Biomimetics",
+        "coauthors": [
+            "Zexu Zhang",
+            "Pingyuan Cui",
+            "Hutao Cui"
+        ],
+        "keywords": "structure from motion,subspace theory,optical flow field,dynamic scene analysis"
+    },
+    {
+        "id": 5762,
+        "label": 117,
+        "author": "zhang zexu",
+        "title": "Bi-Objective Switching Control Design for a Tradeoff between Acceleration and Unstart in Hypersonic Airframe/Propulsion Models",
+        "organization": "Harbin Institute of Technology",
+        "abstract": "",
+        "email": "",
+        "conf": "AIAA Aerospace Sciences Meeting",
+        "coauthors": [
+            "Xinyue Hao",
+            "Juntao Chang",
+            "Bao Wen",
+            "Zexu Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5770,
+        "label": 117,
+        "author": "zhang zexu",
+        "title": "New passivity criteria for neural networks with time-varying delay",
+        "organization": "Harbin Institute of Technology",
+        "abstract": "In this paper, improved criteria for the passivity of neural networks with time delay are proposed. The improvement is achieved by exploiting the finer relationships between the time-varying delay and its size bound which allow the use of more slack variables. It is illustrated via numerical examples that the proposed results are less conservative than those available in the literature.",
+        "email": "zexuzhang@hit.edu.cn",
+        "conf": "Neural networks: the official journal of the International Neural Network Society",
+        "coauthors": [
+            "Zexu Zhang",
+            "Shaoshuai Mou",
+            "James Lam",
+            "Huijun Gao"
+        ],
+        "keywords": "Delay,Lyapunov,Neural Network,Passivity,Uncertainty"
+    },
+    {
+        "id": 5769,
+        "label": 117,
+        "author": "zhang zexu",
+        "title": "Stochastic stability of Markovian jumping Hopfield neural networks with constant and distributed delays",
+        "organization": "Harbin Institute of Technology",
+        "abstract": "This paper investigates the problem of stability analysis for Markovian jumping Hopfield neural networks (MJHNNs) with constant and distributed delays. Some new delay-dependent stochastic stability criteria are derived based on a novel Lyapunov–Krasovskii functional (LKF) approach. These new criteria based on the delay partitioning idea prove to be less conservative, since the conservatism could be notably reduced by thinning the delay partitioning. Numerical examples are provided to show the effectiveness and advantage of the proposed techniques.",
+        "email": "zexuzhang@hit.edu.cn",
+        "conf": "Neurocomputing",
+        "coauthors": [
+            "Hongyang Liu",
+            "Lin Zhao",
+            "Zexu Zhang",
+            "Yan Ou"
+        ],
+        "keywords": "Delay-dependence,Hopfield neural networks (HNNs),Markovian jump,Stochastic stability"
+    },
+    {
+        "id": 5763,
+        "label": 117,
+        "author": "zhang zexu",
+        "title": "Decentralized robust attitude tracking control for spacecraft Networks under unknown inertia matrices",
+        "organization": "Harbin Institute of Technology",
+        "abstract": "This article investigates the quaternion-based attitude tracking problem for spacecraft networks, where the interaction topology among spacecraft switches periodically and inertia matrices are totally unknown. The tracking error dynamics is modeled. A class of robust attitude coordination controller without introducing the information about external disturbances is proposed. Using the Lyapunov method and graph theory, it is proved that the controller can guarantee a group of spacecraft to track the time-varying reference attitude. Further, the tracking error can be adjusted by designers to satisfy different requirements of control accuracy. Finally, simulation results are presented to illustrate that the designed control law is successful in achieving high tracking performance, even in the presence of unknown external disturbance torque, unknown inertia matrices and switching interaction topology among spacecraft.",
+        "email": "zexuzhang@hit.edu.cn",
+        "conf": "Neurocomputing",
+        "coauthors": [
+            "Zhuo Zhang",
+            "Zexu Zhang",
+            "Hui Zhang"
+        ],
+        "keywords": "Spacecraft networks,Decentralized control,Attitude tracking,Unknown inertia matrices,Switching interaction topology"
+    },
+    {
+        "id": 5761,
+        "label": 117,
+        "author": "zhang zexu",
+        "title": "A model of mode transition logic in dual-mode Scramjet engines",
+        "organization": "Harbin Institute of Technology",
+        "abstract": "Intricate process of mode transition exists in dual-mode scramjet engines, mainly amongst three typical operation modes (i.e., scramjet mode, ramjet mode and unstarted mode). Based on the analysis of an original analytical model, four transition boundaries are defined, and several corrections and considerations are carried out to clarify the way how to develop a model of mode transition logic. The complete mode transition logic is presented in a flowchart with a calculated case, and the corresponding implementation method for simulation is specified with programs in the paper. Combining the present mode transition logic unit with the original analytical parts, a dual-mode scramjet engine model for simulation, in which the inlet unstart issue is mainly caused by the interaction between thermodynamic effect and geometrical effect, could be acquired.",
+        "email": "zexuzhang@hit.edu.cn",
+        "conf": "Aerospace Science and Technology",
+        "coauthors": [
+            "Xinyue Hao",
+            "Juntao Chang",
+            "Wen Bao",
+            "Zexu Zhang"
+        ],
+        "keywords": "Dual-mode scramjet engine,Mode transition logic,Simulation model"
+    },
+    {
+        "id": 5767,
+        "label": 117,
+        "author": "zhang zexu",
+        "title": "Fault detection with network communication",
+        "organization": "Harbin Institute of Technology",
+        "abstract": "This article investigates the problem of fault detection for continuous time systems with network communication links. A network communication channel is assumed to be existing between the plant and the fault detection filter, and three types of incomplete measurements which typically appear in a network environment are simultaneously addressed, including measurement quantisation effect, signal transmission delay and data packet dropout. A mathematical model is presented to account for those issues in a unified form. Based on that, a full-order fault detection filter is designed such that the residual system is asymptotically stable and preserves a guaranteed performance. A sufficient condition of the existence of the fault detection filter is obtained and all the results are formulated in the form of linear matrix inequalities, which can be readily solved via standard numerical software. Finally, a simulation example is provided to illustrate the usefulness of the developed theoretical results.",
+        "email": "",
+        "conf": "International Journal of Systems Science",
+        "coauthors": [
+            "Yan Zhao",
+            "Zexu Zhang",
+            "Yingbo Zhao",
+            "Huijun Gao"
+        ],
+        "keywords": "fault detection and isolation, measurement quantisation, data packet dropout, transmission delay, linear systems"
+    },
+    {
+        "id": 5772,
+        "label": 117,
+        "author": "zhang zexu",
+        "title": "Image-based navigation and guidance for landing on small body",
+        "organization": "Harbin Institute of Technology",
+        "abstract": "Due to long round-trip communication delay and low telemetry bit-rates, the traditional Guidance Navigation and Control (GNC) mode based on Deep Space Network (DSN) is no more suitable for landing spacecraft on small celestial bodies. This paper presents an image-based navigation and guidance scheme for future asteroid landing mission. Firstly, an autonomous navigation scheme based on feature detection and tracking technology is presented. Secondly, proportional plus derivative (PD) guidance control laws and Pulse-Width and Pulse-Frequency (PWPF) modulator are designed to track the desired descent trajectory and achieve landing on asteroids safely. Finally, the validity of the proposed scheme is confirmed by computer simulation.",
+        "email": "",
+        "conf": "Proceedings of SPIE - The International Society for Optical Engineering",
+        "coauthors": [
+            "Shuang Li",
+            "Zexu Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5766,
+        "label": 117,
+        "author": "zhang zexu",
+        "title": "Finite-Time Control and Estimation for Complex and Practical Dynamical Systems",
+        "organization": "Harbin Institute of Technology",
+        "abstract": "If a stable system is actuated by energy (Lyapunov function), the energy will be automatically attenuated in infinite time. The state will finally converge to the equilibrium point. But the trajectory of the state is not constrained. However, in the finite-time stability, the system state would be bounded in finite-time interval. The bounds of the state are prescribed. Thus, the finite-time stability has a great application potential for systems in which large values of the state are not acceptable. In spite of the extensive and successful applications of finite-time stability in automatic control and estimation areas, the capability to handle complex systems such as delayed systems, fuzzy systems, and singularly perturbed systems needs to be further expanded. The aim of this special issue is to document the up-to-date status of work on control systems design by finite-time techniques via a collection of original high-quality papers. Of particular interest is the fact that the papers in this special issue are devoted to the new concept development of the finite-time technique and the applications of these new concepts to control and estimation problems of complex systems. Topics include, but are not limited to, (1) finite-time boundedness (theoretical and mathematical development); (2) finite-time approaches to networked control and estimation (limited communication capacity, distributed control and filtering, and priority scheduling); (3) finite-time delayed systems, stability, stabilization, control, and filtering; (4) finite-time modeling, analysis, and design of fuzzy systems and switched systems; (5) finite-time stochastic systems; and (6) practical applications of finite-time systems.",
+        "email": "",
+        "conf": "Abstract and Applied Analysis",
+        "coauthors": [
+            "Hui Zhang",
+            "Junmin Wang",
+            "Hamid Reza Karimi",
+            "Peng Shi",
+            "Zexu Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5768,
+        "label": 117,
+        "author": "zhang zexu",
+        "title": "Exponential Stability on Stochastic Neural Networks With Discrete Interval and Distributed Delays",
+        "organization": "Harbin Institute of Technology",
+        "abstract": "This brief addresses the stability analysis problem for stochastic neural networks (SNNs) with discrete interval and distributed time-varying delays. The interval time-varying delay is assumed to satisfy 0 < d 1 ¿ d(t) ¿ d 2 and is described as d ( t ) = d 1 + h ( t ) with 0 ¿ h ( t ) ¿ d 2 - d 1 . Based on the idea of partitioning the lower bound d 1 , new delay-dependent stability criteria are presented by constructing a novel Lyapunov-Krasovskii functional, which can guarantee the new stability conditions to be less conservative than those in the literature. The obtained results are formulated in the form of linear matrix inequalities (LMIs). Numerical examples are provided to illustrate the effectiveness and less conservatism of the developed results. ",
+        "email": "",
+        "conf": "IEEE Transactions on Neural Networks",
+        "coauthors": [
+            "Rongni Yang",
+            "Zexu Zhang",
+            "Peng Shi"
+        ],
+        "keywords": "Delay partitioning,exponential stability,interval time-varying delay,stochastic neural networks (SNNs)"
+    }
+]

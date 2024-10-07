@@ -1,0 +1,220 @@
+[
+    {
+        "id": 4717,
+        "label": 90,
+        "author": "jonathan l robinson",
+        "title": "Construction and Experimental Validation of a Quantitative Kinetic Model of Nitric Oxide Stress in Enterohemorrhagic Escherichia coli O157:H7",
+        "organization": "Postdoctoral Researcher Chalmers University of Technology",
+        "abstract": "Enterohemorrhagic Escherichia coli (EHEC) are responsible for large outbreaks of hemorrhagic colitis, which can progress to life-threatening hemolytic uremic syndrome (HUS) due to the release of Shiga-like toxins (Stx). The presence of a functional nitric oxide (NO·) reductase (NorV), which protects EHEC from NO· produced by immune cells, was previously found to correlate with high HUS incidence, and it was shown that NorV activity enabled prolonged EHEC survival and increased Stx production within macrophages. To enable quantitative study of EHEC NO· defenses and facilitate the development of NO·-potentiating therapeutics, we translated an existing kinetic model of the E. coli K-12 NO· response to an EHEC O157:H7 strain. To do this, we trained uncertain model parameters on measurements of [NO·] and [O2] in EHEC cultures, assessed parametric and prediction uncertainty with the use of a Markov chain Monte Carlo approach, and confirmed the predictive accuracy of the model with experimental data from genetic mutants lacking NorV or Hmp (NO· dioxygenase). Collectively, these results establish a methodology for the translation of quantitative models of NO· stress in model organisms to pathogenic sub-species, which is a critical step toward the application of these models for the study of infectious disease.",
+        "email": "",
+        "conf": "Bioengineering",
+        "coauthors": [
+            "Jonathan L Robinson",
+            "Mark P. Brynildsen"
+        ],
+        "keywords": "nitric oxide; enterohemorrhagic E. coli; kinetic model; ensemble modeling; Hmp; NorV; microaerobic; anaerobic"
+    },
+    {
+        "id": 4721,
+        "label": 90,
+        "author": "jonathan l robinson",
+        "title": "Predicting Activation Enthalpies of Cytochrome-P450-Mediated Hydrogen Abstractions. 2. Comparison of Semiempirical PM3 SAM1 and AM1 with a Density Functional Theory Method",
+        "organization": "Postdoctoral Researcher Chalmers University of Technology",
+        "abstract": "Predicting the biotransformation of xenobiotics is important in the chemical and pharmaceutical industries, as well as in toxicology. Here, we extend and evaluate the rapid methodology of Korzekwa, Jones, and Gillette (J. Am. Chem. Soc.1990, 112, 7042−7046) to estimate the activation enthalpy (ΔH⧧) of hydrogen-abstraction by cytochrome P450 (CYP) enzymes, using the p-nitrosophenoxy radical (PNPO) as a simple surrogate for the CYP active oxygen species. The ΔH⧧ is estimated with a linear regression model using the reaction enthalpy and ionization energy (of the substrate radical) as predictor variables, calculated by semiempirical (SE) methods. While Korzekwa et al. used the SE method AM1, we applied PM3 and SAM1 and compared the results of the three methods. For 24 substrates, the AM1-, PM3-, and SAM1-derived regression models showed R2 values of 0.89, 0.90, and 0.93, respectively, for the correlation between calculated and predicted ΔH⧧. Furthermore, we compared the ΔH⧧ calculated semiempirically using PNPO radical with density functional theory (DFT) B3LYP activation energies calculated by Olsen et al. (J. Med. Chem.2006, 49, 6489−6499) using a more realistic iron−oxo−porphine model, and the results revealed limitations of the PNPO radical model. Thus, predictive models developed using SE predictors provide rapid and generally internally consistent results, but they should be interpreted and used cautiously.",
+        "email": "",
+        "conf": "Journal of Chemical Information and Modeling",
+        "coauthors": [
+            "Arthur N Mayeno",
+            "Jonathan L Robinson",
+            "Raymond S H Yang",
+            "Brad Reisfeld"
+        ],
+        "keywords": "Hydrocarbons,Kinetic parameters,Activation energy,Peptides and proteins,Density functional theory"
+    },
+    {
+        "id": 4716,
+        "label": 90,
+        "author": "jonathan l robinson",
+        "title": "Discovery and dissection of metabolic oscillations in the microaerobic nitric oxide response network of Escherichia coli",
+        "organization": "Postdoctoral Researcher Chalmers University of Technology",
+        "abstract": "The virulence of many pathogens depends upon their ability to cope with immune-generated nitric oxide (NO·). In Escherichia coli, the major NO· detoxification systems are Hmp, an NO· dioxygenase (NOD), and NorV, an NO· reductase (NOR). It is well established that Hmp is the dominant system under aerobic conditions, whereas NorV dominates anaerobic conditions; however, the quantitative contributions of these systems under the physiologically relevant microaerobic regime remain ill defined. Here, we investigated NO· detoxification in environments ranging from 0 to 50 μM O2, and discovered a regime in which E. coli NO· defenses were severely compromised, as well as conditions that exhibited oscillations in the concentration of NO·. Using an integrated computational and experimental approach, E. coli NO· detoxification was found to be extremely impaired at low O2 due to a combination of its inhibitory effects on NorV, Hmp, and translational activities, whereas oscillations were found to result from a kinetic competition for O2 between Hmp and respiratory cytochromes. Because at least 777 different bacterial species contain the genetic requirements of this stress response oscillator, we hypothesize that such oscillatory behavior could be a widespread phenomenon. In support of this hypothesis, Pseudomonas aeruginosa, whose respiratory and NO· response networks differ considerably from those of E. coli, was found to exhibit analogous oscillations in low O2 environments. This work provides insight into how bacterial NO· defenses function under the low O2 conditions that are likely to be encountered within host environments.",
+        "email": "",
+        "conf": "Proceedings of the National Academy of Sciences",
+        "coauthors": [
+            "Jonathan L Robinson",
+            "Mark P. Brynildsen"
+        ],
+        "keywords": "nitrosative stress,E. coli,microaerobic,Pseudomonas aeruginosa,kinetic modeling"
+    },
+    {
+        "id": 4718,
+        "label": 90,
+        "author": "jonathan l robinson",
+        "title": "An ensemble-guided approach Identifies ClpP as a major regulator of transcript levels in nitric oxide-stressed Escherichia coli",
+        "organization": "Postdoctoral Researcher Chalmers University of Technology",
+        "abstract": "The importance of NO∙ to immunity is highlighted by the diversity of pathogens that require NO∙-defensive systems to establish infections. Proteases have been identified to aid pathogens in surviving macrophage attack, inspiring us to investigate their role during NO∙ stress in Escherichia coli. We discovered that the elimination of ClpP largely impaired NO∙ detoxification by E. coli. Using a quantitative model of NO∙ stress, we employed an ensemble-guided approach to identify the underlying mechanism. Iterations of in silico analyses and corresponding experiments identified the defect to result from deficient transcript levels of hmp, which encodes NO∙ dioxygenase. Interestingly, the defect was not confined to hmp, as ΔclpP imparted widespread perturbations to the expression of NO∙-responsive genes. This work identified a target for anti-infective therapies based on disabling NO∙ defenses, and demonstrated the utility of model-based approaches for exploring the complex, systems-level stress exerted by NO.",
+        "email": "",
+        "conf": "Metabolic Engineering",
+        "coauthors": [
+            "Jonathan L Robinson",
+            "Mark P. Brynildsen"
+        ],
+        "keywords": "Nitric oxide,Escherichia coli,ClpP protease,Kinetic modeling,Nitrosative stress,Hmp"
+    },
+    {
+        "id": 4712,
+        "label": 90,
+        "author": "jonathan l robinson",
+        "title": "An integrated network analysis reveals that nitric oxide reductase prevents metabolic cycling of nitric oxide by Pseudomonas aeruginosa",
+        "organization": "Postdoctoral Researcher Chalmers University of Technology",
+        "abstract": "Nitric oxide (NO) is a chemical weapon within the arsenal of immune cells, but is also generated endogenously by different bacteria. Pseudomonas aeruginosa are pathogens that contain an NO-generating nitrite (NO2−) reductase (NirS), and NO has been shown to influence their virulence. Interestingly, P. aeruginosa also contain NO dioxygenase (Fhp) and nitrate (NO3−) reductases, which together with NirS provide the potential for NO to be metabolically cycled (NO→NO3−→NO2−→NO). Deeper understanding of NO metabolism in P. aeruginosa will increase knowledge of its pathogenesis, and computational models have proven to be useful tools for the quantitative dissection of NO biochemical networks. Here we developed such a model for P. aeruginosa and confirmed its predictive accuracy with measurements of NO, O2, NO2−, and NO3− in mutant cultures devoid of Fhp or NorCB (NO reductase) activity. Using the model, we assessed whether NO was metabolically cycled in aerobic P. aeruginosa cultures. Calculated fluxes indicated a bottleneck at NO3−, which was relieved upon O2 depletion. As cell growth depleted dissolved O2 levels, NO3− was converted to NO2− at near-stoichiometric levels, whereas NO2− consumption did not coincide with NO or NO3− accumulation. Assimilatory NO2− reductase (NirBD) or NorCB activity could have prevented NO cycling, and experiments with ΔnirB, ΔnirS, and ΔnorC showed that NorCB was responsible for loss of flux from the cycle. Collectively, this work provides a computational tool to analyze NO metabolism in P. aeruginosa, and establishes that P. aeruginosa use NorCB to prevent metabolic cycling of NO.",
+        "email": "",
+        "conf": "Metabolic Engineering",
+        "coauthors": [
+            "Jonathan L Robinson",
+            "Jacob M Jaslove",
+            "Allison M Murawski",
+            "Christopher H Fazen",
+            "Mark P Brynildsen"
+        ],
+        "keywords": "Metabolic cycle,Kinetic model,Oscillations,NO reductase,Fhp,Denitrification"
+    },
+    {
+        "id": 4713,
+        "label": 90,
+        "author": "jonathan l robinson",
+        "title": "Integrative analysis of human omics data using biomolecular networks",
+        "organization": "Postdoctoral Researcher Chalmers University of Technology",
+        "abstract": "High-throughput ‘-omics’ technologies have given rise to an increasing abundance of genome-scale data detailing human biology at the molecular level. Although these datasets have already made substantial contributions to a more comprehensive understanding of human physiology and diseases, their interpretation becomes increasingly cryptic and nontrivial as they continue to expand in size and complexity. Systems biology networks offer a scaffold upon which omics data can be integrated, facilitating the extraction of new and physiologically relevant information from the data. Two of the most prevalent networks that have been used for such integrative analyses of omics data are genome-scale metabolic models (GEMs) and protein–protein interaction (PPI) networks, both of which have demonstrated success among many different omics and sample types. This integrative approach seeks to unite ‘top-down’ omics data with ‘bottom-up’ biological networks in a synergistic fashion that draws on the strengths of both strategies. As the volume and resolution of high-throughput omics data continue to grow, integrative network-based analyses are expected to play an increasingly important role in their interpretation.",
+        "email": "",
+        "conf": "Molecular BioSystems",
+        "coauthors": [
+            "Jonathan L Robinson",
+            "Jens Nielsen"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4711,
+        "label": 90,
+        "author": "jonathan l robinson",
+        "title": "Anticancer drug discovery through genome-scale metabolic modeling",
+        "organization": "Postdoctoral Researcher Chalmers University of Technology",
+        "abstract": "Altered metabolism has long been recognized as a defining property of cancer physiology, but is experiencing renewed interest as the importance of such alterations are becoming fully realized. Once regarded merely as a side effect of a damaging mutation or a general increase in proliferation rate, metabolic network rewiring is now viewed as an intentional process to optimize tumor growth and maintenance, and can even drive cancer transformation. This has motivated the search for anticancer targets among enzymes in the metabolic network of cancer cells. Genome-scale metabolic models (GEMs) provide the necessary framework to systematically interrogate this network, and many recent studies have successfully employed GEMs to predict anticancer drug targets in the metabolic networks of various cancer types.",
+        "email": "",
+        "conf": "Current Opinion in Systems Biology",
+        "coauthors": [
+            "Jonathan L Robinson",
+            "Jens Nielsen"
+        ],
+        "keywords": "Cancer metabolism,Antimetabolites,Genome-scale metabolic model,Flux balance analysis,Integrative omics analysis,Personalized medicine"
+    },
+    {
+        "id": 4710,
+        "label": 90,
+        "author": "jonathan l robinson",
+        "title": "Targeting CDK2 overcomes melanoma resistance against BRAF and Hsp90 inhibitors",
+        "organization": "Postdoctoral Researcher Chalmers University of Technology",
+        "abstract": "Novel therapies are undergoing clinical trials, for example, the Hsp90 inhibitor, XL888, in combination with BRAF inhibitors for the treatment of therapy‐resistant melanomas. Unfortunately, our data show that this combination elicits a heterogeneous response in a panel of melanoma cell lines including PDX‐derived models. We sought to understand the mechanisms underlying the differential responses and suggest a patient stratification strategy. Thermal proteome profiling (TPP) identified the protein targets of XL888 in a pair of sensitive and unresponsive cell lines. Unbiased proteomics and phosphoproteomics analyses identified CDK2 as a driver of resistance to both BRAF and Hsp90 inhibitors and its expression is regulated by the transcription factor MITF upon XL888 treatment. The CDK2 inhibitor, dinaciclib, attenuated resistance to both classes of inhibitors and combinations thereof. Notably, we found that MITF expression correlates with CDK2 upregulation in patients; thus, dinaciclib would warrant consideration for treatment of patients unresponsive to BRAF‐MEK and/or Hsp90 inhibitors and/or harboring MITF amplification/overexpression.",
+        "email": "",
+        "conf": "Molecular Systems Biology",
+        "coauthors": [
+            "Alireza Azimi",
+            "Stefano Caramuta",
+            "Brinton Seashore-Ludlow",
+            "Johan Bostrom",
+            "Jonathan L Robinson",
+            "Fredrick Edfors",
+            "Rainer Tuominen",
+            "Kristel Kemper",
+            "Oscar Krijgsman",
+            "Daniel S Peeper",
+            "Jens Nielsen",
+            "Johan Hansson",
+            "Suzanne Egyhazi Brage",
+            "Mikael Altun",
+            "Mathias Uhlen",
+            "Gianluca Maddalo"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4715,
+        "label": 90,
+        "author": "jonathan l robinson",
+        "title": "Starved Escherichia coli preserve reducing power under nitric oxide stress",
+        "organization": "Postdoctoral Researcher Chalmers University of Technology",
+        "abstract": "Nitric oxide (NO) detoxification enzymes, such as NO dioxygenase (NOD) and NO reductase (NOR), are important to the virulence of numerous bacteria. Pathogens use these defense systems to ward off immune-generated NO, and they do so in environments that contain additional stressors, such as reactive oxygen species, nutrient deprivation, and acid stress. NOD and NOR both use reducing equivalents to metabolically deactivate NO, which suggests that nutrient deprivation could negatively impact their functionality. To explore the relationship between NO detoxification and nutrient deprivation, we examined the ability of Escherichia coli to detoxify NO under different levels of carbon source availability in aerobic cultures. We observed failure of NO detoxification under both carbon source limitation and starvation, and those failures could have arisen from inabilities to synthesize Hmp (NOD of E. coli) and/or supply it with sufficient NADH (preferred electron donor). We found that when limited quantities of carbon source were provided, NO detoxification failed due to insufficient NADH, whereas starvation prevented Hmp synthesis, which enabled cells to maintain their NADH levels. This maintenance of NADH levels under starvation was confirmed to be dependent on the absence of Hmp. Intriguingly, these data show that under NO stress, carbon-starved E. coli are better positioned with regard to reducing power to cope with other stresses than cells that had consumed an exhaustible amount of carbon.",
+        "email": "",
+        "conf": "Biochemical and Biophysical Research Communications",
+        "coauthors": [
+            "Glen-Oliver Gowers",
+            "Jonathan L Robinson",
+            "Mark P. Brynildsen"
+        ],
+        "keywords": "Carbon source,Nitric oxide dioxygenase,NADH,Hmp,Flavohemoglobin"
+    },
+    {
+        "id": 4720,
+        "label": 90,
+        "author": "jonathan l robinson",
+        "title": "A Kinetic Platform to Determine the Fate of Nitric Oxide in Escherichia coli",
+        "organization": "Postdoctoral Researcher Chalmers University of Technology",
+        "abstract": "Nitric oxide (NO•) is generated by the innate immune response to neutralize pathogens. NO• and its autoxidation products have an extensive biochemical reaction network that includes reactions with iron-sulfur clusters, DNA, and thiols. The fate of NO• inside a pathogen depends on a kinetic competition among its many targets, and is of critical importance to infection outcomes. Due to the complexity of the NO• biochemical network, where many intermediates are short-lived and at extremely low concentrations, several species can be measured, but stable products are non-unique, and damaged biomolecules are continually repaired or regenerated, kinetic models are required to understand and predict the outcome of NO• treatment. Here, we have constructed a comprehensive kinetic model that encompasses the broad reactivity of NO• in Escherichia coli. The incorporation of spontaneous and enzymatic reactions, as well as damage and repair of biomolecules, allowed for a detailed analysis of how NO• distributes in E. coli cultures. The model was informed with experimental measurements of NO• dynamics, and used to identify control parameters of the NO• distribution. Simulations predicted that NO• dioxygenase (Hmp) functions as a dominant NO• consumption pathway at O2 concentrations as low as 35 µM (microaerobic), and interestingly, loses utility as the NO• delivery rate increases. We confirmed these predictions experimentally by measuring NO• dynamics in wild-type and mutant cultures at different NO• delivery rates and O2 concentrations. These data suggest that the kinetics of NO• metabolism must be considered when assessing the importance of cellular components to NO• tolerance, and that models such as the one described here are necessary to rigorously investigate NO• stress in microbes. This model provides a platform to identify novel strategies to potentiate the effects of NO•, and will serve as a template from which analogous models can be generated for other organisms.",
+        "email": "",
+        "conf": "PLoS Computational Biology",
+        "coauthors": [
+            "Jonathan L Robinson",
+            "Mark P Brynildsen"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4714,
+        "label": 90,
+        "author": "jonathan l robinson",
+        "title": "Ensemble Modeling Enables Quantitative Exploration of Bacterial Nitric Oxide Stress Networks",
+        "organization": "Postdoctoral Researcher Chalmers University of Technology",
+        "abstract": "",
+        "email": "",
+        "conf": "Environmental Control of Gene Expression and Adaptation in Bacteria: Wiley-Blackwell",
+        "coauthors": [
+            "Jonathan Robinson",
+            "Mark P. Brynildsen"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4709,
+        "label": 90,
+        "author": "jonathan l robinson",
+        "title": "A Systematic Investigation of the Malignant Functions and Diagnostic Potential of the Cancer Secretome",
+        "organization": "Postdoctoral Researcher Chalmers University of Technology",
+        "abstract": "The collection of proteins secreted from a cell—the secretome—is of particular interest in cancer pathophysiology due to its diagnostic potential and role in tumorigenesis. However, cancer secretome studies are often limited to one tissue or cancer type or focus on biomarker prediction without exploring the associated functions. We therefore conducted a pan-cancer analysis of secretome gene expression changes to identify candidate diagnostic biomarkers and to investigate the underlying biological function of these changes. Using transcriptomic data spanning 32 cancer types and 30 healthy tissues, we quantified the relative diagnostic potential of secretome proteins for each cancer. Furthermore, we offer a potential mechanism by which cancer cells relieve secretory pathway stress by decreasing the expression of tissue-specific genes, thereby facilitating the secretion of proteins promoting invasion and proliferation. These results provide a more systematic understanding of the cancer secretome, facilitating its use in diagnostics and its targeting for therapeutic development.",
+        "email": "",
+        "conf": "Cell Reports",
+        "coauthors": [
+            "Jonathan L Robinson",
+            "Amir Feizi",
+            "Mathias Uhlen",
+            "Jens Nielsen"
+        ],
+        "keywords": "secretome,protein secretion,cancer biomarkers,unfolded protein response,pan-cancer,systems biology"
+    },
+    {
+        "id": 4719,
+        "label": 90,
+        "author": "jonathan l robinson",
+        "title": "Deciphering Nitric Oxide Stress in Bacteria with Quantitative Modeling",
+        "organization": "Postdoctoral Researcher Chalmers University of Technology",
+        "abstract": "Many pathogens depend on nitric oxide (NO) detoxification and repair to establish an infection, and inhibitors of these systems are under investigation as next-generation antibiotics. Because of the broad reactivity of NO and its derivatives with biomolecules, a deep understanding of how pathogens sense and respond to NO, as an integrated system, has been elusive. Quantitative kinetic modeling has been proposed as a method to enhance analysis and understanding of NO stress at the systems-level. Here we review the motivation for, current state of, and future prospects of quantitative modeling of NO stress in bacteria, and suggest that such mathematical approaches would prove equally useful in the study of other broadly reactive antimicrobials, such as hydrogen peroxide (H2O2).",
+        "email": "",
+        "conf": "Current Opinion in Microbiology",
+        "coauthors": [
+            "Jonathan L Robinson",
+            "Kristin J Adolfsen",
+            "Mark P Brynildsen"
+        ],
+        "keywords": ""
+    }
+]

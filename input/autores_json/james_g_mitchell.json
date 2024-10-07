@@ -1,0 +1,1821 @@
+[
+    {
+        "id": 3802,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Long Lag Times and High Velocities in the Motility of Natural Assemblages of Marine Bacteria",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "The motility characteristics of natural assemblages of coastal marine bacteria were examined. Initially, less than 10% of the bacteria were motile. A single addition of tryptic soy broth caused an increase in the motile fraction of cells but only after 7 to 12 h. Motility peaked at 15 to 30 h, when more than 80% of cells were motile. These results support the proposal that energy limits motility in the marine environment. Cell speeds changed more than an order of magnitude on timescales of milliseconds and hours. The maximum community speed was 144 (mu)m s(sup-1), and the maximum individual burst velocity was 407 (mu)m s(sup-1). In uniform medium, speed was an inverse function of tryptic soy broth concentration, declining linearly over 0.001 to 1.0%. In media where concentration gradients existed, the mean speed was a function of position in a spatial gradient, changing from 69 to 144 (mu)m s(sup-1) over as little as 15 to 30 (mu)m. The results suggest that marine bacteria are capable of previously undescribed quick shifts in speed that may permit the bacteria to rapidly detect and keep up with positional changes in small nutrient sources. These high speeds and quick shifts may reflect the requirements for useful motility in a turbulent ocean.",
+        "email": "",
+        "conf": "Applied and Environmental Microbiology",
+        "coauthors": [
+            "James G. Mitchell",
+            "Lynette Pearson",
+            "Armando Bonazinga",
+            "Simon Dillon",
+            "Helen Khouri",
+            "Rosemary Paxinos"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3794,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Using non-linear analysis to compare the spatial structure of chlorophyll with passive tracers",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "A form of non-linear analysis, termed the near-neighbour algorithm, was applied to transects of chlorophyll and salinity collected off eastern Antarctica in the Austral summer of 1995/96. The near-neighbour algorithm was initially developed to detect chaos in time series, but was applied here to compare the spatial structure of chlorophyll, a non-conservative tracer, with that of a conservative tracer, salinity. The validity of such an application is discussed in the context of the literature and as a complementary approach to traditional methods such as autocorrelation and spectral analysis. The results indicate that the spatial structure of salinity could be classified as non-linear in nature. The structure of chlorophyll at corresponding spatial scales contains a stochastic component, and it is postulated that this is caused by biological factors, specifically net phytoplankton growth. The potential for expanded, more detailed analyses is discussed, and parallels are drawn between the current state of non-linear analysis in biological oceanography and the development of spectral analysis over the last three decades.",
+        "email": "",
+        "conf": "Journal of Plankton Research",
+        "coauthors": [
+            "Peter G. Strutton",
+            "James G. Mitchell",
+            "John S. Parslow"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3730,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Nitrogen transport from sea to land by a threatened and declining population of Australian sea lions (Neophoca cinerea) on Kangaroo Island South Australia",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "Australian sea lions consume prey in highly productive foraging grounds and defaecate nutrients on land. The resident population of 1100 Australian sea lions contributes 3800 (±80) kg N year–1 into Seal Bay Conservation Park, Kangaroo Island, South Australia. If this population were to decline in abundance the nitrogen availability and coastal productivity of Kangaroo Island may be reduced.",
+        "email": "",
+        "conf": "Australian Mammalogy",
+        "coauthors": [
+            "Trish Lavery",
+            "Ben Roudnew",
+            "James G. Mitchell"
+        ],
+        "keywords": "allochthonous nutrients; coastal ecology; landscape ecology; ocean nutrient cycling; tropic dynamics"
+    },
+    {
+        "id": 3749,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Metagenomic comparison of microbial communities inhabiting confined and unconfined aquifer ecosystems",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "A metagenomic analysis of two aquifer systems located under a dairy farming region was performed to examine to what extent the composition and function of microbial communities varies between confined and surface‐influenced unconfined groundwater ecosystems. A fundamental shift in taxa was seen with an overrepresentation of Rhodospirillales , Rhodocyclales , Chlorobia and Circovirus in the unconfined aquifer, while Deltaproteobacteria and Clostridiales were overrepresented in the confined aquifer. A relative overrepresentation of metabolic processes including antibiotic resistance (β‐lactamase genes), lactose and glucose utilization and DNA replication were observed in the unconfined aquifer, while flagella production, phosphate metabolism and starch uptake pathways were all overrepresented in the confined aquifer. These differences were likely driven by differences in the nutrient status and extent of exposure to contaminants of the two groundwater systems. However, when compared with freshwater, ocean, sediment and animal gut metagenomes, the unconfined and confined aquifers were taxonomically and metabolically more similar to each other than to any other environment. This suggests that intrinsic features of groundwater ecosystems, including low oxygen levels and a lack of sunlight, have provided specific niches for evolution to create unique microbial communities. Obtaining a broader understanding of the structure and function of microbial communities inhabiting different groundwater systems is particularly important given the increased need for managing groundwater reserves of potable water.",
+        "email": "",
+        "conf": "Environmental Microbiology",
+        "coauthors": [
+            "Renee J. Smith",
+            "Thomas C. Jeffries",
+            "Ben Roudnew",
+            "Alison J. Fitch",
+            "Justin R. Seymour",
+            "Marina W. Delpin",
+            "Kelly Newton",
+            "Melissa H. Brown",
+            "James G. Mitchell"
+        ],
+        "keywords": "Circovirus, DNA replication, Rhodocyclales, Rhodospirillales, antibiotic resistance, aquifers, beta-lactamase, carbohydrate metabolism, community structure, dairy farming, delta-Proteobacteria, digestive system, drinking water, ecosystems, evolution, flagellum, genes, glucose, groundwater, groundwater contamination, lactose, metagenomics, niches, nutrition physiology, oceans, oxygen, phosphates, sediments, species diversity, starch"
+    },
+    {
+        "id": 3735,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "A controlled feeding experiment investigating the effects of a dietary switch on muscle and liver fatty acid profiles in Port Jackson sharks Heterodontus portusjacksoni",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "Fatty acid (FA) analysis is increasingly being used as a tool to investigate the diet of sharks and rays. Quantifying the diet of sharks using FA profiles, however, requires an understanding of the effects that fluctuating diet has on the biochemical pathways in different tissues, and of the time scales of FA integration. The effects of dietary changes on the muscle and liver FA profiles were investigated in a controlled feeding experiment with Port Jackson sharks (Heterodontus portusjacksoni) fed exclusively on squid then prawns for six weeks each. Multivariate analysis indicated that shark muscle and liver FA profiles were 9.8% and 7.7% dissimilar after dietary change. This suggests that dietary FAs are preferentially utilised by muscle after dietary change and that muscle FA profiles are a stronger indicator of dietary changes occurring within three weeks of sampling than the FA profiles of the liver. This should be carefully considered when determining the type of tissue and frequency of sampling needed to undertake chondrichthyan dietary studies based on FA profile analysis. Some FA biomarkers and their metabolic processes are also identified and described, but further work is required to enable quantitative assessment of a species diet. Data presented here gives justification towards more complex experiments to investigate metabolic and FA tissue incorporation rates.",
+        "email": "",
+        "conf": "Journal of Experimental Marine Biology and Ecology",
+        "coauthors": [
+            "Crystal L Beckmann",
+            "James G. Mitchell",
+            "David A.J. Stone",
+            "Charlie Huveneers"
+        ],
+        "keywords": "Controlled feeding experiment,Diet,Fatty acid,Feeding ecology,Port Jackson shark"
+    },
+    {
+        "id": 3805,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Velocity changes long runs and reversals in the Chromatium minus swimming response",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "The velocity, run time, path curvature, and reorientation angle of Chromatium minus were measured as a function of light intensity, temperature, viscosity, osmotic pressure, and hydrogen sulfide concentration. C. minus changed both velocity and run time. Velocity decreased with increasing light intensity in sulfide-depleted cultures and increased in sulfide-replete cultures. The addition of sulfide to cultures grown at low light intensity (10 microeinsteins m-2 s-1) caused mean run times to increase from 10.5 to 20.6 s. The addition of sulfide to cultures grown at high light intensity (100 microeinsteins m-2 s-1) caused mean run times to decrease from 15.3 to 7.7 s. These changes were maintained for up to an hour and indicate that at least some members of the family Chromatiaceae simultaneously modulate velocity and turning frequency for extended periods as part of normal taxis.",
+        "email": "",
+        "conf": "Journal of Bacteriology",
+        "coauthors": [
+            "James G. Mitchell",
+            "Maira Martinez-Alonso",
+            "Jorge Lalucat",
+            "I Esteve",
+            "Simon Brown"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3812,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Microzones surrounding phytoplankton form the basis for a stratified marine microbial ecosystem",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "Although there are 107–109 bacteria per litre of sea water and up to 50% of marine primary productivity passes through them1, no direct information exists on small-scale spatial distributions of individual bacteria. It has been proposed that bacteria cluster around participate nutrient sources2–4, but evidence for this is indirect, based on the presence of chemo taxis in isolates and a broad range—10−9–10−4 M—of uptake affinity constants3. These data have led to the suggestion that there exist oceanic microzones having utilizable dissolved organic carbon (uDOC) orders of magnitude above background concentrations4. Here, our calculations of size (10−1 cm), utilizable DOC concentrations (10−9–10−7 M) and lifetimes of these nutrient gradients suggest that bacteria cluster around phytoplankton in low-turbulence layers and sheets comprising the thermocline. There, phytoplankton may sink slowly enough for bacteria to keep up with them, and mixing times are long enough to allow nutrient gradients to develop and bacteria to track these gradients. However, very favourable conditions are required for micro zone concentrations to be significantly above background.",
+        "email": "",
+        "conf": "Nature",
+        "coauthors": [
+            "James G. Mitchell",
+            "Akira Okubo",
+            "Jed A Fuhrman"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3737,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Vibrio coralliilyticus Search Patterns across an Oxygen Gradient",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "The coral pathogen, Vibrio coralliilyticus shows specific chemotactic search pattern preference for oxic and anoxic conditions, with the newly identified 3-step flick search pattern dominating the patterns used in oxic conditions. We analyzed motile V. coralliilyticus cells for behavioral changes with varying oxygen concentrations to mimic the natural coral environment exhibited during light and dark conditions. Results showed that 3-step flicks were 1.4× (P = 0.006) more likely to occur in oxic conditions than anoxic conditions with mean values of 18 flicks (95% CI = 0.4, n = 53) identified in oxic regions compared to 13 (95% CI = 0.5, n = 38) at anoxic areas. In contrast, run and reverse search patterns were more frequent in anoxic regions with a mean value of 15 (95% CI = 0.7, n = 46), compared to a mean value of 10 (95% CI = 0.8, n = 29) at oxic regions. Straight swimming search patterns remained similar across oxic and anoxic regions with a mean value of 13 (95% CI = 0.7, n = oxic: 13, anoxic: 14). V. coralliilyticus remained motile in oxic and anoxic conditions, however, the 3-step flick search pattern occurred in oxic conditions. This result provides an approach to further investigate the 3-step flick.",
+        "email": "",
+        "conf": "PLoS ONE",
+        "coauthors": [
+            "Karina Winn",
+            "David G Bourne",
+            "James G. Mitchell"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3772,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Flow cytometric analysis of virus-like particles and heterotrophic bacteria within coral-associated reef water",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of the Marine Biological Association of the UK",
+        "coauthors": [
+            "N. L. Patten",
+            "Justin R Op",
+            "Seymour",
+            "James G. Mitchell"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3720,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Persistence loss and appearance of bacteria upstream and downstream of a river system",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "Bacterial taxa shape microbial community composition and influence aquatic ecosystem dynamics. Studies on bacterial persistence in rivers have primarily focussed on microbial-source tracking as an indicator for faecal-source contamination, whereas archetypal freshwater species have received minimal attention. The present study describes the river microbial communities upstream and 3.3 km downstream of a small rural town. By 16S rDNA sequencing, we report three patterns in microbial community composition, namely, persistence, loss and appearance. Persistence was observed as 46% inter-site similarity, perhaps owing to generalists that have information lengths that exceed 3.3 km and are capable of adapting to system fluctuations. Loss was observed as 10% site exclusivity upstream, perhaps owing to removal processes such as predation and lysis during transport downstream. Last, appearance was observed as 44% site exclusivity downstream, indicating potential anthropogenic impacts from land run-off on bacterial community composition. High multivariate dispersion among downstream samples, as well as overall sample dissimilarity, present as microscale hotspots of discrete Firmicutes and Cyanobacteria species, indicated higher heterogeneity downstream, and therefore increased patchiness from downstream transport and inputs of bacterial genotypes. These findings suggest relativities among three fates for bacterial species of fluvial systems, persistence, loss and appearance, with each having different effects on system dynamics.",
+        "email": "",
+        "conf": "Marine and Freshwater Research",
+        "coauthors": [
+            "Lisa Michelle Dann",
+            "Renee J Smith",
+            "Thomas Charles Jeffries",
+            "Jody C McKerral",
+            "Peter G Fairweather",
+            "Rod Oliver",
+            "James G. Mitchell"
+        ],
+        "keywords": "bacterioplankton, dispersal, diversity, freshwater, Murray–Darling system, running water, water column"
+    },
+    {
+        "id": 3758,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Prevalence of virus-like particles within a staghorn scleractinian coral (Acropora muricata) from the Great Barrier Reef",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "Transmission electron microscopy (TEM) was used to determine whether Acropora muricata coral colonies from the Great Barrier Reef (GBR), Australia, harboured virus-like particles (VLPs). VLPs were present in all coral colonies sampled at Heron Island (southern GBR) and in tagged coral colonies sampled in at least two of the three sampling periods at Lizard Island (northern GBR). VLPs were observed within gastrodermal and epidermal tissues, and on rarer occasions, within the mesoglea. These VLPs had similar morphologies to known prokaryotic and eukaryotic viruses in other systems. Icosahedral VLPs were observed most frequently, however, filamentous VLPs (FVLPs) and phage were also noted. There were no clear differences in VLP size, morphology or location within the tissues with respect to sample date, coral health status or site. The most common VLP morphotype exhibited icosahedral symmetry, 120–150 nm in diameter, with an electron-dense core and an electronlucent membrane. Larger VLPs of similar morphology were also common. VLPs occurred as single entities, in groups, or in dense clusters, either as free particles within coral tissues, or within membrane-bound vacuoles. VLPs were commonly observed within the perinuclear region, with mitochondria, golgi apparatus and crescent-shaped particles frequently observed within close proximity. The host(s) of these observed VLPs was not clear; however, the different sizes and morphologies of VLPs observed within A. muricata tissues suggest that viruses are infecting either the coral animal, zooxanthellae, intracellular bacteria and/or other coral-associated microbiota, or that the one host is susceptible to infection from more than one type of virus. These results add to the limited but emerging body of evidence that viruses represent another potentially important component of the coral holobiont.",
+        "email": "",
+        "conf": "Coral Reefs",
+        "coauthors": [
+            "N. L. Patten",
+            "Peter Lynton Harrison",
+            "James G. Mitchell"
+        ],
+        "keywords": "Coral, Microorganism, Electron microscopy, Virus like particle, Prevalence, Coral reef, Scleractinia, Virus, Great Barrier Reef, Great Barrier Reef, Cnidaria, Coelenterata, Invertebrata, Australia, Oceania"
+    },
+    {
+        "id": 3752,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Iron defecation by sperm whales stimulates carbon export in the Southern Ocean",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "The iron-limited Southern Ocean plays an important role in regulating atmospheric CO2 levels. Marine mammal respiration has been proposed to decrease the efficiency of the Southern Ocean biological pump by returning photosynthetically fixed carbon to the atmosphere. Here, we show that by consuming prey at depth and defecating iron-rich liquid faeces into the photic zone, sperm whales (Physeter macrocephalus) instead stimulate new primary production and carbon export to the deep ocean. We estimate that Southern Ocean sperm whales defecate 50 tonnes of iron into the photic zone each year. Molar ratios of Cexport ∶Feadded determined during natural ocean fertilization events are used to estimate the amount of carbon exported to the deep ocean in response to the iron defecated by sperm whales. We find that Southern Ocean sperm whales stimulate the export of 4 × 105 tonnes of carbon per year to the deep ocean and respire only 2 × 105 tonnes of carbon per year. By enhancing new primary production, the populations of 12 000 sperm whales in the Southern Ocean act as a carbon sink, removing 2 × 105 tonnes more carbon from the atmosphere than they add during respiration. The ability of the Southern Ocean to act as a carbon sink may have been diminished by large-scale removal of sperm whales during industrial whaling.",
+        "email": "",
+        "conf": "Proceedings of the Royal Society B: Biological Sciences",
+        "coauthors": [
+            "Trish J. Lavery",
+            "Ben Roudnew",
+            "Peter Gill",
+            "Justin Seymour",
+            "Laurent Seuront",
+            "Genevieve Johnson",
+            "James G. Mitchell",
+            "Victor Smetacek"
+        ],
+        "keywords": "ocean fertilization, Physeter macrocephalus, allochthonous nutrients, carbon fixation, carbon export, whaling"
+    },
+    {
+        "id": 3773,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Microscale patchiness of virioplankton",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of the Marine Biological Association of the UK",
+        "coauthors": [
+            "J.R. Seymour",
+            "Laurent Seuront",
+            "Mark Doubell",
+            "James G. Mitchell"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3769,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Microscale gradients of planktonic microbial communities above the sediment surface in a mangrove estuary",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "The microscale (1 and 4 cm sampling resolution) distributions of chemical (O2, NH3, NO3−, NO2−, PO43−) and biological (Chl a, phytoplankton, bacterioplankton, viruses) parameters were measured in the 16 cm of water immediately overlaying the sediment-water interface (SWI) within a temperate mangrove estuary in South Australia during December 2003 and March 2004. Shear velocities (u*) during the time of sampling were very low (<0.1 cm s−1), and we consequently predict that resuspension of organisms and materials was negligible. In December 2003, profiles were often characterised by strong gradients in nutrients and organisms, with the highest concentrations often observed within 0.5 cm of the SWI. Microscale patterns in O2, NH3, NO3− and NO2− indicated that a variety of anaerobic and aerobic transformation processes probably occurred at the SWI and within profiles. Strong gradients in PO43− were indicative of nutrient flux across the SWI as a consequence of degradation processes in the sediments. Pico- and nanophytoplankton concentrations were strongly correlated (p < 0.01) to PO43−, and exhibited 12- and 68-fold changes in abundance, respectively, with highest concentrations observed nearest to the SWI. Several bacterial subpopulations were discriminated using flow cytometry and significant shifts in the ‘cytometric structure’ of the bacterial community were observed within microscale profiles. Two populations of viruses were correlated to the phytoplankton and low DNA (LDNA) bacteria, and each exhibited elevated concentrations within 0.5 cm of the SWI. In March 2004, microscale distributions of O2 and nutrients were more homogenous than in December 2003, and dissimilar microbial community structure and patterns were observed above the SWI. The patterns observed here support the prediction that benthic processes can strongly influence the ecology of planktonic communities in the overlaying water, and provide further evidence for the existence of microscale variability amongst communities of aquatic microorganisms.",
+        "email": "",
+        "conf": "Estuarine, Coastal and Shelf Science",
+        "coauthors": [
+            "J. R. Seymour",
+            "Laurent Seuront",
+            "James G. Mitchell"
+        ],
+        "keywords": "sediment,estuary,bacteria,virus,phytoplankton,gradient"
+    },
+    {
+        "id": 3810,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Mechanoreception in calanoid copepods",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "A model of early detection of individual algal prey by copepod mechanoreception suggests that mechanoreception may serve as an indicator of prey position. Our model shows that the magnitude of the pressure disturbance created by a particle entrained in a feeding flow of a copepod increases linearly with increasing particle size, decreases as the square of the distance away from the antenna, and is unique for a given particle size. These pressure disturbances may be utilized by the copepod to determine the size and location of particles present in the feeding current and may provide information necessary for initial prey detection.",
+        "email": "",
+        "conf": "Marine Biology",
+        "coauthors": [
+            "M. F. Lgier-Visser",
+            "James G. Mitchell",
+            "A. Okubo",
+            "Jed A Fuhrman"
+        ],
+        "keywords": "Feeding behavior, Predatory behavior, Copepoda, Marine environment, Mechanoreception, Predation, Arthropoda, Crustacea, Invertebrata"
+    },
+    {
+        "id": 3739,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Population-specific shifts in viral and microbial abundance within a cryptic upwelling",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "Coastal upwelling systems play an essential role in bringing cold and nutrient-rich water into the euphotic zone, hence enhancing the biological productivity of the world's oceans. We describe a “cryptic” upwelling occurring in South Australian waters, in which cold upwelled waters do not reach surface waters and do not exhibit a sea surface temperature (SST) signature. Due to the wide continental shelf (ca. 100 km), upwelled waters form a sub-surface cold water pool and are forced north-west after a secondary event. Using flow cytometry we investigated the abundance and composition of viruses, heterotrophic bacteria and pico-phytoplankton within upwelling affected and unaffected waters. Our results identified the presence of upwelled waters at and below the Deep-Chlorophyll Maximum (DCM), where water temperature was at least 4 °C colder than surface waters. In contrast to previous studies, no significant differences were observed between upwelled and non-upwelled waters for most individual viral, bacterial and pico-phytoplankton sub-groups. However, one viral, one bacterial and two pico-phytoplankton sub-groups were significantly more abundant at the DCM. This indicates the presence of depth- and population-specific shifts in abundance and potential niche partitioning of these cytometrically-defined sub-groups that may be related to their host organisms and/or resource availability.",
+        "email": "jim.mitchell@flinders.edu.au",
+        "conf": "Journal of Marine Systems",
+        "coauthors": [
+            "James S Paterson",
+            "Sasi Nayar",
+            "James G. Mitchell",
+            "Laurent Seuront"
+        ],
+        "keywords": "Coastal upwelling,Cryptic,Viruses,Bacteria,Pico-phytoplankton,Flow cytometry"
+    },
+    {
+        "id": 3792,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Bacterial Swimming Strategies and Turbulence",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "",
+        "email": "",
+        "conf": "Biophysical Journal",
+        "coauthors": [
+            "Rolf H. Luchsinger",
+            "Birger Bergersen",
+            "James G. Mitchell"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3744,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Geochemical and microbial diversity of Bundera sinkhole an anchialine system in the eastern Indian Ocean",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "The anchialine system at Bundera sinkhole, Australia, exhibits pronounced hydrogeochemical structure through depth that is reflected in the composition and distribution of the fauna. It is a strongly structured microbial ecosystem the components of which also change with depth and which is dominated by sulfur bacteria and chemolithotrophic microbial classes.",
+        "email": "",
+        "conf": "Natura Croatica",
+        "coauthors": [
+            "William Humphreys",
+            "Sasha Tetu",
+            "Liam Elbourne",
+            "Michael Gillings",
+            "Justin Seymour",
+            "Jim Mitchell",
+            "Ian Paulsen"
+        ],
+        "keywords": "anchialine; chemocline; 16S amplicon sequencing; sulfur bacteria; chemolithotrophy"
+    },
+    {
+        "id": 3742,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Population metrics and movements of two carcharhinids: a comparison of the vulnerability of pelagic sharks of the southern Australian gulfs and shelves",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "The dusky shark Carcharhinus obscurus and the bronze whaler Carcharhinus brachyurus are large-bodied, marine predators that inhabit coastal and shelf waters of southern Australia. C. obscurus is considered to be among the most vulnerable pelagic sharks to overexploitation. This study focussed on population metrics and movement patterns of these sympatric species. Litters from two pregnant C. brachyurus were examined; these comprised 20 and 24 embryos, respectively. Tagging data indicated that 75% of whaler sharks tagged in this region by recreational fishers were juveniles, and 58% of recaptures occurred within 50 km of the tagging locations. Fishery catch samples comprised 99% juvenile C. brachyurus and C. obscurus. Our findings suggested that semi-protected gulf waters represented ecologically significant habitats of juveniles. A fuzzy-logic model showed that in terms of relative vulnerability to fishing, C. brachyurus ranked in the mid to lower end of the spectrum, when compared with six sympatric pelagic shark species, including the white shark, Carcharodon carcharias. Our findings emphasised a need for improvement to management measures for these carcharhinids, which are likely to play a significant role in the functioning of the temperate gulf and shelf ecosystems.",
+        "email": "",
+        "conf": "Marine and Freshwater Research",
+        "coauthors": [
+            "Paul J Rogers",
+            "Charlie Huveneers",
+            "Simon D Goldsworthy",
+            "W W L Cheung",
+            "G K Jones",
+            "James G Mitchell",
+            "Laurent Seuront"
+        ],
+        "keywords": "ecologically significant habitats, ecosystems, fidelity, tagging"
+    },
+    {
+        "id": 3803,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "A practical optical trap for manipulating and isolating bacteria from complex microbial communities",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "A wide variety of naturally occurring bacteria cannot be isolated by classical microbiological methods, hindering study of microbial communities. To partially remove this limitation, a method using optical trapping was developed. It allows for one-step isolation of bacteria from a complex community to a pure culture. The method transfers a single bacterium to sterile culture medium using a non-destructive laser beam. The ease with which a previously unculturable cell was cultured by trapping suggests that competition may limit growth in some natural communities of bacteria.",
+        "email": "",
+        "conf": "Microbial Ecology",
+        "coauthors": [
+            "James G. Mitchell",
+            "Roland Weller",
+            "Maria Beconi",
+            "John Sell",
+            "Jack Holland"
+        ],
+        "keywords": "Bacteria,Laser beams,Microbial ecology,Microscopes,Rumen fluids,Velocity,Lasers,Video camera,Cultured cells,Photons"
+    },
+    {
+        "id": 3753,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Prokaryotic aminopeptidase activity along a continuous salinity gradient in a hypersaline coastal lagoon (the Coorong South Australia)",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "The distribution and aminopeptidase activity of prokaryotes were investigated along a natural continuous salinity gradient in a hypersaline coastal lagoon, the Coorong, South Australia. The abundance of prokaryotes significantly increased from brackish to hypersaline waters and different sub-populations, defined by flow cytometry, were observed along the salinity gradient. While four sub-populations were found at each station, three additional ones were observed for 8.3% and 13.4%, suggesting a potential modification in the composition of the prokaryotic communities and/or a variation of their activity level along the salinity gradient. The aminopeptidase activity highly increased along the gradient and salinity appeared as the main factor favouring this enzymatic activity. However, while the aminopeptidase activity was dominated by free enzymes for salinities ranging from 2.6% to 13.4%, cell-attached aminopeptidase activity was predominant in more saline waters (i.e. 15.4%). Changes in substrate structure and availability, strongly related to salinity, might (i) modify patterns of both aminopeptidase activities (free and cell-associated enzymes) and (ii) obligate the prokaryotic communities to modulate rapidly their aminopeptidase activity according to the nutritive conditions available along the gradient.",
+        "email": "",
+        "conf": "Saline Systems",
+        "coauthors": [
+            "Thomas Pollet",
+            "Mathilde Schapira",
+            "Marie-Jeanne Buscot",
+            "Sophie C Leterme",
+            "James G Mitchell",
+            "Laurent Seuront"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3715,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Microbial micropatches within microbial hotspots",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "The spatial distributions of organism abundance and diversity are often heterogeneous. This includes the sub-centimetre distributions of microbes, which have ‘hotspots’ of high abundance, and ‘coldspots’ of low abundance. Previously we showed that 300 μl abundance hotspots, coldspots and background regions were distinct at all taxonomic levels. Here we build on these results by showing taxonomic micropatches within these 300 μl microscale hotspots, coldspots and background regions at the 1 μl scale. This heterogeneity among 1 μl subsamples was driven by heightened abundance of specific genera. The micropatches were most pronounced within hotspots. Micropatches were dominated by Pseudomonas, Bacteroides, Parasporobacterium and Lachnospiraceae incertae sedis, with Pseudomonas and Bacteroides being responsible for a shift in the most dominant genera in individual hotspot subsamples, representing up to 80.6% and 47.3% average abundance, respectively. The presence of these micropatches implies the ability these groups have to create, establish themselves in, or exploit heterogeneous microenvironments. These genera are often particle-associated, from which we infer that these micropatches are evidence for sub-millimetre aggregates and the aquatic polymer matrix. These findings support the emerging paradigm that the microscale distributions of planktonic microbes are numerically and taxonomically heterogeneous at scales of millimetres and less. We show that microscale microbial hotspots have internal structure within which specific local nutrient exchanges and cellular interactions might occur.",
+        "email": "",
+        "conf": "PLoS ONE",
+        "coauthors": [
+            "Lisa Michelle Dann",
+            "Jody C Mckerral",
+            "Renee J Smith",
+            "Shanan S Toba",
+            "James S Paterson",
+            "Justin R Seymour",
+            "Rod L Oliver",
+            "James G. Mitchell"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3763,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Stratification of the microbial community inhabiting an anchialine sinkhole",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "Bundera Sinkhole in northwestern Australia is an anchialine ecosystem characterised by a highly stratified water column comprising a complex polymodal profile of several physico-chemical parameters. We studied the microscale and finescale dynamics of the resident microbial community within the sinkhole. Sub-millimetre scale distributions of phytoplankton abundance were measured in the top 8 m of the water column using a free-falling high resolution fluorometer. Depth profiles were characterised by a strong, 10 to 20 cm layer of elevated fluorescence, occurring at approximately 1 m depth, which despite changes in magnitude and width was found to persist during a 24 h sampling period. Near surface distributions of microbial populations were measured using a syringe sampling profiler, which allowed for collection of water samples at 5 cm resolution, and flow cytometric analysis. These samples revealed a complex microbial assemblage, with multiple sub-populations of viruses, bacteria and picophytoplankton present throughout the water column. Within 3 m profiles, the bacterial and virus populations showed marked shifts in relative abundance, with changes of over 35-fold observed across as little as 20 cm. Samples collected from the surface to a depth of 30 m by divers also revealed distinct peaks and layers in the relative abundance of the different bacteria and virus sub-populations, which often corresponded to heterogeneities in chemical and nutrient parameters, and at some depths indicated the prevalence of chemolithotrophic populations. The complex patterns described here represent the first comprehensive observations of microbial spatiotemporal dynamics throughout an anchialine ecosystem and reveal a highly structured microbial habitat consisting of discrete niches, each dominated by heterotrophic, phototrophic or chemoautotrophic microorganisms.",
+        "email": "",
+        "conf": "Aquatic Microbial Ecology",
+        "coauthors": [
+            "J. R. Seymour",
+            "William F Humphreys",
+            "James G. Mitchell"
+        ],
+        "keywords": "Anchialine,Sinkhole,Bacteria,Stratification,Chemoautotrophy,Virus,Phytoplankton"
+    },
+    {
+        "id": 3806,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Gyrotaxis as a new mechanism for generating spatial heterogeneity and migration in microplankton",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "Velocity gradients in seawater (shear) are found throughout the oceans. At microscales, shear occurs as laminar flow. This laminar flow exerts a torque on microplankton. We report that the shear across a microplankter’s surface due to oceanic mixed‐layer turbulence is of the correct magnitude to produce millimeter‐sized clusters of plankton. The production of these clusters is independent of surfaces, chemical gradients, and light cues. Above critical concentrations of 103– l04 cells m1−1 clusters can become temporarily stable, sinking as streamers of plankton‐laden water with radii of one or more millimeters. These streamers can increase migratory velocities by an order of magnitude.",
+        "email": "",
+        "conf": "Limnology and Oceanography",
+        "coauthors": [
+            "James G. Mitchell",
+            "AKIRA OKUBO",
+            "Jed A Fuhrman"
+        ],
+        "keywords": "Cluster, Heterogeneity, Migration, Marine environment, Plankton, Spatial distribution, Turbulence"
+    },
+    {
+        "id": 3800,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Natural assemblages of marine bacteria exhibiting high-speed motility and large accelerations",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "",
+        "email": "",
+        "conf": "Applied and Environmental Microbiology",
+        "coauthors": [
+            "James G. Mitchell",
+            "L Pearson",
+            "Simon Dillon",
+            "Katerina Kantalis"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3774,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Fabrication of gold nanostructures by templating from porous diatom frustules",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "",
+        "email": "",
+        "conf": "New Journal of Chemistry",
+        "coauthors": [
+            "Dusan Losic",
+            "James G. Mitchell",
+            "Nicolas H Voelcker"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3760,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Determining coastal inlet flushing times: A practical expression for use in aquaculture and pollution management",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "It is often necessary to compare the flushing of coastal inlets in selecting sites for aquaculture or in making recommendations on pollution hazards. We derive an expression for a reference flushing time. In which h is the mean depth of the inlet, (E‐R ) is the net evaporation rate, S1 is the salinity of the open ocean, S2 is the (volume) average salinity in the inlet and ΔS = S2‐S1 o is easily evaluated from simply obtained data sets, especially in a steady‐state situation, or for an harmonic annual cycle. We show that o is a good estimate of the flushing time for sources within the body of the inlet.",
+        "email": "",
+        "conf": "Aquaculture Research",
+        "coauthors": [
+            "P G Strutton",
+            "John Bye",
+            "James G. Mitchell"
+        ],
+        "keywords": "aquaculture,evaporation rate, oceans, pollution, salinity"
+    },
+    {
+        "id": 3734,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Determining the Metabolic Footprints of Hydrocarbon Degradation Using Multivariate Analysis",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "The functional dynamics of microbial communities are largely responsible for the clean-up of hydrocarbons in the environment. However, knowledge of the distinguishing functional genes, known as the metabolic footprint, present in hydrocarbon-impacted sites is still scarcely understood. Here, we conducted several multivariate analyses to characterise the metabolic footprints present in a variety of hydrocarbon-impacted and non-impacted sediments. Non-metric multi-dimensional scaling (NMDS) and canonical analysis of principal coordinates (CAP) showed a clear distinction between the two groups. A high relative abundance of genes associated with cofactors, virulence, phages and fatty acids were present in the non-impacted sediments, accounting for 45.7 % of the overall dissimilarity. In the hydrocarbon-impacted sites, a high relative abundance of genes associated with iron acquisition and metabolism, dormancy and sporulation, motility, metabolism of aromatic compounds and cell signalling were observed, accounting for 22.3 % of the overall dissimilarity. These results suggest a major shift in functionality has occurred with pathways essential to the degradation of hydrocarbons becoming overrepresented at the expense of other, less essential metabolisms.",
+        "email": "",
+        "conf": "PLoS ONE",
+        "coauthors": [
+            "Renee J Smith",
+            "Thomas Charles Jeffries",
+            "Eric M Adetutu",
+            "Peter G Fairweather",
+            "James G. Mitchell"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3766,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Phytoplankton patch patterns: Seascape anatomy in a turbulent ocean",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of Marine Systems",
+        "coauthors": [
+            "James G. Mitchell",
+            "Hidekatsu Yamazaki",
+            "Laurent Seuront",
+            "Hua Li"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3756,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Mesoscale and microscale spatial variability of bacteria and viruses during a Phaeocystis globosa bloom in the Eastern English Channel",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "Sampling was conducted within inshore and offshore sites, characterized by highly dissimilar hydrodynamic and hydrobiological conditions, in the Eastern English Channel. The eutrophic inshore site was dominated by the influence of a dense bloom of the Prymnesiophyceae phytoplankton species Phaeocystis globosa, while the offshore site was characterized by more oceanic conditions. Within each site the microscale distributions of chlorophyll a and several flow cytometrically-defined subpopulations of heterotrophic bacteria and viruses were measured at a spatial resolution of 5 cm. The inshore site was characterized by comparatively high levels of microscale spatial variability, with concentrations of chlorophyll a, heterotrophic bacteria, and viruses varying by 8, 11 and 3.5-fold respectively across distances of several centimeters. Within the offshore site, microscale distributions of chlorophyll a and bacteria were markedly less variable than within the inshore site, although viruses exhibited slightly higher levels of heterogeneity. Significant mesoscale variability was also observed when mean microbial parameters were compared between the inshore and offshore sites. However, when the extent of change (max/min and coefficient of variation) was compared between meso- and microscales, the variability observed at the microscale, particularly in the inshore site, was substantially greater. This pattern suggests that microscale processes associated with Phaeocystis globosa bloom dynamics can generate heterogeneity amongst microbial communities to a greater degree than large scale oceanographic discontinuities.",
+        "email": "",
+        "conf": "Estuarine Coastal and Shelf Science",
+        "coauthors": [
+            "J.R. Seymour",
+            "Laurent Seuront",
+            "Mark J Doubell",
+            "James G. Mitchell"
+        ],
+        "keywords": "microscale,bacteria,virus,Phaeocystis,patchiness "
+    },
+    {
+        "id": 3780,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Microscale and small-scale temporal dynamics of a coastal planktonic microbial community",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "The temporal dynamics of heterotrophic bacteria and Synechococcus-type cyanobacteria communities were studied in a coastal habitat characterised by strong hydrodynamic variability using 10 s (microscale) and 30 min (small-scale) sampling intervals. Flow cytometric analysis allowed for the discrimination of 3 populations of heterotrophic bacteria and the examination of the Synechococcus cell cycle. During the 11 h small-scale study, 2-fold changes in the total abundance of both the bacterial and Synechococcus communities were observed, and clear temporal patterns in the abundance, activity and cellular state of the 2 populations were evident. Cumulative sum analysis further revealed distinct periods and trends in the temporal dynamics of the bacterial and Synechococcus communities. Shifts in the abundance of all heterotrophic bacterial populations were significantly correlated to turbulent energy dissipation. No such correlation was evident for the Synechococcus population, which instead appeared to follow a diel cell cycle very similar in nature to patterns observed in other environments. In 2 microscale studies, conducted during dissimilar hydrodynamic conditions, approx. 2-fold shifts in the abundance of the bacterial and Synechococcus populations were also observed. Microscale temporal patterns were dominated by localised variability and the existence of hotspots in abundance and activity, although cumulative sum analysis also revealed more general trends, sometimes occurring over periods of several minutes. Fundamentally different patterns, in the extent of temporal variability and coupling between the different microbial populations, were observed between the microscale and small-scale studies, suggesting that intrinsically different mechanisms and responses occurred independently and simultaneously at the different temporal scales. Furthermore, the variability in microbial parameters observed over these short temporal scales indicates the profound importance of microscale and small-scale processes in the ecology of communities of marine microorganisms.",
+        "email": "",
+        "conf": "Marine Ecology Progress Series",
+        "coauthors": [
+            "JR Seymour",
+            "Laurent Seuront",
+            "James G. Mitchell"
+        ],
+        "keywords": "Heterotrophic bacteria, Synechococcus, Small scale, Microscale, Temporal variability"
+    },
+    {
+        "id": 3799,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Non-linear analysis of chlorophyll a transects as a method of quantifying spatial structure",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of Plankton Research",
+        "coauthors": [
+            "Peter G. Strutton",
+            "James G. Mitchell",
+            "John S. Parslow"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3722,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Microscale distributions of freshwater planktonic viruses and prokaryotes are patchy and taxonomically distinct",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "Microscale microbial distributions are patchy, with abundance hotspots and coldspots that provide important microenvironments for microbial interactions. However, studies are often restricted to abundance estimates alone. At the riverbed of the Murray River, we used taxonomy to complement quantitative analysis to show that abundance hotspots, coldspots and background levels are taxonomically distinct at all taxonomic levels. Abundance hotspots varied 115- and 5.9-fold above background over 0.9 cm for viruses and bacteria, respectively. For bacteria, hotspots represent increases in particular taxa rather than in all bacteria. Genera with increased abundances—Pseudomonas, Parasporobacterium, Lachnospiraceae incertae sedis and Bacteroides—were indicative of human and animal inputs, and represented up to 14.7% of the community. Distinct dominant genera led to high taxonomic dissimilarity among hotspots. Genera exclusivity was still higher in the background and coldspots, with 54 and 48 exclusive genera compared to 7 and 4 genera in hotspots, suggesting hotspots from persistent genera, rather than introduced genera. Hotspots were more similar to coldspots than background, suggesting coldspots may represent dying hotspots. Sample category predicted taxonomic similarity better than proximity, further indicating these heterogeneities are distinct from the background at the sub-centimetre scale. Hotspots and coldspots represent distinct spatial taxonomic distributions, rather than changes of the overall community. This suggests 0.3 ml volumes are cohesive long enough for particular operational taxonomic units (OTUs) to increase and create taxonomically distinct microscale communities within the Kolmogorov and Batchelor scales.",
+        "email": "",
+        "conf": "Aquatic Microbial Ecology",
+        "coauthors": [
+            "Lisa Michelle Dann",
+            "Renee J Smith",
+            "Shanan S. Tobe",
+            "James S Peterson",
+            "Rod L Oliver",
+            "James G. Mitchell"
+        ],
+        "keywords": "Microscale patchiness, Hotspots, Coldspots, Bacterioplankton, Species composition"
+    },
+    {
+        "id": 3781,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Foraging kinematics of barramundi during early stages of development",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of Fish Biology",
+        "coauthors": [
+            "Natalie Dowling",
+            "S. J. Hall",
+            "James G. Mitchell"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3723,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Distributions of Virus-Like Particles and Prokaryotes within Microenvironments",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "Microbial interactions are important for ecosystem function, but occur at the microscale and so are difficult to observe. Previous studies in marine systems have shown significant shifts in microbial community abundance and composition over scales of micrometres to centimetres. This study investigates the microscale abundance distributions of virus-like particles (VLPs) and prokaryotes in the lower reaches of a river to determine the extent to which microscale microbial patchiness exists in freshwater systems. Here we report local hotspots surrounded by gradients that reach a maximum 80 and 107 fold change in abundance over 0.9 cm for prokaryotic and VLP subpopulations. Changes in prokaryotic and VLP hotspots were tightly coupled. There were no gradients at tens of centimetres across the boundary layers, which is consistent with strong mixing and turbulence-driven aggregation found in river systems. Quantification of the patchiness shows a marked asymmetry with patches 10 times greater than background common, but depletions being rare or absent in most samples. This consistent asymmetry suggests that coldspots depleted by grazing and lysis are rapidly mixed to background concentrations, while the prevalence of hotspots indicates persistence against disruption. The hotspot to coldspot relative abundance may be useful for understanding microbial river dynamics. The patchiness indicates that the mean- field approach of bulk phase sampling misses the microbially relevant community variation and may underestimate the concentrations of these important microbial groups.",
+        "email": "",
+        "conf": "PLoS ONE",
+        "coauthors": [
+            "Lisa Michelle Dann",
+            "James S Paterson",
+            "Kelly Newton",
+            "Rod Oliver",
+            "James G. Mitchell"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3725,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Surface modification of an organic hessian substrate leads to shifts in bacterial biofilm community composition and abundance",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "Antifouling strategies to limit biofilms on submerged surfaces in the marine environment are of particular interest due to the economic and environmental impacts in industries such as shipping and aquaculture. Here, we investigate the influence of chemically modified hessian bag surfaces on the bacterial abundance and community composition of biofilm formation using flow cytometry and 16S rRNA pyrosequencing. Hessian bags were coated with 5% and 10% Propyl(trimethoxy)silane (PTMS) and half of the bags had their lignin and hemicellulose removed via NaOH mercerisation. Significantly lower bacterial abundance was observed on mercerised bags treated with 5% PTMS (p < 0.01). Significant shifts in bacterial taxa were also observed (p = 0.0004), whereby unmercerised bags exhibited higher relative abundances of the anaerobic family Desulfovibrionaceae (4.5 ± 1.7%), while mercerised bags displayed higher relative abundances of the aerobic family Phyllobacteriaceae (3.6 ± 1.7%). This suggests that the mercerisation process may lower colonization rates and subsequently produce a thinner biofilm. This hypothesis is strengthened by the lower abundance of bacteria on mercerised bags, particularly on the 5% PTMS coating. Our results show that modifying a hessian surface via non-toxic coating and mercerisation reduces biofilm formation and also shifts the dominant taxa, increasing our understanding of antifouling strategies in the marine environment.",
+        "email": "",
+        "conf": "Journal of Biotechnology",
+        "coauthors": [
+            "James S Paterson",
+            "Samuel Ogden",
+            "Renee J Smith",
+            "Marina W Delpin",
+            "James G Mitchell",
+            "Jamie S Quinton"
+        ],
+        "keywords": "Bacteria,Biofilm biology,Biofouling,Surface microbiology,Flow cytometry"
+    },
+    {
+        "id": 3732,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Virio- and Bacterioplankton Microscale Distributions at the Sediment-Water Interface",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "The marine sediment-water interface is an important location for microbially controlled nutrient and gas exchange processes. While microbial distributions on the sediment side of the interface are well established in many locations, the distributions of microbes on the water side of the interface are less well known. Here, we measured that distribution for marine virio- and bacterioplankton with a new two-dimensional technique. Our results revealed higher heterogeneity in sediment-water interface biomass distributions than previously reported with a greater than 45– and 2500-fold change cm−1 found within bacterial and viral subpopulations compared to previous maxima of 1.5- and 1.4-fold cm−1 in bacteria and viruses in the same environments. The 45-fold and 2500-fold changes were due to patches of elevated and patches of reduced viral and bacterial abundance. The bacterial and viral hotspots were found over single and multiple sample points and the two groups often coincided whilst the coldspots only occurred over single sample points and the bacterial and viral abundances showed no correlation. The total mean abundances of viruses strongly correlated with bacteria (r = 0.90, p<0.0001, n = 12) for all three microplates (n = 1350). Spatial autocorrelation analysis via Moran’s I and Geary’s C revealed non-random distributions in bacterial subpopulations and random distributions in viral subpopulations. The variable distributions of viral and bacterial abundance over centimetre-scale distances suggest that competition and the likelihood of viral infection are higher in the small volumes important for individual cell encounters than bulk measurements indicate. We conclude that large scale measurements are not an accurate measurement of the conditions under which microbial dynamics exist. The high variability we report indicates that few microbes experience the ‘average’ concentrations that are frequently measured.",
+        "email": "",
+        "conf": "PLoS ONE",
+        "coauthors": [
+            "Lisa Michelle Dann",
+            "James G. Mitchell",
+            "Peter G Speck",
+            "Kelly Newton",
+            "Thomas Jeffries",
+            "James S Paterson"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3775,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Pore Architecture of Diatom Frustules: Potential Nanostructured Membranes for Molecular and Particle Separations",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of Nanoscience and Nanotechnology",
+        "coauthors": [
+            "Dusan Losic",
+            "Gary Rosengarten",
+            "James G. Mitchell",
+            "Nicolas H Voelcker"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3721,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Macroscale distribution of virioplankton and heterotrophic bacteria in the Bohai Sea",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "In light of limited research into the relationship between the macroscale distribution and dynamic changes of microplankton in the shallow Bohai Sea, here we used flow cytometry to analyse samples collected from the Bohai Sea channel in winter and summer. Results showed that the average of both viral abundance (VA) and bacterial abundance (BA) were lower in winter (3.61 × 107 and 1.84 × 106 cells/mL, respectively) than in summer (7.47 × 107 and 5.05 × 106 cells/mL, respectively). At all 16 stations, VA was one order of magnitude greater than BA, with a positive relationship between one another. In the horizontal distribution, variations in VA and BA followed a similar trend, and both were obviously higher near-shore than offshore. In the vertical distribution, variations in both VA and BA did not show a clear relationship with water depth. VA and BA in summer were 2.1 and 2.7 times those in winter, respectively. Spearman correlation analysis showed that both VA and BA were correlated with the concentration of PO4-P in winter (positive) and NO3-N in summer (negative). Additionally, BA showed a negative correlation with salinity. It is clear that the macroscale distribution of these two kinds of microbes in the Bohai Sea is related to seasonal variation and nutrient availability.",
+        "email": "",
+        "conf": "FEMS Microbiology Ecology",
+        "coauthors": [
+            "Caixia Wang",
+            "Yibo Wang",
+            "James S Paterson",
+            "James G Mitchell",
+            "Xiaoke Hu",
+            "Hua Zhang",
+            "Yanqing Q. Sheng"
+        ],
+        "keywords": "virioplankton, heterotrophic bacteria, flow cytometry, macroscale distribution, Bohai Sea"
+    },
+    {
+        "id": 3813,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Modern archaeomonads indicate sea-ice environments",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "Diatoms, radiolarians, silicoflagellates, ebridians and archaeomonads are the primary groups of pelagic organisms in siliceous marine deposits, with only the archaemonads regarded as being absent from modern oceans and sediments. They remain a poorly known group of siliceous nanofossils in Cretaceous to Upper Tertiary marine sediments. We present here the first report, from any modern oceanic environment, of pelagic cysts that conform to the descriptions for Archaeomonadaceae. These cysts occurred in seawater, sea ice and marine-surface sediments, demonstrating the group is still extant. Furthermore, their distribution in modern sediment suggests they may be useful guide fossils for sea-ice environments as they occur abundantly only in polar or near-polar water where sea ice is present. Few other microorganisms seem to have such a close and exclusive association with sea ice, thus archaeomonads deserve increased attention as indicators of ice conditions for deep-water marine environments.",
+        "email": "",
+        "conf": "Nature",
+        "coauthors": [
+            "James G. Mitchell",
+            "Mary W Silver"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3768,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Effects of fixation and storage on flow cytometric analysis of marine bacteria",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of Oceanography",
+        "coauthors": [
+            "Eriko Kamiya",
+            "Shinji Izumiyama",
+            "Masahiko Nishimura",
+            "Kazuhiro Kogure"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3784,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Bacterial tracking of motile algae",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "",
+        "email": "",
+        "conf": "FEMS Microbiology Ecology",
+        "coauthors": [
+            "Greg Barbara",
+            "James G. Mitchell"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3728,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Putative Effect of Aquifer Recharge on the Abundance and Taxonomic Composition of Endemic Microbial Communities",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "Drought events and the overexploitation of freshwater resources have led to the increased need to manage groundwater reserves. Aquifer storage and recovery (ASR), whereby artificial water is injected into aquifers for storage, is one of the proposed methods by which freshwater supplies can be increased. Microbial clogging following injection, however, is a major issue. Here, during laboratory simulations of ASR, we used flow cytometry and bar-coded pyrosequencing to investigate changes in microbial abundance and community dynamics. Bacterial abundance ranged from 5.0 × 104 to 1.4 × 107 cells ml-1 before the addition of synthetic wastewater. Following wastewater addition, a 25-fold decrease in abundance was observed, coinciding with a 12-fold increase in viral abundance. Taxa shifted from an overrepresentation of Sphingomonadales, Sphingobacteriales, Rhodospirillales, Caulobacterales, Legionellales, Bacillales, Fusobacteriales and Verrucomicrobiales prior to the addition of synthetic wastewater to Burkholderiales, Actinomycetales, Pseudomonadales, Xanthomonadales, Rhodobacterales, Thizobiales and Thiotrichales following the addition of synthetic wastewater. Furthermore, a significant difference in overall taxonomic composition between the groundwater samples before and after the addition of synthetic wastewater was observed, with water samples exhibiting more similarity to sediment samples after wastewater was added. Collectively, these results suggest that ASR may alter the taxonomic composition of endemic microbial communities and that complete profiles of groundwater properties, including microbial community abundance and composition need to be taken into consideration when selecting aquifers for ASR practices.",
+        "email": "",
+        "conf": "PLoS ONE",
+        "coauthors": [
+            "Renee J Smith",
+            "James S Paterson",
+            "Cally A Sibley",
+            "John L Hutson",
+            "James G. Mitchell"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3804,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "The influence of cell size on marine bacterial motility and energetics",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "The influence of Brownian motion on marine bacteria was examined. Due to their small size, marine bacteria rotate up to 1,400 degrees in one second. This rapid rotation makes directional swimming difficult or impossible, as a bacterium may point in a particular direction for only a few tens of milliseconds on average. Some directional movement, however, was found to be possible if swimming speed is sufficiently great, over approximately 100 μm sec−1. This led to the testable hypothesis that marine bacteria with radiii less than about 0.75 μm should exceed this speed. The result of the increased speed is that marine bacteria may spend in excess of 10% of their total energy budget on movement. This expenditure is 100 times greater than values for enteric bacteria, and indicates that marine bacteria are likely to be immotile below critical size-specific nutrient concentrations.",
+        "email": "",
+        "conf": "Microbial Ecology",
+        "coauthors": [
+            "James G. Mitchell"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3790,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Patchy Distribution and Diffusion",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "Biotic populations are usually distributed heterogeneously in their habitats, and the distribution itself is often patchy. In ecology, we conventionally classify the structure of dispersion into three categories: Frequency distributions may be random, uniform (regular), or clumped (contagious)",
+        "email": "",
+        "conf": "Diffusion and Ecological Problems: Modern Perspectives",
+        "coauthors": [
+            "Akira Okubo",
+            "James G. Mitchell"
+        ],
+        "keywords": "Internal Wave, Convection Cell, Patchy Distribution, Advance Very High Resolution Radiometer, Inertial Subrange "
+    },
+    {
+        "id": 3807,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "The contribution of phytoplankton to ocean density gradients",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "Oceanographers have not previously considered plankton as contributors to ocean density gradients, which are conventionally calculated from temperature and salinity alone in the upper ocean. However, we found that phytoplankton density gradients were in some cases comparable to the physical density gradients. As small density gradients drive some ocean currents, and help control gas and heat exchange between ocean and atmosphere, plankton are a hitherto undescribed variable influencing these processes. Density gradients also determine the nutrient input to the upper ocean, thus biological-physical feedback could influence phytoplankton abundance and species composition.",
+        "email": "",
+        "conf": "Deep Sea Research Part A Oceanographic Research Papers",
+        "coauthors": [
+            "James G. Mitchell",
+            "Akira Okubo",
+            "Jed A Fuhrman",
+            "William P Cochlan"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3815,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Silica nanostructure formation from synthetic R5 peptide",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "Diatoms have the ability to generate highly ornamented nanostructured silicified cell walls under ambient conditions and without harsh chemicals, yet the molecular mechanisms underlying biosilification are still not well understood. The idea of this study is to mimic silica biomineralization of diatom cell walls that may provide the key to the development of new routes towards novel tailor-made silicas. Here the ability of R5 peptide, a peptide from the silaffin-1 protein derived from diatom species of Cylindrotheca fusiformis, to generate silica nanostructure in vitro was investigated. The R5 peptide was synthesized using Fmoc Solid-Phase Peptide Synthesis and purified using reverse phase high performance liquid chromatography. MALDI analysis showed that the peptide was successfully synthesis. With the application of silicic acid as a silica precursor and the peptide as catalyse, the formation of silica nanostructure was achieved. AFM analysis of the precipitated silica from the mixture of silicic acid and the peptide revealed the nanostructure of silica spheres ranging between 50 - 300 nm in diameter. Silica precipitate was not obtained in the absence of R5 (negative control) and when the silicic acid was mixed with poly-L-lysine (positive control), a network of large aggregates of uniform size of silica spheres of about 100 nm in diameter was observed.",
+        "email": "",
+        "conf": "Smart Materials",
+        "coauthors": [
+            "Indrayani Tajuddin",
+            "Nicolas H Voelcker",
+            "James G. Mitchell"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3713,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Bacterial community structure in the Bohai Strait provides insights into organic matter niche partitioning",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "The Bohai Strait is a crucial pathway for water exchange between the Bohai Sea and the Yellow Sea, and exhibits a robust spatiotemporal pattern of hydrodynamic conditions. 16S rRNA amplicon sequencing was applied to study the spatiotemporal patterns of bacterial community composition and diversity in the Bohai Strait. Physical and chemical parameters were measured in order to explain what might control the observed patterns in community composition and diversity. In response to environmental changes between seasons, especially the dramatic changes of temperature and nutrient (NO2-N and PO4-P) levels, Synechococcus and unclassified genera in Family I predominated in summer while some oligotrophic taxa (e.g., Pelagibacter, OM43 clade) are more abundant in winter. The spatial heterogeneity and overall patchiness of bacterial assemblages in the Bohai Strait could not be well explained by the measured factors. However, the taxa with the most spatially variable presence and absence, e.g. Vibrionaceae, SAR11 and Sva0996 marine group, possess differentiated niches for utilization of organic matter (OM) and display a close relationship with the distribution of OM sources in this area, which may indicate the significance of OM sources to bacterial community structure. Our results suggest that local factors rather than regional factors, such as dispersal limited by hydrodynamics, structure the bacterial communities in the Bohai Strait.",
+        "email": "",
+        "conf": "Continental Shelf Research",
+        "coauthors": [
+            "Yibo Wang",
+            "Bin Wang",
+            "Lisa Michelle Dann",
+            "James G Mitchell",
+            "Xiaoke Hu",
+            "Haitian Tang",
+            "Hua Zhang",
+            "Yanqing Q. Sheng"
+        ],
+        "keywords": "Bohai Strait,Bacterial community,Seasonal and spatial heterogeneity,Environmental factor,Organic matter,Hydrodynamics,Niche partitioning"
+    },
+    {
+        "id": 3791,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Heterogeneity in bacterioplankton abundance from 4.5 millimetre resolution sampling",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "A suite of pneumatically operated sampling devices was employed to investigate distributional patterns of marine bacteria at the millimetre scale. Spatial heterogeneity in bacterial abundance, or patchiness, was expressed as a coefficient of variation, and ranged from 5.5 to 75%. Discrete regions of enhanced bacterial abundance, as well as clear gradients in abundance across entire sample arrays were observed, with changes in bacterial abundance of up to 16-fold observed across a distance of 32 mm. The role of turbulence in influencing bacterial distribution patterns was examined in a series of laboratory experiments. Levels of heterogeneity were found to be up to 6.5 times higher in stirred than unstirred water samples under laboratory conditions. The gradients in bacterial abundance observed here suggest that small-scale processes operate within the marine microenvironment to create and maintain spatial structure in the bacterioplankton community. We suggest that previously hypothesised nanoscale Œhot spots¹ and microzones exist only as maxima within a continuously variable distribution of bacteria within the marine environment.",
+        "email": "jim.mitchell@flinders.edu.au",
+        "conf": "Aquatic Microbial Ecology",
+        "coauthors": [
+            "Justin R Seymour",
+            "James G. Mitchell",
+            "Lyn Pearson",
+            "Raechel L Waters"
+        ],
+        "keywords": "Marine bacteria,Spatial heterogeneity,Patchiness,Turbulence,Small-scale"
+    },
+    {
+        "id": 3771,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "High-Resolution Fluorometer for Mapping Microscale Phytoplankton Distributions",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "",
+        "email": "",
+        "conf": "Applied and Environmental Microbiology",
+        "coauthors": [
+            "Mark Doubell",
+            "Laurent Seuront",
+            "Justin R Seymour",
+            "James G. Mitchell"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3754,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Diatomaceous Lessons in Nanotechnology and Advanced Materials",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "Silicon, in its various forms, finds widespread use in electronic, optical, and structural materials. Research on uses of silicon and silica has been intense for decades, raising the question of how much diversity is left for innovation with this element. Shape variation is particularly well examined. Here, we review the principles revealed by diatom frustules, the porous silica shells of diatoms, microscopic, unicellular algae. The frustules have nanometer‐scale detail, and the almost 100 000 species with unique frustule morphologies suggest nuanced structural and optical functions well beyond the current ranges used in advanced materials. The unique frustule morphologies have arisen through tens of millions of years of evolutionary selection, and so are likely to reflect optimized design and function. Performing the structural and optical equivalent of data mining, and understanding and adopting these designs, affords a new paradigm in materials science, an alternative to combinatorial materials synthesis approaches in spurring the development of new material and more nuanced materials.",
+        "email": "jim.mitchell@flinders.edu.au",
+        "conf": "Advanced Materials",
+        "coauthors": [
+            "Dusan Losic",
+            "James G. Mitchell",
+            "Nicolas H Voelcker"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3770,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Biologically induced modification of seawater viscosity in the Eastern English Channel during a Phaeocystis globosa spring bloom",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "To identify the potential relationship between Pheaocystis globosa bloom conditions and seawater properties, a hydrobiological survey was performed in the inshore waters of the Eastern English Channel over the course of the phytoplankton spring bloom. Chlorophyll concentration, auto- and hetero/mixotrophic composition of protists and standing stock, and seawater viscosity were measured weekly from March to June 2004. The decline of the bloom is characterized by a massive foam formation in the turbulent surf zone. Before foam formation, seawater viscosity significantly increased, showing a significant positive correlation with chlorophyll concentration. In contrast, after foam formation this correlation was negative, seawater viscosity kept increasing despite a sharp decrease in chlorophyll concentrations. No significant correlation has been found between seawater viscosity and the composition of the phytoplankton assemblages observed during the survey. However, significant positive correlations have been found between seawater viscosity and both the size and the abundance of P. globosa colonies. From the correlation patterns observed between chlorophyll concentration and seawater viscosity, we suggest that the rheological properties of seawater are mainly driven by extracellular materials associated with colony formation and maintenance rather than by cell composition and standing stock.",
+        "email": "",
+        "conf": "Journal of Marine Systems",
+        "coauthors": [
+            "Laurent Seuront",
+            "Dorothe Vincent",
+            "James G. Mitchell"
+        ],
+        "keywords": "Seawater viscosity,Phytoplankton,Rheology,Phaeocystis globosa,Spring bloom dynamics,Eastern English Channel"
+    },
+    {
+        "id": 3764,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Atomic force microscopy (AFM) characterisation of the porous silica nanostructure of two centric diatoms",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "The porous silica nanostructure of two marine, centric diatoms, Coscinodiscus sp. and Thalassiosira eccentrica was investigated by atomic force microscopy (AFM). Important morphological features of the silica frustules of diatoms are described, including: the organisation of porous silica layers, their topography, pore size, shape and density. The outer layer of Coscinodiscus sp., commonly called the cribellum, consists of a characteristic hexagonal array of pores with pore sizes of around 45 nm. This thin membrane covers a second structural layer where two different silica surfaces are identified. The outer part, known as the cribrum consists of hexagonally packed pores of about 200 nm diameter. The inner part, known as the foramen layer, consists of larger and radially distributed holes with a diameter of around 1,150 nm. The second diatom species investigated, T. eccentrica produces a frustule with one silica structural layer featuring two different porous surfaces. The outer surface has large (800 nm diameter) holes (foramen) while the inner surface contains a porous wall with pores comparable in size to the Coscinodiscus sp. cribellum. The inner and outer surfaces of the frustule wall of both diatoms are hence in reverse order. However, the size of the small pores is similar for both species. High-resolution AFM also revealed the granular nanostructure of the diatom biosilica with grain sizes from 20 to 70 nm diameters.",
+        "email": "",
+        "conf": "Journal of Porous Materials",
+        "coauthors": [
+            "Dusan Losic",
+            "Rachel J. Pillar",
+            "Thorsten Dilger",
+            "James G Mitchell",
+            "Nicolas H Voelcker"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3717,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Marine and giant viruses as indicators of a marine microbial community in a riverine system",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "Viral communities are important for ecosystem function as they are involved in critical biogeochemical cycles and controlling host abundance. This study investigates riverine viral communities around a small rural town that influences local water inputs. Myoviridae, Siphoviridae, Phycodnaviridae, Mimiviridae, Herpesviridae, and Podoviridae were the most abundant families. Viral species upstream and downstream of the town were similar, with Synechoccocus phage , salinus , Prochlorococcus phage , Mimivirus A, and Human herpes 6A virus most abundant, contributing to 4.9–38.2% of average abundance within the metagenomic profiles, with Synechococcus and Prochlorococcus present in metagenomes as the expected hosts for the phage. Overall, the majority of abundant viral species were or were most similar to those of marine origin. At over 60 km to the river mouth, the presence of marine communities provides some support for the Baas‐Becking hypothesis “everything is everywhere , but, the environment selects .” We conclude marine microbial species may occur more frequently in freshwater systems than previously assumed, and hence may play important roles in some freshwater ecosystems within tens to a hundred kilometers from the sea.",
+        "email": "",
+        "conf": "MicrobiologyOpen",
+        "coauthors": [
+            "Lisa M. Dann",
+            "Stephanie Rosales",
+            "Jody McKerral",
+            "James S. Paterson",
+            "Renee J. Smith",
+            "Thomas C. Jeffries",
+            "Rod L. Oliver",
+            "James G. Mitchell"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3719,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Hydrodynamic drift ratchet scalability",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "The hydrodynamic drift ratchet provides a novel means to continuously separate particles at the microscale, based on particle size. Separation arises from a combination of diffusion and particle‐wall hydrodynamic interactions. As there are currently no verified experiments, our aim is to determine numerically how these systems scale so that appropriate experiments can be designed. Using nondimensional variables, we derive the correct scaling parameters governing drift ratchets by simulating individual particle motion using a model that treats the particle dynamics at pore walls as elastic reflections. While our model does not quantitatively resolve the detailed hydrodynamic interactions, we show that it does recover the correct scaling behavior for these interactions. Our simulations demonstrate that the drift velocity relative to the characteristic pore size is independent of pore size if all the relevant nondimensional groups remain constant. Dynamic similarity can be used to facilitate the appropriate design and testing protocols for experiments.",
+        "email": "",
+        "conf": "AIChE Journal",
+        "coauthors": [
+            "James Herringer",
+            "Daniel Robert Lester",
+            "Graham E. Dorrington",
+            "Gary Rosengarten",
+            "James G Mitchell"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3729,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Living on the continental shelf edge: Habitat use of juvenile shortfin makos Isurus oxyrinchus in the Great Australian Bight southern Australia",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "We used satellite telemetry data to investigate the movement patterns and habitat use of juvenile shortfin makos Isurus oxyrinchus (Lamnidae) tagged in the Great Australian Bight, southern Australia. Tracking durations ranged from 49–672 days and six deployments were > 1 year. During winter and spring, some shortfin makos migrated to the tropical NE Indian Ocean and Coral Sea, and the Subtropical Front region. One shortfin mako undertook an extended migration of 25 550 km across the Indian Ocean. Areas characterized by sea‐mounts in the NE Indian Ocean, the oceanic Subtropical Front region, and the continental shelf edge (200‐m depth) and slope canyons were visited by several sharks. Juvenile shortfin makos used the outer continental shelf, the shelf edge, the slope and oceanic waters during migrations and mostly exhibited fidelity in the mid‐outer shelf, the shelf edge and slope habitats characterized by high bathymetric relief and oceanographic frontal gradients. Our findings highlighted that the continental shelf and slope and associated submarine canyons of the Great Australian Bight represent ecologically important habitats for juvenile shortfin makos. The findings of this study will be pertinent during future management processes for this highly migratory species in this Southern Hemisphere region.",
+        "email": "",
+        "conf": "Fisheries Oceanography",
+        "coauthors": [
+            "Paul J Rogers",
+            "Charlie Huveneers",
+            "Brad Page",
+            "Simon D Goldsworthy",
+            "Micheal Coyne",
+            "Andrew D Lowther",
+            "James G Mitchell",
+            "Laurent Seuront"
+        ],
+        "keywords": "critical habitat, fidelity, Lamnidae, migration, movement, telemetry"
+    },
+    {
+        "id": 3785,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Marine bacterial organisation around point-like sources of amino acids",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "To better understand the trigger for and use of motility in marine bacterial chemotaxis, specific (amino acids) chemical stimuli were used to test the effect on bacterial speed and reorientation. An assay system was developed to analyse bacterial behavioural responses to point-like nutrient sources (beads 10–40 μm). The marine bacteria Pseudoalteromonas haloplanktis, Shewanella putrefaciens, Deleya marina, the enteric bacterium Escherichia coli and an enriched assemblage of marine bacteria were used in the assay. E. coli responded to the amino acids (e.g. serine, leucine) in this assay in a manner similar to the classical capillary plating method, and accumulated near the attractants using biased random walks and maximum speeds of less than 30 μm s−1. The marine bacteria travelled more than 100 μm s−1 and reversed direction instead of randomly tumbling to reorientate. Marine bacteria also showed different chemotactic responses. The enriched marine community and P. haloplanktis were repelled by serine while leucine was an attractant for all three marine isolates. More importantly marine bacteria formed band specific distances (>20 μm) away from individual beads. The bands were composed of free-swimming bacteria rather than bacteria attached to the beads or chamber surfaces. The bands’ formation time (25–180 s) and width (5–20 μm) varied depending on the bacterial strains and attractant. This variation in chemotactic responses by the marine isolates may reflect adaptations to specific ecological niches of bacterioplankton in the ocean. However, band forming ability by marine bacteria has still only been reported in experimental studies, nutrient coupling between nutrient sources and bands of chemotactic marine bacteria have yet to be detected in the natural environment. The fragility of the bands, a clear association between free-swimming bacteria and nutrient, indicates the difficulty and potentially sets limits for finding microzones of bacteria around particles in the open ocean.",
+        "email": "",
+        "conf": "FEMS Microbiology Ecology",
+        "coauthors": [
+            "Greg Barbara",
+            "James G. Mitchell"
+        ],
+        "keywords": "Point source, Free-swimming bacterium, Bacterial clustering, Particle association"
+    },
+    {
+        "id": 3782,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Microscale heterogeneity in the activity of coastal bacterioplankton communities",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "Microscale sampling techniques and flow cytometry were employed to measure the distribution patterns of 8 subpopulations of bacteria separated according to variations in cell fluorescence and light scatter properties. Subpopulations of bacteria defined on the basis of these parameters have recently been shown to represent cells exhibiting dissimilar activity levels, and we therefore assume that the subpopulations of bacteria identified here represent metabolically diverse groups. Microscale distribution patterns of these subpopulations were measured at a resolution of 4.5 and 12 mm, within 2 dissimilar coastal habitats. A mean 2-fold change in the abundance of the total bacterial community across sample sets was observed. However, levels of spatial heterogeneity were consistently higher for the cytometrically defined subpopulations than total counts. In most samples, the population of bacteria exhibiting the highest levels of green fluorescence, or DNA content, and hence assumed to represent the most active bacteria in the community, also showed the highest levels of microscale spatial variability, with a maximum change in abundance of 14.5-fold observed across a distance of 9 mm. Where Zipf rank-size analysis was conducted, the microscale distributions of subpopulations differed significantly (p < 0.05) in 79% of cases, implying that bacterial communities are made up of physiologically distinct compartments, perhaps influenced by different microscale features of the environment. We suggest that these results provide the first evidence for the existence of microscale heterogeneity in the metabolic activity of aquatic bacterial communities.",
+        "email": "",
+        "conf": "Aquatic Microbial Ecology",
+        "coauthors": [
+            "JR Seymour",
+            "James G. Mitchell",
+            "Laurent Seuront"
+        ],
+        "keywords": "Marine bacteria, Microscale heterogeneity, Flow cytometry, Single cell activity"
+    },
+    {
+        "id": 3788,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Motion of Submicrometer Particles Dominated by Brownian Motion near Cell and Microfabricated Surfaces",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "",
+        "email": "",
+        "conf": "Nano Letters",
+        "coauthors": [
+            "Michelle Hale",
+            "James G. Mitchell"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3714,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Southern South Australian groundwater microbe diversity",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "Groundwater is increasingly used globally for domestic, industrial and agricultural production. While many studies have focused on groundwater as a resource, the diverse ecosystems within are often ignored. Here, we assess 54 Southern South Australian groundwater microbial communities from the populated part of the state to assess their status and dynamics in isolated groundwater systems. We observed a strong site-to-site individuality in groundwater bacterial communities, likely due to the isolated nature of groundwater bodies leading to unique ecosystems. Rank abundance analysis indicates bacterial diversity is maintained even at low abundances and that the distribution fits classical ecological models for strong competition in resource-limited environments. Combined, our data indicates that despite overrepresentation of pollutant-associated bacterial orders in and around the Adelaide metropolitan area, microbial communities remain diverse and show little evidence of converging on a common pollutant-effected community.",
+        "email": "",
+        "conf": "FEMS Microbiology Ecology",
+        "coauthors": [
+            "Renee J Smith",
+            "James S Paterson",
+            "Ilka Wallis",
+            "Elise Launer",
+            "Eddie W Banks",
+            "Etienne Bresciani",
+            "Roger H Cranswick",
+            "Shanan S Tobe",
+            "Shashikanth Marri",
+            "Peter Goonan",
+            "James G Mitchell"
+        ],
+        "keywords": "groundwater, microbial ecology, 16S rRNA sequencing"
+    },
+    {
+        "id": 3808,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Centimeter scale vertical heterogeneity in bacteria and chlorophyll a",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "The vertical distribution of bacterial abundance and chlorophyll a was examined at the centimeter scale with a high resolution sampler and the variation at this scale compared to the variation across the entire water column. Samples were taken near the mouth of Chesapeake Bay, USA, in the coastal Atlantic environment as part of the MECCAS (Microbial Exchanges and Couplings in Coastal Atlantic Systems) program. Bacterial abundance changed up to 5.1 times over the entire water column, while changing up to 3.5 times over 10cm. Chlorophyll a concentration changed up to 8 times over the entire water column and 5.1 times across the sampler. The high resolution of the sampler revealed steep gradients of bacterial abundance and chlorophyll a. Bacterial abundance changed up to 35 times m-', while the water column change was up to 2.1 times m-'. Chlorophylla changed up to 45 times m-', while the water column changes were less than 2 times m-' These changes and gradients over small scales indicate that at least under some conditions there are 'small2-scale processes occurring that may be important to plankton ecology, as has been suggested by some theoretical studies.",
+        "email": "",
+        "conf": "Marine Ecology Progress Series",
+        "coauthors": [
+            "James G. Mitchell",
+            "Jed A Fuhrman"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3783,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Rank-Size Analysis and Vertical Phytoplankton Distribution Patterns",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "",
+        "email": "",
+        "conf": "Handbook of Scaling Methods in Aquatic Ecology",
+        "coauthors": [
+            "James G. Mitchell"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3801,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "CLOD Spreading in the Sea-Surface Microlayer",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "",
+        "email": "",
+        "conf": "Science",
+        "coauthors": [
+            "Michelle Hale",
+            "James G. Mitchell",
+            "Mark M. Littler",
+            "Diane S. Littler"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3796,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Sea surface microlayer and bacterioneuston spreading dynamics",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "",
+        "email": "",
+        "conf": "Marine Ecology Progress Series",
+        "coauthors": [
+            "Hale",
+            "James G. Mitchell"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3779,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Fabrication of gold nanorod arrays by templating from porous alumina",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "",
+        "email": "",
+        "conf": "Nanotechnology",
+        "coauthors": [
+            "Dusan Losic",
+            "Joe G Shapter",
+            "James G. Mitchell",
+            "Nicolas H Voelcker"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3743,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Contrasting microbial assemblages in adjacent water masses associated with the East Australian Current",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "Different oceanographic provinces host discrete microbial assemblages that are adapted to local physicochemical conditions. We sequenced and compared the metagenomes of two microbial communities inhabiting adjacent water masses in the T asman S ea, where the recent strengthening of the E ast A ustralian C urrent (EAC ) has altered the ecology of coastal environments. Despite the comparable latitude of the samples, significant phylogenetic differences were apparent, including shifts in the relative frequency of matches to C yanobacteria , C renarchaeota and E uryarchaeota . Fine‐scale variability in the structure of SAR 11 , P rochlorococcus and S ynechococcus populations, with more matches to ‘warm‐water’ ecotypes observed in the EAC , indicates the EAC may drive an intrusion of tropical microbes into temperate regions of the T asman S ea. Furthermore, significant shifts in the relative importance of 17 metabolic categories indicate that the EAC prokaryotic community has different physiological properties than surrounding waters.",
+        "email": "",
+        "conf": "Environmental Microbiology Reports",
+        "coauthors": [
+            "Justin R Seymour",
+            "Martina Doblin",
+            "Thomas Charles Jeffries",
+            "Mark V Brown",
+            "Kelly Newton",
+            "Peter J Ralp",
+            "Mark Baird",
+            "James G. Mitchell"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3740,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Experimental Evaluation of Fatty Acid Profiles as a Technique to Determine Dietary Composition in Benthic Elasmobranchs",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "Fatty acid (FA) analysis is a tool for dietary investigation that complements traditional stomach content analyses. Controlled feeding experiments were used to determine the extent to which the FA composition of diet is reflected in the liver and muscle tissue of the Port Jackson shark Heterodontus portusjacksoni. Over 10 wk, two groups of sharks were fed prawns or squid, which have distinct FA profiles. The percentage of total FA was significantly different for shark liver and muscle tissue when comparing controls with prawn- and squid-fed sharks. Compared with experimentally fed sharks, control shark muscle and liver had higher levels of 18:1n-9 and 20:2n-9. When comparing prawn- and squid-fed sharks, only liver tissue showed a significant difference in FA profiles. The livers of prawn-fed sharks were comparatively higher in 18:1n-7, 22:5n-3, 20:0, and 18:1n-9, while the squid-fed sharks had higher levels of 16:0 and 22:6n-3. These FAs in shark liver tissue were all reflective of higher amounts in their respective dietary items, demonstrating the conservative transfer of FA from diet to liver tissue. This study shows that liver and muscle FA profiles can be used as indicators of dietary change through the comparison of controls and fed sharks. The timescale of this study may not have been sufficient for capturing the integration of FA into muscle tissue because only liver FA profiles were useful to distinguish between sharks fed different diets. These findings have important implications for sampling design where FA profiles are used to infer dietary preferences.",
+        "email": "",
+        "conf": "Physiological and Biochemical Zoology",
+        "coauthors": [
+            "Crystal L Beckmann",
+            "James G. Mitchell",
+            "Laurent Seuront",
+            "David A J Stone",
+            "Charlie Huveneers"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3748,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "A local upwelling controls viral and microbial community structure in South Australian continental shelf waters",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "Despite the increasing awareness of the role of viruses and heterotrophic bacteria in microbial dynamics and biogeochemical cycles, there is still a critical lack of information on their community composition and dynamics, especially in relation to upwellings. We investigated, within surface waters and the Deep Chlorophyll Max, the community composition and dynamics of flow cytometrically defined sub-populations of heterotrophic bacteria and virus-like particles in nearby water masses that were affected and unaffected by a localised wind-driven coastal upwelling. In contrast to previous studies we uniquely identified a 4-fold increase in total viral abundance and a decrease in bacterial abundance, from upwelled to offshore waters. Individual viral sub-populations were seen to correlate significantly to both bacterial populations and chlorophyll a, suggesting the possibility of individual viral populations infecting multiple host species rather than the often assumed single host species. The percentage of HDNA bacteria was high (84.3–93.4%) within upwelled waters, in accordance with the highest recorded values within an upwelling system, and decreased down to 35.5–42.6% away from the upwelling. Additionally, changes in the community composition of individual bacterial sub-populations suggest individual populations might be better adapted to distinct environments. We suggest that each flow cytometrically defined bacterial population may possess its own environmental niche where favourable conditions for that population result in an increase in abundance, cellular activity and productivity.",
+        "email": "jim.mitchell@flinders.edu.au",
+        "conf": "Estuarine Coastal and Shelf Science",
+        "coauthors": [
+            "James S Paterson",
+            "Sasi Nayar",
+            "James G. Mitchell",
+            "Laurent Seuront"
+        ],
+        "keywords": "flow cytometry,coastal upwelling,viruses,bacteria,HDNA"
+    },
+    {
+        "id": 3741,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "A polyphasic approach for assessing the suitability of bioremediation for the treatment of hydrocarbon-impacted soil",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "Bioremediation strategies, though widely used for treating hydrocarbon-contaminated soil, suffer from lack of biodegradation endpoint accountability. To address this limitation, molecular approaches of alkB gene analysis and pyrosequencing were combined with chemical approaches of bioaccessibility and nutrient assays to assess contaminant degrading capacity and develop a strategy for endpoint biodegradation predictions. In long-term hydrocarbon-contaminated soil containing 10.3 g C10–C36 hydrocarbons kg− 1, 454 pyrosequencing detected the overrepresentation of potential hydrocarbon degrading genera such as Pseudomonas, Burkholderia, Mycobacterium and Gordonia whilst amplicons for PCR-DGGE were detected only with alkB primers targeting Pseudomonas. This indicated the presence of potential microbial hydrocarbon degradation capacity in the soil. Using non-exhaustive extraction methods of 1-propanol and HP-β-CD for hydrocarbon bioaccessibility assessment combined with biodegradation endpoint predictions with linear regression models, we estimated 33.7% and 46.7% hydrocarbon removal respectively. These predictions were validated in pilot scale studies using an enhanced natural attenuation strategy which resulted in a 46.4% reduction in soil hydrocarbon content after 320 days. When predicted biodegradation endpoints were compared to measured values, there was no significant difference (P = 0.80) when hydrocarbon bioaccessibility was assessed with HP-β-CD. These results indicate that a combination of molecular and chemical techniques that inform microbial diversity, functionality and chemical bioaccessibility can be valuable tools for assessing the suitability of bioremediation strategies for hydrocarbon-contaminated soil.",
+        "email": "",
+        "conf": "Science of The Total Environment",
+        "coauthors": [
+            "Eric M Adetutu",
+            "Renee J Smith",
+            "John Weber",
+            "Sam Aleer",
+            "James G Mitchell",
+            "Andrew S Ball",
+            "Albert Juhasz"
+        ],
+        "keywords": "454 pyrosequencing,alkB,Bioavailability,Bioaccessibility,Endpoint predictions,Pilot scale studies"
+    },
+    {
+        "id": 3786,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "The Energetics and Scaling of Search Strategies in Bacteria",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "",
+        "email": "",
+        "conf": "The American Naturalist",
+        "coauthors": [
+            "James G. Mitchell"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3793,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "High speed marine bacteria use sodium-ion and proton driven motors",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "The ocean's strong ionic environment may be important for motility in marine bacteria. This is because flagellar motors are powered by dissipation of ion gradients across their cell membranes. We tested how much the 2 known motor systems contributed to the high speed motility (>100 μm s-1) found in marine bacterial communities and isolates. Monensin, carbonylcyanide-m-chlorophenylhydrozone (CCCP) and amiloride were used on Escherichia coli, Shewanella putrefaciens, Alteromonas haloplanktis, a marine isolate (BBAT1) and marine bacterial communities to uncouple sodium-ion and proton gradients from motility. E. coli motility was stopped by 10 μM CCCP. Use of any of the 3 uncouplers alone slowed, but did not stop, S. putrefaciens, A. haloplanktis and a community of marine bacteria. A combination of 20 μM CCCP and 20 μM monensin stopped S. putrefaciens and A. haloplanktis. The same concentration combination reduced marine community speeds by half, but stopped few cells. Above uncoupler concentrations of 30 μM speed remained unchanged at about 20 μm s-1 for marine bacterial communities. Sodium-ion motors were responsible for about 60% of marine bacterial speed. From the results it was concluded that most high speed marine bacterial community members used sodium and proton motors simultaneously.",
+        "email": "jim.mitchell@flinders.edu.au",
+        "conf": "Aquatic Microbial Ecology",
+        "coauthors": [
+            "James G. Mitchell",
+            "Greg Barbara"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3745,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "A quantitative comparison of the diets of sympatric pelagic sharks in gulf and shelf ecosystems off southern Australia",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "Predator–prey dynamics represent an important determinant in the functioning of marine ecosystems. This study provides the first quantitative investigation of the diets of sympatric pelagic shark species in gulf and shelf waters off southern Australia. Stomachs of 417 sharks collected from fishery catches between 2007 and 2011 were examined, including 250 bronze whalers, 52 shortfin makos, 49 dusky sharks, 39 smooth hammerheads, and 27 common threshers. Dusky sharks had the highest dietary diversity of the five species examined. We found overlap in the consumption of cephalopods, small pelagic teleosts, crustaceans, and benthic teleosts in bronze whalers, dusky sharks, and smooth hammerheads, and preliminary evidence of specialization in the highly migratory species, the common thresher and the shortfin mako. Findings were discussed and compared with previous studies in other temperate marine ecosystems. This study will significantly improve the understanding of the ecological roles of these top predators in the gulf and shelf habitats off southern Australia, and enhance the ecosystem models being developed for this unique bioregion.",
+        "email": "",
+        "conf": "ICES Journal of Marine Science",
+        "coauthors": [
+            "Paul J Rogers",
+            "Charlie Huveneers",
+            "Brad Page",
+            "Derek J Hamer",
+            "Simon D Goldsworthy",
+            "James G Mitchell",
+            "Laurent Seuront"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3718,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Enumerating Virus-Like Particles and Bacterial Populations in the Sinuses of Chronic Rhinosinusitis Patients Using Flow Cytometry",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "There is increasing evidence to suggest that the sinus microbiome plays a role in the pathogenesis of chronic rhinosinusitis (CRS). However, the concentration of these microorganisms within the sinuses is still unknown. We show that flow cytometry can be used to enumerate bacteria and virus-like particles (VLPs) in sinus flush samples of CRS patients. This was achieved through trialling 5 sample preparation techniques for flow cytometry. We found high concentrations of bacteria and VLPs in these samples. Untreated samples produced the highest average bacterial and VLP counts with 3.3 ± 0.74 x 107 bacteria ml-1 and 2.4 ± 1.23 x 109 VLP ml-1 of sinus flush (n = 9). These counts were significantly higher than most of the treated samples (p < 0.05). Results showed 103 and 104 times inter-patient variation for bacteria and VLP concentrations. This wide variation suggests that diagnosis and treatment need to be personalised and that utilising flow cytometry is useful and efficient for this. This study is the first to enumerate bacterial and VLP populations in the maxillary sinus of CRS patients. The relevance of enumeration is that with increasing antimicrobial resistance, antibiotics are becoming less effective at treating bacterial infections of the sinuses, so alternative therapies are needed. Phage therapy has been proposed as one such alternative, but for dosing, the abundance of bacteria is required. Knowledge of whether phages are normally present in the sinuses will assist in gauging the safety of applying phage therapy to sinuses. Our finding, that large numbers of VLP are frequently present in sinuses, indicates that phage therapy may represent a minimally disruptive intervention towards the nasal microbiome. We propose that flow cytometry can be used as a tool to assess microbial biomass dynamics in sinuses and other anatomical locations where infection can cause disease.",
+        "email": "",
+        "conf": "PLoS ONE",
+        "coauthors": [
+            "Jessica A. P. Carlson-Jones",
+            "James S Paterson",
+            "Kelly Newton",
+            "Renee J Smith",
+            "Lisa M Dann",
+            "Peter Speck",
+            "James G Mitchell",
+            "Peter John Wormald"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3747,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Increases in the abundance of microbial genes encoding halotolerance and photosynthesis along a sediment salinity gradient",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "Biogeochemical cycles are driven by the metabolic activity of microbial communities, yet the environmental parameters that underpin shifts in the functional potential coded within microbial community genomes are still poorly understood. Salinity is one of the primary determinants of microbial community structure and can vary strongly along gradients within a variety of habitats. To test the hypothesis that shifts in salinity will also alter the bulk biogeochemical potential of aquatic microbial assemblages, we generated four metagenomic DNA sequence libraries from sediment samples taken along a continuous, natural salinity gradient in the Coorong lagoon, Australia, and compared them to physical and chemical parameters. A total of 392483 DNA sequences obtained from four sediment samples were generated and used to compare genomic characteristics along the gradient. The most significant shifts along the salinity gradient were in the genetic potential for halotolerance and photosynthesis, which were more highly represented in hypersaline samples. At these sites, halotolerance was achieved by an increase in genes responsible for the acquisition of compatible solutes – organic chemicals which influence the carbon, nitrogen and methane cycles of sediment. Photosynthesis gene increases were coupled to an increase in genes matching Cyanobacteria, which are responsible for mediating CO2 and nitrogen cycles. These salinity driven shifts in gene abundance will influence nutrient cycles along the gradient, controlling the ecology and biogeochemistry of the entire ecosystem.",
+        "email": "",
+        "conf": "Biogeosciences",
+        "coauthors": [
+            "Thomas Charles Jeffries",
+            "Justin R Seymour",
+            "Kelly Newton",
+            "R J Smith",
+            "L Seuront",
+            "James G. Mitchell"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3731,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Micro- and nano-fluidics around HAB cells",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "Have you ever wondered how algae stay so clean? Most flowering-plant leaves also stay clean. Under air, films of water and “dirt” are repelled. Repulsion forces the water into droplets that easily roll off because these leaves are covered in hydrophobic nm- to µm- sized grooves and pillars, producing superhydrophobicity (SH) at the surface. Similarly, most algal cells bear a glycocalyx of organic fibrils that give surface structure, and are often hydrophobic. Glycocalyxes serve many functions, but whether they produce SH is poorly known. SH coatings are being developed to prevent fouling of ships and aquaculture structures without using toxins, so this technology could help understand how algae defeat fouling. Glycocalyxes are composed of exopolymeric secretions (EPS), and algae sometimes make the water more viscous using this tightly and more loosely bound EPS. EPS is also sometimes sticky. SH cuticles on copepods may change ambient fluid microdynamics by allowing slip at their surfaces, and facilitate filter feeding. By managing ambient viscosity and surface properties including slipping and sticking, algae may have the tools to engineer ambient fluidics and stay clean and unfouled.",
+        "email": "",
+        "conf": "MARINE AND FRESH-WATER HARMFUL ALGAE",
+        "coauthors": [
+            "Ian R Jenkinson",
+            "Elisa Berdalet",
+            "Wei-Chun Chin",
+            "Stephan Herminghaus",
+            "Sophie Leterme",
+            "James G Mitchell",
+            "Michael Orchard",
+            "Ri Qiu",
+            "Laurent Seuront",
+            "Peng Wang",
+            "Tim Wyatt",
+            "Li Zhuo"
+        ],
+        "keywords": "Rheology, Algae"
+    },
+    {
+        "id": 3798,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Clustering of Marine Bacteria in Seawater Enrichments",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "",
+        "email": "",
+        "conf": "Applied and Environmental Microbiology",
+        "coauthors": [
+            "James G. Mitchell",
+            "L Pearson",
+            "Simon Dillon"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3738,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "The Role of Diatom Nanostructures in Biasing Diffusion to Improve Uptake in a Patchy Nutrient Environment",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "Diatoms are important single-celled autotrophs that dominate most lit aquatic environments and are distinguished by surficial frustules with intricate designs of unknown function. We show that some frustule designs constrain diffusion to positively alter nutrient uptake. In nutrient gradients of 4 to 160 times over <5 cm, the screened-chambered morphology of Coscincodiscus sp. biases the nutrient diffusion towards the cell by at least 3.8 times the diffusion to the seawater. In contrast, the open-chambers of Thalassiosira eccentrica produce at least a 1.3 times diffusion advantage to the membrane over Coscincodiscus sp. when nutrients are homogeneous. Diffusion constraint explains the success of particular diatom species at given times and the overall success of diatoms. The results help answer the unresolved question of how adjacent microplankton compete. Furthermore, diffusion constraint by supramembrane nanostructures to alter molecular diffusion suggests that microbes compete via supramembrane topology, a competitive mechanism not considered by the standard smooth-surface equations used for nutrient uptake nor in microbial ecology and cell physiology.",
+        "email": "",
+        "conf": "PLoS ONE",
+        "coauthors": [
+            "James G. Mitchell",
+            "Laurent Seuront",
+            "Mark J Doubell",
+            "Dusan Losic",
+            "Nicolas H Voelcker",
+            "Justin Seymour",
+            "Ratnesh Lal"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3809,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Recurrent and Persistent Brown Tide Blooms Perturb Coastal Marine Ecosystem",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "Throughout the summers of 1985 and 1986 a small (2–3 μm diameter), previously underscribed chrysophyte bloomed monospecifically (>109 cells 1−1) in Long Island embayments. The bloom colored the water dark brown, decimated eelgrass beds through decreased light penetration and caused starvation (tissue weight loss) and recruitment failure of commercially important bay scallop populations. These perturbations portend longterm changes in subtidal communities Similar and concurrent blooms in bays of Rhode Island and New Jersey suggest a meteorological component of the environmental conditions promoting bloom formation. Culture experiments with isolates of the microalga suggest the presence of stimulatory growth factors in the bloom seawater",
+        "email": "",
+        "conf": "Estuaries and Coasts",
+        "coauthors": [
+            "Elizabeth M. Cosper",
+            "William C. Dennison",
+            "Edward J. Carpenter",
+            "V. Monica Bricelj",
+            "James G. Mitchell",
+            "Susan H. Kuenstner",
+            "David Colflesh",
+            "Maynard Dewey"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3767,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "The influence of Phaeocystis globosa on microscale spatial patterns of chlorophyll a and bulk-phase seawater viscosity",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "",
+        "email": "",
+        "conf": "Biogeochemistry",
+        "coauthors": [
+            "Laurent Seuront",
+            "C. Lacheze",
+            "Mark Doubell",
+            "James G. Mitchell"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3762,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Towards a seascape typology. I. Zipf versus Pareto laws",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "Two data analysis methods, referred to as the Zipf and Pareto methods, initially introduced in economics and linguistics two centuries ago and subsequently used in a wide range of fields (word frequency in languages and literature, human demographics, finance, city formation, genomics and physics), are described and proposed here as a potential tool to classify space–time patterns in marine ecology. The aim of this paper is, first, to present the theoretical bases of Zipf and Pareto laws, and to demonstrate that they are strictly equivalent. In that way, we provide a one-to-one correspondence between their characteristic exponents and argue that the choice of technique is a matter of convenience. Second, we argue that the appeal of this technique is that it is assumption-free for the distribution of the data and regularity of sampling interval, as well as being extremely easy to implement. Finally, in order to allow marine ecologists to identify and classify any structure in their data sets, we provide a step by step overview of the characteristic shapes expected for Zipf's law for the cases of randomness, power law behavior, power law behavior contaminated by internal and external noise, and competing power laws illustrated on the basis of typical ecological situations such as mixing processes involving non-interacting and interacting species, phytoplankton growth processes and differential grazing by zooplankton.",
+        "email": "",
+        "conf": "Journal of Marine Systems",
+        "coauthors": [
+            "Laurent Seuront",
+            "James G. Mitchell"
+        ],
+        "keywords": "Marine ecosystem,Topology,Patchiness,Power law,Data analysis,Zipf,Pareto"
+    },
+    {
+        "id": 3814,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Siliceous nanoplankton. II. Newly discovered cysts and abundant choanoflagellates from the Weddell Sea Antarctica",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "Siliceous choanoflagellates and previously undescribed, siliceous cyst-like spheroids (in the size range 2.5 to 15 μm) were found below sea-ice in the Weddell Sea and studied with scanning electron microscopy. Cell counts from water samples obtained over a 10,000 km area indicated that both spheroids and choanoflagellates were abundant in the upper 100 m of the water column, averaging about 105 cells l-1. The large numbers of phagotrophic choanoflagellates suggest that bacterioplankton-picoplankton food chains are important and may indicate the presence of longer, more complex trophic networks than previously considered in Antarctic waters. Circumstantial evidence suggests that the spheroids may be the cysts of choanoflagellates; if so, the production of siliceous cysts by members of this enigmatic taxon may be of considerable interest in discussions of the phylogenetic position of the group in relation to the algae and the metazoans. Similar cysts were found simultaneously in the North Pacific Ocean (see preceding paper: Booth et al. 1980), and recently we have discovered the cysts in the upwelling area of the eastern tropical Pacific Ocean. The occurrence of the cyst in such geographically distant localities suggests that they have a worldwide distribution. Since the minute cysts are easily overlooked on the light microscope, their recognition and further study undoubtedly require the electron microscopic examination of plankton samples.",
+        "email": "",
+        "conf": "Marine Biology",
+        "coauthors": [
+            "Mary W Silver",
+            "James G. Mitchell",
+            "D. L. Ringo"
+        ],
+        "keywords": "RHIZOFLAGELLATA, PLANKTON, ZOOPLANKTON, TAXONOMY, POPULATION DENSITY, MORPHOLOGY, ANTARCTIC OCEAN, PROTOZOA, PROTISTA, ZOOFLAGELLATA, SCANNING ELECTRON MICROSCOPY, NANNOPLANCTON, WEDDELL SEA"
+    },
+    {
+        "id": 3778,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Complex gold nanostructures derived by templating from diatom frustules",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "",
+        "email": "",
+        "conf": "Chemical Communications",
+        "coauthors": [
+            "Dusan Losic",
+            "James G. Mitchell",
+            "Nicolas H Voelcker"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3716,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Stygofauna enhance prokaryotic transport in groundwater ecosystems",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "More than 97% of the world’s freshwater reserves are found in aquifers, making groundwater one of the most important resources on the planet. Prokaryotic communities in groundwater underpin the turnover of energy and matter while also maintaining groundwater purity. Thus, knowledge of microbial transport in the subsurface is crucial for maintaining groundwater health. Here, we describe for the first time the importance of stygofauna as vectors for prokaryotes. The “hitch-hiking” prokaryotes associated with stygofauna may be up to 5 orders of magnitude higher in abundance and transported up to 34× faster than bulk groundwater flow. We also demonstrate that prokaryotic diversity associated with stygofauna may be higher than that of the surrounding groundwater. Stygofauna are a newly recognized prokaryotic niche in groundwater ecosystems that have the potential to transport remediating, water purifying and pathogenic prokaryotes. Therefore, stygofauna may influence ecosystem dynamics and health at a microbial level, and at a larger scale could be a new source of prokaryotic diversity in groundwater ecosystems.",
+        "email": "",
+        "conf": "Scientific Reports",
+        "coauthors": [
+            "Renee J. Smith",
+            "James S. Paterson",
+            "Elise Launer",
+            "Shanan S. Tobe",
+            "Eliesa Morello",
+            "Remko Leijs",
+            "Shashikanth Marri",
+            "James G. Mitchell"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3787,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Effects of Particle Size Flow Velocity and Cell Surface Microtopography on the Motion of Submicrometer Particles over Diatoms",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "In microfluidic systems, interactions between particles and surfaces dictate the mobility of particles and the effectiveness of the devices in sorting them. Here, we report that the rigid, silica, cell surface microtopographies of diatoms increased the deflection of submicrometer particles from the direction of flow and reduced uniaxial bead velocities. The extent to which particle behavior was affected depended on the particle size, the far-field flow velocity and the morphology of frustule microstructures.",
+        "email": "",
+        "conf": "Nano Letters",
+        "coauthors": [
+            "Michelle Hale",
+            "James G. Mitchell"
+        ],
+        "keywords": "Transport properties,Diffusion,Surface interactions,Cells,Amorphous materials"
+    },
+    {
+        "id": 3724,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Chemotaxis toward phytoplankton drives organic matter partitioning among marine bacteria",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "The microenvironment surrounding individual phytoplankton cells is often rich in dissolved organic matter (DOM), which can attract bacteria by chemotaxis. These “phycospheres” may be prominent sources of resource heterogeneity in the ocean, affecting the growth of bacterial populations and the fate of DOM. However, these effects remain poorly quantified due to a lack of quantitative ecological frameworks. Here, we used video microscopy to dissect with unprecedented resolution the chemotactic accumulation of marine bacteria around individual Chaetoceros affinis diatoms undergoing lysis. The observed spatiotemporal distribution of bacteria was used in a resource utilization model to map the conditions under which competition between different bacterial groups favors chemotaxis. The model predicts that chemotactic, copiotrophic populations outcompete nonmotile, oligotrophic populations during diatom blooms and bloom collapse conditions, resulting in an increase in the ratio of motile to nonmotile cells and in the succession of populations. Partitioning of DOM between the two populations is strongly dependent on the overall concentration of bacteria and the diffusivity of different DOM substances, and within each population, the growth benefit from phycospheres is experienced by only a small fraction of cells. By informing a DOM utilization model with highly resolved behavioral data, the hybrid approach used here represents a new path toward the elusive goal of predicting the consequences of microscale interactions in the ocean.",
+        "email": "",
+        "conf": "Proceedings of the National Academy of Sciences",
+        "coauthors": [
+            "Steven Smriga",
+            "Vicente Ignacio Fernandez",
+            "James G. Mitchell",
+            "Roman Stocker"
+        ],
+        "keywords": "bacteria–phytoplankton interactions,motility,competition,microbial loop,dissolved organic matter"
+    },
+    {
+        "id": 3761,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Towards a seascape topology II: Zipf analysis of one-dimensional patterns",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "Large temporal and spatial data series are increasingly available and easy to produce. This paper uses Zipf analysis to evaluate serial data sets from the HOTS, BATS, EquaPac and high-resolution vertical profiles of FluoroMAP. Zipf analysis produced Zipf exponents from best-fit lines that permitted comparison among data sets. It allows comparison of one-dimensional series despite differences in scale and missing data. Zipf exponents ranged from 0.043 to 0.83. Serial data with sampling intervals of milliseconds and months showed exponents that ranged around 0.3. To the extent that Zipf exponents measure structure and variation, the indication is that structure of distributions is similar over millimeters and hundreds of kilometers. Zipf analysis provides a means to quantify similarities and differences, and suggests that variation is linked across many length scales for phytoplankton.",
+        "email": "jim.mitchell@flinders.edu.au",
+        "conf": "Journal of Marine Systems",
+        "coauthors": [
+            "James G. Mitchell",
+            "Laurent Seuront"
+        ],
+        "keywords": "Chlorophyll a,Fluorescence,Zipf,Microscale,Phytoplankton patchiness"
+    },
+    {
+        "id": 3746,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Can whales mix the ocean?",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "Ocean mixing influences global climate and enhances primary productivity by transporting nutrient rich water into the euphotic zone. The contribution of the swimming biosphere to diapycnal mixing in the ocean has been hypothesised to occur on scales similar to that of tides or winds, however, the extent to which this contributes to nutrient transport and stimulates primary productivity has not been explored. Here, we introduce a novel method to estimate the diapycnal diffusivity that occurs as a result of a sperm whale swimming through a pycnocline. Nutrient profiles from the Hawaiian Ocean are used to further estimate the amount of nitrogen transported into the euphotic zone and the primary productivity stimulated as a result. We estimate that the 80 sperm whales that travel through an area of 104 km2 surrounding Hawaii increase diapycnal diffusivity by 10–6 m2 s−1 which results in the flux of 105 kg of nitrogen into the euphotic zone each year. This nitrogen input subsequently stimulates 6 × 105 kg of carbon per year. The nutrient input of swimming sperm whales is modest compared to dominant modes of nutrient transport such as nitrogen fixation but occurs more consistently and thus may provide the nutrients necessary to enable phytoplankton growth and survival in the absence of other seasonal and daily nutrient inputs.",
+        "email": "",
+        "conf": "Biogeosciences Discussions",
+        "coauthors": [
+            "Trish Lavery",
+            "Ben Roudnew",
+            "Laurent Seuront",
+            "James G Mitchell",
+            "John Middleton"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3736,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Confined aquifers as viral reservoirs",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "Knowledge about viral diversity and abundance in deep groundwater reserves is limited. We found that the viral community inhabiting a deep confined aquifer in S outh A ustralia was more similar to reclaimed water communities than to the viral communities in the overlying unconfined aquifer community. This similarity was driven by high relative occurrence of the single‐stranded DNA viral groups C ircoviridae , G eminiviridae and M icroviridae , which include many known plant and animal pathogens. These groups were present in a 1500‐year‐old water situated 80 m below the surface, which suggests the potential for long‐term survival and spread of potentially pathogenic viruses in deep, confined groundwater. Obtaining a broader understanding of potentially pathogenic viral communities within aquifers is particularly important given the ability of viruses to spread within groundwater ecosystems.",
+        "email": "",
+        "conf": "Environmental Microbiology Reports",
+        "coauthors": [
+            "Renee J Smith",
+            "Thomas Charles Jeffries",
+            "Ben Roudnew",
+            "Justin R Seymour",
+            "Alison J Fitch",
+            "Keryn L Simons",
+            "Peter G Speck",
+            "Kelly Newton",
+            "Melissa H Brown",
+            "James G. Mitchell"
+        ],
+        "keywords": "Viruses; Ecosystem; Biodiversity; Disease Reservoirs; Phylogeny; Molecular Sequence Data; Groundwater"
+    },
+    {
+        "id": 3755,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Diatom culture media contain extracellular silica nanoparticles which form opalescent films",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "Diatoms are unicellular photosynthetic algae with enormous diversity of patterns in their silica structures at the nano- to micronscale. In this study, we present results, which support the hypothesis that silica nanoparticles are released into the diatom culture medium. The formation of an opalescent film by the self-assembly of silica nanoparticles produced in the growth medium of diatoms. This film was formed on the filter paper from the culture medium of a Coscinodiscus sp. culture. A numbers of diatoms with partially opened valves were observed on the film surface under light microscopy and SEM, which indicates that cell contents inside of diatoms had been released into the culture solution. AFM images of produced opalescent films show ordered arrays of silica nanoparticles with different diameters depending on the colors observed by light microscopy. The film forming silica nanoparticles are either released by the diatoms during reproduction or after cell death. This approach provides an environmentally friendly means for fabricating silica nanoparticles, decorative coatings and novel optical materials.",
+        "email": "",
+        "conf": "Proceedings of SPIE - The International Society for Optical Engineering",
+        "coauthors": [
+            "Dusan Losic",
+            "James G. Mitchell",
+            "Nicolas H Voelcker"
+        ],
+        "keywords": "diatoms, Coscinodiscus sp. silica nanoparticles, biomineralisation, artificial opal films"
+    },
+    {
+        "id": 3757,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Heavy metal toxicity of kidney and bone tissues in South Australian adult bottlenose dolphins (Tursiops aduncus)",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "Metallothioneins (MT) concentration, renal damage, and bone malformations were investigated in 38 adult Tursiops aduncus carcasses to determine any associations with cadmium, copper, zinc, mercury, lead and selenium. Significantly higher concentrations of cadmium, copper, and zinc in the liver were observed in dolphins showing evidence of more advanced renal damage. No significant differences in metal or selenium concentrations in the liver were observed between groups differing in level of bone malformations. Some dolphins displayed evidence of toxicity and knowledge of metal toxicity pathways were used to elucidate the cause of these abnormalities. Two dolphins had high metal burdens, high MT concentrations, renal damage, and evidence of bone malformations, indicating possible severe and prolonged metal toxicity. One dolphin showed evidence of renal damage, but the lack of any other symptoms suggests that this was unlikely to be caused by metal toxicity. We recommend examining a range of metal toxicity symptoms simultaneously to aid in distinguishing metal toxicity from unrelated aetiologies.",
+        "email": "",
+        "conf": "Marine Environmental Research",
+        "coauthors": [
+            "Trish Lavery",
+            "Catherine M. Kemper",
+            "Ken Sanderson",
+            "Christopher G Schultz",
+            "Peter Coyle",
+            "James G Mitchell",
+            "Laurent Seuront"
+        ],
+        "keywords": "Heavy Metals,Toxicity,Mammals,Dolphins,Metallothionein,Kidney,Bone,Cadmium,Mercury,Lead,Zinc"
+    },
+    {
+        "id": 3751,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Microbial alignment in flow changes ocean light climate",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "The growth of microbial cultures in the laboratory often is assessed informally with a quick flick of the wrist: dense suspensions of microorganisms produce translucent “swirls” when agitated. Here, we rationalize the mechanism behind this phenomenon and show that the same process may affect the propagation of light through the upper ocean. Analogous to the shaken test tubes, the ocean can be characterized by intense fluid motion and abundant microorganisms. We demonstrate that the swirl patterns arise when elongated microorganisms align preferentially in the direction of fluid flow and alter light scattering. Using a combination of experiments and mathematical modeling, we find that this phenomenon can be recurrent under typical marine conditions. Moderate shear rates (0.1 s−1) can increase optical backscattering of natural microbial assemblages by more than 20%, and even small shear rates (0.001 s−1) can increase backscattering from blooms of large phytoplankton by more than 30%. These results imply that fluid flow, currently neglected in models of marine optics, may exert an important control on light propagation, influencing rates of global carbon fixation and how we estimate these rates via remote sensing.",
+        "email": "",
+        "conf": "Proceedings of the National Academy of Sciences",
+        "coauthors": [
+            "Marcos",
+            "Justin R. Seymour",
+            "Mitul Luhar",
+            "William M. Durham",
+            "James G. Mitchell",
+            "Andreas Macke",
+            "Roman Stocker"
+        ],
+        "keywords": "rheoscopic,plankton"
+    },
+    {
+        "id": 3776,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Bacterial motility: links to the environment and a driving force for microbial physics: Bacterial motility",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "",
+        "email": "",
+        "conf": "FEMS Microbiology Ecology",
+        "coauthors": [
+            "James G. Mitchell",
+            "Kazuhiro Kogure"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3789,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Functional morphology of diatom frustule microstructures: hydrodynamic control of Brownian particle diffusion and advection",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "",
+        "email": "",
+        "conf": "Aquatic Microbial Ecology",
+        "coauthors": [
+            "Michelle Hale",
+            "James G. Mitchell"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3727,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "The Evolution of Epigean and Stygobitic Species of Koonunga Sayce 1907 (Syncarida: Anaspidacea) in Southern Australia with the Description of Three New Species",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "Three new species of Koonunga were discovered in surface and subterranean waters in southern Australia, and were defined using mtDNA analyses and morphology. The new species are: Koonunga hornei Leijs & King; K. tatiaraensis Leijs & King and K. allambiensis Leijs & King. Molecular clock analyses indicate that the divergence times of the species are older than the landscape that they currently inhabit. Different scenarios explaining this apparent discrepancy are discussed in the context of the palaeography of the area. A freshwater epigean origin for Koonunga is considered the most likely hypothesis, whereby some lineages made the transition to the subterranean environment within the last few million years influenced by significant climatic cooling/drying. We discuss the possibility that one stygobitic lineage secondarily regained some of its body pigmentation as adaptation to increased photic conditions after cave collapse and forming of cenotes during the last glacial maximum.",
+        "email": "",
+        "conf": "PLoS ONE",
+        "coauthors": [
+            "Remko Leys",
+            "Tessa Bradford",
+            "James G. Mitchell",
+            "William F Humphreys",
+            "Steven J B Cooper",
+            "Peter Goonan",
+            "Rachael A King"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3726,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Nano/microfluidics around phyto- and zooplankton",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "How do algae often stay so clean, even though most non-living surfaces gather “dirt” and biofilm? Most flowering-plant leaves also stay clean. In air, water and “dirt” films are repelled. Hydrophobic nm- to µm-scale grooves and pillars make leaves superhydrophic (SH), so that the water and dirt roll off in repelled droplets. Most algal cells bear a glycocalyx sculptured by fibrils of exopolymeric substance (EPS) that is often hydrophobic. Whether glycocalyxes are SH is still poorly known. Phytoplankton cultures sometimes increase (by rheology) and sometimes reduce viscosity in laminar capillary flow, possibly by SH drag reduction, a phenomenon now well known from laminar flow in capillaries with SH walls. EPS is also frequently sticky. Some copepods have structures specially to scrape algae and EPS off their feeding appendages. Can sculptured waxy cuticles on copepods show SH and help defeat sticky algal and biofouler attack? Fluid shearing at SH surfaces violates the no-slip assumption, and can produce a slip layer (SL) of up to several µm. Such a SL around feeding appendages and setules could greatly facilitate filter feeding",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Ian R Jenkinson",
+            "Elisa Berdalet",
+            "Wei-Chun Chin",
+            "S Herminghaus",
+            "James G Mitchell",
+            "R Qiu",
+            "L Seuront",
+            "P Wang",
+            "Timothy Wyatt",
+            "Z Li"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3795,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Phytoplankton patchiness: quantifying the biological contribution using Fast Repetition Rate Fluorometry",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of Plankton Research",
+        "coauthors": [
+            "Peter G. Strutton",
+            "James G. Mitchell",
+            "John S. Parslow",
+            "Richard M. Greene"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3750,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Substrate Type Determines Metagenomic Profiles from Diverse Chemical Habitats",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "Environmental parameters drive phenotypic and genotypic frequency variations in microbial communities and thus control the extent and structure of microbial diversity. We tested the extent to which microbial community composition changes are controlled by shifting physiochemical properties within a hypersaline lagoon. We sequenced four sediment metagenomes from the Coorong, South Australia from samples which varied in salinity by 99 Practical Salinity Units (PSU), an order of magnitude in ammonia concentration and two orders of magnitude in microbial abundance. Despite the marked divergence in environmental parameters observed between samples, hierarchical clustering of taxonomic and metabolic profiles of these metagenomes showed striking similarity between the samples (>89%). Comparison of these profiles to those derived from a wide variety of publically available datasets demonstrated that the Coorong sediment metagenomes were similar to other sediment, soil, biofilm and microbial mat samples regardless of salinity (>85% similarity). Overall, clustering of solid substrate and water metagenomes into discrete similarity groups based on functional potential indicated that the dichotomy between water and solid matrices is a fundamental determinant of community microbial metabolism that is not masked by salinity, nutrient concentration or microbial abundance.",
+        "email": "",
+        "conf": "PLoS ONE",
+        "coauthors": [
+            "Thomas Charles Jeffries",
+            "Justin R Seymour",
+            "Jack A Gilbert",
+            "Elizabeth A Dinsdale",
+            "Kelly Newton",
+            "Sophie S C Leterme",
+            "Ben Roudnew",
+            "Renee J Smith",
+            "Laurent Seuront",
+            "James G. Mitchell"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3777,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Phytoplankton microstructure in fully developed oceanic turbulence",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "urbulence alters phytoplankton distributions. In doing so, it changes light and nutrient availability that ultimately influences community composition and carbon flux. The quantitative basis for this paradigm is the matching of the −5/3 slopes of fluorescence and velocity spectra over scales ranging from 1 to 100 m. In this contribution, for the first time, we simultaneously show the −5/3 spectral slopes for velocity and fluorescence at sub‐metre scales. The fluorescence spectral slopes deviate from the −5/3 slope with less steep slopes, suggesting the existence of a viscous‐convective subrange for fluorescence. However, it is difficult to identify the −1 slope as predicted by the Batchelor spectral theory. This portion of spectrum could be white as proposed by Franks (2005). High order structure functions indicate that the fluorescence is more intermittent than the velocity, but less intermittent than the conductivity signals.",
+        "email": "",
+        "conf": "Geophysical research letters",
+        "coauthors": [
+            "Hidekatsu Yamazaki",
+            "James G. Mitchell",
+            "Laurent Seuront",
+            "Fabian Wolk",
+            "Hua Li"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3733,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Whales sustain fisheries: Blue whales stimulate primary production in the Southern Ocean",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "It has previously been asserted that baleen whales compete with fisheries by consuming potentially harvestable marine resources. The regularly applied “surplus‐yield model” suggests that whale prey becomes available to fisheries if whales are removed, and has been presented as a justification for whaling. However, recent findings indicate that whales enhance ecosystem productivity by defecating iron that stimulates primary productivity in iron‐limited waters. While juvenile whales and whales that are pregnant or lactating retain iron for growth and milk production, nonbreeding adult whales defecate most of the iron they consume. Here, we modify the surplus‐yield model to incorporate iron defecation. After modeling a simplistic trajectory of blue whale recovery to historical abundances, the traditional surplus‐yield model predicts that 1011 kg of carbon yr−1 would become unavailable to fisheries. However, this ignores the nutrient recycling role of whales. Our model suggests the population of blue whales would defecate 3 × 106 kg of iron yr−1, which would stimulate primary production equivalent to that required to support prey consumption by the blue whale population. Thus, modifying the surplus‐yield model to include iron defecation indicates that blue whales do not render marine resources unavailable to fisheries. By defecating iron‐rich feces, blue whales promote Southern Ocean productivity, rather than reducing fishery yields.",
+        "email": "",
+        "conf": "Marine Mammal Science",
+        "coauthors": [
+            "Trish J Lavery",
+            "Ben Roudnew",
+            "Justin Seymour",
+            "James G Mitchell",
+            "Victor Smetacek",
+            "Steve Nicol"
+        ],
+        "keywords": "ocean fertilization,blue whales,baleen whales,whaling,fisheries,iron,carbon,ecological history,marine populations,productivity,Balaenoptera musculus,allochthonous nutrients,autochthonous nutrients,nutrient cycling"
+    },
+    {
+        "id": 3765,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "AFM Nanoindentations of Diatom Biosilica Surfaces",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "Diatoms have intricately and uniquely nanopatterned silica exoskeletons (frustules) and are a common target of biomimetic investigations. A better understanding of the diatom frustule structure and function at the nanoscale could provide new insights for the biomimetic fabrication of nanostructured ceramic materials and lightweight, yet strong, scaffold architectures. Here, we have mapped the nanoscale mechanical properties of Coscinodiscus sp. diatoms using atomic force microscopy (AFM)-based nanoindentation. Mechanical properties were correlated with the frustule structures obtained from high-resolution AFM and scanning electron microscopy (SEM). Significant differences in the micromechanical properties for the different frustule layers were observed. A comparative study of other related inorganic material including porous silicon films and free-standing membranes as well as porous alumina was also undertaken.",
+        "email": "",
+        "conf": "Langmuir",
+        "coauthors": [
+            "Dusan Losic",
+            "Ken Short",
+            "James G. Mitchell",
+            "Ratnesh Lal",
+            "Nicolas H Voelcker"
+        ],
+        "keywords": "Layers,Silica,Membranes,Silicon,Hardness "
+    },
+    {
+        "id": 3759,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "The impact of turbulence and phytoplankton dynamics on foam formation seawater viscosity and chlorophyll concentration in the eastern English Channel",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "The space-time dynamics of chlorophyll a concentration and seawater excess viscosity has been investigated in the hydrographically contrasting inshore and offshore water masses of the eastern English Channel. This was done during the phytoplankton spring bloom dominated by Phaeocystis globosa before and after the very large-scale formation of foam induced by an increase in wind-driven turbulence and the related wave breakings. The results suggest that the dynamics of chlorophyll a concentration and seawater excess viscosity are differentially controlled by the formation of foam through the intensity of the spring bloom and wind-generated turbulence.",
+        "email": "",
+        "conf": "OCEANOLOGIA",
+        "coauthors": [
+            "Irma Kesaulya",
+            "Sophie C Leterme",
+            "James G. Mitchell",
+            "Laurent Seuront"
+        ],
+        "keywords": "chlorophyll a concentration,phytoplankton,turbulence,plankton,foam,foam formation,spring bloom,rheology,viscosity,Phaeocystis globosa,sea water"
+    },
+    {
+        "id": 3797,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Formation of 30- to 40-Micrometer-Thick Laminations by High-Speed Marine Bacteria in Microbial Mats",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "The precision with which motile heterotrophic bacteria could position themselves in microbial mats was determined. This required the development of a technique to view motile bacteria in situ. This was successfully achieved by replacing a 1-cm-diameter minicore from the mat sediment with 210- to 300-(mu)m-diameter glass beads or sieved agar. After allowing 3 days for regrowth of the mat into the transparent medium, a cross section showed that bacteria formed a layer as thin as 30 to 40 (mu)m at a depth of 500 (mu)m below the surface. Bacterial concentrations in this microlamination were 20 times above background. Mean speeds were 200 (mu)m s(sup-1) inside and 60 (mu)m s(sup-1) outside the microlamination. The percentages of bacteria turning per 30 s were 93% inside and 10% outside the microlamination. Artificial chemical gradients were unsuccessful in stimulating microlamination formation or in eliciting the same extent of speed and turning responses. The significance of the results is that it is now possible to microscopically examine sedimentary bacteria in situ. Our first examination indicates that some bacteria form chemotactic microlaminations by increasing their turning frequency. This behavior is opposite that described in the enteric-based model of chemotactic movement, in which positive chemotaxis is achieved by decreasing the turning frequency.",
+        "email": "Jim.Mitchell@cc.flinders.edu.au",
+        "conf": "Applied and Environmental Microbiology",
+        "coauthors": [
+            "Greg Barbara",
+            "James G. Mitchell"
+        ],
+        "keywords": "Bacteria, Chemotaxis, Microbial community, Marine environment, Motility, Method, Spatial distribution, Stratification, Microbial mat"
+    },
+    {
+        "id": 3811,
+        "label": 73,
+        "author": "james g mitchell",
+        "title": "Archaeomonad (Chrysophyta) cysts: Ecological and Paleoecological significance",
+        "organization": "School of Biological Sciences Flinders University",
+        "abstract": "Archaeomonads are chrysophyte cysts abundant in Weddell Sea sea ice, but they form in the water column in reponse to conditions that occur in areas where no sea ice is present. The association between archaeomonads and sea ice depends on a particular sequence of oceanographic conditions, beginning with lateral advection followed by vertical harvesting on rising ice crystals. Comparing fossil and modern distributions suggests archaeomonads underwent an ecological transition or expansion in the Early Tertiary Period, from sediment underlying anoxic waters to sediments underlying sea ice.",
+        "email": "",
+        "conf": "Biosystems",
+        "coauthors": [
+            "James G. Mitchell",
+            "Mary W Silver"
+        ],
+        "keywords": "Archaeomonad,Chrysophyte cyst,Paleoecology,Sea ice,Weddell Sea"
+    }
+]

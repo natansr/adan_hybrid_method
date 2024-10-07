@@ -1,0 +1,252 @@
+[
+    {
+        "id": 149,
+        "label": 2,
+        "author": "achintya choudhury",
+        "title": "Load Distribution in a Rolling Element Bearing under Dynamic Radial Load",
+        "organization": "Professor Mechanical Engineering",
+        "abstract": "External load in a bearing is transferred from one race to another race through the rolling elements. In the present work, an investigation has been made to estimate the load on a rolling element in a bearing subjected to dynamic loading. The dynamic loading, in the present study, included harmonic and periodic loadings which are deterministic functions of time. The roller load is also investigated under random loading with known statistical values of mean and variance. Numerical values have been obtained for NJ204 bearing with known radial clearance. These results show the variation in the spectra obtained for different nature of external loadings. These results can be expected to satisfy the difference in theoretical and experimental spectra obtained by earlier researchers.",
+        "email": "achintya.shoudhury@spsu.ac.in",
+        "conf": "Applied mechanics and materials",
+        "coauthors": [
+            "Govardhan Tingarikar",
+            "Achintya Choudhury",
+            "Deepak Paliwal"
+        ],
+        "keywords": "Dynamic Loading, Load Distribution on Roller, Radial/Diametral Clearance, Rolling Element Bearing"
+    },
+    {
+        "id": 147,
+        "label": 2,
+        "author": "achintya choudhury",
+        "title": "Wavelet and Scalar Indicator based Fault Assessment Approach for Rolling Element Bearings",
+        "organization": "Professor Mechanical Engineering",
+        "abstract": "A failed rolling element bearing when removed from a machine mostly displays cracks and flaking. Identification of such defects along with the severity of damage may avoid malfunctioning and breakdown of machines. The aim of this paper is to diagnose bearing faults and asses the defect severity using vibration signal processing techniques. For this purpose, application of spline wavelets in finding the existence of flaws and use of scalar indicator in determining the severity of defect from initial stage of degradation has been illustrated. Parameters of spline wavelets have been identified on the basis of visual similarity, correlation coefficient and maximum mutual entropy. Further, a new scalar indicator has been developed to quantify the level of defect in the bearing. Results of analysis yielded adequate fault related information along with defect severity at inner race, outer race and rolling element components of a deep groove ball bearing.",
+        "email": "",
+        "conf": "Procedia Materials Science",
+        "coauthors": [
+            "Deepak Paliwal",
+            "Achintya Choudhury",
+            "Govardhan Tingarikar"
+        ],
+        "keywords": "Fault diagnosis, Spline wavelet, Time scalars, Rolling element bearing"
+    },
+    {
+        "id": 148,
+        "label": 2,
+        "author": "achintya choudhury",
+        "title": "A Novel Approach for Detection of Bearing Defects from Noisy Vibration Signal",
+        "organization": "Professor Mechanical Engineering",
+        "abstract": "Vibration signal of a defective bearing carries fault related information. The aim of this paper is to develop a signal processing methodology that identifies the presence of defect from bearing vibration signal subjected high background noise. A simulated vibration signal considering inner race defect in a deep groove ball bearing with low signal to noise ratio has been generated and investigated. A technique involving CWT of vibration signal and post-processing though FFT has been adopted to analyze the signal. Results show that proposed methodology can yield the presence of inner race defect prominently from a noisy vibration signal",
+        "email": "achintya.shoudhury@spsu.ac.in",
+        "conf": "Applied Mechanics & Materials",
+        "coauthors": [
+            "Deepak Paliwal",
+            "Achintya Choudhury",
+            "Govardhan Tingarikar",
+            "Saurabh Singh Chandrawat"
+        ],
+        "keywords": "Fault Diagnosis, FFT, Rolling Element Bearing, Vibration Signal Processing"
+    },
+    {
+        "id": 151,
+        "label": 2,
+        "author": "achintya choudhury",
+        "title": "A Theoretical Model to Predict the Vibration Response of Rolling Bearings in a Rotor Bearing System to Distributed Defects Under Radial Load",
+        "organization": "Professor Mechanical Engineering",
+        "abstract": "A theoretical model to predict the vibration response of rolling element bearing in a rotor bearing system to distributed defects under radial load has been developed. The rotor bearing system has been considered as a three degrees of freedom model. The distributed defects considered are, the waviness of outer and inner races, and off size rolling element. The model predicts discrete spectrum with specific frequency components for each order of waviness. For outer race waviness, the spectrum has components at outer race defect frequency and its harmonics. In the case of inner race waviness, the waviness orders equal to number of rolling elements and its multiples give rise to spectral components at inner race defect frequency and its multiples. Other orders of waviness generate sidebands at multiples of shaft frequency about these peaks. The model predicts the amplitudes of the spectral components due to outer race waviness to be much higher as compared to those due to inner race waviness. In the case of an off-size rolling element, the model predicts discrete spectra having significant components at multiples of cage frequency",
+        "email": "",
+        "conf": "Journal of Tribology",
+        "coauthors": [
+            "N. Tandon",
+            "Achintya Choudhury"
+        ],
+        "keywords": "machine bearings, rolling friction, vibrations, rotors"
+    },
+    {
+        "id": 152,
+        "label": 2,
+        "author": "achintya choudhury",
+        "title": "Application of acoustic emission technique for the detection of defects in rolling element bearings",
+        "organization": "Professor Mechanical Engineering",
+        "abstract": "The usefulness of acoustic emission (AE) measurements for the detection of defects in roller bearings has been investigated in the present study. Defects were simulated in the roller and inner race of the bearings by the spark erosion method. AE of bearings without defect and with defects of different sizes has been measured. For small defect sizes, ringdown counts of AE signal has been found to be a very good parameter for the detection of defects both in the inner race and roller of the bearings tested. However, the counts stopped increasing after a certain defect size. Distributions of events by ringdown counts and peak amplitudes are also found to be good indicators of bearing defect detection. With a defect on a bearing element, the distributions of events tend to be over a wider range of peak amplitudes and counts.",
+        "email": "",
+        "conf": "Tribology International",
+        "coauthors": [
+            "Achintya Choudhury",
+            "N. Tandon"
+        ],
+        "keywords": "Acoustic emission, Rolling element bearings, Defect detection, Condition monitoring"
+    },
+    {
+        "id": 140,
+        "label": 2,
+        "author": "achintya choudhury",
+        "title": "Numerical simulation and vibration analysis of dynamically loaded bearing with defect on rolling element",
+        "organization": "Professor Mechanical Engineering",
+        "abstract": "The external loading on a rolling element bearing is often not of pure static nature but has a dynamic component associated with it. In the present study, the analysis of vibration response of rolling element bearing with localized defect on its rolling element subjected to external dynamic loading has been carried out. The dynamic component of external loading considered is either harmonic or random in nature. The defect-induced vibration signals have been processed with the FFT of their enveloped signal obtained from the Hilbert transform of band-passed signal around the resonant frequency band. Numerical results have been obtained for the NJ 204 bearing for different amplitude contributions of dynamic components of external load. For harmonic loading, the vibration spectra show additional spectral components through loading frequency as sidebands about each significant spectral components result due to static load. The experimental investigation confirms the presence of these additional components in the spectra. In the case of random loading, the noise level tends to rise with an increase in the value of standard deviation. The rise in noise level becomes so significant that some spectral components are masked by the noise for higher values of standard deviation.",
+        "email": "",
+        "conf": "International Journal of Acoustics and Vibrations",
+        "coauthors": [
+            "Govardhan Tingarikar",
+            "Achintya Choudhury",
+            "D. Paliwal"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 154,
+        "label": 2,
+        "author": "achintya choudhury",
+        "title": "A Theoretical Model to Predict Vibration Response of Rolling Bearings to Distributed Defects Under Radial Load",
+        "organization": "Professor Mechanical Engineering",
+        "abstract": "An analytical model has been presented to predict the vibration response of rolling bearings due to distributed defects under radial load. For bearings without defect and with race defect, the model predicts a discrete spectrum with components at outer and inner race characteristic defect frequencies for the response of the respective races. The amplitude level for race defect significantly increases at the respective frequencies in comparison to the response of a bearing without defect. For a bearing with off-size rolling element, the response is at the relative frequency of cage with respect to the frequency of motion of the corresponding race.",
+        "email": "",
+        "conf": "Journal of Vibration and Acoustics",
+        "coauthors": [
+            "Achintya Choudhury",
+            "N. Tandon"
+        ],
+        "keywords": "Bearing cage, Defect, Analytical method, Rolling bearing, Ball bearing, Vibration"
+    },
+    {
+        "id": 142,
+        "label": 2,
+        "author": "achintya choudhury",
+        "title": "Detection of bearing defects from noisy vibration signals using a coupled method of wavelet analysis followed by FFT analysis",
+        "organization": "Professor Mechanical Engineering",
+        "abstract": "Vibration signal of a faulty rolling element bearing contains repetitive defect induced pulse responses masked by noise and microstructure vibrations. Fast Fourier Transform (FFT) and Wavelet Transform (WT) are the signal processing techniques to trace the presence of such responses. However, at low signal to noise ratio, the results of FFT get seriously tainted while selection of suitable wavelet and overcoming redundancy in wavelet coefficients have always been a challenge. This paper addresses the drawbacks of FFT and WT through some signal processing steps that incorporate both these techniques. Spline wavelets, on the basis of correlation coefficient and mutual information, have been selected for diagnosing bearing fault. Proposed methodology has been tested on vibration signals of rolling element bearings produced from simulation, experimentation and industrial set-up. The results show that the prescribed signal processing steps as compared to the envelope detection technique with FFT enhances the fault diagnostic capabilities under similar conditions.",
+        "email": "",
+        "conf": "ournal of Vibration Engineering & Technologies",
+        "coauthors": [
+            "D. Paliwal",
+            "Achintya Choudhury",
+            "Govardhan Tingarikar"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 155,
+        "label": 2,
+        "author": "achintya choudhury",
+        "title": "An Analytical Model for the Prediction of the Vibration Response of Rolling Element Bearings due to a Localized Defect",
+        "organization": "Professor Mechanical Engineering",
+        "abstract": "An analytical model has been proposed for predicting the vibration frequencies of rolling bearings and the amplitudes of significant frequency components due to a localized defect on outer race, inner race or on one of the rolling elements under radial and axial loads. The model predicts a discrete spectrum having peaks at the characteristic defect frequencies and their harmonics. In the case of an inner race defect or a rolling element defect under a radial load, there are sidebands around each peak. The effect of load and pulse shape on the vibration amplitude has been considered in the model. Typical numerical results for a 6002 deep groove ball bearing have been obtained and plotted. A comparison with the experimental values obtained from published literature shows that the model can be successfully used to predict amplitude ratios among various spectral lines.",
+        "email": "",
+        "conf": "Journal of Sound and Vibration",
+        "coauthors": [
+            "N Tandon",
+            "Achintya Choudhury"
+        ],
+        "keywords": "vibration frequencies; rolling bearings; axial loads; discrete spectrum; rolling element defect; bearing; vibration"
+    },
+    {
+        "id": 141,
+        "label": 2,
+        "author": "achintya choudhury",
+        "title": "Vibration analysis of a rolling element bearing with localized defect under dynamic radial load",
+        "organization": "Professor Mechanical Engineering",
+        "abstract": "A rolling element bearing while supporting a shaft is often subjected to an external load which is a combination of static and dynamic load. In the present work an investigation has been carried out to determine the vibration response of a bearing with localized defect under the influence of an external load which is dynamic in nature. The load considered in the present study consists of a static component and a dynamic component which may be either harmonic or random in nature. The harmonic load has been considered to be due to unbalance. Defects on both inner and outer races have been considered for analysis of vibration response. Vibration signals have been processed through Hilbert transform based enveloping technique and post-processed with FFT for fault detection. Numerical results have been obtained for an NJ204 bearing with known sizes of defect on inner and outer races. For harmonic loading, the results show additional spectral components for outer race defect whereas for inner race defect, there is some amplitude variation in spectral components. For random loading, the noise level tends to rise with increase in the value of standard deviation. For higher values of standard deviation, the noise level has even masked some spectral components for inner race defect. ",
+        "email": "",
+        "conf": "ournal of Vibration Engineering & Technologies",
+        "coauthors": [
+            "Govardhan Tingarikar",
+            "Achintya Choudhury",
+            "D. Paliwal"
+        ],
+        "keywords": "olling element bearings, condition monitoring, vibration monitoring"
+    },
+    {
+        "id": 145,
+        "label": 2,
+        "author": "achintya choudhury",
+        "title": "An investigation into defect induced excitations in rolling element bearings under dynamic radial load",
+        "organization": "Professor Mechanical Engineering",
+        "abstract": "External load on a bearing which supports the shaft is, normally, composed of static and time-varying components and are essentially dynamic in nature. The external load on a bearing is transferred to the housing in which the bearing is fixed through the elements of bearing viz., inner race, rolling elements and outer race. In the present work an investigation has been made to estimate the excitations caused by localized defects on different elements, viz., inner race, rolling element and outer race, of a bearing subjected to dynamic load. In this study, the dynamic load has been considered to be composed of a static and a harmonic component resulted due to a rotating unbalance. All the kinematic and dynamic parameters of the bearing have been assessed for dynamic loading and the spectra of excitations due to defects on different bearing elements have been obtained. Numerical results have been obtained for NJ204 bearing with a known radial clearance. The results show the variation in the spectra obtained for different contributions of external static and harmonic loading. These results are expected to satisfy some of the differences in experimental and theoretical spectra obtained by earlier researchers.",
+        "email": "",
+        "conf": "International Conference on Industrial Instrumentation and Control (ICIC)",
+        "coauthors": [
+            "Govardhan Tingarikar",
+            "Achintya Choudhury",
+            "Deepak Paliwal"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 153,
+        "label": 2,
+        "author": "achintya choudhury",
+        "title": "A Review of Vibration and Acoustic Measurement Methods for the Detection of Defects in Rolling Element Bearings",
+        "organization": "Professor Mechanical Engineering",
+        "abstract": "A review of vibration and acoustic measurement methods for the detection of defects in rolling element bearings is presented in this paper. Detection of both localized and distributed categories of defect has been considered. An explanation for the vibration and noise generation in bearings is given. Vibration measurement in both time and frequency domains along with signal processing techniques such as the high-frequency resonance technique have been covered. Other acoustic measurement techniques such as sound pressure, sound intensity and acoustic emission have been reviewed. Recent trends in research on the detection of defects in bearings, such as the wavelet transform method and automated data processing, have also been included.",
+        "email": "",
+        "conf": "Tribology International",
+        "coauthors": [
+            "N Tandon",
+            "Achintya Choudhury"
+        ],
+        "keywords": "Rolling element bearings, Bearing defects, Condition monitoring, Vibrations, Acoustics"
+    },
+    {
+        "id": 146,
+        "label": 2,
+        "author": "achintya choudhury",
+        "title": "Simulation-based approach for detection of bearing defects through continuous wavelet transform",
+        "organization": "Professor Mechanical Engineering",
+        "abstract": "Rolling element bearings are the heart of modern industrial machineries, thus, an early detection of budding faults in bearings is essential to avoid ruinous machine failures. This study shows a method to examine the vibration signals of defective rolling element bearings in noisy environments. Both simulated and experimental signals of an identical bearing have been used to investigate outer race defect. A transfer function has been developed on the basis of bearing specifications. Moreover, continuous wavelet transformation (CWT) using frequency B spline wavelet has also been used to predict the defect in the rolling element bearing. Selection of spline wavelet and effect of parameters such as order of spline, bandwidth and central frequency, on its shape has been discussed. Correlation in the results obtained through CWT of simulated and experimental signals authenticates the use of proposed methodology in easier fault detection in bearings.",
+        "email": "",
+        "conf": "International Journal of Precision Technology",
+        "coauthors": [
+            "D. Paliwal",
+            "Achintya Choudhury",
+            "Govardhan Tingarikar"
+        ],
+        "keywords": "rolling element bearings, transfer function, continuous wavelet transform, CWT, frequency B spline wavelets, simulation, fault detection, bearing defects, vibration signals"
+    },
+    {
+        "id": 150,
+        "label": 2,
+        "author": "achintya choudhury",
+        "title": "Vibration Response of Rolling Element Bearings in a Rotor Bearing System to a Local Defect Under Radial Load",
+        "organization": "Professor Mechanical Engineering",
+        "abstract": "In the present investigation, a theoretical model has been developed to obtain the vibration response due to a localized defect in various bearing elements in a rotor-bearing system under radial load conditions. The rotor-bearing system has been modeled as a three degrees-of-freedom system. The model predicts significant components at the harmonics of characteristic defect frequency for a defect on the particular bearing element. In the case of a defect on the inner race or a rolling element, the model predicts sidebands about the peaks at defect frequencies, at multiples of shaft and cage frequencies, respectively. The model has also predicted some additional components at harmonics of shaft and cage frequencies due to a local defect on the inner race and a rolling element, respectively. The expressions for all these spectral components have also been derived. Typical numerical results for an NJ 204 bearing have been obtained and plotted. The amplitude of the component at defect frequency, for an outer race defect, is found to be much higher as compared to those due to inner race defect or a rolling element defect of the same size and under similar conditions of load and speed. The results of vibration measurements on roller bearings with simulated local defects have also been presented to experimentally validate the theoretical model proposed. It can be observed from the results that the spectral components predicted by the theoretical model find significant presence in the experimental spectra. Comparison of the normalized analytical values of the spectral components with their experimental values shows fair agreement for most of the cases considered. Probable area of the generated excitation pulses has been calculated and the effects of pulse area variation on the experimental results have been studied.",
+        "email": "",
+        "conf": "Journal of Tribology",
+        "coauthors": [
+            "Achintya Choudhury",
+            "N. Tandon"
+        ],
+        "keywords": "vibrations, rolling bearings, shafts, rotors, rolling element bearings, condition monitoring, vibration monitoring"
+    },
+    {
+        "id": 144,
+        "label": 2,
+        "author": "achintya choudhury",
+        "title": "Simulation of vibration signal generated by a defective rolling element bearing",
+        "organization": "Professor Mechanical Engineering",
+        "abstract": "With the advent of vibration-based fault detection techniques a lot of work has been done to identify flaws of rolling element bearing through the processing of simulated and experimental vibration signals. This paper is aimed to describe the methodology of developing a simulated signal of a defective rolling element bearing which can replicate the experimental vibration signal emanated under similar condition. Various factors like change in bearing rotational speed, radial load, defect width, pseudo periodicity and bearing parameters have been considered to generate simulated signals. Components of characteristic defect frequencies obtained through simulated signals have been compared with the experimental results of previous researchers wherein a fair resemblance in patterns authenticates the generation of simulated signals through proposed methodology.",
+        "email": "",
+        "conf": "International Journal of Engineering Systems Modelling and Simulation",
+        "coauthors": [
+            "D. Paliwal",
+            "Achintya Choudhury",
+            "Govardhan Tingarikar"
+        ],
+        "keywords": "simulation, rolling element bearings, frequency spectrum, vibration signals, fault detection, bearing rotational speed, radial load, defect width, pseudo periodicity, bearing parameters"
+    },
+    {
+        "id": 143,
+        "label": 2,
+        "author": "achintya choudhury",
+        "title": "Application of Frequency B-Spline Wavelets for Detection of Defects in Rolling Bearings",
+        "organization": "Professor Mechanical Engineering",
+        "abstract": "Frequency B-spline (fbsp) wavelets have been applied in the present work for detection of localized defects in the inner race of a rolling element bearing. The theoretical response from the bearing system due to an inner race defect coupled with additive noise of varying magnitude form the simulated signal. Methodology of defect detection includes three steps. Firstly, wavelet transformation of noisy vibration signal has been obtained using fbsp wavelets with appropriate parameters. Then, maximum wavelet coefficients were retained from the result of transformation on which a threshold level was applied. Finally fast Fourier transformation was applied on these retained coefficients to identify the presence of components at characteristic frequency corresponding to the defect location. The results show that the method could specifically identify bearing defects even from noisy vibration signals.",
+        "email": "achintya.choudhury@spsu.ac.in",
+        "conf": "Procedia Engineering",
+        "coauthors": [
+            "Achintya Choudhury",
+            "D. Paliwal"
+        ],
+        "keywords": "Rolling bearing, vibration, defect, frequency B-spline wavelet"
+    }
+]

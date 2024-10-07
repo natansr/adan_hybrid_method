@@ -1,0 +1,915 @@
+[
+    {
+        "id": 5727,
+        "label": 116,
+        "author": "david zhengwen zhang",
+        "title": "A multi-agent system using iterative bidding mechanism to enhance manufacturing agility",
+        "organization": "Professor of Manufacturing Systems University of Exeter",
+        "abstract": "The global market has become increasingly dynamic, unpredictable and customer-driven. This has led to rising rates of new product introduction and turbulent demand patterns across product mixes. As a result, manufacturing enterprises were facing mounting challenges to be agile and responsive to cope with market changes, so as to achieve the competitiveness of producing and delivering products to the market timely and cost-effectively. This paper introduces a currency-based iterative agent bidding mechanism to effectively and cost-efficiently integrate the activities associated with production planning and control, so as to achieve an optimised process plan and schedule. The aim is to enhance the agility of manufacturing systems to accommodate dynamic changes in the market and production. The iterative bidding mechanism is executed based on currency-like metrics; each operation to be performed is assigned with a virtual currency value and agents bid for the operation if they make a virtual profit based on this value. These currency values are optimised iteratively and so does the bidding process based on new sets of values. This is aimed at obtaining better and better production plans, leading to near-optimality. A genetic algorithm is proposed to optimise the currency values at each iteration. In this paper, the implementation of the mechanism and the test case simulation results are also discussed.",
+        "email": "D.Z.Zhang@exeter.ac.uk",
+        "conf": "Expert Systems with Applications",
+        "coauthors": [
+            "Ming K Lim",
+            "David Zhang"
+        ],
+        "keywords": "Multi-agent systems,Production planning and control,Genetic algorithm"
+    },
+    {
+        "id": 5714,
+        "label": 116,
+        "author": "david zhengwen zhang",
+        "title": "Lexicographic Bottleneck Mixed-model Assembly Line Balancing Problem: an Artificial Bee Colony Approach",
+        "organization": "Professor of Manufacturing Systems University of Exeter",
+        "abstract": "Typically, total number of required workstations are minimised for a given cycle time (this problem is referred to as type-1), or cycle time is minimised for a given number of workstations (this problem is referred to as type-2) in traditional balancing of assembly lines. Lexicographic bottleneck assembly line balancing problem is a recently introduced problem which aims at obtaining a smooth workload distribution among workstations. This is achieved hierarchically. The workload of the most heavily loaded workstation is minimised, followed by the workload of the second most heavily loaded workstation, and so on. We address this problem on mixed-model lines, where more than one model of a product is produced in an intermixed sequence, and introduce Lexicographic Bottleneck Mixed-model Assembly Line Balancing Problem (LB-MALBP) for the first time in the literature. That is the major contribution of this paper. Main characteristics of the problem are exhibited through a numerical example and a new artificial bee colony algorithm, which consumes quite reasonable CPU time, is developed for the solution of the problem. Solution procedures of the algorithm are explored illustratively. The performance of the algorithm is assessed using derived well-known test problems in this domain and promising results are observed.",
+        "email": "D.Z.Zhang@exeter.ac.uk",
+        "conf": "CIE44 & IMSS",
+        "coauthors": [
+            "Kadir Buyukozkan",
+            "Ibrahim Kucukkoc",
+            "David Zhang"
+        ],
+        "keywords": "Assembly line balancing, Lexicographic bottleneck, Mixed-model assembly line, Artificial bee colony, Optimisation"
+    },
+    {
+        "id": 5705,
+        "label": 116,
+        "author": "david zhengwen zhang",
+        "title": "Manufacturing Feasibility and Forming Properties of Cu-4Sn in Selective Laser Melting",
+        "organization": "Professor of Manufacturing Systems University of Exeter",
+        "abstract": "Copper alloys, combined with selective laser melting (SLM) technology, have attracted increasing attention in aerospace engineering, automobile, and medical fields. However, there are some difficulties in SLM forming owing to low laser absorption and excellent thermal conductivity. It is, therefore, necessary to explore a copper alloy in SLM. In this research, manufacturing feasibility and forming properties of Cu-4Sn in SLM were investigated through a systematic experimental approach. Single-track experiments were used to narrow down processing parameter windows. A Greco-Latin square design with orthogonal parameter arrays was employed to control forming qualities of specimens. Analysis of variance was applied to establish statistical relationships, which described the effects of different processing parameters (i.e., laser power, scanning speed, and hatch space) on relative density (RD) and Vickers hardness of specimens. It was found that Cu-4Sn specimens were successfully manufactured by SLM for the first time and both its RD and Vickers hardness were mainly determined by the laser power. The maximum value of RD exceeded 93% theoretical density and the maximum value of Vickers hardness reached 118 HV 0.3/5. The best tensile strength of 316–320 MPa is inferior to that of pressure-processed Cu-4Sn and can be improved further by reducing defects.",
+        "email": "",
+        "conf": "Materials",
+        "coauthors": [
+            "Zhongfa Mao",
+            "David Zhengwen Zhang",
+            "Peitang Wei",
+            "Kaifei Zhang"
+        ],
+        "keywords": "selective laser melting; additive manufacturing; copper alloy; relative density; Vickers hardness"
+    },
+    {
+        "id": 5706,
+        "label": 116,
+        "author": "david zhengwen zhang",
+        "title": "An integrated production inventory and transportation decision in a whole green manufacturing supply chain",
+        "organization": "Professor of Manufacturing Systems University of Exeter",
+        "abstract": "This paper proposes model to integrate production, inventory and transportation decision in a whole green manufacturing supply chain. The integration includes reuse and remanufacturing of returned used products. The manufacturing supply chain consists of tier-2 and tier-1 suppliers, a manufacturer, distributors, retailers and a third party. The manufacturer dissembles used products into parts. Reusable parts are remanufactured and reused again in finished products. A mathematical model is developed to coordinate production, inventory and transportation decision which considers multiple products simultaneously with determination of number of transportation units needed to deliver the finished products subject to their own capacities. Solution methods for the model are proposed based on three types of coordination mechanisms, decentralised, semi-centralised and centralised decision processes. The model and solution methods are illustrated with two numerical examples and results and findings are discussed.",
+        "email": "",
+        "conf": "International Journal of Industrial and Systems Engineering",
+        "coauthors": [
+            "Jonrinaldi Jonrinaldi",
+            "David Zhengwen Zhang"
+        ],
+        "keywords": "production decisions, inventory decisions, transport decisions, green supply chains, manufacturing supply chains, green SCM, supply chain management, GSCM, reuse, remanufacturing, used products, disassembly, mathematical modelling"
+    },
+    {
+        "id": 5720,
+        "label": 116,
+        "author": "david zhengwen zhang",
+        "title": "Balancing Mixed-Model Parallel Two-Sided Assembly Lines",
+        "organization": "Professor of Manufacturing Systems University of Exeter",
+        "abstract": "Mass customization plays a significant role for customer satisfaction and for reaching global markets in today's highly competitive changing world. However, customization brings companies extra costs because of the different tasks and scheduling and/or manufacturing issues of model variations. Companies in the manufacturing industry are in a pursuit of reducing their costs whilst increasing their profits and customer satisfaction level. There is a trade-off between these conflicting objectives. Mixed-model assembly lines provide companies with greater flexibility and capacity to respond to different market demands, allowing them to cope with the extra costs caused by customized demands. This study investigates model variations for parallel two-sided assembly lines, which are widely used in the production of high-volume large-sized products like automobiles, trucks, or buses. The proposed system is introduced in a view of balancing approach with a summary of the relevant literature, which is given in tables in appendices. Two well-known test problems from the literature are also combined and illustrated as an example. It is obvious that mixed-model parallel two-sided assembly lines help to minimize operator requirements while improving line efficiency and communication between operators and increasing resource utilization when demand is high enough. To the best of our knowledge, this is the first study which addresses mixed-model parallel two-sided assembly line balancing problem in the relevant literature. The result that can be drawn from this research is that, this is a promising area which needs attention from both academia and industry.",
+        "email": "",
+        "conf": "International Conference on Industrial Engineering and Systems Management (IESM). IEEE",
+        "coauthors": [
+            "David Zhengwen Zhang",
+            "Ibrahim Kucukkoc"
+        ],
+        "keywords": "production planning,scheduling,assembly line balancing,mixed-model parallel two-sided assembly lines,optimisation,manufacturing systems"
+    },
+    {
+        "id": 5737,
+        "label": 116,
+        "author": "david zhengwen zhang",
+        "title": "Agent-based simulation of consumer purchase decision-making and the decoy effect",
+        "organization": "Professor of Manufacturing Systems University of Exeter",
+        "abstract": "Consumer behavior research involves various areas: psychology, marketing, sociology, economics and engineering. This paper presents an agent-based model (ABM) of consumer purchase decision-making. The core of this model is a motivation function that combines consumers' psychological personality traits with two important kinds of interactions in a competitive market. The model reveals the inner psychological mechanism on the basis of which consumers make their choices when facing competing brands on the market. By creating a large number of heterogeneous consumer agents in an artificial market, this study uses multi-agent simulation (MAS) to exhibit the emergent decoy effect phenomenon, which is a market dynamic phenomenon originating from the individual behavior of heterogeneous consumers and their interactions in the real-world complex market. The combined use of the ABM and the MAS method in studying consumer behavior and markets gives one the potential to cope with the dynamic changes and complexities in the real-world business environment.",
+        "email": "",
+        "conf": "Journal of Business Research",
+        "coauthors": [
+            "Tao Zhang",
+            "David Zhengwen Zhang"
+        ],
+        "keywords": "Agent,Motivation function,Price sensitivity,Quality sensitivity"
+    },
+    {
+        "id": 5749,
+        "label": 116,
+        "author": "david zhengwen zhang",
+        "title": "Agile Manufacturing Transitional Strategies",
+        "organization": "Professor of Manufacturing Systems University of Exeter",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Ian Christian",
+            "Hossam Shawkat Ismail",
+            "Jim Mooney",
+            "David Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5721,
+        "label": 116,
+        "author": "david zhengwen zhang",
+        "title": "An integrated production and inventory model for a whole manufacturing supply chain involving reverse logistics with finite horizon period",
+        "organization": "Professor of Manufacturing Systems University of Exeter",
+        "abstract": "This paper proposes a model and solution method for coordinating integrated production and inventory cycles in a whole manufacturing supply chain involving reverse logistics for multiple items with finite horizon period. A whole manufacturing supply chain involving reverse logistic consists of tier-2 suppliers supplying raw materials to tier-1 suppliers, tier-1 suppliers producing parts, a manufacturer which manufactures and assembles parts from tier-1 suppliers into finished products, distributors distributing finished products to retailers, retailers selling products to end customers and a third party which collects the used finished products from end customers, dissembles collected products into parts, and feed the parts back to the supply chain. In this system, we consider a finite horizon period. A mathematical model for representing the behaviors of the system is developed. Solution methods based on decentralized and a combination of decentralized and centralized decision making process, referred to as the semi-centralized decision making process, are proposed to solve the model while the centralized decision making process is solved by a mixed integer nonlinear programming method. A numerical example is used to demonstrate the model and the solutions based on the three types of the coordination.",
+        "email": "",
+        "conf": "Omega",
+        "coauthors": [
+            "Jonrinaldi Jonrinaldi",
+            "David Zhang"
+        ],
+        "keywords": "Manufacturing supply chain,Production,Inventory,Integrated,Multiple items,Finite horizon period"
+    },
+    {
+        "id": 5712,
+        "label": 116,
+        "author": "david zhengwen zhang",
+        "title": "A mathematical model and artificial bee colony algorithm for the lexicographic bottleneck mixed-model assembly line balancing problem",
+        "organization": "Professor of Manufacturing Systems University of Exeter",
+        "abstract": "Typically, the total number of required workstations are minimised for a given cycle time (this problem is referred to as type-1), or cycle time is minimised for a given number of workstations (this problem is referred to as type-2) in traditional balancing of assembly lines. However, variation in workload distributions of workstations is an important indicator of the quality of the obtained line balance. This needs to be taken into account to improve the reliability of an assembly line against unforeseeable circumstances, such as breakdowns or other failures. For this aim, a new problem, called lexicographic bottleneck mixed-model assembly line balancing problem (LB-MALBP), is presented and formalised. The lexicographic bottleneck objective, which was recently proposed for the simple single-model assembly line system in the literature, is considered for a mixed-model assembly line system. The mathematical model of the LB-MALBP is developed for the first time in the literature and coded in GAMS solver, and optimal solutions are presented for some small scale test problems available in the literature. As it is not possible to get optimal solutions for the large-scale instances, an artificial bee colony algorithm is also implemented for the solution of the LB-MALBP. The solution procedures of the algorithm are explored illustratively. The performance of the algorithm is also assessed using derived well-known test problems in this domain and promising results are observed in reasonable CPU times.",
+        "email": "",
+        "conf": "Journal of Intelligent Manufacturing",
+        "coauthors": [
+            "Ibrahim Kucukkoc",
+            "Kadir Buyukozkan",
+            "Sule Itir Satoglu",
+            "David Zhengwen Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5713,
+        "label": 116,
+        "author": "david zhengwen zhang",
+        "title": "Coping with Model Variations on Parallel U-shaped Assembly Line Configurations",
+        "organization": "Professor of Manufacturing Systems University of Exeter",
+        "abstract": "U-shaped assembly lines have always been shown as the intelligent way of producing homogeneous products in large quantities. However, dynamism in product demands and growing interest in customized products force companies to adapt more flexible as well as efficient production systems. On the other hand, parallel lines are becoming quite popular as these lines provide extra efficiency with the opportunity of utilizing multi-line workstations. We apply the parallel line configuration idea to the U-shaped mixed-model assembly line system to have a more efficient as well as flexible production environment, for the first time in the literature. The proposed line system combines the advantages of U-shaped lines, parallel lines, and mixed-model lines. The new line configuration is characterized and defined in detail and the advantages of the proposed line system are explained through numerical examples.",
+        "email": "D.Z.Zhang@exeter.ac.uk",
+        "conf": "IFAC-PapersOnLine",
+        "coauthors": [
+            "Ibrahim Kucukkoc",
+            "David Zhang"
+        ],
+        "keywords": "Assembly line balancing,mixed-model,parallel U-shaped assembly line,production systems,optimization"
+    },
+    {
+        "id": 5751,
+        "label": 116,
+        "author": "david zhengwen zhang",
+        "title": "Characterizing an electrostatic gripping device for the automated handling of non-rigid materials",
+        "organization": "Professor of Manufacturing Systems University of Exeter",
+        "abstract": "",
+        "email": "",
+        "conf": "Proceedings of the Institution of Mechanical Engineers Part B Journal of Engineering Manufacture",
+        "coauthors": [
+            "David Zhang",
+            "JA Chestney",
+            "M Sarhadi"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5758,
+        "label": 116,
+        "author": "david zhengwen zhang",
+        "title": "An integrated CAD/CAM system for automated composite manufacture",
+        "organization": "Professor of Manufacturing Systems University of Exeter",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of Materials Processing Technology",
+        "coauthors": [
+            "David Zhang",
+            "M. Sarhadi"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5756,
+        "label": 116,
+        "author": "david zhengwen zhang",
+        "title": "A methodology for achieving agility in manufacturing organisations: An introduction",
+        "organization": "Professor of Manufacturing Systems University of Exeter",
+        "abstract": "",
+        "email": "",
+        "conf": "International Journal of Operations & Production Management",
+        "coauthors": [
+            "H. Sharifi",
+            "David Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5759,
+        "label": 116,
+        "author": "david zhengwen zhang",
+        "title": "Performance aspects of a novel neuron activation function in multi-layer feed-forward networks",
+        "organization": "Professor of Manufacturing Systems University of Exeter",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "David Zhang",
+            "M. Sarhadi"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5760,
+        "label": 116,
+        "author": "david zhengwen zhang",
+        "title": "A modified neuron activation function which enables single layer perceptrons to solve some linearly inseparable problems",
+        "organization": "Professor of Manufacturing Systems University of Exeter",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "David Zhang",
+            "M. Sarhadi"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5722,
+        "label": 116,
+        "author": "david zhengwen zhang",
+        "title": "Balancing Parallel Two-Sided Assembly Lines via a Genetic Algorithm Based Approach",
+        "organization": "Professor of Manufacturing Systems University of Exeter",
+        "abstract": "There are many factors which affect the performance of a complex production system. Efficiency of an assembly line is one of the most important of these factors since assembly lines are generally constructed as the last stage of the entire production system. Parallel two-sided assembly line (PTAL) system is a new research domain in academia though PTALs have been utilised to produce large sized products such as automobiles, trucks, and buses in industry for many years. PTALs carry practical advantages of both parallel assembly lines and two-sided assembly lines. The purpose of this paper is to propose a new genetic algorithm based (GA) approach for balancing more than one two-sided assembly line constructed in parallel. To the best of our knowledge, the proposed algorithm is the first attempt to solve this problem with a GA based approach in the literature. The proposed GA approach is also illustrated with an example to explain the procedures of the algorithm. Preliminary results are promising and indicate that GA has a potential to solve parallel two-sided assembly line balancing problems (PTALBPs) effectively in a reasonable time.",
+        "email": "D.Z.Zhang@exeter.ac.uk",
+        "conf": "International Conference on Computers and Industrial Engineering (CIE43)",
+        "coauthors": [
+            "Ibrahim Kucukkoc",
+            "David Zhang"
+        ],
+        "keywords": "Production planning and scheduling, Parallel two-sided assembly lines, Assembly line balancing, Genetic algorithm, Meta-heuristics, Artificial intelligence, Optimisation"
+    },
+    {
+        "id": 5746,
+        "label": 116,
+        "author": "david zhengwen zhang",
+        "title": "Multi-Agent System for Dynamic Production Scheduling and Optimization",
+        "organization": "Professor of Manufacturing Systems University of Exeter",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Wan Tsin Goh",
+            "David Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5747,
+        "label": 116,
+        "author": "david zhengwen zhang",
+        "title": "Heterogeneous Autonomous Agent Architecture for Agile Manufacturing",
+        "organization": "Professor of Manufacturing Systems University of Exeter",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Shilong Wang",
+            "Jian Yi",
+            "Xia Hong",
+            "David Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5726,
+        "label": 116,
+        "author": "david zhengwen zhang",
+        "title": "Experimental investigation on selective laser melting behaviour and processing windows of in situ reacted Al/Fe2O3 powder mixture",
+        "organization": "Professor of Manufacturing Systems University of Exeter",
+        "abstract": "This study investigates the material behaviour and processing windows for selective laser melting (SLM), an additive manufacturing (AM) process, to directly fabricate net-shape Al metal matrix composite parts from Al/5wt.%Fe2O3, Al/10wt.%Fe2O3 and Al/15wt.%Fe2O3 powder mixtures. The processing windows of laser powers and scanning speeds are plotted in relation to the resulting surface roughness, density and hardness of SLM specimens. It is found that the in situ reaction of Al/Fe2O3 powder mixtures significantly influences the SLM processability and manipulates the range of applicable processing parameters for the direct production of particle reinforced Al matrix parts. The in situ reaction (affected by the proportion of Fe2O3 additive to the powder mixture) releases extra heat and collaborates with laser energy which can modify the visual surface and microstructural appearance or alter material characteristics in SLM processing windows. Higher Fe2O3 content leads to an increase in hardness, but a decrease in density of the SLM samples may occur.",
+        "email": "",
+        "conf": "Powder Technology",
+        "coauthors": [
+            "Sasan Dadbakhsh",
+            "L. Hao",
+            "P.G.E. Jerrard",
+            "David Zhengwen Zhang"
+        ],
+        "keywords": "Selective laser melting,Processing behaviour,In situ reaction,Al alloys,Metal matrix composite"
+    },
+    {
+        "id": 5753,
+        "label": 116,
+        "author": "david zhengwen zhang",
+        "title": "Agent-based Distributed Manufacturing System Modelling for Agile Manufacturing System Control",
+        "organization": "Professor of Manufacturing Systems University of Exeter",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "W. T. Goh",
+            "David Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5702,
+        "label": 116,
+        "author": "david zhengwen zhang",
+        "title": "Balancing of mixed-model parallel U-shaped assembly lines considering model sequences",
+        "organization": "Professor of Manufacturing Systems University of Exeter",
+        "abstract": "As a consequence of increasing interests in customised products, mixed-model lines have become the most significant components of today’s manufacturing systems to meet surging consumer demand. Also, U-shaped assembly lines have been shown as the intelligent way of producing homogeneous products in large quantities by reducing the workforce need thanks to the crossover workstations. As an innovative idea, we address the mixed-model parallel U-shaped assembly line design which combines the flexibility of mixed-model lines with the efficiency of U-shaped lines and parallel lines. The multi-line stations utilised in between two adjacent lines provide extra efficiency with the opportunity of assigning tasks into workstations in different combinations. The new line configuration is defined and characterised in details and its advantages are explained. A heuristic solution approach is proposed for solving the problem. The proposed approach considers the model sequences on the lines and seeks efficient balancing solutions for their different combinations. An explanatory example is also provided to show the sophisticated structure of the studied problem and explain the running mechanism of the proposed approach. The results of the experimental tests and their statistical analysis indicated that the proposed line design requires fewer number of workstations in comparison with independently balanced mixed-model U-lines.",
+        "email": "d.z.zhang@exeter.ac.uk",
+        "conf": "International Journal of Production Research",
+        "coauthors": [
+            "Ibrahim Kucukkoc",
+            "David Zhang"
+        ],
+        "keywords": "Assembly line balancing; design of production systems; production planning; U-shaped assembly lines; mixed-model assembly lines"
+    },
+    {
+        "id": 5733,
+        "label": 116,
+        "author": "david zhengwen zhang",
+        "title": "A novel agent bidding based optimization approach in manufacturing planning and scheduling",
+        "organization": "Professor of Manufacturing Systems University of Exeter",
+        "abstract": "The problem of process planning and scheduling in manufacturing systems can be simply concluded as an optimization problem in terms of minimizing processing cost and time with the constraints of different manufacturing resources capabilities and capacities and fixed operating sequence of job features. Some previous literatures involve centralized optimization approaches which are able to find a close to optimal solution, but the computational complexity is extremely high and the model is not flexible. Some others adopted dispatching rules, which can achieve good solutions, but not optimal ones. This paper presents a novel agent bidding based mechanism to solve the problem. A weight function is introduced to facilitate the search for optimal allocation, where the weight factors control the preference of production cost and time. Meanwhile, in each bidding round, there is an exploration process which gives small possibility to the agents with non-optimal bids to be selected as the winner. After iterations for adjusting parameters and exploration, the near optimal solution with minimized cost and satisfied lead time can be found.",
+        "email": "",
+        "conf": "International Conference on Computers & Indutrial Engineering. IEEE",
+        "coauthors": [
+            "Ruiqiang Lu",
+            "David Zhengwen Zhang"
+        ],
+        "keywords": "planning and scheduling optimization,Agent bidding approach,exploration"
+    },
+    {
+        "id": 5719,
+        "label": 116,
+        "author": "david zhengwen zhang",
+        "title": "A Multi-objective Optimization for Supply Chain Network using Intelligent Water Drop",
+        "organization": "Professor of Manufacturing Systems University of Exeter",
+        "abstract": "In this paper, the supply chain is modeled by a network of stages, which may have one or more options for being fulfilled, where each option is characterized by its time and cost. The objective is to determine the option for every stage that minimizes the Cost of Goods Sold and the Lead Time simultaneously for a set of products represented by a Generic Bill of Materials. In order to achieve it, this work proposes using a new meta-heuristic called Intelligent Water Drop, which mimics the process that takes place between water drops in a river and the changes that happen in the river bed. Artificial water drops minimize the cost and the lead time for every order using the concept of Pareto Optimal Set that, instead of obtaining a single solution, determines a set of optimal solutions by using the proposed equations to compute the velocity and time of the artificial drops. A widely used notebook supply chain in literature is solved and we provide some performance metrics of the algorithm. We compare the results of the proposed algorithm with the results computed by other meta-heuristics.",
+        "email": "",
+        "conf": "IIE Annual Conference. Proceedings. Institute of Industrial and Systems Engineers (IISE)",
+        "coauthors": [
+            "Luis A",
+            "Martnez Moncayo",
+            "David Zhengwen Zhang"
+        ],
+        "keywords": "Supply Chain Management, Multi-Objective Optimization, Intelligent Water Drop Meta-heuristic"
+    },
+    {
+        "id": 5752,
+        "label": 116,
+        "author": "david zhengwen zhang",
+        "title": "Computer Vision for Automated Quality Inspection of Colour Printing Products",
+        "organization": "Professor of Manufacturing Systems University of Exeter",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "J. Luo",
+            "David Zhang",
+            "H. Ismail"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5730,
+        "label": 116,
+        "author": "david zhengwen zhang",
+        "title": "Optimisation of Safety and In-transit inventory in Manufacturing Supply Chains by Intelligent Water Drop Metaheuristic",
+        "organization": "Professor of Manufacturing Systems University of Exeter",
+        "abstract": "In this paper, we address the problem of placing safety and in-transit inventory over a multi-stage manufacturing supply chain (SC) in which one or more products are manufactured, subject to a stochastic demand. The first part of the problem is to configure the SC given that manufacturers have one or more options to perform every supplying, assembly, and delivery stage. Then, a certain amount of inventory should be placed on each stage to ensure products are delivered to customers just in the stages’ service time. We tested a new nature-inspired swarm-based metaheuristic called Intelligent Water Drop (IWD) which imitates some of the processes that happen in nature among the water drops of a river and the soil of the river bed. The proposed approach is based on the creation of artificial water drops, which adapt to their environment to find the optimum path from a river/lake to the sea. This idea is embedded into our proposed algorithm to find the cheapest cost of supplying components, assembling, and delivering products subject to the stages’ service time. We tested our approach using a Notebook SC, used widely as test bed in literature. We compared the results computed by other approaches and provided some metrics as well as graphical proof of convergence.",
+        "email": "D.Z.Zhang@exeter.ac.uk",
+        "conf": "International working seminar on production economics",
+        "coauthors": [
+            "Luis A Moncayo-Martnez",
+            "David Zhengwen Zhang"
+        ],
+        "keywords": "Safety Stock, Swarm Intelligence, Water Drop Intelligence"
+    },
+    {
+        "id": 5732,
+        "label": 116,
+        "author": "david zhengwen zhang",
+        "title": "An integrated production and inventory model for a whole green manufacturing supply chain with limited contract period and capacity constraints for suppliers",
+        "organization": "Professor of Manufacturing Systems University of Exeter",
+        "abstract": "This paper proposes an integrated production and inventory model for a whole green manufacturing supply chain consisting of multiple-raw materials suppliers, multiple-parts suppliers, a manufacturer, multiple distributors, multiple retailers and a third party collector for used finished products. In the system under study, we consider limited contract period among the players in a specific time period. The number of replenishment cycles has exactly to meet the length of contract period for suppliers in the supply chain. This model also considers capacity constraints of the players and deliveries. The demand quantity is no more than production capacity and minimally meets the minimum demand quantity for each supplier. On the other hand, the order quantity per cycle time has to meet the capacity of delivery units. A model has been formulated for an integrated whole manufacturing supply chain to jointly determine the optimal order quantity and number of unit transportations per cycle across all players in the supply chain in the specific time period of supply chain contract and delivery schedule. Selection of suppliers is also included in solving the model. An optimal solution can be obtained by using mixed-integer nonlinear programming technique. A numerical example is presented and results discussed.",
+        "email": "",
+        "conf": "International Conference on Computers&Indutrial Engineering",
+        "coauthors": [
+            "J. Rinaldi",
+            "David Zhang"
+        ],
+        "keywords": "supply chain management,contracts,integer programming,nonlinear programming,production control,raw materials inventory,retailing,supply and demand,mixed-integer nonlinear programming,integrated production,inventory model,whole green manufacturing supply chain,limited contract period,capacity constraints,suppliers,multiple raw materials,multiple parts suppliers,multiple distributors,multiple retailers,third party collector,replenishment cycles,demand quantity,production capacity,transportations,delivery schedule,Raw materials,Supply chains,Cost function,Manufacturing,Hafnium,contract period,green manufacturing supply chain,production,inventory,capacity constraint"
+    },
+    {
+        "id": 5709,
+        "label": 116,
+        "author": "david zhengwen zhang",
+        "title": "Integrating ant colony and genetic algorithms in the balancing and scheduling of complex assembly lines",
+        "organization": "Professor of Manufacturing Systems University of Exeter",
+        "abstract": "Different from a large number of existing studies in the literature, this paper addresses two important issues in managing production lines, the problems of line balancing and model sequencing, concurrently. A novel hybrid agent-based ant colony optimization–genetic algorithm approach is developed for the solution of mixed model parallel two-sided assembly line balancing and sequencing problem. The existing agent-based ant colony optimization algorithm is enhanced with the integration of a new genetic algorithm-based model sequencing mechanism. The algorithm provides ants the opportunity of selecting a random behavior among ten heuristics commonly used in the line balancing domain. A numerical example is given to illustrate the solution building procedure of the algorithm and the evolution of the chromosomes. The performance of the developed algorithm is also assessed through test problems and analysis of their solutions through a statistical test, namely paired sample t test. In accordance with the test results, it is statistically proven that the integrated genetic algorithm-based model sequencing engine helps agent-based ant colony optimization algorithm robustly find significantly better quality solutions.",
+        "email": "",
+        "conf": "International Journal of Advanced Manufacturing Technology",
+        "coauthors": [
+            "Ibrahim Kucukkoc",
+            "David Zhang"
+        ],
+        "keywords": "Assembly line balancing,Model sequencing,Mixed model parallel two-sided assembly lines,Agent-based ant colony optimization,Genetic algorithm,Artificial intelligence"
+    },
+    {
+        "id": 5723,
+        "label": 116,
+        "author": "david zhengwen zhang",
+        "title": "On Applications of Ant Colony Optimisation Techniques in Solving Assembly Line Balancing Problems",
+        "organization": "Professor of Manufacturing Systems University of Exeter",
+        "abstract": "Recently, there is an increasing interest in applications of meta-heuristic approaches in solving various engineering problems. Meta-heuristics help both academics and practitioners to get not only feasible but also near optimal solutions where obtaining a solution for the relevant problem is not possible in a reasonable time using traditional optimisation techniques. Ant colony optimisation algorithm is inspired from the collective behaviour of ants and one of the most efficient meta-heuristics in solving combinatorial optimisation problems. One of the main application areas of ant colony optimisation algorithm is assembly line balancing problem. In this paper, we first give the running principle of ant colony optimisation algorithm and then review the applications of ant colony optimisation based algorithms on assembly line balancing problems in the literature. Strengths and weaknesses of proposed algorithms to solve various problem types in the literature have also been discussed in this research. The main aim is to lead new researches in this domain and spread the application areas of ant colony optimisation techniques in various aspects of line balancing problems. Existing researches in the literature indicate that ant colony optimisation methodology has a promising solution performance to solve line balancing problems especially when integrated with other heuristic and/or meta-heuristic methodologies.",
+        "email": "D.Z.Zhang@exeter.ac.uk",
+        "conf": "Keynotes and Extended",
+        "coauthors": [
+            "Ibrahim Kucukkoc",
+            "David Zhengwen Zhang"
+        ],
+        "keywords": "Ant colony optimisation; assembly line balancing; manufacturing systems; survey; meta-heuristics; artificial intelligence"
+    },
+    {
+        "id": 5744,
+        "label": 116,
+        "author": "david zhengwen zhang",
+        "title": "A multi-agent based manufacturing control strategy for responsive manufacturing",
+        "organization": "Professor of Manufacturing Systems University of Exeter",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of Materials Processing Technology",
+        "coauthors": [
+            "Ming K Lim",
+            "David Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5743,
+        "label": 116,
+        "author": "david zhengwen zhang",
+        "title": "Automatic colour printing inspection by image processing",
+        "organization": "Professor of Manufacturing Systems University of Exeter",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of Materials Processing Technology",
+        "coauthors": [
+            "J. Luo",
+            "David Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5742,
+        "label": 116,
+        "author": "david zhengwen zhang",
+        "title": "An intelligent and adaptive modelling and configuration approach to manufacturing systems control",
+        "organization": "Professor of Manufacturing Systems University of Exeter",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of Materials Processing Technology",
+        "coauthors": [
+            "W.T. Goh",
+            "David Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5708,
+        "label": 116,
+        "author": "david zhengwen zhang",
+        "title": "Minimising Safety Stock and Lead Time in Production Systems Under Guaranteed-Service Time Models by Swarm Intelligence",
+        "organization": "Professor of Manufacturing Systems University of Exeter",
+        "abstract": "In this chapter, we address the problem of placing safety and in-transit inventory over a multi-stage manufacturing supply chains (SC) in which one or more products are manufactured, subject to a stochastic demand . The first part of the problem is to configure the SC given that manufacturers have one or more options to perform every supplying, assembly, and delivery stage. Then, a certain amount of inventory should be placed on each stage to ensure products are delivered to customers just in the stages’ service time. We tested a new nature-inspired swarm-based meta-heuristic called Intelligent Water Drop (IWD) which imitates some of the processes that happen in nature between the water drops of a river and the soil of the river bed. The proposed approach is based on the creation of artificial water drops, which adapt to their environment to find the optimum path from a river/lake to the sea. This idea is embedded into our proposed algorithm to find the cheapest cost of supplying components, assembling, and delivering products subject to the stages’ service time. We tested our approach using four instances, used widely as test bed in literature. We compared the results computed to the ones computed by Ant Colony Meta-heuristic and provided some metrics as well as graphical results of the outputs.",
+        "email": "",
+        "conf": "Metaheuristics for Production Systems",
+        "coauthors": [
+            "Luis A Moncayo-Martnez",
+            "David Zhang",
+            "Gustavo Recio"
+        ],
+        "keywords": "Supply Chain, Lead Time, Generational Distance, Water Drop, Inventory Cost "
+    },
+    {
+        "id": 5725,
+        "label": 116,
+        "author": "david zhengwen zhang",
+        "title": "Modelling and Simulation of Dynamically Integrated Manufacturing Systems",
+        "organization": "Professor of Manufacturing Systems University of Exeter",
+        "abstract": "Fluctuations in demand patterns and products’ mixes, driven by continuous changes in customer requirements, are inducing significant changes on the operations of manufacturing organisations. How to respond to such changes rapidly and at minimum cost constitutes a major challenge for manufacturers. The DIMS project (Dynamically Integrated Manufacturing Systems) has developed an agent-based approach that enables manufacturing systems to be modelled using multi-agent systems such that optimal and timely responses to changes are generated from the interactions taking place within the multi-agents systems. This approach also incorporates a distributed discrete event simulation mechanism that enables ‘what-if’ system configurations that have been generated through agent interactions to be evaluated dynamically for system restructure. This paper presents the approach with particular focus on the distributed simulation mechanism.",
+        "email": "",
+        "conf": "Journal of Intelligent Manufacturing",
+        "coauthors": [
+            "David Zhengwen Zhang",
+            "A. I. Anosike"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5703,
+        "label": 116,
+        "author": "david zhengwen zhang",
+        "title": "Production Planning in Additive Manufacturing and 3D Printing",
+        "organization": "Professor of Manufacturing Systems University of Exeter",
+        "abstract": "Additive manufacturing is a new and emerging technology and has been shown to be the future of manufacturing systems. Because of the high purchasing and processing costs of additive manufacturing machines, the planning and scheduling of parts to be processed on these machines play a vital role in reducing operational costs, providing service to customers with less price and increasing the profitability of companies which provide such services. However, this topic has not yet been studied in the literature, although cost functions have been developed to calculate the average production cost per volume of material for additive manufacturing machines. In an environment where there are machines with different specifications (i.e. production time and cost per volume of material, processing time per unit height, set-up time, maximum supported area and height, etc.) and parts in different heights, areas and volumes, allocation of parts to machines in different sets or groups to minimize the average production cost per volume of material constitutes an interesting and challenging research problem. This paper defines the problem for the first time in the literature and proposes a mathematical model to formulate it. The mathematical model is coded in CPLEX and two different heuristic procedures, namely ‘best-fit’ and ‘adapted best-fit’ rules, are developed in JavaScript. Solution-building mechanisms of the proposed heuristics are explained stepwise through examples. A numerical example is also given, for which an optimum solution and heuristic solutions are provided in detail, for illustration. Test problems are created and a comprehensive experimental study is conducted to test the performance of the heuristics. Experimental tests indicate that both heuristics provide promising results. The necessity of planning additive manufacturing machines in reducing processing costs is also verified.",
+        "email": "D.Z.Zhang@exeter.ac.uk",
+        "conf": "Computers & Operations Research",
+        "coauthors": [
+            "Qiang Li",
+            "Ibrahim Kucukkoc",
+            "David Zhengwen Zhang"
+        ],
+        "keywords": "Production planning,Additive manufacturing,3D printing,Scheduling,Operations management,Optimization"
+    },
+    {
+        "id": 5748,
+        "label": 116,
+        "author": "david zhengwen zhang",
+        "title": "An Agent-Oriented Modelling Approach for Agile Manufacturing",
+        "organization": "Professor of Manufacturing Systems University of Exeter",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Anthony Anosike",
+            "David Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5716,
+        "label": 116,
+        "author": "david zhengwen zhang",
+        "title": "Agent-based hierarchical production planning and scheduling in make-to-order manufacturing system",
+        "organization": "Professor of Manufacturing Systems University of Exeter",
+        "abstract": "Nowadays, manufacturing organisations face increasing pressures from the frequent change in product type, continuous demand fluctuation and unexpected change in customer requirements. In order to survive in the turbulent environment, manufacturing organisations must become flexible and responsive to these dynamic changes in the business environment. This paper presents a hierarchical agent bidding mechanism that is particularly designed for Make-to-Order manufacturing system and attempts to enhance the operational flexibility of manufacturing system in dealing with dynamic changes in the business environment. The novelty of this mechanism is that it enables manufacturing resources to be self-organised cost-efficiently within structural constraints of manufacturing system for fulfilling customer orders. However, when orders cannot be fulfilled within the structural constraints of manufacturing systems, the mechanism can enable manufacturing resources to be regrouped flexibly across system boundaries but with minimum disturbances to existing system structure. Based on an example application to a manufacturing company, this paper demonstrates that the operational flexibility provided by this mechanism is able to help manufacturing system to respond demand fluctuation through balancing the capacity across the entire system. Meanwhile, this mechanism potentially enables manufacturing systems to deal with unexpected changes in product type. As long as the manufacturing system has the technicality required by a new product, this mechanism enables resources across the manufacturing system to be cost-efficiently and flexibly self-organised to fulfil the new product.",
+        "email": "",
+        "conf": "International Journal of Production Economics",
+        "coauthors": [
+            "Naihui He",
+            "David Zhang",
+            "Qiang Li"
+        ],
+        "keywords": "Hierarchical planning,Multi-agent system"
+    },
+    {
+        "id": 5750,
+        "label": 116,
+        "author": "david zhengwen zhang",
+        "title": "Agile manufacturing in practice - Application of a methodology",
+        "organization": "Professor of Manufacturing Systems University of Exeter",
+        "abstract": "",
+        "email": "",
+        "conf": "International Journal of Operations & Production Management",
+        "coauthors": [
+            "H. Sharifi",
+            "David Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5739,
+        "label": 116,
+        "author": "david zhengwen zhang",
+        "title": "An agent-based approach for e-manufacturing and supply chain integration",
+        "organization": "Professor of Manufacturing Systems University of Exeter",
+        "abstract": "A major problem facing manufacturing organisations is how to provide efficient and cost-effective responses to the unpredictable changes taking place in a global market. This problem is made difficult by the complexity of supply chain networks coupled with the complexity of individual manufacturing systems within supply chains. Current systems such as manufacturing execution systems (MES), supply chain management (SCM) systems and enterprise resource planning (ERP) systems do not provide adequate facilities for addressing this problem. This paper presents an approach that would enable manufacturing organisations to dynamically and cost-effectively integrate, optimise, configure, simulate, restructure and control not only their own manufacturing systems but also their supply networks, in a co-ordinated manner to cope with the dynamic changes occurring in a global market. This is realised by a synergy of two emerging manufacturing concepts: Agent-based agile manufacturing systems and e-manufacturing. The concept is to represent a complex manufacturing system and its supply network with an agent-based modelling and simulation architecture and to dynamically generate alternative scenarios with respect to planning, scheduling, configuration and restructure of both the manufacturing system and its supply network based on the coordinated interactions amongst agents.",
+        "email": "d.z.zhang@ex.ac.uk",
+        "conf": "Computers & Industrial Engineering",
+        "coauthors": [
+            "David Zhengwen Zhang",
+            "Anthony Ikechukwu Anosike",
+            "Ming K Lim",
+            "Oluwaremilekun Mowanuola Akanle"
+        ],
+        "keywords": "Supply chain integration,Multi-agent system,Agile manufacturing,E-manufacturing"
+    },
+    {
+        "id": 5715,
+        "label": 116,
+        "author": "david zhengwen zhang",
+        "title": "Simultaneous balancing and sequencing of mixed-model parallel two-sided assembly lines",
+        "organization": "Professor of Manufacturing Systems University of Exeter",
+        "abstract": "Growing interests from customers in customised products and increasing competitions among peers necessitate companies to configure their manufacturing systems more effectively than ever before. We propose a new assembly line system configuration for companies that need intelligent solutions to satisfy customised demands on time with existing resources. A mixed-model parallel two-sided assembly line system is introduced based on the parallel two-sided assembly line system previously proposed in the literature. The mixed-model parallel two-sided assembly line balancing problem is illustrated with examples from the perspective of simultaneous balancing and sequencing. An agent-based ant colony optimisation algorithm is proposed to solve the problem. This algorithm is the first attempt in the literature to solve an assembly line balancing problem with an agent-based ant colony optimisation approach. The algorithm is illustrated with an example and its operational procedures and principles are explained and discussed.",
+        "email": "",
+        "conf": "International Journal of Production Research",
+        "coauthors": [
+            "Ibrahim Kucukkoc",
+            "David Zhang"
+        ],
+        "keywords": "mixed-model parallel two-sided assembly lines, assembly line balancing, agent-based ant colony optimisation, meta-heuristics, artificial intelligence"
+    },
+    {
+        "id": 5755,
+        "label": 116,
+        "author": "david zhengwen zhang",
+        "title": "Materials Modelling and Laser Inspection for the 3D Lay-up of Dry Fiber Composite Preforms",
+        "organization": "Professor of Manufacturing Systems University of Exeter",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of Manufacturing Science and Engineering",
+        "coauthors": [
+            "David Zhang",
+            "M. Sarhadi"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5718,
+        "label": 116,
+        "author": "david zhengwen zhang",
+        "title": "An Agent Based Ant Colony Optimisation Approach for Mixed-Model Parallel Two-Sided Assembly Line Balancing Problem",
+        "organization": "Professor of Manufacturing Systems University of Exeter",
+        "abstract": "The main purpose of this research is to address a new line system that can be utilised to produce large sized items, such as automobiles and buses, in vehicle manufacturing industry. Model variations are considered on two-sided lines located in parallel to each other; and the problem of balancing mixed-model parallel two-sided lines is defined and explained. The requirement of considering station merging procedure along with the line balancing problem is discussed. An agent based ant colony optimisation algorithm is developed to solve the problem. A numerical example is also given to describe the problem visually and to explain the proposed method systematically. Test cases are solved using proposed approach and the results indicate that defined line system has advantages over separately balanced mixed-model two-sided lines and the proposed algorithm outperforms other common six heuristics of the line balancing found in the literature.",
+        "email": "D.Z.Zhang@exeter.ac.uk",
+        "conf": "Computers & Industrial Engineering",
+        "coauthors": [
+            "Ibrahim Kucukkoc",
+            "David Zhang"
+        ],
+        "keywords": "Assembly lines, Line balancing, Mixed-model parallel two-sided assembly lines, Agent based system,Ant colony optimisation algorithm, Production planning, Optimisation"
+    },
+    {
+        "id": 5734,
+        "label": 116,
+        "author": "david zhengwen zhang",
+        "title": "An iterative agent bidding mechanism for responsive manufacturing",
+        "organization": "Professor of Manufacturing Systems University of Exeter",
+        "abstract": "In today's market, the global competition has put manufacturing businesses in great pressures to respond rapidly to dynamic variations in demand patterns across products and changing product mixes. To achieve substantial responsiveness, the manufacturing activities associated with production planning and control must be integrated dynamically, efficiently and cost-effectively. This paper presents an iterative agent bidding mechanism, which performs dynamic integration of process planning and production scheduling to generate optimised process plans and schedules in response to dynamic changes in the market and production environment. The iterative bidding procedure is carried out based on currency-like metrics in which all operations (e.g. machining processes) to be performed are assigned with virtual currency values, and resource agents bid for the operations if the costs incurred for performing them are lower than the currency values. The currency values are adjusted iteratively and resource agents re-bid for the operations based on the new set of currency values until the total production cost is minimised. A simulated annealing optimisation technique is employed to optimise the currency values iteratively. The feasibility of the proposed methodology has been validated using a test case and results obtained have proven the method outperforming non-agent-based methods.",
+        "email": "D.Z.Zhang@exeter.ac.uk",
+        "conf": "Engineering Applications of Artificial Intelligence",
+        "coauthors": [
+            "Ming K Lim",
+            "David Zhengwen Zhang",
+            "W. T. Goh"
+        ],
+        "keywords": "Planning and production control,Multi-agent system,System modelling and simulation,Simulated annealing,Responsive manufacturing"
+    },
+    {
+        "id": 5754,
+        "label": 116,
+        "author": "david zhengwen zhang",
+        "title": "Integrated Manufacturing Systems Control Using a Multi-Agent System",
+        "organization": "Professor of Manufacturing Systems University of Exeter",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Ming K Lim",
+            "David Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5731,
+        "label": 116,
+        "author": "david zhengwen zhang",
+        "title": "Multi-objective ant colony optimisation: A meta-heuristic approach to supply chain design",
+        "organization": "Professor of Manufacturing Systems University of Exeter",
+        "abstract": "This paper proposes a new approach to determining the Supply Chain (SC) design for a family of products comprising complex hierarchies of subassemblies and components. For a supply chain, there may be multiple suppliers that could supply the same components as well as optional manufacturing plants that could assemble the subassemblies and the products. Each of these options is differentiated by a lead-time and cost. Given all the possible options, the supply chain design problem is to select the options that minimise the total supply chain cost while keeping the total lead-times within required delivery due dates. This work proposes an algorithm based on Pareto Ant Colony Optimisation as an effective meta-heuristic method for solving multi-objective supply chain design problems. An experimental example and a number of variations of the example are used to test the algorithm and the results reported using a number of comparative metrics. Parameters affecting the performance of the algorithm are investigated.",
+        "email": "d.z.zhang@ex.ac.uk",
+        "conf": "International Journal of Production Economics",
+        "coauthors": [
+            "Luis A Moncayo-Martnez",
+            "David Zhengwen hang"
+        ],
+        "keywords": "Supply chain configuration,Multi-objective optimisation,Ant colony,Meta-heuristics"
+    },
+    {
+        "id": 5738,
+        "label": 116,
+        "author": "david zhengwen zhang",
+        "title": "Demand fluctuation and chaotic behaviour by interaction between customers and suppliers",
+        "organization": "Professor of Manufacturing Systems University of Exeter",
+        "abstract": "This paper presents an investigation on simulation of interaction between customers and suppliers in a three-tier supply chain system. In the simulation, customers respond to the price discount offer made by the supplier and the supplier makes adjusts the price according to stock held. The simulation shows that the behaviour of such interaction exhibits deterministic chaos. It is found that the attractors of the model move with the environment and the initial states. Thus, the bifurcating points in such a system are unable to provide a guideline in system design to avoid chaos.",
+        "email": "",
+        "conf": "International Journal of Production Economics",
+        "coauthors": [
+            "Ray Wu",
+            "David Zhengwen Zhang"
+        ],
+        "keywords": "Supply chain dynamics,Deterministic chaos,Stability,Price discount,Simulation"
+    },
+    {
+        "id": 5724,
+        "label": 116,
+        "author": "david zhengwen zhang",
+        "title": "Balancing Parallel Two-Sided Assembly Lines with Ant Colony Optimisation Algorithm",
+        "organization": "Professor of Manufacturing Systems University of Exeter",
+        "abstract": "Assembly lines are one of the most frequently used flow oriented production systems in industry. Although only a few researchers have studied them, two-sided assembly lines are usually utilised to produce high-volume large-sized products such as trucks and buses. In this study, more than one two-sided assembly line constructed in parallel are balanced simultaneously using a newly developed ant colony optimisation algorithm. To the best knowledge of the authors, the proposed method is the first attempt to solve the parallel two-sided assembly line balancing problem using an ant colony optimisation based algorithm. The proposed approach is also illustrated with examples from the literature to show the procedures of the algorithm",
+        "email": "D.Z.Zhang@exeter.ac.uk",
+        "conf": "ymposium on Nature-Inspired Computing and Applications (NICA) at Artificial Intelligence and the Simulation of Behaviour (AISB)",
+        "coauthors": [
+            "Ibrahim Kucukkoc",
+            "David Zhang",
+            "Edward C Keedwell"
+        ],
+        "keywords": "assembly line balancing; parallel two-sided assembly lines; ant colony optimisation; meta-heuristics; artificial intelligence"
+    },
+    {
+        "id": 5717,
+        "label": 116,
+        "author": "david zhengwen zhang",
+        "title": "Additive manufacturing: A framework for implementation",
+        "organization": "Professor of Manufacturing Systems University of Exeter",
+        "abstract": "As mass production has migrated to developing countries, European and US companies are forced to rapidly switch towards low volume production of more innovative, customised and sustainable products with high added value. To compete in this turbulent environment, manufacturers have sought new fabrication techniques to provide the necessary tools to support the need for increased flexibility and enable economic low volume production. One such emerging technique is Additive Manufacturing (AM). AM is a method of manufacture which involves the joining of materials, usually layer-upon-layer, to create objects from 3D model data. The benefits of this methodology include new design freedom, removal of tooling requirements, and economic low volumes. AM consists of various technologies to process versatile materials, and for many years its dominant application has been the manufacture of prototypes, or Rapid Prototyping. However, the recent growth in applications for direct part manufacture, or Rapid Manufacturing, has resulted in much research effort focusing on development of new processes and materials. This study focuses on the implementation process of AM and is motivated by the lack of socio-technical studies in this area. It addresses the need for existing and potential future AM project managers to have an implementation framework to guide their efforts in adopting this new and potentially disruptive technology class to produce high value products and generate new business opportunities. Based on a review of prior works and through qualitative case study analysis, we construct and test a normative structural model of implementation factors related to AM technology, supply chain, organisation, operations and strategy.",
+        "email": "",
+        "conf": "International Journal of Production Economics",
+        "coauthors": [
+            "Stephen Mellor",
+            "Liang Hao",
+            "David Zhang"
+        ],
+        "keywords": "Additive manufacturing,Rapid manufacturing,Technology implementation,Case study"
+    },
+    {
+        "id": 5711,
+        "label": 116,
+        "author": "david zhengwen zhang",
+        "title": "A Mathematical Model and Genetic Algorithm based Approach for Parallel Two-Sided Assembly Line Balancing Problem",
+        "organization": "Professor of Manufacturing Systems University of Exeter",
+        "abstract": "Assembly lines are usually constructed as the last stage of the entire production system and efficiency of an assembly line is one of the most important factors which affect the performance of a complex production system. The main purpose of this paper is to mathematically formulate and to provide an insight for modelling the parallel two-sided assembly line balancing problem, where two or more two-sided assembly lines are constructed in parallel to each other. We also propose a new genetic algorithm (GA)-based approach in alternatively to the existing only solution approach in the literature, which is a tabu search algorithm. To the best of our knowledge, this is the first formal presentation of the problem as well as the proposed algorithm is the first attempt to solve the problem with a GA-based approach in the literature. The proposed approach is illustrated with an example to explain the procedures of the algorithm. Test problems are solved and promising results are obtained. Statistical tests are designed to analyse the advantage of line parallelisation in two-sided assembly lines through obtained test results. The response of the overall system to the changes in the cycle times of the parallel lines is also analysed through test problems for the first time in the literature.",
+        "email": "",
+        "conf": "Production Planning and Control",
+        "coauthors": [
+            "Ibrahim Kucukkoc",
+            "David Zhang"
+        ],
+        "keywords": "parallel two-sided assembly lines, assembly line balancing, production planning, genetic algorithm, meta-heuristics, artificial intelligence"
+    },
+    {
+        "id": 5740,
+        "label": 116,
+        "author": "david zhengwen zhang",
+        "title": "Dynamic reconfiguration and simulation of manufacturing systems using agents",
+        "organization": "Professor of Manufacturing Systems University of Exeter",
+        "abstract": "Conventionally, various levels of decisions with regard to production are made in a number of sequential stages such as system design, production/process planning, production scheduling, system reconfiguration and system restructure. This paper aims to present an integrated approach for modelling, restructuring and simulating manufacturing systems to suit changing manufacturing situations as quickly as possible. An agent‐based approach is employed where each manufacturing resource is represented by an agent. Simply speaking, the approach enables the machines in a manufacturing system to manage themselves efficiently and effectively. The agent‐based modelling and interaction approach enables manufacturing resources to be allocated dynamically in an optimal manner. The modelling approach also enables alternative system configurations to be identified and evaluated using distributed discrete event simulation system. Resource allocation and manufacturing system control can take place simultaneously with simulation. This paper presents a successful integration of agent‐based modelling, process planning, scheduling, control, identification of alternative system configurations, simulation and analysis of the configurations and PLC reprogramming within a coherent framework for improved manufacturing responsiveness.",
+        "email": "",
+        "conf": "Journal of Manufacturing Technology Management",
+        "coauthors": [
+            "Anthony I. Anosike",
+            "David Zhang"
+        ],
+        "keywords": "Modelling,Systems Engineering;Simulation;Manufacturing Systems"
+    },
+    {
+        "id": 5710,
+        "label": 116,
+        "author": "david zhengwen zhang",
+        "title": "Balancing of Parallel U-shaped Assembly Lines",
+        "organization": "Professor of Manufacturing Systems University of Exeter",
+        "abstract": "A new hybrid assembly line design, called parallel U-shaped assembly line system, is introduced and characterised along with numerical examples for the first time. Different from existing studies on U-shaped lines, we combine the advantages of two individual line configurations (namely parallel lines and U-shaped lines) and create an opportunity for assigning tasks to multi-line workstations located in between two adjacent U-shaped lines with the aim of maximising resource utilisation. Utilisation of crossover workstations, in which tasks from opposite areas of a same U-shaped line can be performed, is also one of the main advantages of the U-shaped lines. As in traditional U-shaped line configurations, the newly proposed line configuration also supports the utilisation of crossover workstations. An efficient heuristic algorithm is developed to find well-balanced solutions for the proposed line configurations. Test cases derived from existing studies and modified in accordance with the proposed system in this study are solved using the proposed heuristic algorithm. The comparison of results obtained when the lines are balanced independently and when the lines are balanced together (in parallel to each other) clearly indicates that the parallelisation of U-shaped lines helps decrease the need for workforce significantly.",
+        "email": "D.Z.Zhang@exeter.ac.uk",
+        "conf": "Computers & Operations Research",
+        "coauthors": [
+            "Ibrahim Kucukkoc",
+            "David Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5729,
+        "label": 116,
+        "author": "david zhengwen zhang",
+        "title": "Achieving Cost Competitiveness with an Agent-Based Integrated Process Planning and Production Scheduling System",
+        "organization": "Professor of Manufacturing Systems University of Exeter",
+        "abstract": "From a manufacturing perspective, the efficiency of manufacturing operations (such as process planning and production scheduling) are the key element for enhancing manufacturing competence. Process planning and production scheduling functions have been traditionally treated as two separate activities, and have resulted in a range of inefficiencies. These include infeasible process plans, non-available/overloaded resources, high production costs, long production lead times, and so on. Above all, it is unlikely that the dynamic changes can be efficiently dealt with. Despite much research has been conducted to integrate process planning and production scheduling to generate optimised solutions to improve manufacturing efficiency, there is still a gap to achieve the competence required for the current global competitive market. In this research, the concept of multi-agent system (MAS) is adopted as a means to address the aforementioned gap. A MAS consists of a collection of intelligent autonomous agents able to solve complex problems. These agents possess their individual objectives and interact with each other to fulfil the global goal. This paper describes a novel use of an autonomous agent system to facilitate the integration of process planning and production scheduling functions to cope with unpredictable demands, in terms of uncertainties in product mix and demand pattern. The novelty lies with the currency-based iterative agent bidding mechanism to allow process planning and production scheduling options to be evaluated simultaneously, so as to search for an optimised, cost-effective solution. This agent based system aims to achieve manufacturing competence by means of enhancing the flexibility and agility of manufacturing enterprises.",
+        "email": "",
+        "conf": "Production Scheduling",
+        "coauthors": [
+            "Ming K Lim",
+            "David Zhengwen Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5757,
+        "label": 116,
+        "author": "david zhengwen zhang",
+        "title": "Modeling and analysis of electrostatic force for robot handling of fabric materials",
+        "organization": "Professor of Manufacturing Systems University of Exeter",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE/ASME Transactions on Mechatronics",
+        "coauthors": [
+            "David Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5735,
+        "label": 116,
+        "author": "david zhengwen zhang",
+        "title": "An agent-based approach for integrating manufacturing operations",
+        "organization": "Professor of Manufacturing Systems University of Exeter",
+        "abstract": "To remain competitive in today's global market, manufacturing organisations must be able to respond to unpredictable changes that occur in the market rapidly and cost-effectively. To facilitate such responsiveness, this paper presents an agent-based approach that would enable manufacturers to achieve optimised utilisation of resources within their existing manufacturing systems’ structures and constraints while simultaneously considering systems’ reconfiguration and restructure options to accommodate changing demand distributions and product mix. The approach is based on an integrated decision platform on which planning and control decisions can be considered concurrently with system reconfiguration/restructure decisions.",
+        "email": "d.z.zhang@ex.ac.uk",
+        "conf": "International Journal of Production Economics",
+        "coauthors": [
+            "A.I. Anosike",
+            "David Zhengwen Zhang"
+        ],
+        "keywords": "Multi-agent systems,Dynamic reconfiguration,Modelling,Simulation and control"
+    },
+    {
+        "id": 5745,
+        "label": 116,
+        "author": "david zhengwen zhang",
+        "title": "Agent-based modeling and mapping of a manufacturing system",
+        "organization": "Professor of Manufacturing Systems University of Exeter",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of Materials Processing Technology",
+        "coauthors": [
+            "S. L Wang",
+            "H Xia",
+            "F Liu",
+            "David Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5728,
+        "label": 116,
+        "author": "david zhengwen zhang",
+        "title": "A DSS Solution for Integrated Automated Bidding Subcontractor Selection and Project Scheduling",
+        "organization": "Professor of Manufacturing Systems University of Exeter",
+        "abstract": "Subcontractor Selection and Project Planning are two essential decision stages in the construction industry. Bidding leads to the selection of subcontractors. At the next stage, project planners communicate and coordinate with selected subcontractors to plan the project. These processes generally provide the initial overall project plan and schedule for a building project, and conventional methods lack flexibility and integration. In this study, we propose a new decision making framework and present an integrated decision support system (DSS) to facilitate concurrent decision making in these interrelated processes. An assessment of the system by project managers at the case study company indicates that the system is capable of greatly improving the bidding, subcontractor selection and project planning processes in a holistic (integrated) framework. The system can be applied generally in the construction industry.",
+        "email": "",
+        "conf": "Euro Working Group Workshop on Decision Support Systems",
+        "coauthors": [
+            "Alireza Pakgohar",
+            "Stephen J. Childe",
+            "David Zhengwen Zhang"
+        ],
+        "keywords": "Construction Industry, Bid Processing, Subcontractor Selection, Multi-objective Optimisation, GA, Pareto front "
+    },
+    {
+        "id": 5736,
+        "label": 116,
+        "author": "david zhengwen zhang",
+        "title": "Agent-based model for optimising supply-chain configurations",
+        "organization": "Professor of Manufacturing Systems University of Exeter",
+        "abstract": "With the increasing importance of supply-chain operations on manufacturing successes, an interest for OEM manufacturers is to optimally configure their supply chains to meet customer demand with minimum cost. While a completely dynamic supply chain, where best combination of resources is found and used for every customer order, may be applicable in certain situations, other situations demand a relatively stable supply chain, which evolves over time with respect to changes. This paper proposes a methodology for optimising supply-chain configurations to cope with customer demand over a period of time. With this methodology, a multi-agent system is used to model resource options available in a supply chain as well as dynamic changes taking place at the resources and their operational environment. Demand is modelled by a time-dependent sequence of customer orders, which are processed by the supply chain one after another. Agents within the supply chain interact with tasks in each customer order, under the coordination of an iterative bidding mechanism, to identify the optimum resource combination to satisfy each order. The resulting resource combinations for individual orders are then clustered to identify frequently used resource groups, which are refined further based on qualitative criteria, for the identification of a future chain structure. The method is tested on a simple example and its feasibility confirmed by initial results.",
+        "email": "",
+        "conf": "International Journal of Production Economics",
+        "coauthors": [
+            "O.M. Akanle",
+            "David Zhengwen Zhang"
+        ],
+        "keywords": "Supply chain,Agents,Configuration,Optimisation,Iterative bidding"
+    },
+    {
+        "id": 5704,
+        "label": 116,
+        "author": "david zhengwen zhang",
+        "title": "A lightweight and support-free design method for selective laser melting",
+        "organization": "Professor of Manufacturing Systems University of Exeter",
+        "abstract": "Topology optimisation is an effective approach to design extreme lightweight components. However, most of the resulted optimum lightweight components usually have complex structures which cannot be produced successfully by traditional manufacturing processes. Selective laser melting is one of the additive manufacturing processes. It shows powerful capacity in the manufacturing of metal components with complex structures. Therefore, the combination of topology optimisation and selective laser melting shows a promising prospect for metal components. However, support structures were usually introduced during the selective laser melting manufacturing process, which resulted to some disadvantages, for example, the support structures are generally difficult to remove from the original components because it is difficult to clamping and machining. Therefore, a design method was proposed in this study, named lightweight and support-free design method, the detailed design process and advantages were presented. In the design process, topology optimisation was applied to realise lightweight design, and support-free design process was developed to meet the support-free requirement. Finally, as a case, a cross-beam component was designed using the proposed method, and the final model was produced successfully using selective laser melting process. The case study result verified that the proposed design method is effective to design lightweight and support-free industrial metal components for SLM process.",
+        "email": "",
+        "conf": "International Journal of Advanced Manufacturing Technology",
+        "coauthors": [
+            "Zhonghua Li",
+            "David Zhengwen Zhang",
+            "Peng Dong",
+            "Ibrahim Kucukkoc"
+        ],
+        "keywords": "Selective laser melting, Topology optimisation, Lightweight, Support-free"
+    },
+    {
+        "id": 5707,
+        "label": 116,
+        "author": "david zhengwen zhang",
+        "title": "Lexicographic Bottleneck Mixed-model Assembly Line Balancing Problem: Artificial Bee Colony and Tabu Search Approaches with Optimised Parameters",
+        "organization": "Professor of Manufacturing Systems University of Exeter",
+        "abstract": "The lexicographic bottleneck assembly line balancing problem is a recently introduced problem which aims at obtaining a smooth workload distribution among workstations. This is achieved hierarchically. The workload of the most heavily loaded workstation is minimised, followed by the workload of the second most heavily loaded workstation and so on. This study contributes to knowledge by examining the application of the lexicographic bottleneck objective on mixed-model lines, where more than one product model is produced in an inter-mixed sequence. The main characteristics of the lexicographic bottleneck mixed-model assembly line balancing problem are described with numerical examples. Another contribution of the study is the methodology used to deal with the complex structure of the problem. Two effective meta-heuristic approaches, namely artificial bee colony and tabu search, are proposed. The parameters of the proposed meta-heuristics are optimised using response surface methodology, which is a well-known design of experiments technique, as a unique contribution to the expert and intelligent systems literature. Different from the common tendency in the literature (which aims to optimise one parameter at a time), all parameters are optimised simultaneously. Therefore, it is shown how a complex production planning problem can be solved using sophisticated artificial intelligence techniques with optimised parameters. The methodology used for parameter setting can be applied to other metaheuristics for solving complex problems in practice. The performances of both algorithms are assessed using well-known test problems and it is observed that both algorithms find promising solutions. Artificial bee colony algorithm outperforms tabu search in minimising the number of workstations while tabu search shows a better performance in minimising the value of lexicographic bottleneck objective function.",
+        "email": "D.Z.Zhang@exeter.ac.uk",
+        "conf": "Expert Systems with Applications",
+        "coauthors": [
+            "Kadir Buyukozkan",
+            "Ibrahim Kucukkoc",
+            "Sule Itir Satoglu",
+            "David Zhang"
+        ],
+        "keywords": "Mixed-model assembly line balancing;Lexicographic bottleneck;Artificial bee colony;Tabu search; Parameter optimisation;Response surface methodology"
+    },
+    {
+        "id": 5741,
+        "label": 116,
+        "author": "david zhengwen zhang",
+        "title": "An integrated agent-based approach for responsive control of manufacturing resources",
+        "organization": "Professor of Manufacturing Systems University of Exeter",
+        "abstract": "",
+        "email": "",
+        "conf": "Computers & Industrial Engineering",
+        "coauthors": [
+            "Ming K Lim",
+            "David Zhang"
+        ],
+        "keywords": ""
+    }
+]

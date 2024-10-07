@@ -1,0 +1,624 @@
+[
+    {
+        "id": 5343,
+        "label": 109,
+        "author": "se kwon kim",
+        "title": "The Dynamics of Skyrmions in Easy-Plane Magnets induced by a Spin Supercurrent",
+        "organization": "Department of Physics and Astronomy University of Missouri Columbia",
+        "abstract": "We theoretically study the interaction of an isolated bimeron skyrmion in quasi-two-dimensional easy-plane magnets with a surrounding spin superfluid associated with spontaneously broken U(1) spin-rotational symmetry, revealing that skyrmion energy depends on the local spin current flowing in its background. The finding leads us to propose to manipulate a skyrmion energy landscape via a spin supercurrent, which can be controlled nonlocally by varying the magnitudes of spin-current injection and ejection through the boundaries. Two exemplary cases are discussed: a steady-state motion of a skyrmion induced by a uniform force and a skyrmion motion localized along a one-dimensional racetrack. We envision that a skyrmion interacting with a spin superfluid can serve as a robust pointlike information carrier that can be operated with minimal dissipation",
+        "email": "",
+        "conf": "Physical Review",
+        "coauthors": [
+            "Se Kwon Kim"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5342,
+        "label": 109,
+        "author": "se kwon kim",
+        "title": "Vanishing skyrmion Hall effect at the angular momentum compensation temperature of a ferrimagnet",
+        "organization": "Department of Physics and Astronomy University of Missouri Columbia",
+        "abstract": "In the presence of a magnetic field, the flow of charged particles in a conductor is deflected from the direction of the applied force, which gives rise to the ordinary Hall effect. Analogously, moving skyrmions with non-zero topological charges and finite fictitious magnetic fields exhibit the skyrmion Hall effect, which is detrimental for applications such as skyrmion racetrack memory. It was predicted that the skyrmion Hall effect vanishes for antiferromagnetic skyrmions because their fictitious magnetic field, proportional to net spin density, is zero. Here we investigate the current-driven transverse elongation of pinned ferrimagnetic bubbles. We estimate the skyrmion Hall effect from the angle between the current and the bubble elongation directions. The angle and, hence, the skyrmion Hall effect vanishes at the angular momentum compensation temperature where the net spin density vanishes. Furthermore, our study establishes a direct connection between the fictitious magnetic field and the spin density.",
+        "email": "",
+        "conf": "Nature Nanotechnology",
+        "coauthors": [
+            "Yuushou Hirata, Duck-Ho Kim, Se Kwon Kim, Dong-Kyu Lee, Se-Hyeok Oh, Dae-Yun Kim, Tomoe Nishimura, Takaya Okuno, Yasuhiro Futakawa, Hiroki Yoshikawa, Arata Tsukamoto, Yaroslav Tserkovnyak, Yoichi Shiota, Takahiro Moriyama, Sug-Bong Choe, Kyung-Jin Lee, Teruo Ono"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5369,
+        "label": 109,
+        "author": "se kwon kim",
+        "title": "Landau-Lifshitz theory of thermomagnonic torque",
+        "organization": "Department of Physics and Astronomy University of Missouri Columbia",
+        "abstract": "We derive the thermomagnonic torque associated with smooth magnetic textures subjected to a temperature gradient in the framework of the stochastic Landau-Lifshitz-Gilbert equation. Our approach captures on equal footing two distinct contributions: (i) a local entropic torque that is caused by a temperature dependence of the effective exchange field, the existence of which had been previously suggested based on numerics, and (ii) the well-known spin-transfer torque induced by thermally induced magnon flow. The dissipative components of two torques have the same structure, following a common phenomenology, but opposite signs, with the twice as large entropic torque leading to a domain-wall motion toward the hotter region. We compare the efficiency of the torque-driven domain-wall motion with the recently proposed Brownian thermophoresis.",
+        "email": "",
+        "conf": "Physical Review B",
+        "coauthors": [
+            "Se Kwon Kim",
+            "Yaroslav Tserkovnyak"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5341,
+        "label": 109,
+        "author": "se kwon kim",
+        "title": "Domain wall dynamics in easy-cone magnets",
+        "organization": "Department of Physics and Astronomy University of Missouri Columbia",
+        "abstract": "We theoretically and numerically investigate magnetic domain wall dynamics in a nanowire of an easy-cone magnet. The easy-cone domain wall exhibits several distinguishing dynamic features in comparison to the easy-axis domain wall. They are related to the generation of additional chiral spin textures due to the domain wall precession, which occurs commonly for various driving sources such as magnetic fields and spin-transfer torque. We envision that the unique easy-cone domain wall dynamics can enrich the study of magnetic domain walls both for fundamental interest and for device applications.",
+        "email": "",
+        "conf": "Physical Review",
+        "coauthors": [
+            "Peong-Hwa Jang",
+            "Se-Hyeok Oh",
+            "Se Kwon Kim",
+            "Kyung-Jin Lee"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5349,
+        "label": 109,
+        "author": "se kwon kim",
+        "title": "Easy-Plane Magnetic Strip as a Long Josephson Junction",
+        "organization": "Department of Physics and Astronomy University of Missouri Columbia",
+        "abstract": "Spin-torque-biased magnetic dynamics in an easy-plane ferromagnet (EPF) is theoretically studied in the presence of a weak in-plane anisotropy. While this anisotropy spoils U(1) symmetry thereby quenching the conventional spin superfluidity, we show that the system instead realizes a close analog of a long Josephson junction (LJJ) model. The traditional magnetic-field and electric-current controls of the latter map respectively onto the symmetric and antisymmetric combinations of the out-of-plane spin torques applied at the ends of the magnetic strip. This suggests an alternative route towards realizations of superfluid-like transport phenomena in insulating magnetic systems. We study spin-torque-biased phase diagram, providing an analytical solution for static multidomain phases in the EPF. We adapt an existing self-consistency method for the LJJ to develop an approximate solution for the EPF dynamics. The LJJ-EPF mapping allows us to envision superconducting circuit functionality at elevated temperatures. The results apply equally to antiferromagnets with suitable effective free energy in terms of the N\\'{e}el order instead of magnetization",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Daniel Hill",
+            "Se Kwon Kim",
+            "Yaroslav Tserkovnyak"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5339,
+        "label": 109,
+        "author": "se kwon kim",
+        "title": "Spin-transfer torques for domain walls in antiferromagnetically coupled ferrimagnets",
+        "organization": "Department of Physics and Astronomy University of Missouri Columbia",
+        "abstract": "Antiferromagnetic materials are outstanding candidates for next generation spintronic applications, because their ultrafast spin dynamics makes it possible to realize several orders of magnitude higher-speed devices than conventional ferromagnetic materials1. Though spin-transfer torque (STT) is a key for electrical control of spins as successfully demonstrated in ferromagnetic spintronics, experimental understanding of STT in antiferromagnets has been still lacking despite a number of pertinent theoretical studies2-5. Here, we report experimental results on the effects of STT on domain-wall (DW) motion in antiferromagnetically-coupled ferrimagnets. We find that non-adiabatic STT acts like a staggered magnetic field and thus can drive DWs effectively. Moreover, the non-adiabaticity parameter {\\beta} of STT is found to be significantly larger than the Gilbert damping parameter {\\alpha}, challenging our conventional understanding of the non-adiabatic STT based on ferromagnets as well as leading to fast current-induced antiferromagnetic DW motion. Our study will lead to further vigorous exploration of STT for antiferromagnetic spin textures for fundamental physics on spin-charge interaction as wells for efficient electrical control of antiferromagnetic devices.",
+        "email": "",
+        "conf": "arvix preprint",
+        "coauthors": [
+            "Takaya Okuno, Duck-Ho Kim, Se-Hyeok Oh, Se Kwon Kim, Yuushou Hirata, Tomoe Nishimura, Woo Seung Ham, Yasuhiro Futakawa, Hiroki Yoshikawa, Arata Tsukamoto, Yaroslav Tserkovnyak, Yoichi Shiota, Takahiro Moriyama, Kab-Jin Kim, Kyung-Jin Lee, Teruo Ono"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5357,
+        "label": 109,
+        "author": "se kwon kim",
+        "title": "Gyrotropic elastic response of skyrmion crystals to current-induced tensions",
+        "organization": "Department of Physics and Astronomy University of Missouri Columbia",
+        "abstract": "We theoretically study the dynamics of skyrmion crystals in electrically insulating chiral magnets subjected to current-induced spin torques by adjacent metallic layers. We develop an elasticity theory that accounts for the gyrotropic force engendered by the nontrivial topology of the spin texture, tensions at the boundaries due to the exchange of linear and spin angular momentum with the metallic reservoirs, and dissipation in the bulk of the film. A steady translation of the skyrmion crystal is triggered by the current-induced tensions and subsequently sustained by dissipative forces, generating an electromotive force on itinerant spins in the metals. This phenomenon should be revealed as a negative drag in an open two-terminal geometry, or equivalently, as a positive magnetoresistance when the terminals are connected in parallel. We propose nonlocal transport measurements with these salient features as a tool to characterize the phase diagram of insulating chiral magnets.",
+        "email": "",
+        "conf": "Physical Review",
+        "coauthors": [
+            "Hector Ochoa",
+            "Se Kwon Kim",
+            "Oleg Tchernyshyov",
+            "Yaroslav Tserkovnyak"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5348,
+        "label": 109,
+        "author": "se kwon kim",
+        "title": "Magnon-induced non-Markovian friction of a domain wall in a ferromagnet",
+        "organization": "Department of Physics and Astronomy University of Missouri Columbia",
+        "abstract": "Motivated by the recent study on the quasiparticle-induced friction of solitons in superfluids, we theoretically study magnon-induced intrinsic friction of a domain wall in a one-dimensional ferromagnet. To this end, we start by obtaining the hitherto overlooked dissipative interaction of a domain wall and its quantum magnon bath to linear order in the domain-wall velocity and to quadratic order in magnon fields. An exact expression for the pertinent scattering matrix is obtained with the aid of supersymmetric quantum mechanics. We then derive the magnon-induced frictional force on a domain wall in two different frameworks: time-dependent perturbation theory in quantum mechanics and the Keldysh formalism, which yield identical results. The latter, in particular, allows us to verify the fluctuation-dissipation theorem explicitly by providing both the frictional force and the correlator of the associated stochastic Langevin force. The potential for magnons induced by a domain wall is reflectionless, and thus the resultant frictional force is non-Markovian similar to the case of solitons in superfluids. They share an intriguing connection to the Abraham-Lorentz force that is well known for its causality paradox. The dynamical responses of a domain wall are studied under a few simple circumstances, where the non-Markovian nature of the frictional force can be probed experimentally. Our work, in conjunction with the previous study on solitons in superfluids, shows that the macroscopic frictional force on solitons can serve as an effective probe of the microscopic degrees of freedom of the system.",
+        "email": "",
+        "conf": "Physical Review",
+        "coauthors": [
+            "Se Kwon Kim",
+            "Oleg Tchernyshyov",
+            "Victor Galitski",
+            "Yaroslav Tserkovnyak"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5371,
+        "label": 109,
+        "author": "se kwon kim",
+        "title": "Propulsion of a domain wall in an antiferromagnet by magnons",
+        "organization": "Department of Physics and Astronomy University of Missouri Columbia",
+        "abstract": "We analyze the dynamics of a domain wall in an easy-axis antiferromagnet driven by circularly polarized magnons. Magnons pass through a stationary domain wall without reflection and thus exert no force on it. However, they reverse their spin upon transmission, thereby transferring two quanta of angular momentum to the domain wall and causing it to precess. A precessing domain wall partially reflects magnons back to the source. The reflection of spin waves creates a previously identified reactive force. We point out a second mechanism of propulsion, which we term redshift: magnons passing through a precessing domain wall lower their frequency by twice the angular velocity of the domain wall; the concomitant reduction of the magnons' linear momentum indicates momentum transfer to the domain wall. We solve the equations of motion for spin waves in the background of a uniformly precessing domain wall with the aid of supersymmetric quantum mechanics and compute the net force and torque applied by magnons to the domain wall. Redshift is the dominant mechanism of propulsion at low spin-wave intensities; reflection dominates at higher intensities. We derive a set of coupled algebraic equations to determine the linear velocity and angular frequency of the domain wall in a steady state. The theory agrees well with numerical micromagnetic simulations.",
+        "email": "evolangel@gmail.com",
+        "conf": "Physical Review B",
+        "coauthors": [
+            "Se Kwon Kim",
+            "Yaroslav Tserkovnyak",
+            "Oleg Tchernyshyov"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5355,
+        "label": 109,
+        "author": "se kwon kim",
+        "title": "Chiral Edge Mode in the Coupled Dynamics of Magnetic Solitons in a Honeycomb Lattice",
+        "organization": "Department of Physics and Astronomy University of Missouri Columbia",
+        "abstract": "Motivated by a recent experimental demonstration of a chiral edge mode in an array of spinning gyroscopes, we theoretically study the coupled gyration modes of topological magnetic solitons, vortices and magnetic bubbles, arranged as a honeycomb lattice. The soliton lattice under suitable conditions is shown to support a chiral edge mode like its mechanical analogue, the existence of which can be understood by mapping the system to the Haldane model for an electronic system. The direction of the chiral edge mode is associated with the topological charge of the constituent solitons, which can be manipulated by an external field or by an electric-current pulse. The direction can also be controlled by distorting the honeycomb lattice. Our results indicate that the lattices of magnetic solitons can serve as reprogrammable topological metamaterials.",
+        "email": "",
+        "conf": "Physical Review Letters",
+        "coauthors": [
+            "Se Kwon Kim",
+            "Yaroslav Tserkovnyak"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5344,
+        "label": 109,
+        "author": "se kwon kim",
+        "title": "Nonlocal Spin Transport Mediated by a Vortex Liquid in Superconductors",
+        "organization": "Department of Physics and Astronomy University of Missouri Columbia",
+        "abstract": "Departing from the conventional view on superconducting vortices as a parasitic source of dissipation for charge transport, we propose to use mobile vortices as topologically stable information carriers. To this end, we start by constructing a phenomenological theory for the interconversion between spin and vorticity, a topological charge carried by vortices, at the interface between a magnetic insulator and a superconductor, by invoking the interfacial spin Hall effect therein. We then show that a vortex liquid in superconductors can serve as a spin-transport channel between two magnetic insulators by encoding spin information in the vorticity. The vortex-mediated nonlocal signal between the two magnetic insulators is shown to decay algebraically as a function of their separation, contrasting with the exponential decay of the quasiparticle-mediated spin transport. We envision that hydrodynamics of topological excitations, such as vortices in superconductors and domain walls in magnets, may serve as a universal framework to discuss long-range transport properties of ordered materials.",
+        "email": "",
+        "conf": "Physical Review Letters",
+        "coauthors": [
+            "Se Kwon Kim",
+            "Roberto Myers",
+            "Yaroslav Tserkovnyak"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5347,
+        "label": 109,
+        "author": "se kwon kim",
+        "title": "Stabilization of the skyrmion crystal phase in thin-film antiferromagnets",
+        "organization": "Department of Physics and Astronomy University of Missouri Columbia",
+        "abstract": "We investigate the formation and stability of the skyrmion crystal phase in antiferromagnetic thin films subjected to fieldlike torques such as, e.g., those induced by an electric current in CuMnAs and Mn2Au via the inverse spin-galvanic effect. We show that the skyrmion lattice represents the ground state of the antiferromagnet in a substantial area of the phase diagram, parametrized by the staggered field and the (effective) uniaxial anisotropy constant. Skyrmion motion can be driven in the crystal phase by the spin transfer effect. In the metallic scenario, itinerant electrons experience an emergent SU(2)-electromagnetic field associated with the (Néel) skyrmion background, leading to a topological spin-Hall response. Experimental signatures of the skyrmion crystal phase and readout schemes based on topological transport are discussed",
+        "email": "",
+        "conf": "arvix preprint",
+        "coauthors": [
+            "Ricardo Zarzuela",
+            "Se Kwon Kim",
+            "Yaroslav Tserkovnyak"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5356,
+        "label": 109,
+        "author": "se kwon kim",
+        "title": "Magnetic Domain Walls as Hosts of Spin Superfluids and Generators of Skyrmions",
+        "organization": "Department of Physics and Astronomy University of Missouri Columbia",
+        "abstract": "A domain wall in a magnet with easy-axis anisotropy is shown to harbor spin superfluid associated with its spontaneous breaking of the U(1) spin-rotational symmetry. The spin superfluid is shown to have several topological properties, which are absent in conventional superfluids. First, the associated phase slips create and destroy Skyrmions to obey the conservation of the total Skyrmion charge, which allows us to use a domain wall as a generator and detector of Skyrmions. Second, the domain wall engenders the emergent magnetic flux for magnons along its length, which are proportional to the spin supercurrent flowing through it, and thereby provides a way to manipulate magnons. Third, the spin supercurrent can be driven by the magnon current traveling across it owing to the spin transfer between the domain wall and magnons, leading to the magnonic manipulation of the spin superfluid. The theory for superfluid spin transport within the domain wall is confirmed by numerical simulations.",
+        "email": "",
+        "conf": "Physical Review Letters",
+        "coauthors": [
+            "Se Kwon Kim",
+            "Yaroslav Tserkovnyak"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5372,
+        "label": 109,
+        "author": "se kwon kim",
+        "title": "Pinning of a Bloch point by an atomic lattice",
+        "organization": "Department of Physics and Astronomy University of Missouri Columbia",
+        "abstract": "Bloch points are magnetic topological defects. The discrete nature of a magnetic lattice creates a periodic potential that can pin a Bloch point. The pinning force is of the order of the exchange constant, a few piconewtons in a typical ferromagnet (permalloy). A domain wall containing a Bloch point can have a sizable depinning field in the tens of oersteds.",
+        "email": "",
+        "conf": "Physical Review B",
+        "coauthors": [
+            "Se Kwon Kim",
+            "Oleg Tchernyshyov"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5373,
+        "label": 109,
+        "author": "se kwon kim",
+        "title": "Topological classification of domain walls in a cylindrical nanowire",
+        "organization": "Department of Physics and Astronomy University of Missouri Columbia",
+        "abstract": "",
+        "email": "",
+        "conf": "Bulletin of the American Physical Society",
+        "coauthors": [
+            "Se Kwon Kim",
+            "Christopher Mogni",
+            "Oleg Tchernyshyov"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5350,
+        "label": 109,
+        "author": "se kwon kim",
+        "title": "Magnetoelectric antiferromagnets as platforms for the manipulation of solitons",
+        "organization": "Department of Physics and Astronomy University of Missouri Columbia",
+        "abstract": "We study the magnetic dynamics of magnetoelectric antiferromagnetic thin films, where an unconventional boundary ferromagnetism coexists with the bulk Néel phase below the Néel temperature. The spin exchange between the two order parameters yields an effective low-energy theory that is formally equivalent to that of a ferrimagnet. Dynamics of domain walls and skyrmions are analyzed within the collective-variable approach, from which we conclude that they behave as massive particles moving in a viscous medium subjected to a gyrotropic force. We find that the film thickness can be used as a control parameter for the motion of these solitons. In this regard, it is shown that an external magnetic field can drive the dynamics of domain walls, whose terminal velocity is tunable with the sample thickness. Furthermore, the classification of the skyrmion dynamics is sensitive to the spatial modulation of the sample thickness, which can be easily engineered with the present (thin-film) deposition techniques. Current-driven spin transfer can trigger drifting orbits of skyrmions, which can be utilized as racetracks for these magnetic textures.",
+        "email": "",
+        "conf": "Physical Review",
+        "coauthors": [
+            "Ricardo Zarzuela",
+            "Se Kwon Kim",
+            "Yaroslav Tserkovnyak"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5351,
+        "label": 109,
+        "author": "se kwon kim",
+        "title": "Role of dimensional crossover on spin-orbit torque efficiency in magnetic insulator thin films",
+        "organization": "Department of Physics and Astronomy University of Missouri Columbia",
+        "abstract": "Magnetic insulators (MIs) attract tremendous interest for spintronic applications due to low Gilbert damping and the absence of Ohmic loss. Spin-orbit torques (SOTs) on MIs are more intriguing than magnetic metals since SOTs cannot be transferred to MIs through direct injection of electron spins. Understanding of SOTs on MIs remains elusive, especially how SOTs scale with the MI film thickness. Here, we observe the critical role of dimensionality on the SOT efficiency by studying the MI layer thickness-dependent SOT efficiency in tungsten/thulium iron garnet (W/TmIG) bilayers. We show that the TmIG thin film evolves from two-dimensional to three-dimensional magnetic phase transitions as the thickness increases. We report the significant enhancement of the measured SOT efficiency as the TmIG thickness increases, which is attributed to the increase of the magnetic moment density. We demonstrate the current-induced SOT switching in the W/TmIG bilayers with a TmIG thickness up to 15 nm.",
+        "email": "",
+        "conf": "Nature Communications",
+        "coauthors": [
+            "Qiming Shao, Chi Tang, Guoqiang Yu, Aryan Navabi, Hao Wu, Congli He, Junxue Li, Pramey Upadhyaya, Peng Zhang, Seyed Armin Razavi, Qing Lin He, Yawen Liu, Pei Yang, Se Kwon Kim, Cheng Zheng, Yizhou Liu, Lei Pan, Roger K. Lake, Xiufeng Han, Yaroslav Tserkovnyak, Jing Shi & Kang L. Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5354,
+        "label": 109,
+        "author": "se kwon kim",
+        "title": "Coherent Terahertz Spin-Wave Emission Associated with Ferrimagnetic Domain Wall Dynamics",
+        "organization": "Department of Physics and Astronomy University of Missouri Columbia",
+        "abstract": "We theoretically study the dynamics of ferrimagnetic domain walls in the presence of a Dzyaloshinskii-Moriya interaction. We find that an application of a dc magnetic field can induce terahertz spin-wave emission by driving ferrimagnetic domain walls, which is not possible for ferromagnetic or antiferromagnetic domain walls. The Dzyaloshinskii-Moriya interaction is shown to facilitate terahertz spin-wave emission in a wide range of the net angular momentum by increasing the Walker breakdown field. Moreover, we show that spin-orbit torque combined with the Dzyaloshinskii-Moriya interaction also drives fast ferrimagnetic domain wall motion by emitting terahertz spin waves in a wide range of the net angular momentum.",
+        "email": "",
+        "conf": "Physical Review",
+        "coauthors": [
+            "Se-Hyeok Oh, Se Kwon Kim, Dong-Kyu Lee, Gyungchoon Go, Kab-Jin Kim, Teruo Ono, Yaroslav Tserkovnyak,Kyung-Jin Lee"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5368,
+        "label": 109,
+        "author": "se kwon kim",
+        "title": "Control and braiding of Majorana fermions bound to magnetic domain walls",
+        "organization": "Department of Physics and Astronomy University of Missouri Columbia",
+        "abstract": "Owing to the recent progress on endowing the electronic structure of magnetic nanowires with topological properties, the associated topological solitons in the magnetic texture—magnetic domain walls—appear as very natural hosts for exotic electronic excitations. Here, we propose to use the magnetic domain walls to engender Majorana fermions, which has several notable advantages compared to the existing approaches. First of all, the local tunneling density-of-states anomaly associated with the Majorana zero mode bound to a smooth magnetic soliton is immune to most of parasitic artifacts associated with the abrupt physical ends of a wire, which mar the existing experimental probes. Second, a viable route to move and braid Majorana fermions is offered by domain-wall motion. In particular, we envision the recently demonstrated heat-current induced motion of domain walls in insulating ferromagnets as a promising tool for nonintrusive displacement of Majorana modes. This leads us to propose a feasible scheme for braiding domain walls within a magnetic nanowire network, which manifests the nob-Abelian exchange statistics within the Majorana subspace.",
+        "email": "",
+        "conf": "Physical Review B",
+        "coauthors": [
+            "Se Kwon Kim",
+            "Sumanta Tewari",
+            "Yaroslav Tserkovnyak"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5360,
+        "label": 109,
+        "author": "se kwon kim",
+        "title": "Magnetic Domain Wall Floating on a Spin Superfluid",
+        "organization": "Department of Physics and Astronomy University of Missouri Columbia",
+        "abstract": "We theoretically investigate the transfer of angular momentum between a spin superfluid and a domain wall in an exchange coupled easy-axis and easy-plane magnetic insulator system. A domain wall in the easy-axis magnet absorbs spin angular momentum via disrupting the flow of a superfluid spin current in the easy-plane magnet. Focusing on an open geometry, where the spin current is injected electrically via a nonequilibrium spin accumulation, we derive analytical expressions for the resultant superfluid-mediated motion of the domain wall. The analytical results are supported by micromagnetic simulations. The proposed phenomenon extends the regime of magnon-driven domain-wall motion to the case where the magnons are condensed and exhibit superfluidity. Furthermore, by controlling the pinning of the domain wall, we propose a realization of a reconfigurable spin transistor. The long-distance dissipationless character of spin superfluids can thus be exploited for manipulating soliton-based memory and logic devices.",
+        "email": "",
+        "conf": "Physical Review Letters",
+        "coauthors": [
+            "Pramey Upadhyaya",
+            "Se Kwon Kim",
+            "Yaroslav Tserkovnyak"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5366,
+        "label": 109,
+        "author": "se kwon kim",
+        "title": "Topological Spin Transport by Brownian Diffusion of Domain Walls",
+        "organization": "Department of Physics and Astronomy University of Missouri Columbia",
+        "abstract": "We propose thermally populated domain walls (DWs) in an easy-plane ferromagnetic insulator as robust spin carriers between two metals. The chirality of a DW, which serves as a topological charge, couples to the metal spin accumulation via spin-transfer torque and results in the chirality-dependent thermal nucleation rates of DWs at the interface. After overpopulated DWs of a particular (net) chirality diffuse and leave the ferromagnet at the other interface, they reemit the spin current by spin pumping. The conservation of the topological charge supports an algebraic decay of spin transport as the length of the ferromagnet increases; this is analogous to the decaying behavior of superfluid spin transport but contrasts with the exponential decay of magnon spin transport. We envision that similar spin transport with algebraic decay may be implemented in materials with exotic spin phases by exploiting topological characteristics and the associated conserved quantities of their excitations.",
+        "email": "",
+        "conf": "Physical Review B",
+        "coauthors": [
+            "Se Kwon Kim",
+            "So Takei",
+            "Yaroslav Tserkovnyak"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5335,
+        "label": 109,
+        "author": "se kwon kim",
+        "title": "Bidirectional spin-wave-driven domain wall motion in antiferromagnetically coupled ferrimagnets",
+        "organization": "Department of Physics and Astronomy University of Missouri Columbia",
+        "abstract": "We investigate ferrimagnetic domain wall dynamics induced by circularly polarized spin waves theoretically and numerically. We find that the direction of domain wall motion depends on both the circular polarization of spin waves and the sign of net spin density of ferrimagnet. Below the angular momentum compensation point, left- (right-) circularly polarized spin waves push a domain wall towards (away from) the spin-wave source. Above the angular momentum compensation point, on the other hand, the direction of domain wall motion is reversed. This bidirectional motion originates from the fact that the sign of spin-wave-induced magnonic torque depends on the circular polarization and the subsequent response of the domain wall to the magnonic torque is governed by the net spin density. Our finding provides a way to utilize a spin wave as a versatile driving force for bidirectional domain wall motion.",
+        "email": "",
+        "conf": "arvix preprint",
+        "coauthors": [
+            "Se-Hyeok Oh",
+            "Se Kwon Kim",
+            "Jiang Xiao",
+            "Kyung-Jin Lee"
+        ],
+        "keywords": "Condensed Matter, Materials Science,Condensed Matter, Mesoscale and Nanoscale Physics"
+    },
+    {
+        "id": 5370,
+        "label": 109,
+        "author": "se kwon kim",
+        "title": "Thermophoresis of an Antiferromagnetic Soliton",
+        "organization": "Department of Physics and Astronomy University of Missouri Columbia",
+        "abstract": "We study the dynamics of an antiferromagnetic soliton under a temperature gradient. To this end, we start by phenomenologically constructing the stochastic Landau-Lifshitz-Gilbert equation for an antiferromagnet with the aid of the fluctuation-dissipation theorem. We then derive the Langevin equation for the soliton's center of mass by the collective coordinate approach. An antiferromagentic soliton behaves as a classical massive particle immersed in a viscous medium. By considering a thermodynamic ensemble of solitons, we obtain the Fokker-Planck equation, from which we extract the average drift velocity of a soliton. The diffusion coefficient is inversely proportional to a small damping constant α, which can yield a drift velocity of tens of m/s under a temperature gradient of 1 K/mm for a domain wall in an easy-axis antiferromagnetic wire with α∼10−4.",
+        "email": "",
+        "conf": "Physical Review B",
+        "coauthors": [
+            "Se Kwon Kim",
+            "Oleg Tchernyshyov",
+            "Yaroslav Tserkovnyak"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5361,
+        "label": 109,
+        "author": "se kwon kim",
+        "title": "Interaction Between a Domain Wall and Spin Supercurrent in Easy-cone Magnets",
+        "organization": "Department of Physics and Astronomy University of Missouri Columbia",
+        "abstract": "A domain wall and spin supercurrent can coexist in magnets with easy-cone anisotropy owing to simultaneous spontaneous breaking of Z2 and U(1) symmetries. Their interaction is theoretically investigated in quasi-one-dimensional ferromagnets within the Landau-Lifshitz-Gilbert phenomenology. Specifically, the spin supercurrent can exert the torque on a domain wall and thereby drive it. We also show, as a reciprocal phenomenon, a field-induced motion of a domain wall can generate spin supercurrent.",
+        "email": "",
+        "conf": "Physical Review Letters",
+        "coauthors": [
+            "Se Kwon Kim",
+            "Yaroslav Tserkovnyak"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5363,
+        "label": 109,
+        "author": "se kwon kim",
+        "title": "A Realization of the Haldane-Kane-Mele Model in a System of Localized Spins",
+        "organization": "Department of Physics and Astronomy University of Missouri Columbia",
+        "abstract": "We study a spin Hamiltonian for spin-orbit-coupled ferromagnets on the honeycomb lattice. At sufficiently low temperatures supporting the ordered phase, the effective Hamiltonian for magnons, the quanta of spin-wave excitations, is shown to be equivalent to the Haldane model for electrons, which indicates the nontrivial topology of the band and the existence of the associated edge state. At high temperatures comparable to the ferromagnetic-exchange strength, we take the Schwinger-boson representation of spins, in which the mean-field spinon band forms a bosonic counterpart of the Kane-Mele model. The nontrivial geometry of the spinon band can be inferred by detecting the spin Nernst effect. A feasible experimental realization of the spin Hamiltonian is proposed.",
+        "email": "",
+        "conf": "Physical Review Letters",
+        "coauthors": [
+            "Se Kwon Kim",
+            "Hctor Ochoa",
+            "Ricardo Zarzuela",
+            "Yaroslav Tserkovnyak"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5358,
+        "label": 109,
+        "author": "se kwon kim",
+        "title": "Fast Vortex Oscillations in a Ferrimagnetic Disk near the Angular Momentum Compensation Point",
+        "organization": "Department of Physics and Astronomy University of Missouri Columbia",
+        "abstract": "We theoretically study the oscillatory dynamics of a vortex core in a ferrimagnetic disk near its angular momentum compensation point, where the spin density vanishes but the magnetization is finite. Due to the finite magnetostatic energy, a ferrimagnetic disk of suitable geometry can support a vortex as a ground state similar to a ferromagnetic disk. In the vicinity of the angular momentum compensation point, the dynamics of the vortex resemble those of an antiferromagnetic vortex, which is described by equations of motion analogous to Newton's second law for the motion of particles. Owing to the antiferromagnetic nature of the dynamics, the vortex oscillation frequency can be an order of magnitude larger than the frequency of a ferromagnetic vortex, amounting to tens of GHz in common transition-metal based alloys. We show that the frequency can be controlled either by applying an external field or by changing the temperature. In particular, the latter property allows us to detect the angular momentum compensation temperature, at which the lowest eigenfrequency attains its maximum, by performing ferromagnetic resonance measurements on the vortex disk. Our work proposes a ferrimagnetic vortex disk as a tunable source of fast magnetic oscillations and a useful platform to study the properties of ferrimagnets.",
+        "email": "",
+        "conf": "Applied Physics Letters",
+        "coauthors": [
+            "Se Kwon Kim",
+            "Yaroslav Tserkovnyak"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5353,
+        "label": 109,
+        "author": "se kwon kim",
+        "title": "Fast domain wall motion in the vicinity of the angular momentum compensation temperature of ferrimagnets",
+        "organization": "Department of Physics and Astronomy University of Missouri Columbia",
+        "abstract": "Antiferromagnetic spintronics is an emerging research field which aims to utilize antiferromagnets as core elements in spintronic devices1,2. A central motivation towards this direction is that antiferromagnetic spin dynamics is expected to be much faster than its ferromagnetic counterpart3. Recent theories indeed predicted faster dynamics of antiferromagnetic domain walls (DWs) than ferromagnetic DWs4,5,6. However, experimental investigations of antiferromagnetic spin dynamics have remained unexplored, mainly because of the magnetic field immunity of antiferromagnets7. Here we show that fast field-driven antiferromagnetic spin dynamics is realized in ferrimagnets at the angular momentum compensation point TA. Using rare earth–3d-transition metal ferrimagnetic compounds where net magnetic moment is nonzero at TA, the field-driven DW mobility is remarkably enhanced up to 20 km s−1 T−1. The collective coordinate approach generalized for ferrimagnets8 and atomistic spin model simulations6,9 show that this remarkable enhancement is a consequence of antiferromagnetic spin dynamics at TA. Our finding allows us to investigate the physics of antiferromagnetic spin dynamics and highlights the importance of tuning of the angular momentum compensation point of ferrimagnets, which could be a key towards ferrimagnetic spintronics.",
+        "email": "",
+        "conf": "Nature Materials",
+        "coauthors": [
+            "Kab-Jin Kim, Se Kwon Kim, Yuushou Hirata, Se-Hyeok Oh, Takayuki Tono, Duck-Ho Kim, Takaya Okuno, Woo Seung Ham, Sanghoon Kim, Gyoungchoon Go, Yaroslav Tserkovnyak, Arata Tsukamoto, Takahiro Moriyama, Kyung-Jin Lee, Teruo Ono"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5345,
+        "label": 109,
+        "author": "se kwon kim",
+        "title": "Cooper-Pair Spin Current in a Strontium Ruthenate Heterostructure",
+        "organization": "Department of Physics and Astronomy University of Missouri Columbia",
+        "abstract": "It has been recognized that the condensation of spin-triplet Cooper pairs requires not only broken gauge symmetry but also spin ordering as well. One consequence of this is the possibility of a Cooper-pair spin current analogous to the magnon spin current in magnetic insulators, the analogy also extending to the existence of the Gilbert damping of the collective spin-triplet dynamics. The recently fabricated heterostructure of the thin film of the itinerant ferromagnet SrRuO3 on bulk Sr2RuO4, the best-known candidate material for a spin-triplet superconductor, offers a promising platform for generating such spin current. We show how such heterostructure allows us to not only realize the long-range spin valve but also electrically drive the collective spin mode of the spin-triplet order parameter. Our proposal represents both a novel experimental realization of superfluid spin transport and a transport signature of the spin-triplet superconductivity therein.",
+        "email": "evol@physics.ucla.edu;kimsek@missouri.edu",
+        "conf": "Physical Review Letters",
+        "coauthors": [
+            "Suk Bum Chung",
+            "Se Kwon Kim",
+            "Ki Hoon Lee",
+            "Yaroslav Tserkovnyak"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5338,
+        "label": 109,
+        "author": "se kwon kim",
+        "title": "Low Magnetic Damping of Ferrimagnetic GdFeCo Alloys",
+        "organization": "Department of Physics and Astronomy University of Missouri Columbia",
+        "abstract": "We investigate the Gilbert damping parameter α for rare earth (RE)–transition metal (TM) ferrimagnets over a wide temperature range. Extracted from the field-driven magnetic domain-wall mobility, α was as low as the order of 10−3 and was almost constant across the angular momentum compensation temperature TA, starkly contrasting previous predictions that α should diverge at TA due to a vanishing total angular momentum. Thus, magnetic damping of RE-TM ferrimagnets is not related to the total angular momentum but is dominated by electron scattering at the Fermi level where the TM has a dominant damping role. This low value of the Gilbert damping parameter suggests that ferrimagnets can serve as versatile platforms for low-dissipation high-speed magnetic devices.",
+        "email": "",
+        "conf": "Physical Review Letters",
+        "coauthors": [
+            "Duck-Ho Kim, Takaya Okuno, Se Kwon Kim, Se-Hyeok Oh, Tomoe Nishimura,Yuushou Hirata,Yasuhiro Futakawa, Hiroki Yoshikawa, Arata Tsukamoto, Yaroslav Tserkovnyak, Yoichi Shiota, Takahiro Moriyama, Kab-Jin Kim, Kyung-Jin Lee,Teruo Ono"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5346,
+        "label": 109,
+        "author": "se kwon kim",
+        "title": "Spin-Torque-Biased Magnetic Strip: Nonequilibrium Phase Diagram and Relation to Long Josephson Junctions",
+        "organization": "Department of Physics and Astronomy University of Missouri Columbia",
+        "abstract": "Spin-torque-biased magnetic dynamics in an easy-plane ferromagnet (EPF) is theoretically studied in the presence of a weak in-plane anisotropy. While this anisotropy spoils U(1) symmetry, thereby quenching the conventional spin superfluidity, we show that the system instead realizes a close analog of a long Josephson junction (LJJ) model. The traditional magnetic-field and electric-current controls of the latter map, respectively, onto the symmetric and antisymmetric combinations of the out-of-plane spin torques applied at the ends of the magnetic strip. This suggests an alternative route towards realizations of superfluidlike transport phenomena in insulating magnetic systems. We study a spin-torque-biased phase diagram, providing an analytical solution for static multidomain phases in the EPF. We adapt an existing self-consistency method for the LJJ to develop an approximate solution for the EPF dynamics. The LJJ-EPF mapping has the potential for producing applications with superconductor-based circuit functionality at elevated temperatures. The results apply equally to antiferromagnets with suitable effective free energy in terms of the Néel order instead of in-plane magnetization.",
+        "email": "",
+        "conf": "Physical Review Letters",
+        "coauthors": [
+            "Daniel Hill",
+            "Se Kwon Kim",
+            "Yaroslav Tserkovnyak"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5334,
+        "label": 109,
+        "author": "se kwon kim",
+        "title": "Dynamics of bimeron skyrmions in easy-plane magnets induced by a spin supercurrent",
+        "organization": "Department of Physics and Astronomy University of Missouri Columbia",
+        "abstract": "We theoretically study the interaction of an isolated bimeron skyrmion in quasi-two-dimensional easy-plane magnets with a surrounding spin superfluid associated with spontaneously broken U(1) spin-rotational symmetry, revealing that skyrmion energy depends on the local spin current flowing in its background. The finding leads us to propose to manipulate a skyrmion energy landscape via a spin supercurrent, which can be controlled non-locally by varying the magnitudes of spin-current injection and ejection through the boundaries. Two exemplary cases are discussed: a steady-state motion of a skyrmion induced by a uniform force and a skyrmion motion localized along a onedimensional racetrack. We envision that a skyrmion interacting with a spin superfluid can serve as a robust point-like information carrier that can be operated with minimal dissipation.",
+        "email": "",
+        "conf": "Physical Review B",
+        "coauthors": [
+            "Se Kwon Kim"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5336,
+        "label": 109,
+        "author": "se kwon kim",
+        "title": "Topological transport of vorticity in Heisenberg magnets",
+        "organization": "Department of Physics and Astronomy University of Missouri Columbia",
+        "abstract": "We study a robust topological transport carried by vortices in a thin film of an easy-plane magnetic insulator between two metal contacts. A vortex, which is a nonlocal topological spin texture in two-dimensional magnets, exhibits some beneficial features as compared to skyrmions, which are local topological defects. In particular, the total topological charge carried by vorticity is robust against local fluctuations of the spin order-parameter magnitude. We show that an electric current in one of the magnetized metal contacts can pump vortices into the insulating bulk. Diffusion and two-dimensional nonlocal Coulomb-like interaction between these vortices will establish a steady-state vortex flow. Vortices leaving the bulk produce an electromotive force at another contact, which is related to the current-induced vorticity pumping by the Onsager reciprocity. The voltage signal decays algebraically with the separation between two contacts, similarly to a superfluid spin transport. Finally, the vorticity and closely related skyrmion-type topological hydrodynamics are generalized to arbitrary dimensions, in terms of nonsingular order-parameter vector fields.",
+        "email": "",
+        "conf": "Physical Review",
+        "coauthors": [
+            "Ji Zou",
+            "Se Kwon Kim",
+            "Yaroslav Tserkovnyak"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5365,
+        "label": 109,
+        "author": "se kwon kim",
+        "title": "Thermally-Activated Phase Slips in Superfluid Spin Transport in Magnetic Wires",
+        "organization": "Department of Physics and Astronomy University of Missouri Columbia",
+        "abstract": "We theoretically study thermally activated phase slips in superfluid spin transport in easy-plane magnetic wires within the stochastic Landau-Lifshitz-Gilbert phenomenology, which runs parallel to the Langer-Ambegaokar-McCumber-Halperin theory for thermal resistances in superconducting wires. To that end, we start by obtaining the exact solutions for free-energy minima and saddle points. We provide an analytical expression for the phase-slip rate in the zero spin-current limit, which involves a detailed analysis of spin fluctuations at the extrema of the free energy. An experimental setup for a magnetoelectric circuit is proposed, in which thermal phase slips can be inferred by measuring nonlocal magnetoresistance.",
+        "email": "",
+        "conf": "Physical Review Letters",
+        "coauthors": [
+            "Se Kwon Kim",
+            "So Takei",
+            "Yaroslav Tserkovnyak"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5362,
+        "label": 109,
+        "author": "se kwon kim",
+        "title": "Mechanical Actuation of Magnetic Domain-Wall Motion",
+        "organization": "Department of Physics and Astronomy University of Missouri Columbia",
+        "abstract": "We theoretically study the motion of a magnetic domain wall induced by transverse elastic waves in a one-dimensional magnetic wire, which respects both rotational and translational symmetries. By invoking the conservation of the associated total angular and linear momenta, we are able to derive the torque and the force on the domain wall exerted by the waves. We then show how ferromagnetic and antiferromagnetic domain walls can be driven by circularly and linearly polarized waves, respectively. We envision that elastic waves may provide effective means to drive the dynamics of magnetic solitons in insulators.",
+        "email": "",
+        "conf": "Physical Review Letters",
+        "coauthors": [
+            "Se Kwon Kim",
+            "Daniel Hill",
+            "Yaroslav Tserkovnyak"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5340,
+        "label": 109,
+        "author": "se kwon kim",
+        "title": "Tunable Magnonic Thermal Hall Effect in Skyrmion Crystal Phases of Ferrimagnets",
+        "organization": "Department of Physics and Astronomy University of Missouri Columbia",
+        "abstract": "We theoretically study the thermal Hall effect by magnons in skyrmion crystal phases of ferrimagnets in the vicinity of the angular momentum compensation point (CP). To this end, we start by deriving the equation of motion for magnons in the background of an arbitrary equilibrium spin texture, which gives rise to the fictitious electromagnetic field for magnons. As the net spin density varies, the resultant equation of motion interpolates between the relativistic Klein-Gordon equation at the CP and the nonrelativistic Schrödinger-like equation away from it. In skyrmion crystal phases, the right- and the left-circularly polarized magnons, with respect to the order parameter, are shown to form the Landau levels separately within the uniform skyrmion-density approximation. For an experimental proposal, we predict that the magnonic thermal Hall conductivity changes its sign when the ferrimagnet is tuned across the CP, providing a way to control heat flux in spin-caloritronic devices on the one hand and a feasible way to detect the CP of ferrimagnets on the other hand.",
+        "email": "",
+        "conf": "Physical Review Letters",
+        "coauthors": [
+            "Se Kwon Kim",
+            "Kouki Nakata",
+            "Daniel Loss",
+            "Yaroslav Tserkovnyak"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5359,
+        "label": 109,
+        "author": "se kwon kim",
+        "title": "Self-Focusing Skyrmion Racetracks in Ferrimagnets",
+        "organization": "Department of Physics and Astronomy University of Missouri Columbia",
+        "abstract": "We theoretically study the dynamics of ferrimagnetic skyrmions in inhomogeneous metallic films close to the angular momentum compensation point. In particular, it is shown that the line of the vanishing angular momentum can be utilized as a self-focusing racetrack for skyrmions. To that end, we begin by deriving the equations of motion for the dynamics of collinear ferrimagnets in the presence of a charge current. The obtained equations of motion reduce to those of ferromagnets and antiferromagnets at two special limits. In the collective coordinate approach, a skyrmion behaves as a massive charged particle moving in a viscous medium subjected to a magnetic field. Analogous to the snake orbits of electrons in a nonuniform magnetic field, we show that a ferrimagnet with nonuniform angular momentum density can exhibit the snake trajectories of skyrmions, which can be utilized as racetracks for skyrmions",
+        "email": "",
+        "conf": "Physical Review",
+        "coauthors": [
+            "Se Kwon Kim",
+            "Kyung-Jin Lee",
+            "Yaroslav Tserkovnyak"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5352,
+        "label": 109,
+        "author": "se kwon kim",
+        "title": "Magnonic topological insulators in antiferromagnets",
+        "organization": "Department of Physics and Astronomy University of Missouri Columbia",
+        "abstract": "Extending the notion of symmetry protected topological phases to insulating antiferromagnets (AFs) described in terms of opposite magnetic dipole moments associated with the magnetic Nˊeel order, we establish a bosonic counterpart of topological insulators in semiconductors. Making use of the Aharonov-Casher effect, induced by electric field gradients, we propose a magnonic analog of the quantum spin Hall effect (magnonic QSHE) for edge states that carry helical magnons. We show that such up and down magnons form the same Landau levels and perform cyclotron motion with the same frequency but propagate in opposite direction. The insulating AF becomes characterized by a topological Z2 number consisting of the Chern integer associated with each helical magnon edge state. Focusing on the topological Hall phase for magnons, we study bulk magnon effects such as magnonic spin, thermal, Nernst, and Ettinghausen effects, as well as the thermomagnetic properties of helical magnon transport both in topologically trivial and nontrivial bulk AFs and establish the magnonic Wiedemann-Franz law. We show that our predictions are within experimental reach with current device and measurement techniques.",
+        "email": "",
+        "conf": "Physical Review",
+        "coauthors": [
+            "Kouki Nakata",
+            "Se Kwon Kim",
+            "Jelena Klinovaja",
+            "Daniel Loss"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5364,
+        "label": 109,
+        "author": "se kwon kim",
+        "title": "Topological Effects on Quantum Phase Slips in Superfluid Spin Transport",
+        "organization": "Department of Physics and Astronomy University of Missouri Columbia",
+        "abstract": "We theoretically investigate effects of quantum fluctuations on superfluid spin transport through easy-plane quantum antiferromagnetic spin chains in the large-spin limit. Quantum fluctuations result in the decaying spin supercurrent by unwinding the magnetic order parameter within the easy plane, which is referred to as phase slips. We show that the topological term in the nonlinear sigma model for the spin chains qualitatively differentiates the decaying rate of the spin supercurrent between the integer versus half-odd-integer spin chains. An experimental setup for a magnetoelectric circuit is proposed, in which the dependence of the decaying rate on constituent spins can be verified by measuring the nonlocal magnetoresistance.",
+        "email": "",
+        "conf": "Physical Review Letters",
+        "coauthors": [
+            "Se Kwon Kim",
+            "Yaroslav Tserkovnyak"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5337,
+        "label": 109,
+        "author": "se kwon kim",
+        "title": "Topological Hall effect at above room temperature in heterostructures composed of a magnetic insulator and a heavy metal",
+        "organization": "Department of Physics and Astronomy University of Missouri Columbia",
+        "abstract": "Magnetic skyrmions are topologically robust nanoscale spin textures that can be manipulated with low current densities and are thus potential information carriers in future spintronic devices. Skyrmions have so far been mainly observed in metallic films, which suffer from ohmic losses and therefore high energy dissipation. Magnetic insulators could provide a more energy-efficient skyrmionic platform due to their low damping and absence of Joule heat loss. However, skyrmions have previously been observed in an insulating compound (Cu2OSeO3) only at cryogenic temperatures, where they are stabilized by a bulk Dzyaloshinskii–Moriya interaction. Here, we report the observation of the topological Hall effect—a signature of magnetic skyrmions—at above room temperature in a bilayer heterostructure composed of a magnetic insulator (thulium iron garnet, Tm3Fe5O12) in contact with a metal (Pt). The dependence of the topological Hall effect on the in-plane bias field and the thickness of the magnetic insulator suggest that the magnetic skyrmions are stabilized by the interfacial Dzyaloshinskii–Moriya interaction. By varying the temperature of the system, we can tune its magnetic anisotropy and obtain skyrmions in a large window of external magnetic field and enhanced stability of skyrmions in the easy-plane anisotropy regime.",
+        "email": "",
+        "conf": "Nature Electronics",
+        "coauthors": [
+            "Qiming Shao, Yawen Liu, Guoqiang Yu, Se Kwon Kim, Xiaoyu Che, Chi Tang, Qing Lin He, Yaroslav Tserkovnyak, Jing Shi, Kang L. Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5367,
+        "label": 109,
+        "author": "se kwon kim",
+        "title": "U(1) symmetry of the spin-orbit coupled Hubbard model on the Kagome lattice",
+        "organization": "Department of Physics and Astronomy University of Missouri Columbia",
+        "abstract": "We theoretically study the symmetry properties of the single-band Hubbard model with general spin-orbit coupling (SOC) on the kagome lattice. We show that the global U(1) spin-rotational symmetry is present in the Hubbard Hamiltonian owing to the inversion symmetry centered at the sites. The corresponding spin Hamiltonian has, therefore, SO(2) spin-rotational symmetry, which can be captured by including SOC nonperturbatively. The exact classical ground states, which we obtain for arbitrary SOC, are governed by the SU(2) fluxes associated with SOC threading the constituent triangles. The ground states break the SO(2) symmetry, and the associated Berezinsky-Kosterlitz-Thouless transition temperature is determined by the SU(2) fluxes through the triangles, which we confirm by a finite temperature classical Monte Carlo simulation.",
+        "email": "",
+        "conf": "Physical Review B",
+        "coauthors": [
+            "Se Kwon Kim",
+            "Jiadong Zang"
+        ],
+        "keywords": ""
+    }
+]

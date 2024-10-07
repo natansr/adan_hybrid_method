@@ -1,0 +1,654 @@
+[
+    {
+        "id": 4348,
+        "label": 81,
+        "author": "jude mitchell",
+        "title": "Spatial Attention Modulates Center-Surround Interactions in Macaque Visual Area V4",
+        "organization": "University of Rochester",
+        "abstract": "In natural viewing, a visual stimulus that is the target of attention is generally surrounded by many irrelevant distracters. Stimuli falling in the receptive field surround can influence the neuronal response evoked by a stimulus appearing within the classical receptive field. Such modulation by task-irrelevant distracters may degrade the target-related neuronal signal. We therefore examined whether directing attention to a target stimulus can reduce the influence of task-irrelevant distracters on neuronal response. We find that in area V4 attention to a stimulus within a neuron's receptive field filters out a large fraction of the suppression induced by distracters appearing in the surround. When attention is instead directed to the surround stimulus, suppression is increased, thereby filtering out part of the neuronal response to the irrelevant distracter positioned within the receptive field. These findings demonstrate that attention modulates the neural mechanisms that give rise to center-surround interactions.",
+        "email": "",
+        "conf": "Neuron",
+        "coauthors": [
+            "Kristy A Sundberg",
+            "Jude Mitchell",
+            "John H Reynolds"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4333,
+        "label": 81,
+        "author": "jude mitchell",
+        "title": "Motion dependence of smooth pursuit eye movements in the marmoset",
+        "organization": "University of Rochester",
+        "abstract": "Smooth pursuit eye movements stabilize slow-moving objects on the retina by matching eye velocity with target velocity. Two critical components are required to generate smooth pursuit: first, because it is a voluntary eye movement, the subject must select a target to pursue to engage the tracking system; and second, generating smooth pursuit requires a moving stimulus. We examined whether this behavior also exists in the common marmoset, a New World primate that is increasingly attracting attention as a genetic model for mental disease and systems neuroscience. We measured smooth pursuit in two marmosets, previously trained to perform fixation tasks, using the standard Rashbass step-ramp pursuit paradigm. We first measured the aspects of visual motion that drive pursuit eye movements. Smooth eye movements were in the same direction as target motion, indicating that pursuit was driven by target movement rather than by displacement. Both the open-loop acceleration and closed-loop eye velocity exhibited a linear relationship with target velocity for slow-moving targets, but this relationship declined for higher speeds. We next examined whether marmoset pursuit eye movements depend on an active engagement of the pursuit system by measuring smooth eye movements evoked by small perturbations of motion from fixation or during pursuit. Pursuit eye movements were much larger during pursuit than from fixation, indicating that pursuit is actively gated. Several practical advantages of the marmoset brain, including the accessibility of the middle temporal (MT) area and frontal eye fields at the cortical surface, merit its utilization for studying pursuit movements.",
+        "email": "jmitchell@bcs.rochester.edu",
+        "conf": "Journal of Neurophysiology",
+        "coauthors": [
+            "Jude Mitchell",
+            "Nicholas J Priebe",
+            "Cory T Miller"
+        ],
+        "keywords": "eye movements; marmoset; primate; pursuit; vision"
+    },
+    {
+        "id": 4351,
+        "label": 81,
+        "author": "jude mitchell",
+        "title": "Differential Attention-Dependent Response Modulation across Cell Classes in Macaque Visual Area V4",
+        "organization": "University of Rochester",
+        "abstract": "The cortex contains multiple cell types, but studies of attention have not distinguished between them, limiting understanding of the local circuits that transform attentional feedback into improved visual processing. Parvalbumin-expressing inhibitory interneurons can be distinguished from pyramidal neurons based on their briefer action potential durations. We recorded neurons in area V4 as monkeys performed an attention-demanding task. We find that the distribution of action potential durations is strongly bimodal. Neurons with narrow action potentials have higher firing rates and larger attention-dependent increases in absolute firing rate than neurons with broad action potentials. The percentage increase in response is similar across the two classes. We also find evidence that attention increases the reliability of the neuronal response. This modulation is more than two-fold stronger among putative interneurons. These findings lead to the surprising conclusion that the strongest attentional modulation occurs among local interneurons that do not transmit signals between areas.",
+        "email": "",
+        "conf": "Neuron",
+        "coauthors": [
+            "Jude Mitchell",
+            "Kristy A Sundberg",
+            "John H Reynolds"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4352,
+        "label": 81,
+        "author": "jude mitchell",
+        "title": "Exogenous attentional selection of transparent superimposed surfaces modulates early event-related potentials",
+        "organization": "University of Rochester",
+        "abstract": "Using a transparent motion paradigm, [Valdes-Sosa, M., Bobes, M. A., Rodriguez, V., & Pinilla, T. (1998). Switching attention without shifting the spotlight object-based attentional modulation of brain potentials, Journal of Cognitive Neuroscience, 10, 137–151; Valdes-Sosa, M., Cobo, A., & Pinilla, T. (2000). Attention to object files defined by transparent motion, Journal of Experimental Psychological: Human Perception and Performance, 26, 488–505] found that when attention is endogenously directed to one surface, observers can more reliably report the direction of a brief translation of the cued than the uncued surface. Using a similar design [Reynolds, J. H., Alborzian, S., & Stoner, G. R. (2003). Exogenously cued attention triggers competitive selection of surfaces, Vision Research, 43, 59–66] found that even in the absence of an endogenous cue, the first translation acted as a potent exogenous cue that impaired the observer’s ability to discriminate a subsequent translation of the other surface. We investigated the neural basis of this exogenous cueing effect by recording visual event-related potentials (ERPs) elicited by translations of the cued and uncued surfaces. Subjects were given the task of judging whether or not the first and second translations were identical in direction, and their performance was impaired when the second translation occurred on the uncued, as compared to the cued surface. The posterior C1 (75–110 ms) and N1 (160–210 ms) components of the ERP elicited by the second translation of the cued surface were larger than those elicited by translation of the uncued surface. These behavioral and ERP cueing effects were present even when the two surfaces were identical in color and thus could not be attributed to attention-related modulations of the gain of color channels. These findings provide evidence that exogenous cueing results in preferential selection of the cued surface at both early and intermediate stages of visual-cortical processing.",
+        "email": "",
+        "conf": "Vision Research",
+        "coauthors": [
+            "W Khoe",
+            "Jude F Mitchell",
+            "John H Reynolds",
+            "S.A. Hillyard"
+        ],
+        "keywords": "Attention,Object,Evoked-potential,Extrastriate cortex,Striate cortex"
+    },
+    {
+        "id": 4359,
+        "label": 81,
+        "author": "jude mitchell",
+        "title": "Stability precision and near-24-hour period of the human circadian pacemaker",
+        "organization": "University of Rochester",
+        "abstract": "Regulation of circadian period in humans was thought to differ from that of other species, with the period of the activity rhythm reported to range from 13 to 65 hours (median 25.2 hours) and the period of the body temperature rhythm reported to average 25 hours in adulthood, and to shorten with age. However, those observations were based on studies of humans exposed to light levels sufficient to confound circadian period estimation. Precise estimation of the periods of the endogenous circadian rhythms of melatonin, core body temperature, and cortisol in healthy young and older individuals living in carefully controlled lighting conditions has now revealed that the intrinsic period of the human circadian pacemaker averages 24.18 hours in both age groups, with a tight distribution consistent with other species. These findings have important implications for understanding the pathophysiology of disrupted sleep in older people.",
+        "email": "",
+        "conf": "Science",
+        "coauthors": [
+            "Charles A Czeisler",
+            "Jeanne F Duffy",
+            "Theresa L Shanahan",
+            "Emery N Brown",
+            "Jude F Mitchell",
+            "David W Rimmer",
+            "Joseph M Ronda",
+            "Edward J Silva",
+            "James S Allan",
+            "Jonathan S Wmens",
+            "Derk-Jan Dijk",
+            "Richard E Kronauer"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4338,
+        "label": 81,
+        "author": "jude mitchell",
+        "title": "The Fine Structure of Shape Tuning in Area V4",
+        "organization": "University of Rochester",
+        "abstract": "Previous studies have shown that neurons in area V4 are involved in the processing of shapes of intermediate complexity and are sensitive to curvature. These studies also suggest that curvature-tuned neurons are position invariant. We sought to examine the mechanisms that endow V4 neurons with these properties. Consistent with previous studies, we found that response rank order to the most- and least-preferred stimuli was preserved throughout the receptive field. However, a fine-grained analysis of shape tuning revealed a surprising result: V4 neurons tuned to highly curved shapes exhibit very limited translation invariance. At a fine spatial scale, these neurons exhibit local variation in orientation. In contrast, neurons that prefer straight contours exhibit spatially invariant orientation-tuning and homogenous fine-scale orientation maps. Both of these patterns are consistent with a simple orientation-pooling model, with tuning for straight or curved shapes resulting, respectively, from pooling of homogenous or heterogeneous orientation signals inherited from early visual areas.",
+        "email": "jude@salk.edu",
+        "conf": "Neuron",
+        "coauthors": [
+            "Anirvan Nandy",
+            "Tatyana Sharpee",
+            "John H Reynolds",
+            "Jude Mitchell"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4339,
+        "label": 81,
+        "author": "jude mitchell",
+        "title": "Attention Influences Single Unit and Local Field Potential Response Latencies in Visual Cortical Area V4",
+        "organization": "University of Rochester",
+        "abstract": "Many previous studies have demonstrated that changes in selective attention can alter the response magnitude of visual cortical neurons, but there has been little evidence for attention affecting response latency. Small latency differences, though hard to detect, can potentially be of functional importance, and may also give insight into the mechanisms of neuronal computation. We therefore reexamined the effect of attention on the response latency of both single units and the local field potential (LFP) in primate visual cortical area V4. We find that attention does produce small (1–2 ms) but significant reductions in the latency of both the spiking and LFP responses. Though attention, like contrast elevation, reduces response latencies, we find that the two have different effects on the magnitude of the LFP. Contrast elevations increase and attention decreases the magnitude of the initial deflection of the stimulus-evoked LFP. Both contrast elevation and attention increase the magnitude of the spiking response. We speculate that latencies may be reduced at higher contrast because stronger stimulus inputs drive neurons more rapidly to spiking threshold, while attention may reduce latencies by placing neurons in a more depolarized state closer to threshold before stimulus onset.",
+        "email": "",
+        "conf": "The Journal of Neuroscience : The Official Journal of the Society for Neuroscience",
+        "coauthors": [
+            "Kristy A Sundberg",
+            "Jude Mitchell",
+            "Timothy Gawne",
+            "John H Reynolds"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4337,
+        "label": 81,
+        "author": "jude mitchell",
+        "title": "Attention-dependent reductions in burstiness and action potential height in macaque area V4",
+        "organization": "University of Rochester",
+        "abstract": "Attention improves the encoding of visual stimuli. One mechanism that is implicated in facilitating sensory encoding is the firing of action potentials in bursts. We tested the hypothesis that when spatial attention is directed to a stimulus, this causes an increase in burst firing to the attended stimulus. To the contrary, we found an attention-dependent reduction in 'burstiness' among putative pyramidal neurons in macaque area V4. We accounted for this using a conductance-based Hodgkin-Huxley style model in which attentional modulation stems from scaling excitation and inhibition. The model exhibited attention-dependent increases in firing rate and made the surprising and correct prediction that when attention is directed into a neuron's receptive field, this reduces action-potential height. The model thus provided a unified explanation for three distinct forms of attentional modulation, two of them previously undescribed, and implicates scaling of the responses of excitatory and inhibitory input populations in mediating attention.",
+        "email": "",
+        "conf": "Nature Neuroscience",
+        "coauthors": [
+            "Emily B Anderson",
+            "Jude Mitchell",
+            "John H Reynolds"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4330,
+        "label": 81,
+        "author": "jude mitchell",
+        "title": "Marmosets: A Neuroscientific Model of Human Social Behavior",
+        "organization": "University of Rochester",
+        "abstract": "The common marmoset (Callithrix jacchus) has garnered interest recently as a powerful model for the future of neuroscience research. Much of this excitement has centered on the species’ reproductive biology and compatibility with gene editing techniques, which together have provided a path for transgenic marmosets to contribute to the study of disease as well as basic brain mechanisms. In step with technical advances is the need to establish experimental paradigms that optimally tap into the marmosets’ behavioral and cognitive capacities. While conditioned task performance of a marmoset can compare unfavorably with rhesus monkey performance on conventional testing paradigms, marmosets’ social behavior and cognition are more similar to that of humans. For example, marmosets are among only a handful of primates that, like humans, routinely pair bond and care cooperatively for their young. They are also notably pro-social and exhibit social cognitive abilities, such as imitation, that are rare outside of the Apes. In this Primer, we describe key facets of marmoset natural social behavior and demonstrate that emerging behavioral paradigms are well suited to isolate components of marmoset cognition that are highly relevant to humans. These approaches generally embrace natural behavior, which has been rare in conventional primate testing, and thus allow for a new consideration of neural mechanisms underlying primate social cognition and signaling. We anticipate that through parallel technical and paradigmatic advances, marmosets will become an essential model of human social behavior, including its dysfunction in neuropsychiatric disorders.",
+        "email": "",
+        "conf": "Neuron",
+        "coauthors": [
+            "Cory T Miller",
+            "Winrich A Freiwald",
+            "David A Leopold",
+            "Jude F Mitchell",
+            "Afonso C Silva",
+            "Xiaoqin Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4336,
+        "label": 81,
+        "author": "jude mitchell",
+        "title": "Active Vision in Marmosets: A Model System for Visual Neuroscience",
+        "organization": "University of Rochester",
+        "abstract": "The common marmoset (Callithrix jacchus), a small-bodied New World primate, offers several advantages to complement vision research in larger primates. Studies in the anesthetized marmoset have detailed the anatomy and physiology of their visual system (Rosa et al., 2009) while studies of auditory and vocal processing have established their utility for awake and behaving neurophysiological investigations (Lu et al., 2001a,b; Eliades and Wang, 2008a,b; Osmanski and Wang, 2011; Remington et al., 2012). However, a critical unknown is whether marmosets can perform visual tasks under head restraint. This has been essential for studies in macaques, enabling both accurate eye tracking and head stabilization for neurophysiology. In one set of experiments we compared the free viewing behavior of head-fixed marmosets to that of macaques, and found that their saccadic behavior is comparable across a number of saccade metrics and that saccades target similar regions of interest including faces. In a second set of experiments we applied behavioral conditioning techniques to determine whether the marmoset could control fixation for liquid reward. Two marmosets could fixate a central point and ignore peripheral flashing stimuli, as needed for receptive field mapping. Both marmosets also performed an orientation discrimination task, exhibiting a saturating psychometric function with reliable performance and shorter reaction times for easier discriminations. These data suggest that the marmoset is a viable model for studies of active vision and its underlying neural mechanisms.",
+        "email": "",
+        "conf": "The Journal of Neuroscience : The Official Journal of the Society for Neuroscience",
+        "coauthors": [
+            "Jude Mitchell",
+            "John H Reynolds",
+            "Cory T Miller"
+        ],
+        "keywords": "behavioral conditioning,eye movements,marmoset,primate,saccades,vision"
+    },
+    {
+        "id": 4353,
+        "label": 81,
+        "author": "jude mitchell",
+        "title": "Contrast dependant center-surround interactions in macaque area V4",
+        "organization": "University of Rochester",
+        "abstract": "Visual neurons integrate information over large regions of space beyond their classical receptive fields. A stimulus presented alone in this surround region does not elicit a response, but can modulate the response evoked by a simultaneously presented center stimulus. Center-surround interactions have been studied in V1 and MT but less is known about their properties in V4. We characterized the contrast dependence of center-surround interactions in V4 of the awake monkey. On each trial two luminance-modulated gratings were presented, one within the classical receptive field and the other in the surround. The monkey fixated and performed an attention demanding multi-object tracking task in the opposite hemifield. We measured the contrast response function to the center stimulus and observed how it changed with the addition of different contrast surround stimuli. Surround stimuli generally exerted a suppressive influence on the response evoked by the center stimulus. Consistent with findings in the anesthetized monkey V1, this suppressive effect could best be characterized as a rightward shift in the contrast response function for some cells, while for other cells suppression reduced the upper asymptote of the contrast response function. Suppressive effects generally increased with the luminance contrast of the surround stimulus. Although less common, surround stimulus facilitation was also observed, with some cells showing facilitation at low center contrasts and others showing facilitation at higher center contrasts. These findings show that strong center-surround modulations are induced in V4 by a single grating in the surround, but that the nature of the modulation varies from cell to cell.",
+        "email": "",
+        "conf": "Journal of Vision",
+        "coauthors": [
+            "Kristy A Sundberg",
+            "Jude Mitchell",
+            "John H Reynolds"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4344,
+        "label": 81,
+        "author": "jude mitchell",
+        "title": "Attention modulates the neural mechanisms that give rise to center-surround interactions",
+        "organization": "University of Rochester",
+        "abstract": "An emerging view of the attentional system is that feedback signals impinge on sensory processing areas so as to enhance attended stimuli at the expense of unattended stimuli. An important goal is to understand the nature of the circuitry that transforms these feedback signals into improved sensory processing. One model of this circuitry, the normalization model of attention, posits that the brain has co-opted gain-control circuits that may originally have evolved to adapt sensory processing to changes in the strength of sensory input. According to this proposal, attentional feedback signals to the visual system scale the inputs to normalization circuits in primary and extrastriate visual cortices. Recently Heeger and Reynolds proposed an extension to the normalization model of attention that incorporates a narrow excitatory field and a broader inhibitory field. This model makes two predictions about attentional modulation when a stimulus in a neuron's classical receptive field is paired with a second stimulus in the suppressive surround. Directing attention to the stimulus in the center should diminish surround suppression and directing attention to the surround stimulus should increase surround suppression. We tested this in macaque area V4 and find clear support for both predictions. These findings demonstrate that attention modulates the neural mechanisms that give rise to center-surround interactions, and provide support for the normalization model of attention.",
+        "email": "",
+        "conf": "Journal of Vision",
+        "coauthors": [
+            "John H Reynolds",
+            "Jude Mitchell",
+            "Kristy A Sundberg"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4325,
+        "label": 81,
+        "author": "jude mitchell",
+        "title": "Motion perception in the common marmoset",
+        "organization": "University of Rochester",
+        "abstract": "Visual motion processing is a well-established model system for studying neural population codes in primates. The common marmoset, a small new world primate, offers unparalleled opportunities to probe these population codes in key motion processing areas, such as cortical areas MT and MST, because these areas are accessible for imaging and recording at the cortical surface. However, little is currently known about the perceptual abilities of the marmoset. Here, we introduce a paradigm for studying motion perception in the marmoset and compare their psychophysical performance with human observers. We trained two marmosets to perform a motion estimation task in which they provided an analog report of their perceived direction of motion with an eye movement to a ring that surrounded the motion stimulus. Marmosets and humans exhibited similar trade-offs in speed versus accuracy: errors were larger and reaction times were longer as the strength of the motion signal was reduced. Reverse correlation on the temporal fluctuations in motion direction revealed that both species exhibited short integration windows; however, marmosets had substantially less nondecision time than humans. Our results provide the first quantification of motion perception in the marmoset and demonstrate several advantages to using analog estimation tasks.",
+        "email": "",
+        "conf": "Cerebral Cortex",
+        "coauthors": [
+            "Shaun L Cloherty",
+            "Jacob L Yates",
+            "Dina Graf",
+            "Gregory C DeAngelis",
+            "Jude Mitchell"
+        ],
+        "keywords": "decision-making, marmoset monkey, motion estimation, psychophysics, vision"
+    },
+    {
+        "id": 4357,
+        "label": 81,
+        "author": "jude mitchell",
+        "title": "Attentional selection of superimposed surfaces cannot be explained by modulation of the gain of color channels",
+        "organization": "University of Rochester",
+        "abstract": "When two differently colored, superimposed patterns of dots rotate in opposite directions, this yields the percept of two superimposed transparent surfaces. If observers are cued to attend to one set of dots, they are impaired in making judgments about the other set. Since the two sets of dots are overlapping, the cueing effect cannot be explained by spatial attention. This has led to the interpretation that the impairment reflects surface-based attentional selection. However, recent single-unit recording studies in monkeys have found that attention can modulate the gain of neurons tuned for features such as color. Thus, rather than reflecting the selection of a surface, the behavioral effects might simply reflect a reduction in the gain of color channels selective for the color of the uncued set of dots (feature-based attention), as if viewing the surfaces through a colored filter. If so, then the impairment should be eliminated when the two surfaces are made the same color. Instead, we find that the impairment persists with no reduction in strength. Our findings thus rule out the color gain explanation.",
+        "email": "",
+        "conf": "Vision Research",
+        "coauthors": [
+            "Jude Mitchell",
+            "Gene R Stoner",
+            "Mazyar Fallah",
+            "John H Reynolds"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4349,
+        "label": 81,
+        "author": "jude mitchell",
+        "title": "Estimates of spike-LFP coherence based on finite spiking data vary with mean firing rate",
+        "organization": "University of Rochester",
+        "abstract": "A growing number of neurophysiological studies have found that spike-LFP coherence (SFC) varies with behavioral state. SFC quantifies the extent to which spike activity is phase-locked to the LFP across frequency. Changes in SFC within a particular frequency band are typically taken as evidence for task-dependent changes in neuronal synchrony in that band, independent of firing rate. Here we show that within the finite time interval of a single trial, spike count influences the variability of estimates of the relative amplitudes and phases of spike and LFP activity, i.e. lower spike counts result in higher variability. As a result of this increased variability, the trial-average coherence magnitude increases with increases in firing rate. We illustrate this issue by analyzing spiking and local field potential data recorded in macaque area V4 while animals performed an attention-demanding task. We compute coherence values and show that variability in estimating relative phases and amplitudes of spike and LFP is contingent on the number of spikes per trial, i.e. more variable estimates with lower firing rate results in reduced magnitudes of coherence. We explore alternative methods of estimating neuronal synchrony that do not vary according to the number of spikes per trial.",
+        "email": "",
+        "conf": "Frontiers in Systems Neuroscience",
+        "coauthors": [
+            "John Curtis",
+            "Jude Mitchell",
+            "John H Reynolds"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4358,
+        "label": 81,
+        "author": "jude mitchell",
+        "title": "Is there an intrinsic period of the circadian clock? Response",
+        "organization": "University of Rochester",
+        "abstract": "",
+        "email": "",
+        "conf": "Science",
+        "coauthors": [
+            "Charles Czeisler",
+            "Derk-Jan Dijk",
+            "Richard E Kronauer",
+            "Emery N Brown",
+            "Jeanne F Duffy",
+            "James S Allan",
+            "Thersa L Shanahan",
+            "David W Rimmer",
+            "Joseph M Ronda",
+            "Jude F Mitchell",
+            "Edward J Silva",
+            "Jonathan Emens"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4347,
+        "label": 81,
+        "author": "jude mitchell",
+        "title": "Spatial Attention Decorrelates Intrinsic Activity Fluctuations in Macaque Area V4",
+        "organization": "University of Rochester",
+        "abstract": "Attention typically amplifies neuronal responses evoked by task-relevant stimuli while attenuating responses to task-irrelevant distracters. In this context, visual distracters constitute an external source of noise that is diminished to improve attended signal quality. Activity that is internal to the cortex itself, stimulus-independent ongoing correlated fluctuations in firing, might also act as task-irrelevant noise. To examine this, we recorded from area V4 of macaques performing an attention-demanding task. The firing of neurons to identically repeated stimuli was highly variable. Much of this variability originates from ongoing low-frequency (<5 Hz) fluctuations in rate correlated across the neuronal population. When attention is directed to a stimulus inside a neuron's receptive field, these correlated fluctuations in rate are reduced. This attention-dependent reduction of ongoing cortical activity improves the signal-to-noise ratio of pooled neural signals substantially more than attention-dependent increases in firing rate.",
+        "email": "",
+        "conf": "Neuron",
+        "coauthors": [
+            "Jude Mitchell",
+            "Kristy A Sundberg",
+            "John H Reynolds"
+        ],
+        "keywords": "SYSNEURO,SYSBIO,SIGNALING"
+    },
+    {
+        "id": 4328,
+        "label": 81,
+        "author": "jude mitchell",
+        "title": "Optogenetic manipulation of neural circuits in awake marmosets",
+        "organization": "University of Rochester",
+        "abstract": "Optogenetics has revolutionized the study of functional neuronal circuitry (Boyden ES, Zhang F, Bamberg E, Nagel G, Deisseroth K. Nat Neurosci 8: 1263–1268, 2005; Deisseroth K. Nat Methods 8: 26–29, 2011). Although these techniques have been most successfully implemented in rodent models, they have the potential to be similarly impactful in studies of nonhuman primate brains. Common marmosets (Callithrix jacchus) have recently emerged as a candidate primate model for gene editing, providing a potentially powerful model for studies of neural circuitry and disease in primates. The application of viral transduction methods in marmosets for identifying and manipulating neuronal circuitry is a crucial step in developing this species for neuroscience research. In the present study we developed a novel, chronic method to successfully induce rapid photostimulation in individual cortical neurons transduced by adeno-associated virus to express channelrhodopsin (ChR2) in awake marmosets. We found that large proportions of neurons could be effectively photoactivated following viral transduction and that this procedure could be repeated for several months. These data suggest that techniques for viral transduction and optical manipulation of neuronal populations are suitable for marmosets and can be combined with existing behavioral preparations in the species to elucidate the functional neural circuitry underlying perceptual and cognitive processes.",
+        "email": "",
+        "conf": "Journal of Neurophysiology",
+        "coauthors": [
+            "Matthew Macdougall",
+            "Samuel U. Nummela",
+            "Shanna Hong Coop",
+            "Anita Disney",
+            "Jude F Mitchell",
+            "Cory T Miller"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4361,
+        "label": 81,
+        "author": "jude mitchell",
+        "title": "Assessment of frequency-dependent alterations in the level of extracellular Ca2+ in the synaptic cleft",
+        "organization": "University of Rochester",
+        "abstract": "The synaptic cleft may be represented as a very thin disk of extracellular fluid. It is possible that at high stimulation frequencies the interval between pulses would be insufficient for diffusion of Ca2+ from the periphery of the cleft to replace extracellular Ca2+ depleted at the center of the cleft as a result of activation of postsynaptic, Ca2(+)-permeable channels. Computer modeling was employed to assess the impact of activation of glutamate receptor channels (GRCs) in the postsynaptic membrane on the level of extracellular Ca2+ within the synaptic cleft. The model includes calcium influx from the synaptic cleft into the postsynaptic compartment through GRC and calcium efflux through calcium pumps and Na/Ca exchangers. Concentrations of extracellular Ca2+ inside the cleft are estimated by using a compartmental model incorporating flux across the postsynaptic membrane and radial diffusion from the edges of the cleft. The simulations suggest that substantial extracellular Ca2+ depletion can occur in the clefts during activation of GRCs, particularly at high stimulation frequencies used to induce long-term potentiation (LTP). Only minimal transitory changes in extracellular Ca2+ are observed at low frequencies. These frequency-dependent alterations in extracellular Ca2+ dynamics are a direct reflection of the activity of GRCs and could be involved in the modulation of presynaptic function via a retrograde messenger mechanism, if there are extracellular Ca2+ sensors on the presynaptic membranes. The recently cloned extracellular Ca2(+)-sensing receptors that are known to be present in nerve terminals in hippocampus and other areas of the brain could potentially play such a role.",
+        "email": "",
+        "conf": "Biophysical Journal",
+        "coauthors": [
+            "Peter M Vassilev",
+            "Jude Mitchell",
+            "Michael Vassilev",
+            "Marie Kanazirska",
+            "Edward M Brown"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4342,
+        "label": 81,
+        "author": "jude mitchell",
+        "title": "Attentive tracking of multiple objects by humans and monkeys",
+        "organization": "University of Rochester",
+        "abstract": "Human observers can attentively track 3–5 stimuli as they move along independent random trajectories among distracter stimuli (Pylyshyn and Storm, 1988; Sears and Pylyshyn, 2000). We developed a multi-object tracking task suitable for monkeys, and measured task performance in two monkeys as we varied the number of tracked and distracter stimuli. Each trial began with fixation of a central point, after which 4–8 identical stimuli appeared at equally eccentric peripheral positions. A subset of these briefly flashed, identifying them as targets. All stimuli then moved along random independent trajectories for 2–3 seconds while the monkey maintained fixation. All stimuli terminated motion at equally eccentric positions that were unpredictable from their initial positions. The monkey indicated the identities of the targets by making a saccade to each. Reward was only delivered if the monkey made saccades to all targets and no distracters. After extensive training both monkeys showed reliable tracking for two items. Humans were able to track 3–4 items when tested with the same stimuli. Initial recordings in Area V4 made with one tracked target and three distracters found that V4 responses evoked by the tracked object were on average ∼20% stronger than responses evoked by the same stimulus when it was not being tracked.",
+        "email": "",
+        "conf": "Journal of Vision",
+        "coauthors": [
+            "Jude Mitchell",
+            "Kristy A Sundberg",
+            "John H Reynolds"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4355,
+        "label": 81,
+        "author": "jude mitchell",
+        "title": "Object-based attention determines dominance in binocular rivalry",
+        "organization": "University of Rochester",
+        "abstract": "A question of long-standing interest to philosophers, psychologists and neuroscientists is how the brain selects which signals enter consciousness1,2. Binocular rivalry and attention both involve selection of visual stimuli, but affect perception quite differently. During binocular rivalry, awareness alternates between two different stimuli presented to the two eyes. In contrast, attending to one of two different stimuli impairs discrimination of the ignored stimulus, but without causing it to disappear from consciousness. Here we show that despite this difference, attention and rivalry rely on shared object-based selection mechanisms. We cued attention to one of two superimposed transparent surfaces and then deleted the image of one surface from each eye, resulting in rivalry. Observers usually reported seeing only the cued surface. They were also less accurate in judging unpredictable changes in the features of the uncued surface. Our design ensured that selection of the cued surface could not have resulted from spatial, ocular or feature-based mechanisms. Rather, attention was drawn to one surface, and this caused the other surface to be perceptually suppressed during rivalry. These results raise the question of how object representations compete during these two forms of perceptual selection, even as the features of those objects change unpredictably over time.",
+        "email": "",
+        "conf": "Nature",
+        "coauthors": [
+            "Jude Mitchell",
+            "Gene Stoner",
+            "John H Reynolds"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4360,
+        "label": 81,
+        "author": "jude mitchell",
+        "title": "Membrane ion sensors modulating ion channels and signal transmission",
+        "organization": "University of Rochester",
+        "abstract": "",
+        "email": "",
+        "conf": "Periodicum Biologorum",
+        "coauthors": [
+            "P.M. Vassilev",
+            "M.P. Vassilev",
+            "M.P.V. Kanazirska",
+            "E.M. Brown"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4327,
+        "label": 81,
+        "author": "jude mitchell",
+        "title": "Neurons in Macaque Area V4 Are Tuned for Complex Spatio-Temporal Patterns",
+        "organization": "University of Rochester",
+        "abstract": "To deepen our understanding of object recognition, it is critical to understand the nature of transformations that occur in intermediate stages of processing in the ventral visual pathway, such as area V4. Neurons in V4 are selective to local features of global shape, such as extended contours. Previously, we found that V4 neurons selective for curved elements exhibit a high degree of spatial variation in their preference. If spatial variation in curvature selectivity was also marked by distinct temporal response patterns at different spatial locations, then it might be possible to untangle this information in subsequent processing based on temporal responses. Indeed, we find that V4 neurons whose receptive fields exhibit intricate selectivity also show variation in their temporal responses across locations. A computational model that decodes stimulus identity based on population responses benefits from using this temporal information, suggesting that it could provide a multiplexed code for spatio-temporal features.",
+        "email": "",
+        "conf": "Neuron",
+        "coauthors": [
+            "Anirvan Nandy",
+            "Jude Mitchell",
+            "Monika P. Jadi",
+            "John H Reynolds"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4354,
+        "label": 81,
+        "author": "jude mitchell",
+        "title": "Interacting competitive selection in attention and binocular rivalry",
+        "organization": "University of Rochester",
+        "abstract": "Visuomotor processing is selective — only a small subset of stimuli that impinge on the retinae reach perceptual awareness and/or elicit behavioral responses. Both binocular rivalry and attention involve visual selection, but affect perception quite differently. During rivalry, awareness alternates between different stimuli presented to the two eyes. In contrast, attending to one of the two stimuli impairs discrimination of the ignored stimulus, but without causing it to perceptually disappear. We review experiments demonstrating that, despite their phenomenological differences, attention and rivalry depend upon shared competitive selection mechanisms. These experiments, moreover, reveal stimulus selection that is surface-based and requires coordination between the different neuronal populations that respond as a surface changes its attributes (type of motion) over time. This surface-based selection, in turn biases interocular competition, favoring the eye whose image is consistent with the selected surface. The review ends with speculation about the role of the thalamus in mediating this dynamic coordination, as well as thoughts about what underlies the differences in the phenomenology of selective attention and rivalry.",
+        "email": "",
+        "conf": "Progress in brain research",
+        "coauthors": [
+            "Gene Stoner",
+            "Jude F Mitchell",
+            "Mazyar Fallah",
+            "John H Reynolds"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4331,
+        "label": 81,
+        "author": "jude mitchell",
+        "title": "Vocal turn-taking in a non-human primate is learned during ontogeny",
+        "organization": "University of Rochester",
+        "abstract": "Conversational turn-taking is an integral part of language development, as it reflects a confluence of social factors that mitigate communication. Humans coordinate the timing of speech based on the behaviour of another speaker, a behaviour that is learned during infancy. While adults in several primate species engage in vocal turn-taking, the degree to which similar learning processes underlie its development in these non-human species or are unique to language is not clear. We recorded the natural vocal interactions of common marmosets (Callithrix jacchus) occurring with both their sibling twins and parents over the first year of life and observed at least two parallels with language development. First, marmoset turn-taking is a learned vocal behaviour. Second, marmoset parents potentially played a direct role in guiding the development of turn-taking by providing feedback to their offspring when errors occurred during vocal interactions similarly to what has been observed in humans. Though species-differences are also evident, these findings suggest that similar learning mechanisms may be implemented in the ontogeny of vocal turn-taking across our Order, a finding that has important implications for our understanding of language evolution.",
+        "email": "",
+        "conf": "Proceedings of the Royal Society B: Biological Sciences",
+        "coauthors": [
+            "Cecilia P Chow",
+            "Jude Mitchell",
+            "Cory T Miller"
+        ],
+        "keywords": "marmoset, turn-taking, vocal learning"
+    },
+    {
+        "id": 4334,
+        "label": 81,
+        "author": "jude mitchell",
+        "title": "The marmoset monkey as a model for visual neuroscience",
+        "organization": "University of Rochester",
+        "abstract": "The common marmoset (Callithrix jacchus) has been valuable as a primate model in biomedical research. Interest in this species has grown recently, in part due to the successful demonstration of transgenic marmosets. Here we examine the prospects of the marmoset model for visual neuroscience research, adopting a comparative framework to place the marmoset within a broader evolutionary context. The marmoset's small brain bears most of the organizational features of other primates, and its smooth surface offers practical advantages over the macaque for areal mapping, laminar electrode penetration, and two-photon and optical imaging. Behaviorally, marmosets are more limited at performing regimented psychophysical tasks, but do readily accept the head restraint that is necessary for accurate eye tracking and neurophysiology, and can perform simple discriminations. Their natural gaze behavior closely resembles that of other primates, with a tendency to focus on objects of social interest including faces. Their immaturity at birth and routine twinning also makes them ideal for the study of postnatal visual development. These experimental factors, together with the theoretical advantages inherent in comparing anatomy, physiology, and behavior across related species, make the marmoset an excellent model for visual neuroscience.",
+        "email": "jmitchell@bcs.rochester.edu",
+        "conf": "Neuroscience Research",
+        "coauthors": [
+            "Jude Mitchell",
+            "David A Leopold"
+        ],
+        "keywords": "Primate,Marmoset,Vision,Comparative,Cognition,Behavior"
+    },
+    {
+        "id": 4335,
+        "label": 81,
+        "author": "jude mitchell",
+        "title": "Correction of Refractive Errors in Rhesus Macaques (Macaca mulatta) Involved in Visual Research",
+        "organization": "University of Rochester",
+        "abstract": "Macaques are the most common animal model for studies in vision research, and due to their high value as research subjects, often continue to participate in studies well into old age. As is true in humans, visual acuity in macaques is susceptible to refractive errors. Here we report a case study in which an aged macaque demonstrated clear impairment in visual acuity according to performance on a demanding behavioral task. Refraction demonstrated bilateral myopia that significantly affected behavioral and visual tasks. Using corrective lenses, we were able to restore visual acuity. After correction of myopia, the macaque's performance on behavioral tasks was comparable to that of a healthy control. We screened 20 other male macaques to assess the incidence of refractive errors and ocular pathologies in a larger population. Hyperopia was the most frequent ametropia but was mild in all cases. A second macaque had mild myopia and astigmatism in one eye. There were no other pathologies observed on ocular examination. We developed a simple behavioral task that visual research laboratories could use to test visual acuity in macaques. The test was reliable and easily learned by the animals in 1 d. This case study stresses the importance of screening macaques involved in visual science for refractive errors and ocular pathologies to ensure the quality of research; we also provide simple methodology for screening visual acuity in these animals.",
+        "email": "",
+        "conf": "Comparative medicine",
+        "coauthors": [
+            "Jude Mitchell",
+            "Chantal Boisvert",
+            "Jon David Reuter",
+            "John H Reynolds",
+            "Mathias Leblanc"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4329,
+        "label": 81,
+        "author": "jude mitchell",
+        "title": "Uterine Rupture in a Common Marmoset (Callithrix jacchus)",
+        "organization": "University of Rochester",
+        "abstract": "A 5-y-old multiparous female common marmoset (Callithrix jacchus) presented with acute weight loss of approximately 25% over a 1-wk period. An abdominal mass was apparent on physical examination, and radiographs suggested peritoneal effusion. Exploratory laparotomy revealed hemoperitoneum and an enlarged, gray, hemorrhaging uterus; ovariohysterectomy was performed, and the marmoset recovered. Histologic evaluation of the ovaries and uterus revealed uterine rupture, with invasion of placental villi lined by trophoblasts through the myometrium to the serosal layer. Primary uterine rupture is a rare but serious obstetric event in humans and has been reported only rarely in NHP. This report is the first description of primary uterine rupture during early pregnancy in a common marmoset.",
+        "email": "",
+        "conf": "Comparative medicine",
+        "coauthors": [
+            "Louis Divincenti",
+            "Andrew D. Miller",
+            "Dina J. Knoedl",
+            "Jude Mitchell"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4345,
+        "label": 81,
+        "author": "jude mitchell",
+        "title": "Attentive tracking of multiple objects modulates neuronal responses in area V4 of the macaque",
+        "organization": "University of Rochester",
+        "abstract": "Human observers can attentively track multiple stimuli as they move along independent random trajectories among distracter stimuli (Pylyshyn and Storm, 1988; Sears and Pylyshyn, 2000). We developed a multi-object tracking task suitable for monkeys and recorded single units and LFPs in area V4 as tracked or untracked stimuli entered a unit's receptive field. Each trial began with fixation of a central point, after which 4 identical stimuli appeared at equally eccentric peripheral positions. Either one or two of these stimuli were briefly flashed, identifying them as targets for tracking. All stimuli then moved along random independent trajectories for 2–3 seconds while the monkey maintained fixation. The trajectories were constrained such that one of the stimuli entered and left the receptive field of an isolated V4 neuron. All stimuli terminated motion at equally eccentric positions that were unpredictable from their initial positions. Monkeys were rewarded only if they made a saccade to each target and to no distracters. We found that V4 single unit responses evoked by a tracked stimulus were on average ∼20% stronger than the responses evoked by the same stimulus when it was not being tracked. The magnitude of the modulation did not differ significantly depending on whether the monkey was tracking a single target or two targets, suggesting that attending to one target did not reduce attention to the other.",
+        "email": "",
+        "conf": "Journal of Vision",
+        "coauthors": [
+            "Jude Mitchell",
+            "Kristy A Sundberg",
+            "John H Reynolds"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4346,
+        "label": 81,
+        "author": "jude mitchell",
+        "title": "Attentional modulation of center-surround interactions in macaque area V4",
+        "organization": "University of Rochester",
+        "abstract": "Directing attention to one of two stimuli placed within a neuron's classical receptive field (CRF) biases the neuron's response to more closely resemble the response evoked when the attended stimulus appears alone. It is not known, however, how attention modulates responses when one stimulus is positioned in the center of the neuron's CRF and the other is positioned within the surround. To examine this question we trained two monkeys to attentively track 2 out of 4 square wave gratings as they moved along separate trajectories through the visual field. In the middle of each trial the stimuli paused, with one grating in the CRF center, one in the surround, and the other two in the opposite hemifield. We have previously found that with attention directed away (to stimuli in the opposite hemifield), the surround stimulus strongly suppresses the response to the center stimulus. Here we report evidence that this suppression can be modulated by attention. We find that, in some neurons, directing attention to the surround stimulus can magnify surround suppression, and that attention to the center stimulus can reduce surround suppression.",
+        "email": "",
+        "conf": "Journal of Vision",
+        "coauthors": [
+            "Kristy A Sundberg",
+            "Jude Mitchell",
+            "John H Reynolds"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4356,
+        "label": 81,
+        "author": "jude mitchell",
+        "title": "Sequential memory-guided saccades and target selection: a neural model of the frontal eye fields",
+        "organization": "University of Rochester",
+        "abstract": "We present a neural model of the frontal eye fields. It consists of several retinotopic arrays of neuron-like units that are recurrently connected. The network is trained to make memory-guided saccades to sequentially flashed targets that appear at arbitrary locations. This task is interesting because the large number of possible sequences does not permit a pre-learned response. Instead locations and their priority must be maintained in active working memory. The network learns to perform the task. Surprisingly, after training it can also select targets in visual search tasks. When targets are shown in parallel it chooses them according to their salience. Its search behavior is comparable to that of humans. It exhibits saccadic averaging, increased reaction times with more distractors, latency vs accuracy trade-offs, and inhibition of return. Analysis of the network shows that it operates like a queue, storing the potential targets in sequence for later execution. A small number of unit types are sufficient to encode this information, but the manner of coding is non-obvious. Units respond to multiple targets similar to quasi-visual cells recently studied [Exp. Brain Res. 130 (2000) 433]. Predictions are made that can be experimentally tested.",
+        "email": "jude@salk.edu",
+        "conf": "Vision Research",
+        "coauthors": [
+            "Jude Mitchell",
+            "David Zipser"
+        ],
+        "keywords": "Neural model,Frontal eye fields,Working memory,Visual search"
+    },
+    {
+        "id": 4340,
+        "label": 81,
+        "author": "jude mitchell",
+        "title": "Attentional Modulation of Firing Rate Varies with Burstiness across Putative Pyramidal Neurons in Macaque Visual Area V4",
+        "organization": "University of Rochester",
+        "abstract": "One of the most well established forms of attentional modulation is an increase in firing rate when attention is directed into the receptive field of a neuron. The degree of rate modulation, however, can vary considerably across individual neurons, especially among broad spiking neurons (putative pyramids). We asked whether this heterogeneity might be correlated with a neuronal response property that is used in intracellular recording studies to distinguish among distinct neuronal classes: the burstiness of the neuronal spike train. We first characterized the burst spiking behavior of visual area V4 neurons and found that this varies considerably across the population, but we did not find evidence for distinct classes of burst behavior. Burstiness did, however, vary more widely across the class of neurons that shows the greatest heterogeneity in attentional modulation, and within that class, burstiness helped account for differences in attentional modulation. Among these broad spiking neurons, rate modulation was primarily restricted to bursty neurons, which as a group showed a highly significant increase in firing rate with attention. Furthermore, every bursty broad spiking neuron whose firing rate was significantly modulated by attention exhibited an increase in firing rate. In contrast, non-bursty broad spiking neurons exhibited no net attentional modulation, and, although some individual neurons did show significant rate modulation, these were divided among neurons showing increases and decreases. These findings show that macaque area V4 shows a range of bursting behavior and that the heterogeneity of attentional modulation can be explained, in part, by variation in burstiness.",
+        "email": "",
+        "conf": "The Journal of Neuroscience : The Official Journal of the Society for Neuroscience",
+        "coauthors": [
+            "Emily B Anderson",
+            "Jude Mitchell",
+            "John H Reynolds"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4326,
+        "label": 81,
+        "author": "jude mitchell",
+        "title": "Psychophysical measurement of marmoset acuity and myopia",
+        "organization": "University of Rochester",
+        "abstract": "The common marmoset has attracted increasing interest as a model for visual neuroscience. A measurement of fundamental importance to ensure the validity of visual studies is spatial acuity. The marmoset has excellent acuity that has been reported at the fovea to be nearly half that of the human (Ordy and Samorajski, 1968), a value that is consistent with them having similar photoreceptor densities combined with their smaller eye size (Troilo et al, 1993). Of interest, the marmoset exhibits a higher proportion of cones than rods in peripheral vision than human or macaque, which in principle could endow them with better peripheral acuity depending on how those signals are pooled in subsequent processing. Here we introduce a simple behavioral paradigm to measure acuity and then test how acuity in the marmoset scales with eccentricity. We trained subjects to fixate a central point and detect a peripheral Gabor by making a saccade to its location. First, we found that accurate assessment of acuity required correction for myopia in all subjects. This is an important point because marmosets raised in laboratory conditions often have mild to severe myopia (Graham and Judge, 1999), a finding that we confirm, and that would limit their utility for studies of vision if uncorrected. With corrected vision, we found that their acuity scales with eccentricity similar to that of humans and macaques, having roughly half the value of the human and with no clear departure for higher acuity in the periphery.",
+        "email": "",
+        "conf": "Journal of Vision",
+        "coauthors": [
+            "Samuel U. Nummela",
+            "Shanna Hong Coop",
+            "Shaun Cloherty",
+            "Chantal Boisvert",
+            "Mathias Leblanc",
+            "Jude F Mitchell"
+        ],
+        "keywords": "marmoset; myopia; psychophysics; vision"
+    },
+    {
+        "id": 4350,
+        "label": 81,
+        "author": "jude mitchell",
+        "title": "ERP evidence that surface-based attention biases interocular competition during rivalry",
+        "organization": "University of Rochester",
+        "abstract": "observed that exogenously cuing one of two superimposed transparent surfaces resulted in an enhanced perceptual bias for the cued surface during binocular rivalry. We investigated the neural bases of this effect by recording event-related potentials (ERPs). Subjects viewed two superimposed rotating transparent surfaces and compared the directions of two successive translations, either both of the same surface or one of each surface. Following the first translation, which cued attention to the translating surface, two surface images were removed—one from each eye (dichoptic viewing) or both from one eye (monocular viewing). Subjects were impaired at comparing the first and second translations when they occurred on different surfaces, and the impairment was greater during dichoptic viewing (rivalry). The P1 component (110–160 ms) of the ERP elicited by the second translation of the same surface was larger than for the different surface during dichoptic but not monocular viewing. Larger cueing effects were also observed for the subsequent posterior N1 (160–220 ms) and P2 (250–300 ms) components during rivalry than during monocular viewing. These results are in line with a hybrid model of rivalry whereby cuing one surface initiates an earlier interocular selection process when the competing surfaces are presented to separate eyes.",
+        "email": "",
+        "conf": "Journal of Vision",
+        "coauthors": [
+            "Wayne Khoe",
+            "Jude Mitchell",
+            "John H Reynolds",
+            "Steven A Hillyard"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4343,
+        "label": 81,
+        "author": "jude mitchell",
+        "title": "Attention reduces low frequency correlated noise in macaque V4",
+        "organization": "University of Rochester",
+        "abstract": "Correlated firing among sensory neurons limits the accuracy with which sensory information can be decoded from neuronal populations (Zohary et. al., 1994). Attention might improve sensory processing by reducing correlations in the responses evoked by an attended stimulus. To examine this we recorded from pairs of neurons in visual area V4 as monkeys performed an attention-demanding object tracking task that placed a preferred stimulus inside the overlapping region of the two neurons‘ receptive fields. We measured correlations in the neurons‘ responses when the stimulus was either attended or ignored. After controlling for correlations induced by the stimulus we find that trial-by-trial spike count correlations are reduced when attention is directed to the stimulus. The dominant source of noise contributing to the variability in spiking is best characterized as ‘1/f‘ low frequency noise, as seen in the spike power spectrum of single units. We also examined this low frequency noise reduction by computing the coherence of spiking with local field potentials (LFPs). Consistent with our pairwise spike count analysis, we observe a significant attention-dependent reduction in spike-LFP coherence at low frequencies. We also find that attention reduces the variability of individual neuron's responses, as measured by the Fano Factor. An analysis of the spectra of individual neuron's spike trains with and without attention reveals that this reduction in Fano Factor reflects a reduction in rate fluctuations over the same range of low frequencies where we see reductions in correlated activity. Therefore, we conclude that attention improves signal quality by reducing low frequency rate fluctuations, and this reduction contributes to our previously reported attention-dependent reductions in Fano Factor.",
+        "email": "",
+        "conf": "Journal of Vision",
+        "coauthors": [
+            "Jude Mitchell",
+            "Kristy A Sundberg",
+            "John H Reynolds"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4341,
+        "label": 81,
+        "author": "jude mitchell",
+        "title": "Object-based attention to one of two superimposed surfaces alters responses in human early visual cortex",
+        "organization": "University of Rochester",
+        "abstract": "Faced with an overwhelming amount of sensory information, we are able to prioritize the processing of select spatial locations and visual features. The neuronal mechanisms underlying such spatial and feature-based selection have been studied in considerable detail. More recent work shows that attention can also be allocated to objects, even spatially superimposed objects composed of dynamically changing features that must be integrated to create a coherent object representation. Much less is known about the mechanisms underlying such object-based selection. Our goal was to investigate behavioral and neuronal responses when attention was directed to one of two objects, specifically one of two superimposed transparent surfaces, in a task designed to preclude space-based and feature-based selection. We used functional magnetic resonance imaging (fMRI) to measure changes in blood oxygen level-dependent (BOLD) signals when attention was deployed to one or the other surface. We found that visual areas V1, V2, V3, V3A, and MT+ showed enhanced BOLD responses to translations of an attended relative to an unattended surface. These results reveal that visual areas as early as V1 can be modulated by attending to objects, even objects defined by dynamically changing elements. This provides definitive evidence in humans that early visual areas are involved in a seemingly high-order process. Furthermore, our results suggest that these early visual areas may participate in object-specific feature “binding,” a process that seemingly must occur for an object or a surface to be the unit of attentional selection.",
+        "email": "",
+        "conf": "Journal of Neurophysiology",
+        "coauthors": [
+            "Vivian M Ciaramitaro",
+            "Jude Mitchell",
+            "Gene Stoner",
+            "John H Reynolds",
+            "Geoffrey Boynton"
+        ],
+        "keywords": "surface-based selection; spatial attention; feature-based attention; human visual cortex"
+    },
+    {
+        "id": 4332,
+        "label": 81,
+        "author": "jude mitchell",
+        "title": "Brains Genes and Primates",
+        "organization": "University of Rochester",
+        "abstract": "One of the great strengths of the mouse model is the wide array of genetic tools that have been developed. Striking examples include methods for directed modification of the genome, and for regulated expression or inactivation of genes. Within neuroscience, it is now routine to express reporter genes, neuronal activity indicators, and opsins in specific neuronal types in the mouse. However, there are considerable anatomical, physiological, cognitive, and behavioral differences between the mouse and the human that, in some areas of inquiry, limit the degree to which insights derived from the mouse can be applied to understanding human neurobiology. Several recent advances have now brought into reach the goal of applying these tools to understanding the primate brain. Here we describe these advances, consider their potential to advance our understanding of the human brain and brain disorders, discuss bioethical considerations, and describe what will be needed to move forward. Recent advances have brought into reach the goal of applying genetic tools to understanding the primate brain. Reynolds and colleagues describe these advances, their potential to deepen understanding of the human brain, and what will be needed to move forward.",
+        "email": "",
+        "conf": "Neuron",
+        "coauthors": [
+            "Juan Carlos Izpisua Belmonte",
+            "Edward M. Callaway",
+            "Patricia Churchland",
+            "Sarah J. Caddick",
+            "Guoping Feng",
+            "Gregg E. Homanics",
+            "Kuo Fen Lee",
+            "David A. Leopold",
+            "Cory T. Miller",
+            "Jude F. Mitchell",
+            "Shoukhrat Mitalipov",
+            "Alysson R. Moutri",
+            "J. Anthony Movshon",
+            "Hideyuki Okano",
+            "John H. Reynolds",
+            "Dario Ringach",
+            "Terrence J. Sejnowski",
+            "Afonso C. Silva",
+            "Peter L. Strick",
+            "Jun Wu",
+            "Feng Zhang"
+        ],
+        "keywords": ""
+    }
+]

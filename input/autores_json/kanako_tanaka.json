@@ -1,0 +1,384 @@
+[
+    {
+        "id": 6823,
+        "label": 128,
+        "author": "kanako tanaka",
+        "title": "Study on High Efficiency Operation-Conditions of Solid Oxide Fuel Cell and its System Evaluation.",
+        "organization": "Senior researcher at Japan Science and Technology Agency",
+        "abstract": "A solid oxide fuel cell (SOFC), its module and 1MW system using CH4 fuel are designed. The performance data of the SOFC system is calculated over a wide range of working temperatures and steam to carbon ratios (S/C). For the calculation, over-potential and electrolyte resistance values at a lower temperature than 1000 degrees C are assumed to be as the same as those actually obtained at 1000 degrees C. The SOFC system was evaluated using measures of cost and energy payback times (CPT, EPT). The calculation results using thermodynamic data showed that the generation efficiency of SOFC increased with the decrease of the working temperature. A lower temperature operation of SOFC shortened the CPT and EPT, because it enabled the application of lower cost materials, the size-reduction of equipment and the improvement of unit fuel consumption for the SOFC system. The lowering of S/C was also important to decrease the CPT and EPT. The evaluation results indicated that operating conditions of S/C=1.0 similar to 1.5 and the working temperature lower than 800 degrees C were target values to realize the SOFC system.",
+        "email": "",
+        "conf": "KAGAKU KOGAKU RONBUNSHU",
+        "coauthors": [
+            "Kanako Tanaka",
+            "Cuiqi Wen",
+            "AKIHIRO YAMAZAKI",
+            "Koichi Yamada"
+        ],
+        "keywords": "Operating conditions, Fuel consumption, Methane Performance, Solid oxide fuel cell, Payback time Temperature"
+    },
+    {
+        "id": 6819,
+        "label": 128,
+        "author": "kanako tanaka",
+        "title": "Evaluation of a Solid Oxide Fuel Cell and Gas Turbine Combined Cycle with Different Cell Component Materials",
+        "organization": "Senior researcher at Japan Science and Technology Agency",
+        "abstract": "",
+        "email": "",
+        "conf": "ECS Proceedings",
+        "coauthors": [
+            "Michihisa Koyama",
+            "Hiroshi Komiyama",
+            "Kanako Tanaka",
+            "Karin Yamada"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6822,
+        "label": 128,
+        "author": "kanako tanaka",
+        "title": "Design and evaluation of polymer-electrolyte and direct-methanol fuel cells for electric vehicles",
+        "organization": "Senior researcher at Japan Science and Technology Agency",
+        "abstract": "Fuel cells (FC) are a promising power source for electric vehicle s (EV), but they have not yet become practical for widespread application because of remaining technical difficulties. Polymer electrolyte membrane fuel cells (PEFC) are expected to become the first practical FCs, but direct methanol FCs (DMFC) use a simpler reaction mechanism than PEFCs and consume less energy. Therefore, DMFCs are attractive and are currently being developed. They are now at the experimental stage and many reports on reaction mechanisms and single-cell performance have been published. We evaluated the performance of PEFCs and DMFCs based on weight, volume, cost, CO2 emissions, and energy requirements for manufacturing and operation. We also compared the fuel efficiency and CO2 emissions of these FCs to internal combustion engine-equipped vehicles (ICEVs), and determined the travel patterns for FCEVs that minimize energy consumption. The DMFC system yielded 1.1% higher vehicle fuel economy than the PEFC system. DMFC EVs operating at a constant power output of 20 kW had fuel economy equivalent to about 23km/l for a 10.15 driving mode and 38km/l at a steady 20km/hr compared with 17km/l and 28km/l for PEFCs, respectively.",
+        "email": "",
+        "conf": "International Electric Vehicle Symposium",
+        "coauthors": [
+            "Kanako Tanaka",
+            "Cuiqi Wen",
+            "Koichi Yamada"
+        ],
+        "keywords": "Efficiency, Energy consumption, Environment, EV, Fuel cell, Heat exchange, Life cycle cost,Methanol, PEM, Simulation"
+    },
+    {
+        "id": 6817,
+        "label": 128,
+        "author": "kanako tanaka",
+        "title": "Integrated model framework for the evaluation of an SOFC/GT system as a centralized power source",
+        "organization": "Senior researcher at Japan Science and Technology Agency",
+        "abstract": "New power generation technologies are expected to reduce various environmental impacts of providing electricity to urban regions for some investment cost. Determining which power generation technologies are most suitable for meeting the demand of a particular region requires analysis of tradeoffs between costs and environmental impacts. Models simulating different power generation technologies can help quantify these tradeoffs. An Internet‐based modelling infrastructure called DOME (distributed object‐based modelling environment) provides a flexible mechanism to create integrated models from independent simulation models for different power generation technologies. As new technologies appear, corresponding simulation models can readily be added to the integrated model. DOME was used to combine a simulation model for hybrid SOFC (solid oxide fuel cell) and gas turbine system with a power generation capacity and dispatch optimization model. The integrated models were used to evaluate the effectiveness of the system as a centralized power source for meeting the power demand in Japan. Evaluation results indicate that a hybrid system using micro‐tube SOFC may reduce CO2 emissions from power generation in Japan by about 50%.",
+        "email": "",
+        "conf": "International Journal of Energy Research",
+        "coauthors": [
+            "Michihisa Koyama",
+            "Steven Kraines",
+            "Kanako Tanaka",
+            "David Wallace",
+            "Koichi Yamada",
+            "Hiroshi Komiyama"
+        ],
+        "keywords": "Solid oxide fuel cell, Fuel cell, Gas turbine"
+    },
+    {
+        "id": 6824,
+        "label": 128,
+        "author": "kanako tanaka",
+        "title": "CO2 mitigation with new energy systems",
+        "organization": "Senior researcher at Japan Science and Technology Agency",
+        "abstract": "CO2 emission rates from commercial and residential sectors, as well as transportation, are high. Applications of solar energy as a fuel-switching measure and of fuel cells for energy-efficiency improvement can reduce CO2 emissions from these sectors. Photovoltaic (PV) energy systems using roof-top cells, cogeneration systems with solid oxide fuel cells (SOFCs), and electric vehicles with a hybrid system of SOFCs and batteries are considered and their utility in CO2 mitigation is discussed. Possible reductions in CO2 emissions are estimated to be 43 million tons per year as carbon (Mt-C/y) in Japan.",
+        "email": "",
+        "conf": "Energy",
+        "coauthors": [
+            "Koichi Yamada",
+            "Kanako Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6804,
+        "label": 128,
+        "author": "kanako tanaka",
+        "title": "Green fiscal reform for a just energy transition in Latin America",
+        "organization": "Senior researcher at Japan Science and Technology Agency",
+        "abstract": "Green fiscal reforms would contribute to climate change mitigation, increase the economic efficiency of national tax systems and provide additional public revenues. Some countries in Latin America have already taken first steps towards green fiscal reforms. This paper provides an overview of the major challenges for the successful implementation of such reforms and discusses how they could be overcome. The authors first discuss the role of country-specific economic and political enabling conditions that need to be in place for successful implementation for green successful reforms. Second, they emphasize the importance of comprehensive reform plans that include all relevant ministries and agencies and are well-aligned with other policy objectives, such as energy security and industrial development. Third, they highlight how appropriate sequencing and gradualism could lower implementation costs and hence increase the political feasibility of green fiscal reforms. Finally, the authors analyze the potential impacts of green fiscal reforms on the distribution of income and discuss transfer schemes that could avoid adverse outcomes for the poorest parts of the population. They use these four dimensions to illustrate why recent reform efforts in selected Latin American countries have been successful or have failed, respectively.",
+        "email": "",
+        "conf": "Economics",
+        "coauthors": [
+            "Michael Jakob",
+            "Rafael Soria",
+            "Carlos Trinidad",
+            "Celine Bak",
+            "Daniel Bouille",
+            "Daniel Buira",
+            "Heman Carlino",
+            "Veronica Gutman",
+            "Christian Hubner",
+            "Brigitte Knopf",
+            "Andre Lucena",
+            "Luan Santos",
+            "Andrew Scott",
+            "Jan Christoph Steckel",
+            "Kanako Tanaka",
+            "Adrien Vogt-Schilb",
+            "Kolchi Yamada"
+        ],
+        "keywords": "Green fiscal reform, energy subsidies, Latin America, Multi-objective Climate Policy, Sequencing, Distribution"
+    },
+    {
+        "id": 6810,
+        "label": 128,
+        "author": "kanako tanaka",
+        "title": "A Forecasting Model for Power Consumption in the Area Supplied by the Tokyo Electric Power Company",
+        "organization": "Senior researcher at Japan Science and Technology Agency",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Daisuke Kato",
+            "Kanako Tanaka",
+            "Michinori Kimura",
+            "Tomoko Iwata",
+            "Ryuji Matsuhashi",
+            "Koichi Yamada"
+        ],
+        "keywords": "power consumption,forecasting model,saving electricity"
+    },
+    {
+        "id": 6807,
+        "label": 128,
+        "author": "kanako tanaka",
+        "title": "Industry. In: Climate Change 2014: Mitigation of Climate Change. Contribution of Working Group III to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change",
+        "organization": "Senior researcher at Japan Science and Technology Agency",
+        "abstract": "This chapter provides an update to developments on mitigation in the industry sector since the IPCC (Intergovernmental Panel on Climate Change) Fourth Assessment Report (AR4) (IPCC, 2007), but has much wider coverage. Industrial activities create all the physical products (e.g., cars, agricultural equipment, fertilizers, textiles, etc.) whose use delivers the final services that satisfy current human needs. Compared to the industry chapter in AR4, this chapter analyzes industrial activities over the whole supply chain, from extraction of primary materials (e.g.,ores) or recycling (of waste materials), through product manufacturing, to the demand for the products and their services. It includes a discussion of trends in activity and emissions, options for mitigation (technology, practices, and behavioural aspects), estimates of the mitigation potentials of some of these options and related costs, co-benefits, risks and barriers to their deployment, as well as industry - specific policy instruments. Findings of integrated models (long -term mitigation pathways) are also presented and discussed from the sector perspective. In addition, at the end of the chapter, the hierarchy in waste management and mitigation opportunities are synthesized,covering key waste -related issues that appear across all chapters in the Working Group III contribution to the Fifth Assessment Report.",
+        "email": "",
+        "conf": "Pacific Northwest National Lab.(PNNL)",
+        "coauthors": [
+            "Manfred Fischedick",
+            "Joyashree Roy",
+            "A. Abdel-Aziz",
+            "Adolf Acquaye",
+            "Julian Allwood",
+            "Jean-Paul Ceron",
+            "Yong Geng",
+            "Haroon Kheshgi",
+            "Alessandro Lanza",
+            "Daniel Perczyk",
+            "Lynn Price",
+            "Estela Santalla",
+            "Claudia Sheinbaum",
+            "Kamako Tanaka",
+            "Giovanni Baiocchi",
+            "Katherine V Delgado",
+            "Salah El Haggar",
+            "Tobiass Fleiter",
+            "Ali Hassanbeigi",
+            "Samuel Holler",
+            "Jessica Jewell",
+            "Yacob Mulugetta",
+            "Maarten Neelis",
+            "Stephane de la Rue du Can",
+            "Nickolas Themelis",
+            "Kramadhati S Venkatagiri",
+            "Maria Yetano Roche",
+            "Valentin Nenov"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6821,
+        "label": 128,
+        "author": "kanako tanaka",
+        "title": "Guidance Papers on the Cross Cutting Issues of the Third Assessment Report of the IPCC",
+        "organization": "Senior researcher at Japan Science and Technology Agency",
+        "abstract": "The Intergovernmental Panel on Climate Change (IPCC) completed its Second Assessment Report in 1995. The IPCC has three Working Groups that focus on different aspects of climate change, viz. natural science, impacts, and mitigation. However, there are several issues that are common to these working groups, such as the consistent use of terms and conceptual frameworks. For the Third Assessment Report (TAR), the IPCC recognizes the importance of consistency within the output of the three Working Groups in dealing with",
+        "email": "",
+        "conf": "INTERGOVERNMENTAL PANEL ON CLIMATE CHANGE",
+        "coauthors": [
+            "Kanako Tanaka",
+            "Tomihiro Taniguchi",
+            "Anil Markandya",
+            "Mohan Munasinghe"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6806,
+        "label": 128,
+        "author": "kanako tanaka",
+        "title": "An Integrated Contribution Approach Focusing on Technology for Climate Change Mitigation and Promotion of International Technology Cooperation and Transfer",
+        "organization": "Senior researcher at Japan Science and Technology Agency",
+        "abstract": "Various technologies exist for climate change mitigation. Technology transfer is important for the efficient use of these technologies globally. Such transfer/cooperation should be implemented, at sector basis, broadly and unlimitedly beyond conventional framework. In this paper, an Integrated Contribution Approach is proposed as a domestic as well as a global strategy. This approach unifies two approaches: seeking ways to reduce greenhouse gas (GHG) emissions, further improve technical capabilities and encourage technical innovation; and implementing technology transfer effectively, clarifying contributions and promoting efforts to achieve substantial global GHG reduction. As an illustration, this paper estimated the technical potential of solar generation in the developing world by the year 2020, considering current and anticipated technology development. The estimate suggests a huge possibility for CO2 reduction as well as business opportunities through worldwide technology cooperation based on recognition of the importance of continual technology development. To achieve such goals, a scheme promoting incentives for private investment is indispensable as it is essential to use economic forces as well as government policy. This paper describes the following considerations: establishing a simple, easy-to-access scheme that can concentrate private resources on technology transfer; clarifying reduction efforts through measuring, reporting, and verification (MRV); applying it to conditionality together with financial and/or economic internal rate of return (FIRR, EIRR); and establishing a database and analysing data on the technical contributions and dissemination of projects.",
+        "email": "",
+        "conf": "Low Carbon Economy",
+        "coauthors": [
+            "Kanako Tanaka",
+            "Ryuji Matsuhashi",
+            "Koichi Yamada"
+        ],
+        "keywords": "Technology Transfer, Integrated Contribution Approach, Energy Efficiency, Climate Change Mitigation, MRV"
+    },
+    {
+        "id": 6809,
+        "label": 128,
+        "author": "kanako tanaka",
+        "title": "A comparison study of EU and Japan methods to assess CO2 emission reduction and energy saving in the iron and steel industry",
+        "organization": "Senior researcher at Japan Science and Technology Agency",
+        "abstract": "Information on energy consumption and carbon dioxide (CO2) emissions from the iron and steel industry may become important to the assessment of energy saving and the design of emissions trading schemes. This paper focuses monitoring aspects, used two methods to calculate CO2 emission, the European Union Emission Trading Scheme and a method developed by the Japanese Iron and Steel Federation, to investigate the effect of the accounting method on the assessment of energy saving by four model steel mills with different levels of energy efficiency. Depending on the calculation method used, the calculated energy savings and calculated CO2 emissions for a given mill were found to differ from 5% to 15% and 4% to 14% respectively, simply by using different calculation methods. Methodologies that evaluate only CO2 emission and track emissions by process may not fully account for energy saving efforts such as using waste heat, generating power using byproduct gases, and energy management efforts applied over the whole mill rather than on a single process. Points of concern in the iron and steel industry are identified in the areas of calculating energy saving, determining CO2 emissions, and setting benchmarks.",
+        "email": "tanaka.kanako@jst-lcs.jp",
+        "conf": "Energy Policy",
+        "coauthors": [
+            "Kanako Tanaka"
+        ],
+        "keywords": "CO2 emissions monitoring/benchmarking,Emission tradingIron steel industry"
+    },
+    {
+        "id": 6814,
+        "label": 128,
+        "author": "kanako tanaka",
+        "title": "ASSESSING MEASURES OF ENERGY EFFICIENCY PERFORMANCE AND THEIR APPLICATION IN INDUSTRY",
+        "organization": "Senior researcher at Japan Science and Technology Agency",
+        "abstract": "This paper explores different measures of energy efficiency performance (hereafter referred to as 'MEEP'): absolute energy consumption, energy intensity, diffusion of specific energy-saving technology and thermal efficiency. It discusses their advantages and disadvantages and their roles within policy frameworks. MEEP may be necessary at several stages during policy design: in a developing regulatory framework; during the actual application; and in evaluation after policy implementation. Policy makers should consider the suitability of MEEP at each of these stages, based on criteria such as reliability, feasibility and verifiability. The paper considers the importance of so-called boundary definitions when measuring energy performance, and how these affect the appropriateness of country comparisons to guide policy decisions. The paper also addresses the limitations of both energy intensity and technology diffusion indicators as measures of energy efficiency performance. A case study on Japan's iron and steel industry illustrates the critical role of proper boundary definitions for a meaningful assessment of energy efficiency in industry. Depending on the boundaries set for the analysis, the energy consumption per ton of crude steel ranges from 16 to 21 GJ. Both a proper understanding of various methods to assess energy efficiency and the linkage with policy objectives and frameworks are important. Using the diffusion rates of specific energy-efficient processes is a technology-oriented approach which seeks to encourage the retrofitting or replacement of less efficient equipment. There are fewer boundary problems using diffusion rates than by calculating energy consumption.",
+        "email": "",
+        "conf": "International Energy Agency, OECD/IEA",
+        "coauthors": [
+            "Kanako Tanaka"
+        ],
+        "keywords": "01 COAL, LIGNITE, AND PEAT; COAL; PERFORMANCE; METAL INDUSTRY; JAPAN; IRON ORES; ENERGY CONSUMPTION; ENERGY CONSERVATION; CARBON DIOXIDE; COKE; QUENCHING; MITIGATION; BOUNDARY CONDITIONS; ENERGY BALANCE; INDUSTRY; THERMAL EFFICIENCY; BENCHMARKS; ENERGY EFFICIENCY; COKING"
+    },
+    {
+        "id": 6815,
+        "label": 128,
+        "author": "kanako tanaka",
+        "title": "Contribution of working group III to the fourth assessment report of the intergovernmental panel on climate change",
+        "organization": "Senior researcher at Japan Science and Technology Agency",
+        "abstract": "",
+        "email": "",
+        "conf": "Cambridge University",
+        "coauthors": [
+            "L. Bernstein",
+            "Joyashree Roy",
+            "K.C. Delhotal",
+            "Z. Fengqi"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6812,
+        "label": 128,
+        "author": "kanako tanaka",
+        "title": "The 25 IEA energy efficiency policy recommendations to the G8 Gleneagles Plan of Action",
+        "organization": "Senior researcher at Japan Science and Technology Agency",
+        "abstract": "The imperative to pursue energy efficiency improvements is clearly on the political agenda at all levels of governments. This paper explores the lessons from past attempts at galvanising international efforts to expand energy efficiency activities through the use of international-level recommendations. Drawing on these lessons, the paper outlines the IEA response to the call for policy advice on energy efficiency through the G8 Gleneagles Plan of Action. Specifically, the paper outlines a ‘necessary conditions’ framework that was used to develop a set of energy efficiency policy priorities and describes the subsequent recommendations presented to the G8 in Hokkaido–Toyako Summit in 2008. The recommendations cover 25 fields of action in seven priority areas: buildings, appliances, lighting, transport, industry, energy utilities and cross-sectoral issues. Together, the suite of recommendations sets out an ambitious road map for global energy efficiency improvement. If implemented globally without delay, they could save around 8.2 GtCO2/yr or 96 EJ/yr by 2030. This is equivalent to roughly twice the current total EU energy-related CO2 emissions.",
+        "email": "",
+        "conf": "Energy Policy",
+        "coauthors": [
+            "Nigel Jollands",
+            "Paul Waide",
+            "Mark Ellis",
+            "Takao Onoda",
+            "Alan Meier"
+        ],
+        "keywords": "Energy efficiency,Policy,G8"
+    },
+    {
+        "id": 6816,
+        "label": 128,
+        "author": "kanako tanaka",
+        "title": "CO2 reduction potential by energy efficient technology in energy intensive industry",
+        "organization": "Senior researcher at Japan Science and Technology Agency",
+        "abstract": "There should be a variety of approaches to improve problems existing Kyoto protocol and make the future framework widely acceptable to most of countries. However, various national circumstances, such as economy, political/social structure, capacity of industry/technology, resources and geographical features, cause confliction of interests so that the realization of equitable decision and discussion of future framework are expected to be difficult. Therefore it is necessary that various information is grasped more precisely while considering circumstances between each countries. For example, information of energy technology such as energy efficiency or cost is uneven in a value by various difference (for example, available technology/fuel, a nature and ability of a market, regulation, a difference of a demand side) and evaluation objects (facilities, a factory, a complex) by an area or difference in way of boundary setting. Accordingly, we focus at a framework based on technology, which ensures more equitable scheme, attempt to establish evaluation criteria for them, and provide useful information to domestic/international discussion on this issue. In this research, through doing quantification of CO2 reduction potential with technology in industry, problems and requirements for the indexization were identified.",
+        "email": "kanako.tanaka@tky.ieej.or.jp",
+        "conf": "Industry Expert Review Meeting to the Fourth Assessment of Working Group",
+        "coauthors": [
+            "Kanako Tanaka",
+            "Ryuji Matsuhashi",
+            "Masahiro Nishio",
+            "Hiroki Kudo"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6813,
+        "label": 128,
+        "author": "kanako tanaka",
+        "title": "Assessment of energy efficiency performance measures in industry and their application for policy",
+        "organization": "Senior researcher at Japan Science and Technology Agency",
+        "abstract": "Energy efficiency improvement is a basic yet significant way of addressing both energy security and environment concerns. There are various measures of industrial energy efficiency performance, with different purposes and applications. This paper explores different ways to measure energy efficiency performance (MEEP): absolute energy consumption, energy intensity, diffusion of specific energy-saving technology and thermal efficiency. It discusses their advantages and disadvantages, and roles within policy frameworks. Policy makers should consider the suitability of MEEP based on criteria such as reliability, feasibility and verifiability. The limitations of both energy intensity and necessity of broader all-inclusive indicators and technology diffusion indicators are also discussed. A case study on Japan's iron and steel industry illustrates the critical role of proper boundary definitions for a meaningful assessment of energy efficiency in industry. Depending on the boundaries set for the analysis, the energy consumption per ton of crude steel ranges from 16 to 21 GJ. This paper stresses the importance of a proper understanding of various methods to assess energy efficiency, and the linkage with policy objectives and frameworks. Possible next steps for improvement of MEEP, such as database development, were also discussed.",
+        "email": "kanako.tanaka@iea.org",
+        "conf": "Energy Policy",
+        "coauthors": [
+            "Kanako Tanaka"
+        ],
+        "keywords": "Energy efficiency indicator,Steel industry,Boundary definitions"
+    },
+    {
+        "id": 6805,
+        "label": 128,
+        "author": "kanako tanaka",
+        "title": "Global value chain assessment based on retrospectively induced economic costs associated with technology application: A case study of photovoltaic power system in Japan",
+        "organization": "Senior researcher at Japan Science and Technology Agency",
+        "abstract": "Global warming is a worldwide problem that requires an international strategy to ensure compatibility of economic growth and overcoming climate change. Although global use of low-carbon technology is a solution, consideration of economic consequences is important to promote future technology development and use. Photovoltaic (PV) solar power system is a promising renewable technology that carries climate mitigation expectations. We conducted a value chain analysis to evaluate the economic effect of the manufacture and use of silicon PV solar power system worldwide. We quantitatively reviewed the flow of manufacturing and installation for cells, modules, and facilities (e.g., inverters) related to Japan, and estimated the retrospectively induced economic costs for Japan and other developed and developing countries. Material, equipment, labor, utility, transportation, and business operation costs were studied in detail at different manufacturing and installation stages. This unique evaluation methodology quantified economic costs from an international perspective. The retrospectively induced economic effect of 2014 PV solar power system sales in Japan (induced by cell module and system production by Japanese companies and increased domestic use) was 1.6 trillion Japanese yen worldwide, of which 63% was attributable to Japan, 10% to other developed countries, and 27% to developing countries. The economic effect in Japan in terms of equipment cost and installation stage was 37% and 71% of the total effect, which was particularly high. Further technical improvement, cost reduction, and improvement in inverter and manufacturing equipment reliability are important to capitalize Japan's strengths. Currently, Japan's involvement in the manufacturing of cells and modules is small. Therefore, both technical innovation and cost reduction are necessary. We present new methodology to obtain inputs into policy development for further research, development, and technology diffusion.",
+        "email": "tanaka.kanako@jst-lcs.jp;kanako.f.tanaka@gmail.com",
+        "conf": "Journal of Cleaner Production",
+        "coauthors": [
+            "Kanako Tanaka",
+            "Toshihiro Inoue",
+            "Ryuji Matsuhashi",
+            "Koichi Yamada"
+        ],
+        "keywords": "Technology diffusion,Solar power system,Value chain analysis,Climate change mitigation strategy"
+    },
+    {
+        "id": 6820,
+        "label": 128,
+        "author": "kanako tanaka",
+        "title": "Design and Evaluation of Combined Cycle System with Solid Fuel Cell and Gas Turbine",
+        "organization": "Senior researcher at Japan Science and Technology Agency",
+        "abstract": "This study describes the basic design/evaluation of a combined cycle power generation system using solid oxide fuel cells in conjunction with a gas turbine. Factors included are system performance and cost/energy pay-back times (CPT/EPT). Total generation efficiency (Eth) was analyzed from the standpoint of plant size, cell performance, working pressure/temperature, steam carbon ratio, fuel/air utilization ratios (Uf/Ua) and turbine inlet temperature (TIT). A calculation method for determining the system life cycle cost and input energy requirements is also proposed. Results show that Eth is higher than that for conventional power plants; it has a working temperature/ pressure of 1073 K/0.4 MPa, Eth=68.3% with CPT=9.3years and EPT=0.71years with load following capability from 60 to 121% nominal load. The main parameters for determining Eth, CPT and EPT were found to be working temperature, cell performance, Ua and TIT limitation. Also discussed in detail are development areas and targets.",
+        "email": "",
+        "conf": "Fuel",
+        "coauthors": [
+            "Kanako Tanaka",
+            "Cuiqi Wen",
+            "K. Yamada"
+        ],
+        "keywords": "Solid oxide fuel cell,Combined cycle system,Life cycle analysis,Economics and environment"
+    },
+    {
+        "id": 6808,
+        "label": 128,
+        "author": "kanako tanaka",
+        "title": "A Trend Analysis of Power Consumption in the Greater Tokyo and Osaka Areas for 2010 2011 and 2012",
+        "organization": "Senior researcher at Japan Science and Technology Agency",
+        "abstract": "",
+        "email": "",
+        "conf": "Environmental information science",
+        "coauthors": [
+            "Daisuke Kato",
+            "Kanako Tanaka",
+            "Michinori Kimura",
+            "Koichi Yamada"
+        ],
+        "keywords": "power consumption,forecasting model,saving electricity,power demand"
+    },
+    {
+        "id": 6811,
+        "label": 128,
+        "author": "kanako tanaka",
+        "title": "Review of policies and measures for energy efficiency in industry sector",
+        "organization": "Senior researcher at Japan Science and Technology Agency",
+        "abstract": "Energy efficiency in industry plays key roles in improving energy security, environmental sustainability and economic performance. It is particularly important in strategies to mitigate climate change. The evidence of great potential for cost-effective efficiency-derived reductions in industrial energy use and greenhouse gas (GHG) emissions have prompted governments to implement numerous policies and measures aimed at improving their manufacturing industries’ energy efficiency. What can be learned from these many and varied initiatives? This paper provides foundation for policy analysis for enhancing energy efficiency and conservation in industry, by surveying more than 300 policies, encompassing about 570 measures, implemented by governments in IEA countries, Brazil, China, India, Mexico, Russia and South Africa. It outlines the measures’ main features, their incidence of use, and their connections with specific technical actions and key stakeholders (i.e., how and where measures affect the energy efficiency of industry). It also examines the key features underlying the measures’ success: (1) potential to reduce energy use and CO2 emissions cost-efficiently; (2) ease of policy development, execution and assessment and (3) ancillary societal effects.",
+        "email": "tanaka.kanako@jst-lcs.jp",
+        "conf": "Energy Policy",
+        "coauthors": [
+            "Kanako Tanaka"
+        ],
+        "keywords": "Industry energy efficiency,Policy review,Typology and categorization"
+    },
+    {
+        "id": 6818,
+        "label": 128,
+        "author": "kanako tanaka",
+        "title": "Optimization of a Heating Cooling and Power Generation District Unit based on a Solid Oxide Fuel Cell - Gas Turbine Combined Cycle from the Viewpoints of Cost and CO2 Emissions",
+        "organization": "Senior researcher at Japan Science and Technology Agency",
+        "abstract": "In this paper, a district heating, cooling and power generation unit has been evaluated from the viewpoints of cost and CO2 emissions. The superstructure considered includes a solid oxide fuel cell and gas turbine (SOFC-GT) combined cycle, a compression heat pump, an absorption chiller, a compression chiller and an additional boiler. Both physical and costing modeling has been developed for evaluating the economics and environmental benefits associated with the design and the operation of several possible configurations for given",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Meinrad Burer",
+            "Daniel Favrat",
+            "Koichi Yamada",
+            "Kanako Tanaka"
+        ],
+        "keywords": ""
+    }
+]

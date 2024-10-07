@@ -1,0 +1,152 @@
+[
+    {
+        "id": 5658,
+        "label": 114,
+        "author": "sungsoo kim",
+        "title": "Sa1975 - Survival Analysis Based on Relationship Between Lewis Antigen and Carbohydrate Antigen 19-9 in 1115 Patiens with Pancreatic Cancer in 1115 Asian Population",
+        "organization": "The University of Texas Austin",
+        "abstract": "Recent data shows that the incidence of colorectal cancer (CRC) in adults< 50 years is increasing in the US. The aims of our study were to investigate 1. Whether the mortality rate of CRC varies when stratified by age, gender and race and 2. The relative survival rates among groups with increasing mortality rates based on TNM staging classification at diagnosis. Methods: The annual percent change (APC) in mortality rate (2000-2014) per 100,000 and the five-year relative survival rate (2007-2013) of CRC were",
+        "email": "",
+        "conf": "Gastroenterology",
+        "coauthors": [
+            "Sohee Kwon, Sungsoo Kim, Hee Seung Lee, Jeong Youp Park, Kwang Joon Kim, Mia K. Markey, Alan C. Bovik, Seungmin Bang, Seung Woo Park, Si Young Song, Jae Bock Chung, Moon Jae Chung"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5656,
+        "label": 114,
+        "author": "sungsoo kim",
+        "title": "Adversarial Video Compression Guided by Soft Edge Detection",
+        "organization": "The University of Texas Austin",
+        "abstract": "We propose a video compression framework using conditional Generative Adversarial Networks (GANs). We rely on two encoders: one that deploys a standard video codec and another which generates low-level maps via a pipeline of down-sampling, a newly devised soft edge detector, and a novel lossless compression scheme. For decoding, we use a standard video decoder as well as a neural network based one, which is trained using a conditional GAN. Recent \"deep\" approaches to video compression require multiple videos to pre-train generative networks to conduct interpolation. In contrast to this prior work, our scheme trains a generative decoder on pairs of a very limited number of key frames taken from a single video and corresponding low-level maps. The trained decoder produces reconstructed frames relying on a guidance of low-level maps, without any interpolation. Experiments on a diverse set of 131 videos demonstrate that our proposed GAN-based compression engine achieves much higher quality reconstructions at very low bitrates than prevailing standard codecs such as H.264 or HEVC.",
+        "email": "",
+        "conf": "arvix preprint",
+        "coauthors": [
+            "Sungsoo Kim, Jin Soo Park, Christos G. Bampis, Jaeseong Lee, Mia K. Markey, Alexandros G. Dimakis, Alan C. Bovik"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5657,
+        "label": 114,
+        "author": "sungsoo kim",
+        "title": "Sa1370 - Ca19-9 Nadir Within the First 12 Weeks of Chemotherapy Predicts Overall Survival in Patients with Advanced Pancreatic Cancer",
+        "organization": "The University of Texas Austin",
+        "abstract": "Small intestinal bacterial overgrowth (SIBO) has been associated with symptoms ranging from abdominal bloating to diarrhea. SIBO is treated with non-specific antibiotics and has a high reported recurrence rate (40%). The gold standard diagnostic test for SIBO is quantitative culture of duodenal aspirates without consideration for the microbial community membership or uncultured species. Therefore quantitative cultures fail to distinguish overgrowth of potentially beneficial vs harmful bacteria. Aim: To compare the",
+        "email": "",
+        "conf": "Gastroenterology",
+        "coauthors": [
+            "Sungsoo Kim, Sohee Kwon, Hee Seung Lee, Kwang Joon Kim, Mia K. Markey, Alan C. Bovik, Jeong Youp Park, Seungmin Bang, Seung Woo Park, Si Young Song, Jae Bock Chung, Moon Jae Chung"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5664,
+        "label": 114,
+        "author": "sungsoo kim",
+        "title": "Capacity and performance of lattice reduction aided linear processing with lattice encoding and decoding in limited feedback systems",
+        "organization": "The University of Texas Austin",
+        "abstract": "Linear processing for multi-input multi-output (MIMO) antenna systems is preferred to non-linear ones for computational efficiency. Using channel state information (CSI) at the receiver, channel matrix can be decomposed via singular value decomposition (SVD), and if the transmitter can be fed back with the right-unitary-matrix of the SVD from the receiver, the maximum channel-capacity can be achieved with linear processing in point-to-point wireless MIMO communications. However, if the transmitter receives no-feedback, the optimal linear detector at the receiver is the minimum-mean-squareerror- estimator, of which capacity is far below the channelcapacity. In practice, reducing the amount of feedback information to achieve a \"reasonably close channel-capacity\" is an important issue in point-to-point wireless communications. In this paper, we propose a limited feedback system employing linear processing, which achieves near-channel-capacity. The feedback information is only an integer matrix, which is much less than that of the right-unitary-matrix of the SVD. Key ideas of the proposed scheme are the lattice reduction and modulo operation. Moreover, the amount of feedback information can be further reduced to a binary matrix using multi-level/multi-stage encode and decode. Under the turbo channel code the proposed scheme shows excellent performance at high data rates. We compare our simulation results with Shannon capacity limits for ergodic MIMO channels.",
+        "email": "",
+        "conf": "IEEE Journal on Selected Areas in Communications",
+        "coauthors": [
+            "limited feedback,MIMO receiver,wireless communications,lattice reduction,channel code,multi-level code,linear precoder/ detector,soft modulo"
+        ],
+        "keywords": "limited feedback,MIMO receiver,wireless communications,lattice reduction,channel code,multi-level code,linear precoder/ detector,soft modulo"
+    },
+    {
+        "id": 5662,
+        "label": 114,
+        "author": "sungsoo kim",
+        "title": "Codebook-Based Lattice-Reduction-Aided Precoding for Limited-Feedback Coded MIMO Systems",
+        "organization": "The University of Texas Austin",
+        "abstract": "Lattice-reduction-aided precoding (LRP) provides near-capacity rates with the use of low-complexity linear receivers for coded multiple-input multiple-output (MIMO) systems. However, a large amount of feedback in the feedback for an integer or binary precoding matrix has been a bottleneck in its implementation. In this paper, we propose a codebook-based LRP scheme for limited-feedback coded MIMO systems. The proposed LRP scheme follows the fundamentals of the previous LRP scheme that employed multilevel binary coset coding so that the precoding matrix is binary. In the proposed LRP scheme, the conventional precoding matrix obtained from the Lenstra-Lenstra-Lovasz algorithm is modified to specific forms that are predefined in a codebook set. The new precoding matrix is selected such that the lower bound on the capacity is maximized for a given codebook set, while the codebook set is designed offline such that the upper bound of the average capacity loss induced by the limitation on the codebook size is minimized. The simulation results show that the proposed LRP scheme nearly achieves the achievable rate of the conventional LRP scheme with a greatly reduced amount of feedback.",
+        "email": "",
+        "conf": "IEEE Transactions on Communications",
+        "coauthors": [
+            "Hyun Jong Yang",
+            "Joohwan Chun",
+            "Youngchol Choi",
+            "Sungsoo Kim",
+            "Arogyaswami Paulraj"
+        ],
+        "keywords": "Lattice-reduction (LR)-aided precoding,limited-feedback,linear multiple-input multiple-output (MIMO) detection"
+    },
+    {
+        "id": 5659,
+        "label": 114,
+        "author": "sungsoo kim",
+        "title": "ENTROPY OF FIBRILLATORY WAVES CONTRIBUTES TO DIFFERENTIATING PAROXYSMAL FROM PERSISTENT AND PERMANENT ATRIAL FIBRILLATION",
+        "organization": "The University of Texas Austin",
+        "abstract": "In previous work, we demonstrated that Root Mean Square (RMS), Dominant Frequency (DF) may differentiate atrial fibrillation (AF) into Paroxysmal (PAF), Persistent (PeAF), and Permanent (PmAF) AF. Here, we further proposes quantized Approximate Entropy (qApEn), quantized Shannon Entropy (qSE) and Mean Frequency (MF) for analysis of fibrillatory wave. Methods: 224 patients were enrolled: 112 PAF (61.6±12.5 years), 48 PeAF (55.6±13.1 years), 64 PmAF (65.3±9.3 years). Lead II of ECG were analyzed to extract",
+        "email": "",
+        "conf": "Journal of the American College of Cardiology",
+        "coauthors": [
+            "Sungsoo Kim, Sohee Kwon, Ira Blau, Hye Jin Hwang, Junbeom Park, Moon-Hyoung Lee, Lindsey Krawchuk, Nicholas Meyers,Byung-Il Choi"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5663,
+        "label": 114,
+        "author": "sungsoo kim",
+        "title": "The Gaussian two-way relay channel with wiretapper",
+        "organization": "The University of Texas Austin",
+        "abstract": "Secrecy capacity is analyzed in a Gaussian two-way relay wiretap channel (TRWC), where two legitimate source nodes wish to exchange their messages through a relay in the presence of an eavesdropper. We assume that all intended nodes operate in full-duplex mode and there is no direct path between two sources. In the Gaussian TRWC, we propose an achievable coding scheme composed of superposed lattice codes with both structured and random codebooks. A jamming strategy is further introduced at the two sources as well as at the relay to maximize the achievable secrecy rate regions, where each node allocates part of its power to jam the eavesdropper. Our result indicates that positive achievable secrecy rates are maintained even for the reversely degraded scenario. In addition, assuming two sources with equal power constraint, it is shown that the scheme asymptotically achieves within 1/2 bit from the cut-set bound based on the channel with no secrecy constraints, as the downlink phase is in the high signal-to-noise ratio regime",
+        "email": "",
+        "conf": "Circuits Systems and Computers 1977. Conference Record. 1977 11th Asilomar Conference on",
+        "coauthors": [
+            "Sungsoo Kim",
+            "Won-Yong Shin",
+            "Koji Ishibashi"
+        ],
+        "keywords": "Relays,Encoding,Jamming,Lattices,Upper bound,Downlink,Vectors,Gaussian two-way relay wiretap channel,secrecy capacity,source nodes,eavesdropper,full-duplex mode,superposed lattice codes,structured codebooks,random codebooks,jamming strategy,secrecy rate regions,secrecy constraints,cut-set bound,signal-to-noise ratio"
+    },
+    {
+        "id": 5665,
+        "label": 114,
+        "author": "sungsoo kim",
+        "title": "Network Coding with Linear MIMO Pre-Equalizer Using Modulo in Two-Way Channel",
+        "organization": "The University of Texas Austin",
+        "abstract": "Previous researches regard the signals from other users as interfereces to be avoided in wireless ad-hoc network systems (e.g, IEEE 802.11/16). However, if the purpose of ad-hoc communications is relaying information from one node to another node through the third node, we can apply the network coding (NC) at the physical layer to increase a capacity by regarding a received signal from different nodes as one added signal. In this papar, we combine NC for MIMO relay systems with a linear pre-equalizer. For examples, zero-forcing (ZF) or lattice reduction-aided ZF pre-equalizers is used at each transmitter. We have evaluated the proposed system by comparing uncoded BER performance with those of several one-way relaying scheme focused on phase 1 mainly, because the overall performance is upperbounded by that of phase 1. The proposed system increases a multiplexing gain twice, maintaining a same diversity order, compared to one-way relaying. Finally, we combine the lattice encoder and the decoder to achieve an optimal capacity of the proposed scheme",
+        "email": "",
+        "conf": "IEEE Wireless Communications and Networking Conference",
+        "coauthors": [
+            "Sungsoo Kim",
+            "Joohwan Chun"
+        ],
+        "keywords": "Network coding,MIMO,Relays,Peer to peer computing,Decoding,Interference,Lattices,Bit error rate,Performance gain,Broadcasting"
+    },
+    {
+        "id": 5660,
+        "label": 114,
+        "author": "sungsoo kim",
+        "title": "EFFICACY OF SCATTERGRAM ANALYSIS FOR CLASSIFYING SUBTYPES OF ATRIAL FIBRILLATION BY FOURIER TRANSFORM OF FIBRILLATORY WAVES",
+        "organization": "The University of Texas Austin",
+        "abstract": "In our previous studies, we demonstrated that Root Mean Square (RMS) and Dominant Frequency (DF) could differentiate Atrial Fibrillation (AF) into paroxysmal AF (PAF) from persistent AF (PeAF) and Permanent AF (PeAF). Here, we further analyzed data generated by scattergram display using RMS and DF coordinates simultaneously to find more reliable cutoff values to classify AF subtypes. Methods: A total of 224 AF patients were enrolled: 112 PAF (61.6±12.5 years), 48 PeAF (55.6±13.1 years), 64 PmAF (65.3±9.3 years)",
+        "email": "",
+        "conf": "Journal of the American College of Cardiology",
+        "coauthors": [
+            "Sungsoo Kim, Sohee Kwon, Ira Blau, Junbeom Park, Moon-Hyoung Lee, Lindsey Krawchuk, Nicholas Meyers and Byung-Il Choi"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5661,
+        "label": 114,
+        "author": "sungsoo kim",
+        "title": "Tracking Cognitive Decline in Amnestic Mild Cognitive Impairment and Early-Stage Alzheimer Dementia: Mini-Mental State Examination versus Neuropsychological Battery",
+        "organization": "The University of Texas Austin",
+        "abstract": "Although the Mini-Mental State Examination (MMSE), Clinical Dementia Rating-Sum of Boxes (CDR-SOB), and neuropsychological batteries are widely used for evaluating cognitive function, it remains elusive which instrument best reflects the longitudinal disease progression in amnestic mild cognitive impairment (aMCI) and probable Alzheimer disease (AD). We investigated whether changes in these three instruments over time correlate with loss of cortical gray matter volume (cGMV). We retrospectively investigated 204 patients (aMCI, n = 114; AD, n = 90) who had undergone MMSE, CDR-SOB, the dementia version of the Seoul Neuropsychological Screening Battery (SNSB-D), and 3-dimensional T1-weighted magnetic resonance images at least twice. We investigated the partial correlation between annual decline in test scores and percent change of cGMV. In aMCI patients, changes in the SNSB-D total score (r = 0.340, p < 0.001) and CDR-SOB (r = 0.222, p = 0.020), but not MMSE, showed a correlation with cGMV loss, with the SNSB-D total score showing the strongest correlation. In AD patients, decline in all three test scores correlated significantly with cGMV loss, with MMSE exhibiting the strongest correlation (r = 0.464, p < 0.001). In aMCI patients, neuropsychological battery, though time-consuming, was the most adequate tool in tracking disease progression. In AD patients, however, MMSE may be the most effective longitudinal monitoring tool when considering cost-effectiveness.",
+        "email": "",
+        "conf": "Dementia and Geriatric Cognitive Disorders",
+        "coauthors": [
+            "Joonho Kim",
+            "Han Kyu Na",
+            "Justin Byun",
+            "Duk L Na"
+        ],
+        "keywords": "Alzheimer disease,Mild cognitive impairment,Mini-Mental State Examination,Neuropsychological tests,Longitudinal study,Magnetic resonance imaging"
+    }
+]

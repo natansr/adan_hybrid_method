@@ -1,0 +1,238 @@
+[
+    {
+        "id": 2419,
+        "label": 52,
+        "author": "daniel a epstein",
+        "title": "Fine-grained sharing of sensed physical activity: A value sensitive approach",
+        "organization": "Assistant Professor University of California Irvine",
+        "abstract": "Personal informatics applications in a variety of domains are increasingly enabled by low cost personal sensing. Although applications capture fine-grained activity for self reflection, sharing is generally limited to high level summaries. There are potential advantages to fine-grained sharing, but also potential harms. To help investigate this complex design space, we employ Value Sensitive Design to consider whether and how to share fine grained step activity. We identify key values and value tensions, and we develop scenarios to highlight these. We then design a set of data transformations that seek to maximize the benefits while minimizing the harms of detailed sharing. These include a novel approach to interactive modification of fine grained step data, allowing people to remove private data and using motif discovery to generate realistic replacement data. Finally, we conduct semi structured interviews with 12 participants examining these scenarios and transformations. We distill results into a set of design considerations for fine-grained physical activity sharing.",
+        "email": "depstein@cs.washington.edu",
+        "conf": "International joint conference on Pervasive and ubiquitous computing",
+        "coauthors": [
+            "Daniel A Epstein",
+            "Alan Borning",
+            "James Anthony Fogarty"
+        ],
+        "keywords": "Personal Informatics, Value Sensitive Design, physical activity sensing, social sharing "
+    },
+    {
+        "id": 2412,
+        "label": 52,
+        "author": "daniel a epstein",
+        "title": "Reconsidering the Device in the Drawer: Lapses as a Design Opportunity in Personal Informatics",
+        "organization": "Assistant Professor University of California Irvine",
+        "abstract": "People stop using personal tracking tools over time, referred to as the lapsing stage of their tool use. We explore how designs can support people when they lapse in tracking, considering how to design data representations for a person who lapses in Fitbit use. Through a survey of 141 people who had lapsed in using Fitbit, we identified three use patterns and four perspectives on tracking. Participants then viewed seven visual representations of their Fitbit data and seven approaches to framing this data. Participant Fitbit use and perspective on tracking influenced their preference, which we surface in a series of contrasts. Specifically, our findings guide selecting appropriate aggregations from Fitbit use (e.g., aggregate more when someone has less data), choosing an appropriate framing technique from tracking perspective (e.g., ensure framing aligns with how the person feels about tracking), and creating appropriate social comparisons (e.g., portray the person positively compared to peers). We conclude by discussing how these contrasts suggest new designs and opportunities in other tracking domains.",
+        "email": "depstein@cs.washington.edu",
+        "conf": "ACM International Joint Conference on Pervasive and Ubiquitous Computing",
+        "coauthors": [
+            "Daniel A Epstein",
+            "Jennifer H Kang",
+            "Laura R Pina",
+            "James Anthony Fogarty",
+            "Sean A. Munson"
+        ],
+        "keywords": "Personal Informatics; Lapsing; Abandonment; Re-engagement"
+    },
+    {
+        "id": 2410,
+        "label": 52,
+        "author": "daniel a epstein",
+        "title": "Examining Menstrual Tracking to Inform the Design of Personal Informatics Tools",
+        "organization": "Assistant Professor University of California Irvine",
+        "abstract": "We consider why and how women track their menstrual cycles, examining their experiences to uncover design opportunities and extend the field's understanding of personal informatics tools. To understand menstrual cycle tracking practices, we collected and analyzed data from three sources: 2,000 reviews of popular menstrual tracking apps, a survey of 687 people, and follow-up interviews with 12 survey respondents. We find that women track their menstrual cycle for varied reasons that include remembering and predicting their period as well as informing conversations with healthcare providers. Participants described six methods of tracking their menstrual cycles, including use of technology, awareness of their premenstrual physiological states, and simply remembering. Although women find apps and calendars helpful, these methods are ineffective when predictions of future menstrual cycles are inaccurate. Designs can create feelings of exclusion for gender and sexual minorities. Existing apps also generally fail to consider life stages that women experience, including young adulthood, pregnancy, and menopause. Our findings encourage expanding the field's conceptions of personal informatics.",
+        "email": "depstein@uw.edu",
+        "conf": "Conference on Human Factors in Computing Systems",
+        "coauthors": [
+            "Daniel A Epstein",
+            "Nicole B. Lee",
+            "Jennifer H. Kang",
+            "Elena Agapie",
+            "Jessica Schroeder",
+            "Laura R. Pina",
+            "James Anthony Fogarty",
+            "Julie A. Kientz",
+            "Sean A. Munson"
+        ],
+        "keywords": "Menstrual tracking; menstrual cycle; period; personal informatics; lived informatics; women’s health; inclusivity"
+    },
+    {
+        "id": 2417,
+        "label": 52,
+        "author": "daniel a epstein",
+        "title": "From \"nobody cares\" to \"way to go!\": A Design Framework for Social Sharing in Personal Informatics",
+        "organization": "Assistant Professor University of California Irvine",
+        "abstract": "Many research applications and popular commercial applications include features for sharing personally collected data with others in social awareness streams. Prior work has identified several barriers to use as well as discrepancies between designer goals and how these features are used in practice. We develop a framework for designing and evaluating these features based on an extensive review of prior literature. We demonstrate the value of this framework by analyzing physical activity sharing on Twitter, coding 4,771 tweets and their responses and gathering 444 reactions from 97 potential tweet recipients, learning that specific user-generated content leads to more responses and is better received by the post audience. We conclude by extending our findings to other sharing problems and discussing the value of our design framework.",
+        "email": "depstein@cs.washington.edu",
+        "conf": "ACM Conference on Computer Supported Cooperative Work & Social Computing",
+        "coauthors": [
+            "Daniel A Epstein",
+            "Bradley H Jacobson",
+            "Elizabeth Shanling Cheng Bales Bales",
+            "David Wright Mcdonald",
+            "Sean A. Munson"
+        ],
+        "keywords": "Personal Informatics; Social Sharing; Self-Tracking; Health;Social Network Sites; Social Awareness Streams"
+    },
+    {
+        "id": 2414,
+        "label": 52,
+        "author": "daniel a epstein",
+        "title": "Crumbs: Lightweight Daily Food Challenges to Promote Engagement and Mindfulness",
+        "organization": "Assistant Professor University of California Irvine",
+        "abstract": "Many people struggle with efforts to make healthy behavior changes, such as healthy eating. Several existing approaches promote healthy eating, but present high barriers and yield limited engagement. As a lightweight alternative approach to promoting mindful eating, we introduce and examine crumbs: daily food challenges completed by consuming one food that meets the challenge. We examine crumbs through developing and deploying the iPhone application Food4Thought. In a 3 week field study with 61 participants, crumbs supported engagement and mindfulness while offering opportunities to learn about food. Our 2x2 study compared nutrition versus non-nutrition crumbs coupled with social versus non-social features. Nutrition crumbs often felt more purposeful to participants, but non-nutrition crumbs increased mindfulness more than nutrition crumbs. Social features helped sustain engagement and were important for engagement with non-nutrition crumbs. Social features also enabled learning about the variety of foods other people use to meet a challenge.",
+        "email": "depstein@cs.washington.edu",
+        "conf": "Conference on Human Factors in Computing Systems",
+        "coauthors": [
+            "Daniel A Epstein",
+            "Felicia Cordeiro",
+            "James ANthony Fogarty",
+            "Gary Hsieh",
+            "Sean A. Munson"
+        ],
+        "keywords": "Food; daily challenges; mindfulness; personal informatics"
+    },
+    {
+        "id": 2413,
+        "label": 52,
+        "author": "daniel a epstein",
+        "title": "Beyond Abandonment to Next Steps: Understanding and Designing for Life after Personal Informatics Tool Use",
+        "organization": "Assistant Professor University of California Irvine",
+        "abstract": "Recent research examines how and why people abandon self tracking tools. We extend this work with new insights drawn from people reflecting on their experiences after they stop tracking, examining how designs continue to influence people even after abandonment. We further contrast prior work considering abandonment of health and wellness tracking tools with an exploration of why people abandon financial and location tracking tools, and we connect our findings to models of personal informatics. Surveying 193 people and interviewing 12 people, we identify six reasons why people stop tracking and five perspectives on life after tracking. We discuss these results and opportunities for design to consider life after self tracking.",
+        "email": "depstein@cs.washington.edu",
+        "conf": "Conference on Human Factors in Computing Systems",
+        "coauthors": [
+            "Daniel A Epstein",
+            "Monica Caraway",
+            "Chuck Johnston",
+            "An Ping",
+            "James Anthony Fogarty",
+            "Sean A. Munson"
+        ],
+        "keywords": "Personal informatics; self-tracking; abandonment"
+    },
+    {
+        "id": 2411,
+        "label": 52,
+        "author": "daniel a epstein",
+        "title": "Semi-Automated Tracking: A Balanced Approach for Self-Monitoring Applications",
+        "organization": "Assistant Professor University of California Irvine",
+        "abstract": "The authors present an approach for designing self-monitoring technology called \"semi-automated tracking,\" which combines both manual and automated data collection methods. Through this approach, they aim to lower the capture burdens, collect data that is typically hard to track automatically, and promote awareness to help people achieve their self-monitoring goals. They first specify three design considerations for semi-automated tracking: data capture feasibility, the purpose of self-monitoring, and the motivation level. They then provide examples of semi-automated tracking applications in the domains of sleep, mood, and food tracking to demonstrate strategies they developed to find the right balance between manual tracking and automated tracking, combining each of their benefits while minimizing their associated limitations.",
+        "email": "depstein@cs.washington.edu",
+        "conf": "IEEE Pervasive Computing",
+        "coauthors": [
+            "Eun Kyoung Choe",
+            "Saeed Abdullah",
+            "Mashfiqui Rabbi",
+            "Edison Thomaz",
+            "Daniel A. Epstein",
+            "Felicia Cordeiro",
+            "Mathew Kay",
+            "Gregory D. Abowd",
+            "Tanzeem Choudhury",
+            "James Fogarty",
+            "Bongshin Lee",
+            "Mark Mathews",
+            "Julie A. Kientz"
+        ],
+        "keywords": "self-monitoring,semi-automated tracking,personal informatics,sleep tracking,food tracking,mood tracking,pervasive computing,healthcare,mobile,Internet of Things,bioinformatics,data analysis"
+    },
+    {
+        "id": 2409,
+        "label": 52,
+        "author": "daniel a epstein",
+        "title": "TummyTrials: A Feasibility Study of Using Self-Experimentation to Detect Individualized Food Triggers",
+        "organization": "Assistant Professor University of California Irvine",
+        "abstract": "Diagnostic self-tracking, the recording of personal information to diagnose or manage a health condition, is a common practice, especially for people with chronic conditions. Unfortunately, many who attempt diagnostic self tracking have trouble accomplishing their goals. People often lack knowledge and skills needed to design and conduct scientifically rigorous experiments, and current tools provide little support. To address these shortcomings and explore opportunities for diagnostic self tracking, we designed, developed, and evaluated a mobile app that applies a self experimentation framework to support patients suffering from irritable bowel syndrome (IBS) in identifying their personal food triggers. TummyTrials aids a person in designing, executing, and analyzing self experiments to evaluate whether a specific food triggers their symptoms. We examined the feasibility of this approach in a field study with 15 IBS patients, finding that participants could use the tool to reliably undergo a self-experiment. However, we also discovered an underlying tension between scientific validity and the lived experience of self experimentation. We discuss challenges of applying clinical research methods in everyday life, motivating a need for the design of self experimentation systems to balance rigor with the uncertainties of everyday life.",
+        "email": "",
+        "conf": "CHI Conference on Human Factors in Computing Systems",
+        "coauthors": [
+            "Ravi Karkar",
+            "Jessica Schroeder",
+            "Daniel A Epstein",
+            "Laura R. Pina",
+            "Jeffery Alan Scofield",
+            "James Anthony Fogarty",
+            "Julie A. Kientz",
+            "Sean A. Munson",
+            "Roger Vilardaga",
+            "Jasmine Zia"
+        ],
+        "keywords": "Self-Tracking; Self-Experimentation; Irritable Bowel Syndrome;Personal Informatics; Symptom Triggers; Food"
+    },
+    {
+        "id": 2415,
+        "label": 52,
+        "author": "daniel a epstein",
+        "title": "A Lived Informatics Model of Personal Informatics",
+        "organization": "Assistant Professor University of California Irvine",
+        "abstract": "Current models of how people use personal informatics systems are largely based in behavior change goals. They do not adequately characterize the integration of self-tracking into everyday life by people with varying goals. We build upon prior work by embracing the perspective of lived informatics to propose a new model of personal informatics. We examine how lived informatics manifests in the habits of self-trackers across a variety of domains, first by surveying 105, 99, and 83 past and present trackers of physical activity, finances, and location and then by interviewing 22 trackers regarding their lived informatics experiences. We develop a model characterizing tracker processes of deciding to track and selecting a tool, elaborate on tool usage during collection, integration, and reflection as components of tracking and acting, and discuss the lapsing and potential resuming of tracking. We use our model to surface underexplored challenges in lived informatics, thus identifying future directions for personal informatics design and research",
+        "email": "depstein@cs.washington.edu",
+        "conf": "ACM International Joint Conference on Pervasive and Ubiquitous Computing",
+        "coauthors": [
+            "Daniel A Epstein",
+            "An Ping",
+            "James Anthony Fogarty",
+            "Sean A. Munson"
+        ],
+        "keywords": "Lived Informatics; Personal Informatics; Self-Tracking;Lapsing; Physical Activity; Finances; Location"
+    },
+    {
+        "id": 2416,
+        "label": 52,
+        "author": "daniel a epstein",
+        "title": "Barriers and Negative Nudges: Exploring Challenges in Food Journaling",
+        "organization": "Assistant Professor University of California Irvine",
+        "abstract": "Although food journaling is understood to be both important and difficult, little work has empirically documented the specific challenges people experience with food journals. We identify key challenges in a qualitative study combining a survey of 141 current and lapsed food journalers with analysis of 5,526 posts in community forums for three mobile food journals. Analyzing themes in this data, we find and discuss barriers to reliable food entry, negative nudges caused by current techniques, and challenges with social features. Our results motivate research exploring a wider range of approaches to food journal design and technology.",
+        "email": "depstein@cs.washington.edu",
+        "conf": "ACM Conference on Human Factors in Computing Systems",
+        "coauthors": [
+            "Felicia Cordeiro",
+            "Daniel A Epstein",
+            "Edison Thomaz",
+            "Elizabeth Shanling Cheng Bales",
+            "Arvind Krishnaa Jagannathan",
+            "Gregory D. Abowd",
+            "James Anthony Fogarty"
+        ],
+        "keywords": "Personal Informatics; Food Journals; Barriers; Negative Nudges"
+    },
+    {
+        "id": 2408,
+        "label": 52,
+        "author": "daniel a epstein",
+        "title": "Examining Self-Tracking by People with Migraine: Goals Needs and Opportunities in a Chronic Health Condition",
+        "organization": "Assistant Professor University of California Irvine",
+        "abstract": "Self-tracked health data can help people and their health providers understand and manage chronic conditions. This paper examines personal informatics practices and challenges in migraine, a condition characterized by unpredictable, intermittent, and poorly-understood symptoms. To investigate how people with migraine track and use data related to their condition, we surveyed 279 people with migraine and conducted semi-structured interviews with 13 survey respondents and 6 health providers. We find four distinct goals people bring to tracking and data: 1) answering questions about migraines, 2) predicting and preventing migraines, 3) monitoring and managing migraines over time, and 4) enabling motivation and social recognition. Each goal suggests different needs for the design of tools to support migraine tracking. We also find needs resulting from an individual's goals evolving over time, their varied personal experiences, and their communication and collaboration with providers. We discuss these goals and needs in terms of opportunities for personal informatics tools to facilitate learning to: 1) avoid common pitfalls; 2) support customization and flexibility; 3) account for burden, negativity, and lapsing; and 4) support management with uncertainty.",
+        "email": "depstein@uw.edu",
+        "conf": "Designing Interactive Systems Conference",
+        "coauthors": [
+            "Jessica Schroeder",
+            "Chia-Fang Christina Chung",
+            "Daniel A Epstein",
+            "Ravi Karkar",
+            "Adele Parsons",
+            "Natalia Murinova",
+            "James Fogarty",
+            "Sean A. Munson"
+        ],
+        "keywords": "Personal Informatics; Health; Chronic Condition; Migraine"
+    },
+    {
+        "id": 2418,
+        "label": 52,
+        "author": "daniel a epstein",
+        "title": "Taming Data Complexity in Lifelogs: Exploring Visual Cuts of Personal Informatics Data",
+        "organization": "Assistant Professor University of California Irvine",
+        "abstract": "As people continue to adopt technology based self tracking devices and applications, questions arise about how personal informatics tools can better support self tracker goals. This paper extends prior work on analyzing and summarizing self tracking data, with the goal of helping self trackers identify more meaningful and actionable findings. We begin by surveying physical activity self trackers to identify their goals and the factors they report influence their physical activity. We then define a cut as a subset of collected data with some shared feature, develop a set of cuts over location and physical activity data, and visualize those cuts using a variety of presentations. Finally, we conduct a month long field deployment with participants tracking their location and physical activity data and then using our methods to examine their data. We report on participant reactions to our methods and future design opportunities suggested by our work.",
+        "email": "depstein@cs.washington.edu",
+        "conf": "conference on Designing interactive systems",
+        "coauthors": [
+            "Daniel A Epstein",
+            "Felicia Cordeiro",
+            "Elizabeth Shanling Cheng Bales",
+            "James Anthony Fogarty",
+            "Sean A. Munson"
+        ],
+        "keywords": ""
+    }
+]

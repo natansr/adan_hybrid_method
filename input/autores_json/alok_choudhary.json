@@ -1,0 +1,776 @@
+[
+    {
+        "id": 157,
+        "label": 3,
+        "author": "alok choudhary",
+        "title": "Impacts of speed variations on freeway crashes by severity and vehicle type",
+        "organization": "School of Business and Economics Loughborough University UK",
+        "abstract": "Speed variations are identified as potentially important predictors of freeway crash rates; however, their impacts on crashes are not entirely known. Existing findings tend to be inconsistent possibly because of the different definitions for speed variations, different crash type consideration or different modelling and data aggregation approaches. This study explores the relationships of speed variations with crashes on a freeway section in the UK. Crashes split by vehicle type (heavy and light vehicles) and by severity mode (killed/serious injury and slight injury crashes) are aggregated based on the similarities of the conditions just before their occurrence (condition-based approach) and modelled using Multivariate Poisson lognormal regression. The models control for speed variations along with other traffic and weather variables as well as their interactions. Speed variations are expressed as two separate variables namely the standard deviations of speed within the same lane and between-lanes over a five-minute interval. The results, similar for all crash types (by coefficient significance and sign), suggest that crash rates increase as the within lane speed variations raise, especially at higher traffic volumes. Higher speeds coupled with greater volume and high between-lanes speed variation also increase crash likelihood. Overall, the results suggest that specific combinations of traffic characteristics increase the likelihood of crash occurrences rather than their individual effects. Identification of these specific crash prone conditions could improve our understanding of crash risk and would support the development of more efficient safety countermeasures.",
+        "email": "A.Choudhary@lboro.ac.uk",
+        "conf": "Accident; analysis and prevention",
+        "coauthors": [
+            "Pushpa Choudhary",
+            "Marianna Imprialou",
+            "Nagendra R. Velaga",
+            "Alok Choudhary"
+        ],
+        "keywords": "Accidents, Speed variation, Road safety, Crash severity, Heavy goods vehicles, Multivariate count modelling"
+    },
+    {
+        "id": 184,
+        "label": 3,
+        "author": "alok choudhary",
+        "title": "A Proposed Supply Chain Risk Management Framework",
+        "organization": "School of Business and Economics Loughborough University UK",
+        "abstract": "This paper discusses the concept of supply chain risk management (SCRM) in relation to the emerging challenges brought by globalisation and information and communication technologies (ICT) and the ability of SCRM frameworks to adapt to these latest requirements. As SCRM can be responsible for loss or gain of profit, the ultimate goal of enterprises is to have resilient supply chains with automated decision making that can deal with potential disruptions. In response to this, ICT developments such as agent based systems, decision support systems, and data mining techniques seem to be a promising solution. In this research, our aim is to analyze the existing literature on these ICT developments and SCRM systems and to observe the patterns, abilities and limitations of the existing models, in order to develop an initial SCRM framework.",
+        "email": "a.choudhary@sheffield.ac.uk",
+        "conf": "SSRN Electronic Journal",
+        "coauthors": [
+            "Adrian Ovidiu Solomon",
+            "Panayiotis H. Ketikidis",
+            "Alok Choudhary"
+        ],
+        "keywords": "Agent based systems, data mining, decision support systems, knowledge discovery, supply chain risk management"
+    },
+    {
+        "id": 190,
+        "label": 3,
+        "author": "alok choudhary",
+        "title": "Data mining in manufacturing: A review based on the kind of knowledge",
+        "organization": "School of Business and Economics Loughborough University UK",
+        "abstract": "In modern manufacturing environments, vast amounts of data are collected in database management systems and data warehouses from all involved areas, including product and process design, assembly, materials planning, quality control, scheduling, maintenance, fault detection etc. Data mining has emerged as an important tool for knowledge acquisition from the manufacturing databases. This paper reviews the literature dealing with knowledge discovery and data mining applications in the broad domain of manufacturing with a special emphasis on the type of functions to be performed on the data. The major data mining functions to be performed include characterization and description, association, classification, prediction, clustering and evolution analysis. The papers reviewed have therefore been categorized in these five categories. It has been shown that there is a rapid growth in the application of data mining in the context of manufacturing processes and enterprises in the last 3 years. This review reveals the progressive applications and existing gaps identified in the context of data mining in manufacturing. A novel text mining approach has also been used on the abstracts and keywords of 150 papers to identify the research gaps and find the linkages between knowledge area, knowledge type and the applied data mining tools and techniques.",
+        "email": "a.k.choudhary@lboro.ac.uk",
+        "conf": "Journal of Intelligent Manufacturing",
+        "coauthors": [
+            "Alok Choudhary",
+            "Jenny Harding",
+            "Manoj Kumar Tiwari"
+        ],
+        "keywords": "Knowledge discovery, Data mining, Manufacturing, Text mining, Literature review"
+    },
+    {
+        "id": 167,
+        "label": 3,
+        "author": "alok choudhary",
+        "title": "A big data MapReduce framework for fault diagnosis in cloud-based manufacturing",
+        "organization": "School of Business and Economics Loughborough University UK",
+        "abstract": "This research develops a MapReduce framework for automatic pattern recognition based on fault diagnosis by solving data imbalance problem in a cloud-based manufacturing (CBM). Fault diagnosis in a CBM system significantly contributes to reduce the product testing cost and enhances manufacturing quality. One of the major challenges facing the big data analytics in CBM is handling of data-sets, which are highly imbalanced in nature due to poor classification result when machine learning techniques are applied on such data-sets. The framework proposed in this research uses a hybrid approach to deal with big data-set for smarter decisions. Furthermore, we compare the performance of radial basis function-based Support Vector Machine classifier with standard techniques. Our findings suggest that the most important task in CBM is to predict the effect of data errors on quality due to highly imbalance unstructured data-set. The proposed framework is an original contribution to the body of literature, where our proposed MapReduce framework has been used for fault detection by managing data imbalance problem appropriately and relating it to firm’s profit function. The experimental results are validated using a case study of steel plate manufacturing fault diagnosis, with crucial performance matrices such as accuracy, specificity and sensitivity. A comparative study shows that the methods used in the proposed framework outperform the traditional ones.",
+        "email": "",
+        "conf": "International Journal of Production Research",
+        "coauthors": [
+            "Ajay Kumar",
+            "Ravi Shankar",
+            "Alok Choudhary",
+            "Lakshman S. Thakur"
+        ],
+        "keywords": " big data analytics, class imbalance problem, radial basis function, support vector machine (SVM), fault diagnosis and Cloud-based manufacturing"
+    },
+    {
+        "id": 200,
+        "label": 3,
+        "author": "alok choudhary",
+        "title": "Kernel distance-based robust support vector methods and its application in developing a robust K-chart",
+        "organization": "School of Business and Economics Loughborough University UK",
+        "abstract": "Traditional statistical process control (SPC) techniques are not applicable in many process industries due to autocorrelation among data. In addition, most conventional charts are based on the assumption that quality characteristics follow a multivariate normality assumption. Therefore, the reduction in process variability obtained through the use of SPC techniques has not been realized in the industries. However, this may not be reasonable in many real-world problems and its extension poses serious limitations. Hence, it is not only desirable, but also inevitable to have some techniques that can serve the same purpose as SPC control charts used for correlated parameters. In this paper, a robust support vector method drawn from statistical learning theory was applied to develop a multivariate control chart based on kernel distance, which is a measure of the distance between the centre of a class and the sample to be monitored. The proposed robust chart takes advantage of information extracted from in-control preliminary samples. A robust support vector method-based chart aims to solve the over fitting problems when outliers exist in the training data set. The robust support vector method makes the decision function less sensitive towards the noise and outliers. The performance of the robust chart is tested on the problem taken from the literature and the results verify the effectiveness of the chart and validate that the robust chart is better than the conventional charts when the distribution of the quality characteristics is not multivariate normal. Experiments for the problem undertaken confirm the reduction in the number of support vectors and there is significant improvement in performance when compared with the standard support vector methods.",
+        "email": "",
+        "conf": "International Journal of Production Research",
+        "coauthors": [
+            "Sanu Kumar",
+            "Alok Choudhary",
+            "Maneesh Kumar",
+            "R Shankar",
+            "Manoj Kumar Tiwari"
+        ],
+        "keywords": "Support vector method, Robust support vector method, Kernel functions, Control charts, Hypersphere, Principal component, Regularization parameter"
+    },
+    {
+        "id": 171,
+        "label": 3,
+        "author": "alok choudhary",
+        "title": "Caught Between Two Stools: Using Paradox Lens To Understand Green Supply Chain",
+        "organization": "School of Business and Economics Loughborough University UK",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Rohit Nishant",
+            "Alok Choudhary"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 169,
+        "label": 3,
+        "author": "alok choudhary",
+        "title": "Non-Stationary Stochastic Inventory Lot-Sizing with Emission and Service Level Constraints in a Carbon Cap-and-Trade System",
+        "organization": "School of Business and Economics Loughborough University UK",
+        "abstract": "Firms worldwide are taking major initiatives to reduce the carbon footprint of their supply chains in response to the growing governmental and consumer pressures. In real life, these supply chains face stochastic and non-stationary demand but most of the studies on inventory lot-sizing problem with emission concerns consider deterministic demand. In this paper, we study the inventory lot-sizing problem under non-stationary stochastic demand condition with emission and cycle service level constraints considering carbon cap-and-trade regulatory mechanism. Using a mixed integer linear programming model, this paper aims to investigate the effects of emission parameters, product- and system-related features on the supply chain performance through extensive computational experiments to cover general type business settings and not a specific scenario. Results show that cycle service level and demand coefficient of variation have significant impacts on total cost and emission irrespective of level of demand variability while the impact of product's demand pattern is significant only at lower level of demand variability. Finally, results also show that increasing value of carbon price reduces total cost, total emission and total inventory and the scope of emission reduction by increasing carbon price is greater at higher levels of cycle service level and demand coefficient of variation. The analysis of results helps supply chain managers to take right decision in different demand and service level situations.",
+        "email": "a.choudhary@lboro.ac.uk",
+        "conf": "Journal of Cleaner Production",
+        "coauthors": [
+            "Arun Purohit",
+            "Ravi Shankar",
+            "Prasanta Kumar Dey",
+            "Alok Choudhary"
+        ],
+        "keywords": "Carbon emission, Lot-sizing, Non-stationary stochastic demand, Cycle service level, Carbon cap-and-trade system"
+    },
+    {
+        "id": 174,
+        "label": 3,
+        "author": "alok choudhary",
+        "title": "An optimization model for a monopolistic firm serving an environmentally conscious market: Use of chemical reaction optimization algorithm",
+        "organization": "School of Business and Economics Loughborough University UK",
+        "abstract": "This work considers a monopolist firm which faces the following twin challenges of serving an environmentally sensitive market. The first challenge is the demand׳s elasticity to emissions and price. To entice its emission conscious customers and generate higher demand, the firm incrementally invests in cleaner production technologies. It also adopts a voluntary limit on its emissions from transportation. However, such investments and penalty lead to the second challenge of reduced net profit. To address above trade-off, a Non-Linear Programming (NLP) model with a maximization quadratic profit function has been formulated. Recently developed, Chemical Reaction Optimization algorithm, with superior computational performance, has been adopted to solve the NLP. The output of the model provides near optimal monopolistic price, best attainable reduction in manufacturing emissions through proportional investment and makes a choice of suitable mode of transportation for each type of product offered by the firm. Three types of sensitivity analyses were performed by varying contextual parameters: customers׳ emission elasticity, penalty charged per unit emission and investment coefficient. The results, underpin the importance of investments in cleaner technologies and the need of financial aids for profit maximizing firms operating in cleaner markets. This work provides a decision making tool to determine the near optimal degree of each of the above dimension in multiple business fronts",
+        "email": "a.choudhary@sheffield.ac.uk, a.choudhary@lboro.ac.uk",
+        "conf": "International Journal of Production Economics",
+        "coauthors": [
+            "Alok Choudhary",
+            "Ravi Suman",
+            "Vijaya Dixit",
+            "M.K. Tiwari",
+            "Kiran Jude Fernandes",
+            "Pei-Chann Chang"
+        ],
+        "keywords": "Emission elasticity, Chemical reaction optimization, Non-linear programming, Cleaner technologies"
+    },
+    {
+        "id": 183,
+        "label": 3,
+        "author": "alok choudhary",
+        "title": "Knowledge discOvery And daTa minINg inteGrated (KOATING) Moderators for collaborative projects",
+        "organization": "School of Business and Economics Loughborough University UK",
+        "abstract": "A major issue in any multidiscipline collaborative project is how to best share and simultaneously exploit different types of expertise, without duplicating efforts or inadvertently causing conflicts or loss of efficiency through misunderstanding of individual or shared goals. Moderators are knowledge based systems designed to support collaborative teams by raising awareness of potential problems or conflicts. However, the functioning of a Moderator is limited by the knowledge it has about the team members. Knowledge acquisition, learning and updating of knowledge are the major challenges for a Moderator's implementation. To address these challenges a Knowledge discOvery And daTa minINg inteGrated (KOATING) framework is presented for Moderators to enable them to continuously learn from the operational databases of the company and semi-automatically update their knowledge about team members. This enables the reuse of discovered knowledge from operational databases within collaborative projects. The integration of knowledge discovery in database (KDD) techniques into the existing Knowledge Acquisition Module of a moderator enables hidden data dependencies and relationships to be utilised to facilitate the moderation process. The architecture for the Universal Knowledge Moderator (UKM) shows how Moderators can be extended to incorporate a learning element which enables them to provide better support for virtual enterprises. Unified Modelling Language diagrams were used to specify the ways to design and develop the proposed system. The functioning of a UKM is presented using an illustrative example.",
+        "email": "",
+        "conf": "International Journal of Production Research",
+        "coauthors": [
+            "Alok Choudhary",
+            "Jenny Harding",
+            "Hsiao-Kang Lin",
+            "Manoj Kumar Tiwari",
+            "Ravi Shankar"
+        ],
+        "keywords": "collaborative projects, learning, Moderators, knowledge discovery, data mining, Universal Knowledge Moderator, virtual enterprise"
+    },
+    {
+        "id": 172,
+        "label": 3,
+        "author": "alok choudhary",
+        "title": "Carbon-efficient Production Supply Chains and Logistics",
+        "organization": "School of Business and Economics Loughborough University UK",
+        "abstract": "",
+        "email": "",
+        "conf": "International Journal of Production Economics",
+        "coauthors": [
+            "Manoj Kumar Tiwari",
+            "Pei-Chann Chang",
+            "Alok Choudhary"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 185,
+        "label": 3,
+        "author": "alok choudhary",
+        "title": "Knowledge discovery from post-project reviews",
+        "organization": "School of Business and Economics Loughborough University UK",
+        "abstract": "Many construction companies conduct reviews on project completion to enhance learning and to fulfil quality management procedures. Often these reports are filed away never to be seen again. This means that potentially important knowledge that may assist other project teams is not exploited. In order to ascertain whether useful knowledge can be gleaned from such reports, Knowledge Discovery from Text (KDT) and text mining (TM) are applied. Text mining avoids the need for a manual search through a vast number of reports, potentially of different formats and foci, to seek trends that may be useful for current and future projects. Pilot tests were used to analyse 48 post-project review reports. The reports were first reviewed manually to identify key themes. They were then analysed using text mining software to investigate whether text mining could identify trends and uncover useful knowledge from the reports. Pilot tests succeeded in finding common occurrences across different projects that were previously unknown. Text mining could provide a potential solution and would aid project teams to learn from previous projects. However, a lot of work is currently required before the text mining tests are conducted and the results need to be examined carefully by those with domain knowledge to validate the results obtained.",
+        "email": "",
+        "conf": "Construction Management and Economics",
+        "coauthors": [
+            "Patricia M. Carrillo",
+            "Jenny Harding",
+            "Alok Choudhary"
+        ],
+        "keywords": "Knowledge discovery, text mining, project reviews, knowledge"
+    },
+    {
+        "id": 160,
+        "label": 3,
+        "author": "alok choudhary",
+        "title": "Multiobjective Approach for Sustainable Ship Routing and Scheduling With Draft Restrictions",
+        "organization": "School of Business and Economics Loughborough University UK",
+        "abstract": "This research addresses the sustainability and safety related challenges associated with the complex, practical, and real-time maritime transportation problem, and proposes a multiobjective mathematical model integrating different shipping operations. A mixed integer nonlinear programming (MINLP) model is formulated considering different maritime operations, such as routing and scheduling of ships, time window concept considering port's high tidal scenario, discrete planning horizon, loading/unloading operation, carbon emission from the vessel, and ship's draft restriction for maintaining the vessel's safety at the port. The relationship between fuel consumption and vessel speed optimization is included in the model for the estimation of the total fuel consumed and carbon emission from each vessel. Time window concept considered in the problem aims to improve the service level of the port by imposing different penalty charges associated with the early arrival of the vessel before the starting of the time window and vessel failing to finish its operation within the allotted time window. Another practical aspect of the maritime transportation such as high tide scenario is included in the model to depict the vessel arrival and departure time at a port. Two novel algorithms-Nondominated sorting genetic algorithm II (NSGA-II) and Multiobjective particle swarm optimization have been applied to solve the multiobjective mathematical model. The illustrative examples inspired from the real-life problems of an international shipping company are considered for application. The experimental results, comparative, and sensitivity analysis demonstrate the robustness of the proposed model.",
+        "email": "",
+        "conf": "IEEE Transactions on Engineering Management",
+        "coauthors": [
+            "Arijit De",
+            "Alok Choudhary",
+            "Manoj Kumar Tiwari"
+        ],
+        "keywords": "Marine vehicles,Routing,Fuels,Ports (Computers),Carbon dioxide,Companies,Transportation"
+    },
+    {
+        "id": 188,
+        "label": 3,
+        "author": "alok choudhary",
+        "title": "Rollout strategy-based probabilistic causal model approach for the multiple fault diagnosis",
+        "organization": "School of Business and Economics Loughborough University UK",
+        "abstract": "Multiple fault diagnosis (MFD) is used as an effective measure to tackle the problems of real-shop floor environment for reducing the total lifetime maintenance cost of the system. It is a well-known computationally complex problem, where computational complexity increases exponentially as the number of faults increases. Thus, warrants the application of heuristic techniques or AI-based optimization tools to diagnose the exact faults in real time. In this research, rollout strategy-based probabilistic causal model (RSPCM) has been proposed to solve graph-based multiple fault diagnosis problems. Rollout strategy is a single-step iterative process, implemented in this research to improve the efficiency and robustness of probabilistic causal model. In RSPCM instead of finding all possible combinations of faults, collect the faults corresponding to each observed manifestations that can give the best possible result in compared to other methods. Intensive computational experiments on well-known data sets witness the superiority of the proposed heuristic over earlier approaches existing in the literature. From experimental results it can easily inferred that proposed methodology can diagnosed the exact fault in the minimum fault isolation time as compared to other approaches.",
+        "email": "",
+        "conf": "Robotics and Computer-Integrated Manufacturing",
+        "coauthors": [
+            "Nishikant Mishra",
+            "Alok Choudhary",
+            "Manoj Kumar Tiwari",
+            "Ravi Shankar"
+        ],
+        "keywords": "Multiple fault diagnosis, Rollout strategy, Probabilistic causal model"
+    },
+    {
+        "id": 166,
+        "label": 3,
+        "author": "alok choudhary",
+        "title": "An Insight into Corporate Social Responsibility Reports: A Text Mining Approach",
+        "organization": "School of Business and Economics Loughborough University UK",
+        "abstract": "Corporate Social Responsibility (CSR) report contains secondary data about company’s intentions, strategies and activities along with their impact in supply chain management which is of great interest to stakeholders. Studies shows that a CSR report contains more than 50 papers on an average which is a large data to be analyzed and compared manually. This study focuses on analyzing the CSR reports from automotive industries using Multinomial Naïve Bayes algorithm from text mining. This study is on extracting concise data from large CSR reports from various companies to analyse the general trend over the years and to compare them according to year, revenue size, geographical location, political situations and market structure and also to study their impact on triple bottom line. It also includes finding relation between various sustainability areas including their relative strength using probabilistic text mining approach.",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Sourav Das",
+            "Alok Choudhary",
+            "Jenny Harding"
+        ],
+        "keywords": ": Sustainability, Text mining, Automotive industry, Corporate social responsibility reports"
+    },
+    {
+        "id": 165,
+        "label": 3,
+        "author": "alok choudhary",
+        "title": "Sustainable Agro-Food Supply Chain Design Using Two-Stage Hybrid Multi-Objective Decision-Making Approach",
+        "organization": "School of Business and Economics Loughborough University UK",
+        "abstract": "Sustainability of agro-food supply chains has recently become the subject of greater interest from consumers, firms, governmental organizations and academia as the environment continues to deteriorate. One of the most critical factors influencing the sustainability of an agro-food supply chain is its network design. A particularly challenging aspect in this context is the broad range of influencing indicators associated with the Triple Bottom Line (TBL) of sustainability that need to be considered. However, many of these indicators could not be fully integrated or measured by single-step optimization problems. This paper presents a critical literature review of operational research methods for the design of sustainable supply chains. A novel two-stage hybrid solution methodology is proposed. In the first stage, a partner selection is performed using a hybrid multi criteria decision making based on Analytic Hierarchy Process (AHP) method and the Ordered Weighted Averaging (OWA) aggregation method. The result obtained in the first stage is used in the second stage to develop a multi-objective mathematical model to optimize the design of the supply chain network. This approach allows the simultaneous consideration of all three dimensions of sustainability including carbon footprint, water footprint, number of jobs created and the total cost of the supply chain design. The proposed approach generates a Pareto frontier to aid users in making decisions. Numerical experiments are completed utilizing data from an agro-food company to demonstrate the efficiency and effectiveness of the proposed solution methodology. The analyzes of the numerical results provide important organizational, practical and policy insights on (1) the impact of financial and environmental sustainability on supply chain network design (2) the tradeoff analysis between environmental emission, water footprint, societal implications and associated cost for making informed decision on supply chain investment.",
+        "email": "a.choudhary@lboro.ac.uk",
+        "conf": "Computers & Operations Research",
+        "coauthors": [
+            "Hamid Allaoui",
+            "Yuhan Guo",
+            "Alok Choudhary",
+            "Jacqueline Bloemhof-Ruwaard"
+        ],
+        "keywords": "Agro-food supply chain design, Sustainability, Decision-making, Multi-objective optimization, Analytical hierarchy process"
+    },
+    {
+        "id": 162,
+        "label": 3,
+        "author": "alok choudhary",
+        "title": "Decision Support Systems for Sustainable Logistics: A Review and Bibliometric Analysis",
+        "organization": "School of Business and Economics Loughborough University UK",
+        "abstract": "Decision making in logistics is an increasingly complex task for organizations as these involve decisions at strategic, tactical and operational levels coupled with the triple-bottom line of sustainability. Decision support systems (DSS) played a vital role in arguably solving the challenges associated with decision making in sustainable logistics. The purpose of this paper is to explore the current state of the research in the domain of DSS for logistics while considering sustainability aspects. A systematic review approach using a set of relevant keywords with several exclusion criteria was adopted to identify literature related to DSS for sustainable logistics. A total of 40 papers were found from 1994 to 2015, which were then analyzed along the dimensions of publishing trend, geographic distribution and collaboration, the most influential journals, affiliations and authors as well as the key themes of identified literature. The analysis was conducted by means of bibliometric and text mapping tools, namely BibExcel, gpsvisualizer and VOSviewer. The bibliometric analysis showed that DSS for sustainable logistics is an emerging field; however, it is still evolving but at a slower pace. Furthermore, most of the contributing affiliations belong to the USA and the UK. The text mining and keyword analysis revealed key themes of identified papers. The inherent key themes were decision models and frameworks to address sustainable logistics issues covering transport, distribution and third-party logistics. The most prominent sustainable logistics issue was carbon footprinting. Social impact has been given less attention in comparison to economic and environmental aspects. The literature has adequate room for proposing more effective solutions by considering various types of multi-criteria decision analysis methods and DSS configurations while simultaneously considering economic, environmental and social aspects of sustainable logistics. Moreover, the field has potential to include logistics from wide application areas including freight transport through road, rail, sea, air as well as inter-modal transport, port operations, material handling and warehousing.",
+        "email": "",
+        "conf": "Industrial Management & Data Systems",
+        "coauthors": [
+            "Alok Choudhary",
+            "F.H. Qaiser",
+            "Martin Sykora",
+            "Karim Ahmed"
+        ],
+        "keywords": "Decision Support Systems (DSS); Sustainability; Logistics; Systematic Review; Bibliometric Analysis; Text Visualization"
+    },
+    {
+        "id": 156,
+        "label": 3,
+        "author": "alok choudhary",
+        "title": "Effects of driver work-rest patterns lifestyle and payment incentives on long-haul truck driver sleepiness",
+        "organization": "School of Business and Economics Loughborough University UK",
+        "abstract": "The aim of the study is to identify and model the role of payment incentives, driver work-rest patterns and other lifestyle habits influencing the drowsy driving behavior among long-haul truck drivers. To achieve this aim, this study targeted two main objectives: (1) to examine the significant differences between the groups of drowsy and non-drowsy drivers based on the opportunities of monetary incentives and (2) to examine the role of different factors: driver demographics, work-rest patterns, lifestyle and occupational characteristics particularly incentives associated with driving in causing driver sleepiness among Indian truck drivers. The study is based on interview responses from 453 long-haul truck drivers approached in three Indian cities – Mumbai, Indore and Nagpur.Initial principal component analysis of the responses related to financial incentives (occupational characteristics) resulted into two correlated factors: (i) willingness to earn extra payments if offered (WEP) and (ii) incentives available in the current driving experience (ICD) that influence driver work-rest patterns and alertness while driving. Kruskal-Wallis test showed a significant difference among the groups of sleepy and non-sleepy drivers due to these factors (WEP and ICD). Finally, a logistic regression model showed that long driving duration, working days per week, rest patterns, insufficient sleeping hours and history of violations were found significantly associated with drowsy driving among the long-haul truck drivers. Increase in consumption of caffeine and tobacco indicated reduction in driver alertness. According to the model results, the odds of drowsy driving were 77% less for drivers between 46 and 55 years compared to the young drivers (<25 years). Driving under the influence of financial incentives was observed to increase the odds of falling asleep by 1.58 times among the truck drivers. This was apparently the most interesting and intriguing result of the study indicating the need for further research on the influence of financial or socio-economic motivations to sleepiness.",
+        "email": "",
+        "conf": "Transportation Research Part F Traffic Psychology and Behaviour",
+        "coauthors": [
+            "Kirti Mahajan",
+            "Nagendra R Velga",
+            "Akhilesh Kumar",
+            "Alok Choudhary",
+            "Pushpa Choudhary"
+        ],
+        "keywords": "Drowsy driving, Driver lifestyle, Driver behavior, Safety, Truck drivers, Driving motivations"
+    },
+    {
+        "id": 192,
+        "label": 3,
+        "author": "alok choudhary",
+        "title": "The Universal Knowledge Moderator for globally distributed and collaborative e-manufacturing",
+        "organization": "School of Business and Economics Loughborough University UK",
+        "abstract": "The new challenge of enterprise interoperability is to share knowledge inter-business via networks to enable all partners to benefit and WIN, WIN, WIN in their markets. The universal knowledge moderator (UKM) project envisages the delivery of collaborative knowledge services which learn through knowledge discovery module; exploit interoperability services through a semantic Web based mediated schema within universal inter-experts module; and increase inter-team awareness whilst improving coordination through moderation module, to achieve the global visions of enterprise interoperability. The overall aim of UKM is to significantly enhance the moderation activities for universal knowledge cooperation, using inter-connected semantic Web system.",
+        "email": "",
+        "conf": "IEEE International Conference on Industrial Informatics",
+        "coauthors": [
+            "Hsiao-Kang Lin",
+            "Jenny Harding",
+            "Alok Choudhary"
+        ],
+        "keywords": "data mining, groupware,manufacturing data processing,manufacturing systems,open systems"
+    },
+    {
+        "id": 180,
+        "label": 3,
+        "author": "alok choudhary",
+        "title": "A framework for collaboration moderator services to support knowledge based collaboration",
+        "organization": "School of Business and Economics Loughborough University UK",
+        "abstract": "Knowledge sharing is a major challenge for collaborative networks and is essential to improve the productivity and quality of decisions taken by both collaborative networks and their member organisations. A critical aspect of effective knowledge sharing within virtual organizations (VOs) is the identification of the most appropriate knowledge for reuse or exploitation in a particular context, as this requires efficient tools and mechanisms for its identification, sharing or transfer. Additionally, partners need to be aware of when knowledge needs to be shared, the implications of doing so and when their decisions are likely to affect other partners within the collaboration. Therefore, tools and methods are needed for identification, acquisition, maintenance and evolution of knowledge and to support effective knowledge sharing which includes awareness of possible consequences of actions and increased awareness of other partner’s needs during the collaboration. The Collaboration Moderator Services (CMS) are designed to address these issues relating to knowledge based collaboration by providing a set of functionalities to raise users’ awareness of opportunities, problem areas and lessons learnt from and during collaborations. This paper presents the system architecture and specifications of the CMS within the context of the SYNERGY system, whose purpose is to offer interoperable service utilities to help enterprises plan, setup and run complex knowledge collaborations. The CMS are designed to support both individual organizations and collaborations as a whole throughout the VO lifecycle and the different functionalities provided by CMS to achieve this are discussed in this paper.",
+        "email": "",
+        "conf": "Journal of Intelligent Manufacturing",
+        "coauthors": [
+            "Rahul Swarnkar",
+            "Alok Choudhary",
+            "Jennifer A. Harding",
+            "Bishnu P. Das",
+            "Robert I. M. Young"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 175,
+        "label": 3,
+        "author": "alok choudhary",
+        "title": "Value stream mapping to reduce lead-time of a product development process",
+        "organization": "School of Business and Economics Loughborough University UK",
+        "abstract": "Product development (PD) is a broad field of endeavor dealing with the planning, design, creation, and marketing of a new product. This revolutionary research domain has become of paramount importance to beat the competition for multidisciplinary products which are larger in size and have a longer development time. The main focus of this article is to exploit lean thinking concepts in order to manage, improve and develop the product faster while improving or at least maintaining the level of performance and quality. Lean thinking concepts encompass a board range of tools and methods intended to produce bottom line results however, value stream mapping (VSM) method is used to explore the wastes, inefficiencies, non-valued added steps in a single, definable process out of complete product development process (PDP). This single step is highly complex and occurs once while the PDP lasts for 3–5 years. A case study of gas turbine product has been discussed to illustrate and justify the use of proposed framework. In order to achieve this, the following have been performed: First of all a current state map is developed using the Gemba walk. Furthermore, Subject Matter Experts (SMEs) brainstormed to explore the wastes and their root causes found during the Gemba walk and current state mapping. A future state map is also developed with removing all the wastes/inefficiencies. Besides numerous intangible benefits, it is expected that the VSM framework will help the development teams to reduce the PD lead-time by 50%.",
+        "email": "",
+        "conf": "International Journal of Production Economics",
+        "coauthors": [
+            "Satish",
+            "Tyagi",
+            "PhD",
+            "Alok Choudhary",
+            "Xianming Cai",
+            "Kai Yang"
+        ],
+        "keywords": "Product development, Lean thinking concepts, Value stream mapping, Gemba walk"
+    },
+    {
+        "id": 163,
+        "label": 3,
+        "author": "alok choudhary",
+        "title": "Closed Loop Supply Chain (CLSC): Economics Modelling Management and Control",
+        "organization": "School of Business and Economics Loughborough University UK",
+        "abstract": "This article summarizes the papers published in the special issue entitled “Closed Loop Supply Chain (CLSC): Economics, Modelling, Management and Control” in the International Journal of Production Economics. A total of 24 papers, covering an extensive range of topics in the Closed Loop Supply Chain research area, have been included in this special issue. This special issue received a wide and diverse geographical contribution with authors from 16 countries located in 4 continents including America, Asia, Europe, and Africa. Initially, the special issue received 71 research paper submissions and the final selection of 24 papers, which were recommended by at least two reviewers, provide a basis for new research directions in the domain of reverse logistics and Closed Loop Supply Chain management.",
+        "email": "",
+        "conf": "International Journal of Production Economics",
+        "coauthors": [
+            "Daria Battini",
+            "Marija Bogataj",
+            "Alok Choudhary"
+        ],
+        "keywords": "Closed Loop Supply Chain, Reverse logistics, Modelling, Supply chain management"
+    },
+    {
+        "id": 176,
+        "label": 3,
+        "author": "alok choudhary",
+        "title": "Exploring Critical Risks Associated with Enterprise Cloud Computing",
+        "organization": "School of Business and Economics Loughborough University UK",
+        "abstract": "While cloud computing has become an increasingly hot topic in the industry, risks associated with the adoption of cloud services have also received growing attention from researchers and practitioners. This paper reports the results of a study that aimed to identify and explore potential risks that organisations may encounter when adopting cloud computing, as well as to assess and prioritise the identified risks. The study adopted a deductive research method based on a cross-sectional questionnaire survey. The questionnaire was distributed to a group of 295 carefully selected and highly experienced IT professionals, of which 39 (13.2 %) responses were collected and analysed. The research findings identified a set of 39 cloud computing risks, which concentrated around diverse operational, organisational, technical, and legal areas. It was identified that the most critical risks were caused by current legal and technical complexity and deficiencies associated with cloud computing, as well as by a lack of preparation and planning of user companies.",
+        "email": "",
+        "conf": "International Conference on Cloud Computing",
+        "coauthors": [
+            "Guo Chao Alex Peng",
+            "Arnab Dutta",
+            "Alok Choudhary"
+        ],
+        "keywords": "Cloud computing, Risks, Legal, Organisational, Operational, Technical "
+    },
+    {
+        "id": 170,
+        "label": 3,
+        "author": "alok choudhary",
+        "title": "Sustainable supply chains: key performance indicators collaboration and waste management",
+        "organization": "School of Business and Economics Loughborough University UK",
+        "abstract": "Growing environmental, social and ethical concerns such as water scarcity, population growth, climate change, energy, pollution, health and safety, human rights and poverty have led to increased pressure by environmental advocacy groups, policy makers and several consumer groups on companies to deal with sustainability issues. Sustainability issues have both direct and indirect impact on the way of designing and managing supply chains. As a result, firms are increasingly focusing on their social and environmental performance, in",
+        "email": "",
+        "conf": "Management Research Review",
+        "coauthors": [
+            "Hamid Allaoui",
+            "Alok Choudhary"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 201,
+        "label": 3,
+        "author": "alok choudhary",
+        "title": "A Cooperative Multi Colony Ant Optimization Based Approach to Efficiently Allocate Customers to Multiple Distribution Centers in a Supply Chain Network",
+        "organization": "School of Business and Economics Loughborough University UK",
+        "abstract": "With the rapid change of world economy, firms need to de ploy alternative methodologies to improve the responsiveness of supply chain. The present work aims to minimize the workload disparities among various distribution centres with an aim to minimize the total shipping cost. In general, this problem is characterized by its combinatorial nature and complex allocation criterion that makes its computationally intractable. In order to optimally/near optimally resolve the balanced allocation problem, an evolutionary Cooperative Multi Colony Ant Optimization (CMCAO) has been developed. This algorithm takes its gov erning traits from the traditional Ant Colony optimization (ACO). The proposed algorithm is marked by the cooperation among “sister ants” that makes it compatible to the problems pertaining to multiple dimensions. Robustness of the proposed algorithm is authenticated by com paring with GA based strategy and the efficiency of the algorithm is validated by ANOVA.",
+        "email": "",
+        "conf": "nternational Conference on Computational Science and Its Applications",
+        "coauthors": [
+            "Srinivas",
+            "Yogesh Dashora",
+            "Alok Choudhary",
+            "J. A. Harding",
+            "Manoj Kumar Tiwari"
+        ],
+        "keywords": "Supply chain, Balanced allocation, Cooperative Multi Colony Ants, ANOVA "
+    },
+    {
+        "id": 187,
+        "label": 3,
+        "author": "alok choudhary",
+        "title": "Learning Collaboration Moderator Services: Supporting Knowledge Based Collaboration",
+        "organization": "School of Business and Economics Loughborough University UK",
+        "abstract": "Collaboration Moderator Services (CMS) as an evolution of earlier Moderator research has emerged to address the issues relating to knowledge based collaboration by providing a set of functionalities such as raising awareness of business opportunities, problems areas, conflicts, change in the item of interests and lessons learned from collaboration. This paper presents a framework for learning CMS within the context of SYNERGY project. It has been shown that knowledge miners of CMS can be used to learn from the databases of the collaborative networked organizations (CNO) and semi-automatically update the CMS Knowledge Base. A case study from construction project has been used to show that the knowledge miner of CMS can “learn” by extracting various kinds of knowledge from Post Project Reports (PPRs) using different text mining techniques. The discovered knowledge in the form of rules relates to improving the processes, identifying recurring problems, good and bad practices, improving customer relationships and enhancing the coordination between members of CNO.",
+        "email": "a.choudhary@sheffield.ac.uk",
+        "conf": "Working Conference on Virtual Enterprises",
+        "coauthors": [
+            "Alok Choudhary",
+            "Jenny Harding",
+            "R. Swarnkar",
+            "Robert I. M. Young"
+        ],
+        "keywords": "Collaborative Networked Organization, Collaboration Moderator Services, Knowledge Discovery, Text Mining, Virtual Organization and PPRs "
+    },
+    {
+        "id": 197,
+        "label": 3,
+        "author": "alok choudhary",
+        "title": "A statistical tolerancing approach for design of synchronized supply chains",
+        "organization": "School of Business and Economics Loughborough University UK",
+        "abstract": "Supply chain (SC) can be visualized as a means to fulfilling the customer's requirement with the objective to maximize the overall value generated. With the rapid change of world economy, firms need to deploy alternative methodologies to improve the responsiveness of SC. In this regard, one important issue is the synchronization and co-ordination of supply chain network (SCN). In order to ensure the dispatch of finished product to the customer, with in customers specified delivery window, with a fierce high probability, the delivery performance of any SCN is to be minimized by forcing the work in the system. These requirements can be achieved by SC coordination, where timing of the actions performed by each of the business entities must be perfectly synchronized in SCN. This research is first of its kind where a probabilistic model is conceptualized to allocate the tolerances on lead times of internal business processes of a SCN. Various linear and nonlinear constraints have been considered with an end goal of minimizing the total cost of given network. In the proposed approach, synchronization among the members of SC has been achieved in the similar fashion as that of tolerance allocation on mechanical assemblies. The effectiveness of the proposed model is illustrated with a case study. The probabilistic model for ensuring synchronization shows much promise for improving the entire performance of network in terms of greater profit, speed, flexibility, quality, and product development etc., in a long run manufacturing enterprise.",
+        "email": "",
+        "conf": "Robotics and Computer-Integrated Manufacturing",
+        "coauthors": [
+            "Alok Kumar Choudhary",
+            "Kumar Ashutosh Singh",
+            "Manoj Kumar Tiwari"
+        ],
+        "keywords": "Supply chain, Tolerances, Lead time, Manufacturing enterprise"
+    },
+    {
+        "id": 182,
+        "label": 3,
+        "author": "alok choudhary",
+        "title": "A Knowledge Based Decision Support System for Supply Chain Risk Management",
+        "organization": "School of Business and Economics Loughborough University UK",
+        "abstract": "This paper discusses the concept of supply chain risk management (SCRM) in relation to the emerging challenges brought by globalisation and opportunities provided by the information and communication technologies (ICT) and the ability of SCRM frameworks to adapt to these latest requirements. Existing literature provides many examples of ICT platforms for supply chain optimisation and profit maximisation however there is still a research gap in relation to the existence of sufficient debate and provision of ICT tools for supply SCRM. This gap is even more intriguing since SCRM can be responsible for loss or gain of profit and the ultimate goal of enterprises should be to have resilient supply chains with automated decision making capability that can efficiently and timely deal with potential disruptions. In response to these, taking advantage of ICT developments such as knowledge discovery and data mining, and automated agent based risk management frameworks provide great perspectives for assuring business success. Having this context, this research has the following aims: 1) to perform a literature review on multi-agent systems (MAS), SCRM, decision support systems, knowledge discovery and management, and data mining, 2) to present Hi-LAB - refined MAS for SCRM, and 3) to formally design Hi-LAB, implement it and evaluate its performance.",
+        "email": "a.choudhary@sheffield.ac.uk",
+        "conf": "European Decision Sciences Institute Conference EDSI",
+        "coauthors": [
+            "Adrian Ovidiu Solomon",
+            "Panayiotis H. Ketikidis",
+            "Alok Choudhary",
+            "Manoj Kumar Tiwari"
+        ],
+        "keywords": "Collaborative Decision Making, Manufacturing, Decision Support Systems, Intelligent Systems, Knowledge Management, Supply Chain Risk Management, Conceptual Modelling"
+    },
+    {
+        "id": 196,
+        "label": 3,
+        "author": "alok choudhary",
+        "title": "Knowledge Discovery For Moderating Collaborative Projects",
+        "organization": "School of Business and Economics Loughborough University UK",
+        "abstract": "Competitive advantage can be gained through targeted exploitation of proprietary knowledge of all types, but especially of expertise and experience. One of the major issues in multidiscipline collaborative projects is how best to share and simultaneously exploit different types of expertise, without duplicating efforts or inadvertently causing conflicts or loss of efficiency through misunderstandings of individual or shared goals. Hence the challenges are enormous when considered in the context of distributed decision making from concept design, through product and manufacturing system design, volume production and on into obsolescence. Moderator technology, in the form of knowledge based software support systems, have been successfully demonstrated in both the product and manufacturing system design domains. However, knowledge acquisition, learning and updating of knowledge is yet to be fully studied. This paper presents a knowledge discovery framework to support knowledge acquisition for moderator technology in collaborative projects.",
+        "email": "a.k.choudhary@lboro.ac.uk",
+        "conf": "IEEE International Conference on Industrial Informatics",
+        "coauthors": [
+            "Alok Choudhary",
+            "Jenny Harding",
+            "Keith Popplewell"
+        ],
+        "keywords": "Collaboration, Manufacturing systems, Knowledge engineering,Knowledge acquisition,Systems engineering and theory,Design engineering,Knowledge management,Product design,Software systems,Data mining"
+    },
+    {
+        "id": 158,
+        "label": 3,
+        "author": "alok choudhary",
+        "title": "Disentangling Environment Specific Sustainability-Oriented Innovation: Insights from the Airbus-Boeing Duopoly",
+        "organization": "School of Business and Economics Loughborough University UK",
+        "abstract": "We develop an empirically grounded understanding of Environment-Specific Sustainability-Oriented Innovation (ES-SOI) in the technology-intensive aviation sector. Focusing on the Boeing-Airbus duopoly, we use secondary and archival data from several sources (e.g., sustainability reports and databases). Methodologically, manual coding and centering resonance analysis (CRA) based clustering techniques are used to arrive at distinct types of ES-SOI. Specifically, resource consumption and resource efficiency are salient in the ES-SOI. We conclude with how these distinct ES-SOIs could extend theoretical deliberations on the SOI.",
+        "email": "A.Choudhary@lboro.ac.uk",
+        "conf": "Operations Management and Sustainability. Palgrave Macmillan",
+        "coauthors": [
+            "Rohit Nishant",
+            "Alok Choudhary",
+            "Hung-Yao Liu",
+            "Mark Goh"
+        ],
+        "keywords": "Sustainability, Innovation, Environment, Aviation, CRA "
+    },
+    {
+        "id": 193,
+        "label": 3,
+        "author": "alok choudhary",
+        "title": "Text Mining Post Project Reviews to Improve the Construction Project Supply Chain Design.",
+        "organization": "School of Business and Economics Loughborough University UK",
+        "abstract": "Post Project Reviews (PPR) capture good and bad practices, identify problems, waste, risks, missed opportunities, communication lag, financial issues, partner relationships etc., of a construction project supply chain (CPSC). They are huge sources of information, knowledge and experience from project managers, clients, suppliers and contractors, related to issues from every stage of the construction project. If these reports were analysed collectively, they may expose important detail, perhaps repeated across a number of projects. However, because most companies do not have the resources to thoroughly examine these PPRs, either individually or collectively, important insights are missed thereby leading to missed opportunities to learn from previous projects. This research shows that the hidden knowledge and experiences could be captured using knowledge discovery and text mining approaches to uncover patterns, associations, and trends in PPRs. The results might then be used to address specific problem areas, enhance processes and improve the design and planning for new construction projects.",
+        "email": "",
+        "conf": "DMIN",
+        "coauthors": [
+            "Alok Choudhary",
+            "Jenny Harding",
+            "Patricia M. Carrillo",
+            "Nadeem Rahman"
+        ],
+        "keywords": "PPRs, Construction Project, Supply Chain, Knowledge discovery, Text Mining"
+    },
+    {
+        "id": 195,
+        "label": 3,
+        "author": "alok choudhary",
+        "title": "Development of an intelligent agent-based AGV controller for a flexible manufacturing system",
+        "organization": "School of Business and Economics Loughborough University UK",
+        "abstract": "Automated guided vehicles (AGVs) are the most flexible means to transport materials among workstations of a flexible manufacturing system. Complex issues associated with the design of AGV control of these systems are conflict-free shortest path, minimum time motion planning and deadlock avoidance. This research presents an intelligent agent-based framework to overcome the inefficacies associated with the aforementioned issues. Proposed approach describes the operational control of AGVs by integrating different activities such as path generation, journey time enumeration, collision and deadlock identification, waiting node location and its time estimation, and decision making on the selection of the conflict-free shortest feasible path. It represents efficient algorithms and rules associated with each agent for finding the conflict-free minimum time motion planning of AGVs, which are needed to navigate unidirectional and bidirectional flow path network. A collaborative architecture of AGV agent and its different modules are also presented. Three complex experimental scenarios are simulated to test the robustness of the proposed approach. It is shown that the proposed agent-based controller is capable of generating optimal, collision- and deadlock-free path with less computational efforts.",
+        "email": "",
+        "conf": "International Journal of Advanced Manufacturing Technology",
+        "coauthors": [
+            "Sharad Chandra Srivastava",
+            "Alok Choudhary",
+            "Surendra Kumar",
+            "Manoj Kumar Tiwari"
+        ],
+        "keywords": "Automated guided vehicles (AGVs), Flexible manufacturing system AGV control, Multi-agent system (MAS), Deadlock avoidance"
+    },
+    {
+        "id": 159,
+        "label": 3,
+        "author": "alok choudhary",
+        "title": "Trends in Industrial Engineering and the Saudi Vision 2030",
+        "organization": "School of Business and Economics Loughborough University UK",
+        "abstract": "Not only is industrial engineering one of the most diverse, and multidisciplinary branches of engineering, but recent research has shown that IE is highly associated with a nation’s economic and industrial development. It is by definition a discipline concerned with optimizing design, implementation, integration, operation, improvement and management of high-level systems. Examples of current trends in IE include higher sustainability of green and more efficient energy, advancement in smart products and the “Internet of Things”, upgrading designs to suit the majority of people and rising world markets, and expanding the availability and accessibility of CAD (computer-aided design) and CAE (computer-aided engineering) software on a “Cloud” basis with maximum flexibility and minimal cost. Furthermore, interest in such sub-specializations of IE such as information technology, intelligent systems, optimization, quality, and supply chain management is expected to boost in the upcoming years. This paper is aimed at shedding further light on such trends and advancements in IE and their role in providing novel and environmentally-friendly Saudi Arabia economic opportunities in accordance with the recent Saudi Arabian Vision 2030’s “Pillar 2: A thriving economy.”",
+        "email": "a.choudhary@lboro.ac.uk",
+        "conf": "IISE Annual Conference",
+        "coauthors": [
+            "Mohammed S. Alkahtani",
+            "Ahmed M. El-Sherbeeny",
+            "Mohammed A. Noman",
+            "Fawaz M. Abdullah",
+            "Alok Choudhary"
+        ],
+        "keywords": "Industrial Engineering; Trends in Industrial Engineering; Saudi Arabian Vision."
+    },
+    {
+        "id": 168,
+        "label": 3,
+        "author": "alok choudhary",
+        "title": "Designing multi-period supply chain network considering risk and emission: a multi-objective approach",
+        "organization": "School of Business and Economics Loughborough University UK",
+        "abstract": "This research formulates a multi-objective problem (MOP) for supply chain network (SCN) design by incorporating the issues of social relationship, carbon emissions, and supply chain risks such as disruption and opportunism. The proposed MOP includes three conflicting objectives: maximization of total profit, minimization of supply disruption and opportunism risks, and minimization of carbon emission considering a number of supply chain constraints. Furthermore, this research analyses the effect of social relationship levels between different tiers of SCN on the profitability, risk, and emission over the time. In this regard, we focus on responding to the following questions. (1) How does the evolving social relationship affect the objectives of the supply chain (SC)? (2) How do the upstream firms’ relationships affect the relationships of downstream firms, and how these relationships influence the objectives of the SC? (3) How does the supply disruption risk interact with the opportunism risk through supply chain relationships, and how these risks affect the objectives of the SC? (4) How do these three conflicting objectives trade-off? A Pareto-based multi-objective evolutionary algorithm–non-dominated sorting genetic algorithm-II (NSGA-II) has been employed to solve the presented problem. In order to improve the quality of solutions, tuning parameters of the NSGA-II are modulated using Taguchi approach. An illustrative example is presented to manifest the capability of the model and the algorithm. The results obtained evince the robust performance of the proposed MOP.",
+        "email": "a.choudhary@lboro.ac.uk",
+        "conf": "Annals of Operations Research",
+        "coauthors": [
+            "Ravi Shankar Kumar",
+            "Alok Choudhary",
+            "Soudagar Abdul Khaja Irfan Babu",
+            "Sri Krishna Kumar",
+            "A. Goswami",
+            "Manoj Kumar Tiwari"
+        ],
+        "keywords": "Supply chain network, Social relationship, Risk management, Emission, Multi-objective optimization, Pareto optimal"
+    },
+    {
+        "id": 179,
+        "label": 3,
+        "author": "alok choudhary",
+        "title": "Algorithm portfolios for logistics optimization considering stochastic demands and mobility allowance",
+        "organization": "School of Business and Economics Loughborough University UK",
+        "abstract": "The vehicle routing problem with stochastic demand (VRPSD) is a well known NP-hard problem. The uncharacteristic behaviour associated with the problem enhances the computational efforts required to obtain a feasible and near-optimal solution. This paper proposes an algorithm portfolio methodology based on evolutionary algorithms, which takes into account the stochastic nature of customer demand to solve this computationally complex problem. These problems are well known to have computationally complex objective functions, which make their solutions hard to find, particularly when problem instances of large dimensions are considered. Of particular importance in such situations is the timeliness of the solution. For example, Apple was forced to delay their shipments of iPads internationally due to unprecedented demand and issues with their delivery systems in Samsung Electronics and Seiko Epson. Such examples illustrate the importance of stochastic customer demands and the timing of delivery. Moreover, most of the evolutionary algorithms, known for providing computationally efficient solutions, are unable to always provide optimal or near optimal solutions to all the VRPSD instances within allocated time interval. This is due to the characteristic variations in the computational time taken by evolutionary algorithms for same or varying size of the VRPSD instances. Therefore, this paper presents portfolios of different evolutionary algorithms to reduce the computational time taken to resolve the VRPSD. Moreover, an innovative concept of the mobility allowance (MA) in landmoves based on the levy’s distribution function has been introduced to cope with real situations existing in vehicle routing problems. The proposed portfolio approach has been evaluated for the varying instances of the VRPSD. Four of the existing metaheuristics including Genetic Algorithm (GA), Simulated Annealing (SA), Artificial Immune System (AIS), TABU Search (TS) along with new neighbourhood search, are incorporated in the portfolios. Experiments have been performed on varying dimensions of the VRPSD instances to validate the different properties of the algorithm portfolio. An illustrative example is presented to show that the set of metaheuristics allocated to certain number of processors (i.e. algorithm portfolio) performed better than their individual metaheuristics.",
+        "email": "a.choudhary@sheffield.ac.uk",
+        "conf": "International Journal of Production Economics",
+        "coauthors": [
+            "Nagesh Shukla",
+            "Alok Choudhary",
+            "P.K.S. Prakash",
+            "K.J. Fernandes",
+            "Manoj Kumar Tiwari"
+        ],
+        "keywords": "Algorithm portfolio, metaheuristic search, Vehicle routing problem, Stochastic demand, Genetic algorithm, Simulated annealing, TABU search"
+    },
+    {
+        "id": 178,
+        "label": 3,
+        "author": "alok choudhary",
+        "title": "Knowledge management and supporting tools for collaborative networks",
+        "organization": "School of Business and Economics Loughborough University UK",
+        "abstract": "Recent organisational trends show an increase in the formation of collaborative networks (CNs) to improve competitive advantage and provide world-class excellence and flexibility to address dynamic and turbulent market conditions. Collaboration of various forms can",
+        "email": "",
+        "conf": "International Journal of Production Research",
+        "coauthors": [
+            "Alok Choudhary",
+            "Jenny Harding",
+            "Luis Camarinha-Matos",
+            "S.C. Lenny Koh",
+            "Manoj Kumar Tiwari"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 186,
+        "label": 3,
+        "author": "alok choudhary",
+        "title": "An Empirical Study on Human and Information Technology Aspects in Collaborative Enterprise Networks",
+        "organization": "School of Business and Economics Loughborough University UK",
+        "abstract": "Small and Medium Enterprises (SMEs) face new challenges in the global market ascustomers require more complete and flexible solutions and continue to drastically reduce the number of suppliers. SMEs are trying to address these challenges through cooperation within collaborative enterprise networks (CENs). Human aspects constitute a fundamental issue in these networks as people, as opposed to organizations or Information Technology (IT) systems, cooperate. Since there is a lack of empirical studies on the role of human factors in ITsupported collaborative enterprise networks, this paper addresses the major human aspects encountered in this type of organization. These human aspects include trust issues, knowledge and know-how sharing, coordination and planning activities, and communication and mutual understanding, as well as their influence on the business processes of CENs supported by IT tools. This paper empirically proves that these aspects constitute key factors for the success or the failure of CENs. Two case studies performed on two different CENs in Switzerland are presented and the roles of human factors are identified with respect to the IT support systems. Results show that specific human factors, namely trust and communication and mutual understanding have to be well addressed in order to design and develop adequate software solutions for CENs",
+        "email": "a.choudhary@sheffield.ac.uk",
+        "conf": "JOURNAL OF UNIVERSAL COMPUTER SCIENCE",
+        "coauthors": [
+            "Naoufel Cheikhrouhou",
+            "Michel Pouly",
+            "Charles Huber",
+            "Alok Choudhary"
+        ],
+        "keywords": "Collaborative enterprise networks, human aspects, trust issues, communication, ICT support "
+    },
+    {
+        "id": 164,
+        "label": 3,
+        "author": "alok choudhary",
+        "title": "Strategic design for inventory and production planning in closed-loop hybrid systems",
+        "organization": "School of Business and Economics Loughborough University UK",
+        "abstract": "This research studies inventory and production planning in a closed-loop system while considering both manufacturing and remanufacturing. We studied five inventory and production planning models under the continuous and periodic review systems using a discrete event simulation. Under the above review policies, different demand and return rates, as well as manufacturing and remanufacturing lead times, are considered. The total recoverable and serviceable inventory costs and production order variance are considered as the main performance indicators. From the total inventory cost viewpoint, our findings reveal the trade-off between stochastic demand, stochastic lead times, and review periods. It was found that the periodic review system outperforms the continuous review system for higher values of the review period and return to demand rate ratio. Furthermore, remanufacturing demonstrates an appreciable contribution to low order variance in periodic review systems for high values of return to demand ratio and lead times.",
+        "email": "a.choudhary@lboro.ac.uk",
+        "conf": "International Journal of Production Economics",
+        "coauthors": [
+            "Navin K. Dev",
+            "Ravi Shankar",
+            "Alok Choudhary"
+        ],
+        "keywords": "Closed-loop hybrid systems, Inventory and production planning, Remanufacturing, Simulation, Order variance"
+    },
+    {
+        "id": 181,
+        "label": 3,
+        "author": "alok choudhary",
+        "title": "A Knowledge Based Approach for Handling Supply Chain Risk Management",
+        "organization": "School of Business and Economics Loughborough University UK",
+        "abstract": "This paper discusses the concept of supply chain risk management (SCRM) in relation to the emerging challenges brought by globalisation and information and communication technologies (ICT) and the ability of SCRM frameworks to adapt to these latest requirements. As SCRM can be responsible for loss or gain of profit, the ultimate goal of enterprises is to have resilient supply chains with automated decision making that can deal with potential disruptions. In response to these, taking advantage of ICT developments such as knowledge and data discovery techniques and automated risk management frameworks have become a vital aspect for assuring business success. Having this context, this research has the following aims: 1) to perform literature review on identifying and categorising several types of supply chain risks in order to analyze their management strategies, 2) to perform a literature review on knowledge management frameworks and 3) to propose a knowledge management and a risk management framework that would be, at a further stage of this research, integrated in an agent based decision support system for supply chain risk management.",
+        "email": "a.choudhary@sheffield.ac.uk",
+        "conf": "SSRN Electronic Journal",
+        "coauthors": [
+            "Adrian Ovidiu Solomon",
+            "Panayiotis H. Ketikidis",
+            "Alok Choudhary"
+        ],
+        "keywords": "Data mining, knowledge extraction and management, supply chain risk management"
+    },
+    {
+        "id": 198,
+        "label": 3,
+        "author": "alok choudhary",
+        "title": "An Evolutionary Approach for Multi-Pass Turning Operations",
+        "organization": "School of Business and Economics Loughborough University UK",
+        "abstract": "Owing to the significant role that machining parameters play in performing successful and efficient machining operations, the determination of optimum machining parameters is a subject of high importance. The problems are well-known complex puzzles and are treated as a strongly non-deterministic polynomial (NP)-hard problem. In this research, a multi-pass turning problem has been modelled, taking into consideration several technological constraints pertaining to force, power, chip-tool interface temperature, tool life, stable cutting region, etc.; while aiming to satisfy the objective of minimizing the unit production cost. The solution of such a problem, even one of modest size, is marked by excessive computational complexity and therefore random search optimization techniques are needed in order to resolve the problem. In this paper, a heuristic has been developed to determine the number of passes and a new kind of genetic algorithm (GA), incorporating the features of chromosome differentiation and simulated annealing, has been developed and applied to address multi-pass turning problems. The proposed algorithm overcomes the drawbacks of simple GAs and the methodology adopted here has the capability of achieving a better balance between exploration and exploitation, and of escaping from local minima. The proposed algorithm has been tested on various case studies adopted from the literature, as well as on ten simulated data sets. Intensive computational experiments revealed its superiority over earlier approaches.",
+        "email": "",
+        "conf": "Proceedings of the Institution of Mechanical Engineers Part B Journal of Engineering Manufacture",
+        "coauthors": [
+            "G Singh",
+            "Alok Choudhary",
+            "Karunakaran K.P.",
+            "Manoj Kumar Tiwari"
+        ],
+        "keywords": "multi-pass turning, genetic algorith, chromosome differentiation, non-deterministic polynomial problem"
+    },
+    {
+        "id": 161,
+        "label": 3,
+        "author": "alok choudhary",
+        "title": "A decision model for a strategic closed-loop supply chain to reclaim End-of-Life Vehicles",
+        "organization": "School of Business and Economics Loughborough University UK",
+        "abstract": "Closed-loop supply chain strategies for End-of-Life (EOL) products and their logistics operations have received greater attention in recent years from supply chain research community. These strategies include warranty–based acquisition, quantity–based acquisition, quality–based acquisition, centrally coordinated logistics operations and third-party logistics (3PL) operations. The proposed research integrates two important aspects of an automobile's closed-loop supply chain strategy. The first aspect is optimal transportation planning for raw material parts, newly manufactured and EOL products in a closed-loop supply chain, using demand, collection rate and capacity of associated facilities in the network as functional parameters. We formulated a mixed integer mathematical model for the closed-loop supply chain network with a multi-echelon inventory, multi-period planning and multi-product scenario, which are used to compute the maximum contribution margin generated through different strategies. The second aspect pertains to using the output of the proposed model in first stage to handle the sequential form of a cooperative game. The proposed two–phase decision model analyzes the realization times and delivery limits of different products as an indicator of swapping different strategies. We analyze three instances to understand and validate the applicability of the model. In these scenarios, sensitivity analysis has been performed to demonstrate the robustness of the proposed model. We present managerial insights, leading to flexibility in decision making. It is observed that the demand, collection rate and capacity of network facilities create highly sensitive trilogy for the contribution margin of proposed network. The outcome of this research firstly confers optimal amounts of mass flows in the closed loop supply chain network from a state of the end product (new products, recycled products and non–recycled used products) to a state of the raw material (ferrous metal, non-ferrous metal and shredder fluff). Secondly, authors culminated a confound dichotomy among all reintegration strategies (conveyance, acquisition and cannibalization) by distinct enumeration and quantification (regarding realization times and delivery limits) of each one to forge a robust planning horizon for original equipment manufacturer.",
+        "email": "A.Choudhary@lboro.ac.uk",
+        "conf": "International Journal of Production Economics",
+        "coauthors": [
+            "Ravi Shankar",
+            "Shisam Bhattacharyya",
+            "Alok Choudhary"
+        ],
+        "keywords": "Closed-loop supply chain, Mixed integer programming, Sequential game, Logistics, Supply chain strategy, Optimization"
+    },
+    {
+        "id": 177,
+        "label": 3,
+        "author": "alok choudhary",
+        "title": "Risks in Enterprise Cloud Computing: The Perspective of it Experts",
+        "organization": "School of Business and Economics Loughborough University UK",
+        "abstract": "Cloud computing has become an increasingly prevalent topic in recent years. However, migrating hitherto internal IT data and applications to the cloud is associated with a wide range of risks and challenges. The study reported in this paper aims to explore potential risks that organisations may encounter during cloud computing adoption, as well as to assess and prioritise these risks, from the perspective of IT practitioners and consultants. A questionnaire was designed and distributed to a group of 295 highly experienced IT professionals involved in developing and implementing cloud based solutions, of which 39 (13.2%) responses were collected and analysed. The findings identified a set of 39 cloud computing risks, which concentrated around diverse operational, organisational, technical, and legal areas. The most critical top 10 risks perceived by IT experts were found to be caused by current legal and technical complexity and deficiencies associated with cloud computing, as well as by a lack of preparation and planning of user companies.",
+        "email": "",
+        "conf": "Journal of Computer Information Systems",
+        "coauthors": [
+            "Amab Dutta",
+            "Guo Chao Alex Peng",
+            "Alok Choudhary"
+        ],
+        "keywords": "Enterprise cloud computing, risks, risk management, legal, technical, data security"
+    },
+    {
+        "id": 194,
+        "label": 3,
+        "author": "alok choudhary",
+        "title": "Fuzzy modelling of an agent oriented manufacturing enterprise",
+        "organization": "School of Business and Economics Loughborough University UK",
+        "abstract": "In order to remain in contention in the world market, it is necessary for manufacturing enterprises to design and produce new products with the shortest possible lead time as well as in an effective and competitive way. This includes features of a distributed control paradigm, to adjust to dynamic situations such as frequent process disturbances. Feasibility of a manufacturing enterprise can be enhanced by forming an efficient, flexible, and responsive network of autonomous agents, which can be termed an ‘agent networks’. The flexibility and responsiveness of an agent network can be implemented only when there is proper interaction and communication facility between its various entities. The goal of this paper is to streamline the structural intricacies related to the agent network so that the system as a whole can be more flexible and responsive. In this context, a fuzzy c-means-based clustering algorithm is proposed to group the agents in order to capture effectively the uncertainty and imprecision associated with them. This leads to clustering of the pertinent agents and thus reduces the number of discrete entities of the manufacturing system, thereby simplifying the function of the system. A test problem has been solved to show the effectiveness of the proposed approach.",
+        "email": "a.k.choudhary@lboro.ac.uk; alok_nifft@rediffmail.com",
+        "conf": "Proceedings of the Institution of Mechanical Engineers Part B Journal of Engineering Manufacture",
+        "coauthors": [
+            "Alok Choudhary",
+            "Manoj Kumar Tiwari",
+            "R Shankar"
+        ],
+        "keywords": "manufacturing enterprises, autonomous agents, fuzzy c-means clustering, automated manufacturing system"
+    },
+    {
+        "id": 189,
+        "label": 3,
+        "author": "alok choudhary",
+        "title": "The needs and benefits of Text Mining applications on Post-Project Reviews",
+        "organization": "School of Business and Economics Loughborough University UK",
+        "abstract": "Post-Project Reviews (PPRs) are a rich source of knowledge and data for organisations – if organisations have the time and resources to analyse them. Too often these reports are stored, unread by many who could benefit from them. PPR reports attempt to document the project experience – both good and bad. If these reports were analysed collectively, they may expose important detail, e.g. recurring problems or examples of good practice, perhaps repeated across a number of projects. However, because most companies do not have the resources to thoroughly examine PPR reports, either individually or collectively, important insights and opportunities to learn from previous projects, are missed. This research explores the application of knowledge discovery techniques and Text Mining to uncover patterns, associations, and trends from PPR reports. The results might then be used to address problem areas, enhance processes, and improve customer relationships. A case study related to two construction companies is presented in this paper and knowledge discovery techniques are used to analyse 50 PPR reports collected during the last three years. The case study has been examined in six contexts and the results show that Text Mining has a good potential to improve overall knowledge reuse and exploitation.",
+        "email": "",
+        "conf": "Computers in Industry",
+        "coauthors": [
+            "Alok Choudhary",
+            "Paul Ihuoma Oluikpe",
+            "Jenny Harding",
+            "Patricia M. Carrillo"
+        ],
+        "keywords": "Text Mining, Knowledge discovery, Post-Project Reviews (PPRs), Manufacturing and construction"
+    },
+    {
+        "id": 199,
+        "label": 3,
+        "author": "alok choudhary",
+        "title": "Part selection and operation-machine assignment in FMS environment: A genetic algorithm with chromosome differentiation based methodology",
+        "organization": "School of Business and Economics Loughborough University UK",
+        "abstract": "Production planning of a flexible manufacturing system (FMS) is plagued by two interrelated problems, i.e. part type selection and operation allocation on machines. The combination of these problems is termed the machine-loading problem, which is a wellknown complex puzzle and treated as a strongly NP-hard problem. In this research, a machine-loading problem has been modelled, taking into consideration several technological constraints related to the flexibility of machines, availability of machining time, tool slots, etc., while aiming to satisfy the objectives of minimizing the system unbalance, maximizing throughput, and achieving very good overall FMS utilization. The solution of such problems, even for moderate numbers of part types and machines, is marked by excessive computation complexities and therefore advanced random search and optimization techniques are needed to resolve them. In this paper, a new kind of genetic algorithm, termed a genetic algorithm with chromosome differentiation, has been used to address a well-known machine-loading problem. The proposed algorithm overcomes the drawbacks of the simple genetic algorithm and the methodology reported here is capable of achieving a better balance between exploration and exploitation and of escaping from local minima. The proposed algorithm has been tested on ten standard test problems adopted from literature and extensive computational experiments have revealed its superiority over earlier approaches.",
+        "email": "",
+        "conf": "Proceedings of the Institution of Mechanical Engineers Part B Journal of Engineering Manufacture",
+        "coauthors": [
+            "Alok Choudhary",
+            "Manoj Kumar Tiwari",
+            "Jenny Harding"
+        ],
+        "keywords": "flexible manufacturing system, machine loading, genetic algorithm, chromosome differentiation"
+    },
+    {
+        "id": 173,
+        "label": 3,
+        "author": "alok choudhary",
+        "title": "Tactical supply chain planning under a carbon tax policy scheme: A case study",
+        "organization": "School of Business and Economics Loughborough University UK",
+        "abstract": "Greenhouse gas emissions are receiving greater scrutiny in many countries due to international forces to reduce anthropogenic global climate change. Industry and their supply chains represent a major source of these emissions. This paper presents a tactical supply chain planning model that integrates economic and carbon emission objectives under a carbon tax policy scheme. A modified Cross-Entropy solution method is adopted to solve the proposed nonlinear supply chain planning model. Numerical experiments are completed utilizing data from an actual organization in Australia where a carbon tax is in operation. The analyses of the numerical results provide important organizational and policy insights on (1) the financial and emissions reduction impacts of a carbon tax at the tactical planning level, (2) the use of cost/emission tradeoff analysis for making informed decisions on investments, (3) the way to price carbon for maximum environmental returns per dollar increase in supply chain cost.",
+        "email": "",
+        "conf": "International Journal of Production Economics",
+        "coauthors": [
+            "Behnam Fahimnia",
+            "Joseph Sarkis",
+            "Alok Choudhary",
+            "Ali Eshragh"
+        ],
+        "keywords": "Green supply chain, Environmental sustainability, Carbon tax policy scheme, Carbon pricing, Cap-and-trade market, Carbon trading, Nested Integrated Cross-Entropy"
+    },
+    {
+        "id": 191,
+        "label": 3,
+        "author": "alok choudhary",
+        "title": "Semantic web in manufacturing",
+        "organization": "School of Business and Economics Loughborough University UK",
+        "abstract": "Advances in manufacturing systems include attempts to create collaborative networks for enterprise integration and information interoperability. To achieve collaboration and sharing effectively, various networking technologies have been proposed in the literature. The web has emerged as a basic entity for interconnecting man and machine and almost all parts of the enterprise community are being reshaped to exploit the opportunities that it offers. Apart from web technology, there are various other tools and techniques that have attracted research communities for representing data in ways that both machines and humans can understand. Semantic web, the second-generation web technology, is enriched by machine-processable information to support the users in their tasks. This paper presents the vision of the semantic web and describes ontologies and associated metadata as the building blocks of the semantic web. It reviews the literature dealing with the application of the semantic web and ontology in the broad domain of manufacturing. First, brief details about key enablers, i.e. web services, semantic web, semantic services, and ontology, are presented. Then the implementation of these approaches in different sectors of manufacturing is discussed. A knowledge base for all the information resources concerned with the manufacturing domain is also built up in this paper. An ontology model for a knowledge base of information resources is designed in Protégé software, which can be used for storing and searching information about authors, journals, blogs, newspapers, and many other sources of information.",
+        "email": "",
+        "conf": "Proceedings of the Institution of Mechanical Engineers Part B Journal of Engineering Manufacture",
+        "coauthors": [
+            "N Khilwani",
+            "Jenny Harding",
+            "Alok Choudhary"
+        ],
+        "keywords": "manufacturing, web technology, ontology, semantic web, protégé"
+    }
+]

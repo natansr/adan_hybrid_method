@@ -1,0 +1,1144 @@
+[
+    {
+        "id": 1404,
+        "label": 28,
+        "author": "ajay gupta",
+        "title": "A parallel implementation of reinforced learning model used in analyzing risky decision making",
+        "organization": "Professor of Computer Science Western Michigan University",
+        "abstract": "Analyzing datasets for Risky Decision Making (RDM) is a challenging task involving the identification of varied decision making patterns and the categorization of individuals. Researchers from various fields as diverse as psychology and marketing are actively working to identify suitable techniques, which will allow understanding decision making processes better. Researchers have commonly used machine learning algorithms to model decision making processes. However, the high computational costs of most machine learning algorithms make such endeavors challenging for increasingly large datasets. One of the most promising approaches is to use ensemble clustering for RDM analysis. Ensemble clustering is computationally intensive and thus we propose to improve its performance. Our study reveals that computational overhead is introduced through the use of dimensions in ensemble cluster RDM analyses. Improving performance requires more than the parallelization of individual clustering techniques of the ensemble. We therefore propose a FIFO queue based implementation for analyzing RDM datasets using a HPC cluster on a distributed system. Our technique is able to achieve almost a linear speedup (e.g. 44.79x using 48 MPI threads). Possible shortcomings of the proposed method, opportunities for future work, and alternative parallelization scenarios are also discussed in this paper.",
+        "email": "ajay.gupta@wmich.edu",
+        "conf": "Conference on High Performance Computing & Simulation (HPCS). IEEE",
+        "coauthors": [
+            "Vinay Gavirangaswamy",
+            "Ajay K. Gupta",
+            "Aakash Gupta"
+        ],
+        "keywords": "ensemble clustering application,machine learning,MPI,multi objective optimization,parallel distributed processing,risky decision making"
+    },
+    {
+        "id": 1452,
+        "label": 28,
+        "author": "ajay gupta",
+        "title": "Task Redistribution in Faulty Networks using Evolutionary Strategies",
+        "organization": "Professor of Computer Science Western Michigan University",
+        "abstract": "Fault tolerant distributed systems must be able to continue operation in the presence of hardware faults (albeit with degraded performance). If one or more processors fail, the tasks assigned to those processors must be reassigned to other operational processors. The recovery mechanism thus reduces to a task al location problem in a faulty network. This problem is known to be N P -complete. In this paper we redistribute tasks in faulty networks using evolutionary strategies. We show that this technique is able to quickly determine a good real location of tasks with little degradation of performance.",
+        "email": "",
+        "conf": "Workshop on Parallel Processing",
+        "coauthors": [
+            "Garrison Greenwood",
+            "Ajay K. Gupta",
+            "Mark Terwilliger"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 1439,
+        "label": 28,
+        "author": "ajay gupta",
+        "title": "Adaptive multivariate integration using MPI",
+        "organization": "Professor of Computer Science Western Michigan University",
+        "abstract": "We describe a coarse grain parallel algorithm for multivariate adaptive integration using MPI. The algorithm is asynchronous in nature and allows for load balancing. Timing results show good speedups obtained on a network of workstations for a class of integrals from Bayesian statistics.",
+        "email": "",
+        "conf": "Conference on High-Performance Computing. IEEE",
+        "coauthors": [
+            "Elise de Doncker",
+            "Ajay K. Gupta",
+            "M. Guo"
+        ],
+        "keywords": "Load management,Workstations,Algorithm design and analysis,Parallel algorithms,Bayesian methods,Computer science,Timing,Statistical analysis,Statistical distributions,Distributed algorithms"
+    },
+    {
+        "id": 1420,
+        "label": 28,
+        "author": "ajay gupta",
+        "title": "Opportunistic Networks: Challenges in Specializing the P2P Paradigm.",
+        "organization": "Professor of Computer Science Western Michigan University",
+        "abstract": "We introduce the notion of opportunistic networks or oppnets, some of which can be considered a subclass of the peer-to-peer (P2P) networks. Initially, a relatively small seed oppnet is deployed, which grows into a bigger expanded oppnet. Oppnet growth starts with detecting diverse systems existing in its relative vicinity. Systems with best evaluations are invited by an oppnet to become its helpers. The oppnet leverages vast collective capabilities and resources of its helpers, employing them to execute diverse tasks in support of its goals. Though oppnet characteristics make them a natural fit for emergency response applications, we expect that they will prove beneficial in many other application areas. We discuss challenges in the development and use of the oppnet technology. Oppnets that use P2P interactions can be viewed as a specialization of the more general paradigm of P2P networks. To the best of our knowledge, we were the first to define and are now the first to investigate oppnets",
+        "email": "",
+        "conf": "International Workshop on Database and Expert Systems Applications (DEXA'06). IEEE",
+        "coauthors": [
+            "Leszek Lilien",
+            "Zille Huma Kamal",
+            "Ajay K. Gupta"
+        ],
+        "keywords": "Peer-to-peer systems,P2P,opportunistic networks,oppnets,privacy"
+    },
+    {
+        "id": 1454,
+        "label": 28,
+        "author": "ajay gupta",
+        "title": "Scheduling tasks in multiprocessor systems using evolutionary strategies",
+        "organization": "Professor of Computer Science Western Michigan University",
+        "abstract": "Scheduling tasks in multiprocessor systems is a difficult problem. The paper describes a method based upon evolutionary strategies (using genetic algorithms) to aid in finding good task assignments. The technique is illustrated by scheduling a digital signal processing algorithm on a two processor distributed system.",
+        "email": "",
+        "conf": "Conference on Evolutionary Computation. IEEE",
+        "coauthors": [
+            "Garrison Greenwood",
+            "Ajay K. Gupta",
+            "K. McSweeney"
+        ],
+        "keywords": "Multiprocessing systems,Processor scheduling,Electronic switching systems,Biological cells,Computer science,Scheduling algorithm,Yarn,Digital signal processing,Signal processing algorithms,Topology"
+    },
+    {
+        "id": 1406,
+        "label": 28,
+        "author": "ajay gupta",
+        "title": "On discovering most frequent research trends in a scientific discipline using a text mining technique",
+        "organization": "Professor of Computer Science Western Michigan University",
+        "abstract": "Science encompasses many sub-domains such as Computer Science, Physics, Medicine, etc. Each domain such as Computer Science can have many sub-disciplines like Networking, Data Mining, Parallel Processing, etc. Many different techniques have been used in these disciplines to solve open problems and improve existing solutions. Innovations in techniques call for researching prevalent solutions and active work being done in that field. It is thus highly desirable, yet a challenging task to automate the process of identifying current trend of research in any sub discipline. Automation techniques will allow for faster exploration of methodology and ideas, especially among young researchers or the ones switching to related disciplines, enabling further improvisation and invention. This paper presents a technique for mining the titles and abstracts of research papers to aid in achieving this task. The key idea behind this is that the title and abstract of a research paper encompass within their component words, the core technique, methodology, or aim of that paper. We thus present preliminary ideas of a text mining technique that can efficiently identify trending research topics in a discipline. Our initial experiments exhibit encouraging results",
+        "email": "ajay.gupta@wmich.edu",
+        "conf": "ACM Southeast Regional Conference",
+        "coauthors": [
+            "Shilpa Lakhanpal",
+            "Ajay K. Gupta",
+            "Rajeev Agrawal"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 1422,
+        "label": 28,
+        "author": "ajay gupta",
+        "title": "Opportunistic Networks",
+        "organization": "Professor of Computer Science Western Michigan University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Leszek Lilien",
+            "Zille H. Kamal",
+            "Ajay K. Gupta",
+            "Zijiang Yang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 1436,
+        "label": 28,
+        "author": "ajay gupta",
+        "title": "Extrapolation in distributed adaptive integration",
+        "organization": "Professor of Computer Science Western Michigan University",
+        "abstract": "The paper addresses the design of distributed methods which incorporate numerical extrapolation into adaptive multivariate integration, in order to increase the functionality of the integration algorithms. When attempting to deal with singularities, adaptive integration algorithms need a very fine subdivision in the proximity of these \"hot spots\". This is not practical in higher dimensions where a vast number of subregions result. These problems may be alleviated through the use of a suitable extrapolation strategy. We present a strategy which, incorporated as a global extrapolation method in distributed adaptive integration, allows for load balancing. ",
+        "email": "",
+        "conf": "International Conference on High Performance Computing IEEE",
+        "coauthors": [
+            "Elise de Doncker",
+            "Ajay K. Gupta",
+            "R. Zanny",
+            "J. Maile"
+        ],
+        "keywords": "Extrapolation,Load management,Computer science,Electronic switching systems,Arithmetic,Acceleration,Convergence,Packaging,Electrical capacitance tomography,Data structures"
+    },
+    {
+        "id": 1412,
+        "label": 28,
+        "author": "ajay gupta",
+        "title": "Using Lagrangean Relaxation for Service Location Planning with QoS Constraints in Large-Scale Networks",
+        "organization": "Professor of Computer Science Western Michigan University",
+        "abstract": "Current trends in computing indicate that there is a great potential for service oriented computing and similar technologies, such as Cisco's Application Oriented Networks, where services provide a higher-level of abstraction to traditional applications. In such cases, providing and consuming services and establishing a relationship between consumers (users of services) and producers (providers of services) are still challenging and vastly researched aspects. We define a service location planning problem (SLP) that is novel in the approach it takes to match consumers to producers, such that the cost of providing services is minimized while taking into account quality of service constraints of throughput and delay. In previous work, we presented an integer linear programming (ILP) model to formulate the service location planning problem. In this paper, we present Lagrangean Relaxation of the model for large-scale networks. We use the approach of Trick [3] to decrease computational overheads.",
+        "email": "gupta@cs.wmich.edu",
+        "conf": "IEEE International Conference on Communications",
+        "coauthors": [
+            "Zille Huma Kamal",
+            "Ala Al-Fuqaha",
+            "Ajay Gupta"
+        ],
+        "keywords": "Telecommunication network planning, quality of service, relaxation theory, large-scale network, service location planning, quality of service constraint, QoS, Service oriented computing, Lagrangean relaxation"
+    },
+    {
+        "id": 1470,
+        "label": 28,
+        "author": "ajay gupta",
+        "title": "Embedding large tree machines into small ones",
+        "organization": "Professor of Computer Science Western Michigan University",
+        "abstract": "",
+        "email": "",
+        "conf": "MIT conference on Advanced research in VLSI",
+        "coauthors": [
+            "Ajay K. Gupta",
+            "Susanne E. Hambrusch"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 1446,
+        "label": 28,
+        "author": "ajay gupta",
+        "title": "Scheduling Replicated Critical Tasks in Faulty Networks Using Evolutionary Strategies",
+        "organization": "Professor of Computer Science Western Michigan University",
+        "abstract": "Scheduling tasks in distributed systems is a di_x000E_cult problem. Finding good schedules becomes even more complex when the network is faulty and there are no additional resources available. This paper presents a technique using evolutionary strategies to _x000C_nd task schedules in such systems. Our results indicate that good schedules can be found even when critical tasks must be replicated on distinct processors",
+        "email": "",
+        "conf": "Evolutionary Computation IEEE",
+        "coauthors": [
+            "Garrison Greenwood",
+            "Ajay K. Gupta",
+            "Mark Terwilliger"
+        ],
+        "keywords": "Intelligent networks,Processor scheduling,Circuit faults,Fault tolerant systems,Hardware,Fault tolerance,Scheduling algorithm,Evolutionary computation,Network topology,Computer science"
+    },
+    {
+        "id": 1430,
+        "label": 28,
+        "author": "ajay gupta",
+        "title": "Analytical Analysis of Data and Decision Fusion in Sensor Networks",
+        "organization": "Professor of Computer Science Western Michigan University",
+        "abstract": "MEMS technology has improved such that the capabilities of large sensor devices can now be encompassed in devices that are the size of a penny. These resource constraint devices are confronted with the challenges of ensuring accuracy of observations while conserving power resources. This paper analyzes the two modes of collaborative signal processing employed in sensor networks, namely, data fusion and decision fusion, to achieve greater accuracy. A breakdown of the computation and communication complexity is presented for each fundamental step of data and decision fusion processes, to help in identifying features for possible optimization. We show that a tradeoff exists between the two approaches depending on the underlying application domain.",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zille Huma Kamal,Mohammad Ali Salahuddin,Ajay Gupta,Mark Terwilliger,Vijay Bhuse"
+        ],
+        "keywords": "decision fusion, sensor network, analytical analysis, power resource, data fusion, underlying application domain, abstract mem technology, fundamental step, collaborative signal processing, communication complexity, possible optimization, large sensor device, resource constraint device"
+    },
+    {
+        "id": 1434,
+        "label": 28,
+        "author": "ajay gupta",
+        "title": "On the Scalable Computation of Large Sets of Integrals.",
+        "organization": "Professor of Computer Science Western Michigan University",
+        "abstract": "We consider efficient strategies for the parallel and distributed computation of large sets of multivariate integrals. These arise in many applications such as computational chemistry, high energy physics and finite element problems. We use a hierarchical architecture which is highly scalable and allows parallelization not only at the domain level but also at the integral level. We present experimental results on a family of parametrized integrals and show that our approach leads to an efficient scalable load balanced algorithm. The methods are easily applicable to other areas where a large number of problems need to be solved efficiently on a parallel and distributed system.",
+        "email": "gupta@cs.wmich.edu",
+        "conf": "ISCA PDCS",
+        "coauthors": [
+            "Elise de Doncker",
+            "Ajay K. Gupta",
+            "Laurentiu Cucos"
+        ],
+        "keywords": "High performance computing, cluster computing, load balancing, integration software library, task allocation"
+    },
+    {
+        "id": 1458,
+        "label": 28,
+        "author": "ajay gupta",
+        "title": "Distributed Adaptive Integration: Algorithms and Analysis",
+        "organization": "Professor of Computer Science Western Michigan University",
+        "abstract": "We analyze a class of adaptive integration algorithms on MIMD distributed memory systems. The integration region subdivided in the course of the adaptive process is the N-dimensional cube or simplex. At the subdivision of a subregion, the error behaves according to a prescribed model. The model is supported by the asymptotic behavior of the error for integrands which are continuously di_x000B_erentiable of a given order over all subregions with the possible exception of one subregion containing a vertex singularity of homogeneous type. Extensions are possible to deal with multiple vertex singularities. The analysis can also be applied to problems in other areas, as long as the task selection is based on a priority function which behaves according to a suitable model. Using an e_x000E_cient management of the subregions, we show that a O(p= log p) speedup can be achieved on a p-processor hypercubic network, such as shu_x000F_e exchange, butter y and hypercube. Furthermore, a speedup of O(p p) can be achieved on a p p p p mesh network",
+        "email": "",
+        "conf": "Proceedings of Transputers",
+        "coauthors": [
+            "Elise de Doncker",
+            "Ajay K. Gupta"
+        ],
+        "keywords": "adaptive multivariate integration, asymptotic error, task pool, distributed priority queue, load balance"
+    },
+    {
+        "id": 1426,
+        "label": 28,
+        "author": "ajay gupta",
+        "title": "Using Routing Data for Information Authentication in Sensor Networks",
+        "organization": "Professor of Computer Science Western Michigan University",
+        "abstract": "Wireless sensor networks (WSNs) are envisioned to be used in a wide variety of applications for deep monitoring of thesurroundings. Their deployment in hostile environments, however, faces many security challenges. Wireless communication is inherently broadcast and insecure. If WSNsare deployed in unregulated environments, an adversary can easily tamper with them or compromise some nodes. Sensornodes are severely resource constrained in terms of power, memory and processing abilities. Achieving security for thesenetworks is thus a challenging task. Sensor networks typically follow specific communication patterns. Effective securityprimitives can thus be provided by taking the application specific nature of WSNs into consideration. In this paper wepropose a simple, lightweight and scalable protocol, Information Authentication in Sensor Networks (IASN) that can aid inproviding information (high level data) authentication. IASN is able to detect and filter a significant number of forged packets atlow cost.",
+        "email": "gupta@cs.wmich.edu",
+        "conf": "International Trusted Internet Workshop, HiPC",
+        "coauthors": [
+            "Vijay Bhuse, Ajay Gupta, Mark Terwilliger, Zijiang Yang, Zill-E-Huma Kamal"
+        ],
+        "keywords": "sensor network, information authentication, routing data, forged packet, wireless communication, effective security primitive, achieving security, scalable protocol, significant number, unregulated environment, wide variety, application specific nature, high level data, sensor node, many security challenge, specific communication pattern, hostile environment, low cost, deep monitoring, challenging task, abstract wireless sensor network, processing ability"
+    },
+    {
+        "id": 1437,
+        "label": 28,
+        "author": "ajay gupta",
+        "title": "Multivariate integration on hypercubic and mesh networks",
+        "organization": "Professor of Computer Science Western Michigan University",
+        "abstract": "We analyze a class of adaptive algorithms for integration over N-dimensional hyper-rectangular or simplical regions, on distributed systems. An adaptive algorithm attempts to achieve the requested accuracy by refining the subdivision of the integration region, thus allowing for a concentration of subdivisions near singularities. At the subdivision of a region, the error behaves according to a prescribed model, relating the error of the parent region to that of its children. The analysis can also be applied to problems in other areas, as long as the task selection is based on a priority function which behaves according to a suitable model. Using an efficient management of the subregions, we show that an O(p/logp) speedup can be achieved on a p-processor hypercubic network, such as shuffle exchange, butterfly and hypercube. Furthermore, a speedup of O(p) can be achieved on a p×p mesh network. We also show that our algorithms compare favorably with well-known dynamic load balancing strategies.",
+        "email": "gupta@cs.wmich.edu",
+        "conf": "Parallel Computing",
+        "coauthors": [
+            "Elise de Doncker",
+            "Ajay K. Gupta"
+        ],
+        "keywords": "Adaptive multivariate integration,Asymptotic error,Load balanced"
+    },
+    {
+        "id": 1463,
+        "label": 28,
+        "author": "ajay gupta",
+        "title": "Generalized compressed tree machines",
+        "organization": "Professor of Computer Science Western Michigan University",
+        "abstract": "In this paper we propose a new class of tree machines, called generalized compressed tree machines. Generalized compressed tree machines are obtained from complete binary tree machines by performing certain `contraction' operations. A generalized compressed tree machine of height h has approximately 25% less number of processors than a complete binary tree of height h. We show that these machines have signi_x000C_cantly smaller (up to 74% reduction) 2-dimensional and 3-dimensional VLSI layouts than the complete binary tree machines. We also show that divide-and-conquer type of algorithms initially designed for complete binary tree machines can be simulated onto compressed tree machines with no slow down. Finally, we show that generalized compressed tree machines can be embedded into an optimal size hypercube with dilation at most 2",
+        "email": "",
+        "conf": "IPPS",
+        "coauthors": [
+            "Ajay K. Gupta",
+            "H. Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 1459,
+        "label": 28,
+        "author": "ajay gupta",
+        "title": "On Parallel Retrievals Using Distributed Memory Computers",
+        "organization": "Professor of Computer Science Western Michigan University",
+        "abstract": "The authors introduce an efficient indexing organization which provides for parallel retrievals. Given a p-processor massively parallel computer, the organization allows a maximum of p retrievals to be performed concurrently and thus achieves an approximate speed up of p in the best case. The index structure is based on the multi-B-tree index structure. It is compatible with current automatic retrieval and query processing techniques. It is also compatible with a variety of file organizations. In addition to an indexed attribute which the authors refer to as primary attribute, a secondary attribute can be included in the index as no additional cost. Updates are achieved with a high degree of efficiency as well. The parallel organization of a multi-B-tree index improves considerably the performance of the index. The method discussed here can be easily applied to standard B+ tree, B/sup */ tree and other B tree variations.",
+        "email": "",
+        "conf": "Workshop on Advances in Parallel and Distributed Systems. IEEE",
+        "coauthors": [
+            "Dalia Motzkin",
+            "Ajay K. Gupta"
+        ],
+        "keywords": "Concurrent computing,Distributed computing,Parallel processing,Hardware,Indexing,Costs,Databases,Query processing,Hypercubes,Clustering algorithms"
+    },
+    {
+        "id": 1419,
+        "label": 28,
+        "author": "ajay gupta",
+        "title": "Research challenges in lightweight intrusion detection for wireless sensor networks Research challenges in lightweight intrusion detection for wireless sensor networks",
+        "organization": "Professor of Computer Science Western Michigan University",
+        "abstract": " This short paper discusses our work in progress on intrusion detection (ID) in wireless sensor networks (sensornets). Its major goals are threefold. First, we discuss characteristics and vulnerabilities of sensornets that make necessary designing ID solutions specialized for sensornets. Second, we identify research challenges in ID for sensornets. Third, we propose initial ID solutions that exploit sensornet characteristics and take into consideration their resource-constrained nature. We also identify a new type of attack on sensornets, called phenomenon forging, and present solution ideas for it. ",
+        "email": "",
+        "conf": "Symposium on System and Information Security",
+        "coauthors": [
+            "Vijay kumar Bhuse",
+            "Ajay K Gupta",
+            "Leszek Lilien"
+        ],
+        "keywords": "Sensor networks, sensornets, intrusion detection, IDS, security, DoS, phenomenon forging, anomaly detection, misuse detection."
+    },
+    {
+        "id": 1447,
+        "label": 28,
+        "author": "ajay gupta",
+        "title": "Weighted Selection on Coarse-Grain Hypercubes",
+        "organization": "Professor of Computer Science Western Michigan University",
+        "abstract": "Given n weighted records distributed evenly among a p-processor hypercube, p/spl les/n, we present efficient parallel algorithms for solving the weighted selection and related problems in the coarse-grain weak-hypercube model. A special case of the weighted selection problem, in which all the weights are equal, is known as the (unweighted) selection or order statistics problem. Our algorithms seek to minimize separately the time complexity for local computation and that for global communication on coarse-grain hypercubes. Depending on different ratios of n/p, we present techniques that lead to efficient hypercube algorithms for separate relative ranges of n and p. Our weighted selection algorithms match the local computation time lower bound of the selection problems on hypercubes for almost all the ratios of n/p. More importantly, the communication time bounds of our algorithm are better even than those of the previously best known hypercube solutions for the unweighted case in the corresponding relative ranges of n and p. Our algorithms are based on practical hypercube subroutines and make use of a variety of new schemes.",
+        "email": "",
+        "conf": "IEEE Symposium on Parallel and Distributed Processing",
+        "coauthors": [
+            "Danny Z. Chen",
+            "Ajay K. Gupta"
+        ],
+        "keywords": "Hypercubes,Computer science,Statistics,Global communication,Parallel machines,Parallel algorithms,Application software,Image processing,Statistical distributions,Graph theory"
+    },
+    {
+        "id": 1421,
+        "label": 28,
+        "author": "ajay gupta",
+        "title": "Classification using Efficient LU Decomposition in Sensornets.",
+        "organization": "Professor of Computer Science Western Michigan University",
+        "abstract": "We consider the popular application of detection, classification and tracking and their feasibility in resource constrained sensornets. We concentrate on the classification aspect, by decomposing the complex, computationally intensive signal processing Maximum-APosterior (MAP) classifier into simpler computationally and communicationally load balanced procedures, using a clustering approach. LU decomposition is an efficient approach for computing the inverse of covariance matrices required in the MAP classifier. We thus explore feasibility of LU decomposition in sensornets. We present power-aware and load balanced techniques for LU decomposition of the covariance matrices in sensornets alongwith their analytical and power consumption analyses.",
+        "email": "gupta@cs.wmich.edu",
+        "conf": "Wireless and Optical Communications",
+        "coauthors": [
+            "Zille Huma Kamal",
+            "Ajay K. Gupta",
+            "Leszek Lilien",
+            "Ashfaq A. Khokhar"
+        ],
+        "keywords": "Classification, LU Decomposition, sensor networks, collaborative processing "
+    },
+    {
+        "id": 1423,
+        "label": 28,
+        "author": "ajay gupta",
+        "title": "Power Efficient Algorithms for Computing Fast Fourier Transform over Wireless Sensor Networks",
+        "organization": "Professor of Computer Science Western Michigan University",
+        "abstract": "Collaborative signal processing is one of the most promising applications that are currently being investigated for sensor networks. In this paper, we use FFT computation as a vehicle to highlight the issues involved in realizing distributed computations over sensor networks that have global and local communication and synchronization characteristics. We present a power efficient algorithm for computing 1-D Fast Fourier Transform (FFT) over single and multi-hop wireless sensor networks. The proposed algorithm reduces the number of transmissions, eliminates typical redundant computations in a distributed FFT algorithm and uniformly maps complex multiplications over all the sensors nodes by introducing an extra bit-complement permutation stage after first (log2N)/2 iterations. We show that the proposed algorithm improves energyconsumption by 36% on the average on multi-hop sensor networks. This saving in energy consumption significantly improves the battery life of the sensor nodes therebyincreasing lifetime of the sensor network. ",
+        "email": "ajay.gupta@cs.wmich.edu",
+        "conf": "IEEE International Conference on Computer Systems and Applications",
+        "coauthors": [
+            "Turkmen Canli",
+            "Ajay K. Gupta",
+            "Ashfaq A. Khokhar"
+        ],
+        "keywords": "Computer networks,Fast Fourier transforms,Wireless sensor networks,Signal processing algorithms,Distributed computing,Sensor phenomena and characterization,Intelligent sensors,Collaboration,Power engineering computing,Sensor arrays"
+    },
+    {
+        "id": 1428,
+        "label": 28,
+        "author": "ajay gupta",
+        "title": "Power - Time Efficient Algorithm for Computing FFT in Sensor Networks",
+        "organization": "Professor of Computer Science Western Michigan University",
+        "abstract": "Deployment of a vast array of tiny smart sensors (sensor devices with processors) interconnected over wireless channels are enabling their pervasive use in a variety ofdefense and commercial applications, such as environmental monitoring (e.g. traffic, habitat, security), industrial sensingand diagnostics (e.g. factory, appliances), infrastructures (e.g. power grid, water distributions, waste disposal), andbattlefield awareness (e.g. multi-target tracking). While the task of developing and implementing pervasive applicationsfor such a scenario is exciting, it poses tremendous challenges. Sensor networks are different from existing wirelesscommunication networks in the sense that sensor nodes are battery powered and recharging is usually unavailable, soenergy is an extremely expensive resource. In this context, design of algorithms for processing information in sensornetworks is an emerging research area. The objective is to design algorithms that are energy efficient but also exploit thecomputing resources available in sensor nodes. In this paper, we present a power-time efficient algorithm for computingFast Fourier Transform over data distributed across smart sensors. The Fast Fourier Transform (FFT) has been studied extensively as a frequency analysis tool in diverseapplication areas such as audio, signal, and image processing, and several other real time data applications. ",
+        "email": "",
+        "conf": "ACM SenSys",
+        "coauthors": [
+            "Turkmen Canli",
+            "Mark Terwilliger",
+            "Ajay K. Gupta",
+            "Ashfaq A. Khokhar"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 1441,
+        "label": 28,
+        "author": "ajay gupta",
+        "title": "Adaptive integration using evolutionary strategies",
+        "organization": "Professor of Computer Science Western Michigan University",
+        "abstract": "Multivariate integration problems arising in the real world often lead to computationally intensive numerical solutions. If the singularities and/or peaks in the integrand are not known a priori, the use of adaptive methods is recommended. The efficiency of adaptive methods depends heavily on focusing on the sub-regions that contain singularities or peaks in the integrands. In this paper, we present techniques based on evolutionary strategies that can be used to identify such subregions. Adaptive integration algorithms and evolutionary strategies can be parallelized easily and hence combining the parallel implementations of these result in efficient parallel adaptive integration algorithms.",
+        "email": "",
+        "conf": "Conference on High Performance Computing (HiPC). IEEE",
+        "coauthors": [
+            "Elise de Doncker",
+            "Ajay K. Gupta",
+            "Garrison Greenwood"
+        ],
+        "keywords": "Error correction,Computer science,Integral equations,Finite element methods,Workstations"
+    },
+    {
+        "id": 1465,
+        "label": 28,
+        "author": "ajay gupta",
+        "title": "An Efficient Approximation Algorithm for Hypercube Scheduling.",
+        "organization": "Professor of Computer Science Western Michigan University",
+        "abstract": "Given a set of m tasks, where each task has an execution time and a subcube requirement, the Hypercube Scheduling Problem (HSP) is to find an assignment of tasks which minimizes the total completion time. The general HSP is known to be NP-hard. In this paper, we present a O(m log m) time algorithm for HSP when all the m tasks have the same execution time. We also present a polynomial time approximation algorithm which generates a solution within 2(1+12n)2(1+12n)of the optimal solution for the general HSP, where n is the hypercube dimension.",
+        "email": "",
+        "conf": "Conference on Computing and Information",
+        "coauthors": [
+            "Alfred J. Boals",
+            "Ajay K. Gupta",
+            "Jahangir A. Hashmi",
+            "Naveed A. Sherwani"
+        ],
+        "keywords": "Execution Time, Schedule Problem, Completion Time, Optimal Schedule, Total Completion Time "
+    },
+    {
+        "id": 1466,
+        "label": 28,
+        "author": "ajay gupta",
+        "title": "Compact Hypercubes: Properties and Recognition.",
+        "organization": "Professor of Computer Science Western Michigan University",
+        "abstract": "The binary hypercube, although a versatile multiprocessor network, has a draw back: its size must be a power of two. In order to alleviate this draw back, we define the concept of an n-node Compact Hypercube CH(n) which deals with the problem of computation with incomplete hypercubes. We show how to construct a hypercube like structure for any number n that can be easily upgraded to a complete hypercube. This concept allows the algorithms to work efficiently even if hypercubes are incomplete. Development of algorithms on compact hypercubes further allow us to efficiently execute several algorithms concurrently on a complete hypercube. In this paper, we restrict our investigation to the graph properties and recognition algorithms for compact hypercubes. We show that compact hypercubes exhibit many properties which are common with complete hypercubes. We also present results on efficient representation and counting of compact hypercubes within a complete hypercube.",
+        "email": "",
+        "conf": "Conference on Computing and Information",
+        "coauthors": [
+            "Alfred J. Boals",
+            "Ajay K. Gupta",
+            "Jahangir A. Hashmi",
+            "Naveed A. Sherwani"
+        ],
+        "keywords": "Chromatic Number, Graph Property, Independence Number, Clique Number, Task Allocation Problem "
+    },
+    {
+        "id": 1461,
+        "label": 28,
+        "author": "ajay gupta",
+        "title": "On embedding ternary trees into Boolean hypercubes",
+        "organization": "Professor of Computer Science Western Michigan University",
+        "abstract": "Given two graphs G and H, an embedding < f ; g > of G into H is de_x000C_ned by an injective mapping f from the nodes of G to the nodes of H together with a mapping g that maps every edge e = (v; w) of G onto a path g(e) connecting f (v) and f (w) in H. We refer to the mapping f as the assignment and for clarity reasons, we refer to the nodes of H as PEs. Three commonly and extensively studied cost measures of an embedding are the dilation, the congestion and the expansion [1, 4, 9, 13, 15, 17]. The dilation _x000E_ is de_x000C_ned as the maximum distance in H between two adjacent nodes in G. The congestion of an edge in H is de_x000C_ned to be the number of paths passing through it, and the maximum congestion of any edge in H is the congestion _x0015_ of the embedding. The expansion _x000F_ is de_x000C_ned to be the ratio of the number of PEs in H to the number of nodes in G. Graph embeddings minimizing _x000E_, _x0015_ and _x000F_ for various pairs of graphs G and H and their implications to parallel processing have recently been studied extensively [1, 2, 3, 7, 10, 11, 13, 15, 14, 19]. In this paper our main focus is to study the problem of embedding when G is a complete ternary (3-ary) tree and H is a boolean hypercube.",
+        "email": "",
+        "conf": "SPDP",
+        "coauthors": [
+            "Ajay K. Gupta",
+            "Hang Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 1413,
+        "label": 28,
+        "author": "ajay gupta",
+        "title": "Mobility-Pattern-Based Anomaly Detection Algorithm in Mobile Networks",
+        "organization": "Professor of Computer Science Western Michigan University",
+        "abstract": "Numerous approaches have been proposed for intrusion detection in immobile networks. However, little research work has been done in actually implementing them, especially for anomaly detection, in mobile networks. In this paper, we present an efficient mobility-pattern-based (MPB) anomaly detection algorithm. It can effectively identify abnormal mobility patterns of the nodes in mobile networks. In the proposed algorithm, the normal mobility profile of a specific node is characterized by a multi-leaf tree structure in which each node corresponds to a possible destination cluster. A normal mobility profile is generated during the training process through data mining and fuzzy logic techniques. More specifically, data mining techniques are used for cluster classifications, and fuzzy logic techniques are used to integrate the 'similar'' pattern strings after the corresponding cluster generation. These two techniques are also used during the testing process for distinguishing abnormal mobility patterns of the node from those of the normal in mobile networks. Simulation results demonstrate that our proposed MPB anomaly detection algorithm can achieve good performance in terms of detection rate and false alarm rate for nodes with regular movement behaviors by fine tuning the design parameter - threshold, that can be chosen efficiently.",
+        "email": "gupta@cs.wmich.edu",
+        "conf": "IEEE International Conference on Communications",
+        "coauthors": [
+            "Chaoli Cai",
+            "Ajay K. Gupta"
+        ],
+        "keywords": "telecommunication security, data mining, fuzzy logic, mobile radio, false alarm rate, mobile networks, intrusion detection, mobility-pattern-based anomaly detection algorithm, multileaf tree structure, fuzzy logic techniques"
+    },
+    {
+        "id": 1451,
+        "label": 28,
+        "author": "ajay gupta",
+        "title": "Coarse Grain Preconditioned Conjugate Gradient Solver for Large Sparse Systems.",
+        "organization": "Professor of Computer Science Western Michigan University",
+        "abstract": "We explore a coarse grain parallel algorithm for the solution of large sparse linear systems with symmetric positive definite matrix, based on a preconditioned conjugate gradient method.",
+        "email": "",
+        "conf": "PPSC",
+        "coauthors": [
+            "Elise de Doncker",
+            "Ajay K. Gupta"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 1411,
+        "label": 28,
+        "author": "ajay gupta",
+        "title": "Power Consumption Analysis of Maximum A Posterior Classifier Using LU Decomposition and Jacobi Iterations",
+        "organization": "Professor of Computer Science Western Michigan University",
+        "abstract": "In tracking applications of wireless sensor networks (WSNs), the classification of an object or event of interest is envisaged to be one of the most computationally intensive tasks that recur frequently over the lifetime of the network. It is imperative that the implementations of such tasks be power efficient and computationally feasible for resource-constrained WSNs. Existing implementations of the best known classifiers such as maximum Aposterior (MAP) classifier are computationally infeasible for WSN environments. The focus of this paper is to investigate computational techniques to realize power efficient distributed implementation of the MAP classifier. In the MAP classifier, one of the most computationally challenging steps is the computation of the inverse of the covariance matrices. In this paper, we study computationally efficient methods for realizing the inverse of a matrix. We present a detailed discussion of one-sided Jacobi Iterations and LU Decomposition for approximating and computing the inverse of the covariance matrices. For LU Decomposition-based solutions, we also apply folding techniques to ensure equal power dissipation among the sensor network nodes. Our contribution lies in the power consumption analysis of executing the MAP classifier using LU decomposition and one-sided Jacobi Iterations to substitute the inverse of the covariance matrices. We show that MAP with one-sided Jacobi Iterations greatly simplifies classification process and makes it more feasible and efficient choice for sensor network applications.",
+        "email": "",
+        "conf": "IEEE Transactions on Parallel and Distributed Systems",
+        "coauthors": [
+            "Zill-E-Huma Kamal",
+            "Ajay Gupta",
+            "Ashfaq A. Khokhar",
+            "Leszek Lilien"
+        ],
+        "keywords": "General, Sensor networks, Algorithm protocol design and analysis"
+    },
+    {
+        "id": 1417,
+        "label": 28,
+        "author": "ajay gupta",
+        "title": "Opportunistic Networks for Emergency Applications and Their Standard Implementation Framework",
+        "organization": "Professor of Computer Science Western Michigan University",
+        "abstract": "We present a novel paradigm of opportunistic networks or oppnets in the context of emergency preparedness and response (EPR). Oppnets constitute the category of ad hoc networks where diverse systems, not employed originally as nodes of an oppnet, join it dynamically in order to perform certain tasks they have been called to participate in. After describing the oppnets and their operation, we discuss the oppnet virtual machine (OVM) - a standard implementation framework for oppnet applications. Oppnets can significantly improve effectiveness and efficiency of EPR one of the six mission areas within the national strategy for homeland security. They can also improve other diverse applications, including agriculture, environment, healthcare, manufacturing, surveillance, and transportation. Oppnets should create new application niches as yet hard to imagine. To the best of our knowledge we have been the first to work on oppnets.",
+        "email": "gupta@cs.wmich.edu",
+        "conf": "IEEE International Performance, Computing, and Communications",
+        "coauthors": [
+            "Leszek Lilien",
+            "Ajay K. Gupta",
+            "Zijiang Yang"
+        ],
+        "keywords": "Paramagnetic resonance,Terrorism,Wireless sensor networks,Ad hoc networks,Transportation,Application software,Agriculture,Medical services,Manufacturing,Surveillance"
+    },
+    {
+        "id": 1474,
+        "label": 28,
+        "author": "ajay gupta",
+        "title": "A Service Location Problem with QoS Constraints for Large Scale Networks",
+        "organization": "Professor of Computer Science Western Michigan University",
+        "abstract": "In this paper, we present and discuss a novel service location problem that satisfies user demand for services, by installing services on nodes in the network, which can also meet quality of service (QoS) constraints of throughput and delay defined by the user. Service location problems can arise in various different networks, we specifically consider service location in Cisco's Application Oriented Networks (AON). Our goal is to formulate and present the service location problem as an Integer Linear Programming (ILP) problem and solve it optimally for networks with small number of nodes. Our ILP and results meet \"real-world\" demands of traffic splitting (due to link layer capacity) and service federation (to incur minimal service installation cost). This will enable service providers to offer services in a cost-effective manner while meeting consumer's demand for quality of service for throughput and delay.",
+        "email": "",
+        "conf": "International conference on Wireless communications and mobile computing",
+        "coauthors": [
+            "Zille Huma Kamal",
+            "Ala Al-Fuqaha",
+            "Ajay K. Gupta"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 1467,
+        "label": 28,
+        "author": "ajay gupta",
+        "title": "On Optimal Embeddings into Incomplete Hypercubes.",
+        "organization": "Professor of Computer Science Western Michigan University",
+        "abstract": "The authors show the embeddings of various types of n-node incomplete binary trees into n-node or (n+1)-node composite hypercubes with dilation of at most 2. They also present lower bound proofs showing optimality of the dilation. They characterize the class of incomplete binary trees which are subgraphs of composite hypercubes. They present dilation 1 embedding of a two-dimensional n-node mesh, where one dimension is a power of two, into its optimal n-node composite hypercube. When neither dimension is a power of two, it is shown that a dilation 1 embedding is not possible; thereby characterizing the class of two-dimensional meshes that can be embedded into composite hypercubes with dilation 1. All two-dimensional meshes are shown to be embeddable with dilation 1 if expansion greater than 1 but less than 2 is allowed. The authors also consider two types of incomplete meshes and their embeddings into their optimal composite hypercubes.",
+        "email": "",
+        "conf": "IPPS",
+        "coauthors": [
+            "Ajay K. Gupta",
+            "Alfred J. Boals",
+            "Naveed A. Sherwani"
+        ],
+        "keywords": "Hypercubes,Binary trees,Topology,Board of Directors,Computer science,Computer architecture,Parallel machines,Broadcasting,Cost function"
+    },
+    {
+        "id": 1425,
+        "label": 28,
+        "author": "ajay gupta",
+        "title": "Localization Using Evolution Strategies in Sensornets",
+        "organization": "Professor of Computer Science Western Michigan University",
+        "abstract": "With the emergence of wireless sensor networks and pervasive computing, innovative location-aware technologies and services are being investigated. Several iterative approaches employing distributed computations over sensors have been proposed in the literature for locating all the sensor nodes in the network. Due to their iterative nature these techniques are inefficient in terms of power, a very precious resource in sensor networks. This paper presents a novel power efficient approach aimed at identifying the locations of all the nodes in a sensor network given the location of a small subset of nodes. The technique, using evolution strategies, is independent of the ranging method used to estimate distances between nodes and involves sink nodes in the computation. The proposed approach provides substantial energy savings over existing techniques while providing comparable accuracy, and requires the presence of at least one neighbor for each sensor node compared to at least 3 neighbors for most of the existing techniques",
+        "email": "gupta@cs.wmich.edu",
+        "conf": "IEEE Congress on Evolutionary Computation",
+        "coauthors": [
+            "Mark Terwilliger",
+            "Ajay K. Gupta",
+            "Ashfaq A. Khokhar",
+            "Garrison Greenwood"
+        ],
+        "keywords": "sensor networks, localization, evolution, strategies"
+    },
+    {
+        "id": 1456,
+        "label": 28,
+        "author": "ajay gupta",
+        "title": "Latin Cubes and Parallel Array Access",
+        "organization": "Professor of Computer Science Western Michigan University",
+        "abstract": "The problem of efficiently storing a d-dimensional array into multiple memory modules of a shared memory machine is an important problem in parallel processing. We consider the problem for the three-dimensional arrays. More specifically, given an array A of size n/spl times/n/spl times/n and a shared memory machine with n memory modules, we show how to store A so that no two elements within any row, any column, any diagonal of a face of A and main sub-arrays of A are stored in the same memory module. The scheme thus achieves no memory conflicts when the processors of the shared memory machine simultaneously access elements within a row, column, sub-array. etc. We also show how to store A efficiently, if diagonals of A are required to be accessed conflict-free in addition to rows and columns. All of the schemes use latin cubes.",
+        "email": "",
+        "conf": "International Parallel Processing Symposium. IEEE",
+        "coauthors": [
+            "Cong Fan",
+            "Ajay K. Gupta",
+            "Jiuquang Liu"
+        ],
+        "keywords": "Concurrent computing,High performance computing,Fluid dynamics,Face,Bandwidth,Hafnium"
+    },
+    {
+        "id": 1435,
+        "label": 28,
+        "author": "ajay gupta",
+        "title": "Large Scale Parallel Numerical Integration",
+        "organization": "Professor of Computer Science Western Michigan University",
+        "abstract": "We present and analyze strategies which can be used for the parallel computation of large numbers of integrals which may be of different levels of difficulty. Parallelization on the integral level, which is generally used for large numbers of integrals, is combined with parallelization on the subregion level, which enables handling local integration difficulties within individual problems. This results in a new, hierarchical algorithm which incorporates load balancing on the integral level and on the subregion level. We report test results of the software and show that the hierarchical approach leads to a scalable integration algorithm.",
+        "email": "gupta@cs.wmich.edu",
+        "conf": "Journal of Computational and Applied Mathematics",
+        "coauthors": [
+            "Elise de Doncker",
+            "Ajay K. Gupta",
+            "Rodger R. Zanny"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 1429,
+        "label": 28,
+        "author": "ajay gupta",
+        "title": "A localization system using wireless network sensors: a comparison of two techniques",
+        "organization": "Professor of Computer Science Western Michigan University",
+        "abstract": "Locating objects, such as keys, office equipment, people, or even an enemy vehicle, is an application that has received a lot of attention over recent years. With the emergence of wireless networksand mobile computing devices, providing location-aware technology and services to new applications has become important for developers. Recent advances in sensor technology have allowed wireless sensornetworks to provide location services. Many applications of wireless sensor networks assume that the devices are location-aware. In this paper, we discuss the Ferret localization system. Using only the radiofeatures of the sensors, the Ferret system provides two techniques for locating an object. The system provides good results, but several extensions are discussed to make it more scalable and reliable",
+        "email": "gupta@cs.wmich.edu",
+        "conf": "Workshop on Positioning, Navigation and Communication",
+        "coauthors": [
+            "Mark Terwilliger, Ajay Gupta, Vijay Bhuse, Zille Huma Kamal, Mohammad Ali Salahuddin"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 1450,
+        "label": 28,
+        "author": "ajay gupta",
+        "title": "Parallel Implementations of Evolutionary Strategies",
+        "organization": "Professor of Computer Science Western Michigan University",
+        "abstract": "Evolutionary algorithms can e_x000E_ciently solve a diverse set of optimization problems. The convergence rate of these techniques improve with larger population sizes but at the expense of an increased in computation time per generation. This paper presents an evolutionary algorithm which uses a large population for rapid convergence but a paral lel implementation to minimize overal l computation time. An instance of the preventive maintenance problem is used to evaluate this paral lel implementation",
+        "email": "gupta@cs.wmich.edu",
+        "conf": "nternational Conference on High Performance Computing",
+        "coauthors": [
+            "Garrison W Greenwood",
+            "Sanjay Ahire",
+            "Ajay K. Gupta",
+            "R. Munnangi"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 1460,
+        "label": 28,
+        "author": "ajay gupta",
+        "title": "Multiple Network Embeddings into Hypercubes",
+        "organization": "Professor of Computer Science Western Michigan University",
+        "abstract": "In this paper we consider the problem of embedding r guest networks G0, ..., Gr−1, into a k-dimensional hypercube H so that every processor of H is assigned at most r guest processors and dilation and congestion are minimized. Network G, can be a complete binary tree, a leap tree, a linear array, or a mesh. We show that r such guest networks can simultaneously be embedded into H without a significant increase in dilation and congestion compared to the embedding of a single network when r ≤ k. For r > k, the increase in the cost measures is proportional to r/k. We consider two models which differ in the requirements imposed on the r guest processors assigned to a processor of H.",
+        "email": "",
+        "conf": "Journal of Parallel and Distributed Computing",
+        "coauthors": [
+            "Ajay K. Gupta",
+            "Susanne E. Hambrusch"
+        ],
+        "keywords": "Hypercubes,Embedded computing,Algorithm design and analysis,Contracts,Concurrent computing,Network topology,Computational modeling,Computer simulation,Parallel processing,Computer architecture"
+    },
+    {
+        "id": 1414,
+        "label": 28,
+        "author": "ajay gupta",
+        "title": "The MicroOppnet tool for Collaborative Computing experiments with class 2 opportunistic networks",
+        "organization": "Professor of Computer Science Western Michigan University",
+        "abstract": "Class 2 opportunistic networks (oppnets) are a new paradigm for collaborative computing that aims at integrating communication, computation, sensing, actuation, storage, and other resources and services. Oppnets achieve global tasks and goals through the collaboration and coordination of their nodes (some of which join an oppnet dynamically). We describe the concept of oppnets, discuss related work, and present the standard API framework for oppnets name Oppnet virtual machine (OVM). We present the design and implementation details of a small-scale proof-of-concept system, named MicroOppnet, in terms of the OVM primitives. We describe both the design and implementation of MicroOppnet, which not only is a proof of concept but also constitutes our tool for experiments in collaborative computing with oppnets. We are currently working on extending MicroOppnet into a larger oppnet prototype and an oppnet testbed.",
+        "email": "",
+        "conf": "Conference on Collaborative Computing: Networking, Applications and Worksharing",
+        "coauthors": [
+            "Zille Huma Kamal",
+            "Ajay K. Gupta",
+            "Leszek Lilien",
+            "Zijiang Yang"
+        ],
+        "keywords": "opportunistic networks, ad hoc networks,collaborative computing,collaborative communication,pervasive computing"
+    },
+    {
+        "id": 1462,
+        "label": 28,
+        "author": "ajay gupta",
+        "title": "Load Balanced Tree Embeddings",
+        "organization": "Professor of Computer Science Western Michigan University",
+        "abstract": "When an n-processor architecture T is embedded into an m-processor architecture H with n > m and every processor of H is assigned at least ⌞n/m⌟ and at most [n/m] processors of T, the embedding has a balanced processor load. We present efficient embeddings with a balanced load for the case when both architectures are complete binary trees. We show that T can be embedded into H with a dilation of 1 and congestion of at most min{[n/m], 2 log n}. We also consider embeddings that achieve a balanced l/i load; i.e. every processor of H simulates at most [(n + 1)/2m] leaves and at most [(n − 1)/2m] interior processors of T. We present an embedding that achieves a balanced l/i load, a dilation of 2[log log m] + 1 and a congestion of O(log n). We show that every embedding strategy achieving a balanced l/i load must have a dilation of at least 3. We also consider the embedding problem when every edge of T has a weight associated with it.",
+        "email": "",
+        "conf": "Parallel Computing",
+        "coauthors": [
+            "Ajay K. Gupta",
+            "Susanne E. Hambrusch"
+        ],
+        "keywords": "Graph embedding,sbinary tree networks,congestion,dilation,load,lower bounds"
+    },
+    {
+        "id": 1408,
+        "label": 28,
+        "author": "ajay gupta",
+        "title": "BANBAD: A centralized anomaly detection technique for ad hoc networks",
+        "organization": "Professor of Computer Science Western Michigan University",
+        "abstract": "Anomaly detection is an important aspect of any security mechanism. We present an efficient anomaly detection algorithm, named BANBAD. Using Belief Networks (BNs), the algorithm identifies abnormal behavior of a feature, like inappropriate energy consumption of a node in a network. By applying structure learning techniques to training dataset, BANBAD establishes a joint probability distribution among relevant features, such as average velocity, displacement, local computation and communication time, energy consumption, and response time of a node of the network. A directed acyclic graph (DAG) is used to represent the features and their dependencies. Using a training process, BANBAD maintains dynamic, updated profiles of network node behaviors and uses specific Bayesian inference algorithm to distinguish abnormal behavior during testing. BANBAD works especially well in ad hoc networks. Extensive simulation results demonstrate that a centralized BANBAD achieves low false alarm rates, below 5%, and high detection rates, greater than 95%. We also show that BANBAD detects anomaly efficiently and accurately in two real datasets. The key for achieving such high performance is bounding the false alarm rate at certain predefined threshold value. By fine-tuning at the threshold, we can achieve high detection rate as well.",
+        "email": "",
+        "conf": "Network Security, Administration and Management: Advancing Technology and Practice. IGI Global",
+        "coauthors": [
+            "Rajeev Agrawal,Chaoli Cai,Ajay Gupta,Rajib Paul,Raed Salih"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 1403,
+        "label": 28,
+        "author": "ajay gupta",
+        "title": "A parallel peptide indexer and decoy generator for crux tide using OpenMP",
+        "organization": "Professor of Computer Science Western Michigan University",
+        "abstract": "Target-Decoy database is a common dependable strategy used in Peptide-Spectrum-Matching (PSM) for quality assessment. In this, a set of decoy labeled peptides are injected to the database and indexed along with real peptides. Crux Tide is a fast search engine that supports indexing peptides' database and decoys generation. In Tide, indexing FASTA files and generating decoys is a computationally expensive process. In this paper we first analyze the serial Tide indexer and decoy generator algorithm and, then describe a parallel shared memory solution. Our proposed technique utilizes a clever hashing technique to localize the process, and breaks up the processing dependency among threads. The developed parallel versions are able to reduce the computational complexity by approximately 50% and 25% of the sequential time using 4 and 8 threads, respectively. Moreover, our proposed solution could provide high-performance techniques of peptides' databases partitioning where each parallel unit could search and rank locally and independently",
+        "email": "ajay.gupta@wmich.edu",
+        "conf": "Conference on High Performance Computing & Simulation (HPCS). IEEE",
+        "coauthors": [
+            "Majdi Maabreh",
+            "Ajay K. Gupta",
+            "Fahad Saeed"
+        ],
+        "keywords": "Big Data,Crux Tide,indexing,parallel processing,proteomics,shared memory"
+    },
+    {
+        "id": 1405,
+        "label": 28,
+        "author": "ajay gupta",
+        "title": "Towards extracting domains from research publications",
+        "organization": "Professor of Computer Science Western Michigan University",
+        "abstract": "Every research paper falls within some specific subject areas called domains of a larger scientific field. In this paper, we present a technique for effectively mining scientific research papers for key domain areas. We combine techniques from natural language processing and machine learning to create a unique method for extracting such domains. Using preposition disambiguation helps us infer the meaning of words or phrases based on their placement within text. Combining this knowledge wit supervised learning such as using a Naïve Bayes classifier helps us to classify phrases as domain areas within a scientific field. Thus in essence, our technique derives meaning from text and contributes effectively to the field of text analytics.",
+        "email": "ajay.gupta@wmich.edu",
+        "conf": "MAICS",
+        "coauthors": [
+            "Shilpa Lakhanpal,Ajay K. Gupta,Rajeev Agrawal"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 1449,
+        "label": 28,
+        "author": "ajay gupta",
+        "title": "Singular Integral Computation with ParInt",
+        "organization": "Professor of Computer Science Western Michigan University",
+        "abstract": "In this paper, we present a parallel/ distributed algorithm for multivariate numerical integration and examine its performance on nCUBE-2 and PVM. The test results address the e_x000B_ect of algorithm elements such as a heuristic load balancing technique. We show that good speedups can be achieved for a variety of integration problems, in particular for problems with integrand singularities. This work is a part of a project (ParInt) whose main goal is to package a number of practical multivariate integration algorithms on a variety of multi-processor systems and make them available to researchers and practitioners in various disciplines of science and engineering.",
+        "email": "",
+        "conf": "PDPTA",
+        "coauthors": [
+            "Elise Dedoncker",
+            "Ajay K. Gupta",
+            "Kyle Rathbun",
+            "Jay Ball"
+        ],
+        "keywords": "Multivariate integration, adaptive algorithm, region partitioning, singularities, load balancing"
+    },
+    {
+        "id": 1445,
+        "label": 28,
+        "author": "ajay gupta",
+        "title": "ParInt: A Software Package for Parallel Integration",
+        "organization": "Professor of Computer Science Western Michigan University",
+        "abstract": "We give a survey of the ParInt project for Paral lel/ distributed Integration. We analyze the \\generic\" distributed adaptive integration algorithm and modify it to retain an efficient distribution of the global work load over the processors. With this goal we consider a distributed adaptive integration method based on a global heap priority queue, which remains load balanced and assures that the subregions are processed according to their (global) priority (size of error); as wel l as a local heap priority queue enhanced by receiverinitiated or neighbor load balancing. We report results of these methods.",
+        "email": "",
+        "conf": "conference on Supercomputing",
+        "coauthors": [
+            "E. Dedoncker",
+            "Ajay K. Gupta",
+            "J Ball",
+            "Alan Genz"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 1472,
+        "label": 28,
+        "author": "ajay gupta",
+        "title": "Optimal three-dimensional layouts of complete binary trees",
+        "organization": "Professor of Computer Science Western Michigan University",
+        "abstract": "We present optimal embeddings of an n-node complete binary tree in a three-dimensional or a two-dimensional grid when k, the size of one of the dimensions of the grid, is given. For the three-dimensional case we show how to obtain, for any k in the range [1,12n], a layout of O(n + k log n) volume. The same bound is shown to hold for the two-dimensional case when k is in the range [log n,12n]. We also show that these bounds are optimal within a constant factor.",
+        "email": "",
+        "conf": "Information Processing Letters",
+        "coauthors": [
+            "Ajay K. Gupta",
+            "Susanne E. Hambrusch"
+        ],
+        "keywords": "Area and volume,binary tree,graph layout"
+    },
+    {
+        "id": 1473,
+        "label": 28,
+        "author": "ajay gupta",
+        "title": "Models For Scheduling Task Graphs Onto Hypercube Systems",
+        "organization": "Professor of Computer Science Western Michigan University",
+        "abstract": "Given a set of m tasks with a precedence constraint P and a communication requirement C, where each task has execution time and a subcube requirement, the Hypercube Task Scheduling Problem (HTSP) is to _x000C_nd an assignment of tasks which minimizes the total completion time. In this paper, we show that HTSP and its many restricted versions are NP-hard. This motivates the development of heuristic algorithms for HTSP. We have developed four e_x000E_cient heuristics for scheduling hypercube task graphs onto the hypercubes. We have tested these new heuristics and shown that for many practical problems the heuristics produce optimal and near optimal schedules.",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "A. Boals",
+            "Ajay K. Gupta",
+            "J. Hashmi",
+            "Nivar Sherwani"
+        ],
+        "keywords": "Al location/Deal location, Fragmentation, Hypercube, Subcube Recognition, Task Scheduling."
+    },
+    {
+        "id": 1464,
+        "label": 28,
+        "author": "ajay gupta",
+        "title": "Embedding Complete Binary Trees into Butterfly Networks",
+        "organization": "Professor of Computer Science Western Michigan University",
+        "abstract": "In this paper we present embeddings of complete binary trees into butterfly networks with or without wrap-around connections. Let m be an even integer and q = m+ LlogmJ-l. We show how to embed a 2q +I -I-node complete binary tree T(q) into a (m + 1)2111+1_ node wrap-around butterfly B1l1(m +1) with a dilation of 4, and how to embed T(q) into a (m + 2)2111+2 _node wrap-around butterfly B1l1 (m +2) with an optimal dilation of 2. We also present an embedding of a wrap-around butterfly B1l1 (m) into a (m + 1)2m -node no wrap-around butterfly B(m) with a dilation of 3. Using this embedding we show that T(q) can be embedded into a no wrap-around butterfly B(m +1) (resp. B(m +2) witb a dilation of 8 (resp. 5).",
+        "email": "",
+        "conf": "IEEE Transactions on Computers",
+        "coauthors": [
+            "Ajay K. Gupta",
+            "Susanne E. Hambrusch"
+        ],
+        "keywords": "Binary tree networks, butterfly networks, dilation, expansion, embeddings"
+    },
+    {
+        "id": 1416,
+        "label": 28,
+        "author": "ajay gupta",
+        "title": "Detection of Masquerade Attacks on Wireless Sensor Networks",
+        "organization": "Professor of Computer Science Western Michigan University",
+        "abstract": "We propose two lightweight techniques to detect masquerade attacks on wireless sensor networks (WSN). Our solutions take into consideration, important WSN properties like coverage, connectivity, data aggregation and specific communication patterns. The two proposed techniques complement each other when used concurrently. The mutual guarding (MG) technique does not work when nodes are not completely covered by their neighbors or when adversary has shorter transmission range than the sensor nodes. It also does not protect nodes near the boundary. The SRP technique does not have these drawbacks. In this paper, we present our proposed techniques and analyze their performance in terms of successful masquerade detection rate and traffic and computationaloverhead.",
+        "email": "gupta@cs.wmich.edu",
+        "conf": "conference on communications IEEE",
+        "coauthors": [
+            "Vijay Bhuse",
+            "Ajay K. Gupta",
+            "Ala Al-Fuqaha"
+        ],
+        "keywords": "Wireless sensor networks,Base stations,Peer to peer computing,Batteries,Cryptography,Performance analysis,Radio frequency,Communications Society,Computer science,Computer security"
+    },
+    {
+        "id": 1468,
+        "label": 28,
+        "author": "ajay gupta",
+        "title": "Efficient Algorithms for Scheduling Tasks on Hypercubes",
+        "organization": "Professor of Computer Science Western Michigan University",
+        "abstract": "",
+        "email": "",
+        "conf": "Distributed Memory Computing Conference",
+        "coauthors": [
+            "A. Boals",
+            "Ajay K. Gupta",
+            "J. Hashmi",
+            "Nivar Sherwani"
+        ],
+        "keywords": "Scheduling algorithm,Hypercubes,Optimal scheduling,Processor scheduling,Cost function,Topology,Tree graphs,Resource management,Board of Directors,Computer science"
+    },
+    {
+        "id": 1427,
+        "label": 28,
+        "author": "ajay gupta",
+        "title": "Power - time optimal algorithm for computing FFT over sensor networks",
+        "organization": "Professor of Computer Science Western Michigan University",
+        "abstract": "",
+        "email": "ajay.gupta@wmich.edu",
+        "conf": "international conference on Embedded networked sensor systems",
+        "coauthors": [
+            "Turkmen Canli",
+            "Mark Terwilliger",
+            "Ajay K. Gupta",
+            "Ashfaq A. Khokhar"
+        ],
+        "keywords": "Sensor Networks, FFT, Signal Processing, Energy, Efficient, Power Efficient, Load balancing"
+    },
+    {
+        "id": 1438,
+        "label": 28,
+        "author": "ajay gupta",
+        "title": "Tools for Distributed Adaptive Multivariate Integration on NOWs: ParInt 1.0 Release",
+        "organization": "Professor of Computer Science Western Michigan University",
+        "abstract": "Computationally intensive multiple integrals arise in areas such as atomic and nuclear physics 17], statistics 12, 5], computational nance 20], and the analysis of sensory data and psychological modeling 19]. Di cult integration problems over quadrilaterals or triangles of integrand functions exhibiting some type of singularity also arise in nite element applications 3]. This motivates the investigation of fast techniques for numerical integration, that can be executed on parallel and distributed systems available on hand. The present ParInt release",
+        "email": "",
+        "conf": "Supercomputing",
+        "coauthors": [
+            "Elise de Doncker",
+            "Alan Genz",
+            "Ajay K. Gupta",
+            "R. Zanny"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 1448,
+        "label": 28,
+        "author": "ajay gupta",
+        "title": "On Improving the Performance of Tree Machines",
+        "organization": "Professor of Computer Science Western Michigan University",
+        "abstract": "In this paper we introduce a class of trees, called generalized compressed trees. Generalized compressed trees can be derived from complete binary trees by performing certain ‘contraction’ operations. A generalized compressed tree CT of height h has approximately 25% fewer nodes than a complete binary tree T of height h. We show that these trees have smaller (up to a 74% reduction) 2-dimensional and 3-dimensional VLSI layouts than the complete binary trees. We also show that algorithms initially designed for T can be simulated by CT with at most a constant slow-down. In particular, algorithms having non-pipelined computation structure and originally designed for T can be simulated by CT with no slow-down.",
+        "email": "",
+        "conf": "International Journal of High Speed Computing",
+        "coauthors": [
+            "Ajay K. Gupta",
+            "Hong Wang"
+        ],
+        "keywords": "binary tree machine,embedding,hypercube,parallel algorithm,pipelined computation,node load,simulation,VLSI layout (2-dimensional and 3-dimensional)"
+    },
+    {
+        "id": 1457,
+        "label": 28,
+        "author": "ajay gupta",
+        "title": "Parallel Organization And Performance Of An Information System",
+        "organization": "Professor of Computer Science Western Michigan University",
+        "abstract": "This paper investigates a directory structure, based on an M-B-T directory, that provides for paral lel retrieval of information with low communication overhead. An information system of documents is assumed. It is compatible with current automatic retrieval and query processing techniques. It is also compatible with any organization of the documents. Weights that are assigned to keywords can be included in the directory with the keywords at no additional cost. In addition, it provides for indexing a secondary keyword within a primary keyword with no additional cost. Given a p- processor massively paral lel computer, our organization al lows a maximum of p retrievals to be performed concurrently and thus achieves an approximate speed up of p in the best case. The new, revised organization improves on previous work. An e_x000E_cient paral lel searching algorithm and its performance is also discussed.",
+        "email": "",
+        "conf": "ACM symposium on Applied computing",
+        "coauthors": [
+            "Dalia Motzkin",
+            "Ajay K. Gupta"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 1440,
+        "label": 28,
+        "author": "ajay gupta",
+        "title": "Finite element applications of parallel adaptive integration strategies",
+        "organization": "Professor of Computer Science Western Michigan University",
+        "abstract": "We present strategies for the parallel computation of the integrals typically arising in finite element problems. In order to deal efficiently with difficulties in the integrands affecting the domain in areas of which the exact locations may be unknown, a parallel adaptive strategy is applied to the entire domain. The elements comprising the domain form the initial pool of subregions in the adaptive strategy and are refined further where needed, thereby allowing load sharing or a load balanced global priority queue within each participating process group.",
+        "email": "",
+        "conf": "Conference on High Performance Computing (HiPC). IEEE",
+        "coauthors": [
+            "Elise de Doncker",
+            "P. Ealy",
+            "Ajay K. Gupta"
+        ],
+        "keywords": "Finite element methods,Integral equations,Concurrent computing,Partial differential equations,Boundary conditions,Differential equations,Application software,Computer science,Physics,Finite difference methods"
+    },
+    {
+        "id": 1418,
+        "label": 28,
+        "author": "ajay gupta",
+        "title": "An Efficient MAP Classifier for Sensornets",
+        "organization": "Professor of Computer Science Western Michigan University",
+        "abstract": "The classification phase is computationally intensive and frequently recurs in tracking applications in sensor networks. Most related work uses traditional signal processing classifiers, such as Maximum A Posterior (MAP) classifier. Naïve formulations of MAP are not feasible for resource constraint sensornet nodes. In this paper, we study computationally efficient methods for classification. We propose to use one-sided Jacobi iterations for eigen value decomposition of the covariance matrices, the inverse of which are needed in MAP classifier. We show that this technique greatly simplifies the execution of MAP classifier and makes it a feasible and efficient choice for sensornet applications.",
+        "email": "gupta@cs.wmich.edu",
+        "conf": "Conference on High-Performance Computing",
+        "coauthors": [
+            "Zille Huma Kamal",
+            "Ajay K. Gupta",
+            "Leszek Lilien",
+            "Ashfaq A. Khokhar"
+        ],
+        "keywords": "Classification, Jacobi Iterations, Sensor Networks, Collaborative Processing "
+    },
+    {
+        "id": 1471,
+        "label": 28,
+        "author": "ajay gupta",
+        "title": "A Lower Bound on Embedding Tree Machines with Balanced Processor Utilization",
+        "organization": "Professor of Computer Science Western Michigan University",
+        "abstract": "In this paper we show that any embedding of a 2m +I-node complete binary tree T into an m-node complete binary tree H requires a dilation of at least 3 when every node of H is assigned one interior and one leaf node of T, except one node which is assigned one interior and two leaf nodes of T.",
+        "email": "",
+        "conf": "Department of Computer Science Technical Reports",
+        "coauthors": [
+            "Ajay K. Gupta",
+            "Susanne E. Hambrusch"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 1444,
+        "label": 28,
+        "author": "ajay gupta",
+        "title": "Parallel Adaptive Integration for Finite Element Type Problems",
+        "organization": "Professor of Computer Science Western Michigan University",
+        "abstract": "We present and analyze strategies for the parallel computation of the integrals typically arising in finite element problems. The general strategy includes parallelization on the integral level (by multiple groups of processes) and parallelization on the subregion level (within each group), thereby allowing load sharing within each group.",
+        "email": "",
+        "conf": "High Performance Computing",
+        "coauthors": [
+            "Jay Ball",
+            "Elise de Doncker",
+            "Patricia Ealy",
+            "Ajay K. Gupta"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 1455,
+        "label": 28,
+        "author": "ajay gupta",
+        "title": "Multiprocessor Scheduling of High Concurrency Algorithms",
+        "organization": "Professor of Computer Science Western Michigan University",
+        "abstract": "When high concurrency algorithms are scheduled on a small number of processors, low communication to computation ratios are produced. Scheduling techniques for these type of algorithms must efficiently balance computational loads. This paper describes a technique using evolutionary strategies to efficiently schedule high concurrency algorithms onto multiprocessors.",
+        "email": "",
+        "conf": "Proc. of Florida AI Research Symp",
+        "coauthors": [
+            "Garrison W Greenwood",
+            "Ajay K. Gupta",
+            "Vinod Mahadik"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 1415,
+        "label": 28,
+        "author": "ajay gupta",
+        "title": "A service location problem with QoS constraints",
+        "organization": "Professor of Computer Science Western Michigan University",
+        "abstract": "In this paper, we present and discuss a novel service location problem that satisfies user demand for services, by installing services on nodes in the network, which can also meet quality of service (QoS) constraints of throughput and delay defined by the user. Service location problems can arise in various different networks, we specifically consider service location in Cisco’sApplication Oriented Networks (AON). Our goal is to formulateand present the service location problem as an Integer LinearProgramming (ILP) problem and solve it optimally for networkswith small number of nodes. Our ILP and results meet “realworld” demands of traffic splitting (due to link layer capacity) andservice federation (to incur minimal service installation cost). This will enable service providers to offer services in a cost-effective manner while meeting consumer’s demand for quality of service for throughput and delay. ",
+        "email": "gupta@cs.wmich.edu",
+        "conf": "conference on Wireless communications and mobile computing",
+        "coauthors": [
+            "Zille Huma Kamal",
+            "Ala Al-Fuqaha",
+            "Ajay K. Gupta"
+        ],
+        "keywords": "Service Location Problem, Networks, Cisco Application OrientedNetworks, Mobile Wireless Computing, Integer Linear Program"
+    },
+    {
+        "id": 1442,
+        "label": 28,
+        "author": "ajay gupta",
+        "title": "Applications of Evolutionary Strategies to Fine Grained Task Scheduling",
+        "organization": "Professor of Computer Science Western Michigan University",
+        "abstract": "Embedding task graphs onto hypercubes is a difficult problem. When the embedding is one-to-one, schedule length is strongly influenced by dilation. Therefore, it is desirable to find low dilation embeddings. This paper describes a heuristic embedding technique based upon evolutionary strategies. The technique has been extensively investigated using task graphs which are trees, forests, and butterflies. In all cases the technique has found low dilation embeddings.",
+        "email": "",
+        "conf": "Parallel Processing Letters",
+        "coauthors": [
+            "Ajay K. Gupta",
+            "Garrison W Greenwood"
+        ],
+        "keywords": "Embeddings,Evolutionary Strategies,Hypercubes,Task assignments"
+    },
+    {
+        "id": 1407,
+        "label": 28,
+        "author": "ajay gupta",
+        "title": "Assessment of ARIMA-based prediction techniques for road-traffic volume",
+        "organization": "Professor of Computer Science Western Michigan University",
+        "abstract": "Studies related to public transportation systems help the commuting public by increasing road safety and circulation.These result in optimized traffic flow, shorter origin-destination travel time and reduced incident rate. Vehicular Ad-Hoc Networkuses a number of sensors to gather data on the road. IntelligentTransportation Systems (ITS) draw inference from the gathereddata. In this paper we discuss our experience of using AutoRegressive Integrated Moving Average (ARIMA) based techniques emphasizing on the integration of short-range and long-range dependencies of the historical traffic volume. We also analyze traffic data for patterns across different types of roads and derive computational complexity of ARIMA. Finally improvements are identified for better prediction. We empirically show that SARIMA and ARIMA-GARCH exhibit similar road traffic prediction. ARIMA-GARCH is better than ARIMA and SARIMA for prediction, with stable model order across different historical traffic volumes. We further analyzes model orders across different types of roads and historical traffic volume; and its implications for practical applicability in ITS",
+        "email": "ajay.gupta@wmich.edu",
+        "conf": "conference on management of emergent digital EcoSystems",
+        "coauthors": [
+            "Vinay B Gavirangaswamy, Gagan Gupta, Ajay K Gupta, Rajeev Agrawal"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 1424,
+        "label": 28,
+        "author": "ajay gupta",
+        "title": "Anomaly Intrusion Detection in Wireless Sensor Networks",
+        "organization": "Professor of Computer Science Western Michigan University",
+        "abstract": "We propose lightweight methods to detect anomaly intrusions in wireless sensor networks (WSNs). The main idea is to reuse the already available system information that is generated at various layers of a network stack. To the best of our knowledge, this is the first such approach for anomaly intrusion detection in WSNs",
+        "email": "gupta@cs.wmich.edu",
+        "conf": "Journal of High Speed Networks",
+        "coauthors": [
+            "Vijay Bhuse",
+            "Ajay K. Gupta"
+        ],
+        "keywords": "Anomaly intrusion, Wireless sensor network, TDMA, CDMA, DSR, DSDV, FHSS"
+    },
+    {
+        "id": 1443,
+        "label": 28,
+        "author": "ajay gupta",
+        "title": "Two Methods for Load Balanced Distributed Adaptive Integration",
+        "organization": "Professor of Computer Science Western Michigan University",
+        "abstract": "Parallel subregion-adaptive integration often exhibits sequential behavior when applied to functions with difficult local problems such as boundary singularities. To correct this, one needs to balance the loads of the processors by providing all of them with a reasonably difficult part of the problem. In this paper, we present two distributed adaptive integration methods: one based on a global heap priority queue (distributed over the processors) which remains load balanced and assures that the subregions are processed according to their (global) priority (size of error) and one based on a local heap priority queue enhanced by receiverinitiated load balancing. We report results of both methods.",
+        "email": "",
+        "conf": "Conference on High-Performance Computing and Networking",
+        "coauthors": [
+            "Elise de Doncker",
+            "Patricia Ealy",
+            "Ajay K. Gupta"
+        ],
+        "keywords": "Load Balance, Child Node, Priority Queue, Quadrature Rule, Subdivision Strategy "
+    },
+    {
+        "id": 1432,
+        "label": 28,
+        "author": "ajay gupta",
+        "title": "A Distributed Approach to Security in Sensornets",
+        "organization": "Professor of Computer Science Western Michigan University",
+        "abstract": "Secure communication is an important aspect of any network and it has largely remained unexplored in wireless sensor networks (WSN). Security becomes a major challenge because of ad-hoc and resource constrained nature of sensor networks. In this paper we present a scalable and distributed security protocol, DSPS, for WSN that fits in between the network and the transport layers. DSPS satisfies the essentialrequirements of secure communication such as Data Confidentiality, Data Authentication, Data Integrity and Data Freshness. Basic building blocks of our security protocol are Key Generation-Distribution and Signatures. The key is a 56-bit random number generated initially by a key server, which is then securely distributed to all the nodes in the cluster. This key is used for encryption. DSPS also supports security criticaltransactions by dynamically generating a key, which can be shared between two nodes. The simplicity of DSPS allows compatibility with most of the routing protocols. ",
+        "email": "gupta@cs.wmich.edu",
+        "conf": "Vehicular Technology Conference 1988 IEEE 38th",
+        "coauthors": [
+            "Vijay Bhuse",
+            "Ajay K. Gupta",
+            "Rishi Pidva"
+        ],
+        "keywords": "component, wireless sensor networks, security protocols"
+    },
+    {
+        "id": 1431,
+        "label": 28,
+        "author": "ajay gupta",
+        "title": "Should one incorporate Mobile-ware in Parallel and Distributed Computation?",
+        "organization": "Professor of Computer Science Western Michigan University",
+        "abstract": "In this short paper, we consider issues of integration of mobile devices into grid computing thereby extending the discussion started by Phan et al. in [9]. The dynamic nature of mobile devicesincreases the cost of integration. We first show via a collection of different surveys that the integration of mobile-ware in the parallel computation is worth the effort to benefit from its aggregate computationalpower. Main issues that must be addressed are then identified. We also propose possible solutions to some of the issues, such as task, grid and mobile device allocation, buffering, deployment of agents andpossible models to convince mobile device owners of the benefits achieved by the integration.",
+        "email": "ajay.gupta@wmich.edu",
+        "conf": "Conference on High Performance Computing (HiPC)",
+        "coauthors": [
+            "Mustafa Sanver",
+            "Sathya Priya Durairaju",
+            "Ajay K. Gupta"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 1433,
+        "label": 28,
+        "author": "ajay gupta",
+        "title": "Efficient embeddings of ternary trees into hypercubes",
+        "organization": "Professor of Computer Science Western Michigan University",
+        "abstract": "In this paper we present efficient graph embeddings for complete k-ary trees into boolean hypercubes. In particular, we describe an efficient embedding of a complete ternary tree (k = 3) of height h into a hypercube, which achieves dilation 3 and expansion Θ(1.0104...h). The previously best-known result is dilation 2 and expansion Θ(1.333...h). Our embedding achieves exponentially better expansion at the cost of an increase of 1 in the dilation. We also describe efficient embeddings of k-ary trees into hypercubes when k = 2p * 3q for some p, q > 0 such that the embeddings achieve small constant dilation.",
+        "email": "gupta@cs.wmich.edu",
+        "conf": "Journal of Parallel and Distributed Computing",
+        "coauthors": [
+            "Ajay K. Gupta",
+            "Donald Nelson",
+            "Hong Wang"
+        ],
+        "keywords": "Embeddings, Dilation, Expansion, Trees, Hypercubes, Emulation, Algorithm porting, Interconnection networks"
+    },
+    {
+        "id": 1469,
+        "label": 28,
+        "author": "ajay gupta",
+        "title": "A Lower Bound on Embedding Large Hypercubes into Small Hypercubes",
+        "organization": "Professor of Computer Science Western Michigan University",
+        "abstract": "The problem of embedding an N-processor architecture G into an l\\tJ-processor architecture H for N > M arises when algorithms designed for architectures of an ideal size are simulated on existing architectures which are of a fixed size. In this paper we present solutions to this embedding problem for the case when both architectures are hypercubes and the embeddings are to achieve a balanced load. An embedding achieves a balanced load if every processor of H simulates at most rZl processors of G. We show that in this case hypercube G can be embedded into hypercube H with a dilation of 1 and an optimal congestion of Z. The main contribution of the paper is the lower bound on the congestion.",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Ajay K. Gupta",
+            "Alfred J. Boals",
+            "Naveed A Sherwani",
+            "Susanne E. Hambrusch"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 1409,
+        "label": 28,
+        "author": "ajay gupta",
+        "title": "Dual Use Ground Vehicle Condition-Based Maintenance Project B",
+        "organization": "Professor of Computer Science Western Michigan University",
+        "abstract": "Project Objectives. Fatigue sensor for structural components, design, fabrication and testing, Lubricant condition monitoring sensor selection, experimentation and laboratory evaluation, Wireless communication system, design and develop a sensor network, Demonstration of a prototype system in a dual purpose vehicle",
+        "email": "",
+        "conf": "WESTERN MICHIGAN UNIV KALAMAZOO DEPT OF MECHANICAL AND AERONAUTICAL ENGINEERING AND COMPUTER SCIENCE",
+        "coauthors": [
+            "Murali Ghantasala",
+            "Daniel Kujawski",
+            "Claudia Fajardo",
+            "Ajay K. Gupta"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 1410,
+        "label": 28,
+        "author": "ajay gupta",
+        "title": "Localization in Ad Hoc and Sensor Wireless Networks with Bounded Errors",
+        "organization": "Professor of Computer Science Western Michigan University",
+        "abstract": "With the proliferation of wireless networks and mobile computing devices, providing location-aware technology and services to new applications has become important for developers. Our main contribution is an efficient location discovery algorithm that bounds the localization error. Providing an efficient localization technique is critical in resource-constrained environments that include mobile devices and wireless networked sensors. Applicable in centralized and distributed environments, our algorithm, based on finding the smallest circle enclosing the intersection of n disks, runs in O(n 2) time. We then extend our work to the problem of finding the smallest disk that includes the set of points common to n disks and excluded from the interiors of m other disks. Finally, we show performance results from the implementation of our algorithms in which, under some conditions, localization estimates for 500 nodes in a 500x500 ft region can be found with a mean error of one foot and a two-foot error bound.",
+        "email": "",
+        "conf": "Conference on High-Performance Computing",
+        "coauthors": [
+            "Mark Terwilliger",
+            "Collette Coullard",
+            "Ajay K. Gupta"
+        ],
+        "keywords": "Localization, error bound, sensor network, position distance, estimates "
+    },
+    {
+        "id": 1453,
+        "label": 28,
+        "author": "ajay gupta",
+        "title": "Incomplete Hypercubes: Algorithms and Embeddings",
+        "organization": "Professor of Computer Science Western Michigan University",
+        "abstract": "The hypercube, though a popular and versatile architecture, has a major drawback in that its size must be a power of two. In order to alleviate this drawback, Katseff [1988] defined theincomplete hypercube, which allows a hypercube-like architecture to be defined for any number of nodes. In this paper we generalize this definition and introduce the namecomposite hypercube. The main result of our work shows that these incomplete architectures can be used effectively and without the size penalty. In particular, we show how to efficiently implement Fully Normal Algorithms on composite hypercubes. Development of these types of algorithms on composite hypercubes allows us to efficiently execute several algorithms concurrently on a complete hypercube. We also show that many host architectures, such as binary trees, arrays and butterflies, can be optimally embedded into composite hypercubes. These results imply that algorithms originally designed for any such host can be optimally mapped to composite hypercubes. Finally, we show that composite hypercubes exhibit many graph theoretic properties that are common with complete hypercubes. We also present results on efficient representations of composite hypercubes within a complete hypercube. These results are crucial in task allocation and job scheduling problems.",
+        "email": "",
+        "conf": "The Journal of Supercomputing",
+        "coauthors": [
+            "Alfred J. Boals",
+            "Ajay K. Gupta",
+            "Naveed A. Sherwani"
+        ],
+        "keywords": ""
+    }
+]

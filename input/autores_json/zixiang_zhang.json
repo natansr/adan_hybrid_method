@@ -1,0 +1,18 @@
+[
+    {
+        "id": 6405,
+        "label": 124,
+        "author": "zixiang zhang",
+        "title": "Phanerozoic trends in brachiopod body size from synoptic data",
+        "organization": "UC Berkeley",
+        "abstract": "Body size is one of the most studied phenotypic attributes because it is biologically important and easily measured. Despite a long history of study, however, the pattern of body-size change in diverse higher taxa over the Phanerozoic remains largely unknown because few relevant data sets span more than a single geological period or provide comprehensive, global coverage. In this study, we measured representative specimens of 3414 brachiopod genera illustrated in the Treatise on Invertebrate Paleontology. We applied these size data to stage-resolved stratigraphic ranges from the Treatise and the Paleobiology Database to develop a Phanerozoic record of trends in brachiopod size. Using a model comparison approach, we find that temporal variation in brachiopod size exhibits two distinct modes—a Paleozoic mode of size increase and a post-Paleozoic mode indistinguishable from a random walk. This transition reflects a change in the identities of the most diverse brachiopod orders rather than a shift in mode within any given order. Paleozoic size increase reflects a small, persistent bias toward the origination of new genera larger than those surviving from the previous stage and is identifiable as a statistically supported trend in three orders representing both Class Strophomenata (Order Productida) and Class Rhynchonellata (orders Atrypida and Spiriferida). Extinction exhibits no consistent bias with respect to size. The shift in evolutionary mode across the end-Permian mass extinction adds to long-standing evidence from studies of diversity and abundance that this biotic catastrophe suddenly and permanently altered the evolutionary history of what was, until that time, the most diverse animal phylum on Earth.",
+        "email": "",
+        "conf": "Paleobiology",
+        "coauthors": [
+            "Zixiang Zhang",
+            "Michael Augustin",
+            "Jonathan Louis Payne"
+        ],
+        "keywords": ""
+    }
+]

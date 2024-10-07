@@ -1,0 +1,1831 @@
+[
+    {
+        "id": 6750,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "Keeping in Touch with PII: PII-Interacting Proteins in Unicellular Cyanobacteria",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "",
+        "email": "",
+        "conf": "Plant and Cell Physiology",
+        "coauthors": [
+            "Takashi Osanai",
+            "Kan Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6730,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "Comparative Study of Cyanobacterial and E. coli RNA Polymerases: Misincorporation Abortive Transcription and Dependence on Divalent Cations",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "If Mg2+ ion is replaced by Mn2+ ion, RNA polymerase tends to misincorporate noncognate nucleotide, which is thought to be one of the reasons for the toxicity of Mn2+ ion. Therefore, most cells have Mn2+ ion at low intracellular concentrations, but cyanobacteria need the ion at a millimolar concentration to maintain photosynthetic machinery. To analyse the mechanism for resistance against the abundant Mn2+ ion, we compared the properties of cyanobacterial and E. coli RNA polymerases. The cyanobacterial enzyme showed a lower level of abortive transcription and less misincorporation than the E. coli enzyme. Moreover, the cyanobacterial enzyme showed a slower rate of the whole elongation by an order of magnitude, paused more frequently, and cleaved its transcript faster in the absence of NTPs. In conclusion, cyanobacterial RNA polymerase maintains the fidelity of transcription against Mn2+ ion by deliberate incorporation of a nucleotide at the cost of the elongation rate. The cyanobacterial and the E. coli enzymes showed different sensitivities to Mg2+ ion, and the physiological role of the difference is also discussed.",
+        "email": "",
+        "conf": "Genetics research international",
+        "coauthors": [
+            "Masahiko Imashimizu",
+            "Kan Tanaka",
+            "Nobuo Shimamoto"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6752,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "Sugar catabolism regulated by light- and nitrogen-status in the cyanobacterium Synechocystis sp PCC 6803",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "",
+        "email": "",
+        "conf": "Photochemical and Photobiological Sciences",
+        "coauthors": [
+            "Takashi Osanai",
+            "Miyuki Azuma",
+            "Kan Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6764,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "Identification of PamA as a PII-binding Membrane Protein Important in Nitrogen-related and Sugar-catabolic Gene Expression in Synechocystis sp. PCC 6803",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of Biological Chemistry",
+        "coauthors": [
+            "Takashi Osanai",
+            "Shusei Sato",
+            "Satoshi Tabata",
+            "Kan Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6728,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "The early days of plastid retrograde signaling with respect to replication and transcription",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "The plastid signal was originally defined as a pathway that informs the nucleus of the chloroplast status and results in the modulation of expression of nuclear-encoded plastid protein genes. However, the transfer of chloroplast genes into the nuclear genome is a prerequisite in this scheme, although it should not have been established during the very early phase of chloroplast evolution. We recently demonstrated in a primitive red alga that the plastid-derived Mg-protoporphyrin IX activates nuclear DNA replication (NDR) through the stabilization of a G1 cyclin, which coordinates the timing of organelle and NDR. This mechanism apparently does not involve any transcriptional regulation in the nucleus, and could have been established prior to gene transfer events. However, a retrograde signal mediating light-responsive gene expression may have been established alongside gene transfer, because essential light sensing and regulatory systems were originally incorporated into plant cells by the photosynthetic endosymbiont. In this short article, we discuss the origins, early days and evolution of the plastid retrograde signal(s).",
+        "email": "kntanaka@res.titech.ac.jp",
+        "conf": "Frontiers in Plant Science",
+        "coauthors": [
+            "Kan Tanaka",
+            "Mitsumasa Hanaoka"
+        ],
+        "keywords": "cell cycle, checkpoint, chloroplast, DNA replication, nuclear gene transfer, retrograde signal, tetrapyrrole,transcription"
+    },
+    {
+        "id": 6771,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "Genome sequence of the ultrasmall unicellular red alga Cyanidioschyzon merolae 10D",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "",
+        "email": "",
+        "conf": "Nature",
+        "coauthors": [
+            "Motomichi Matsuzaki",
+            "Osami Misumi",
+            "Tadasu Shin-I",
+            "Tsuneyoshi Kuroiwa"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6719,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "Expression of budding yeast FKBP12 confers rapamycin susceptibility to the unicellular red alga Cyanidioschyzon merolae",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "The target of rapamycin (TOR) is serine/threonine protein kinase that is highly conserved among eukaryotes and can be inactivated by the antibiotic rapamycin through the formation of a ternary complex composed of rapamycin and two proteins, TOR and FKBP12. Differing from fungi and animals, plant FKBP12 proteins are unable to form the ternary complex, and thus plant TORs are insensitive to rapamycin. This has led to a poor understanding of TOR functions in plants. As a first step toward the understanding of TOR function in a rapamycin-insensitive unicellular red alga, Cyanidioschyzon merolae, we constructed a rapamycin-susceptible strain in which the Saccharomyces cerevisiae FKBP12 protein (ScFKBP12) was expressed. Treatment with rapamycin resulted in growth inhibition and decreased polysome formation in this strain. Binding of ScFKBP12 with C. merolae TOR in the presence of rapamycin was demonstrated in vivo and in vitro by pull-down experiments. Moreover, in vitro kinase assay showed that inhibition of C. merolae TOR kinase activity was dependent on ScFKBP12 and rapamycin.",
+        "email": "",
+        "conf": "Biochemical and Biophysical Research Communications",
+        "coauthors": [
+            "Sousuke Imamura",
+            "Aiko Ishiwata",
+            "Satoru Watanabe",
+            "Hirofumi Yoshikawa",
+            "Kan Tanaka"
+        ],
+        "keywords": "Cyanidioschyzon merolae,FKBP12,Rapamycin,Red alga,TOR kinase"
+    },
+    {
+        "id": 6772,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "The multiple-stress responsive plastid sigma factor SIG5 directs activation of the psbD Blue Light-Responsive Promoter (BLRP) in Arabidopsis thaliana",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "",
+        "email": "",
+        "conf": "Plant and Cell Physiology",
+        "coauthors": [
+            "Akitomo Nagashima",
+            "Mitsumasa Hanaoka",
+            "Toshiharu Shikanai",
+            "Kan Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6784,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "Specificity crosstalk among group 1 and group 2 sigma factors in the cyanobacterium Synechococcus sp. PCC7942: In vitro specificity and a phylogenetic analysis",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "",
+        "email": "",
+        "conf": "Molecular Microbiology",
+        "coauthors": [
+            "Asako Goto-Seki",
+            "Masao Shirokane",
+            "Susumu Masuda",
+            "Hideo Takahashi"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6802,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "Multiple principal sigma factor homologs in eubacteria: Identification of the \"rpoD box\"",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "",
+        "email": "",
+        "conf": "Science",
+        "coauthors": [
+            "Kan Tanaka",
+            "T Shiina",
+            "Hiroki Takahashi"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6724,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "SIG1 a Sigma Factor for the Chloroplast RNA Polymerase Differently Associates with Multiple DNA Regions in the Chloroplast Chromosomes in Vivo",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "Chloroplasts have their own DNA and gene expression systems. Transcription in chloroplasts is regulated by two types of RNA polymerase, nuclear-encoded plastid RNA polymerase (NEP) and plastid-encoded plastid RNA polymerase (PEP), and multiple sigma factors for PEP. To study transcriptional regulation in chloroplasts, a molecular genetic approach has extensively been used. However, this method may include indirect effects, and it cannot be applied to the analysis of factors essential to survival. These limitations make understanding specific regulation by transcription factors difficult. Chromatin immunoprecipitation (ChIP) is a powerful and useful tool for obtaining information on transcription-factor binding sites; it can directly detect dynamic changes in their interaction patterns in vivo. To further understand transcriptional regulation in chloroplasts, we here established a ChIP-based method in Arabidopsis thaliana and analyzed the binding pattern of a chloroplast sigma factor, SIG1. We found that SIG1 specifically binds to newly identified target promoters as well as to a set of promoters of genes whose mRNA expression is dependent on OsSIG1 in rice and that this binding changed in response to high-light stress. These results suggested that the ChIP-based approach is very useful in understanding transcriptional regulation of chloroplast genes and can overcome several problems posed by conventional methods.",
+        "email": "",
+        "conf": "International Journal of Molecular Sciences",
+        "coauthors": [
+            "Mitsumasa Hanaoka",
+            "Maiko Kato",
+            "Misato Anma",
+            "Kan Tanaka"
+        ],
+        "keywords": "chloroplast; chromatin immunoprecipitation; transcriptional regulation; sigma"
+    },
+    {
+        "id": 6713,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "Complete Genome Sequence of Cyanobacterium Geminocystis sp. Strain NIES-3709 Which Harbors a Phycoerythrin-Rich Phycobilisome",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "The cyanobacterium Geminocystis sp. strain NIES-3709 accumulates a larger amount of phycoerythrin than the related NIES-3708 strain does. Here, we determined the complete genome sequence of the NIES-3709 strain. Our genome data suggest that the different copy number of rod linker genes for phycoerythrin leads to the different phycoerythrin contents between the two strains.",
+        "email": "",
+        "conf": "Genome Announcements",
+        "coauthors": [
+            "Yuu Hirose",
+            "Mitsunori Katayama",
+            "Yoshiyuki Ohtsubo",
+            "Naomi Misawa",
+            "Erica Iioka",
+            "Wataru Suda",
+            "Kenshiro Oshima",
+            "Mitsumasa Hanaoka",
+            "Kan Tanaka",
+            "Toshihiko Eki",
+            "Masahiko Ikeuchi",
+            "Yo Kikuchi",
+            "Makoto Ishida",
+            "Masahira Hattori"
+        ],
+        "keywords": "genes, nucleotide sequences, phycoerythrin"
+    },
+    {
+        "id": 6775,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "[Transcription regulation in higher plant chloroplasts: transcriptional cascade during the chloroplast development]",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "",
+        "email": "",
+        "conf": "Tanpakushitsu kakusan koso. Protein nucleic acid enzyme",
+        "coauthors": [
+            "Kan Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6702,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "Use of a Bacterial Luciferase Monitoring System To Estimate Real-Time Dynamics of Intracellular Metabolism in Escherichia coli",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "Regulation of central carbon metabolism has long been an important research subject in every organism. While the dynamics of metabolic flows during changes in available carbon sources have been estimated based on changes in metabolism-related gene expression, as well as on changes in the metabolome, the flux change itself has scarcely been measured because of technical difficulty, which has made conclusions elusive in many cases. Here, we used a monitoring system employing Vibrio fischeri luciferase to probe the intracellular metabolic condition in Escherichia coli. Using a batch culture provided with a limited amount of glucose, we performed a time course analysis, where the predominant carbon source shifts from glucose to acetate, and identified a series of sequential peaks in the luciferase activity (peaks 1 to 4). Two major peaks, peaks 1 and 3, were considered to correspond to the glucose and acetate consuming phases, respectively, based on the glucose, acetate, and dissolved oxygen concentrations in the medium. The pattern of these peaks was changed by the addition of a different carbon source or by an increasing concentration of glucose, which was consistent with the present model. Genetically, mutations involved in glycolysis or the tricarboxylic acid (TCA) cycle/gluconeogenesis specifically affected peak 1 or peak 3, respectively, as expected from the corresponding metabolic phase. Intriguingly, mutants for the acetate excretion pathway showed a phenotype of extended peak 2 and delayed transition to the TCA cycle/gluconeogenesis phase, which suggests that peak 2 represents the metabolic transition phase. These results indicate that the bacterial luciferase monitoring system is useful to understand the real-time dynamics of metabolism in living bacterial cells.",
+        "email": "kntanaka@res.titech.ac.jp",
+        "conf": "Applied and Environmental Microbiology",
+        "coauthors": [
+            "Tomohiro Shimada",
+            "Kan Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6753,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "Centromere dynamics in the primitive red alga Cyanidioschyzon merolae",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "",
+        "email": "",
+        "conf": "The Plant Journal",
+        "coauthors": [
+            "Shinichiro Maruyama",
+            "Haruko Kuroiwa",
+            "Shin-Ya Miyagishima",
+            "Tsuneyoshi Kuroiwa"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6793,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "Nuclear Encoding of a Chloroplast RNA Polymerase Sigma Subunit in a Red Alga",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "",
+        "email": "",
+        "conf": "Science",
+        "coauthors": [
+            "Kan Tanaka",
+            "Kosuke Oikawa",
+            "Niji Ohta",
+            "Hiroki Takahashi"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6733,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "Optimization of cryopreservation conditions for the unicellular red alga Cyanidioschyzon merolae",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "Cryopreservation is essential for maintaining stable stocks of organisms. We report the development of a method for cryopreservation of the unicellular red alga Cyanidioschyzon merolae, a model organism for the investigation of the basic architecture of photosynthetic eukaryotes. Glycerol, dimethyl sulfoxide and methanol were examined for their ability to protect the cell from cryoinjury and/or cytotoxicity. It was found that methanol was the most effective as a cryoprotectant for C. merolae. After the optimized setting of parameters such as working concentration of cryoprotectant and the period of slow cooling, cultures were supplemented with 5% (v/v) methanol and frozen by slow cooling using a passive-freezing unit, followed by plunging into liquid nitrogen. We found C. merolae cells retained greater than 80% viability for at least 83 days in storage.",
+        "email": "",
+        "conf": "The Journal of General and Applied Microbiology",
+        "coauthors": [
+            "Mio Ohnuma",
+            "Tsuneyoshi Kuroiwa",
+            "Kan Tanaka"
+        ],
+        "keywords": "cryoinjury, cryopreservation, Cyanidioschyzon merolae, unicellular red alga"
+    },
+    {
+        "id": 6758,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "Cytoplasmic Localization of the Single Glutamine Synthetase in a Unicellular Red Alga Cyanidioschyzon merolae 10D",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "",
+        "email": "",
+        "conf": "Bioscience Biotechnology and Biochemistry",
+        "coauthors": [
+            "Masaru Terashita",
+            "Shinichiro Maruyama",
+            "Kan Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6711,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "Expanded roles of leucine-responsive regulatory protein in transcription regulation of the Escherichia coli genome: Genomic SELEX screening of the regulation targets",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "Leucine-responsive regulatory protein (Lrp) is a transcriptional regulator for the genes involved in transport, biosynthesis and catabolism of amino acids in Escherichia coli. In order to identify the whole set of genes under the direct control of Lrp, we performed Genomic SELEX screening and identified a total of 314 Lrp-binding sites on the E. coli genome. As a result, the regulation target of Lrp was predicted to expand from the hitherto identified genes for amino acid metabolism to a set of novel target genes for utilization of amino acids for protein synthesis, including tRNAs, aminoacyl-tRNA synthases and rRNAs. Northern blot analysis indicated alteration of mRNA levels for at least some novel targets, including the aminoacyl-tRNA synthetase genes. Phenotype MicroArray of the lrp mutant indicated significant alteration in utilization of amino acids and peptides, whilst metabolome analysis showed variations in the concentration of amino acids in the lrp mutant. From these two datasets we realized a reverse correlation between amino acid levels and cell growth rate: fast-growing cells contain low-level amino acids, whilst a high level of amino acids exists in slow-growing cells. Taken together, we propose that Lrp is a global regulator of transcription of a large number of the genes involved in not only amino acid transport and metabolism, but also amino acid utilization.",
+        "email": "",
+        "conf": "Microbial genomics",
+        "coauthors": [
+            "Tomohiro Shimada",
+            "Natsumi Saito",
+            "Michihisa Maeda",
+            "Kan Tanaka",
+            "Akira Ishihama"
+        ],
+        "keywords": "Escherichia coli genome, Genomic SELEX, leucine response regulator, regulation target, transcription factor"
+    },
+    {
+        "id": 6768,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "Positive Regulation of Sugar Catabolic Pathways in the Cyanobacterium Synechocystis sp. PCC 6803 by the Group 2 Factor SigE",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of Biological Chemistry",
+        "coauthors": [
+            "Takashi Osanai",
+            "Yu Kanesaki",
+            "Takayuki Nakano",
+            "Kan Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6773,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "Isolation of Cycloheximide-resistant Mutants of Cyanidioschyzon merolae",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "",
+        "email": "",
+        "conf": "Cytologia",
+        "coauthors": [
+            "Fumi Yagisawa",
+            "Keiji Nishida",
+            "Yukio Okano",
+            "Tsuneyoshi Kuroiwa"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6714,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "Identification of centromere regions in chromosomes of a unicellular red alga Cyanidioschyzon merolae",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "To investigate the evolution of centromere architecture in plant cells, it is important to identify centromere regions of primitive algae, such as Cyanidioschyzon merolae. In a previous genome project, in silico analysis predicted an AT-rich region in each chromosome as putative centromere regions. Here, we identified a centromere position in each chromosome by ChIP-on-chip analysis using an anti-CENP-A antibody. The identified centromeres were of the regional type, about 2–3 kb in length and contained no consensus or repeat elements. Centromeres in primitive eukaryotic plant cells may have originated from these regional type centromeres.",
+        "email": "kntanaka@res.titech.ac.jp",
+        "conf": "FEBS letters",
+        "coauthors": [
+            "Yu Kanesaki",
+            "Sousuke Imamura",
+            "Motomichi Matsuzaki",
+            "Kan Tanaka"
+        ],
+        "keywords": "CENP-A,Centromere,ChIP-chip assay,Whole genome tiling array,Cyanidioschyzon merolae"
+    },
+    {
+        "id": 6720,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "Increased Bioplastic Production with an RNA Polymerase Sigma Factor SigE during Nitrogen Starvation in Synechocystis sp. PCC 6803",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "Because cyanobacteria directly harvest CO2 and light energy, their carbon metabolism is important for both basic and applied sciences. Here, we show that overexpression of the sigma factor sigE in Synechocystis sp. PCC 6803 widely changes sugar catabolism and increases production of the biodegradable polyester polyhydroxybutyrate (PHB) during nitrogen starvation. sigE overexpression elevates the levels of proteins implicated in glycogen catabolism, the oxidative pentose phosphate pathway, and polyhydroxyalkanoate biosynthesis. PHB accumulation is enhanced by sigE overexpression under nitrogen-limited conditions, yet the molecular weights of PHBs synthesized by the parental glucose-tolerant and sigE overexpression strain are similar. Although gene expression induced by nitrogen starvation is changed and other metabolites (such as GDP-mannose and citrate) accumulate under sigE overexpression, genetic engineering of this sigma factor altered the metabolic pathway from glycogen to PHB during nitrogen starvation.",
+        "email": "",
+        "conf": "DNA Research",
+        "coauthors": [
+            "Takashi Osanai",
+            "Keiji Numata",
+            "Akira Oikawa",
+            "Ayuko Kuwahara",
+            "Hiroko Iijima",
+            "Yoshiharu Doi",
+            "Kan Tanaka",
+            "Kazuki Saito",
+            "Masami Yokota Hirai"
+        ],
+        "keywords": "cyanobacteria, gene expression, metabolomics, nitrogen starvation, sugar metabolism"
+    },
+    {
+        "id": 6716,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "Optimization of polyethylene glycol (PEG)-mediated DNA introduction conditions for transient gene expression in the unicellular red alga Cyanidioschyzon merolae",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "",
+        "email": "",
+        "conf": "The Journal of General and Applied Microbiology",
+        "coauthors": [
+            "Mio Ohnuma",
+            "Takashi Yokoyama",
+            "Takayuki Inouye",
+            "Yasuhiko Sekine",
+            "Tsuneyoshi Kuroiwa",
+            "Kan Tanaka"
+        ],
+        "keywords": "Cyanidioschyzon merolae , DNA introduction , luciferase , polyethylene glycol"
+    },
+    {
+        "id": 6729,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "Retrograde signals arise from reciprocal crosstalk within plastids",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "In addition to the cell nucleus, plant cells also possess genomic DNA and gene expression machineries within mitochondria and plastids. In higher plants, retrograde transcriptional regulation of several nuclear genes encoding plastid-located proteins has been observed in response to changes in a wide variety of physiological properties in plastids, including organelle gene expression (OGE) and tetrapyrrole metabolism. This regulation is postulated to be accomplished by plastid-to-nucleus signaling,1,2 although the overall signal transduction pathway(s) are not well characterized. By applying a specific differentiation system in tobacco Bright Yellow-2 (BY-2) cultured cells,3,4 we recently reported that the regulatory system of nuclear gene expressions modulated by a plastid signal was also observed during differentiation of plastids into amyloplasts.5 While retrograde signaling from plastids was previously speculated to consist of several independent pathways, we found inhibition of OGE and perturbation in the cellular content of one tetrapyrrole intermediate, heme, seemed to interact to regulate amyloplast differentiation. Our results thus highlight the possibility that several sources of retrograde signaling in plastids could be integrated in an intraorganellar manner.",
+        "email": "",
+        "conf": "Plant signaling & behavior",
+        "coauthors": [
+            "Kazuhiko Enami",
+            "Kan Tanaka",
+            "Mitsumasa Hanaoka"
+        ],
+        "keywords": "Amyloplast, organelle gene expression, plastid differentiation, retrograde signaling, tetrapyrrole metabolism, tobacco BY-2 cells"
+    },
+    {
+        "id": 6803,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "Cloning and expression of the metallo-proteinase inhibitor (S-MPI) gene from Streptomyces nigrescens",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "",
+        "email": "",
+        "conf": "Biochemical and Biophysical Research Communications",
+        "coauthors": [
+            "Kan Tanaka",
+            "Hiuga Saito",
+            "Kohei Oda",
+            "Hideo Takahashi"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6757,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "Nitrogen Induction of Sugar Catabolic Gene Expression in Synechocystis sp. PCC 6803",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "",
+        "email": "",
+        "conf": "DNA Research",
+        "coauthors": [
+            "Takashi Osanai",
+            "Sousuke Imamura",
+            "Munehiko Asayama",
+            "Kan Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6762,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "[Gene expression machinery for chloroplast genomes: overview]",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "",
+        "email": "",
+        "conf": "Tanpakushitsu kakusan koso. Protein nucleic acid enzyme",
+        "coauthors": [
+            "Kan Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6708,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "Target of rapamycin (TOR) plays a critical role in triacylglycerol accumulation in microalgae",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "Most microalgae produce triacylglycerol (TAG) under stress conditions such as nitrogen depletion, but the underlying molecular mechanism remains unclear. In this study, we focused on the role of target of rapamycin (TOR) in TAG accumulation. TOR is a serine/threonine protein kinase that is highly conserved and plays pivotal roles in nitrogen and other signaling pathways in eukaryotes. We previously constructed a rapamycin-susceptible Cyanidioschyzon merolae, a unicellular red alga, by expressing yeast FKBP12 protein to evaluate the results of TOR inhibition (Imamura et al. in Biochem Biophys Res Commun 439:264–269, 2013). By using this strain, we here report that rapamycin-induced TOR inhibition results in accumulation of cytoplasmic lipid droplets containing TAG. Transcripts for TAG synthesis-related genes, such as glycerol-3-phosphate acyltransferase and acyl-CoA:diacylglycerol acyltransferase (DGAT), were increased by rapamycin treatment. We also found that fatty acid synthase-dependent de novo fatty acid synthesis was required for the accumulation of lipid droplets. Induction of TAG and up-regulation of DGAT gene expression by rapamycin were similarly observed in the unicellular green alga, Chlamydomonas reinhardtii. These results suggest the general involvement of TOR signaling in TAG accumulation in divergent microalgae.",
+        "email": "",
+        "conf": "Plant Molecular Biology",
+        "coauthors": [
+            "Sousuke Imamura",
+            "Yasuko Kawase",
+            "Ikki Kobayashi",
+            "Toshiyuki Sone",
+            "Atsuko Era",
+            "Shin-ya Miyagishima",
+            "Mie Shimojima",
+            "Hiroyuki Ohta",
+            "Kan Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6748,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "Polyethylene Glycol (PEG)-Mediated Transient Gene Expression in a Red Alga Cyanidioschyzon merolae 10D",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "",
+        "email": "",
+        "conf": "Plant and Cell Physiology",
+        "coauthors": [
+            "Mio Ohnuma",
+            "Takashi Yokoyama",
+            "Takayuki Inouye",
+            "Kan Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6723,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "Circadian Control of Chloroplast Transcription by a Nuclear-Encoded Timing Signal",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "Circadian timekeeping in plants increases photosynthesis and productivity. There are circadian oscillations in the abundance of many chloroplast-encoded transcripts, but it is not known how the circadian clock regulates chloroplast transcription or the photosynthetic apparatus. We show that, in Arabidopsis, nuclear-encoded SIGMA FACTOR5 (SIG5) controls circadian rhythms of transcription of several chloroplast genes, revealing one pathway by which the nuclear-encoded circadian oscillator controls rhythms of chloroplast gene expression. We also show that SIG5 mediates the circadian gating of light input to a chloroplast-encoded gene. We have identified an evolutionarily conserved mechanism that communicates circadian timing information between organelles with distinct genetic systems and have established a new level of integration between eukaryotic circadian clocks and organelles of endosymbiotic origin.",
+        "email": "",
+        "conf": "Science",
+        "coauthors": [
+            "Zeenat B Noordally",
+            "Kenyu Ishii",
+            "Kelly Ann Atkins",
+            "Sarah J Wetherill",
+            "Jelena Kusakina",
+            "Eleanor J Walton",
+            "Maiko Kato",
+            "Miyuki Azuma",
+            "Kan Tanaka",
+            "Mitsumasa Hanaoka",
+            "Antony N Dodd"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6734,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "A tetrapyrrole-regulated ubiquitin ligase controls algal nuclear DNA replication",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "In plant cells, organelle DNA replication (ODR) is coordinated with nuclear DNA replication (NDR), with ODR preceding NDR during cell cycle progression. We previously showed that the occurrence of ODR is signalled by a tetrapyrrole compound, most likely Mg-protoporphyrin IX (Mg-ProtoIX), resulting in the activation of cyclin-dependent kinase A (CDKA) and consequent initiation of NDR (refs 1, 2, 3). Here we identify an F-box protein of SCF-type E3 ubiquitin ligase (Fbx3) in the red alga Cyanidioschyzon merolae, which inhibits CDKA by ubiquitylating the relevant cyclin and inducing its degradation. Mg-ProtoIX binds to Fbx3 and inhibits cyclin ubiquitylation. Thus, these observations indicate that Fbx3 serves as the receptor for the plastid-to-nucleus retrograde signal Mg-ProtoIX and thereby contributes to a checkpoint mechanism ensuring coordination of ODR and NDR.",
+        "email": "",
+        "conf": "Nature Cell Biology",
+        "coauthors": [
+            "Yuki Kobayashi",
+            "Sousuke Imamura",
+            "Mitsumasa Hanaoka",
+            "Kan Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6767,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "Bacterial luciferase activity and the intracellular redox pool in Escherichia coli",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "",
+        "email": "",
+        "conf": "Molecular Genetics and Genomics",
+        "coauthors": [
+            "K Koga",
+            "T Harada",
+            "H Shimizu",
+            "Kan Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6761,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "Chloroplast sigma factors SIG2 and SIG6 are involved in oilseed development in Arabidopsis",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "",
+        "email": "",
+        "conf": "Plant and Cell Physiology",
+        "coauthors": [
+            "A Nagashima",
+            "H Maeda",
+            "Mitsumasa Hanaoka",
+            "Kan Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6742,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "Transient gene suppression in a red alga Cyanidioschyzon merolae 10D",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "",
+        "email": "",
+        "conf": "Protoplasma",
+        "coauthors": [
+            "Mio Ohnuma",
+            "Osami Misumi",
+            "Takayuki Fujiwara",
+            "Tsuneyoshi Kuroiwa"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6736,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "Nucleus-Independent Control of the Rubisco Operon by the Plastid-Encoded Transcription Factor Ycf30 in the Red Alga Cyanidioschyzon merolae",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "Chloroplasts originated from a cyanobacterium, which was engulfed by a primitive eukaryotic host cell. During evolution, chloroplasts have largely lost their autonomy due to the loss of many genes from their own genomes. Consequently, expression of genes encoded in the chloroplast genome is mainly controlled by the factors transferred from the cytosol to chloroplasts. However, chloroplast genomes of glaucophytes and red algae have retained some transcription factors (hypothetical chloroplast open reading frame 27 to 30 [Ycf27–Ycf30]) that are absent from green algae and land plants. Here, we show that the red algal chloroplast up-regulates transcription of the Rubisco operon rbcLS-cbbX via Ycf30 independently of nuclear control. Light-induced transcriptional activation of the Rubisco operon was observed in chloroplasts isolated from the red alga Cyanidioschyzon merolae. The activation was suppressed by 3-(3,4-dichlorophenyl)-1,1-dimethylurea. These results suggest that chloroplast autonomously regulates transcription of the Rubisco operon in response to the activation of photosynthesis driven by the light. Transcriptional activation of the Rubisco operon was specifically repressed by the addition of anti-Ycf30 antibodies. Furthermore, reduced NADP, ribulose-1,5-bisphosphate, and 3-phosphoglyceric acid triggered the up-regulation of Rubisco transcription in the dark, and the activation was dependent on Ycf30. Thus, red algal chloroplasts have retained a nucleus-independent transcriptional regulation of the Rubisco operon to respond to environmental changes. The autonomous system would have been necessary for the initial fixation of cyanobacterial photosynthesis in the ancient nonphotosynthetic eukaryotic host. It has remained functional in the red algal chloroplast over evolutionary time.",
+        "email": "",
+        "conf": "Plant physiology",
+        "coauthors": [
+            "Ayumi Minoda",
+            "Andreas Paul Michael Weber",
+            "Kan Tanaka",
+            "Shin-Ya Miyagishima"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6704,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "Abscisic Acid Participates in the Control of Cell Cycle Initiation Through Heme Homeostasis in the Unicellular Red Alga Cyanidioschyzon merolae",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "ABA is a phytohormone that is synthesized in response to abiotic stresses and other environmental changes, inducing various physiological responses. While ABA has been found in unicellular photosynthetic organisms, such as cyanobacteria and eukaryotic algae, its function in these organisms is poorly understood. Here, we found that ABA accumulated in the unicellular red alga Cyanidioschyzon merolae under conditions of salt stress and that the cell cycle G1/S transition was inhibited when ABA was added to the culture medium. A gene encoding heme-scavenging tryptophan-rich sensory protein-related protein (CmTSPO; CMS231C) was positively regulated by ABA, as in Arabidopsis, and CmTSPO bound heme in vitro. The intracellular content of total heme was increased by addition of ABA, but unfettered heme decreased, presumably due to scavenging by CmTSPO. The inhibition of DNA replication by ABA was negated by addition of heme to the culture medium. Thus, we propose a regulatory role for ABA and heme in algal cell cycle initiation. Finally, we found that a C. merolae mutant that is defective in ABA production was more susceptible to salt stress, indicating the importance of ABA to stress resistance in red algae.",
+        "email": "kntanaka@res.titech.ac.jp",
+        "conf": "Plant and Cell Physiology",
+        "coauthors": [
+            "Yuki Kobayashi",
+            "Hiroyuki Ando",
+            "Mitsumasa Hanaoka",
+            "Kan Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6727,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "Nuclear-Encoded Plastid Sigma Factor SIG6 Exclusively Contributes to Chloroplast Differentiation in Plastid Differentiation of Arabidopsis thaliana",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "Cells of land plants contain several kinds of plastids such as chloroplasts, etioplasts, proplastids, leucoplasts, and amyloplasts. Among them, the chloroplast, the most well characterized type of plastid, relies on expression of plastid-encoded photosynthetic genes. The genome of plastids encodes many photosynthetic genes that are mainly transcribed by the plastid-encoded plastid RNA polymerase (PEP). Transcriptional activity of PEP is controlled by nuclear-encoded sigma factors that are important for transcription initiation and promoter selectivity. Arabidopsis thaliana possesses 6 sigma factor genes, SIG1 to 6. Here, we analyzed the function of SIG6, a gene related to chloroplast differentiation. The null mutant (sig6-1) of the SIG6 gene exhibited a pale green phenotype in the cotyledons and in the basal part of emerging true leaves at early stages of development. Interestingly, as leaves matured, the color of cotyledons and true leaves changed to green. In the wild-type and sig6-1 mutant, plastids visualized by green fluorescent protein (GFP) were observed under the epifluorescence microscope. In cotyledons of 3-day-old seedlings, chloroplasts of the sig6-1 mutant showed small and irregular morphology compared with that of the wild-type chloroplasts. However, amyloplasts and leucoplasts in root tissues showed no obvious differences between the wild-type and the sig6-1 mutant. These results suggest that SIG6 plays a key role during the early stages of chloroplast differentiation, but not in differentiation into other types of plastids such as leucoplasts and amyloplasts.",
+        "email": "",
+        "conf": "Cytologia",
+        "coauthors": [
+            "Shunsuke Hirooka",
+            "Mitsumasa Hanaoka",
+            "Kazuhiko Enami",
+            "Takehiko Kanazawa",
+            "Toshiyuki Sone",
+            "Yuuta Imoto",
+            "Akikazu And",
+            "Haruko Kuroiwa",
+            "Tsuneyoshi Kuroiwa",
+            "Kan Tanaka"
+        ],
+        "keywords": "chloroplasts, cotyledons, differentiation, genes, leaves, mutants, plant tissues, plastids, roots"
+    },
+    {
+        "id": 6709,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "A nitrogen source-dependent inducible and repressible gene expression system in the red alga Cyanidioschyzon merolae",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "The unicellular red alga Cyanidioschyzon merolae is a model organism for studying the basic biology of photosynthetic organisms. The C. merolae cell is composed of an extremely simple set of organelles. The genome is completely sequenced. Gene targeting and a heat-shock inducible gene expression system has been recently established. However, a conditional gene knockdown system has not been established, which is required for the examination of function of genes that are essential to cell viability and primary mutant defects. In the current study, we first evaluated the expression of a transgene from two chromosomal neutral loci located in the intergenic region between CMD184C and CMD185C, and a region upstream of the URA5.3 gene. There was no significant difference in expression between them and this result suggests that both may be used as neutral loci. We then designed an inducible and repressible gene expression by using promoters of nitrate-assimilation genes. The expression of nitrate-assimilation genes such as NR (nitrate reductase), NIR (nitrite reductase), and NRT (the nitrate/nitrite transporter) are reversibly regulated by their dependence on nitrogen sources. We constructed stable strains in which a cassette containing the NR, NIR, or NRT promoter and sfGFP gene was inserted in a region upstream of URA5.3 and examined the efficacy of the promoters. The NR, NIR, and NRT promoters were constitutively activated in the nitrate medium, whereas their activities were extremely low in presence of ammonium. The activation of each promoter was immediately inhibited within a period of 1 h by the addition of ammonium. Thus, a conditional knockdown system in C. merolae was successfully established. The activity varies among the promoters, and each is selectable according to the expression level of a target gene estimated by RNA-sequencing. This method is applicable to defects in genes of interest in photosynthetic organism.",
+        "email": "",
+        "conf": "Frontiers in Plant Science",
+        "coauthors": [
+            "Takayuki Fujiwara",
+            "Yu Kanesaki",
+            "Shunsuke Hirooka",
+            "Atsuko Era",
+            "Nobuko Sumiya",
+            "Hirofumi Yoshikawa",
+            "Kan Tanaka",
+            "Shin-Ya Miyagishima"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6800,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "Multiple rpoD -Related Genes of Cyanobacteria",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "",
+        "email": "",
+        "conf": "Bioscience Biotechnology and Biochemistry",
+        "coauthors": [
+            "Kan Tanaka",
+            "Susumu Masuda",
+            "Hideo Takahashi"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6739,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "Mg-Protoporphyrin IX Signaling in Cyanidioschyzon merolae: Multiple pathways may involve the retrograde signaling in plant cells",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "",
+        "email": "",
+        "conf": "Plant signaling & behavior",
+        "coauthors": [
+            "Yu Kanesaki",
+            "Yuki Kobayashi",
+            "Mitsumasa Hanaoka",
+            "Kan Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6746,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "Functional analysis of the plastid and nuclear encoded CbbX proteins of Cyanidioschyzon merolae",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "",
+        "email": "",
+        "conf": "Genes & Genetic Systems",
+        "coauthors": [
+            "Kiyohito Fujita",
+            "Kan Tanaka",
+            "Yoshito Sadaie",
+            "Niji Ohta"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6790,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "Cloning sequencing and characterization of the gene encoding a principal sigma factor homolog from the cyanobacterium Microcystis aeruginosa K-81",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "",
+        "email": "",
+        "conf": "Gene",
+        "coauthors": [
+            "Munehiko Asayama",
+            "Kan Tanaka",
+            "Hideo Takahashi",
+            "Makoto Shirai"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6791,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "Short Communication. A new set of PCR primers for specific detection of the gene encoding the principal sigma factor in cyanobacteria",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "",
+        "email": "",
+        "conf": "The Journal of General and Applied Microbiology",
+        "coauthors": [
+            "MUNEHIKO ASAYAMA",
+            "AKIKO YAMADA",
+            "Kan Tanaka",
+            "Makoto Shirai"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6799,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "The complete nucleotide sequence of the gene (rpoD1) encoding the principal sigma factor of the RNA polymerase from the cyanobacterium Synechococcus sp. strain PCC7942",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "",
+        "email": "",
+        "conf": "Biochimica et Biophysica Acta",
+        "coauthors": [
+            "Kan Tanaka",
+            "Susumu Masuda",
+            "Hiroki Takahashi"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6703,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "Eyespot-dependent determination of the phototactic sign in Chlamydomonas reinhardtii",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "The biflagellate green alga Chlamydomonas reinhardtii exhibits both positive and negative phototaxis to inhabit areas with proper light conditions. It has been shown that treatment of cells with reactive oxygen species (ROS) reagents biases the phototactic sign to positive, whereas that with ROS scavengers biases it to negative. Taking advantage of this property, we isolated a mutant, lts1-211, which displays a reduction-oxidation (redox) dependent phototactic sign opposite to that of the wild type. This mutant has a single amino acid substitution in phytoene synthase, an enzyme that functions in the carotenoid-biosynthesis pathway. The eyespot contains large amounts of carotenoids and is crucial for phototaxis. Most lts1-211 cells have no detectable eyespot and reduced carotenoid levels. Interestingly, the reversed phototactic-sign phenotype of lts1-211 is shared by other eyespot-less mutants. In addition, we directly showed that the cell body acts as a convex lens. The lens effect of the cell body condenses the light coming from the rear onto the photoreceptor in the absence of carotenoid layers, which can account for the reversed-phototactic-sign phenotype of the mutants. These results suggest that light-shielding property of the eyespot is essential for determination of phototactic sign.",
+        "email": "",
+        "conf": "Proceedings of the National Academy of Sciences",
+        "coauthors": [
+            "Noriko Ueki",
+            "Takahiro Ide",
+            "Shota Mochiji",
+            "Yuki Kobayashi",
+            "Ryutaro Tokutsu",
+            "Norikazu Ohnishi",
+            "Katsushi Yamaguchi",
+            "Shuji Shigenobu",
+            "Kan Tanaka",
+            "Jun Minagawa",
+            "Toru Hisabori",
+            "Masafumi Hirono",
+            "Ken-ichi Wakabayashi"
+        ],
+        "keywords": "Chlamydomonas,eyespot,lens,phototaxis,carotenoids"
+    },
+    {
+        "id": 6755,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "Interference Expression at Levels of the Transcript and Protein among Group 1 2 and 3 Sigma Factor Genes in a Cyanobacterium",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "",
+        "email": "",
+        "conf": "Microbes and Environments",
+        "coauthors": [
+            "Masae Matsui",
+            "Tsutomu Yoshimura",
+            "Yuko Wakabayashi",
+            "Makoto Shirai"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6787,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "Identification and analysis of the RpoS-dependent promoter of katE encoding catalase HPII in Escherichia coli",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "",
+        "email": "",
+        "conf": "Biochimica et Biophysica Acta",
+        "coauthors": [
+            "Kan Tanaka",
+            "Katherine Handel",
+            "Peter C Loewen",
+            "Hideo Takahashi"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6743,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "Tetrapyrrole signal as a cell-cycle coordinator from organelle to nuclear DNA replication in plant cells",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "",
+        "email": "",
+        "conf": "Proceedings of the National Academy of Sciences",
+        "coauthors": [
+            "Yuki Kobayashi",
+            "Yu Kanesaki",
+            "Ayumi Tanaka",
+            "Kan Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6770,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "Improvement of Culture Conditions and Evidence for Nuclear Transformation by Homologous Recombination in a Red Alga Cyanidioschyzon merolae 10D",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "",
+        "email": "",
+        "conf": "Plant and Cell Physiology",
+        "coauthors": [
+            "Ayumi Minoda",
+            "Rei Sakagami",
+            "Fumi Yagisawa",
+            "Kan Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6780,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "Transcriptional activation of NtcA-dependent promoters of Synechococcus sp. PCC 7942 by 2-oxoglutarate in vitro",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "",
+        "email": "",
+        "conf": "Proceedings of the National Academy of Sciences",
+        "coauthors": [
+            "Ryohei Tanigawa",
+            "Masao Shirokane",
+            "Shin-ichi Maeda Si",
+            "Hideo Takahashi"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6797,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "Characteristics of DNA and Multiple rpoD Homologs of Microcystis(Synechocystis) Strains",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "",
+        "email": "",
+        "conf": "International journal of systematic bacteriology",
+        "coauthors": [
+            "T Sakamoto",
+            "Makoto Shirai",
+            "M Asayama",
+            "M Nakano"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6710,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "Expression of Cyanobacterial Acyl-ACP Reductase Elevates the Triacylglycerol Level in the Red Alga Cyanidioschyzon merolae",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "Nitrogen starvation is known to induce the accumulation of triacylglycerol (TAG) in many microalgae, and potential use of microalgae as a source of biofuel has been explored. However, nitrogen starvation also stops cellular growth. The expression of cyanobacterial acyl-acyl carrier protein (ACP) reductase in the unicellular red alga Cyanidioschyzon merolae chloroplasts resulted in an accumulation of TAG, which led to an increase in the number and size of lipid droplets while maintaining cellular growth. Transcriptome and metabolome analyses showed that the expression of acyl-ACP reductase altered the activities of several metabolic pathways. The activities of enzymes involved in fatty acid synthesis in chloroplasts, such as acetyl-CoA carboxylase and pyruvate dehydrogenase, were up-regulated, while pyruvate decarboxylation in mitochondria and the subsequent consumption of acetyl-CoA by the tricarboxylic acid (TCA) cycle were down-regulated. Aldehyde dehydrogenase, which oxidizes fatty aldehydes to fatty acids, was also up-regulated in the acyl-ACP reductase expresser. This activation was required for the lipid droplet accumulation and metabolic changes observed in the acyl-ACP reductase expresser. Nitrogen starvation also resulted in lipid droplet accumulation in C. merolae, while cell growth ceased as in the case of other algal species. The metabolic changes that occur upon the expression of acyl-ACP reductase are quite different from those caused by nitrogen starvation. Therefore, there should be a method for further increasing the storage lipid level while still maintaining cell growth that is different from the metabolic response to nitrogen starvation.",
+        "email": "",
+        "conf": "Plant and Cell Physiology",
+        "coauthors": [
+            "Nobuko Sumiya",
+            "Yasuko Kawase",
+            "Jumpei Hayakawa",
+            "Mami Matsuda",
+            "Mami Nakamura",
+            "Atsuko Era",
+            "Kan Tanaka",
+            "Akihiko Kondo",
+            "Tomohisa Hasunuma",
+            "Sousuke Imamura",
+            "Shin-ya Miyagishima"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6759,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "Growth Phase-dependent Activation of Nitrogen-related Genes by a Control Network of Group 1 and Group 2 Factors in a Cyanobacterium",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of Biological Chemistry",
+        "coauthors": [
+            "Sousuke Imamura",
+            "Kan Tanaka",
+            "Makoto Shirai",
+            "Munehiko Asayama"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6735,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "A Response Regulator Rre37 and an RNA Polymerase Sigma Factor SigE Represent Two Parallel Pathways to Activate Sugar Catabolism in a Cyanobacterium Synechocystis sp. PCC 6803",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "Sugar catabolic genes are induced during nitrogen starvation in a cyanobacterium Synechocystis sp. PCC 6803, but the underlying regulatory mechanism still remains to be completely characterized. In this study, we showed by molecular genetics and transcriptome analyses that a response regulator Rre37 (encoded by sll1330), whose expression is enhanced by nitrogen depletion under the control of NtcA, activates transcript accumulation of sugar catabolic genes, such as gap1, pfkA (sll1196), glgP (slr1367) and glgX (slr1857), mainly during nitrogen starvation. Previously, we reported that a group-2 sigma factor SigE also positively regulates sugar catabolic genes in this strain. Phenotypic analyses using a single or double mutant lacking rre37 and/or sigE indicated that both SigE and Rre37 positively regulate sugar catabolic genes independently. These findings substantiated a regulatory network of sugar catabolic genes in this cyanobacterium.",
+        "email": "kntanaka@faculty.chiba-u.jp",
+        "conf": "Plant and Cell Physiology",
+        "coauthors": [
+            "Miyuki Azuma",
+            "Takashi Osanai",
+            "Masami Hirai",
+            "Kan Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6763,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "[Transcriptional machinery for chloroplast genomes]",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "",
+        "email": "",
+        "conf": "Tanpakushitsu kakusan koso. Protein nucleic acid enzyme",
+        "coauthors": [
+            "Kan Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6754,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "A 100%-complete sequence reveals unusually simple genomic features in the hot-spring red alga Cyanidioschyzon merolae",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "",
+        "email": "",
+        "conf": "BMC Biology",
+        "coauthors": [
+            "Hisayoshi Nozaki",
+            "Hiroyoshi Takano",
+            "Osami Misumi",
+            "Tsuneyoshi Kuroiwa"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6726,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "External Light Conditions and Internal Cell Cycle Phases Coordinate Accumulation of Chloroplast and Mitochondrial Transcripts in the Red Alga Cyanidioschyzon merolae",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "The mitochondria and chloroplasts in plant cells are originated from bacterial endosymbioses, and they still replicate their own genome and divide in a similar manner as their ancestors did. It is thus likely that the organelle transcription is coordinated with its proliferation cycle. However, this possibility has not extensively been explored to date, because in most plant cells there are many mitochondria and chloroplasts that proliferate asynchronously. It is generally believed that the gene transfer from the organellar to nuclear genome has enabled nuclear control of the organelle functions during the evolution of eukaryotic plant cells. Nevertheless, no significant relationship has been reported between the organelle transcriptome and the host cell cycle even in Chlamydomonas reinhardtii. While the organelle proliferation cycle is not coordinated with the cell cycle in vascular plants, in the unicellular red alga Cyanidioschyzon merolae that contains only one mitochondrion, one chloroplast, and one nucleus per cell, each of the organelles is known to proliferate at a specific phase of the cell cycle. Here, we show that the expression of most of the organelle genes is highly coordinated with the cell cycle phases as well as with light regimes in clustering analyses. In addition, a strong correlation was observed between the gene expression profiles in the mitochondrion and chloroplast, resulting in the identification of a network of functionally related genes that are co-expressed during organelle proliferation.",
+        "email": "kntanaka@res.titech.ac.jp",
+        "conf": "DNA Research",
+        "coauthors": [
+            "Yu Kanesaki",
+            "Sousuke Imamura",
+            "Ayumi Minoda",
+            "Kan Tanaka"
+        ],
+        "keywords": "cell cycle; clustering analysis; Cyanidioschyzon; organelle; transcriptome"
+    },
+    {
+        "id": 6751,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "Chloroplast ribosome release factor 1 (AtcpRF1) is essential for chloroplast development",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "",
+        "email": "",
+        "conf": "Plant Molecular Biology",
+        "coauthors": [
+            "Reiko Motohashi",
+            "Takanori Yamazaki",
+            "Fumiyoshi Myouga",
+            "Kazuo Shinozaki"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6722,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "Mitochondrial Localization of Ferrochelatase in a Red Alga Cyanidioschyzon merolae",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "Ferrochelatase (FECH) is an essential enzyme for the final step of heme biosynthesis. In green plants, its activity has been reported in both plastids and mitochondria. However, the precise subcellular localization of FECH remains uncertain. In this study, we analyzed the localization of FECH in the unicellular red alga, Cyanidioschyzon merolae. Immunoblot and enzyme activity analyses of subcellular fractions localized little FECH in the plastid. In addition, immunofluorescence microscopy identified that both intrinsic and hemagglutinin (HA)-tagged FECH are localized in the mitochondrion. We therefore conclude that FECH is localized in the mitochondrion in C. merolae.",
+        "email": "kntanaka@res.titech.ac.jp",
+        "conf": "Plant and Cell Physiology",
+        "coauthors": [
+            "Satoru Watanabe",
+            "Mitsumasa Hanaoka",
+            "Yusaku Ohba",
+            "Tomohiro Ono",
+            "Mio Ohnuma",
+            "Hirofumi Yoshikawa",
+            "Shigeru Taketani",
+            "Kan Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6765,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "Microarray Profiling of Plastid Gene Expression in a Unicellular Red Alga Cyanidioschyzon merolae",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "",
+        "email": "",
+        "conf": "Plant Molecular Biology",
+        "coauthors": [
+            "Ayumi Minoda",
+            "Kirina Nagasawa",
+            "Mitsumasa Hanaoka",
+            "Kan Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6747,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "Centromere structures highlighted by the 100%-complete Cyanidioschyzon merolae Genome",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "",
+        "email": "",
+        "conf": "Plant signaling & behavior",
+        "coauthors": [
+            "Shinichiro Maruyama",
+            "Motomichi Matsuzaki",
+            "Haruko Kuroiwa",
+            "Hisayoshi Nozaki"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6794,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "A sigma factor that modifies the circadian expression of a subset of genes in cyanobacteria",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "",
+        "email": "",
+        "conf": "The EMBO Journal",
+        "coauthors": [
+            "Nicholas Tsinoremas",
+            "Masahiro Ishiura",
+            "T Kondo",
+            "Susan S Golden"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6792,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "The rpoD1 Gene Product Is a Principal Sigma Factor of RNA Polymerase in Microcystis aeruginosa K-81",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of Biochemistry",
+        "coauthors": [
+            "M Asayama",
+            "H Suzuki",
+            "A Sato",
+            "Makoto Shirai"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6777,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "Complete Sequence and Analysis of the Plastid Genome of the Unicellular Red Alga Cyanidioschyzon merolae",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "",
+        "email": "",
+        "conf": "DNA Research",
+        "coauthors": [
+            "Niji Ohta",
+            "Motomichi Matsuzaki",
+            "Osami Misumi",
+            "Tsuneyoshi Kuroiwa"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6789,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "The rpoD1 gene of Synechococcus sp strain PCC 7942 encodes the principal sigma factor of RNA polymerase",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "",
+        "email": "",
+        "conf": "The Journal of General and Applied Microbiology",
+        "coauthors": [
+            "Yoshinori Sugimoto",
+            "Kan Tanaka",
+            "Susumu Masuda",
+            "Hideo Takahashi"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6745,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "Group 2 sigma factors in cyanobacteria",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "",
+        "email": "",
+        "conf": "Physiologia Plantarum",
+        "coauthors": [
+            "Takashi Osanai",
+            "Masahiko Ikeuchi",
+            "Kan Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6707,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "Construction of a URA5.3 deletion strain of the unicellular red alga Cyanidioschyzon merolae: A backgroundless host strain for transformation experiments",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "",
+        "email": "kntanaka@res.titech.ac.jp",
+        "conf": "The Journal of General and Applied Microbiology",
+        "coauthors": [
+            "Keiko Taki",
+            "Toshiyuki Sone",
+            "Yuki Kobayashi",
+            "Satoru Watanabe",
+            "Sousuke Imamura",
+            "Kan Tanaka"
+        ],
+        "keywords": "Cyanidioschyzon merolae , deletion , DNA introduction , transformation , uracil auxotroph"
+    },
+    {
+        "id": 6788,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "A new sigma factor homolog in a cyanobacterium: cloning sequencing and light-responsive transcripts of rpoD2 from Microcystis aeruginosa K-81",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "",
+        "email": "",
+        "conf": "Biochimica et Biophysica Acta",
+        "coauthors": [
+            "M Asayama",
+            "A Suzuki",
+            "S Nozawa",
+            "Makoto Shirai"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6738,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "The Coiled-Coil Protein VIG1 Is Essential for Tethering Vacuoles to Mitochondria during Vacuole Inheritance of Cyanidioschyzon merolae",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "Vacuoles/lysosomes function in endocytosis and in storage and digestion of metabolites. These organelles are inherited by the daughter cells in eukaryotes. However, the mechanisms of this inheritance are poorly understood because the cells contain multiple vacuoles that behave randomly. The primitive red alga Cyanidioschyzon merolae has a minimum set of organelles. Here, we show that C. merolae contains about four vacuoles that are distributed equally between the daughter cells by binding to dividing mitochondria. Binding is mediated by VIG1, a 30-kD coiled-coil protein identified by microarray analyses and immunological assays. VIG1 appears on the surface of free vacuoles in the cytosol and then tethers the vacuoles to the mitochondria. The vacuoles are released from the mitochondrion in the daughter cells following VIG1 digestion. Suppression of VIG1 by antisense RNA disrupted the migration of vacuoles. Thus, VIG1 is essential for tethering vacuoles to mitochondria during vacuole inheritance in C. merolae.",
+        "email": "",
+        "conf": "The Plant Cell",
+        "coauthors": [
+            "Takayuki Fujiwara",
+            "Haruko Kuroiwa",
+            "Fumi Yagisawa",
+            "Mio Ohnuma",
+            "Yamato Yoshida",
+            "Masaki Yoshida",
+            "Keiji Nishida",
+            "Osami Misumi",
+            "Satoru Watanabe",
+            "Kan Tanaka",
+            "Tsuneyoshi Kuroiwa"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6706,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "Extraction and Measurement of Abscisic Acid in a Unicellular Red Alga Cyanidioschyzon merolae",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "Abscisic acid (ABA) has been known as a phytohormone of land plants, which is synthesized in response to abiotic stresses and induces various physiological responses, but is also found from eukaryotic algae. Recently, we reported that a unicellular red alga Cyanidioschyzon merolae produced ABA, which prevented cell growth and enhanced salt stress tolerance (Kobayashi et al., 2016). This report describes the detailed method for the extraction and quantification of ABA in the model red alga C. merolae",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Yuki Kobayashi",
+            "Kan Tanaka"
+        ],
+        "keywords": "Abscisic acid, Algae, Cyanidioschyzon merolae, HPLC, Phytohormone"
+    },
+    {
+        "id": 6744,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "Periodic Gene Expression Patterns during the Highly Synchronized Cell Nucleus and Organelle Division Cycles in the Unicellular Red Alga Cyanidioschyzon merolae",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "",
+        "email": "",
+        "conf": "DNA Research",
+        "coauthors": [
+            "Takayuki Fujiwara",
+            "Osami Misumi",
+            "Kousuke Tashiro",
+            "Tsuneyoshi Kuroiwa"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6701,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "Transcription factor DecR (YbaO) controls detoxification of L-cysteine in Escherichia coli",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "YbaO is an uncharacterized AsnC-family transcription factor of Escherichia coli. In both Salmonella enterica and Pantoea ananatis, YbaO homologues were identified to regulate the adjacent gene encoding cysteine desulfhydrase for detoxification of cysteine. Using the genomic SELEX (systematic evolution of ligands by exponential enrichment) screening system, we identified the yhaOM operon, located far from the ybaO gene on the E. coli genome, as a single regulatory target of YbaO. In both gel shift assay in vitro and reporter and Northern blot assays in vivo, YbaO was found to regulate the yhaOM promoter. The growth of mutants lacking either ybaO or its targets yhaOM was delayed in the presence of cysteine, indicating involvement of these genes in cysteine detoxification. In the major pathway of cysteine degradation, hydrogen sulfide is produced in wild-type E. coli, but its production was not observed in each of the ybaO, yhaO and yhaM mutants. The yhaOM promoter was activated in the presence of cysteine, implying the role of cysteine in activation of YbaO. Taken together, we propose that YbaO is the cysteine-sensing transcriptional activator of the yhaOM operon, which is involved in the detoxification of cysteine. We then propose the naming of ybaO as decR (regulator of detoxification of cysteine).",
+        "email": "",
+        "conf": "Microbiology",
+        "coauthors": [
+            "Tomohiro Shimada",
+            "Kan Tanaka",
+            "Akira Ishihama"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6725,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "RpaB Another Response Regulator Operating Circadian Clock-dependent Transcriptional Regulation in Synechococcus elongatus PCC 7942",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "The circadian clock of cyanobacteria is composed of KaiA, KaiB, and KaiC proteins, and the SasA-RpaA two-component system has been implicated in the regulation of one of the output pathways of the clock. In this study, we show that another response regulator that is essential for viability, the RpaA paralog, RpaB, plays a central role in the transcriptional oscillation of clock-regulated genes. In vivo and in vitro analyses revealed that RpaB and not RpaA could specifically bind to the kaiBC promoter, possibly repressing transcription during subjective night. This suggested that binding may be terminated by RpaA to activate gene transcription during subjective day. Moreover, we found that rpoD6 and sigF2, which encode group-2 and group-3 σ factors for RNA polymerase, respectively, were also targets of the RpaAB system, suggesting that a specific group of σ factors can propagate genome-wide transcriptional oscillation. Our findings thus reveal a novel mechanism for a circadian output pathway that is mediated by two paralogous response regulators.",
+        "email": "",
+        "conf": "Journal of Biological Chemistry",
+        "coauthors": [
+            "Mitsumasa Hanaoka",
+            "Naoki Takai",
+            "Norimune Hosokawa",
+            "Masayuki Fujiwara",
+            "Yuki Akimoto",
+            "Nami Kobori",
+            "Hideo Iwasaki",
+            "Takao Kondo",
+            "Kan Tanaka"
+        ],
+        "keywords": "Circadian clock, Cyanobacteria, Signal transduction, Transcription factors, Transcription regulation, Output pathway, RpaB, Two-component system"
+    },
+    {
+        "id": 6795,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "Identification and Molecular Analysis of Lactococcus lactis rpoD Operon",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "",
+        "email": "",
+        "conf": "Bioscience Biotechnology and Biochemistry",
+        "coauthors": [
+            "Tomoko Araya-Kojima",
+            "Norio Ishibashi",
+            "Seiichi Shimamura",
+            "Hideo Takahashi"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6700,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "Transcriptional Regulation of Tetrapyrrole Biosynthetic Genes Explains Abscisic Acid-Induced Heme Accumulation in the Unicellular Red Alga Cyanidioschyzon merolae",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "Abscisic acid (ABA), a pivotal phytohormone that is synthesized in response to abiotic stresses and other environmental changes, induces various physiological responses. Heme, in its unbound form, has a positive signaling role in cell-cycle initiation in Cyanidioschyzon merolae. ABA induces heme accumulation, but also prevents cell-cycle initiation through the titration of the unbound heme by inducing the heme scavenging protein tryptophan-rich sensory protein-related protein O. In this study, we analyzed the accumulation of tetrapyrrole biosynthetic gene transcripts after the addition of ABA to the medium and found that transcripts of a ferrochelatase and a magnesium-chelatase subunit increased, while other examined transcripts decreased. Under the same conditions, the heme and magnesium-protoporphyrin IX contents increased, while the protoporphyrin IX content decreased. Thus, ABA may regulate the intracellular heme and other tetrapyrrole contents through the transcriptional regulation of biosynthetic genes.",
+        "email": "",
+        "conf": "Frontiers in Plant Science",
+        "coauthors": [
+            "Yuki Kobayashi",
+            "Kan Tanaka"
+        ],
+        "keywords": "abscisic acid, Cyanidioschyzon merolae, heme, tetrapyrrole, transcriptional regulation, TSPO"
+    },
+    {
+        "id": 6756,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "Proteomic characterization of the Cyanidioschyzon merolae ribosome",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "",
+        "email": "",
+        "conf": "Genes & Genetic Systems",
+        "coauthors": [
+            "Kazuma Tokunaga",
+            "Tadahiko Irisawa",
+            "Takahito Fukuda",
+            "Fujio Kawamura"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6749,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "Induction of a Group 2 Factor RPOD3 by High Light and the Underlying Mechanism in Synechococcus elongatus PCC 7942",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of Biological Chemistry",
+        "coauthors": [
+            "Asako Seki",
+            "Mitsumasa Hanaoka",
+            "Yuki Akimoto",
+            "Kan Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6796,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "Stationary phase-specific expression of the fic gene in Escherichia coli K-12 is controlled by the rpoS gene product (  38 )",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "",
+        "email": "",
+        "conf": "FEMS Microbiology Letters",
+        "coauthors": [
+            "Ryutaro Utsumi",
+            "Shie Kusafuka",
+            "Takahiro Nakayama",
+            "Makoto Kawamukai"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6785,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "Cloning and characterization in Escherichia coli of the gene encoding the principal sigma factor of an extreme thermophile Thermus thermophilus",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "",
+        "email": "",
+        "conf": "FEMS Microbiology Letters",
+        "coauthors": [
+            "M Nishiyama",
+            "N Kobashi",
+            "Kan Tanaka",
+            "Masaru Tanokura"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6715,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "The nuclear-encoded sigma factor SIG4 directly activates transcription of chloroplast psbA and ycf17 genes in the unicellular red alga Cyanidioschyzon merolae",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "The plant organelle chloroplast originated from the endosymbiosis of a cyanobacterial-like photosynthetic bacterium, and still retains its own genome derived from this ancestor. We have been focusing on a unicellular red alga, Cyanidioschyzon merolae, as a model photosynthetic eukaryote. In this study, we analyzed the transcriptional specificity of SIG4, which is one of four nuclear-encoded chloroplast RNA polymerase sigma factors in this alga. Accumulation of the SIG4 protein was observed in response to nitrogen depletion or high light conditions. By comparing the chloroplast transcriptomes under nitrogen depletion and SIG4-overexpressing conditions, we identified several candidate genes as SIG4 targets. Together with the results of chromatin immunoprecipitation analysis, the promoters of the psbA (encoding the D1 protein of the photosystem II reaction center) and ycf17 (encoding a protein of the early light-inducible protein family) genes were shown to be direct activation targets. The phycobilisome (PBS) CpcB protein was decreased by SIG4 overexpression, which suggests the negative involvement of SIG4 in PBS accumulation.",
+        "email": "",
+        "conf": "FEMS Microbiology Letters",
+        "coauthors": [
+            "Gaku Fujii",
+            "Sousuke Imamura",
+            "Atsuko Era",
+            "Shin-ya Miyagishima",
+            "Mitsumasa Hanaoka",
+            "Kan Tanaka"
+        ],
+        "keywords": "chloroplast, Cyanidioschyzon merolae, red algae, sigma factor, transcriptional regulation"
+    },
+    {
+        "id": 6769,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "Roles of Chloroplast RNA Polymerase Sigma Factors in Chloroplast Development and Stress Response in Higher Plants",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "",
+        "email": "",
+        "conf": "Bioscience Biotechnology and Biochemistry",
+        "coauthors": [
+            "Kengo Kanamaru",
+            "Kan Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6801,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "Nucleotide sequence of genes hrdA hrdC and hrdD from Streptomyces coelicolor A3(2) having similarity to rpoD genes",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "",
+        "email": "",
+        "conf": "MGG - Molecular and General Genetics",
+        "coauthors": [
+            "Kan Tanaka",
+            "T Shiina",
+            "Hiroki Takahashi"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6798,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "Genetic and Molecular Analysis of the rpoD Gene from Lactococcus lactis",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "",
+        "email": "",
+        "conf": "Bioscience Biotechnology and Biochemistry",
+        "coauthors": [
+            "Tomoko Araya",
+            "Norio Ishibashi",
+            "Seiichi Shimamura",
+            "Hideo Takahashi"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6781,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "Monitoring the expression pattern of chloroplast-encoded protein in the albino and pale green mutants using the microarray",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "",
+        "email": "",
+        "conf": "Plant and Cell Physiology",
+        "coauthors": [
+            "T Yamazaki",
+            "Reiko Motohashi",
+            "Toshinori Ito",
+            "K Shinozaki"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6740,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "Arabidopsis Replication Protein A 70a is Required for DNA Damage Response and Telomere Length Homeostasis",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "",
+        "email": "",
+        "conf": "Plant and Cell Physiology",
+        "coauthors": [
+            "Yoshiyuki Takashi",
+            "Yuki Kobayashi",
+            "Kan Tanaka",
+            "Katsunori Tamura"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6705,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "TOR (target of rapamycin) is a key regulator of triacylglycerol accumulation in microalgae",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "Most microalgae abundantly accumulate lipid droplets (LDs) containing triacylglycerols (TAGs) under several stress conditions, but the underlying molecular mechanism of this accumulation remains unclear. In a recent study, we found that inhibition of TOR (target of rapamycin), a highly conserved protein kinase of eukaryotes, by rapamycin resulted in TAG accumulation in microalgae, indicating that TOR negatively regulates TAG accumulation. Here, we show that formation of intracellular LDs and TAG accumulation were also induced in the unicellular green alga Chlamydomonas reinhardtii after exposure to Torin1 or AZD8055, which are novel TOR inhibitors that inhibit TOR activity in a manner different from rapamycin. These results supported quite well our previous conclusion that TOR is a central regulator of TAG accumulation in microalgae.",
+        "email": "",
+        "conf": "Plant signaling & behavior",
+        "coauthors": [
+            "Sousuke Imamura",
+            "Yasuko Kawase",
+            "Ikki Kobayashi",
+            "Mie Shimojima",
+            "Hiroyuki Ohta",
+            "Kan Tanaka"
+        ],
+        "keywords": "AZD8055, Chlamydomonas reinhardtii, Cyanidioschyzon merolae, lipid droplet, microalga, target of rapamycin, Torin1, TOR inhibitor, triacylglycerol"
+    },
+    {
+        "id": 6721,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "Spatiotemporal dynamics of condensins I and II: Evolutionary insights from the primitive red alga Cyanidioschyzon merolae",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "Condensins are multisubunit complexes that play central roles in chromosome organization and segregation in eukaryotes. Many eukaryotic species have two different condensin complexes (condensins I and II), although some species, such as fungi, have condensin I only. Here we use the red alga Cyanidioschyzon merolae as a model organism because it represents the smallest and simplest organism that is predicted to possess both condensins I and II. We demonstrate that, despite the great evolutionary distance, spatiotemporal dynamics of condensins in C. merolae is strikingly similar to that observed in mammalian cells: condensin II is nuclear throughout the cell cycle, whereas condensin I appears on chromosomes only after the nuclear envelope partially dissolves at prometaphase. Unlike in mammalian cells, however, condensin II is confined to centromeres in metaphase, whereas condensin I distributes more broadly along arms. We firmly establish a targeted gene disruption technique in this organism and find, to our surprise, that condensin II is not essential for mitosis under laboratory growth conditions, although it plays a crucial role in facilitating sister centromere resolution in the presence of a microtubule drug. The results provide fundamental insights into the evolution of condensin-based chromosome architecture and dynamics.",
+        "email": "",
+        "conf": "Molecular biology of the cell",
+        "coauthors": [
+            "Takayuki Fujiwara",
+            "Kan Tanaka",
+            "Tsuneyoshi Kuroiwa",
+            "Tatsuya Hirano"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6766,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "Positive Regulation of Sugar Catabolic Pathways in the Cyanobacterium Synechocystis sp. PCC 6803 by the Group 2 Factor SigE",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of Biological Chemistry",
+        "coauthors": [
+            "Takashi Osanai",
+            "Yu Kanesaki",
+            "Takayuki Nakano",
+            "Kan Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6712,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "Complete Genome Sequence of Cyanobacterium Geminocystis sp. Strain NIES-3708 Which Performs Type II Complementary Chromatic Acclimation",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "To explore the variation of the light-regulated genes during complementary chromatic acclimation (CCA), we determined the complete genome sequence of the cyanobacterium Geminocystis sp. strain NIES-3708. Within the light-regulated operon for CCA, we found genes for phycoerythrin but not phycocyanin, suggesting that this cyanobacterium modulates phycoerythrin composition only (type II CCA).",
+        "email": "",
+        "conf": "Genome Announcements",
+        "coauthors": [
+            "Yuu Hirose",
+            "Mitsunori Katayama",
+            "Yoshiyuki Ohtsubo",
+            "Naomi Misawa",
+            "Erica Iioka",
+            "Wataru Suda",
+            "Kenshiro Oshima",
+            "Mitsumasa Hanaoka",
+            "Kan Tanaka",
+            "Toshihiko Eki",
+            "Masahiko Ikeuchi",
+            "Yo Kikuchi",
+            "Makoto Ishida",
+            "Masahira Hattori"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6718,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "The Whole Set of Constitutive Promoters Recognized by RNA Polymerase RpoD Holoenzyme of Escherichia coli",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "The promoter selectivity of Escherichia coli RNA polymerase is determined by the sigma subunit with promoter recognition activity. The model prokaryote Escherichia coli contains seven species of the sigma subunit, each recognizing a specific set of promoters. The major sigma subunit, sigma-70 encoded by rpoD, plays a major role in transcription of growth-related genes. Concomitant with the increase in detection of promoters functioning in vivo under various stressful conditions, the variation is expanding in the consensus sequence of RpoD promoters. In order to identify the canonical sequence of ‘‘constitutive promoters’’ that are recognized by the RNA polymerase holoenzyme containing RpoD sigma in the absence of supporting transcription factors, an in vitro mixed transcription assay was carried out using a whole set of variant promoters, each harboring one base replacement, within the model promoter with the conserved -35 and -10 sequences of RpoD promoters. The consensus sequences, TTGACA(-35) and TATAAT(-10), were identified to be ideal for the maximum level of open complex formation and the highest rate of promoter opening, respectively. For identification of the full range of constitutive promoters on the E. coli genome, a total of 2,701 RpoD holoenzyme-binding sites were identified by Genomic SELEX screening, and using the reconfirmed consensus promoter sequence, a total of maximum 669 constitutive promoters were identified, implying that the majority of hitherto identified promoters represents the TF-dependent ‘‘inducible promoters’’. One unique feature of the constitutive promoters is the high level of promoter sequence conservation, about 85% carrying five-out-of-six agreements with -35 or -10 consensus sequence. The list of constitutive promoters provides the community resource toward estimation of the inducible promoters that operate under various stressful conditions in nature.",
+        "email": "",
+        "conf": "PLoS ONE",
+        "coauthors": [
+            "Tomohiro Shimada",
+            "Yukiko Yamazaki",
+            "Kan Tanaka",
+            "Akira Ishihama"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6717,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "Stable expression of a GFP-reporter gene in the red alga Cyanidioschyzon merolae",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "The unicellular red alga Cyanidioschyzon merolae is used as a model organism to investigate the basic architecture of photosynthetic eukaryotes. We established a stable expression system for the green fluorescent protein fused with the phycocyanin-associated rod linker (APCC) protein in C. merolae, which was clearly localized on the plastid. This system should be useful in the genetic engineering of C. merolae.",
+        "email": "",
+        "conf": "Bioscience Biotechnology and Biochemistry",
+        "coauthors": [
+            "Satoru Watanabe",
+            "Jun Sato",
+            "Sousuke Imamura",
+            "Mio Ohnuma",
+            "Yusaku Ohoba",
+            "Taku Chibazakura",
+            "Kan Tanaka",
+            "Hirofumi Yoshikawa"
+        ],
+        "keywords": "Cyanidioschyzon merolae, green fluorescent protein (GFP), APCC, transformation"
+    },
+    {
+        "id": 6776,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "Effects of antibiotics that inhibit the bacterial peptidoglycan synthesis pathway on Moss chloroplast division",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "",
+        "email": "",
+        "conf": "Plant and Cell Physiology",
+        "coauthors": [
+            "Nami Katayama",
+            "Hiroyoshi Takano",
+            "Motoji Sugiyama",
+            "Kanji Ono"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6737,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "Coordination of Nuclear and Plastid Gene Expression in Red Algae and Green Plants",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "Plastid proteins are encoded separately on two genomes, one in the nucleus and another in the plastid. Thus, expression of genes on both genomes should be coordinated in response to developmental and environmental cues. Many nuclear-encoded factors are involved in transcription regulation of plastid genes. On the other hand, some plastid-derived signals also regulate expression of specific sets of nuclear genes. In this chapter, we summarize and discuss our current views of regulation of plastid gene expression, especially emphasized on the nucleus–plastid communication. The regulatory systems in red algae and green plants are likely to be rather different from each other.",
+        "email": "",
+        "conf": "Red Algae in the Genomic Age",
+        "coauthors": [
+            "Mitsumasa Hanaoka",
+            "Kan Tanaka"
+        ],
+        "keywords": "Plastid, chloroplasts, Cyanidioschyzon merolae, Arabidopsis thaliana, RNA polymerase, NEP, PEP, sigma factor, transcription factor, ycf27–30, transcription regulation, nuclear control "
+    },
+    {
+        "id": 6732,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "Plastid-to-Nucleus Retrograde Signals Are Essential for the Expression of Nuclear Starch Biosynthesis Genes during Amyloplast Differentiation in Tobacco BY-2 Cultured Cells",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "Amyloplasts, a subtype of plastid, are found in nonphotosynthetic tissues responsible for starch synthesis and storage. When tobacco (Nicotiana tabacum) Bright Yellow-2 cells are cultured in the presence of cytokinin instead of auxin, their plastids differentiate from proplastids to amyloplasts. In this program, it is well known that the expression of nucleus-encoded starch biosynthesis genes, such as ADP-Glucose Pyrophosphorylase (AgpS) and Granule-Bound Starch Synthase (GBSS), is specifically induced. In this study, we investigated the roles of plastid gene expression in amyloplast differentiation. Microarray analysis of plastid genes revealed that no specific transcripts were induced in amyloplasts. Nevertheless, amyloplast development accompanied with starch biosynthesis was drastically inhibited in the presence of plastid transcription/translation inhibitors. Surprisingly, the expression of nuclear AgpS and GBSS was significantly repressed by the addition of these inhibitors, suggesting that a plastid-derived signal(s) that reflects normal plastid gene expression was essential for nuclear gene expression. A series of experiments was performed to examine the effects of intermediates and inhibitors of tetrapyrrole biosynthesis, since some of the intermediates have been characterized as candidates for plastid-to-nucleus retrograde signals. Addition of levulinic acid, an inhibitor of tetrapyrrole biosynthesis, resulted in the up-regulation of nuclear AgpS and GBSS gene expression as well as starch accumulation, while the addition of heme showed opposite effects. Thus, these results indicate that plastid transcription and/or translation are required for normal amyloplast differentiation, regulating the expression of specific nuclear genes by unknown signaling mechanisms that can be partly mediated by tetrapyrrole intermediates.",
+        "email": "",
+        "conf": "Plant physiology",
+        "coauthors": [
+            "Kazuhiko Enami",
+            "Tomoki Ozawa",
+            "Noriko Motohashi",
+            "Masayuki Nakamura",
+            "Kan Tanaka",
+            "Mitsumasa Hanaoka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6783,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "Chloroplast Targeting Distribution and Transcriptional Fluctuation of AtMinD1 a Eubacteria-Type Factor Critical for Chloroplast Division",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "",
+        "email": "",
+        "conf": "Plant and Cell Physiology",
+        "coauthors": [
+            "Kengo Kanamaru",
+            "M Fujiwara",
+            "M Kim",
+            "H Takahashi"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6782,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "An Arabidopsis Sigma Factor (SIG2)-Dependent Expression of Plastid-Encoded tRNAs in Chloroplasts",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "",
+        "email": "",
+        "conf": "Plant and Cell Physiology",
+        "coauthors": [
+            "Kengo Kanamaru",
+            "A Nagashima",
+            "M Fujiwara",
+            "H Takahashi"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6774,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "Transcription regulation of the chloroplast-encoded RuBisCo and phicobiliproteins in Cyanidioschyzon merolae",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "",
+        "email": "",
+        "conf": "Plant and Cell Physiology",
+        "coauthors": [
+            "A Minoda",
+            "H Takahashi",
+            "Kan Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6741,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "R2R3-type MYB transcription factor CmMYB1 is a central nitrogen assimilation regulator in Cyanidioschyzon merolae",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "",
+        "email": "",
+        "conf": "Proceedings of the National Academy of Sciences",
+        "coauthors": [
+            "Sousuke Imamura",
+            "Yu Kanesaki",
+            "Mio Ohnuma",
+            "Kan Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6778,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "Purification Characterization and Gene Expression of All Sigma Factors of RNA Polymerase in a Cyanobacterium",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of Molecular Biology",
+        "coauthors": [
+            "Sousuke Imamura",
+            "Satoshi Yoshihara",
+            "Serina Nakano",
+            "Makoto Shirai"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6786,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "Induction of entry into the stationary growth phase in Pseudomonas by N-acylhomoserine lactone",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "",
+        "email": "",
+        "conf": "FEMS Microbiology Letters",
+        "coauthors": [
+            "Zhiying You",
+            "Jun Fukushima",
+            "Kan Tanaka",
+            "Kenji Okuda"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6731,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "Genetic Engineering of Group 2 Factor SigE Widely Activates Expressions of Sugar Catabolic Genes in Synechocystis Species PCC 6803",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "Metabolic engineering of photosynthetic organisms is required for utilization of light energy and for reducing carbon emissions.Control of transcriptional regulators is a powerful approach for changing cellular dynamics, because a set of genes is concomitantly regulated. Here, we show that overexpression of a group 2 σ factor, SigE, enhances the expressions of sugar catabolic genes in the unicellular cyanobacterium, Synechocystis sp. PCC 6803. Transcriptome analysis revealed that genes for the oxidative pentose phosphate pathway and glycogen catabolism are induced by overproduction of SigE. Immunoblotting showed that protein levels of sugar catabolic enzymes, such as glucose-6-phosphate dehydrogenase, 6-phosphogluconate dehydrogenase, glycogen phosphorylase, and isoamylase, are increased. Glycogen levels are reduced in the SigE-overexpressing strain grown under light. Metabolome analysis revealed that metabolite levels of the TCA cycle and acetyl-CoA are significantly altered by SigE overexpression. The SigE-overexpressing strain also exhibited defective growth under mixotrophic or dark conditions. Thus, SigE overexpression changes sugar catabolism at the transcript to phenotype levels, suggesting a σ factor-based engineering method for modifying carbon metabolism in photosynthetic bacteria.",
+        "email": "",
+        "conf": "Journal of Biological Chemistry",
+        "coauthors": [
+            "Takashi Osanai",
+            "Akira Oikawa",
+            "Miyuki Azuma",
+            "Kan Tanaka",
+            "Kazuki Saito",
+            "Masami Yokota Hirai",
+            "Masahiko Ikeuchi"
+        ],
+        "keywords": "Bacterial Metabolism, Bacterial Transcription, Carbohydrate Metabolism, Glycogen, Transcription Regulation, Cyanobacteria"
+    },
+    {
+        "id": 6779,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "Intergenomic transcriptional interplays between plastid as a cyanobacterial symbiont and nucleus",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Hideo Takahashi",
+            "Kan Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6760,
+        "label": 127,
+        "author": "kan tanaka",
+        "title": "Cold stress-dependent expression of SIG6 plastid RNA polymerase sigma factor in Arabidopsis thaliana",
+        "organization": "Tokyo Institute of Technology",
+        "abstract": "",
+        "email": "",
+        "conf": "Plant and Cell Physiology",
+        "coauthors": [
+            "H Maeda",
+            "A Nagashima",
+            "Mitsumasa Hanaoka",
+            "Kan Tanaka"
+        ],
+        "keywords": ""
+    }
+]

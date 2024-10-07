@@ -1,0 +1,1550 @@
+[
+    {
+        "id": 5575,
+        "label": 113,
+        "author": "sungho kim",
+        "title": "Comprehensive Physical Model of Dynamic Resistive Switching in an Oxide Memristor",
+        "organization": "Sejong University",
+        "abstract": "Memristors have been proposed for a number of applications from nonvolatile memory to neuromorphic systems. Unlike conventional devices based solely on electron transport, memristors operate on the principle of resistive switching (RS) based on redistribution of ions. To date, a number of experimental and modeling studies have been reported to probe the RS mechanism; however, a complete physical picture that can quantitatively describe the dynamic RS behavior is still missing. Here, we present a quantitative and accurate dynamic switching model that not only fully accounts for the rich RS behaviors in memristors in a unified framework but also provides critical insight for continued device design, optimization, and applications. The proposed model reveals the roles of electric field, temperature, oxygen vacancy concentration gradient, and different material and device parameters on RS and allows accurate predictions of diverse set/reset, analog switching, and complementary RS behaviors using only material-dependent device parameters.",
+        "email": "",
+        "conf": "ACS Nano",
+        "coauthors": [
+            "Sungho Kim",
+            "Shinhyun Choi",
+            "Wei D. Lu"
+        ],
+        "keywords": "memristor, physical model, drift, diffusion, oxygen vacancy"
+    },
+    {
+        "id": 5608,
+        "label": 113,
+        "author": "sungho kim",
+        "title": "Flammable carbon nanotube transistors on a nitrocellulose paper substrate for transient electronics",
+        "organization": "Sejong University",
+        "abstract": "Transient electronics represent an emerging class of technology comprising materials that can vanish in a controlled manner in response to stimuli. In contrast to conventional electronic devices that are designed to operate over the longest possible period, transient electronics are defined by operation typically over a short and well-defined period; when no longer needed, transient electronics undergo self-deconstruction and disappear completely. In this work, we demonstrate the fabrication of thermally triggered transient electronic devices based on a paper substrate, specifically, a nitrocellulose paper. Nitrocellulose paper is frequently used in acts of magic because it consists of highly flammable components that are formed by nitrating cellulose by exposure to nitric acid. Therefore, a complete and rapid destruction of electronic devices fabricated on nitrocellulose paper is possible without producing any residue (i.e., ash). The transience rates can be modified by controlling radio frequency signal-induced voltages that are applied to a silver (Ag) resistive heater, which is stamped on the backside of the nitrocellulose paper. The Ag resistive heater was prepared by a simple, low-cost stamping fabrication, which requires no harsh chemicals or complex thermal treatments. For the electronics on the nitrocellulose paper substrate, we employed semiconducting carbon nanotube (CNT) network channels in the transistor for superior electrical and mechanical properties.",
+        "email": "",
+        "conf": "Nano Research",
+        "coauthors": [
+            "Jinsu Yoon, Juhee Lee, Bongsik Choi, Dongil Lee, Dae Hwan Kim, Dong Myong Kim, Dong-Il Moon, Meehyun Lim, Sungho Kim, Sung-Jin Choi"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5620,
+        "label": 113,
+        "author": "sungho kim",
+        "title": "A Dual-Gate Field-Effect Transistor for Label-Free Electrical Detection of Avian Influenza",
+        "organization": "Sejong University",
+        "abstract": "A dual-gate silicon nanowire field-effect transistor (FET) fabricated on a bulk substrate is designed to perform label-free electrical detection of the avian influenza antibody. A region of a FET channel that is conventionally covered by a gate electrode is intentionally left open in the dual-gate configuration, to provide a binding site for biological species. As a result, the channel potential at this open area is affected by the polarity and charge of the biological species that binds to the opened channel. The proposed device can be used as a biosensor by comparing its electrical characteristics before and after exposing the device to biological species of interest. This detection mechanism is verified using numerical simulation and by attaching charged polyelectrolytes (PAH and PSS) to the opened channel. Additionally, the avian influenza antibody is successfully detected without a labeling step using the proposed dual-gate FET. As a biomedical diagnostic tool, the proposed biosensor offers the advantages of label-free detection capability, low-cost compatibility with the complementary metal–oxide semiconductor fabrication process, and a read-out system for on-chip integration.",
+        "email": "",
+        "conf": "BioNanoScience",
+        "coauthors": [
+            "Jee-Yeon Kim, Jae-Hyuk Ahn, Dong-Il Moon, Sungho Kim, Tae Jung Park, Sang Yup Lee, Yang-Kyu Choi"
+        ],
+        "keywords": "Biosensor,Field-effect transistor,Dual-gate,Avian influenza,Label-free"
+    },
+    {
+        "id": 5594,
+        "label": 113,
+        "author": "sungho kim",
+        "title": "Performance of threshold switching in chalcogenide glass for 3D stackable selector",
+        "organization": "Sejong University",
+        "abstract": "The nature of threshold switching (TS) in AsTeGeSiN-based selector devices is comprehensively investigated. The scaling of the AC response is limited up to 5 ns due to a finite intrinsic delay time. An analytical model allows the accurate prediction of the TS nature, which can be merged to a numerical circuit simulation for providing essential guideline of the required selectivity performance",
+        "email": "",
+        "conf": "Digest of Technical Papers - Symposium on VLSI Technology",
+        "coauthors": [
+            "Sungho Kim",
+            "Young-Bae Kim",
+            "Kyung Min Kim",
+            "Sae-Jin Kim",
+            "Seung Ryul Lee",
+            "Man Chang",
+            "Enju Cho",
+            "Myoung-Jae Lee",
+            "Dongsoo Lee",
+            "Chang Jung Kim",
+            "U-In Chung",
+            "In-Kyeong Yoo"
+        ],
+        "keywords": "Voltage measurement,Arrays,Delays,Sensors,Switches,Analytical models"
+    },
+    {
+        "id": 5628,
+        "label": 113,
+        "author": "sungho kim",
+        "title": "A Three-Dimensional Printed Poly(vinyl alcohol) Substrate with Controlled On-Demand Degradation for Transient Electronics",
+        "organization": "Sejong University",
+        "abstract": "Electronics that degrade after stable operation for a desired operating time, called transient electronics, are of great interest in many fields, including biomedical implants, secure memory devices, and environmental sensors. Thus, the development of transient materials is critical for the advancement of transient electronics and their applications. However, previous reports have mostly relied on achieving transience in aqueous solutions, where the transience time is largely predetermined based on the materials initially selected at the beginning of the fabrication. Therefore, accurate control of the transience time is difficult, thereby limiting their application. In this work, we demonstrate transient electronics based on a water-soluble poly(vinyl alcohol) (PVA) substrate on which carbon nanotube (CNT)-based field-effect transistors were fabricated. We regulated the structural parameters of the PVA substrate using a three-dimensional (3D) printer to accurately control and program the transience time of the PVA substrate in water. The 3D printing technology can produce complex objects directly, thus enabling the efficient fabrication of a transient substrate with a prescribed and controlled transience time. In addition, the 3D printer was used to develop a facile method for the selective and partial destruction of electronics.",
+        "email": "sungho85kim@sejong.ac.kr.",
+        "conf": "ACS Nano",
+        "coauthors": [
+            "Jinsu Yoon,Jungmin Han,Bongsik Choi,Yongwoo Lee,Yeamin Kim,Jinhee Park,Meehyun Lim,Min-Ho Kang,Dae Hwan Kim,Dong Myong Kim,Sungho Kim,Sung-Jin Choi"
+        ],
+        "keywords": "three-dimensional printer, transient electronics, poly(vinyl alcohol), carbon nanotubes, network, transistor"
+    },
+    {
+        "id": 5635,
+        "label": 113,
+        "author": "sungho kim",
+        "title": "Charge and dielectric effects of biomolecules on electrical characteristics of nanowire FET biosensors",
+        "organization": "Sejong University",
+        "abstract": "The sensing mechanism of nanowire field effect transistor (NWFET) biosensors is investigated by taking into consideration both the charge and dielectric effects of biomolecules. The dielectric effect of the biomolecules is dominantly reflected in the linear regime, whereas the charge property is manifested in the subthreshold regime. The findings are supported by bio-experiments and numerical simulations. This study provides a rudimentary means of understanding interactions between biomolecules and NWFET biosensors.",
+        "email": "",
+        "conf": "Applied Physics Letters",
+        "coauthors": [
+            "Jae-Hyuk Ahn",
+            "Sung-Jin Choi",
+            "Maesoon Im",
+            "Sungho Kim",
+            "Chang-Hoo Kim",
+            "Jee-Yeon Kim",
+            "Tae Jung Park",
+            "Sang Yup Lee",
+            "Yang-Kyu Choi"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5606,
+        "label": 113,
+        "author": "sungho kim",
+        "title": "Energy band engineered unified-RAM (URAM) for multi-functioning 1T-DRAM and NVM",
+        "organization": "Sejong University",
+        "abstract": "A novel fusion memory is proposed as a new paradigm of silicon based memory technology. An O/N/O gate dielectric and a floating body are combined with a FinFET, and the non-volatile memory (NVM) and high speed capacitorless 1T-DRAM are performed in a single transistor. A nitride trap layer is used as an electron storage node for NVM, and hetero-epitaxially grown Si/Si 1-x Ge x energy band engineered bulk substrates allow excess hole storage for 1T-DRAM. Highly reliable 1T-DRAM and NVM are demonstrated",
+        "email": "",
+        "conf": "IEEE International Electron Devices Meeting",
+        "coauthors": [
+            "Jin-Woo Han",
+            "Seong-Wan Ryu",
+            "Sungho Kim",
+            "Chung-Jin Kim",
+            "Jae-Hyuk Ahn",
+            "Sung-Jin Choi",
+            "Kyu Jin Choi",
+            "Byung Jin Cho",
+            "Jin Soo Kim",
+            "Kwang Hee Kim",
+            "Gi Sung Lee",
+            "Jae Sub Oh",
+            "Myong Ho Song",
+            "Yun Chang Park",
+            "Jeoung Woo Kim",
+            "Yang-Kyu Choi"
+        ],
+        "keywords": "Power engineering and energy,Nonvolatile memory,Capacitance-voltage characteristics,Silicon,Dielectric substrates,FinFETs,Electron traps,Charge carrier processes,Energy storage,Reliability engineering"
+    },
+    {
+        "id": 5589,
+        "label": 113,
+        "author": "sungho kim",
+        "title": "Effects of the oxygen vacancy concentration in InGaZnO-based resistance random access memory",
+        "organization": "Sejong University",
+        "abstract": "Resistance random access memory (RRAM) composed of stacked aluminum (Al)/InGaZnO(IGZO)/Al is investigated with different gallium concentrations. The stoichiometric ratio (x) of gallium in the InGaxZnO is varied from 0 to 4 for intentional control of the concentration of the oxygen vacancies (VO), which influences the electrical characteristics of the RRAM. No Ga in the IGZO (x = 0) significantly increases the value of VO and leads to a breakdown of the IGZO. In contrast, a high Ga concentration (x = 4) suppresses the generation of VO; hence, resistive switching is disabled. The optimal value of x is 2. Accordingly, enduring RRAM characteristics are achieved.",
+        "email": "",
+        "conf": "Applied Physics Letters",
+        "coauthors": [
+            "Moon-Seok Kim",
+            "Young Hwan Hwang",
+            "Sungho Kim",
+            "Zheng Cuo",
+            "Dong-II Moon",
+            "Ji-Min Choi",
+            "Myeong-Lok Seol",
+            "Byeong-Soo Bae",
+            "Yang-Kyu Choi"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5586,
+        "label": 113,
+        "author": "sungho kim",
+        "title": "Crossbar RRAM Arrays: Selector Device Requirements During Write Operation",
+        "organization": "Sejong University",
+        "abstract": "A comprehensive analysis of write operations (SET and RESET) in a resistance-change memory (resistive random access memory) crossbar array is carried out. Three types of resistive switching memory cells-nonlinear, rectifying-SET, and rectifying-RESET-are compared with each other in terms of voltage delivery, current delivery, and power consumption. Two different write schemes, V/2 and V/3, were considered, and the V/2 write scheme is preferred due to much lower power consumption. A simple numerical method was developed that simulates entire current flows and node voltages within a crossbar array and provides a quantitative tool for the accurate analysis of crossbar arrays and guidelines for developing reliable write operation",
+        "email": "",
+        "conf": "IEEE Transactions on Electron Devices",
+        "coauthors": [
+            "Sungho Kim",
+            "Jiantao Zhou",
+            "Wei D. Lu"
+        ],
+        "keywords": "Crossbar,resistive random access memory (RRAM),selector device,sneak path,write margin,write scheme"
+    },
+    {
+        "id": 5622,
+        "label": 113,
+        "author": "sungho kim",
+        "title": "Dopant-segregated schottky source/drain FinFET with a NiSi FUSI gate and reduced leakage current",
+        "organization": "Sejong University",
+        "abstract": "Enhanced Dopant-segregated Schottky-barrier (DSSB) FinFETs combined with a fully silicided (FUSI) gate were fabricated via single-step Ni-silicidation. Both workfunction control of the gate and a lowered effective SB-height in the source/drain junctions are simultaneously achieved by the dopant-segregated silicidation process. Moreover, the leakage current was significantly reduced with the aid of deep source/drain implantation. Therefore, it can be expected that a DSSB device with a FUSI gate have several advantages as both a logic and nonvolatile memory device. First, for a logic device, it can provide low parasitic resistance and a tunable threshold voltage. Second, for a nonvolatile memory device, the increased workfunction due to the FUSI gate can enhance the erasing characteristics by suppressing the back tunneling of electrons from the gate side as well as the programming characteristics.",
+        "email": "",
+        "conf": "IEEE Transactions on Electron Devices",
+        "coauthors": [
+            "Sung-Jin Choi",
+            "Jin-Woo Han",
+            "Sungho Kim",
+            "Dong-II Moon",
+            "Moongyu Jang",
+            "Yang-Kyu Choi"
+        ],
+        "keywords": "Dopant-segregated Schottky-barrier (DSSB),dopant-segregation,erasing saturation,FinFET,fully-silicidation,fully-silicided FUSI),NiSi,SB-MOSFET,Schottky-barrier (SB),silicidation,SONOS,workfunction"
+    },
+    {
+        "id": 5645,
+        "label": 113,
+        "author": "sungho kim",
+        "title": "Evaluation of interface trap densities and quantum capacitance in carbon nanotube network thin-film transistors",
+        "organization": "Sejong University",
+        "abstract": "The interface trap density in single-walled carbon nanotube (SWNT) network thin-film transistors (TFTs) is a fundamental and important parameter for assessing the electronic performance of TFTs. However, the number of studies on the extraction of interface trap densities, particularly in SWNT TFTs, has been insufficient. In this work, we propose an efficient technique for extracting the energy-dependent interface traps in SWNT TFTs. From the measured dispersive, frequency-dependent capacitance–voltage (C–V) characteristics, the dispersive-free, frequency-independent C–V curve was obtained, thus enabling the extraction and analysis of the interface trap density, which was found to be approximately 8.2 × 1011 eV−1 cm−2 at the valence band edge. The frequency-independent C–V curve also allows further extraction of the quantum capacitance in the SWNT network without introducing any additional fitting process or parameters. We found that the extracted value of the quantum capacitance in SWNT networks is lower than the theoretical value in aligned SWNTs due to the cross point of SWNTs on the SWNT network. Therefore, the method proposed in this work indicates that the C–V measurement is a powerful tool for obtaining deep physical insights regarding the electrical performance of SWNT TFTs.",
+        "email": "",
+        "conf": "Nanotechnology",
+        "coauthors": [
+            "J Yoon",
+            "B Choi",
+            "S Choi",
+            "J Lee",
+            "M Jeon",
+            "Y Lee",
+            "J Han",
+            "J Lee",
+            "D. M. Kim",
+            "D. H. Kim",
+            "Sungho Kim",
+            "S-J Choi"
+        ],
+        "keywords": "single-walled carbon nanotubes, interface trap density, quantum capacitance, thin-film transistors, capacitance–voltage characteristics"
+    },
+    {
+        "id": 5641,
+        "label": 113,
+        "author": "sungho kim",
+        "title": "A Recoverable Synapse Device Using a Three-Dimensional Silicon Transistor",
+        "organization": "Sejong University",
+        "abstract": "To prepare for the upcoming big‐data era, numerous attempts are underway to develop a neuromorphic system which is capable of imitating a biologic neural network. Despite the significant improvements to software‐based artificial neural networks (ANNs) recently, they remain inefficient in terms of energy use. Alternatively, many researchers have been attracted to hardware‐based ANNs by fundamentally mimicking neural circuits and synapses. In this study, a two‐terminal silicon‐channel synapse (SINAPSE) with a poly‐Si/SiO2/Si3N4 gate stack over a silicon channel is introduced, and demonstrated the smallest size of a synapse device reported thus far, along with reliable, low‐power performance. A distinctive feature of SINAPSE is that it emulates synaptic recovery, a retrieval process for neurotransmitters which would be otherwise depleted. By applying an electrical recovery pulse to SINAPSE, synaptic recovery was for the first time successfully imitated. Experimental results demonstrate the potential of the curable SINAPSE as a fundamental unit in neuromorphic circuitry.",
+        "email": "",
+        "conf": "Advanced Functional Materials",
+        "coauthors": [
+            "Jae Hur,  Byung Chul Jang,  Jihun Park,  Dong‐Il Moon,  Hagyoul Bae,  Jun‐Young Park,  Gun‐Hee Kim, Seung‐Bae Jeon, Myungsoo Seo,  Sungho Kim,  Sung‐Yool Choi,  Yang‐Kyu Choi"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5585,
+        "label": 113,
+        "author": "sungho kim",
+        "title": "Multiple-Gate CMOS Thin-Film Transistor With Polysilicon Nanowire",
+        "organization": "Sejong University",
+        "abstract": "An ultimately scaled multiple-gate CMOS thin-film transistor with a polysilicon (poly-Si) nanowire demonstrates feasibility for vertical integration using multiple active layers for application in the terabit memory era. The short-channel effects are suppressed using a multiple gate to wrap around the nanowire in devices with a size of a few tenths of a nanometer. The switching and output characteristics show high device performance without a crystallization process for the poly-Si nanowire",
+        "email": "",
+        "conf": "IEEE Electron Device Letters",
+        "coauthors": [
+            "Maesoon Im",
+            "Jin-Woo Han",
+            "Hyunjin Lee",
+            "Lee-Eun Yu",
+            "Sungho Kim",
+            "Chang-Hoon Kim",
+            "Sang Cheol Jeon",
+            "Kwang Hee Kim",
+            "Gi Sung Lee",
+            "Jae Sub Oh",
+            "Yun Chang Park",
+            "Hee Mok Lee",
+            "Yang-Kyu Choi"
+        ],
+        "keywords": "CMOS,multiple gate,nanoscale,nanowire,thin-film transistor (TFT),vertical integration"
+    },
+    {
+        "id": 5590,
+        "label": 113,
+        "author": "sungho kim",
+        "title": "An Underlap Channel-Embedded Field-Effect Transistor for Biosensor Application in Watery and Dry Environment",
+        "organization": "Sejong University",
+        "abstract": "An underlap channel-embedded FET is proposed for electrical, label-free biosensor in both watery and dry environments, and current-voltage characteristics measured under each environment are compared. To investigate the effectiveness of the underlap device as a biosensor for both environments, antigen-antibody binding of an avian influenza (AI) is used. Antibody of AI binding on antigen-immobilized surface provides additional negative charge on underlap surface, and they give rise to channel potential increasing and result in drain current reduction. In this study, we have verified that the biosensor characteristics measured under dry environment is valid as much as they are valid for watery environment.",
+        "email": "",
+        "conf": "IEEE Transactions on Nanotechnology",
+        "coauthors": [
+            "Jee-Yeon Kim",
+            "Jae-Hyuk Ahn",
+            "Sung-Jin Choi",
+            "Maesoon Im",
+            "Sungho Kim",
+            "Juan Publo Duarte",
+            "Chang-Hoon Kim",
+            "Tae Jung Park",
+            "Sang Yup Lee",
+            "Yang-Kyu Choi"
+        ],
+        "keywords": "Avian influenza,electrical biosensor,underlap field-effect transistor,watery and dry environment"
+    },
+    {
+        "id": 5598,
+        "label": 113,
+        "author": "sungho kim",
+        "title": "Designed Workfunction Engineering of Double-Stacked Metal Nanocrystals for Nonvolatile Memory Application",
+        "organization": "Sejong University",
+        "abstract": "A double-stacked nanocrystal (DSNC) flash memory is presented for improvement of both program/erase (P/E) speed and data retention time. Four combinations of nickel (Ni) and gold (Au) (Ni/Ni, Au/Au, Ni/Au, and Au/Ni) are used as charge storage DSNC materials and are compared from the perspective of memory performance. Through experimental results for P/E efficiency and retention time, the optimized energy band lineup for faster P/E and longer charge retention is presented. A combination of a deep potential well at the top and a shallow potential well at the bottom exhibits optimized performance in P/E, and this combination also shows the longest data retention characteristics",
+        "email": "",
+        "conf": "IEEE Transactions on Electron Devices",
+        "coauthors": [
+            "Seong-Wan Ryu",
+            "Jong-Won Lee",
+            "Jin-Woo Han",
+            "Sungho Kim",
+            "Yang-Kyu Choi"
+        ],
+        "keywords": "Au and Ni,double-stacked nanocrystal (DSNC),energy band lineup,flash memory,nanocrystal NC),nanocrystal floating-gate memory (NFGM),nonvolatile memory (NVM),program/erase (P/E) speed,retention time"
+    },
+    {
+        "id": 5642,
+        "label": 113,
+        "author": "sungho kim",
+        "title": "Highly transparent tactile sensor based on a percolated carbon nanotube network",
+        "organization": "Sejong University",
+        "abstract": "The demand for transparent and flexible electronic devices, which are an emerging technology for the next generation of sensors, continues to grow in both applications and development due to their potential to make a significant commercial impact in a wide variety of areas. Here, we demonstrate a highly transparent tactile sensor with 92% optical transparency in the visible range based on solution-processed 99% metallic CNTs attached on a polydimethylsiloxane (PDMS) film. We efficiently reconstructed the pressed, stimulated spatial location by increasing the injection current (Iinjection) during electrical resistance tomography (ERT) that computed the internal two-dimensional (2-D) resistivity distribution. Various types of discrete sensors, such as strain sensors or piezoelectric transducers, have been used for detecting regions of damage in real time in applications including civil aviation, spacecraft, military vehicles, automobiles, other transportation systems, and pressure vessels. However, many of these sensors, including those reported in the literature, were inherently complicated, incurred a weight penalty due to the weight of discrete sensors, and required complex wiring.1 Therefore, electrical resistance tomography (ERT) has been introduced as an alternative solution to overcome the aforementioned limitations in detecting and diagnosing regions of damage and in enabling high-performance image sensing in a non-destructive manner in real time without any complicated wiring.2–4 ERT is a technique that computes internal resistivity (or conductivity) distribution from a continuum conductive model using simple electrodes that are fabricated along the boundary of the conductive material. Changes in resistivity at various locations introduced by damage are readily measured by applying electrical currents to the conductive film. The damaged spatial location and its magnitude are predicted by solving the inverse problem based on the electrical measurement.1,2,5–8 Due to this easy detection method, ERT could also be employed as strain gauges for sensing purposes in several innovative fields such as biomedicine and healthcare.9–15 In particular, ERT has been regarded as a strong candidate technology for use as a tactile sensor for sensitive electronic skin applications because it does not need any internal complicated wiring.",
+        "email": "",
+        "conf": "AIP Advances",
+        "coauthors": [
+            "Yongwoo Lee",
+            "Bongsik Choi",
+            "Jinsu Yoon",
+            "Yeami Kim",
+            "Jinhee Park",
+            "Hyo-Jin Kim",
+            "Dae Hwan Kim",
+            "Dong Myong Kim",
+            "Sungho Kim",
+            "Sung-Jin Choi"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5646,
+        "label": 113,
+        "author": "sungho kim",
+        "title": "Investigation of gate length and fringing field effects for program and erase efficiency in gate-all-around SONOS memory cells",
+        "organization": "Sejong University",
+        "abstract": "Gate length (LG) effects for program/erase (P/E) efficiency are investigated in a gate-all-around (GAA) SONOS structure. The experimental results show that P/E characteristics become worse at a shorter LG, and this trend is verified with numerical simulation. The down-scaling of LG gives rise to a change in the electric field in tunneling oxide and blocking oxide in the GAA–SONOS structure. For P/E efficiency, these results reveal that the fringing field via a low-k dielectric medium, which encapsulates a gate electrode as an inter-layer dielectric, favorably enhances the electric field of tunneling oxide. It also reduces the electric field of blocking oxide. Additionally, it is found that the electric field of tunneling and blocking oxide becomes more sensitive to the permittivity of the inter-layer dielectric as LG is more shortened.",
+        "email": "",
+        "conf": "Solid-State Electronics",
+        "coauthors": [
+            "Moon-Seok Kim",
+            "Sung-Jin Choi",
+            "Dong-Il Moon",
+            "Juan P. Duarte",
+            "Sungho Kim",
+            "Yang-Kyu Choi"
+        ],
+        "keywords": "Gate-all-around (GAA),Silicon nanowire,SONOS,Gate length,Erasing saturation,Low-k,Permittivity,Inter-layer dielectric,Fringing field"
+    },
+    {
+        "id": 5643,
+        "label": 113,
+        "author": "sungho kim",
+        "title": "Determination of individual contact interfaces in carbon nanotube network-based transistors",
+        "organization": "Sejong University",
+        "abstract": "Carbon nanotubes (CNTs) used as semiconducting channels induce high mobility, thermal conductivity, mechanical flexibility, and chemical stability in field-effect, thin-film transistors (TFTs). However, the contact interfaces in CNT-TFTs have contact resistances that are difficult to reduce; this contact resistance can eventually limit the overall performance of CNT-TFTs. The contact interface between the source/drain electrodes and CNTs, especially for those CNT-TFTs in which the channel comprises randomly networked CNTs, plays a particularly dominant role in determining the performance and degree of variability in CNT-TFTs. However, no studies have reported a determination method that individually extracts each contact resistance at the source/drain electrodes. The present work presents an efficient method for directly determining the contact interfaces in CNT-TFTs by extracting each contact resistance produced at the source (R S ) and drain (R D ) electrodes. Moreover, we comprehensively simulated the randomly networked CNTs using an in-depth Monte-Carlo method, which provides an efficient method for visualizing the uniformity of a CNT network with various controllable CNT parameters. The proposed method provides guidance and a means for optimizing the design of the CNT network channel in CNT-TFTs and additional insights into improving the performance of CNT-TFTs.",
+        "email": "sungho85kim@sejong.ac.kr",
+        "conf": "Scientific Reports",
+        "coauthors": [
+            "Jinsu Yoon, Meehyun Lim, Bongsik Choi, Dong Myong Kim, Dae Hwan Kim, Sungho Kim, Sung-Jin Choi"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5652,
+        "label": 113,
+        "author": "sungho kim",
+        "title": "Optical charge-pumping: A universal trap characterization technique for nanoscale floating body devices",
+        "organization": "Sejong University",
+        "abstract": "A universal trap characterization technique for nanoscale floating body devices is demonstrated. It overcomes the limits of conventional charge pumping. Exploiting optically generated carriers, the interface trap density, the energy distribution of interface traps, and the bulk region trap density are extracted directly without additional fabrication techniques or the use of extra test patterns. The proposed technique can provide a trap analysis tool for a study of device reliability regardless of the device structure, material, or dimension",
+        "email": "",
+        "conf": "Digest of Technical Papers - Symposium on VLSI Technology",
+        "coauthors": [
+            "Sungho Kim",
+            "Sung-Jin Choi",
+            "Dong-Il Moon",
+            "Yang-Kyu Choi"
+        ],
+        "keywords": "Optical pulses,Integrated optics,Charge carrier processes,Optical pumping,Optical device fabrication,Nanoscale devices"
+    },
+    {
+        "id": 5651,
+        "label": 113,
+        "author": "sungho kim",
+        "title": "Stable Bipolar Resistive Switching Characteristics Observed in 8  8 Pt/NiNx/Ti/TiN Crossbar Array Structures for Resistive Random Access Memories",
+        "organization": "Sejong University",
+        "abstract": "The stable bipolar resistive switching (BRS) characteristics in a 8 × 8 Nickel Nitride (NiN x )-based 8 × 8 crossbar array (CBA) resistive switching memory (RRAM) are demonstrated in the active size of 10 × 10 μm2. First, in order to optimize the BRS of NiN x -based RRAM cells, we estimated the thickness dependence of NiNx films in the 8 × 8 CRS structures in a range of 30, 40 and 50 nm. In this test, the optimum BRS phenomena was observed when employing 50-nm thick NiN x films. Then, in the repetitive BRS operations for 10 RRAM cells to evaluate the voltage and current distributions, we observed the voltage vatiations of 1.06 V for reset and 2.6 V for set. Then, the current varitions of 0.1 × 101 ratio at LRS and 0.41 × 101 ratio at HRS were observed in positive bias region, while the current variations of 0.1 × 101 ratio at LRS and 0.49 × 101 ratio at HRS were happened in negative bias region, respectively. Further, in the retention test, we observed the stable data storage properties at both HRS and LRS for 3 × 104 s at 25 °C and 85 °C, respectively.",
+        "email": "",
+        "conf": "Journal of Nanoscience and Nanotechnology",
+        "coauthors": [
+            "Hee-Dong Kim",
+            "Min Ju Yun",
+            "Sungho Kim",
+            "Joobeom Yun"
+        ],
+        "keywords": "Crossbar Array; NiNx Films; RRAM"
+    },
+    {
+        "id": 5592,
+        "label": 113,
+        "author": "sungho kim",
+        "title": "A Universal Core Model for Multiple-Gate Field-Effect Transistors. Part I: Charge Model",
+        "organization": "Sejong University",
+        "abstract": "A universal core model for multiple-gate field-effect transistors (Mug-FETs) is proposed. The proposed charge and drain current models are presented in Parts I and II, respectively. It is first demonstrated that an exact potential profile in the entire channel is not necessary for the derivation of accurate charge models in inversion-mode FETs. With application of this new concept, a universal charge model is derived for Mug-FETs by assuming an arbitrary channel potential profile, which simplifies the mathematical formulation. Thereafter, using the Pao-Sah integral, a drain current model is obtained from the charge model of Part I. The proposed model can be expressed as an explicit and continuous form for all operation regimes; therefore, it is well suited for compact modeling to support fast circuit simulations. The model shows good agreement with 2-D and 3-D numerical simulations for several multiple-gate structures, such as single-gate, double-gate, triple-gate, rectangular gate-all-around, and cylindrical gate-all-around FETs.",
+        "email": "",
+        "conf": "IEEE Transactions on Electron Devices",
+        "coauthors": [
+            "Juan Pablo Duarte",
+            "Sung-Jin Choi",
+            "Dong-Il Moon",
+            "Jae-Hyuk Ahn",
+            "Jee-Yeon Kim",
+            "Sungho Kim",
+            "Yang-Kyu Choi"
+        ],
+        "keywords": "Compact modeling,cylindrical gate-all-around FET (Cy-GAA-FET),double-gate FET (DG-FET),FinFET,multiple-gate FET (Mug-FET),Poisson's equation,rectangular gate-all-around FET (Re-GAA-FET),semiconductor device modeling,single-gate FET (SG-FET),triple-gate FET (TG-FET)"
+    },
+    {
+        "id": 5621,
+        "label": 113,
+        "author": "sungho kim",
+        "title": "Multi-layer nanogap array for high-performance SERS substrate",
+        "organization": "Sejong University",
+        "abstract": "A multi-layer nanogap array composed of three linearly aligned gold nanogaps is fabricated for a surface-enhanced Raman spectroscopy (SERS) substrate. The overall process for the proposed structure is simple and reliable with the use of a photolithography-free fabrication process, which includes only deposition and etching. Chemical vapor deposition (CVD) is employed to form a uniform and highly controllable nanogap array. The nanogap width, a crucial parameter in SERS, is determined by the sacrificial film thickness of CVD. Experiments on nanogap width and polarization angle dependence are carried out to characterize the fabricated multi-layer nanogap array as an SERS substrate.",
+        "email": "",
+        "conf": "Nanotechnology",
+        "coauthors": [
+            "Myeong-Lok Seol",
+            "Ju-Hyun Kim",
+            "Taejoon Kang",
+            "Hwon Im",
+            "Sungho Kim",
+            "Bongsoo Kim",
+            "Yang-Kyu Choi"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5647,
+        "label": 113,
+        "author": "sungho kim",
+        "title": "P-Channel Nonvolatile Flash Memory With a Dopant-Segregated Schottky-Barrier Source/Drain",
+        "organization": "Sejong University",
+        "abstract": "A p-channel dopant-segregated-Schottky-barrier (DSSB) device based on a SOI FinFET structure is proposed for silicon-oxide-nitride-oxide-silicon type Flash memory, providing the feasibility of bit-by-bit operation through the aid of a symmetric program/erase operation. This concept is based on utilizing injected holes due to enhanced Fowler-Nordheim tunneling probability triggered by the sharpened energy band bending at the DSSB source/drain junctions as a programming method and the tunneled electrons from a silicon channel as an erasing method. As a result, a threshold voltage window of nearly 4 V and good data retention are achieved within a P/E time of 3.2 μs.",
+        "email": "",
+        "conf": "IEEE Transactions on Electron Devices",
+        "coauthors": [
+            "Sung-Jin Choi",
+            "Jin-Woo Han",
+            "Dong-Il Moon",
+            "Sungho Kim",
+            "Moongyu Jang",
+            "Yang-Kyu Choi"
+        ],
+        "keywords": "Bit-by-bit,dopant-segregation (DS),FinFET,flash memory,multilevel cell (MLC),nand flash,nickel silicidation,nickel,NiSi,nonvolatile memory,p-channel,Schottky-barrier MOSFET,Schottky-barrier,silicon-oxide-nitride-oxide-silicon (SONOS)"
+    },
+    {
+        "id": 5604,
+        "label": 113,
+        "author": "sungho kim",
+        "title": "All ITO-Based Transparent Resistive Switching Random Access Memory Using Oxygen Doping Method",
+        "organization": "Sejong University",
+        "abstract": "Recently, transparent memory would be useful in invisible electronics. In this work, for the first time we present a feasibility of stable unipolar resistive switching (RS) characteristics with reset current of sub-micron ampere for the fully transparent ITO/oxygen-doped ITO/ITO memory capacitors, i.e., all ITO structures, produced by sputtering method, which shows a high optical transmittance of approximately 80% in the visible region as well as near ultra-violet region. In addition, in a RS test to evaluate a reliability for the proposed memory devices, we observed a stable endurance of >100 cycles and a retention time of >104 s at 85 °C, with a current ratio of ∼102 to ∼103. This result indicates that this transparent memory by engineering the amount of oxygen ions within the ITO films could be a milestone for future see-through electronic devices.",
+        "email": "",
+        "conf": "Journal of Alloys and Compounds",
+        "coauthors": [
+            "Hee-Dong Kim",
+            "Min Ju Yun",
+            "Sungho Kim"
+        ],
+        "keywords": "Transparent memory,Oxygen-doped indium thin oxide,Unipolar switching"
+    },
+    {
+        "id": 5636,
+        "label": 113,
+        "author": "sungho kim",
+        "title": "Dielectric Detection Using Biochemical Assays",
+        "organization": "Sejong University",
+        "abstract": "Point-of-care (POC) diagnostics typically make use of labeling techniques that employ fluorescent, chemiluminescent, redox, or radioactive probes. Although such methods provide high sensitivity, they are complicated because their labeling steps require a significant amount of time and labor in their execution and in the analysis of their results. Thus, the portability, which is meant to be the primary advantage of POC systems, is sacrificed. The use of electronic devices for POC systems circumvents this problem, enabling label-free detection, miniaturization, and low costs. Label-free detection is made possible by direct electrical measurement of the sample molecules, which works by monitoring changes in their intrinsic electrical properties. Miniaturization and the integration of sensors and readout circuitry have been enabled by industrialized microfabrication technology. By integrating the sensors and circuitry onto a monolithic substrate, the fabrication cost can be remarkably reduced.",
+        "email": "",
+        "conf": "Point-of-Care Diagnostics on a Chip",
+        "coauthors": [
+            "Yang-Kyu Choi",
+            "Chang-Hoon Kim",
+            "Jae-Hyuk Ahn",
+            "Jee-Yeon Kim",
+            "Sungho Kim"
+        ],
+        "keywords": "Drain Current, Gate Dielectric, Gate Oxide, Lateral Electric Field, Prostate Specific Antigen Antibody "
+    },
+    {
+        "id": 5613,
+        "label": 113,
+        "author": "sungho kim",
+        "title": "High-Performance Polycrystalline Silicon TFT on the Structure of a Dopant-Segregated Schottky-Barrier Source/Drain",
+        "organization": "Sejong University",
+        "abstract": "A high-performance polycrystalline silicon (poly-Si) thin-film transistor (TFT) with Schottky-barrier (SB) source/drain (S/D) junctions is proposed. A p-channel operation on the intrinsic nickel (Ni) silicided S/D was successfully realized with the aid of a thin active layer, despite the fact that the Ni silicided material shows a high SB height (SBH) for holes. Furthermore, for n-channel operation, the dopant-segregation technique implemented on the intrinsic Ni silicide was utilized to reduce the effective SBH for electrons. The results show a higher on-current due to the lower parasitic resistance as well as superior immunity against short-channel effects, compared to the conventional poly-Si TFT composed of p-n S/D junctions.",
+        "email": "",
+        "conf": "IEEE Electron Device Letters",
+        "coauthors": [
+            "Sung-Jin Choi",
+            "Jin-Woo Han",
+            "Sungho Kim",
+            "Dong-II Moon",
+            "Moongyu Jang",
+            "Yang-Kyu Choi"
+        ],
+        "keywords": "Dopant-segregated Schottky barrier (DSSB),dopant segregation (DS),high performance,MOSFET,Ni silicide,Schottky barrier (SB),thin body,thin-film transistors (TFTs)"
+    },
+    {
+        "id": 5593,
+        "label": 113,
+        "author": "sungho kim",
+        "title": "Carbon Nanotube Synaptic Transistor Network for Pattern Recognition",
+        "organization": "Sejong University",
+        "abstract": "Inspired by the human brain, a neuromorphic system combining complementary metal-oxide semiconductor (CMOS) and adjustable synaptic devices may offer new computing paradigms by enabling massive neural-network parallelism. In particular, synaptic devices, which are capable of emulating the functions of biological synapses, are used as the essential building blocks for an information storage and processing system. However, previous synaptic devices based on two-terminal resistive devices remain challenging because of their variability and specific physical mechanisms of resistance change, which lead to a bottleneck in the implementation of a high-density synaptic device network. Here we report that a three-terminal synaptic transistor based on carbon nanotubes can provide reliable synaptic functions that encode relative timing and regulate weight change. In addition, using system-level simulations, the developed synaptic transistor network associated with CMOS circuits can perform unsupervised learning for pattern recognition using a simplified spike-timing-dependent plasticity scheme.",
+        "email": "",
+        "conf": "ACS Applied Materials & Interfaces",
+        "coauthors": [
+            "Sungho Kim",
+            "Jinsu Yoon",
+            "Hee-Dong Kim",
+            "Sung-Jin Choi"
+        ],
+        "keywords": "analog switching, carbon nanotube, neuromorphic system, pattern recognition, synaptic device, transistor"
+    },
+    {
+        "id": 5610,
+        "label": 113,
+        "author": "sungho kim",
+        "title": "Transformable Functional Nanoscale Building Blocks with Wafer-Scale Silicon Nanowires",
+        "organization": "Sejong University",
+        "abstract": "hrough the fusion of electrostatics and mechanical dynamics, we demonstrate a transformable silicon nanowire (SiNW) field effect transistor (FET) through a wafer-scale top-down approach. By felicitously taking advantage of the proposed electrostatic SiNW-FET with mechanically movable SiNWs, all essential logic gates, including address decoders, can be monolithically integrated into a single device. The unification of various functional devices, such as pn-diodes, FETs, logic gates, and address decoders, can therefore eliminate the complex fabrication issues associated with nanoscale integration. These results represent a step toward the creation of multifunctional and flexible nanoelectronics.",
+        "email": "",
+        "conf": "Nano Letters",
+        "coauthors": [
+            "Sung-Jin Choi,Jae-Hyuk Ahn,Jin-Woo Han,Myeong-Lok Seol,Dong-Il Moon,Sungho Kim,Yang-Kyu Choi"
+        ],
+        "keywords": "Silicon nanowire, field effect transistor, logic gates, address decoders, nanoelectromechanical systems"
+    },
+    {
+        "id": 5616,
+        "label": 113,
+        "author": "sungho kim",
+        "title": "Fully Depleted Polysilicon TFTs for Capacitorless 1T-DRAM",
+        "organization": "Sejong University",
+        "abstract": "A capacitorless 1T-DRAM is fabricated on a fully depleted poly-Si thin-film transistor (TFT) template. A heavily doped back gate with a thin back-gate dielectric is employed to facilitate the formation of a deep potential well that retains excess holes. An asymmetric double gate (n + front gate and p + back gate) shows a wider sensing current window than a symmetric double gate (n + front gate and n + back gate). This is attributed to the inherent flatband voltage between the p + back gate and the channel inducing a deeper potential well, which allows capacitorless 1T-DRAM operation at a low back-gate voltage. The TFT capacitorless 1T-DRAM can be applied for future stackable memory for the ultrahigh density era",
+        "email": "",
+        "conf": "IEEE Electron Device Letters",
+        "coauthors": [
+            "Jin-Woo Han",
+            "Seong-Wan Ryu",
+            "Dong-Hyun Kim",
+            "Chung-Jin Kim",
+            "Sungho Kim",
+            "Dong-II Moon",
+            "Sung-Jin Choi",
+            "Yang-Kyu Choi"
+        ],
+        "keywords": "Asymmetric double gate,capacitorless 1T-DRAM,floating-body,fully depleted,thin-film transistor (TFT)"
+    },
+    {
+        "id": 5591,
+        "label": 113,
+        "author": "sungho kim",
+        "title": "Pattern Recognition Using Carbon Nanotube Synaptic Transistors with an Adjustable Weight Update Protocol",
+        "organization": "Sejong University",
+        "abstract": "Recent electronic applications require an efficient computing system that can perform data processing with limited energy consumption. Inspired by the massive parallelism of the human brain, a neuromorphic system (hardware neural network) may provide an efficient computing unit to perform such tasks as classification and recognition. However, the implementation of synaptic devices (i.e., the essential building blocks for emulating the functions of biological synapses) remains challenging due to their uncontrollable weight update protocol and corresponding uncertain effects on the operation of the system, which can lead to a bottleneck in the continuous design and optimization. Here, we demonstrate a synaptic transistor based on highly purified, preseparated 99% semiconducting carbon nanotubes, which can provide adjustable weight update linearity and variation margin. The pattern recognition efficacy is validated using a device-to-system level simulation framework. The enlarged margin rather than the linear weight update can enhance the fault tolerance of the recognition system, which improves the recognition accuracy.",
+        "email": "",
+        "conf": "ACS Nano",
+        "coauthors": [
+            "Sungho Kim",
+            "Bongsik Choi",
+            "Meehyun Lim",
+            "Jinsu Yoon",
+            "Juhee Lee",
+            "Hee-Dong Kim"
+        ],
+        "keywords": "analog switching, carbon nanotube, neuromorphic system, pattern recognition, synaptic transistor, weight update"
+    },
+    {
+        "id": 5596,
+        "label": 113,
+        "author": "sungho kim",
+        "title": "A Universal Core Model for Multiple-Gate Field-Effect Transistors. Part II: Drain Current Model",
+        "organization": "Sejong University",
+        "abstract": "A universal drain current model for multiple-gate field-effect transistors (FETs) (Mug-FETs) is proposed. In Part I, a universal charge model was derived using the arbitrary potential method. Using this charge model, Pao-Sah's integral is analytically carried out by approximating its integrand. The model describes both the subthreshold inversion for undoped FETs and the effects of finite doping density in the channel. With an explicit and continuous expression, the proposed drain current model covers all regions of device operation: subthreshold, linear, and saturation. The accuracy from the proposed model is comparable with that from well-known previous models for double-gate (DG) and cylindrical gate-all-around (Cy-GAA) FETs with an undoped channel. In addition, the model shows good agreement with 2-D and 3-D numerical simulations for doped-channel multiple-gate structures such as single-gate, DG, triple-gate, rectangular gate-all-around, and Cy-GAA FETs. The proposed model is well suited to be a core model for Mug-FETs due to its good computational efficiency and high accuracy; hence, it is useful for compact modeling",
+        "email": "",
+        "conf": "IEEE Transactions on Electron Devices",
+        "coauthors": [
+            "Juan Pablo Duarte",
+            "Sung-Jin Choi",
+            "Dong-Il Moon",
+            "Jae-Hyuk Ahn",
+            "Jee-Yeon Kim",
+            "Sungho Kim",
+            "Yang-Kyu Choi"
+        ],
+        "keywords": "Compact modeling,cylindrical gate-all-around (Cy-GAA) field-effect transistor (FET),double-gate (DG) FET,FinFET,multiple-gate FET (Mug-FET),Pao–Sah's integral,Poisson's equation,rectangular gate-all-around (Re-GAA) FET,semiconductor device modeling,single-gate (SG) FET,triple-gate (TG) FET"
+    },
+    {
+        "id": 5599,
+        "label": 113,
+        "author": "sungho kim",
+        "title": "A unified-RAM (URAM) cell for multi-functioning capacitorless DRAM and NVM",
+        "organization": "Sejong University",
+        "abstract": "A novel partially-depleted (PD) SONOS FinFET is demonstrated for unified function of a high speed capacitorless IT-DRAM and non-volatile memory (NVM). A floating body and O/N/O layer are combined in a single FinFET to provide multi-functional unified-RAM (URAM) operation. The fabricated URAM shows a V T window of 3 V with a retention time exceeding 10 years for NVM operation and a sensing margin of 9 muA with a program/erase time of 10 nsec for IT-DRAM operation in a single memory cell transistor.",
+        "email": "",
+        "conf": "IEEE International Electron Devices Meeting",
+        "coauthors": [
+            "Jin-Woo Han",
+            "Seong-Wan Ryu",
+            "Chungjin Kim",
+            "Sungho Kim",
+            "Maesoon Im",
+            "Sung Jin Choi",
+            "Jin Soo Kim",
+            "Kwang Hee Kim",
+            "Gi Sung Lee",
+            "Jae Sub Oh",
+            "Myeong Ho Song",
+            "Yun Chang Park",
+            "Jeoung Woo Kim",
+            "Yang-Kyu Choi"
+        ],
+        "keywords": "Random access memory,Nonvolatile memory,FinFETs,SONOS devices,Etching,Impact ionization,Threshold voltage,Flash memory,Charge carrier processes,Electron traps"
+    },
+    {
+        "id": 5580,
+        "label": 113,
+        "author": "sungho kim",
+        "title": "High speed flash memory and 1T-DRAM on dopant segregated schottky barrier (DSSB) FinFET SONOS device for multi-functional SoC applications",
+        "organization": "Sejong University",
+        "abstract": "A novel dopant segregated Schottky barrier (DSSB) FinFET SONOS device is demonstrated in terms of multi functioning in a high speed NAND-type flash memory and capacitorless 1T-DRAM. In addition, a novel program mechanism that uses energy band engineered hot electrons (EBEHE) energized by sharp energy band bending at the edge of source/drain (S/D) is proposed for a high speed flash memory programming operation. A short program time of 100 ns and a low program voltage of 12 V yield a V th shift of 3.5 V and a retention time exceeding 10 years. For multi functioning, the operation of a capacitorless 1T-DRAM is also demonstrated with a partially silicided DSSB in the same device",
+        "email": "",
+        "conf": "IEEE International Electron Devices Meeting",
+        "coauthors": [
+            "Sung-Jin Choi",
+            "Jin-Woo Han",
+            "Sungho Kim",
+            "Dong-Hyun Kim",
+            "Moon-Gyu Jang",
+            "Jong-Heon Yang",
+            "Jin Soo Kim",
+            "Kwang Hee Kim",
+            "Gi Sung Lee",
+            "Jae Sub Oh",
+            "Myeong Ho Song",
+            "Yun Chang Park",
+            "Jeoung Woo Kim",
+            "Yang-Kyu Choi"
+        ],
+        "keywords": "Flash memory,Schottky barriers,Decision support systems,FinFETs,SONOS devices,Nonvolatile memory,Silicidation,Nanoscale devices,Fabrication,Nickel"
+    },
+    {
+        "id": 5595,
+        "label": 113,
+        "author": "sungho kim",
+        "title": "Utilizing multiple state variables to improve the dynamic range of analog switching in a memristor",
+        "organization": "Sejong University",
+        "abstract": "Memristors and memristive systems have been extensively studied for data storage and computing applications such as neuromorphic systems. To act as synapses in neuromorphic systems, the memristor needs to exhibit analog resistive switching (RS) behavior with incremental conductance change. In this study, we show that the dynamic range of the analog RS behavior can be significantly enhanced in a tantalum-oxide-based memristor. By controlling different state variables enabled by different physical effects during the RS process, the gradual filament expansion stage can be selectively enhanced without strongly affecting the abrupt filament length growth stage. Detailed physics-based modeling further verified the observed experimental effects and revealed the roles of oxygen vacancy drift and diffusion processes, and how the diffusion process can be selectively enhanced during the filament expansion stage. These findings lead to more desirable and reliable memristor behaviors for analog computing applications. Additionally, the ability to selectively control different internal physical processes demonstrated in the current study provides guidance for continued device optimization of memristor devices in general.",
+        "email": "",
+        "conf": "Applied Physics Letters",
+        "coauthors": [
+            "Yeonjoo Jeong",
+            "Sungho Kim",
+            "Wei D. Lu"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5627,
+        "label": 113,
+        "author": "sungho kim",
+        "title": "Low-cost and highly heat controllable capacitorless PiFET (Partially insulated FET) 1T DRAM for embedded memory",
+        "organization": "Sejong University",
+        "abstract": "A body-tied partial-insulated FET (PiFET) one-transistor (1T) DRAM having good heat immunity for embedded memory is proposed in this paper. PiFET structure using partially insulated oxide (PiOX) formed on bulk wafer can act as a 1T DRAM by applying a negative back bias. The memory shows a good ldquo0rdquo-state retention characteristic due to reduced electric field and heat dissipation path. The body-tied PiFET provides a wider design window and flexibility to control retention characteristics than does silicon on insulator (SOI) FET. To evaluate the improvement of retention characteristics, we suggest a new retention degradation mechanism of 1T DRAM. In this paper, we suggest the possibility of 1T DRAM's fabrication having good heat immunity",
+        "email": "",
+        "conf": "IEEE Transactions on Nanotechnology",
+        "coauthors": [
+            "Dong-il Bae",
+            "Sungho Kim",
+            "Yang-Kyu Choi"
+        ],
+        "keywords": "Capacitorless embedded memory,one-transistor (1T) DRAM,partial-insulated FET (PiFET),retention,sensing margin"
+    },
+    {
+        "id": 5630,
+        "label": 113,
+        "author": "sungho kim",
+        "title": "An Extraction Method of the Energy Distribution of Interface Traps by an Optically Assisted Charge Pumping Technique",
+        "organization": "Sejong University",
+        "abstract": "The energy distribution of interface traps is extracted using an optically assisted charge pumping (optical CP) technique. Optically generated majority carriers through light illumination enable the CP process even in a floating-body (FB) device without an extra body contact. With the use of square pulses at different rising and falling times and the proposed analytical model, the energy distribution of the interface traps is investigated via an optical CP technique. The optical CP technique is useful to extract the energy distribution of interface traps, as well as the interface-trap density in nanoscale FB devices. The data extracted by the optical CP is verified in a comparison with the data extracted by subthreshold-slope techniques.",
+        "email": "",
+        "conf": "IEEE Transactions on Electron Devices",
+        "coauthors": [
+            "Sungho Kim",
+            "Sung-Jin Choi",
+            "Dong-Il Moon",
+            "Yang-Kyu Choi"
+        ],
+        "keywords": "Charge pumping (CP),floating-body (FB),interface trap,silicon-on-insulator metal–oxide–semiconductor field-effect transistor (SOI MOSFET),trap energy level"
+    },
+    {
+        "id": 5603,
+        "label": 113,
+        "author": "sungho kim",
+        "title": "A bulk FinFET unified-RAM (URAM) cell for multifunctioning NVM and capacitorless 1T-DRAM",
+        "organization": "Sejong University",
+        "abstract": "A bulk FinFET-based unified-RAM (URAM) cell technology is demonstrated for the fusion of a nonvolatile-memory (NVM) and capacitorless 1T-DRAM. An oxide/nitride/oxide layer and a floating-body are combined to perform a URAM operation in a single transistor. A buried n-well technology for NMOS allows hole accumulation for the 1T-DRAM operation in a p-type bulk substrate. The bulk FinFET URAM offers a cost-effective and fully compatible process with a conventional FinFET SONOS, and it also expedites heat dissipation. Highly reliable NVM and high-speed 1T-DRAM operation are confirmed, and it was also verified that there is no disturbance between the two memory functions",
+        "email": "",
+        "conf": "IEEE Electron Device Letters",
+        "coauthors": [
+            "Jin-Woo Han",
+            "Seong-Wan Ryu",
+            "Sungho Kim",
+            "Chung-Jin Kim",
+            "Jae-Hyuk Ahn",
+            "Sung-Jin Choi",
+            "Jin Soo Kim",
+            "Kwang Hee Kim",
+            "Gi Sung Lee",
+            "Jae Sub Oh",
+            "Myeong Ho Song",
+            "Yun Chang Park",
+            "Jeoung Woo Kim",
+            "Yang-Kyu Choi"
+        ],
+        "keywords": "Bulk FinFET,capacitorless DRAM,FinFET,nonvolatile memory (NVM),SONOS,unified-RAM (URAM),1T-DRAM"
+    },
+    {
+        "id": 5650,
+        "label": 113,
+        "author": "sungho kim",
+        "title": "Comprehensive Study of Write Operation Scheme in Multi-Level Resistive Switching Memory Array",
+        "organization": "Sejong University",
+        "abstract": "A comprehensive analysis of write operations in a multi-level resistive switching memory (RRAM) crossbar array is carried out. A developed numerical method simulates entire current flows and node voltages within one selector-one multi-level RRAM (1S1mR) crossbar array and provides quantitative information, especially voltage drops due to the interconnection line resistance. Due to the intrinsic nature of voltage drops in high-density array, a normal multi-level operation scheme by using variable reset voltages cannot be adopted, which will be a critical bottleneck in implementing high-density crossbar memory array with multi-level RRAM cells. This study provides the understanding of crossbar array for successfully designing the write operation scheme in 1S1mR array.",
+        "email": "",
+        "conf": "Journal of Nanoscience and Nanotechnology",
+        "coauthors": [
+            "Wontak Joo",
+            "Jae Hak Lee",
+            "Sung Moo Choi",
+            "Hee-Dong Kim",
+            "Sungho Kim"
+        ],
+        "keywords": "Crossbar Array; Multi-Level Cell; Numerical Simulation; Resistive Switching Memory; Selector"
+    },
+    {
+        "id": 5626,
+        "label": 113,
+        "author": "sungho kim",
+        "title": "Charge pumping technique to analyze the effect of intrinsically retained charges and extrinsically trapped charges in biomolecules by use of a nanogap embedded biotransistor",
+        "organization": "Sejong University",
+        "abstract": "Charge pumping technique is investigated for label-free electrical biosensing using a nanogap-embedded biotransistor. Biomolecules immobilized in a nanogap provide additional trap states and charges in the gate dielectric. These two effects give rise to a change of the charge pumping current, which are analyzed by the aid of numerical simulations. To utilize the trap density of gate dielectric as a sensing parameter, proper amplitude of pulse should be applied for charge pumping to exclude the effect of intrinsically retained charges in biomolecules, thereby this proposed technique is available for detection of biomolecules regardless of retained charges.",
+        "email": "",
+        "conf": "Applied Physics Letters",
+        "coauthors": [
+            "Sungho Kim",
+            "Jae-Hyuk Ahn",
+            "Tae Jung Park",
+            "Sang Yup Lee",
+            "Yang-Kyu Choi"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5614,
+        "label": 113,
+        "author": "sungho kim",
+        "title": "Band offset FinFET-based URAM (Unified-RAM) built on SiC for multi-functioning NVM and capacitorless 1T-DRAM",
+        "organization": "Sejong University",
+        "abstract": "A FinFET-based unified-RAM (URAM) using the band offset of Si/SiC is demonstrated for the fusion of a non-volatile memory (NVM) and capacitorless 1T-DRAM operation. An oxide/nitride/oxide (O/N/O) gate dielectric and a floating body caused by the band offset are combined in a bulk FinFET to allow two memory operations in a single transistor. The device is fabricated on an epitaxially grown Si/SiC substrate and its process is fully compatible with a conventional bulk FinFET SONOS. Highly reliable NVM and high speed 1T-DRAM operation are confirmed in a single URAM cell.",
+        "email": "",
+        "conf": "Symposium on VLSI Technology IEEE",
+        "coauthors": [
+            "Jin-Woo Han",
+            "Seong-Wan Ryu",
+            "Sungho Kim",
+            "Chung-Jin Kim",
+            "Jae-Hyuk Ahn",
+            "Sung-Jin Choi",
+            "Kyu Jin Choi",
+            "Byung Jin Cho",
+            "Jin Soo Kim",
+            "Kwang Hee Kim",
+            "Gi Sung Lee",
+            "Jae Sub Oh",
+            "Myong Ho Song",
+            "Yun Chang Park",
+            "Jeoung Woo Kim",
+            "Yang-Kyu Choi"
+        ],
+        "keywords": "Silicon,Silicon carbide,Substrates,Logic gates,Nonvolatile memory,Impact ionization,Epitaxial growth"
+    },
+    {
+        "id": 5623,
+        "label": 113,
+        "author": "sungho kim",
+        "title": "Oxygen-doped Zirconium Nitride Based Transparent Resistive Random Access Memory Devices Fabricated by Radio Frequency Sputtering Method",
+        "organization": "Sejong University",
+        "abstract": "In this work, we present a feasibility of bipolar resistive switching (RS) characteristics for Oxygen-doped zirconium nitride (O-doped ZrNx) films, produced by sputtering method, which shows a high optical transmittance of approximately 78% in the visible region as well as near ultra-violet region. In addition, in a RS test, the device has a large current ratio of 5 × 103 in positive bias region and 5 × 105 in negative bias region. Then, to evaluate an ability of data storage for the proposed memory devices, we measured a retention time for 104 s at room temperature (RT) and 85 °C as well. As a result, the set and reset states were stably maintained with a current ratio of ∼102 at 85 °C to ∼103 at RT. This result means that the transparent memory by controlling the working pressure during sputtering process to deposit the ZrNx films could be a milestone for future see-through electronic devices.",
+        "email": "sungho85.kim@sejong.ac.kr",
+        "conf": "Journal of Alloys and Compounds",
+        "coauthors": [
+            "Hee-Dong Kim",
+            "Min Ju Yun",
+            "Kyeong Heon Kim",
+            "Sungho Kim"
+        ],
+        "keywords": "RRAM,Transparent RRAM,Oxygen-doped ZrN films"
+    },
+    {
+        "id": 5605,
+        "label": 113,
+        "author": "sungho kim",
+        "title": "Enhancement of program speed in dopant-segregated Schottky-Barrier (DSSB) finFET SONOS for NAND-type flash memory",
+        "organization": "Sejong University",
+        "abstract": "A dopant-segregated (DS) Schottky-barrier (DSSB) FinFET SONOS for NAND flash memory with a proposed architecture is demonstrated for the first time. A DSSB technique with a nickel-silicided source/drain (S/D) is integrated in the FinFET with a 30-50-nm range of fin width. Compared with the conventional FinFET SONOS, the DSSB FinFET SONOS boasts very fast programming time with low voltage. For a programming state, hot electrons triggered by sharp band bending at the DS S/D region are used. As a result, a threshold voltage ( V th ) shift of 4.5 V is achieved in a fast programming time of 100 ns.",
+        "email": "",
+        "conf": "IEEE Electron Device Letters",
+        "coauthors": [
+            "Sung-Jin Choi",
+            "Jin-Woo Han",
+            "Sungho Kim",
+            "Moon-Gyu Jang",
+            "Jin Soo Kim",
+            "Kwang Hee Kim",
+            "Gi Sung Lee",
+            "Jae Sub Oh",
+            "Myeong Ho Song",
+            "Yun Chang Park",
+            "Jeoung Woo Kim",
+            "Yang-Kyu Choi"
+        ],
+        "keywords": "Dopant segregated (DS),FinFET,Flash memory,hot electrons,NAND Flash,nonvolatile memory,Schottky-barrier MOSFET,silicon–oxide–nitride–oxide–silicon (SONOS),SONOS memory"
+    },
+    {
+        "id": 5638,
+        "label": 113,
+        "author": "sungho kim",
+        "title": "Improvement of the sensing window on a capacitorless 1T-DRAM of a FinFET-based unified RAM",
+        "organization": "Sejong University",
+        "abstract": "A novel initialization concept is demonstrated to improve the program efficiency of the 1T-DRAM mode of unified random access memory (URAM). The proposed method involves boosting the gate-induced drain leakage current for the generation of excess holes by pretrapping electrons to the nitride layer prior to the activation of 1T-DRAM mode. The proposed initialization concept doubles the current sensing window in 1T-DRAM operation. Due to the potential for soft erasing caused by hot-hole injections into electrons that are trapped in the nitride during the P/E cycling of 1T-DRAM, immunity against soft erasing is confirmed through a dc stress measurement as well.",
+        "email": "",
+        "conf": "IEEE Transactions on Electron Devices",
+        "coauthors": [
+            "Sung-Jin Choi",
+            "Jin-Woo Han",
+            "Chung-Jin Kim",
+            "Sungho Kim",
+            "Yang-Kyu Choi"
+        ],
+        "keywords": "Capacitorless DRAM,embedded memory,gate-induced drain leakage (GIDL),GIDL program,soft erasing,SONOS,unified random access memory (URAM),1T-DRAM"
+    },
+    {
+        "id": 5588,
+        "label": 113,
+        "author": "sungho kim",
+        "title": "Highly durable and flexible memory based on resistance switching",
+        "organization": "Sejong University",
+        "abstract": "Resistance random access memory (RRAM) consisting of stacked Al/TiOx/Al structure is demonstrated on a flexible and transparent substrate. To improve cell to cell uniformity, TiOx formed by atomic layer deposition is used for resistive switching material. The simple cross-bar structure of the RRAM and good ductility of aluminum electrode results in excellent flexibility and mechanical endurance. Particularly, bipolar and unipolar resistive switching (BRS, URS) behavior appeared simultaneously were investigated. Depending on the current compliance, BRS or URS could be selectively observed. Furthermore, the permanent transition from BRS to URS was observed with a specific current compliance. To understand this transition behavior, the γ-ray irradiation effect into resistive switching is primarily investigated.",
+        "email": "kkam226@gmail.com",
+        "conf": "Solid-State Electronics",
+        "coauthors": [
+            "Sungho Kim",
+            "Oktay Yarimaga",
+            "Sung-Jin Choi",
+            "Yang-Kyu Choi"
+        ],
+        "keywords": "Flexible,Resistance random access memory,γ-Irradiation"
+    },
+    {
+        "id": 5624,
+        "label": 113,
+        "author": "sungho kim",
+        "title": "A charge pumping technique to identify biomolecular charge polarity using a nanogap embedded biotransistor",
+        "organization": "Sejong University",
+        "abstract": "Charge pumping technique is investigated to identify biomolecular charge polarity using a nanogap-embedded biotransistor. Biomolecules immobilized in a nanogap provide additional charges in the gate dielectric. They give rise to a change in the charge pumping current, as detected by applying a designed pulse waveform. The measured results are analyzed with the aid of numerical simulations. The proposed charge pumping technique represents an insightful method of investigating the electrical properties of biomolecules beyond biosensing.",
+        "email": "",
+        "conf": "Applied Physics Letters",
+        "coauthors": [
+            "Sungho Kim",
+            "Jee-Yeon Kim",
+            "Jae-Hyuk Ahn",
+            "Tae Jung Park",
+            "Sang Yup Lee",
+            "Yang-Kyu Choi"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5644,
+        "label": 113,
+        "author": "sungho kim",
+        "title": "Resistive Switching Phenomena of HfO2 Films Grown by MOCVD for Resistive Switching Memory Devices",
+        "organization": "Sejong University",
+        "abstract": "The resistive switching phenomena of HfO2 films grown by using metal organic chemical vapor deposition (MOCVD) was studied for the application of resistive random access memory (ReRAM) devices. In the fabricated Pt/HfO2/TiN memory cells, bipolar resistive switching characteristics were observed, and the set and reset states were measured to be as low as 7 μA and 4 μA, respectively, at V READ = 1 V. Regarding the resistive switching performance, stable resistive switching (RS) performance was observed under 40 repetitive dc cycles with small variations of set/reset voltages and the currents and good retention characteristics of over 105 s in both the low-resistance state (LRS) and the high-resistance state (HRS). These results show the possibility of using MOCVDgrown HfO2 films as a promising resistive switching materials for ReRAM applications.",
+        "email": "",
+        "conf": "Journal- Korean Physical Society",
+        "coauthors": [
+            "Hee-Dong Kim",
+            "Min Ju Yun",
+            "Sungho Kim"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5619,
+        "label": 113,
+        "author": "sungho kim",
+        "title": "Resistive Switching Characteristics of Al/Si3N4/p-Si MIS-Based Resistive Switching Memory Devices",
+        "organization": "Sejong University",
+        "abstract": "In this study, we proposed and demonstrated a self-rectifying property of a silicon nitride (Si3N4)-based resistive random access memory (RRAM) device by employing p-type silicon (p-Si) as the bottom electrode. The RRAM devices consisting of Al/Si3N4/p-Si are fabricated by using a low-pressure chemical-vapor deposition and exhibited an intrinsic diode property with non-linear current−voltage (I−V) behavior. In addition, compared to the conventional metal/insulator/metal (MIM) structure of Al/Si3N4/Ti RRAM cells, the operating current over the entire bias region for the proposed metal/insulator/semiconductor (MIS) cells is dramatically lower because the introduced p-Si bottom electrode efficiently suppresses the current in both the low- and the high resistance states. Then, the results mean that when p-Si is employed as a bottom electrode, the Si3N4-based RRAM cells can be applied to selector-free RRAM cells.",
+        "email": "",
+        "conf": "Journal- Korean Physical Society",
+        "coauthors": [
+            "Hee-Dong Kim",
+            "Min Ju Yun",
+            "Sungho Kim"
+        ],
+        "keywords": "RRAM,Si3N4 films,Self-rectifying"
+    },
+    {
+        "id": 5601,
+        "label": 113,
+        "author": "sungho kim",
+        "title": "A novel junctionless all-around-gate SONOS device with a quantum nanowire on a bulk substrate for 3D stack NAND flash memory",
+        "organization": "Sejong University",
+        "abstract": "A novel junctionless all-around-gate (AAG) SONOS device with a homogeneously n + -doped silicon nanowire (SiNW) is demonstrated on a bulk substrate. The diameter and gate length of the quantum-scale SiNW are 4 nm and 20 nm, respectively. A deep RIE process is developed for the formation of the SiNWs. The junctionless AAG SONOS device shows a high read current (>; 10 μA), a large V T margin (>; 6.5 V), a narrowed distribution of the erased V T , and improved cyclic endurance (10 5 cycles). Moreover, the proposed process is applied to implement vertically integrated 9-layer single-crystal SiNWs for 3D NAND",
+        "email": "",
+        "conf": "Digest of Technical Papers - Symposium on VLSI Technology",
+        "coauthors": [
+            "Sung-Jin Choi",
+            "Dong-Il Moon",
+            "Juan Pablo Duarte",
+            "Sungho Kim",
+            "Yang-Kyu Choi"
+        ],
+        "keywords": "Logic gates,Three dimensional displays,SONOS devices,Junctions,Doping,Silicon,Threshold voltage"
+    },
+    {
+        "id": 5579,
+        "label": 113,
+        "author": "sungho kim",
+        "title": "A Novel TFT with a Laterally Engineered Bandgap for of 3D Logic and Flash Memory",
+        "organization": "Sejong University",
+        "abstract": "A dopant segregated Schottky barrier (DSSB) TFT SONOS device is demonstrated for the application of 3D TFT logic devices and flash memory. To apply the DSSB to 3D TFT flash memory, a novel spacer-free structure is successfully implemented. The DSSB TFT SONOS shows a good distribution of programmed V T by one-time programming with high-speed (a V T shift of 2.9 V @ 32 ns) due to the use of a unique local injection of carriers from the DSSB S/D junctions and it is not affected by grain boundaries. Moreover, the program speed is accelerated by reduction of the fin width owing to the enhanced field.",
+        "email": "",
+        "conf": "Symposium on VLSI Technology. IEEE",
+        "coauthors": [
+            "Sung-Jin Choi",
+            "Jin-Woo Han",
+            "Sungho Kim",
+            "Dong-II Moon",
+            "Moongyu Jang",
+            "Yang-Kyu Choi"
+        ],
+        "keywords": "Decision support systems,Thin film transistors,SONOS devices,Logic gates,Three dimensional displays,Programming,Junctions"
+    },
+    {
+        "id": 5577,
+        "label": 113,
+        "author": "sungho kim",
+        "title": "Experimental Demonstration of a Second-Order Memristor and Its Ability to Biorealistically Implement Synaptic Plasticity",
+        "organization": "Sejong University",
+        "abstract": "Memristors have been extensively studied for data storage and low-power computation applications. In this study, we show that memristors offer more than simple resistance change. Specifically, the dynamic evolutions of internal state variables allow an oxide-based memristor to exhibit Ca2+-like dynamics that natively encode timing information and regulate synaptic weights. Such a device can be modeled as a second-order memristor and allow the implementation of critical synaptic functions realistically using simple spike forms based solely on spike activity.",
+        "email": "",
+        "conf": "Nano Letters",
+        "coauthors": [
+            "Sungho Kim",
+            "Chao Du",
+            "Patrick Sheridan",
+            "Wen Ma",
+            "ShinHyun Choi",
+            "Wei D. Lu"
+        ],
+        "keywords": "Memristor, resistive switching, second-order"
+    },
+    {
+        "id": 5581,
+        "label": 113,
+        "author": "sungho kim",
+        "title": "Performance breakthrough in NOR flash memory with dopant-segregated Schottky-barrier (DSSB) SONOS devices",
+        "organization": "Sejong University",
+        "abstract": "A novel dopant segregated Schottky barrier (DSSB) SONOS device as a form of double-gate (DG) is demonstrated for NOR flash memory applications. The DSSB also applies to all-around-gate (AAG) SONOS devices. The source side injection caused by sharp energy band bending in the DSSB device results in a high-speed programming (V th shift of 4.2V @ 320 ns) at a low program bias (V gs /V ds =7V/3V). Moreover, faster program speed in a narrower fin width (W fin ) due to its low parasitic resistance and enhanced gate controllability is achieved. Drain disturbance-free characteristics in a programmed cell are confirmed as well",
+        "email": "",
+        "conf": "Symposium on VLSI Technology",
+        "coauthors": [
+            "Sung-Jin Choi",
+            "Jin-Woo Han",
+            "Sungho Kim",
+            "Dong-II Moon",
+            "Moon-Gyu Jang",
+            "Jin Su Kim",
+            "Kwang Hee Kim",
+            "Gi Sung Lee",
+            "Jae Sub Oh",
+            "Myong Ho Song",
+            "Yun Chang Park",
+            "Jeoung Woo Kim",
+            "Yang-Kyu Choi"
+        ],
+        "keywords": "Flash memory,Decision support systems,SONOS devices,Voltage,P-n junctions,Nanoscale devices,Schottky barriers,Controllability,Flash memory cells,Channel hot electron injection"
+    },
+    {
+        "id": 5587,
+        "label": 113,
+        "author": "sungho kim",
+        "title": "Nonvolatile Memory by All-Around-Gate Junctionless Transistor Composed of Silicon Nanowire on Bulk Substrate",
+        "organization": "Sejong University",
+        "abstract": "A junctionless transistor with a width of 10 nm and a length of 50 nm is demonstrated for the first time. A silicon nanowire (SiNW) channel is completely surrounded by a gate, and the SiNW is built onto the bulk substrate. The proposed junctionless transistor is applied to a Flash memory device composed of oxide/nitride/oxide gate dielectrics. Acceptable memory characteristics are achieved regarding the endurance, data retention, and dc performance of the device. It can be expected that the inherent advantages of the junctionless transistor can overcome the scaling limitations in Flash memory. Hence, the junctionless transistor is a strong candidate for the further scaling of NAND Flash memory below the 20-nm node",
+        "email": "",
+        "conf": "IEEE Electron Device Letters",
+        "coauthors": [
+            "Sung-Jin Choi",
+            "Dong-Il Moon",
+            "Sungho Kim",
+            "Jae-Hyuk Ahn",
+            "Jin-Seong Lee",
+            "Jee-Yeon Kim",
+            "Yang-Kyu Choi"
+        ],
+        "keywords": "All-around gate (AAG),Bosch process,bulk substrate,Flash memory,junctionless,junctionless field-effect transistor (FET),junctionless transistor,nanowire,silicon nanowire (SiNW),SONOS"
+    },
+    {
+        "id": 5655,
+        "label": 113,
+        "author": "sungho kim",
+        "title": "A new charge-pumping technique for a double-gated SOI MOSFET using pulsed drain current transients",
+        "organization": "Sejong University",
+        "abstract": "A novel interface characterization technique is proposed to extract interface trap density N it in fully depleted silicon-on-insulator MOSFETs. The proposed technique utilizes the temporal variation of the drain current, which is caused by the application of a single pulse to the gate in order to trigger charge pumping (CP). Vacant interface traps created as a result of recombination through the CP effect are gradually filled by carriers generated from a floating body (FB). By the characterization of this transient phenomenon, the interface trap density is directly extracted from FB devices without extra body contacts",
+        "email": "",
+        "conf": "IEEE Transactions on Electron Devices",
+        "coauthors": [
+            "Sungho Kim",
+            "Sung-Jin Choi",
+            "Dong-Il Moon",
+            "Yang-Kyu Choi"
+        ],
+        "keywords": "Charge pumping (CP),drain current transient,floating body (FB),interface trap,silicon-on-insulator (SOI) MOSFET"
+    },
+    {
+        "id": 5607,
+        "label": 113,
+        "author": "sungho kim",
+        "title": "Latch-up based bidirectional npn selector for bipolar resistance-change memory Latch-up based bidirectional npn selector for bipolar resistance-change memory",
+        "organization": "Sejong University",
+        "abstract": "A vertically integrated latch-up based n-p-n bidirectional diode, which is analogous to an open-base bipolar junction transistor, is demonstrated for bipolar resistance-change memory selector application. A maximum current density of >50 MA/cm2 and a selectivity of >104 are observed at a fast switching speed of within 10 ns. The high selectivity as a consequence of the sudden latch-up process is feasible owing to the positive-feedback process initiated by impact ionization. The optimization of the turn-on voltage is comprehensively investigated by numerical device simulation, which ensures the promising potential of the latch-up based selector device",
+        "email": "",
+        "conf": "Applied Physics Letters",
+        "coauthors": [
+            "Sungho Kim",
+            "Dong-Il Moon",
+            "Wei D. Lu",
+            "Dae Hwan Kim",
+            "Dong Myong Kim",
+            "Yang-Kyu Choi",
+            "Sung-Jin Choi"
+        ],
+        "keywords": "bipolar transistors; current density; impact ionisation; random-access storage; semiconductor diodes; Pulse and digital circuits; Junction diodes; Bipolar transistors; High-field and nonlinear effects"
+    },
+    {
+        "id": 5618,
+        "label": 113,
+        "author": "sungho kim",
+        "title": "Carrier Lifetime Engineering for Floating-Body Cell Memory",
+        "organization": "Sejong University",
+        "abstract": "A novel bias scheme is demonstrated for performance improvement of floating-body cell memory, particularly retention time. Its basic mechanism is based on carrier lifetime engineering, which takes advantage of generation lifetime that is longer than recombination lifetime. In addition, the proposed scheme is suitable for low-power operation; a high drain bias is unnecessary to generate excess carriers, which allows reliable endurance of up to 10 12 switching instances at 85 ° C.",
+        "email": "",
+        "conf": "IEEE Transactions on Electron Devices",
+        "coauthors": [
+            "Sungho Kim",
+            "Sung-Jin Choi",
+            "Dong-Il Moon",
+            "Yang-Kyu Choi"
+        ],
+        "keywords": "Carrier lifetime,double gate,finFET,floating-body cell (FBC),silicon-on-insulator (SOI) metal–oxide–semiconductor field-effect transistor (MOSFET)"
+    },
+    {
+        "id": 5600,
+        "label": 113,
+        "author": "sungho kim",
+        "title": "A biomolecular detection method based on charge pumping in a nanogap embedded field-effect-transistor biosensor",
+        "organization": "Sejong University",
+        "abstract": "A unique direct electrical detection method of biomolecules, charge pumping, was demonstrated using a nanogap embedded field-effect-transistor (FET). With aid of a charge pumping method, sensitivity can fall below the 1 ng/ml concentration regime in antigen-antibody binding of an avian influenza case. Biomolecules immobilized in the nanogap are mainly responsible for the acute changes of the interface trap density due to modulation of the energy level of the trap. This finding is supported by a numerical simulation. The proposed detection method for biomolecules using a nanogap embedded FET represents a foundation for a chip-based biosensor capable of high sensitivity.",
+        "email": "",
+        "conf": "Applied Physics Letters",
+        "coauthors": [
+            "Sungho Kim",
+            "Jae-Hyuk Ahn",
+            "Tae Jung Park",
+            "Sang Yup Lee",
+            "Yang-Kyu Choi"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5584,
+        "label": 113,
+        "author": "sungho kim",
+        "title": "Self-Limited Switching in Ta2O5/TaOx Memristors Exhibiting Uniform Multilevel Changes in Resistance",
+        "organization": "Sejong University",
+        "abstract": "To facilitate the development of memristive devices, it is essential to resolve the problem of non‐uniformity in switching, which is caused by the random nature of the filamentary switching mechanism in many resistance switching memories based on transition metal oxide. In addition, device parameters such as low‐ and high‐state resistance should be regulated as desired. These issues can be overcome if memristive devices have switching limits for both the low‐ and high‐resistance states and if their resistance values are highly controllable. In this study, a method termed self‐limited switching for uniformly regulating the values of both the low‐ and high‐resistance states is suggested, and the circuit configuration required for the self‐limited switching is established in a Ta2O5/TaOx memristive structure. A method of improving the uniformity of multi‐level resistance states in this memristive system is also proposed.",
+        "email": "",
+        "conf": "Advanced Functional Materials",
+        "coauthors": [
+            "Kyung Min Kim",
+            "Seung Ryul Lee",
+            "Sungho Kim",
+            "Man Chang",
+            "Cheol Seong Hwang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5632,
+        "label": 113,
+        "author": "sungho kim",
+        "title": "Unified random access memory (URAM) by integration of a nanocrystal floating gate for nonvolatile memory and a partially depleted floating body for capacitorless 1T-DRAM",
+        "organization": "Sejong University",
+        "abstract": "This paper describes a unified memory (URAM) that utilizes a nanocrystal SOI MOSFET for multi-functional applications of both nonvolatile memory (NVM) and capacitorless 1T-DRAM. By using a discrete storage node (Ag nanocrystal) as the floating gate of the NVM, high defect immunity and 2-bit/cell operation were achieved. The embedded nanocrystal NVM also showed 1T-DRAM operation (program/erase time = 100 ns) characteristics, which were realized by storing holes in the floating body of the SOI MOSFET, without requiring an external capacitor. Three-bit/cell operation was accomplished for different applications – 2-bits for nonvolatility and 1-bit for fast operation.",
+        "email": "",
+        "conf": "Solid-State Electronics",
+        "coauthors": [
+            "Seong-Wan Ryu",
+            "Jin-Woo Han",
+            "Chung-Jin Kim",
+            "Sungho Kim",
+            "Yang-Kyu Choi"
+        ],
+        "keywords": "URAM,1T-DRAM,Nonvolatile memory,Nanocrystal"
+    },
+    {
+        "id": 5654,
+        "label": 113,
+        "author": "sungho kim",
+        "title": "Synaptic Device Network Architecture with Feature Extraction for Unsupervised Image Classification",
+        "organization": "Sejong University",
+        "abstract": "For the efficient recognition and classification of numerous images, neuroinspired deep learning algorithms have demonstrated their substantial performance. Nevertheless, current deep learning algorithms that are performed on von Neumann machines face significant limitations due to their inherent inefficient energy consumption. Thus, alternative approaches (i.e., neuromorphic systems) are expected to provide more energy‐efficient computing units. However, the implementation of the neuromorphic system is still challenging due to the uncertain impacts of synaptic device specifications on system performance. Moreover, only few studies are reported how to implement feature extraction algorithms on the neuromorphic system. Here, a synaptic device network architecture with a feature extraction algorithm inspired by the convolutional neural network is demonstrated. Its pattern recognition efficacy is validated using a device‐to‐system level simulation. The network can classify handwritten digits at up to a 90% recognition rate despite using fewer synaptic devices than the architecture without feature extraction.",
+        "email": "",
+        "conf": "Small",
+        "coauthors": [
+            "Sungho Kim",
+            "Bongsik Choi",
+            "Meehyun Lim",
+            "Yeamin Kim",
+            "Hee-Dong Kim",
+            "Sung-Jin Choi"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5615,
+        "label": 113,
+        "author": "sungho kim",
+        "title": "A Nanowire Transistor for High Performance Logic and Terabit Non-Volatile Memory Devices",
+        "organization": "Sejong University",
+        "abstract": "Silicon nanowire-FET (SiNAWI-FET) for high performance logic device with consideration of current direction effects and terabit non-volatile memory (NVM) device using an 8 nm SiNAWI-NVM with oxide/nitride/oxide (ONO) and omega-gate structure is reported for the first time. N-and P-channel SiNAWI-FET showed the highest driving current on (110)/<110> crystal orientation without device rotation, whereas most 3-dimensional NMOS report higher driving current on 45deg device rotation rather than 0deg. Utilizing an 7 nm spherical nanowire on the 8 nm SiNAWI-NVM with ONO structure, 1.7 V V T -window was achieved from 12 V/80 musec program conditions with retention enhancement.",
+        "email": "",
+        "conf": " IEEE Symposium on VLSI Technology",
+        "coauthors": [
+            "Hyunjin Lee",
+            "Seong-Wan Ryu",
+            "Jin-Woo Han",
+            "Lee-Eun Yu",
+            "Maesoon Im",
+            "Chungjin Kim",
+            "Sunghoo Kim",
+            "Eujune Lee",
+            "Kuk-Hwan Kim",
+            "Ju-Hyun Kim",
+            "Dong-il Bae",
+            "Sang Cheol Jeon",
+            "Kwang Hee Kim",
+            "Gi Sung Lee",
+            "Jae Sub Oh",
+            "Yun Chang Park",
+            "Woo Ho Bae",
+            "Jung Jae Yoo",
+            "Jun Mo Yang",
+            "Hee Mok Lee",
+            "Yang-Kyu Choi"
+        ],
+        "keywords": "Nanoscale devices,Logic devices,Nonvolatile memory,Silicon,MOS devices,Nanostructures,Very large scale integration,Scalability,Fabrication,FinFETs"
+    },
+    {
+        "id": 5578,
+        "label": 113,
+        "author": "sungho kim",
+        "title": "Resistive switching of aluminum oxide for flexible memory",
+        "organization": "Sejong University",
+        "abstract": "The unipolar resistive switching of the Al/AlxOy/AlAl∕AlxOy∕Al structure is investigated for nonvolatile memory. Following the production of aluminum oxide film (AlxOy)(AlxOy) by plasma oxidation, a high ratio of on-state and off-state currents (⩾104)(⩾104) is achieved, and characteristics of switching endurance are reported. Due to the good ductility of aluminum, the performance of resistive switching on a flexible substrate is not degraded by severe substrate bending. The low process temperature of the plasma oxidation process is advantageous for the fabrication of flexible electronic devices and modern interconnection processes.",
+        "email": "",
+        "conf": "Applied Physics Letters",
+        "coauthors": [
+            "Sungho Kim",
+            "Yang-Kyu Choi"
+        ],
+        "keywords": "Pulse and digital circuits; Field effect devices; Plasma applications; Oxidation"
+    },
+    {
+        "id": 5602,
+        "label": 113,
+        "author": "sungho kim",
+        "title": "Retention failure analysis of metal-oxide based resistive memory",
+        "organization": "Sejong University",
+        "abstract": "Resistive switching devices (RRAMs) have been proposed a promising candidate for future memory and neuromorphic applications. Central to the successful application of these emerging devices is the understanding of the resistance switching and failure mechanism, and identification of key physical parameters that will enable continued device optimization. In this study, we report detailed retention analysis of a TaOx based RRAM at high temperatures and the development of a microscopic oxygen diffusion model that fully explains the experimental results and can be used to guide future device developments. The device conductance in low resistance state (LRS) was constantly monitored at several elevated temperatures (above 300 °C), and an initial gradual conductivity drift followed by a sudden conductance drop were observed during retention failure. These observations were explained by a microscopic model based on oxygen vacancy diffusion, which quantitatively explains both the initial gradual conductance drift and the sudden conductance drop. Additionally, a non-monotonic conductance change, with an initial conductance increase followed by the gradual conductance decay over time, was observed experimentally and explained within the same model framework. Specifically, our analysis shows that important microscopic physical parameters such as the activation energy for oxygen vacancy migration can be directly calculated from the failure time versus temperature relationship. Results from the analytical model were further supported by detailed numerical multi-physics simulation, which confirms the filamentary nature of the conduction path in LRS and the importance of oxygen vacancy diffusion in device reliability. Finally, these high-temperature stability measurements also reveal the existence of multiple filaments in the same device.",
+        "email": "",
+        "conf": "Applied Physics Letters",
+        "coauthors": [
+            "Shinhyun Choi",
+            "Jihang Lee",
+            "Sungho Kim",
+            "Wei D. Lu"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5639,
+        "label": 113,
+        "author": "sungho kim",
+        "title": "Investigation of the source-side injection characteristic of a dopant-segregated Schottky barrier metal-oxide-semiconductor field-effect-transistor",
+        "organization": "Sejong University",
+        "abstract": "A unique characteristic of hot electron injection from the source side in a dopant-segregated Schottky barrier (DSSB) metal-oxide-semiconductor field-effect-transistor is investigated. A hot electron injection triggered by the sharp energy band bending near the source-side Schottky barrier is verified by the charge pumping method with numerical device simulations. With the aid of the charge pumping method, the lateral distribution of interface traps generated by injected hot electrons is analyzed. The results provide a guideline for the optimization of programming and erase operations in DSSB devices.",
+        "email": "",
+        "conf": "Applied Physics Letters",
+        "coauthors": [
+            "Sungho Kim",
+            "Sung-Jin Choi",
+            "Moongyu Jang",
+            "Yang-Kyu Choi"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5649,
+        "label": 113,
+        "author": "sungho kim",
+        "title": "Forming-Free One-Selector/One-Resistor Characteristics of Oxygen-Rich ITO Based Transparent Resistive Switching Memory via Defect Engineering Using the Reactive Sputtering Process",
+        "organization": "Sejong University",
+        "abstract": "In recent research of resistive random access memory (RRAM), solving the degradation phenomenon induced by both a high forming voltage to form the conducting filaments (CFs) and a high reset current is one of the main issues encountered. In this study, to overcome these problems, we propose forming-free bipolar resistive switching (BRS) behaviors by employing an ITO film with abundant oxygen vacancies, instead of conventional CF based RRAM requiring a forming process, and systematically investigate the feasibility of forming free BRS behaviors and a possible switching mechanism. Compared to conventional CF based RRAM devices, it is possible for the proposed devices to achieve stable BRS properties (i.e., narrow variations of operating current and voltage, and retention) without the forming process, under an operating current of sub-nano ampere. In addition, the proposed cell shows a stable hysteresis of current–voltage curves, which is well matched with the Poole-Frenkel emission, and currents at a low voltage are limited due to a formed barrier height like Schottky diode between the active layer and electrodes.",
+        "email": "",
+        "conf": "Journal of Nanoscience and Nanotechnology",
+        "coauthors": [
+            "Min Ju Yun",
+            "Kyeong Heon Kim",
+            "Sungho Kim",
+            "Hee-Dong Kim"
+        ],
+        "keywords": "Bipolar Resistive Switching; ITO Film with Abundant Oxygen Vacancies; Transparent Memory"
+    },
+    {
+        "id": 5633,
+        "label": 113,
+        "author": "sungho kim",
+        "title": "Interface-Trap Analysis by an Optically Assisted Charge-Pumping Technique in a Floating-Body Device",
+        "organization": "Sejong University",
+        "abstract": "An optically assisted charge-pumping (CP) technique is proposed for the characterization of interface traps in floating-body (FB) devices. Even without a body contact, majority carriers can be supplied into the FB by light illumination, which contributes to enabling the CP process. Under a strong inversion enabled by a back gate, the front gate triggers the CP process with a designed pulse waveform. Consequently, modulation of the majority-carrier concentration at the front interface is monitored by the change of the drain current. Thus, the interface-trap density is extracted from the monitored drain current and the developed analytical model",
+        "email": "",
+        "conf": "IEEE Electron Device Letters",
+        "coauthors": [
+            "Sungho Kim",
+            "Sung-Jin Choi",
+            "Yang-Kyu Choi"
+        ],
+        "keywords": "Charge pumping,floating-body (FB),interface trap,silicon-on-insulator MOS field-effect transistor (FET)"
+    },
+    {
+        "id": 5609,
+        "label": 113,
+        "author": "sungho kim",
+        "title": "Intrinsic threshold switching responses in AsTeSi thin film",
+        "organization": "Sejong University",
+        "abstract": "The intrinsic threshold switching (TS) responses of AsTeSi thin film are investigated for the potential application as a selector device in memory array. The non-equilibrium population of carriers in shallow traps by non-uniform electric field distribution along the film leads to TS behavior, which determines the switching parameters such as transition speed, threshold/hold voltages, and delay time. Additionally, pulse responses of TS shows the intrinsic nature of fast-switchable chalcogenide material; on/off transition at a specific voltage can occur within 5 ns, impulse response shows an unavoidable finite delay time of up to 20 ns. These switching parameters will be the dominant factor of the memory operation in high-density 1 memory-1 TS selector array.",
+        "email": "",
+        "conf": "Journal of Alloys and Compounds",
+        "coauthors": [
+            "Sungho Kim",
+            "Hee-Dong Kim",
+            "Sung-Jin Choi"
+        ],
+        "keywords": "Threshold switching,Chalcogenide,Selector"
+    },
+    {
+        "id": 5612,
+        "label": 113,
+        "author": "sungho kim",
+        "title": "Vertically Integrated Unidirectional Biristor",
+        "organization": "Sejong University",
+        "abstract": "The unidirectional read-out characteristics of a two-terminal biristor are investigated through numerical simulations and experiments. The base doping profile in the biristor, which is analogous to an open-base bipolar junction transistor (BJT), is a key parameter to control both the multiplication factor and the common-emitter gain of the open-base BJT. The simulated results indicate that the asymmetric base doping produces a difference in the latch-up voltage according to the reading direction. A unidirectional conduction path is thereby implemented in a crossbar-array configuration that consists of only the two-terminal biristor. The experimental results based on a vertical structure with local charge injection support that the leakage path through the reverse read direction can be blocked by the asymmetric base doping structure with the selection of proper bias conditions",
+        "email": "",
+        "conf": "IEEE Electron Device Letters",
+        "coauthors": [
+            "Dong-Il Moon",
+            "Sung-Jin Choi",
+            "Sungho Kim",
+            "Jae-Sub Oh",
+            "Young-Su Kim",
+            "Yang-Kyu Choi"
+        ],
+        "keywords": "Biristor,bistable resistor,bipolar junction transistor (BJT),crossbar,open-base breakdown,two-trminal,vertical field-effect transistor (FET)"
+    },
+    {
+        "id": 5617,
+        "label": 113,
+        "author": "sungho kim",
+        "title": "Numerical study of read scheme in one-selector one-resistor crossbar array",
+        "organization": "Sejong University",
+        "abstract": "A comprehensive numerical circuit analysis of read schemes of a one selector–one resistance change memory (1S1R) crossbar array is carried out. Three schemes—the ground, V/2, and V/3 schemes—are compared with each other in terms of sensing margin and power consumption. Without the aid of a complex analytical approach or SPICE-based simulation, a simple numerical iteration method is developed to simulate entire current flows and node voltages within a crossbar array. Understanding such phenomena is essential in successfully evaluating the electrical specifications of selectors for suppressing intrinsic drawbacks of crossbar arrays, such as sneaky current paths and series line resistance problems. This method provides a quantitative tool for the accurate analysis of crossbar arrays and provides guidelines for developing an optimal read scheme, array configuration, and selector device specifications.",
+        "email": "",
+        "conf": "Solid-State Electronics",
+        "coauthors": [
+            "Sungho Kim",
+            "Hee-Dong Kim",
+            "Sung-Jin Choi"
+        ],
+        "keywords": "RRAM,Selector,Crossbar array,Read scheme"
+    },
+    {
+        "id": 5625,
+        "label": 113,
+        "author": "sungho kim",
+        "title": "Mass fabrication of resistive random access crossbar arrays by step and flash imprint lithography",
+        "organization": "Sejong University",
+        "abstract": "Step and flash imprint lithography (SFIL) is a promising method recently used for next generation lithographic technology because it is a high-speed process that can be carried out at room temperature and low pressures. Improvements made to SFIL enable the replication of crossbar patterns with a high resolution and the development of suitable materials and techniques to achieve high resolution capability. In this study, SFIL is used to fabricate high-density random access crossbar arrays based on a NiO resistive switching system. The bottom and top electrodes are transferred onto silicon wafers perpendicular to each electrode using the inductively coupled plasma reactive ion etching (ICP-RIE) technique. Direct metal etching without a wet-based process minimizes damage to the electrode surface. The I–V curves of individual active cells (70 × 70 nm2) for crossbar arrays reveal the unipolar resistive switching (RS) behaviour of the fabricated device. A high off/on resistance ratio (>104) and reproducible resistance switching characteristics for each active cell were found in different fields and for different wafers. The experimental data indicate that high-density crossbar arrays can be well replicated and that the electrical performance of these arrays is reliable.",
+        "email": "",
+        "conf": "Nanotechnology",
+        "coauthors": [
+            "Dae Keun Yun",
+            "Ki-Don Kim",
+            "Sungho Kim",
+            "Ji-Hye Lee",
+            "Hyeong-Ho Park",
+            "Jun-Ho Jeong",
+            "Yang-Kyu Choi",
+            "Dae-Geun Choi"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5582,
+        "label": 113,
+        "author": "sungho kim",
+        "title": "Memristors for Energy-Efficient New Computing Paradigms",
+        "organization": "Sejong University",
+        "abstract": "In this Review, memristors are examined from the frameworks of both von Neumann and neuromorphic computing architectures. For the former, a new logic computational process based on the material implication is discussed. It consists of several memristors which play roles of combined logic processor and memory, called stateful logic circuit. In this circuit configuration, the logic process flows primarily along a time dimension, whereas in current von Neumann computers it occurs along a spatial dimension. In the stateful logic computation scheme, the energy required for the data transfer between the logic and memory chips can be saved. The non‐volatile memory in this circuit also saves the energy required for the data refresh. Neuromorphic (cognitive) computing refers to a computing paradigm that mimics the human brain. Currently, the neuromorphic or cognitive computing mainly relies on the software emulation of several brain functionalities, such as image and voice recognition utilizing the recently highlighted deep learning algorithm. However, the human brain typically consumes ≈10–20 Watts for selected “human‐like” tasks, which can be currently mimicked by a supercomputer with power consumption of several tens of kilo‐ to megawatts. Therefore, hardware implementation of such brain functionality must be eventually sought for power‐efficient computation. Several fundamental ideas for utilizing the memristors and their recent progresses in these regards are reviewed. Finally, material and processing issues are dealt with, which is followed by the conclusion and outlook of the field. These technical improvements will substantially decrease the energy consumption for futuristic information technology.",
+        "email": "",
+        "conf": "Advanced Electronic Materials",
+        "coauthors": [
+            "Doo Seok Jeong",
+            "Kyung Min Kim",
+            "Sungho Kim",
+            "Byung Joon Choi",
+            "Cheol Seong Hwang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5629,
+        "label": 113,
+        "author": "sungho kim",
+        "title": "Compact Two-State-Variable Second-Order Memristor Model",
+        "organization": "Sejong University",
+        "abstract": "A key requirement for using memristors in functional circuits is a predictive physical model to capture the resistive switching behavior, which shall be compact enough to be implemented using a circuit simulator. Although a number of memristor models have been developed, most of these models (i.e., first‐order memristor models) have utilized only a one‐state‐variable. However, such simplification is not adequate for accurate modeling because multiple mechanisms are involved in resistive switching. Here, a two‐state‐variable based second‐order memristor model is presented, which considers the axial drift of the charged vacancies in an applied electric field and the radial vacancy motion caused by the thermophoresis and diffusion. In particular, this model emulates the details of the intrinsic short‐term dynamics, such as decay and temporal heat summation, and therefore, it accurately predicts the resistive switching characteristics for both DC and AC input signals.",
+        "email": "",
+        "conf": "Small",
+        "coauthors": [
+            "Sungho Kim",
+            "Hee-Dong Kim",
+            "Sung-Jin Choi"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5634,
+        "label": 113,
+        "author": "sungho kim",
+        "title": "Comprehensive study of a detection mechanism and optimization strategies to improve sensitivity in a nanogap-embedded biotransistor",
+        "organization": "Sejong University",
+        "abstract": "A novel biomolecular detection method, charge pumping, is investigated comprehensively as a biosensing mechanism. Tunneling electrons located in channel interface are responsible for a charge pumping current (Icp)(Icp) in a biosensing operation. The maximum tunneling distance (dtunnel)(dtunnel) of the electrons is the dominant factor to determine the amount of generated IcpIcp, which is closely correlated with the sensitivity in a proposed nanogap-embedded biotransistor structure. Using an analytical model in which biomolecules are considered as a trap-included insulator, the effects of the key parameters that govern dtunneldtunnel, in this case the nanogap height, frequency of the applied pulse, and maximum pulse level, are analyzed.",
+        "email": "",
+        "conf": "Journal of Applied Physics",
+        "coauthors": [
+            "Sungho Kim",
+            "Jae-Hyuk Ahn",
+            "Tae Jung Park",
+            "Sang Yup Lee",
+            "Yang-Kyu Choi"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5637,
+        "label": 113,
+        "author": "sungho kim",
+        "title": "Optically Assisted Charge Pumping on Floating-Body FETs",
+        "organization": "Sejong University",
+        "abstract": "An optical charge-pumping (CP) method is proposed to extract the interface trap density in floating-body (FB) field-effect transistors (FETs). Optically generated majority carriers are removed from the FB by applying a burst of charge-pumping pulses to the gate. The change of the drain current after each CP pulse is used to determine the interface trap density. The advantage of this method lies in the possibility to characterize FB FETs without the unnecessary generation of interface traps by measurement bias. In addition, it can be applied to various types of FB devices directly without structural modification",
+        "email": "",
+        "conf": "IEEE Electron Device Letters",
+        "coauthors": [
+            "Sungho Kim",
+            "Sung-Jin Choi",
+            "Yang-Kyu Choi"
+        ],
+        "keywords": "Charge pumping (CP),floating-body (FB),interface trap,silicon-on-insulator (SOI) metal–oxide–semiconductor field-effect transistor (MOSFET)"
+    },
+    {
+        "id": 5640,
+        "label": 113,
+        "author": "sungho kim",
+        "title": "Refinement of Unified Random Access Memory",
+        "organization": "Sejong University",
+        "abstract": "This paper investigates how gate height (H g ), which refers to the size of a floating-body, affects the program efficiency and retention characteristics of one-transistor DRAM (1T-DRAM) and nonvolatile memory (NVM) for a FinFET SONOS device that has a partially depleted silicon-on-insulator (PDSOI) region as a charge storage node for a 1T-DRAM operation. A device with a lower H g yields enhanced program efficiency due to the higher impact ionization rate caused by the enlarged PDSOI region for both 1T-DRAM and NVM operations. The device with the lower H g shows slightly poor retention characteristics in the NVM unlike the 1T-DRAM",
+        "email": "",
+        "conf": "IEEE Transactions on Electron Devices",
+        "coauthors": [
+            "Seong-Wan Ryu",
+            "Jin-Woo Han",
+            "Chung-Jin Kim",
+            "Sung-Jin Choi",
+            "Sungho Kim",
+            "Jin-Soo Kim",
+            "Kwang Hee Kim",
+            "Jae-Sub Oh",
+            "Meyong-Ho Song",
+            "Gi-Sung Lee",
+            "Yun Chang Park",
+            "Jeoung Woo Kim",
+            "Yang-Kyu Choi"
+        ],
+        "keywords": "FinFET,gate height,nonvolatile memory,one-transistor DRAM (1T-DRAM),partially depleted silicon-on-insulator (PDSOI),SONOS,unified random access memory (URAM)"
+    },
+    {
+        "id": 5583,
+        "label": 113,
+        "author": "sungho kim",
+        "title": "Tuning Resistive Switching Characteristics of Tantalum Oxide Memristors through Si Doping",
+        "organization": "Sejong University",
+        "abstract": "An oxide memristor device changes its internal state according to the history of the applied voltage and current. The principle of resistive switching (RS) is based on ion transport (e.g., oxygen vacancy redistribution). To date, devices with bi-, triple-, or even quadruple-layered structures have been studied to achieve the desired switching behavior through device structure optimization. In contrast, the device performance can also be tuned through fundamental atomic-level design of the switching materials, which can directly affect the dynamic transport of ions and lead to optimized switching characteristics. Here, we show that doping tantalum oxide memristors with silicon atoms can facilitate oxygen vacancy formation and transport in the switching layer with adjustable ion hopping distance and drift velocity. The devices show larger dynamic ranges with easier access to the intermediate states while maintaining the extremely high cycling endurance (>1010 set and reset) and are well-suited for neuromorphic computing applications. As an example, we demonstrate different flavors of spike-timing-dependent plasticity in this memristor system. We further provide a characterization methodology to quantitatively estimate the effective hopping distance of the oxygen vacancies. The experimental results are confirmed through detailed ab initio calculations which reveal the roles of dopants and provide design methodology for further optimization of the RS behavior.",
+        "email": "",
+        "conf": "ACS Nano",
+        "coauthors": [
+            "Sungho Kim",
+            "Shinhyun Choi",
+            "Jihang Lee",
+            "Wei D. Lu"
+        ],
+        "keywords": "memristor, dopant, hopping"
+    },
+    {
+        "id": 5576,
+        "label": 113,
+        "author": "sungho kim",
+        "title": "Sensitivity of Threshold Voltage to Nanowire Width Variation in Junctionless Transistors",
+        "organization": "Sejong University",
+        "abstract": "We experimentally investigate the sensitivity of threshold voltage ( T ) to the variation of silicon nanowire (SiNW) width ( W si ) in gate-all-around junctionless transistors by comparison with inversion-mode transistors with the same geometric parameters. Due to the nature of junctionless transistors with a heavily doped SiNW channel, the V T fluctuation caused by the W si variation of junctionless transistors is significantly larger than that of inversion-mode transistors with a nearly intrinsic channel. This is because, in junctionless transistors, the channel doping concentration cannot be reduced in order to keep their inherent advantages. Therefore, our findings indicate that careful optimization or methods to mitigate the VT fluctuation related to the W si variation should be considered in junctionless transistors.",
+        "email": "",
+        "conf": "IEEE Electron Device Letters",
+        "coauthors": [
+            "Sung-Jin Choi",
+            "Dong-Il Moon",
+            "Sungho Kim",
+            "Juan P. Duarte",
+            "Yang-Kyu Choi"
+        ],
+        "keywords": "All-around gate (AAG),body thickness,Bosch process,bulk substrate,fluctuation,gated resistor,junctionless transistor,silicon nanowire (SiNW),threshold voltage,variation,width"
+    },
+    {
+        "id": 5631,
+        "label": 113,
+        "author": "sungho kim",
+        "title": "Resistive-memory embedded unified RAM (R-URAM)",
+        "organization": "Sejong University",
+        "abstract": "A disturb-free unified RAM (URAM) is demonstrated. It consists of a nonvolatile memory (NVM) and a capacitorless dynamic random access memory (DRAM) in a single-cell transistor. The NVM function is achieved by the resistive switching of an Al 2 O 3 film, and the capacitorless DRAM operation is attained by hole accumulation in a floating body. A property of resistive switching-an abrupt change of the bistable resistance state at a specific voltage-permits a high level of immunity to disturbances between NVM and capacitorless DRAM (1T-DRAM) operations compared to the previously proposed URAM whose NVM characteristics originate from charge trapping in the oxide/nitride/oxide layer.",
+        "email": "",
+        "conf": "IEEE Transactions on Electron Devices",
+        "coauthors": [
+            "Sungho Kim",
+            "Sung-Jin Choi",
+            "Yang-Kyu Choi"
+        ],
+        "keywords": "Capacitorless dynamic random access memory (1T-DRAM),disturb-free,dynamic random access memory (DRAM),nonvolatile memory (NVM),resistance random access memory (RRAM),resistive-memory embedded unified RAM (R-URAM),soft programming,unified RAM (URAM)"
+    },
+    {
+        "id": 5648,
+        "label": 113,
+        "author": "sungho kim",
+        "title": "A multi-directional wind based triboelectric generator with investigation of frequency effects",
+        "organization": "Sejong University",
+        "abstract": "Wind based triboelectric generators (W-TEGs) have been actively studied because of their clean, sustainable, and semi-permanent operation. However, the charge transfer characteristics of W-TEGs have not been clearly understood so far. In this work, a multi-directional W-TEG with a single stack structure, which stably collects wind energy blowing from all directions, was demonstrated. The proposed W-TEG is composed of two metal electrodes at the top and the bottom with an intercalated polymer membrane, which is driven to alternately flip and flop between both metal electrodes by an external wind. The overall shape is square, and the polymer membrane is supported by spacers at 4 corners. Structural parameters such as the thickness of the polymer membrane, the length or width of the square device, and the height of the spacers were optimized to investigate the relation between wind frequency and the amount of transferred charge. The analyzed data were supported by numerical simulations. By providing in-depth understanding this study can contribute to the development of W-TEGs.",
+        "email": "",
+        "conf": "Extreme Mechanics Letters ",
+        "coauthors": [
+            "Sang-Jae Park",
+            "Sungho Kim",
+            "Myeong-Lok Seol",
+            "Seung-Bae Jeon",
+            "II-Woong Tcho",
+            "Daewon Kim",
+            "Yang-Kyu Choi"
+        ],
+        "keywords": "Energy harvester,Triboelectric generator,Wind,Frequency,Transferred charge quantity"
+    },
+    {
+        "id": 5611,
+        "label": 113,
+        "author": "sungho kim",
+        "title": "Impact of Synaptic Device Variations on Pattern Recognition Accuracy in a Hardware Neural Network",
+        "organization": "Sejong University",
+        "abstract": "Neuromorphic systems (hardware neural networks) derive inspiration from biological neural systems and are expected to be a computing breakthrough beyond conventional von Neumann architecture. Interestingly, in neuromorphic systems, the processing and storing of information can be performed simultaneously by modulating the connection strength of a synaptic device (i.e., synaptic weight). Previously investigated synaptic devices can emulate the functionality of biological synapses successfully by utilizing various nano-electronic phenomena; however, the impact of intrinsic synaptic device variability on the system performance has not yet been studied. Here, we perform a device-to-system level simulation of different synaptic device variation parameters in a designed neuromorphic system that has the potential for unsupervised learning and pattern recognition. The effects of variations in parameters such as the weight modulation nonlinearity (NL), the minimum-maximum weight (G min and G max ), and the weight update margin (ΔG) on the pattern recognition accuracy are analyzed quantitatively. These simulation results can provide guidelines for the continued design and optimization of a synaptic device for realizing a functional large-scale neuromorphic computing system.",
+        "email": "",
+        "conf": "Scientific Reports",
+        "coauthors": [
+            "Sungho Kim",
+            "Meehyun Lim",
+            "Yeamin Kim",
+            "Hee-Dong Kim",
+            "Sung-Jin Choi"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5653,
+        "label": 113,
+        "author": "sungho kim",
+        "title": "Retention Mechanism in Double-Gate 1T Capacitorless DRAM by Using PiFET Structure",
+        "organization": "Sejong University",
+        "abstract": "Since a capacitorless 1 transistor (1T) DRAM idea was proposed [1] on a partially depleted SOI, various kinds of 1T DRAM concept have been proposed. To suppress the degradation of the retention caused by a trap-assisted tunneling and improve the control of shortchannel effects, a double-gate type 1T DRAM [2] formed on a fully depleted SOI was already studied. For the process compatibility with a bulk wafer, a new kind of 1T DRAM formed on a bulk wafer was also previously presented [3]. There were another previous works which figured",
+        "email": "",
+        "conf": "Silicon Nanoelectronics Workshop",
+        "coauthors": [
+            "Dong-Il Bae",
+            "Sungho Kim",
+            "Yang-Kyu Choi"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5597,
+        "label": 113,
+        "author": "sungho kim",
+        "title": "A transistor-based biosensor for the extraction of physical properties from biomolecules",
+        "organization": "Sejong University",
+        "abstract": "An analytical technique is proposed that uses an asymmetric double-gate field-effect transistor (FET) structure to characterize the electrical properties of biomolecules, including their permittivity and charge density. Using a simple measurement with the proposed FET structure, we are able to extract the physical properties (i.e., permittivity and charge density) of biomolecules. A reliable analytical tool for the characterization of biomolecules can be provided by the proposed FET structure without a complex measurement system. It is expected that the proposed method will be expanded into a universal analysis technique for the electrical evaluation of biomolecules in applications beyond biosensing.",
+        "email": "",
+        "conf": "Applied Physics Letters",
+        "coauthors": [
+            "Sungho Kim",
+            "David Baek",
+            "Jee-Yeon Kim",
+            "Sung-Jin Choi",
+            "Myeong-Lok Seol",
+            "Yang-Kyu Choi"
+        ],
+        "keywords": ""
+    }
+]

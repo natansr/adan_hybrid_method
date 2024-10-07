@@ -1,0 +1,952 @@
+[
+    {
+        "id": 2248,
+        "label": 49,
+        "author": "bing-zhao li",
+        "title": "Quantitative SNR analysis of QFM signals in the LPFT domain with Gaussian windows",
+        "organization": "Beijing Institute of Technology Beijing China",
+        "abstract": "The purpose of this paper is to present a quantitative SNR analysis of quadratic frequency modulated (QFM) signals. This analysis is located in the continuous-time local polynomial Fourier transform (LPFT) domain using a Gaussian window function based on the definition of 3 dB signal-to-noise ratio (SNR). First, the maximum value of the local polynomial periodogram (LPP), and the 3 dB bandwidth in the LPFT domain for a QFM signal is derived, respectively. Then, based on these results, the 3 dB SNR of a QFM signal with Gaussian window function is given in the LPFT domain with one novel idea highlighted: the relationship among standard SNR, parameters of QFM signals and Gaussian window function is clear, and the potential application is demonstrated in the parameter estimation of a QFM signal using the LPFT. Moreover, the 3 dB SNR in the LPFT domain is compared with that in the linear canonical transform (LCT) domain. The validity of theoretical derivations is confirmed via simulation results. It is shown that, in terms of SNR, QFM signals in the LPFT domain can achieve a significantly better performance than those in the LCT domain.",
+        "email": "li_bingzhao@bit.edu.cn",
+        "conf": "Sciece China. Information Sciences",
+        "coauthors": [
+            "Yan-Na Zhang",
+            "Bing-Zhao Li",
+            "Navdeep Goel",
+            "Salvador Gabarda"
+        ],
+        "keywords": "SNR analysis, quadratic frequency modulated signal, local polynomial Fourier transform, linear canonical transform, time frequency representations"
+    },
+    {
+        "id": 2293,
+        "label": 49,
+        "author": "bing-zhao li",
+        "title": "Spectral Analysis of Sampled Signals in the Linear Canonical Transform Domain",
+        "organization": "Beijing Institute of Technology Beijing China",
+        "abstract": "The spectral analysis of uniform or nonuniform sampling signal is one of the hot topics in digital signal processing community. Theories and applications of uniformly and nonuniformly sampled one-dimensional or two-dimensional signals in the traditional Fourier domain have been well studied. But so far, none of the research papers focusing on the spectral analysis of sampled signals in the linear canonical transform domain have been published. In this paper, we investigate the spectrum of sampled signals in the linear canonical transform domain. Firstly, based on the properties of the spectrum of uniformly sampled signals, the uniform sampling theorem of two dimensional signals has been derived. Secondly, the general spectral representation of periodic nonuniformly sampled one and two dimensional signals has been obtained. Thirdly, detailed analysis of periodic nonuniformly sampled chirp signals in the linear canonical transform domain has been performed",
+        "email": "",
+        "conf": "Mathematical Problems in Engineering",
+        "coauthors": [
+            "Bing-Zhao Li",
+            "Tian-Zhou Xu"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2269,
+        "label": 49,
+        "author": "bing-zhao li",
+        "title": "Image Representation by Harmonic Transforms with Parameters in SL(2R)",
+        "organization": "Beijing Institute of Technology Beijing China",
+        "abstract": "In this paper, a kind of invariant harmonic transforms with parameters in SL(2,R) are proposed, which include the polar linear canonical transform (PLCT) and the two-dimensional linear canonical transform series (2-D LCTS). The capabilities of the PLCT and the 2-D LCTS on image representation are analyzed. The experimental results show that the 2-D LCTS has much stronger capability on the image representation with respect to characters, and has better invariance of scale and noise than the other transforms. Moreover, due to the varieties of parameters, the performance of the image representation is going bad when parameters used in the reconstructing process are inconsistent with those in the decomposing process. In other words, the proposed transforms can be used for the protection of the image safety because they have free parameters than the traditional methods",
+        "email": "li_bingzhao@bit.edu.cn",
+        "conf": "Journal of Visual Communication and Image Representation",
+        "coauthors": [
+            "Min Qi",
+            "Bing-Zhao Li",
+            "Huafei Sun"
+        ],
+        "keywords": "Image representation,Orthogonal moments and transforms,2-D linear canonical transform,Polar harmonic linear canonical transform,2-D linear canonical transform series,Kernel,Transform coefficients,Parameter sensitivity"
+    },
+    {
+        "id": 2264,
+        "label": 49,
+        "author": "bing-zhao li",
+        "title": "Joint Time-Frequency Offset Detections Using the Linear Canonical Transform",
+        "organization": "Beijing Institute of Technology Beijing China",
+        "abstract": "In this paper, a method to detect joint time-frequency offset is proposed based on the linear canonical transform. According to the fundamental properties of this transform, a parametric correlation is introduced, which can be regarded as the generalization of methods based on correlation and other transforms. Besides, its maximum can be identified with a line structure in the time-frequency plane. With the advantage of parameters' freedom in the linear canonical transform, some lines containing the time delay and frequency offset in the measured signals can be intersected in the time-frequency plane. And the intersected point is exactly joint time-frequency offset needed to detect out. The theoretical and practical aspects of this detection method are discussed in the paper",
+        "email": "",
+        "conf": "International Conference on Signal Processing, Communications and Computing (ICSPCC). IEEE",
+        "coauthors": [
+            "Yan-Na Zhang",
+            "Bing-Zhao Li"
+        ],
+        "keywords": "Parametric correlation,time delay,frequency offset,linear canonical transform"
+    },
+    {
+        "id": 2270,
+        "label": 49,
+        "author": "bing-zhao li",
+        "title": "A New Method for Chebyshev Polynomial Interpolation Based on Cosine Transforms",
+        "organization": "Beijing Institute of Technology Beijing China",
+        "abstract": "Interpolation plays an important role in the areas of signal processing and applied mathematics. Among the various interpolation methods, those related to Chebyshev polynomial interpolation have received much interest recently. In this paper, we propose a new interpolation method using a type I discrete cosine transform (type I DCT) and the nonuniform roots of the second type of Chebyshev polynomials. In this method, the interpolation coefficients are derived using the type I DCT of the Chebyshev nonuniform sampling points. Simulations show the correctness of the proposed method, and a comparison of the proposed method with existing methods is also discussed in detail.",
+        "email": "li_bingzhao@bit.edu.cn",
+        "conf": "Circuits Systems and Signal Processing",
+        "coauthors": [
+            "Bing-Zhao Li",
+            "Yan-Li Zhang",
+            "Xian Wang",
+            "Qi-Yuan Cheng"
+        ],
+        "keywords": "Chebyshev polynomial,Chebyshev nonuniform sampling,Polynomial interpolation,Coefficients,Discrete cosine transform,Error analysis"
+    },
+    {
+        "id": 2283,
+        "label": 49,
+        "author": "bing-zhao li",
+        "title": "Instantaneous frequency estimation based on the linear canonical transform",
+        "organization": "Beijing Institute of Technology Beijing China",
+        "abstract": "The relationship between the linear canonical transform power spectrum and signal's phase differentiation operation has been investigated. Based on this relationship, a novel method for solving the instantaneous frequency estimation problem is proposed. The advantage of this method is demonstrated by two examples, namely, signals with and without noise. The proposed method is non-iterative, and it does not need projection or peak-searching.",
+        "email": "li_bingzhao@bit.edu.cn",
+        "conf": "Journal of the Franklin Institute",
+        "coauthors": [
+            "Xiao-Na Xu",
+            "Bing-Zhao Li",
+            "Xiu-Ling Ma"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2277,
+        "label": 49,
+        "author": "bing-zhao li",
+        "title": "A two-channel perfect reconstruction filter bank associated with the linear canonical transform",
+        "organization": "Beijing Institute of Technology Beijing China",
+        "abstract": "Sampling rate conversion is one of the most important concepts in modern signal processing community; it can be realised by interpolation and decimation operations. Based on the scaling operation and following the idea of the classical results, this paper investigate the sampling rate conversion associate with the discrete time linear canonical transform (DTLCT). First, we derive a new structure of sampling rate conversion for any rational or irrational factors in the linear canonical transform domain, then a two-channel nonuniform perfect reconstruction filter bank in the linear canonical transform domain is proposed based on the sampling rate conversion; the simulations are also performed to verify the derived results",
+        "email": "li_bingzhao@bit.edu.cn",
+        "conf": "International Journal of Electronics Letters",
+        "coauthors": [
+            "Shuai-Shuai Fan",
+            "Bing-Zhao Li",
+            "Tian-Zhou Xu"
+        ],
+        "keywords": "linear canonical transform (LCT), scaling operation, sampling rate conversion, perfect reconstruction (PR), two-channel filer bank"
+    },
+    {
+        "id": 2263,
+        "label": 49,
+        "author": "bing-zhao li",
+        "title": "Optimised blind image watermarking method based on firefly algorithm in DWT-QR transform domain",
+        "organization": "Beijing Institute of Technology Beijing China",
+        "abstract": "Firefly algorithm (FA) is one of the newly developed nature inspired optimisation algorithm, inspired by the flashing behaviour of fireflies that a firefly tends to be attracted towards other fireflies with higher brightness. Thus FA has two advantages: local attractions and automatic regrouping. Based on these good properties, a novel image watermarking method based on FA in discrete wavelet transform (DWT)-QR transform domain is proposed in this study. Structural similarity index measure and bit error rate are used in the objective function to trade-off invisibility and robustness. The experiment results show that the proposed image watermarking method not only meet the need of invisibility, but also has better or comparable robustness as compared with some related methods.",
+        "email": "",
+        "conf": "IET Image Processing",
+        "coauthors": [
+            "Guo Yong",
+            "Bing-Zhao Li",
+            "Navdeep Goel"
+        ],
+        "keywords": "optimisation; discrete wavelet transforms; image watermarking"
+    },
+    {
+        "id": 2296,
+        "label": 49,
+        "author": "bing-zhao li",
+        "title": "Using the multi-living agent concept to investigate complex information systems",
+        "organization": "Beijing Institute of Technology Beijing China",
+        "abstract": "In this paper, we propose the multi-living agent (MLA) concept based on the of analysis the characteristics of complex information systems, especially those systems that require multi-functional operations under strict restraint strong countermeasures (SRSC) environment. First, we investigate the representation of the livelihood of the system under the SRSC conditions, and obtain the basic dynamical presentation of the MLA from the profile of the system’s function. Next, we propose the concept of the living self-organization based on the self-organization profile of the system, and derive a Two-Set model of the living self-organization mechanism. Further, based on the above results, we present a basic construction model of MLA-based information systems in the field of information security and countermeasures. A three-level negotiation-coordination mechanism is also derived. Finally, we present two practical examples to show how to use the MLA concept to analyze and study real complex information systems. In our opinion, the proposal of the MLA will bridge the gap between the research of the application and the basic application level of science. It provides the principle research methods and the supporting theories for the construction and analysis of complex information systems in the information security and countermeasures field.",
+        "email": "",
+        "conf": "Science in China Series F Information Sciences",
+        "coauthors": [
+            "Yue Wang",
+            "Ran Tao",
+            "Bing-Zhao Li"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2297,
+        "label": 49,
+        "author": "bing-zhao li",
+        "title": "On Sampling of Band-Limited Signals Associated With the Linear Canonical Transform",
+        "organization": "Beijing Institute of Technology Beijing China",
+        "abstract": "Sampling is one of the fundamental topics in the signal processing community. Theorems proposed under this topic form the bridge between the continuous-time signals and discrete-time signals. Several sampling theorems, which aid in the reconstruction of signals in the linear canonical transform (LCT) domain, have been proposed in the literature. However, two main practical issues associated with the sampling of the LCT still remain unresolved. The first one relates to the reconstruction of the original signal from nonuniform samples and the other issue relates to the fact that only a finite number of samples are available practically. Focusing on these issues, this paper seeks to address the above from the LCT point of view. First, we extend several previously developed theorems for signals band-limited in the Fourier domain to signals band-limited in the LCT domain, followed by the derivation of the reconstruction formulas for finite uniform or recurrent nonuniform sampling points associated with the LCT. Simulation results and the potential applications of the theorem are also proposed.",
+        "email": "",
+        "conf": "IEEE Transactions on Signal Processing",
+        "coauthors": [
+            "Ran Tao",
+            "Bing-Zhao Li",
+            "Yue Wang",
+            "George Kwamina Aggrey"
+        ],
+        "keywords": "Chirp-periodicity,linear canonical transform,nonuniform sampling,signal reconstruction,uniform sampling"
+    },
+    {
+        "id": 2246,
+        "label": 49,
+        "author": "bing-zhao li",
+        "title": "Quaternion Windowed Linear Canonical Transform of Two-Dimensional Quaternionic Signals",
+        "organization": "Beijing Institute of Technology Beijing China",
+        "abstract": "We investigate the 2D quaternion windowed linear canonical transform(QWLCT) in this paper. Firstly, we propose the new definition of the QWLCT, and then several important properties of newly defined QWLCT, such as bounded, shift, modulation, orthogonality relation, are derived based on the spectral representation of the quaternionic linear canonical transform(QLCT). Finally, by the Heisenberg uncertainty principle for the QLCT and the orthogonality relation property for the QWLCT, the Heisenberg uncertainty principle for the QWLCT is established.",
+        "email": "",
+        "conf": "arXiv preprint arvix",
+        "coauthors": [
+            "Wenbiao Gao",
+            "Bing-Zhao Li"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2247,
+        "label": 49,
+        "author": "bing-zhao li",
+        "title": "Digital computation of linear canonical transform for local spectra with flexible resolution ability",
+        "organization": "Beijing Institute of Technology Beijing China",
+        "abstract": "Dear editor, The linear canonical transform (LCT) is a threeparameter linear integral transform [1]. It has many applications in optical systems, filter design, image watermarking, and other fields [2, 3]. Moreover, the discretization and fastness of the LCT is one of the most important issues in practical applications. Since the continuous LCT was introduced, there has been considerable work on the definition and fast implementation of the LCT [3–6]. These existing discrete LCT (DLCT) algorithms have advantages of high computation speed",
+        "email": "li_bingzhao@bit.edu.cn",
+        "conf": "Sciece China. Information Sciences",
+        "coauthors": [
+            "Yannan Sun",
+            "Bing-Zhao Li"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2251,
+        "label": 49,
+        "author": "bing-zhao li",
+        "title": "ISAR imaging of target with complex motion associated with the fractional Fourier transform",
+        "organization": "Beijing Institute of Technology Beijing China",
+        "abstract": "High-resolution inverse synthetic aperture radar (ISAR) imaging based on parameter estimation of polynomial phase signal is a quite significant research hotspot, in which the azimuth echo can be modeled as multi-component quadratic frequency modulation (QFM) signal after preprocessing, which leads to the time-varying Doppler frequency. In this paper, an effective parameter estimation method called the product form of symmetric correlation function based on the fractional Fourier transform (PFrSCF) is proposed. In proposed method, a novel symmetric correlation function is used to reduce phase order of QFM signal firstly. Then, the PFrSCF can estimate two parameters of QFM signal simultaneously by the fractional Fourier transform and suppress cross term by the product in fractional Fourier transform domain. Compared with other methods, the PFrSCF is capable of suppressing cross term effectively and ensuring the good accuracy of parameters. Moreover, the PFrSCF is robust in noisy environment. Finally, associated with range-instantaneous-Doppler imaging technology, a novel ISAR imaging algorithm is presented based on PFrSCF method. The performances of PFrSCF method and the corresponding ISAR imaging algorithm of target are verified by simulated and real data.",
+        "email": "",
+        "conf": "Digital Signal Processing",
+        "coauthors": [
+            "Hong-Cai Xin",
+            "Xia Bai",
+            "Yu-E Song",
+            "Bing Zhao Li",
+            "Ran Tao"
+        ],
+        "keywords": "Inverse synthetic aperture radar (ISAR),Parameter estimation,Quadratic frequency-modulated (QFM) signal,Fractional Fourier transform (FrFT)"
+    },
+    {
+        "id": 2294,
+        "label": 49,
+        "author": "bing-zhao li",
+        "title": "Chirp Watermark Detection Based on Fractional Auto-correlation Statistic",
+        "organization": "Beijing Institute of Technology Beijing China",
+        "abstract": "To overcome the shortage of the existing detector algorithm when the focus order of Chirp watermark near ±1, a novel blind detection method based on fractional auto-correlation statistic has been proposed. The theory and methods of implementation have been discussed. Simulation results show that the algorithm is better robust to common attack",
+        "email": "",
+        "conf": "Lecture Notes in Electrical Engineering",
+        "coauthors": [
+            "Yi Xin",
+            "Bing-Zhao Li",
+            "Wenwang Zhao"
+        ],
+        "keywords": "Fractional Fourier transform,digital watermarking,Chirp signal,fractional auto-correlation "
+    },
+    {
+        "id": 2289,
+        "label": 49,
+        "author": "bing-zhao li",
+        "title": "Wigner-Ville Distribution Associated with the Linear Canonical Transform",
+        "organization": "Beijing Institute of Technology Beijing China",
+        "abstract": "The linear canonical transform is shown to be one of the most powerful tools for nonstationary signal processing. Based on the properties of the linear canonical transform and the classical Wigner-Ville transform, this paper investigates the Wigner-Ville distribution in the linear canonical transform domain. Firstly, unlike the classical Wigner-Ville transform, a new definition of Wigner-Ville distribution associated with the linear canonical transform is given. Then, the main properties of the newly defined Wigner-Ville transform are investigated in detail. Finally, the applications of the newly defined Wigner-Ville transform in the linear-frequency-modulated signal detection are proposed, and the simulation results are also given to verify the derived theory",
+        "email": "li_bingzhao@bit.edu.cn",
+        "conf": "Journal of Applied Mathematics",
+        "coauthors": [
+            "Rui-Feng Bai,Bing-Zhao Li ,Qi-Yuan Cheng"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2267,
+        "label": 49,
+        "author": "bing-zhao li",
+        "title": "Convolution and correlation theorems for the two-dimensional linear canonical transform and its applications",
+        "organization": "Beijing Institute of Technology Beijing China",
+        "abstract": "Convolution and correlation operations are very important in signal processing community, as well as in sampling, filter design and applications. In this study, the authors derive the convolution and correlation theorems for the two-dimensional linear canonical transform (2D LCT). Moreover, they utilise the convolution theorem to investigate the sampling theorem for the band limited signal in the 2D LCT domain. They also discuss multiplicative filter for the band limited signal in the 2D LCT domain which has much lower computational load than the method in the 2D LCT domain.",
+        "email": "",
+        "conf": "IET Signal Processing",
+        "coauthors": [
+            "Qiang Feng",
+            "Bing-Zhao Li"
+        ],
+        "keywords": "convolution; correlation methods; signal sampling; transforms; filtering theory"
+    },
+    {
+        "id": 2285,
+        "label": 49,
+        "author": "bing-zhao li",
+        "title": "Discrete Linear Canonical Transform of Finite Chirps",
+        "organization": "Beijing Institute of Technology Beijing China",
+        "abstract": "Linear canonical transformation (LCT) as an Fourier transform and fractional fourier transform's generalization, is an effective tool for non-stationary signals and has more flexibility, chirp signal can be looked as a typical nonstationary signal. In this letter, we derived closed-form expressions for the DLCT of a finite chirp. It is shown that the DLCT of a finite chirp is zeros at some points, and the number of zeros is related to chirp rate a , the parameter of DLCT α%, and the root of unity N . And if we choose proper DLCT parameters, the finite chirp is again a finite chirp or the original chirp except for a coefficient.",
+        "email": "li_bingzhao@bit.edu.cn",
+        "conf": "Procedia Engineering",
+        "coauthors": [
+            "Qing-Yun Lee",
+            "Bing-Zhao Li",
+            "Qi-Yuan Cheng"
+        ],
+        "keywords": "Discrete linear canonical transform (DLCT),Finite chirp,Gauss sum,Jacobi symbol"
+    },
+    {
+        "id": 2279,
+        "label": 49,
+        "author": "bing-zhao li",
+        "title": "The spectrogram associated with the linear canonical transform",
+        "organization": "Beijing Institute of Technology Beijing China",
+        "abstract": "Linear canonical transform is a generalized form of Fourier Transform, and it has big effect in modern applied mathematics and signal processing community, especially in detection and parameter estimation of non-stationary signal. We investigate the spectrogram associated with the linear canonical transform in this paper, a novel definition of spectrogram is proposed and the basic properties are deduced accordingly. Finally, the simulations are also given to test the conclusions which we have obtained",
+        "email": "",
+        "conf": "International Conference on Mechatronic Sciences, Electric Engineering and Computer (MEC)",
+        "coauthors": [
+            "Zhao Zhi-Chun",
+            "Bing-Zhao Li"
+        ],
+        "keywords": "linear canonical transform,spectrogram,linear frequency modulation signal(LFM),parameter estimation"
+    },
+    {
+        "id": 2300,
+        "label": 49,
+        "author": "bing-zhao li",
+        "title": "Spectral Analysis and Reconstruction for Periodic Nonuniformly Sampled Signals in Fractional Fourier Domain",
+        "organization": "Beijing Institute of Technology Beijing China",
+        "abstract": "Nonuniform sampling occurs in many applications due to imperfect timebase or random events. Periodic nonuniform sampling is a special type of nonuniform sampling. The properties and applications of periodic nonuniform sampling signals in traditional Fourier domain have been extensively studied, but so far none of the research papers covering the spectral analysis and reconstruction of periodic nonuniformly sampled signals in fractional Fourier domain have been published. This correspondence is to explore the spectral properties of periodic nonuniformly sampled signals associated with the fractional Fourier transform. First, based on the uniform fractional Fourier transform kernel, the general spectral representation of periodic nonuniformly sampled signals has been derived. Second, detailed analysis of periodic nonuniformly sampled chirp signals in the fractional Fourier domain have been performed. The results can be used to estimate the chirp rate and the sampling offsets. Finally, a more simple relationship between the discrete fractional spectrum of periodic nonuniformly sampled signals and the continuous spectrum has been obtained. Based on this relationship, the original continuous spectrum can be reconstructed from periodic nonuniformly sampled signals in fractional Fourier domain. In addition, the simulations are carried out to verify the correctness of the results.",
+        "email": "",
+        "conf": "IEEE Transactions on Signal Processing",
+        "coauthors": [
+            "Ran Tao",
+            "Bing-Zhao Li",
+            "Yue Wang"
+        ],
+        "keywords": "Chirp signal,fractional Fourier transform (FrFT),nonstationary signal,periodic nonuniform sampling,spectral analysis"
+    },
+    {
+        "id": 2266,
+        "label": 49,
+        "author": "bing-zhao li",
+        "title": "Blind image watermarking method based on linear canonical wavelet transform and QR decomposition",
+        "organization": "Beijing Institute of Technology Beijing China",
+        "abstract": "Inspired by the fact that wavelet transform can be written as a classical convolution form, a new linear canonical wavelet transform (LCWT) based on generalised convolution theorem associated with linear canonical transform (LCT) is proposed recently. The LCWT not only inherits the advantages of multi-resolution analysis of wavelet transform (WT), but also has the capability of image representations in the LCT domain. Based on these good properties, the authors propose a novel image watermarking method using LCWT and QR decomposition. Compared with the existing image watermarking methods based on discrete WT or QR, this novel image watermarking method provides more flexibility in the image watermarking. Peak signal-to-noise ratio, normalised cross and structural similarity index measure are used to verify the advantages of the proposed method in simulation experiments. The experiment results show that the proposed method is not only feasible, but also robust to some geometry attacks and image processing attacks.",
+        "email": "",
+        "conf": "IET Image Processing",
+        "coauthors": [
+            "Bing-Zhao Li",
+            "Guo Yong"
+        ],
+        "keywords": "image watermarking; wavelet transforms"
+    },
+    {
+        "id": 2268,
+        "label": 49,
+        "author": "bing-zhao li",
+        "title": "The wigner-ville distribution in the linear canonical transform domain",
+        "organization": "Beijing Institute of Technology Beijing China",
+        "abstract": "The linear canonical transform (LCT) is a powerful tool for signal processing and optics. It is, therefore, worthwhile and interesting to consider the Wigner-Ville distribution (WVD) in the LCT domain. In this paper, we propose a new definition for the WVD associated with the instantaneous autocorrelation function in the LCT domain, which we name as WL, and also obtain some properties of WL. As a further generalization of WL, a new definition for the WVD associated with the offset linear canonical transform (OLCT) is given. Finally, we have achieved some applications of the new WVD in the LCT and OLCT domain to verify the derived theory",
+        "email": "li_bingzhao@bit.edu.cn",
+        "conf": "International Journal of Applied Mathematics",
+        "coauthors": [
+            "Didar Urynbassarova",
+            "Bing-Zhao Li",
+            "R. Tao"
+        ],
+        "keywords": "Offset linear canonical transform, linear canonical transform, Wigner-Ville distribution"
+    },
+    {
+        "id": 2292,
+        "label": 49,
+        "author": "bing-zhao li",
+        "title": "Wigner distribution moments associated with the linear canonical transform",
+        "organization": "Beijing Institute of Technology Beijing China",
+        "abstract": "The moments associated with the linear canonical transform is investigated. First, the relationship between the Wigner distribution and the linear canonical transform is reviewed, then the moments associated with the linear canonical transform is investigated in detail, and a similar relation is obtained for the two-dimensional cases. The simulation experiments are also proposed to verify the derived results.",
+        "email": "li_bingzhao@bit.edu.cn",
+        "conf": "International Journal of Electronics",
+        "coauthors": [
+            "Jun-Ping Yan",
+            "Bing-Zhao Li",
+            "Yi-Hong Chen",
+            "Qi-Yuan Cheng"
+        ],
+        "keywords": "linear canonical transform series, Wigner distribution, moments"
+    },
+    {
+        "id": 2249,
+        "label": 49,
+        "author": "bing-zhao li",
+        "title": "A novel median filtering forensics based on principal component analysis network",
+        "organization": "Beijing Institute of Technology Beijing China",
+        "abstract": "As an important issue of forensic analysis, median filtering detection has drawn much attention in the decade. While several median filtering forensic methods have been proposed, they may face trouble when detecting median filtering on low-resolution or compressed images. In addition, the existing median filtering forensic methods mainly depend on the manually selected features, which makes these methods may not adapt to varieties of data. To solve these problems, convolution neural networks have been applied to learn features from the training database automatically. But the CNN-based method trains slowly and the parameters of it is hard to select. Thus, we proposed a PCANet-based method. And we test our trained model on several databases. The simulation shows that our proposed method achieves better performance, and trains much faster than CNN-based method.",
+        "email": "",
+        "conf": "International Journal of Electronic Security and Digital Forensics",
+        "coauthors": [
+            "Xian Wang",
+            "Bing-Zhao Li"
+        ],
+        "keywords": "median filtering, blind forensics, principal component analysis, neural network"
+    },
+    {
+        "id": 2252,
+        "label": 49,
+        "author": "bing-zhao li",
+        "title": "Segmented fast linear canonical transform",
+        "organization": "Beijing Institute of Technology Beijing China",
+        "abstract": "Investigation of the discrete and fast linear canonical transforms is becoming one of the hottest research topics in modern signal processing and optics. How to handle and obtain the linear canonical frequency spectrum of very large input data based on equipment with limited memory space is one of the key problems. To focus on this problem, a new kind of segmented fast linear canonical transform has been proposed in this paper. First, the large data is segmented into short data. Thereby, the proposed algorithms can calculate very large input data and simultaneously keep the ideal frequency resolution. Second, the complexity of the derived algorithms has been analyzed in detail for different kinds of signals. Their performance with regard to resolution and precision are compared with the existing fast linear canonical transforms. Finally, experimental results are presented to verify the correctness of the results obtained.",
+        "email": "",
+        "conf": "Journal of the Optical Society of America A",
+        "coauthors": [
+            "Yan-Nan Sun",
+            "Bing-Zhao Li"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2282,
+        "label": 49,
+        "author": "bing-zhao li",
+        "title": "Speech recovery based on the linear canonical transform",
+        "organization": "Beijing Institute of Technology Beijing China",
+        "abstract": "As is well known, speech signal processing is one of the hottest signal processing directions. There are exist lots of speech signal models, such as speech sinusoidal model, straight speech model, AM–FM model, gaussian mixture model and so on. This paper investigates AM–FM speech model by the linear canonical transform (LCT). The LCT can be considered as a generalization of traditional Fourier transform and fractional Fourier transform, and proved to be one of the powerful tools for non-stationary signal processing. This has opened up the possibility of a new range of potentially promising and useful applications based on the LCT. Firstly, two novel recovery methods of speech based on the AM–FM model are presented in this paper: one depends on the LCT domain filtering; the other one is based on the chirp signal parameter estimation to restore the speech signal in LCT domain. Then, experiments results are presented to verify the performance of the proposed methods. Finally, the summarization and the conclusion of the paper is given.",
+        "email": "li_bingzhao@bit.edu.cn",
+        "conf": "Speech Communication",
+        "coauthors": [
+            "Wei Qiu",
+            "Bing-Zhao Li",
+            "Xue-Wen Li"
+        ],
+        "keywords": "Linear canonical transform,Chirp signal,The AM–FM model,Speech,Signal reconstruction"
+    },
+    {
+        "id": 2288,
+        "label": 49,
+        "author": "bing-zhao li",
+        "title": "Sampling in the Linear Canonical Transform Domain",
+        "organization": "Beijing Institute of Technology Beijing China",
+        "abstract": "This paper investigates the interpolation formulae and the sampling theorem for bandpass signals in the linear canonical transform (LCT) domain. Firstly, one of the important relationships between the bandpass signals in the Fourier domain and the bandpass signals in the LCT domain is derived. Secondly, two interpolation formulae from uniformly sampled points at half of the sampling rate associated with the bandpass signals and their generalized Hilbert transform or the derivatives in the LCT domain are obtained. Thirdly, the interpolation formulae from nonuniform samples are investigated. The simulation results are also proposed to verify the correctness of the derived results",
+        "email": "",
+        "conf": "Mathematical Problems in Engineering",
+        "coauthors": [
+            "Bing-Zhao Li",
+            "Tian-Zhou Xu"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2254,
+        "label": 49,
+        "author": "bing-zhao li",
+        "title": "Generalized Uncertainty Principles for the Two-Sided Quaternion Linear Canonical Transform",
+        "organization": "Beijing Institute of Technology Beijing China",
+        "abstract": "An uncertainty principle (UP), which offers information about a function and its Fourier transform (FT) in the time-frequency plane, is particularly powerful in the field of signal processing. In this paper, based on the fundamental relationship between the quaternion linear canonical transform (QLCT) and quaternion Fourier transform (QFT), we propose two different UPs related to the two-sided QLCT. Different from existing results in the spatial and frequency domains, new derived consequences can be regarded as a general form of the UP of the QLCT, which present lower bounds for the product of spreads of a quaternion-valued function in two different QLCT domains.",
+        "email": "",
+        "conf": "IEEE International Conference on Acoustics, Speech and Signal Processing",
+        "coauthors": [
+            "Yan-Na Zhang",
+            "Bing-Zhao Li"
+        ],
+        "keywords": "Quaternions,Frequency-domain analysis,Fourier transforms,Signal processing,Algebra,Uncertainty"
+    },
+    {
+        "id": 2280,
+        "label": 49,
+        "author": "bing-zhao li",
+        "title": "Research Progress of The Algebraic and Geometric Signal Processing",
+        "organization": "Beijing Institute of Technology Beijing China",
+        "abstract": "The investigation of novel signal processing tools is one of the hottest research topics in modern signal processing community. Among them, the algebraic and geometric signal processing methods are shown to be one of the most powerful tools for the representation of the classical signal processing method. In this paper, we provide an overview of recent contributions pertaining to the algebraic and geometric signal processing. Specifically, the paper focuses on the mathematical structures behind the signal processing by emphasizing the algebraic and geometric structure of the signal processing. The two major topics were discussed. First, the classical signal processing concepts are related to the algebraic structures, and the recent results associated with the algebraic signal processing theory are introduced. Second, the recent progress of the geometric signal and information processing representations associated with the geometric structure are discussed. From these discussions, it is concluded that the research on the algebraic and geometric structure of signal processing can help the researchers to understand the signal processing tools deeply, and also help us to find novel signal processing methods in signal processing community. Its practical applications are expected to grow significantly in years to come, given that the algebraic and geometric structure of signal processing offer many advantages over the traditional signal processing.",
+        "email": "",
+        "conf": "Defence Technology",
+        "coauthors": [
+            "Ran Tao",
+            "Bing-Zhao Li",
+            "Hua-fei Sun"
+        ],
+        "keywords": "Algebraic signal processing,Geometric signal processing,Fractional signal processing"
+    },
+    {
+        "id": 2303,
+        "label": 49,
+        "author": "bing-zhao li",
+        "title": "Hilbert transform associated with the linear canonical transform",
+        "organization": "Beijing Institute of Technology Beijing China",
+        "abstract": "Hilbert transform (HT) is an important signal processing tool that is used in many applications such as modulations, edge detection and filter design in signal processing. An analytical signal and its original signal are connected by HT. At the same time, the linear canonical transform (LCT) is the generalized form of Fourier transform and fractional Fourier transform, it can be considered as a general linear transform. The definition and properties of HT in LCT domain were proposed. Some important properties of this kind of HT were given, and it is shown that the newly defined HT has some similar properties with the HT in the traditional Fourier transform domain.",
+        "email": "",
+        "conf": "Acta Armamentarii",
+        "coauthors": [
+            "Bing-Zhao Li",
+            "R. Tao",
+            "Yunchu Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2295,
+        "label": 49,
+        "author": "bing-zhao li",
+        "title": "The Poisson sum formulae associated with the fractional Fourier transform",
+        "organization": "Beijing Institute of Technology Beijing China",
+        "abstract": "The theorem of sampling formulae has been deduced for band-limited or time-limited signals in the fractional Fourier domain by different authors. Even though the properties and applications of these formulae have been studied extensively in the literature, none of the research papers throw light on the Poisson sum formula and non-band-limited signals associated with the fractional Fourier transform (FrFT). This paper investigates the generalized pattern of Poisson sum formula from the FrFT point of view and derived several novel sum formulae associated with the FrFT. Firstly, the generalized Poisson sum formula is obtained based on the relationship of the FrFT and the Fourier transform; then some new results associated with this novel sum formula have been derived; the potential applications of these new results in estimating the bandwidth and the fractional spectrum shape of a signal in the fractional Fourier domain are also proposed. In addition, the results can be seen as the generalization of the classical results in the Fourier domain.",
+        "email": "",
+        "conf": "Signal Processing",
+        "coauthors": [
+            "Bing-Zhao Li",
+            "Ran Tao",
+            "Tian-Zhou Xu",
+            "Yue Wang"
+        ],
+        "keywords": "Fractional Fourier transform,Poisson sum formula,Band-limited signal,Fractional Fourier series"
+    },
+    {
+        "id": 2271,
+        "label": 49,
+        "author": "bing-zhao li",
+        "title": "Sampling analysis in the complex reproducing kernel Hilbert space",
+        "organization": "Beijing Institute of Technology Beijing China",
+        "abstract": "We consider and analyse sampling theories in the reproducing kernel Hilbert space (RKHS) in this paper. The reconstruction of a function in an RKHS from a given set of sampling points and the reproducing kernel of the RKHS is discussed. Firstly, we analyse and give the optimal approximation of any function belonging to the RKHS in detail. Then, a necessary and sufficient condition to perfectly reconstruct the function in the corresponding RKHS of complex-valued functions is investigated. Based on the derived results, another proof of the sampling theorem in the linear canonical transform (LCT) domain is given. Finally, the optimal approximation of any band-limited function in the LCT domain from infinite sampling points is also analysed and discussed.",
+        "email": "li_bingzhao@bit.edu.cn",
+        "conf": "European Journal of Applied Mathematics",
+        "coauthors": [
+            "Bing-Zhao Li",
+            "QING-HUA JI"
+        ],
+        "keywords": "reproducing kernel Hilbert space (RKHS); sampling theorem; linear canonical transform (LCT)"
+    },
+    {
+        "id": 2256,
+        "label": 49,
+        "author": "bing-zhao li",
+        "title": "Novel Uncertainty Principles for Two-Sided Quaternion Linear Canonical Transform",
+        "organization": "Beijing Institute of Technology Beijing China",
+        "abstract": "The uncertainty principle, which offers information about a function and its Fourier transform in the time-frequency plane, is particularly powerful in mathematics, physics and signal processing community. In this paper, based on the fundamental relationship between the quaternion linear canonical transform (QLCT) and quaternion Fourier transform (QFT), we propose two different uncertainty principles for the two-sided QLCT. It is shown that the lower bounds can be obtained on the product of spreads of a quaternion-valued function and its two-sided QLCT from newly derived results. Furthermore, an example is given to verify the consequences. Finally, some possible applications are provided to demonstrate the usefulness of new uncertainty relations in the QLCT domain.",
+        "email": "",
+        "conf": "Advances in Applied Clifford Algebras",
+        "coauthors": [
+            "Yan-Na Zhang",
+            "Bing-Zhao Li"
+        ],
+        "keywords": "Uncertainty principle, Quaternion linear canonical transform,Quaternion Fourier transform"
+    },
+    {
+        "id": 2284,
+        "label": 49,
+        "author": "bing-zhao li",
+        "title": "A New Discretization Algorithm of Linear Canonical Transform",
+        "organization": "Beijing Institute of Technology Beijing China",
+        "abstract": "In order to improve the computing accuracy of Linear Canonical Transform (LCT), a new algorithm is proposed in this paper to compute the LCT of a function by using the eigenfunctions of the LCT. The proposed algorithm is easily understanding and implementing. In addition, this algorithm has an approximation results of the continuous LCT.",
+        "email": "li_bingzhao@bit.edu.cn",
+        "conf": "Procedia Engineering",
+        "coauthors": [
+            "Wen-Li Zhang",
+            "Bing-Zhao Li",
+            "Qi-Yuan Cheng"
+        ],
+        "keywords": "Possibility theory,linear canonical transform,hermite functiontime-frequency analysis"
+    },
+    {
+        "id": 2301,
+        "label": 49,
+        "author": "bing-zhao li",
+        "title": "New sampling formulae related to linear canonical transform",
+        "organization": "Beijing Institute of Technology Beijing China",
+        "abstract": "Linear canonical transform (LCT) is an integral transform with four parameters a, b, c, d and has been shown to be a powerful tool for optics, radar system analysis, filter design, phase retrieval, pattern recognition, and many other applications. Many well-known transforms such as the Fourier transform, the fractional Fourier transform, and the Fresnel transform can be seen as special cases of the linear canonical transform. In this paper, new sampling formulae for reconstructing signals that are band-limited or time-limited in the linear canonical transform sense have been proposed. Firstly, the sampling theorem representation of band-limited signals associated with linear canonical transform from the samples taken at Nyquist rate is derived in a simple way. Then, based on the relationship between the Fourier transform and the linear canonical transform, the other two new sampling formulae using samples taken at half the Nyquist rate from the signal and its first derivative or its generalized Hilbert transform are obtained. The well-known sampling theorems in Fourier domain or fractional Fourier domain are shown to be special cases of the achieved results. The experimental results are also proposed to verify the accuracy of the obtained results. Finally, discussions about these new results and future works related to the linear canonical transform are proposed.",
+        "email": "",
+        "conf": "Signal Processing",
+        "coauthors": [
+            "Bing-Zhao Li",
+            "Ran Tao",
+            "Yue Wang"
+        ],
+        "keywords": "Linear canonical transform,Sampling theorem,Nyquist rate,Generalized Hilbert transform"
+    },
+    {
+        "id": 2299,
+        "label": 49,
+        "author": "bing-zhao li",
+        "title": "On Nonuniform Sampling of Bandlimited Signals Associated with the Fractional Fourier Transform",
+        "organization": "Beijing Institute of Technology Beijing China",
+        "abstract": "The uniform sampling theorem and the reconstruction formulae associated with the fractional Fourier transform (FrFT) have been deduced in the literature, but the nonuniform sampling is yet to receive attention in the fractional Fourier domain. This paper focus on a special kind of non-uniform sampling process associated with the fractional Fourier transform. A nonuniform sampling model is first introduced and then, based on a useful lemma, the reconstruction formula for the nonuniform sampled signal points associated with the fractional Fourier transform is deduced. In addition, the classical results in the Fourier domain can be seen as a special case of our work.",
+        "email": "",
+        "conf": "International Conference on Innovative Computing Information and Control",
+        "coauthors": [
+            "George Kwamina Aggrey",
+            "Ran Tao",
+            "Bing-Zhao Li",
+            "Yue Wang"
+        ],
+        "keywords": "Fourier transforms,Signal processing,Optics,Optimized production technology,System-on-a-chip,Chirp,Interpolation"
+    },
+    {
+        "id": 2304,
+        "label": 49,
+        "author": "bing-zhao li",
+        "title": "New Sampling Formulae Associated with the Linear Canonical Transform",
+        "organization": "Beijing Institute of Technology Beijing China",
+        "abstract": "Linear canonical transform play an important role in many fields of optics and signal processing society. Well known transforms in these fields such as the Fourier transform, the fractional Fourier transform, and the Fresnel transform can be looked at as special cases of the linear canonical transform. In this paper we obtain new sampling formulae for reconstructing signals that are band-limited or time-limited in the linear canonical transform sense. In the new sampling formulae, we use samples from both the signal and its Hilbert transform, but each taken at half the Nyquist rate of linear canonical transform domain",
+        "email": "",
+        "conf": "international Conference on Signal Processing",
+        "coauthors": [
+            "Bing-Zhao Li",
+            "Ran Tao",
+            "Yue Wang"
+        ],
+        "keywords": "Sampling methods,Fourier transforms,Signal sampling,Discrete transforms,Discrete Fourier transforms,Signal processing,Optical sensors,Optical filters,Radio access networks,Mathematics"
+    },
+    {
+        "id": 2273,
+        "label": 49,
+        "author": "bing-zhao li",
+        "title": "Image watermarking via fractional polar harmonic transforms",
+        "organization": "Beijing Institute of Technology Beijing China",
+        "abstract": "Invariant harmonic transforms based on the fractional Fourier transform are proposed in this paper. The so-called fractional polar harmonic transforms (FrPHTs) with the order parameter α are first defined, which are generalizations of the PHTs. Second, a watermarking scheme is presented and discussed in detail associated with the newly defined FrPHTs. Finally, the simulations are clearly performed to verify the well capabilities of the transforms on image watermarking, which show that the proposed transforms with suitable parameters outperform the traditional PHTs. In addition, the experimental results also demonstrate that the order parameter α has an effect on the performance of FrPHTs in the image watermarking robustness and can improve the watermarking safety.",
+        "email": "li_bingzhao@bit.edu.cn",
+        "conf": "Journal of Electronic Imaging",
+        "coauthors": [
+            "Min Qi",
+            "Bing-Zhao Li",
+            "Huafei Sun"
+        ],
+        "keywords": "fractional Fourier transform; transform kernel; polar harmonic transform; fractional polar harmonic transform; image watermarking"
+    },
+    {
+        "id": 2260,
+        "label": 49,
+        "author": "bing-zhao li",
+        "title": "A convolution theorem for the polynomial fourier transform",
+        "organization": "Beijing Institute of Technology Beijing China",
+        "abstract": "The polynomial Fourier transform (PFT) is a useful mathematical tool for many areas, including applied mathematics, engineering and signal processing. Some properties and applications for this transform are already known, but an existence of the PFT’s convolution theorem is still unknown. The purpose of this paper is to introduce a convolution theorem for the PFT, which has the elegance and simplicity comparable to that of the Fourier Transform (FT). The classical result in the FT domain is shown to be a special case of our achieved theorem",
+        "email": "",
+        "conf": "IAENG International Journal of Applied Mathematics",
+        "coauthors": [
+            "Didar Urynbassarova",
+            "Bing-Zhao Li",
+            "Zhi-Chao Zhang"
+        ],
+        "keywords": "Convolution theorem, Fourier transform,Minkowski’s inequality, polynomial Fourier transform,Young's inequality"
+    },
+    {
+        "id": 2305,
+        "label": 49,
+        "author": "bing-zhao li",
+        "title": "Interpolation of Discrete Chirp-periodic Signals Based on Fractional Fourier Transform.",
+        "organization": "Beijing Institute of Technology Beijing China",
+        "abstract": "The sampling theorem associated with the fractional Fourier transform can be looked as the convolution of the sinc kernel with infinite sequence of signal points and chirp signal modulations. But in most practical applications we only have finite number of samples, which makes a perfect reconstruction of the original signal impossible. To solve this problem, we obtain a new formula for perfect reconstruction of discrete chirp-periodic signal points based on the fractional Fourier transform in this paper. The method is equivalent to trigonometrically interpolation by fractional Fourier series expansion and can be looked as a generalization of the classical results",
+        "email": "",
+        "conf": "First International Conference on Innovative Computing, Information and Control-Volume I ",
+        "coauthors": [
+            "Bing-Zhao Li",
+            "Ran Tao",
+            "Yue Wang"
+        ],
+        "keywords": "Interpolation,Chirp,Fourier transforms,Sampling methods,Signal processing,Optical signal processing,Signal sampling,Convolution,Radio access networks,Mathematics"
+    },
+    {
+        "id": 2272,
+        "label": 49,
+        "author": "bing-zhao li",
+        "title": "Image watermarking using polar harmonic transform with parameters in SL (2 R)",
+        "organization": "Beijing Institute of Technology Beijing China",
+        "abstract": "In this paper, a novel polar harmonic transform with parameters in SL(2,R) is proposed in order to increase the security of the watermark information. It is named as the Polar Linear Canonical Transform (PLCT) based on the linear canonical transform. Moreover, a watermarking scheme associated with the PLCT is presented, and the simulations are performed to verify the importance of parameters of the PLCT and improve the capabilities of the existing results on the watermarking information׳s security. The experimental results show that due to the varieties of parameters, if parameters chosen in the extraction process are inconsistent with those used in the embedding process, then the bit error rate is bigger which means it is worse than that of consistent parameters in the two processes. This confirms the fact that parameters of the PLCT have superior security for watermark information.",
+        "email": "",
+        "conf": "Signal Processing Image Communication",
+        "coauthors": [
+            "Min Qi",
+            "Bing-Zhao Li",
+            "Huafei Sun"
+        ],
+        "keywords": "Digital image processing,Moment and transform,Linear canonical transform,Polar linear canonical transform,Watermarking"
+    },
+    {
+        "id": 2281,
+        "label": 49,
+        "author": "bing-zhao li",
+        "title": "Linear Canonical Transform and its Applications",
+        "organization": "Beijing Institute of Technology Beijing China",
+        "abstract": "",
+        "email": "",
+        "conf": "SciencePress, Beijing, China",
+        "coauthors": [
+            "Tian-Zhou Xu",
+            "Bing-Zhao Li"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2253,
+        "label": 49,
+        "author": "bing-zhao li",
+        "title": "Sliding Discrete Linear Canonical Transform",
+        "organization": "Beijing Institute of Technology Beijing China",
+        "abstract": "The linear canonical transform (LCT) has been shown to be one of the most powerful tools in signal processing, and in this paper, we propose an adaptive approach for the computation of the discrete LCT (DLCT), termed the sliding discrete linear canonical transform (SDLCT). First, we introduce a scheme for the single-point DLCT, which can effectively calculate a single or a few linear canonical spectra. Second, the SDLCT is proposed based on an iterative algorithm to meet the requirements of online spectral analysis when only a subset of N frequencies are required from an Ñ-point discrete LCT (N ≤ Ñ). The additivity and reversibility properties of the proposed algorithms are also discussed in detail. Third, the DLCT convolution operation is obtained to reduce the spectral leakage of the proposed algorithm, and time-domain windowing is implemented via frequency-domain convolution. Finally, we present two methods to assess performance with regard to computational complexity and precision and to show the correctness of the derived results.",
+        "email": "",
+        "conf": "IEEE Transactions on Signal Processing",
+        "coauthors": [
+            "Yan-Nan Sun",
+            "Bing-Zhao Li"
+        ],
+        "keywords": "Linear canonical transform,discrete linear canonical transform,Horner algorithm,sliding discrete linear canonical transform"
+    },
+    {
+        "id": 2275,
+        "label": 49,
+        "author": "bing-zhao li",
+        "title": "Uncertainty Principles for Wigner-Ville Distribution Associated with the Linear Canonical Transforms",
+        "organization": "Beijing Institute of Technology Beijing China",
+        "abstract": "The Heisenberg uncertainty principle of harmonic analysis plays an important role in modern applied mathematical applications, signal processing and physics community. The generalizations and extensions of the classical uncertainty principle to the novel transforms are becoming one of the most hottest research topics recently. In this paper, we firstly obtain the uncertainty principle for Wigner-Ville distribution and ambiguity function associate with the linear canonical transform, and then the -dimensional cases are investigated in detail based on the proposed Heisenberg uncertainty principle of the -dimensional linear canonical transform",
+        "email": "",
+        "conf": "Abstract and Applied Analysis",
+        "coauthors": [
+            "Yong-Gang Li",
+            "Bing-Zhao Li",
+            "Hua-Fei Sun"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2286,
+        "label": 49,
+        "author": "bing-zhao li",
+        "title": "Aliased polyphase sampling associated with the linear canonical transform",
+        "organization": "Beijing Institute of Technology Beijing China",
+        "abstract": "The aliased polyphase sampling in the linear canonical transform (LCT) domain has been proposed in this study. The result shows that the sampling theorem can be achieved by using parallel samplers to obtain a higher sampling rate in the LCT domain. Further analysis shows that the LCT spectrum of x(nM+m) replicates |X(a,b,c,d)(u)| with a period bMFs along with linear phase modulation in the LCT domain, where b is one parameter of the LCT, M is the number of samplers and Fs is the sampling frequency at which these samplers are operated in the Fourier transform domain. Finally, the simulations are also proposed to verify the correctness of the derived results.",
+        "email": "",
+        "conf": "IET Signal Processing",
+        "coauthors": [
+            "M. Zhu",
+            "Bing-Zhao Li",
+            "G.-F. Yan"
+        ],
+        "keywords": "phase modulation; Fourier transforms; signal sampling"
+    },
+    {
+        "id": 2298,
+        "label": 49,
+        "author": "bing-zhao li",
+        "title": "Identical relation of interpolation and decimation in the Linear Canonical Transform domain",
+        "organization": "Beijing Institute of Technology Beijing China",
+        "abstract": "The theorems of identical relation for interpolation and decimation in the linear canonical transform (LCT) domain have been proposed in this paper. For improving the efficiency of sampling rate conversion and saving the memory in digital system, we propose two identical relations in sampling rate conversion, one in interpolation and the other one in decimation. The result shows that the two identical relations can properly secure the sampling rate conversion and reduce the operating works significantly. The simulation results are also presented to show the correctness of the proposed theorems. These two identical relations can be widely used in sampling rate conversion in the LCT domain.",
+        "email": "",
+        "conf": "International Conference on Signal Processing",
+        "coauthors": [
+            "Guang-Xi Xie",
+            "Bing-Zhao Li",
+            "Zhun Wang"
+        ],
+        "keywords": "identical relation,multirate sampling,linear canonical transform"
+    },
+    {
+        "id": 2278,
+        "label": 49,
+        "author": "bing-zhao li",
+        "title": "A quantitative SNR analysis of LFM signals in the linear canonical transform domain with Gaussian Windows",
+        "organization": "Beijing Institute of Technology Beijing China",
+        "abstract": "In this paper, the relationship between the linear canonical transform (LCT) and the Wigner-Ville distribution (WVD) is analyzed and proved. Based on this relationship, we present a quantitative signal-to-noise ratio (SNR) analysis of linear frequency modulated (LFM) signals in the LCT domain with Gaussian windows. The 3dB SNR definition is used. The SNR in LCT domain is compared with the SNRs in time domain, the short-time Fourier transform (STFT) domain and the pseudo-WVD domain, respectively, and come to a conclusion that the SNR in the LCT domain can achieve a significantly higher level than the SNRs in the other three domains. Some simulation results are presented to confirm the theoretical results",
+        "email": "",
+        "conf": "International Conference on Mechatronic Sciences, Electric Engineering and Computer (MEC)",
+        "coauthors": [
+            "Wu Yang",
+            "Bing-Zhao Li",
+            "Cheng Qi-Yuan"
+        ],
+        "keywords": "Linear canonical transform,SNR analysis,LFM signal,Gaussian window"
+    },
+    {
+        "id": 2274,
+        "label": 49,
+        "author": "bing-zhao li",
+        "title": "Fractional domain varying-order differential denoising method",
+        "organization": "Beijing Institute of Technology Beijing China",
+        "abstract": "Removal of noise is an important step in the image restoration process, and it remains a challenging problem in image processing. Denoising is a process used to remove the noise from the corrupted image, while retaining the edges and other detailed features as much as possible. Recently, denoising in the fractional domain is a hot research topic. The fractional-order anisotropic diffusion method can bring a less blocky effect and preserve edges in image denoising, a method that has received much interest in the literature. Based on this method, we propose a new method for image denoising, in which fractional-varying-order differential, rather than constant-order differential, is used. The theoretical analysis and experimental results show that compared with the state-of-the-art fractional-order anisotropic diffusion method, the proposed fractional-varying-order differential denoising model can preserve structure and texture well, while quickly removing noise, and yields good visual effects and better peak signal-to-noise ratio",
+        "email": "",
+        "conf": "Optical Engineering",
+        "coauthors": [
+            "Yan-Shan Zhang",
+            "Feng Zhang",
+            "Bing-Zhao Li",
+            "Ran Tao"
+        ],
+        "keywords": "image processing; denoising; fractional; anisotropic diffusion; varying-order differential"
+    },
+    {
+        "id": 2265,
+        "label": 49,
+        "author": "bing-zhao li",
+        "title": "A Multi-focus Image Fusion Method Based on Linear Canonical Transform",
+        "organization": "Beijing Institute of Technology Beijing China",
+        "abstract": "In this paper, the self-linear canonical functions (SLCFs) based on linear canonical transform (LCT) are discussed and proposed. We found that the SLCFs can be used to decompose an image into M complex images. Based on this property, a novel multi-focus image fusion method is proposed in this paper. The simulations are carried out to show the importance of parameters in application of the SLCFs decomposition. According to the simulation results, the proposed fusion method with appropriate parameters can improve the quality of fused images.",
+        "email": "",
+        "conf": "IEEE International Conference on Signal Processing, Communications and Computing (ICSPCC)",
+        "coauthors": [
+            "Yan-An Xie",
+            "Yong Guo",
+            "Bing-Zhao Li"
+        ],
+        "keywords": "Image fusion,self-linear canonical functions,multi-focus image,discrete cosine transform,discrete sine transform"
+    },
+    {
+        "id": 2290,
+        "label": 49,
+        "author": "bing-zhao li",
+        "title": "Approximating bandlimited signals associated with the LCT domain from nonuniform samples at unknown locations",
+        "organization": "Beijing Institute of Technology Beijing China",
+        "abstract": "The sampling theory describes ways of reconstructing signals from their uniform or nonuniform samples associated with the traditional Fourier transform (FT). Most of the published papers about the sampling theory require signals to be bandlimited in the FT domain and assume that the sample locations and the band width are all known. However, the sample locations are not always known and most of the signals are non-stationary in practical applications. In order to overcome these shortcomings, this paper provides an algorithm for approximating signals from nonuniform samples at unknown locations. These signals are not necessarily bandlimited in the FT domain, however bandlimited in the LCT domain. The experimental results are given to verify the accuracy of the algorithm",
+        "email": "li_bingzhao@bit.edu.cn",
+        "conf": "Signal Processing",
+        "coauthors": [
+            "Cui-Ping Li",
+            "Bing-Zhao Li",
+            "Tian-Zhou Xu"
+        ],
+        "keywords": "Nonuniform sample,Non-stationary signal,Linear canonical transform series"
+    },
+    {
+        "id": 2250,
+        "label": 49,
+        "author": "bing-zhao li",
+        "title": "Higher-Order Derivative Sampling Associated with Fractional Fourier Transform",
+        "organization": "Beijing Institute of Technology Beijing China",
+        "abstract": "The uniform and recurrent nonuniform higher-order derivative sampling problems associated with the fractional Fourier transform are investigated in this paper. The reconstruction formulas of a bandlimited signal from the uniform and recurrent nonuniform derivative sampling points are obtained. It is shown that if a bandlimited function f(t) has n−1n−1 order derivative in fractional Fourier transform domain, then f(t) is determined by its uniform sampling points f(l)(knT)(l=0,1,…,n−1)f(l)(knT)(l=0,1,…,n−1) or recurrent nonuniform sampling points f(l)(n(tp+kNT))(l=0,1,…,n−1;p=1,2,…,N)f(l)(n(tp+kNT))(l=0,1,…,n−1;p=1,2,…,N), the related sampling rate is also reduced by n times. The examples and simulations are also performed to verify the derived results.",
+        "email": "",
+        "conf": "Circuits Systems and Signal Processing",
+        "coauthors": [
+            "Rui-Meng Jing",
+            "Qiang Feng",
+            "Bing-Zhao Li"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2276,
+        "label": 49,
+        "author": "bing-zhao li",
+        "title": "Image Watermarking in the Linear Canonical Transform Domain",
+        "organization": "Beijing Institute of Technology Beijing China",
+        "abstract": "The linear canonical transform, which can be looked at the generalization of the fractional Fourier transform and the Fourier transform, has received much interest and proved to be one of the most powerful tools in fractional signal processing community. A novel watermarking method associated with the linear canonical transform is proposed in this paper. Firstly, the watermark embedding and detecting techniques are proposed and discussed based on the discrete linear canonical transform. Then the Lena image has been used to test this watermarking technique. The simulation results demonstrate that the proposed schemes are robust to several signal processing methods, including addition of Gaussian noise and resizing. Furthermore, the sensitivity of the single and double parameters of the linear canonical transform is also discussed, and the results show that the watermark cannot be detected when the parameters of the linear canonical transform used in the detection are not all the same as the parameters used in the embedding progress",
+        "email": "li_bingzhao@bit.edu.cn",
+        "conf": "Mathematical Problems in Engineering",
+        "coauthors": [
+            "Bing-Zhao Li",
+            "Yu-Pu Shi"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2257,
+        "label": 49,
+        "author": "bing-zhao li",
+        "title": "The fractional Fourier transform on graphs",
+        "organization": "Beijing Institute of Technology Beijing China",
+        "abstract": "The emerging field of signal processing on graphs merges algebraic or spectral graph theory with discrete signal processing techniques to process signals on graphs. In this paper, a definition of the fractional Fourier transform on graphs (GFRFT) is proposed and consolidated, which extends the discrete fractional Fourier transform (DFRFT) in the same sense the graph Fourier transform (GFT) extends the discrete Fourier transform (DFT). The definition is based on the eigenvalue decomposition method of defining DFRFT, for it satisfies all the agreeable properties expected of the discrete fractional Fourier transform. Properties of the GFRFT are discussed, and examples of GFRFT of some graph signals are given to illustrate the transform.",
+        "email": "",
+        "conf": "Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)",
+        "coauthors": [
+            "Yi-qian Wang",
+            "Bing-Zhao Li",
+            "Qi-yuan Cheng"
+        ],
+        "keywords": "Signal processing,Discrete Fourier transforms,Eigenvalues and eigenfunctions,Matrix decomposition,Indexes"
+    },
+    {
+        "id": 2262,
+        "label": 49,
+        "author": "bing-zhao li",
+        "title": "Image restoration method based on fractional variable order differential",
+        "organization": "Beijing Institute of Technology Beijing China",
+        "abstract": "In this paper, we study image restoration problem by using fractional variable order differential technique. Our idea is to make use of fractional order differential diffusion equation of evolution procedure into the image restoration problem. An image often exists different low-frequency and high-frequency components, such as flat, texture and edge, etc. Because fractional order differential can enhance the high-frequency components of a signal, meanwhile, nonlinearly preserve the low-frequency components of the signal, we can adapt suitable fractional differential orders to restore their components. In particular, different differential orders can be used in an image at the same time. In order to obtain the restored image automatically, we choose the fractional differential orders by the value of gradient modulus of the image and use the discrete Fourier transform to implement the numerical algorithm. We also provide an iterative scheme in the frequency domain. Experimental results are reported to demonstrate that the visual effects, the combined image similarity index and the peak signal to noise ratio of restored images by using the proposed method are very good, and are competitive with the other testing methods.",
+        "email": "",
+        "conf": "Multidimensional Systems and Signal Processing",
+        "coauthors": [
+            "Yan-Shan Zhang",
+            "Feng Zhang",
+            "Bing-Zhao Li"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2291,
+        "label": 49,
+        "author": "bing-zhao li",
+        "title": "Parseval Relationship of Samples in the Fractional Fourier Transform Domain",
+        "organization": "Beijing Institute of Technology Beijing China",
+        "abstract": "This paper investigates the Parseval relationship of samples associated with the fractional Fourier transform. Firstly, the Parseval relationship for uniform samples of band-limited signal is obtained. Then, the relationship is extended to a general set of nonuniform samples of band-limited signal associated with the fractional Fourier transform. Finally, the two dimensional case is investigated in detail, it is also shown that the derived results can be regarded as the generalization of the classical ones in the Fourier domain to the fractional Fourier transform domain.",
+        "email": "",
+        "conf": "Journal of Applied Mathematics",
+        "coauthors": [
+            "Bing-Zhao Li",
+            "Tian-Zhou Xu"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2259,
+        "label": 49,
+        "author": "bing-zhao li",
+        "title": "The linear canonical wavelet transform on some function spaces",
+        "organization": "Beijing Institute of Technology Beijing China",
+        "abstract": "It is well known that the domain of Fourier transform (FT) can be extended to the Schwartz space S(R)𝒮(R) for convenience. As a generation of FT, it is necessary to detect the linear canonical transform (LCT) on a new space for obtaining the similar properties like FT on S(R)𝒮(R). Therefore, a space SA1(R)𝒮A1(R) generalized from S(R)𝒮(R) is introduced firstly, and further we prove that LCT is a homeomorphism from SA1(R)𝒮A1(R) onto itself. The linear canonical wavelet transform (LCWT) is a newly proposed transform based on the convolution theorem in LCT domain. Moreover, we propose an equivalent definition of LCWT associated with LCT and further study some properties of LCWT on SA1(R)𝒮A1(R). Based on these properties, we finally prove that LCWT is a linear continuous operator on the spaces of Lp,A1Lp,A1 and Hs,pA1HA1s,p.",
+        "email": "",
+        "conf": "International Journal of Wavelets Multiresolution and Information Processing",
+        "coauthors": [
+            "Guo Yong",
+            "Bing-Zhao Li"
+        ],
+        "keywords": "Linear canonical transform,linear canonical wavelet transform,Sobolev space,Schwartz space"
+    },
+    {
+        "id": 2287,
+        "label": 49,
+        "author": "bing-zhao li",
+        "title": "The ambiguity function associated with the linear canonical transform",
+        "organization": "Beijing Institute of Technology Beijing China",
+        "abstract": "A new kind of ambiguity function (AF) associated with the linearcanonical transform (LCT) is proposed in this article, this new AF is defined based on the LCT and the classical AF. Firstly, the main properties and physical meanings of the newly defined AF are investigated, the results show that this kind of AF can be seen as one generalization of the classical AF. Then, the newly defined AF is applied to detect the parameters of the linear frequency modulated signals by combining with the classical Radon transform. The simulations are performed to verify the correctness of the derived results, and the comparison of the derived results with the common time-frequency analysis tools are also discussed.",
+        "email": "",
+        "conf": "Journal on Advances in Signal Processing",
+        "coauthors": [
+            "Che Tian-Wen",
+            "Bing-Zhao Li",
+            "Tian-Zhou Xu"
+        ],
+        "keywords": "Linear canonical transform (LCT), Ambiguity function (AF), Radon transform (RT)"
+    },
+    {
+        "id": 2261,
+        "label": 49,
+        "author": "bing-zhao li",
+        "title": "Convolution and Correlation Theorems for Wigner-Ville Distribution Associated with the Offset Linear Canonical Transform",
+        "organization": "Beijing Institute of Technology Beijing China",
+        "abstract": "The Wigner-Ville distribution associated with the linear canonical transform (WVD-LCT) attracts serious attention in recent literatures. For this, currently, many time-frequency distributions are derived. In this paper, generalization of the WVD-LCT the Wigner-Ville distribution in the offset linear canonical transform (WVD-OLCT) is shown. Also various properties and applications, such as detection of the linear frequency modulated (LFM) signals are established in detail. And the much important result for this transform is that convolution and correlation theorems are derived. In other words, we generalized the WVD-LCT into the WVD-OLCT",
+        "email": "",
+        "conf": "Optik - International Journal for Light and Electron Optics",
+        "coauthors": [
+            "Didar Urynbassarova",
+            "Bing-Zhao Li",
+            "Ran Tao"
+        ],
+        "keywords": "Convolution,Correlation,Linear frequency modulated signal,Offset linear canonical transform,Wigner-Ville distribution"
+    },
+    {
+        "id": 2302,
+        "label": 49,
+        "author": "bing-zhao li",
+        "title": "Fractional spectrum of non-uniformly sampled signals",
+        "organization": "Beijing Institute of Technology Beijing China",
+        "abstract": "",
+        "email": "",
+        "conf": "Dianzi Xuebao(Acta Electronica Sinica",
+        "coauthors": [
+            "Bing-Zhao Li",
+            "R. Tao",
+            "Yunchu Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2255,
+        "label": 49,
+        "author": "bing-zhao li",
+        "title": "Modelling the noise influence associated with the discrete linear canonical transform",
+        "organization": "Beijing Institute of Technology Beijing China",
+        "abstract": "In this study, the properties of noise after a discrete linear canonical transform (DLCT) are analysed. First, the authors prove that the DLCT of noise can be modelled by a Gaussian distribution with very weak assumptions on the noise in the time domain. Then, the mean and covariance matrix of this Gaussian distribution is derived and the general trend of the noise after DLCT is described. In addition, they find that the properties of noise in the LCT domain are the generalisation of the properties of noise in the Fourier transform domain. What is more, the authors prove that the additive white Gaussian noise (AWGN) is still an AWGN after performing the DLCT. Finally, the simulations are performed to verify the effectiveness of the obtained results.",
+        "email": "",
+        "conf": "IET Signal Processing",
+        "coauthors": [
+            "Yi-Ping Bao",
+            "Bing-Zhao Li"
+        ],
+        "keywords": "Fourier transforms; Gaussian distribution; discrete transforms; covariance matrices; signal processing; AWGN; time-domain analysis"
+    },
+    {
+        "id": 2258,
+        "label": 49,
+        "author": "bing-zhao li",
+        "title": "Nonuniform sampling theorems for random signals in the offset linear canonical transform domain",
+        "organization": "Beijing Institute of Technology Beijing China",
+        "abstract": "With the rapid development of the offset linear canonical transform (OLCT) in the fields of optics and signal processing, it is necessary to consider the nonuniform sampling associated with the OLCT. Nowadays, the analysis and applications of the nonuniform sampling for deterministic signals in the OLCT domain have been well published and studied. However, none of the results about the reconstruction of nonuniform sampling for random signals in the OLCT domain have been proposed until now. In this paper, the nonuniform sampling and reconstruction of random signals in the OLCT domain are investigated. Firstly, a brief introduction to the fundamental knowledge of the OLCT and some special nonuniform sampling models are given. Then, the reconstruction theorems for random signals from nonuniform samples in the OLCT domain have been derived for different nonuniform sampling models. Finally, the simulation results are given to verify the accuracy of theoretical results.",
+        "email": "",
+        "conf": "Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)",
+        "coauthors": [
+            "Yi-Ping Bao",
+            "Yan-Na Zhang",
+            "Yu-E Song",
+            "Bing-Zhao Li",
+            "Pei Dang"
+        ],
+        "keywords": "Offset linear canonical transform,Nonuniform sampling,Random signal,Recurrent nonuniform sampling,Power spectral density"
+    }
+]

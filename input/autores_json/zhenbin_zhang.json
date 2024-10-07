@@ -1,0 +1,1192 @@
+[
+    {
+        "id": 5912,
+        "label": 119,
+        "author": "zhenbin zhang",
+        "title": "Sensorless Control for SPMSM With Concentrated Windings Using Multisignal Injection Method",
+        "organization": "Professor in Electrical and Energy Engineering at Shandong University Jinan China",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE Transactions on Industrial Electronics",
+        "coauthors": [
+            "Z. Chen",
+            "Jianbo Gao",
+            "Fengxiang Wang",
+            "Ralph Kennel"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5882,
+        "label": 119,
+        "author": "zhenbin zhang",
+        "title": "Investigation of the limiting factors of the dead time minimization in a H-bridge IGBT inverter",
+        "organization": "Professor in Electrical and Energy Engineering at Shandong University Jinan China",
+        "abstract": "In order to avoid a bridge shoot-through, a simultaneous on-state of both IGBTs in a bridge leg is strictly forbidden. Therefore, the complementary switch is commonly turned on with a dead-time interval to ensure a complete turn-off the other IGBT. Due to the longer tail-current interval of IGBT switching process, for the purpose of absolute safe operation, the interlocking time t o is empirically in microsecond range which normally is much longer than necessary. This raises the questions about whether the tail-current is real a matter of concern, and how can the dead-time be minimized? An IGBT H-bridge inverter with an adjustable interlock time was built in this project, and a series of experiments were carried out to investigate the limiting factors of the dead-time minimization.",
+        "email": "",
+        "conf": "IEEE 2nd Annual Southern Power Electronics Conference (SPEC)",
+        "coauthors": [
+            "Guangye Si",
+            "Zhiwei Shen",
+            "Zhenbin Zhang",
+            "Ralph Kennel"
+        ],
+        "keywords": "dead time,tail-current,IGBT"
+    },
+    {
+        "id": 5914,
+        "label": 119,
+        "author": "zhenbin zhang",
+        "title": "Predictive Control With Novel Virtual-Flux Estimation for Back-to-Back Power Converters",
+        "organization": "Professor in Electrical and Energy Engineering at Shandong University Jinan China",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE Transactions on Industrial Electronics",
+        "coauthors": [
+            "Zhenbin Zhang",
+            "He Xu",
+            "Ming XUE",
+            "Christoph Michael Hackl"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5856,
+        "label": 119,
+        "author": "zhenbin zhang",
+        "title": "Model Predictive Control of a Three-Level NPC Rectifier with a Sliding Manifold Term",
+        "organization": "Professor in Electrical and Energy Engineering at Shandong University Jinan China",
+        "abstract": "In this paper, a finite control set model predictive control (FCS-MPC) method for three-level neutral-point-clamped (3L-NPC) rectifiers without the outer control loop is presented. The proposed control method is very simple as only a sliding manifold term is added into the cost function to regulate the dc-bus voltage directly. Instead of calculating the suitable dynamic references, only the steady-state references are required in this method. Besides, we have compared the conventional proportional-integration controller based MPC method (PI-MPC), MPC with dynamic references design method (DR-MPC), and the proposed MPC with a sliding manifold term method (SM-MPC) with simulation. The simulation results show that the proposed SM-MPC outperforms the PI-MPC in the condition of the step change in load and has advantage over the DR-MPC when the voltage reference changes.",
+        "email": "",
+        "conf": "International Power Electronics Conference (IPEC-Niigata 2018-ECCE Asia). IEEE",
+        "coauthors": [
+            "Xiaonan Gao",
+            "Wei Tian",
+            "Xicai Liu",
+            "Zhenbin Zhang",
+            "Ralph Kennel"
+        ],
+        "keywords": "three-level neutral-point-clamped (3L-NPC) rectifier,direct dc-bus voltage control,model predictive control (MPC),sliding manifold"
+    },
+    {
+        "id": 5899,
+        "label": 119,
+        "author": "zhenbin zhang",
+        "title": "Ultra-low and zero speed sensorless control of permanent magnet synchronous motor based on sliding mode observer",
+        "organization": "Professor in Electrical and Energy Engineering at Shandong University Jinan China",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Peng Tao",
+            "Fengxiang Wang",
+            "Jinxin Lin",
+            "Zhenbin Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5875,
+        "label": 119,
+        "author": "zhenbin zhang",
+        "title": "Direct Model Predictive Control of Five-Level Dual Flying Capacitor Active Neutral Point Clamped Converters with Modified Sphere Decoding",
+        "organization": "Professor in Electrical and Energy Engineering at Shandong University Jinan China",
+        "abstract": "The five-level dual-flying-capacitor active-neutral-point-clamped converter (5L-DFC-ANPC) is an interesting topology, particularly for high-power photovoltaic, wind power, automotive applications etc. For such topology, direct model predictive control (DMPC), which combines the objective realizations and modulation stages into one computational process, is an attractive method. However, the computational burden to solve the so-called “mixed-integer nonlinear optimization problem” of DMPC for this 5L-DFC-ANPC topology is very high, because of the great amount of the available switch combinations, particularly for longer prediction horizons. This work applies the modified sphere decoding method for PMSM drive systems with the 5L-DFC-ANPC topology, within the DMPC concept. The computational burden reduction is validated. The current harmonic distortions are seen evidently lower at two step predictions.",
+        "email": "",
+        "conf": "IEEE Transportation Electrification Conference and Expo (ITEC)",
+        "coauthors": [
+            "Zhenbin Zhang",
+            "Jochen Schenek",
+            "Ralph Kennel"
+        ],
+        "keywords": "Switches,Capacitors,Topology,Computational modeling,Predictive models,Cost function"
+    },
+    {
+        "id": 5902,
+        "label": 119,
+        "author": "zhenbin zhang",
+        "title": "Fully FPGA Based Performance-Enhanced DMPC for Grid-Tied AFEs with Multiple Predictions",
+        "organization": "Professor in Electrical and Energy Engineering at Shandong University Jinan China",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhenbin Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5865,
+        "label": 119,
+        "author": "zhenbin zhang",
+        "title": "A Predictive Direct Power Control Strategy for Three-Level NPC Rectifier",
+        "organization": "Professor in Electrical and Energy Engineering at Shandong University Jinan China",
+        "abstract": "In this paper, a predictive direct power control (P-DPC) strategy for a three level NPC rectifier under ideal grid voltage is proposed, discussed and applied. With the proposed P-DPC strategy, the control targets are the active power, the reactive power and the neutral potential voltage; neither hysteresis comparators nor switching table are needed; sinusoidal input current with low total harmonic distortion (THD), smooth regulation of both powers (active and reactive power), and neutral point voltage are achieved. Finally, by using Matlab/Simulink, the performance and effectiveness of the proposed P-DPC strategy is verified via simulation results.",
+        "email": "",
+        "conf": "International Conference on Electrical Engineering-Boumerdes (ICEE-B). IEEE",
+        "coauthors": [
+            "Billel Kahia",
+            "Abdelouaheb Bouafia",
+            "Mohamed Abdelrahem",
+            "Zhenbin Zhang",
+            "Abdelmadjid Chaoui",
+            "Abdelbasset Krama",
+            "Ralph Kennel"
+        ],
+        "keywords": "neutral-point clamped rectifier,switch table,direct power control,predictive control"
+    },
+    {
+        "id": 5908,
+        "label": 119,
+        "author": "zhenbin zhang",
+        "title": "Secondary Saliency Tracking Based Sensorless Control for Concentrated Winding SPMSM",
+        "organization": "Professor in Electrical and Energy Engineering at Shandong University Jinan China",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE Transactions on Industrial Informatics",
+        "coauthors": [
+            "Z. Chen",
+            "Fengxiang Wang",
+            "Guangzhao Luo",
+            "Ralph Kennel"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5877,
+        "label": 119,
+        "author": "zhenbin zhang",
+        "title": "Direct Predictive Control of Five-Level Dual Flying Capacitor Active Neutral Point Clamped Converters with Extended Horizons",
+        "organization": "Professor in Electrical and Energy Engineering at Shandong University Jinan China",
+        "abstract": "Five-level dual-flying-capacitor active-neutral-point-clamped converter (5L-DFC-ANPC) exhibits attractive properties, e.g., soft switching possibilities of line frequency switches, elimination of the transient voltage balancing snubbers, more even loss distribution, etc. Therefore, it has become a very attractive topology to electrical drives, e-mobility, grid-tied photovoltaic applications, etc. However, the existing great amount of switch combinations and capacitors render the modulator design tedious and complicated. Direct control without modulator can be a viable alternative, among which direct model predictive control (DMPC) shows straightforward concept meanwhile excellent control dynamics. In this work, we proposed a DMPC solution for the control of a PMSM drive system with 5L-DFC-ANPC converter. The proposed solution is simple in realization but good in transient control performances. To improve the steady state control performances, we further extended the prediction horizon, resulting in lower current distortions.",
+        "email": "",
+        "conf": "IEEE Transportation Electrification Conference and Expo (ITEC)",
+        "coauthors": [
+            "Zhenbin Zhang",
+            "Jochen Schenek",
+            "Wei Tian",
+            "Ralph Kennel"
+        ],
+        "keywords": "Capacitors,Switches,Voltage control,Torque,Topology,Rotors"
+    },
+    {
+        "id": 5883,
+        "label": 119,
+        "author": "zhenbin zhang",
+        "title": "Predictive encoderless control of back-to-back converter PMSG wind turbine systems with Extended Kalman Filter",
+        "organization": "Professor in Electrical and Energy Engineering at Shandong University Jinan China",
+        "abstract": "This paper presents a deadbeat-like predictive encoderless control method for back-to-back power converter permanent-magnet synchronous generator (PMSG) wind turbine systems with Extended Kalman Filter (EKF). The generator state variables are estimated through an EKF observer requiring neither the knowledge of mechanical parameters nor the initial position of the rotor. The estimated speed and position are fed into a deadbeat predictive controller using SVM. The grid side control is realized by a deadbeat predictive power controller requiring little tuning efforts. Both the estimator and predictive controllers are implemented on a fully FPGA based platform, using the single-cycle-timed-loop technique, achieving very short calculating time. The effectiveness of the presented method is verified with experimental data.",
+        "email": "",
+        "conf": "Annual Southern Power Electronics Conference (SPEC). IEEE",
+        "coauthors": [
+            "Zhenbin Zhang",
+            "Fengxiang Wang",
+            "Guangye Si",
+            "Ralph Kennel"
+        ],
+        "keywords": "Field programmable gate arrays,Wind turbines,Kalman filters,Generators,Power control,Rotors,State estimation"
+    },
+    {
+        "id": 5900,
+        "label": 119,
+        "author": "zhenbin zhang",
+        "title": "Hybrid Sensorless Control for SPMSM With Multiple Saliencies",
+        "organization": "Professor in Electrical and Energy Engineering at Shandong University Jinan China",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Z. Chen",
+            "Zhenbin Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5861,
+        "label": 119,
+        "author": "zhenbin zhang",
+        "title": "Robust Predictive Control of Three-Level NPC Back-to-Back Power Converter PMSG Wind Turbine Systems with Revised Predictions",
+        "organization": "Professor in Electrical and Energy Engineering at Shandong University Jinan China",
+        "abstract": "A direct-drive permanent magnet synchronous generator (PMSG) with a three-level neutral-point-clamped back-to-back power converter is an attractive configuration for high-power wind energy conversion systems. For such a topology, finite-control-set model-predictive control (FCS-MPC) has emerged as a promising alternative. However, due to its fully model-based concept, variation of system parameters (in particular, the stator and grid filter inductance and rotor permanent-flux linkage) will (seriously) affect the system control performances when using the classical FCS-MPC. In this work, a robust FCS-MPC method with revised predictions is proposed and validated for such a system. With the proposed solution, not only the system robustness against parameter variations is improved, but also the control variable ripples are evidently reduced. The proposed method has been implemented with a fully field-programmable-gate-array-based real-time hardware. Its performance improvements in comparison with the conventional solutions are validated with experimental data.",
+        "email": "",
+        "conf": "IEEE Transactions on Power Electronics",
+        "coauthors": [
+            "Zhenbin Zhang",
+            "Zhen Li",
+            "Marian Kazmierkowski",
+            "Jose Rodriguez",
+            "Ralph Kennel"
+        ],
+        "keywords": "Field-programmable gate array (FPGA),finite-control-set predictive torque and power control,nonlinear direct control,robust control,three-level neutral-point-clamped (3L-NPC) back-to-back converter,wind energy system with permanent magnet synchronous generator (PMSG)"
+    },
+    {
+        "id": 5897,
+        "label": 119,
+        "author": "zhenbin zhang",
+        "title": "Sensorless Control of Permanent Magnet Synchronous Generators in Variable-Speed Wind Turbine Systems",
+        "organization": "Professor in Electrical and Energy Engineering at Shandong University Jinan China",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Mohamed Abdelrahem",
+            "Christoph Michael Hackl",
+            "Zhenbin Zhang",
+            "Ralph Kennel"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5850,
+        "label": 119,
+        "author": "zhenbin zhang",
+        "title": "Finite Control Set-Model Predictive Speed Control with a Voltage Smoother",
+        "organization": "Professor in Electrical and Energy Engineering at Shandong University Jinan China",
+        "abstract": "In this study, direct speed control based on a finite control set-model predictive speed control (FCS-MPSC)with a voltage smoother is presented to reduce current ripple. In the proposed control scheme, the controller predicts the future current and speed states with a finite set of smoothed voltages and outputs the optimal smoothed voltage by using pulse width modulation (PWM). Because of this control scheme, a sudden change in the output voltage, which causes a large current ripple, is avoided. The simulated and experimental results obtained with a permanent magnet synchronous motor (PMSM), fed by a 2-level 3-phase inverter., shows that the proposed method effectively reduces the current ripple as compared with a standard FCS-MPSC.",
+        "email": "",
+        "conf": "Conference of the IEEE Industrial Electronics Society",
+        "coauthors": [
+            "Hiroaki Kawai",
+            "Zhenbin Zhang",
+            "Ralph Kennel"
+        ],
+        "keywords": "Finite control set-model predictive control (FCS-MPC),direct speed control,current ripple,torque ripple,voltage smoother,pulse width modulation (PWM),permanent magnet synchronous motor (PMSM)"
+    },
+    {
+        "id": 5852,
+        "label": 119,
+        "author": "zhenbin zhang",
+        "title": "Cascaded Predictive Control for Three-Level NPC Power Converter Fed Induction Machine Drives Without Weighting Factors",
+        "organization": "Professor in Electrical and Energy Engineering at Shandong University Jinan China",
+        "abstract": "This paper presents a simple and effective cascaded predictive control (CPC) strategy for three-level NPC (3L-NPC) power converter fed induction machine (IM) drives. Scalar weighting factors, which are generally used in classic direct model predictive control (CDMPC), are difficult to select. Studies over weighting factor elimination is therefore of considerable significance. The proposed method in this work uses cascaded cost functions, which represent control objectives, without requiring any penalty coefficients, thereby reducing the tedious weighting factor tuning process. Meanwhile, the proposed strategy maintains the merits of CDMPC with good control dynamics and shows robustness for its control coefficients. Lastly, the validity and effectiveness of the proposed CPC are proved by simulation data.",
+        "email": "",
+        "conf": "IEEE International Power Electronics and Application Conference and Exposition (PEAC)",
+        "coauthors": [
+            "Yu Li",
+            "Zhenbin Zhang",
+            "Marian P. Kazmierkowski"
+        ],
+        "keywords": "Cascaded predictive control,Induction motor drives,Three-level NPC power converter"
+    },
+    {
+        "id": 5889,
+        "label": 119,
+        "author": "zhenbin zhang",
+        "title": "Two Direct Torque and Power Control Methods for Back-to-Back Power Converter PMSG Wind Turbine Systems",
+        "organization": "Professor in Electrical and Energy Engineering at Shandong University Jinan China",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhenbin Zhang",
+            "Ralph Kennel",
+            "Christoph Michael Hackl"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5893,
+        "label": 119,
+        "author": "zhenbin zhang",
+        "title": "FPGA Based Direct Model Predictive Current Control of PMSM Drives with 3L-NPC Power Converters",
+        "organization": "Professor in Electrical and Energy Engineering at Shandong University Jinan China",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhenbin Zhang",
+            "Christoph Michael Hackl",
+            "Ralph Kennel"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5898,
+        "label": 119,
+        "author": "zhenbin zhang",
+        "title": "Voltage Sensorless Direct Model Predictive Control of 3L-NPC Back-to-Back Power Converter PMSG Wind Turbine Systems with Fast Dynamics",
+        "organization": "Professor in Electrical and Energy Engineering at Shandong University Jinan China",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhenbin Zhang",
+            "Christoph Michael Hackl",
+            "Mohamed Abdelrahem",
+            "Ralph Kennel"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5876,
+        "label": 119,
+        "author": "zhenbin zhang",
+        "title": "Predictive Torque Control of Induction Machines Fed by 3L-NPC Converters with Online Weighting Factor Adjustment using Fuzzy Logic",
+        "organization": "Professor in Electrical and Energy Engineering at Shandong University Jinan China",
+        "abstract": "Direct model predictive control (DMPC) is a simple and powerful method for power converters, thanks to its fast control dynamics and the capability to deal with multiple constraints. Weighting factors are typically the only adjustable parameters in the cost function but will affect the performance of system dramatically. The selection of the weighting factors is usually tedious and can be considered as an open question. In this paper, a simple but effective method is proposed to deal with the weighting factor design of direct predictive torque control for induction machine drives fed by three-level neutral-point clamped power converters. To achieve a systematic design and online tunable weighting factors at reduced controller design efforts, a Fuzzy Logic based solution is utilized. The effectiveness of the proposed method is validated by experimental data at lab-constructed test-bench with FPGA based digital controller.",
+        "email": "",
+        "conf": "IEEE Transportation Electrification Conference and Expo (ITEC)",
+        "coauthors": [
+            "Zhenbin Zhang",
+            "Wei Tian",
+            "Wanyi Xiong",
+            "Ralph Kennel"
+        ],
+        "keywords": "Stators,Torque,Rotors,Fuzzy logic,Cost function,Capacitors,Induction machines"
+    },
+    {
+        "id": 5867,
+        "label": 119,
+        "author": "zhenbin zhang",
+        "title": "Efficient Predictive Control of PMSM Drives Fed by 3L-NPC Power Converters: A Cyber Physical System Approach",
+        "organization": "Professor in Electrical and Energy Engineering at Shandong University Jinan China",
+        "abstract": "A cyber-physical system (CPS) approach for branch and bound algorithm (BnB) based model predictive control (MPC) of permanent magnet synchronous machine (PMSM) drive system fed by three-level NPC inverter is proposed in this work. The proposed control strategy deals with both the physical states and a cyber state, i.e. the sampling frequency. With the help of cyber controller, the cyber resource and sampling rate are regulated based on the performance of the physical system and the reference cyber state. This novel control scheme presents a new way of regulating PMSM drive systems, achieving higher computational efficiency. Besides, the proposed CPS controller achieves better performances comparing to the classical BnB-MPC solution, which is validated through simulation data.",
+        "email": "",
+        "conf": "Chinese Automation Congress (CAC). IEEE",
+        "coauthors": [
+            "Zhenbin Zhang",
+            "Zeren Lu",
+            "Bo Sun"
+        ],
+        "keywords": "Cyber physical system,model predictive control,branch and bound,three-level NPC,permanent magnet synchronous machine"
+    },
+    {
+        "id": 5873,
+        "label": 119,
+        "author": "zhenbin zhang",
+        "title": "Advanced Control Strategies for Direct-Drive PMSG Wind Turbine Systems: Direct Predictive Torque Control Approaches",
+        "organization": "Professor in Electrical and Energy Engineering at Shandong University Jinan China",
+        "abstract": "Full power scale back-to-back power converter PMSG wind turbine system, with direct-drive configuration, is an attractive solution, particularly for off-shore wind energy applications. For such systems, (nonlinear) direct control, which requires neither a modulation process nor cascaded linear controllers, but will operate the system at very high control dynamics, is a very promising control class. In this work, we reviewed and experimentally assessed the classical (C-), the duty-optimal (DO-), the ripple-reduced (RR-) and the multi-vector direct model predictive torque control (MV-DMPTC) solutions to deal with the generator side control of grid-tied full power scale back-to-back power converter PMSG wind turbine systems. Their theoretical background, realizations and control performances are presented and discussed. The realizations and experimental assessments of all the discussed control approaches are carried out with a fully FPGA based realtime controller, at a lab-constructed test-bench. The resource usage and implementation complexity are provided. Comprehensive evaluation results are given at the end.",
+        "email": "",
+        "conf": "CPSS Transactions on Power Electronics and Applications",
+        "coauthors": [
+            "Zhenbin Zhang",
+            "Jose Rodriguez",
+            "Ralph Kennel"
+        ],
+        "keywords": "Direct torque control,FPGA,nonlinear control,predictive torque control,time optimal control,voltage source back-to-back power converters,wind turbine system with permanent magnet synchronous generator"
+    },
+    {
+        "id": 5881,
+        "label": 119,
+        "author": "zhenbin zhang",
+        "title": "Computationally Efficient DMPC for Three-level NPC Back-to-Back Converters in Wind Turbine Systems With PMSG",
+        "organization": "Professor in Electrical and Energy Engineering at Shandong University Jinan China",
+        "abstract": "Direct model predictive control (DMPC) is an attractive control method, in particular, for multilevel converters. However, the computation time for classical DMPC schemes increases exponentially with the number of switching states and, compared to modulation-based controllers, real-time implementation may not be feasible. In this paper, two computationally efficient DMPC schemes with hexagon candidate region (HCR) and triangle candidate region (TCR) for torque and power control of three-level neutral-point clamped back-to-back converters in wind turbine systems with permanent-magnet synchronous generator are proposed. By an appropriate selection of the candidate regions, the number of reasonable switching states is drastically reduced which saves computation time up to 55% for HCR and up to 83% for TCR, respectively. The computational efficiency improvements and the control performances of the proposed DMPC schemes are compared and validated by real-time implementations on an field programmable gate array (FPGA) system and by measurement results at a lab-constructed test bench. The achieved control performance of the proposed methods is comparable with that of the classical DMPC, while the computation times are drastically reduced.",
+        "email": "",
+        "conf": "IEEE Transactions on Power Electronics",
+        "coauthors": [
+            "Zhenbin Zhang",
+            "Christoph Michael Hackl",
+            "Ralph Kennel"
+        ],
+        "keywords": "Computationally efficient direct model predictive control (CE-DMPC),FPGA implementation,three-level neutral-point diode clamped (3L-NPC) back-to-back converter,wind turbine system with permanent-magnet synchronous generator (PMSG)"
+    },
+    {
+        "id": 5911,
+        "label": 119,
+        "author": "zhenbin zhang",
+        "title": "An Encoderless Predictive Torque Control for an Induction Machine With a Revised Prediction Model and EFOSMO",
+        "organization": "Professor in Electrical and Energy Engineering at Shandong University Jinan China",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE Transactions on Industrial Electronics",
+        "coauthors": [
+            "Fengxiang Wang",
+            "Zhenbin Zhang",
+            "S. Alireza Davari",
+            "Ralph Kennel"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5857,
+        "label": 119,
+        "author": "zhenbin zhang",
+        "title": "Fault Tolerant Predictive Control of Three-Level Neutral-Point-Clamped Back-to-Back Power Converters",
+        "organization": "Professor in Electrical and Energy Engineering at Shandong University Jinan China",
+        "abstract": "This paper presents a fault diagnosis and fault-tolerant control method for open-circuit fault in three-level neutral-point-clamped back-to-back power converters. The proposed fault diagnosis method is based on analysis of probability distribution of stator current. No extra sensor is needed. Additionally, fault detections for both one- and two-phase open-circuit fault are achieved. The proposed fault-tolerant control scheme is a non-redundant solution and is embedded into the well-known model predictive control (MPC) frame. Simulation results validate the feasibility and effectiveness of the proposed fault diagnosis and fault-tolerant control methods.",
+        "email": "",
+        "conf": "International Power Electronics Conference (IPEC-Niigata 2018-ECCE Asia). IEEE",
+        "coauthors": [
+            "Zhenbin Zhang",
+            "Xicai Liu",
+            "Kejun Cai",
+            "Feng Gao",
+            "Ralph Kennel"
+        ],
+        "keywords": "Fault Diagnosis,Fault-Tolerant Control,Model Predictive Control,Neutral Point Clamped Three-level Converters"
+    },
+    {
+        "id": 5915,
+        "label": 119,
+        "author": "zhenbin zhang",
+        "title": "Encoderless Model Predictive Control of Back- to-Back Converter Direct-Drive Permanent-Magnet Synchronous Generator Wind Turbine Systems",
+        "organization": "Professor in Electrical and Energy Engineering at Shandong University Jinan China",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhenbin Zhang",
+            "Christoph Michael Hackl",
+            "Fengxiang Wang",
+            "Ralph Kennel"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5887,
+        "label": 119,
+        "author": "zhenbin zhang",
+        "title": "Predictive current control of an induction machine by using dichotomy-based method",
+        "organization": "Professor in Electrical and Energy Engineering at Shandong University Jinan China",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Xuezhu Mei",
+            "Fengxiang Wang",
+            "Anjun Xia",
+            "Ralph Kennel"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5862,
+        "label": 119,
+        "author": "zhenbin zhang",
+        "title": "Advanced Control Strategies of Induction Machine: Field Oriented Control Direct Torque Control and Model Predictive Control",
+        "organization": "Professor in Electrical and Energy Engineering at Shandong University Jinan China",
+        "abstract": "Field oriented control (FOC), direct torque control (DTC) and finite set model predictive control (FS-MPC) are different strategies for high performance electrical drive systems. FOC uses linear controllers and pulse width modulation (PWM) to control the fundamental components of the load voltages. On the other hand, DTC and FS-MPC are nonlinear strategies that generate directly the voltage vectors in the absence of a modulator. This paper presents all three methods starting from theoretic operating principles, control structures and implementation. Experimental assessment is performed to discuss their advantages and limitations in detail. As main conclusions of this work, it is affirmed that different strategies have their own merits and all meet the requirements of modern high performance drives.",
+        "email": "",
+        "conf": "Energies",
+        "coauthors": [
+            "Fengxiang Wang",
+            "Zhenbin Zhang",
+            "Xuezhu Mei",
+            "Jose Rodriguez",
+            "Ralph Kennel"
+        ],
+        "keywords": " field oriented control; direct torque control; model predictive control"
+    },
+    {
+        "id": 5896,
+        "label": 119,
+        "author": "zhenbin zhang",
+        "title": "Finite Control Set Model Predictive Torque Control of Induction Machine with a Robust Adaptive Observer",
+        "organization": "Professor in Electrical and Energy Engineering at Shandong University Jinan China",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE Transactions on Industrial Electronics",
+        "coauthors": [
+            "Fengxiang Wang",
+            "S. Alireza Davari",
+            "Z. Chen",
+            "Ralph Kennel"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5872,
+        "label": 119,
+        "author": "zhenbin zhang",
+        "title": "Simple and Robust Direct-Model Predictive Current Control Technique for PMSGs in Variable-Speed Wind Turbines",
+        "organization": "Professor in Electrical and Energy Engineering at Shandong University Jinan China",
+        "abstract": "This paper presents a simple and robust direct-model predictive current control (DMPCC) scheme for surface-mounted permanent-magnet synchronous generators (PMSGs) in variable-speed wind turbines (VSWTs). The proposed DMPCC is based on computing the reference voltage vector (VV) directly from the demanded reference current using a deadbeat-like function. Then, the location of this reference VV is identified based on its angle. Finally, a certain cost function is evaluated for only three times to get the optimal voltage vector to be applied in the next sampling instant. However, the proposed DMPCC is a model-based control system, and accordingly, sensitive to parameter variations of the PMSG. To mitigate such limitation, a simple observer is designed to enhance the robustness of the proposed DMPCC scheme to variations of the PMSG parameters. The proposed DMPCC strategy has been experimentally implemented and its performance has been compared with that of the conventional DMPCC.",
+        "email": "",
+        "conf": "International Symposium on Predictive Control of Electrical Drives and Power Electronics (PRECEDE). IEEE",
+        "coauthors": [
+            "Mohamed Abdelrahem",
+            "Zhenbin Zhang",
+            "Ralph Kennel",
+            "Hisham Eldeeb",
+            "Christoph Michael Hackl"
+        ],
+        "keywords": "Permanent-magnet synchronous generator,model predictive control,wind turbines,disturbance observer"
+    },
+    {
+        "id": 5879,
+        "label": 119,
+        "author": "zhenbin zhang",
+        "title": "Design and Implementation of Disturbance Compensation-Based Enhanced Robust Finite Control Set Predictive Torque Control for Induction Motor Systems",
+        "organization": "Professor in Electrical and Energy Engineering at Shandong University Jinan China",
+        "abstract": "Finite-control-set-based predictive torque control (PTC) method has received more and more attention in recent years due to its fast torque response. However, it also has two drawbacks that could be improved. First, the torque reference in the cost function of the existing PTC method is generated by the proportional-integral speed controller, so torque reference's generation rate is not fast and its accuracy is low especially when the load torque is given suddenly and inertia value is varying. In addition, the variable prediction of the traditional PTC method depends on the system model, which also has the problem of parameter uncertainties. This paper investigates a disturbance observer (DOB)-based PTC approach for induction motor systems subject to load torque disturbances, parameter uncertainties, and time delays. Not only does the speed loop adopt a DOB-based feed-forward compensation method for improving the system disturbance rejection ability and robustness, but the flux, current, and torque predictions are also improved by using this technique. The simulation and experimental results verified the effectiveness of the proposed method.",
+        "email": "",
+        "conf": "IEEE Transactions on Industrial Informatics",
+        "coauthors": [
+            "Junxiao Wang",
+            "Fengxiang Wang",
+            "Zhenbin Zhang",
+            "Ralph Kennel"
+        ],
+        "keywords": "Disturbance rejection ability,disturbance observer (DOB),finite control set,induction motor (IM),predictive torque control (PTC),robustness"
+    },
+    {
+        "id": 5871,
+        "label": 119,
+        "author": "zhenbin zhang",
+        "title": "Computationally Efficient Predictive Control of Three-Level NPC Converters with DC-Link Voltage Balancing: A Priori State Selection Approach",
+        "organization": "Professor in Electrical and Energy Engineering at Shandong University Jinan China",
+        "abstract": "We propose a novel framework for multistep predictive current control for induction machines. The main contribution of this work is the achievement of the control goal over a long prediction horizon while reaching DC-link balancing for the accompanying three-level neutral point clamped (3L-NPC) inverters at the same time. The multistep prediction horizon is implemented using a sphere decoding algorithm. The DC-link balancing is guaranteed by modifying the sphere decoder such that only neutral point affecting states are selected if the DC-link voltage is imbalanced. Since those states are not uniquely defined for the 3L-NPC inverter, the state that minimizes the DC-link voltage is then selected within a preprocessing stage. The framework is verified by means of simulations.",
+        "email": "",
+        "conf": "International Symposium on Predictive Control of Electrical Drives and Power Electronics (PRECEDE). IEEE",
+        "coauthors": [
+            "Ferdinand Grimm",
+            "Zhenbin Zhang",
+            "Mohamed Abdelrahem",
+            "Ralph Kennel"
+        ],
+        "keywords": "Inverters,Mathematical model,Predictive control,Decoding,Induction machines,Stators,Current control"
+    },
+    {
+        "id": 5910,
+        "label": 119,
+        "author": "zhenbin zhang",
+        "title": "Model predictive torque control with an extended prediction horizon for electrical drive systems",
+        "organization": "Professor in Electrical and Energy Engineering at Shandong University Jinan China",
+        "abstract": "",
+        "email": "",
+        "conf": "International Journal of Control",
+        "coauthors": [
+            "Fengxiang Wang",
+            "Zhenbin Zhang",
+            "Ralph Kennel",
+            "Jose Rodriguez"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5878,
+        "label": 119,
+        "author": "zhenbin zhang",
+        "title": "Optimal Control Solutions for PMSM Drives: A Comparison Study with Experimental Assessments",
+        "organization": "Professor in Electrical and Energy Engineering at Shandong University Jinan China",
+        "abstract": "In this paper, a general optimum control for power converters and drives is proposed. The proposed optimum control will select an optimum voltage vector from the whole hexagonal plane, leading to the best control performance fulfilling a predefined performance index. With the proposed concept, two subsolutions, i.e., both continuous and discrete solutions, are derived and unified in the frame of optimum control. The continuous solution utilizes the averaged continuous-time model of the system and is capable of dealing with multiple system constraints, showing good performance with less calculation efforts, while the discrete solution takes the finite set of the power converter switching vectors into consideration and the state transition of the system can be predicted with a chosen vector. Both methods require less calculation efforts compared with the well-known finite-control-set model predictive control method, which makes it very suitable for practical realizations. Finally, as a case of study, the proposed concept is tested at a current-controlled 3-kW surface-mounted permanent magnet synchronous motor drive under different scenarios. The experimental results validate the effectiveness of both solutions.",
+        "email": "",
+        "conf": " IEEE Journal of Emerging and Selected Topics in Power Electronics",
+        "coauthors": [
+            "Xinbo Cai",
+            "Zhenbin Zhang",
+            "Junxiao Wang",
+            "Ralph Kennel"
+        ],
+        "keywords": "Current control,electric drives,optimum control,power converters,predictive control"
+    },
+    {
+        "id": 5849,
+        "label": 119,
+        "author": "zhenbin zhang",
+        "title": "Predictive Current Control of Five Phase Permanent Magnet Motor with Non-sinusoidal Back-EMF",
+        "organization": "Professor in Electrical and Energy Engineering at Shandong University Jinan China",
+        "abstract": "This paper presents a modified predictive current control (PCC) algorithm for five phase permanent magnet motor with non-sinusoidal back electromotive force (back-EMF), which reduces torque ripples and computational burden significantly. A cost function based on voltage tracking errors is proposed. One active voltage vector in combination with one zero voltage vector are applied to the inverter each sampling period. The switching instant is calculated analytically by solving a minimization problem of the cost function. The proposed cost function is evaluated 6 times each sampling period, thus the computational burden is greatly reduced. Simulation results show that torque ripples are greatly reduced and the currents are less distorted by using the proposed method.",
+        "email": "",
+        "conf": "Conference of the IEEE Industrial Electronics Society",
+        "coauthors": [
+            "Xicai Liu",
+            "Zhenbin Zhang",
+            "Xiaonan Gaoi",
+            "Zhixiong Li",
+            "Jin Wang",
+            "Libing Zhou",
+            "Ralph Kennel"
+        ],
+        "keywords": "Model Predictive Control,Multiphase motor drives,non-sinusoidal back EMF,Dead-Beat current control"
+    },
+    {
+        "id": 5854,
+        "label": 119,
+        "author": "zhenbin zhang",
+        "title": "Cascaded Model Predictive Control of Three-Level NPC Back-to-Back Power Converter PMSG Wind Turbine Systems",
+        "organization": "Professor in Electrical and Energy Engineering at Shandong University Jinan China",
+        "abstract": "Permanent magnet synchronous generator (PMSG) direct drive structure has a wide range of applications in high-power wind energy conversion systems. Considering this type of topology, model predictive control (MPC) has shown to be an promising control strategy. However, the cumbersome process of tuning weighting factors and the weak parameter robustness are the main drawbacks. In this work, a new control structure, as so called cascaded model predictive control is proposed. It avoids using weighting factors and has stronger parameter robustness. The proposed control strategies are validated and compared with the conventional MPC in Simulink simulation.",
+        "email": "",
+        "conf": "International Power Electronics and Application Conference and Exposition (PEAC). IEEE",
+        "coauthors": [
+            "Zhufeng Cui",
+            "Zhenbin Zhang",
+            "Qifan Yang",
+            "Ralph Kennel"
+        ],
+        "keywords": "PMSG Wind energy system,Three-level neutral point clamped back-to-back converter,Direct model predictive control,Robust control,Parameter variation,Cascaded model predictive control,Simulink"
+    },
+    {
+        "id": 5851,
+        "label": 119,
+        "author": "zhenbin zhang",
+        "title": "Centralized Direct Model Predictive Control of Back-to-Back Converters",
+        "organization": "Professor in Electrical and Energy Engineering at Shandong University Jinan China",
+        "abstract": "This paper investigates a centralized finite control set model predictive control scheme for back-to-back power converters. Based on known quasi-centralized schemes, the reference active power is computed by estimating the load power. Therefore only the DC-link voltage and currents that are flowing through the converter are measured. The active and reactive power of the system are not measured. Since the DC-link voltage is nonlinear, we linearize the system model around the current state. Based on those findings, a multistep formulation is furthermore established. In order to increase the performance of this formulation and due to the simple model a sphere decoding algorithm is used to solve corresponding multistep optimization problem. The results are then verified by numerical simulations.",
+        "email": "",
+        "conf": "IEEE International Power Electronics and Application Conference and Exposition (PEAC)",
+        "coauthors": [
+            "Ferdinand Grimm",
+            "Zhenbin Zhang"
+        ],
+        "keywords": "Predictive models,Predictive control,Mathematical model,Load modeling,Voltage control,Computational modeling,Decoding"
+    },
+    {
+        "id": 5894,
+        "label": 119,
+        "author": "zhenbin zhang",
+        "title": "FPGA Based Direct Model Predictive Power and Current Control of 3L NPC Active Front Ends",
+        "organization": "Professor in Electrical and Energy Engineering at Shandong University Jinan China",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhenbin Zhang",
+            "Ralph Kennel"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5890,
+        "label": 119,
+        "author": "zhenbin zhang",
+        "title": "DC-bus Voltage Balancing Control for Three-level NPC Inverter Using Deadbeat Controller",
+        "organization": "Professor in Electrical and Energy Engineering at Shandong University Jinan China",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Singbo Cai",
+            "Zhenbin Zhang",
+            "Ralph Kennel"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5858,
+        "label": 119,
+        "author": "zhenbin zhang",
+        "title": "Sphere Decoding Based Long-Horizon Predictive Control of Three-level NPC Back-to-Back PMSG Wind Turbine Systems",
+        "organization": "Professor in Electrical and Energy Engineering at Shandong University Jinan China",
+        "abstract": "We propose a computationally efficient control scheme for model predictive control of a three level-neutral point clamped (NPC) inverter permanent magnet synchronous generator (PMSG) back-to-back system. In order to increase the performance a multistep prediction of the system behaviour is applied. Therefore, multistep prediction models for the machine side as well as the grid side are introduced. Since the computational complexity would be growing exponentially with increasing horizon length we apply a sphere decoding algorithm to reduce the computational complexity. The sphere decoding algorithm can only be used for linear systems while the 3L-NPC BTB system is nonlinear. Therefore different simplification methods are studied in this paper.",
+        "email": "",
+        "conf": "International Power Electronics Conference (IPEC-Niigata 2018-ECCE Asia). IEEE",
+        "coauthors": [
+            "Ferdinand Grimm",
+            "Zhenbin Zhang",
+            "Ralph Kennel"
+        ],
+        "keywords": "Predictive control,Decoding,Mathematical model,Wind turbines,Prediction algorithms,Power electronics,Predictive models"
+    },
+    {
+        "id": 5855,
+        "label": 119,
+        "author": "zhenbin zhang",
+        "title": "Robust Predictive Control of 3L-NPC Converter Fed PMSM Drives for Electrical Car Applications",
+        "organization": "Professor in Electrical and Energy Engineering at Shandong University Jinan China",
+        "abstract": "Permanent-magnet synchronous motor (PMSM) fed by three-level neutral-point-clamped (3L-NPC) voltage source power converter is an attractive configuration for high-performance electrical car systems. For such topology, finite control set model predictive control (FCS-MPC) is a very promising alternative. However, due to its fully model-based concept, variations of system parameter (in particular, the stator inductance and rotor permanent-flux linkage) will affect the system control performances. In this work, a robust FCS predictive current control (PCC) method with revised predictions is proposed and validated. Experimental results reveal that with the proposed solution not only the system robustness against parameter variations is improved, but also the control variable ripples are evidently reduced in comparison with the conventional solution. The proposed method has been implemented with a fully FPGA based real-time hardware and tested at a lab-constructed test-bench.",
+        "email": "",
+        "conf": "IEEE Energy Conversion Congress and Exposition (ECCE)",
+        "coauthors": [
+            "Zhenbin Zhang",
+            "Jose Rodriguez",
+            "Ralph Kennel"
+        ],
+        "keywords": "Electrical car drives,NPC power converters,Finite control set predictive current control,Robust nonlinear control,FPGA"
+    },
+    {
+        "id": 5895,
+        "label": 119,
+        "author": "zhenbin zhang",
+        "title": "Ripple-Reduced MPDPC for Active Front End Power Converters with Extended Switching Vectors and Time-Optimized Control",
+        "organization": "Professor in Electrical and Energy Engineering at Shandong University Jinan China",
+        "abstract": "",
+        "email": "",
+        "conf": "IET Power Electronics",
+        "coauthors": [
+            "Hui Fang",
+            "Zhenbin Zhang",
+            "Xiaoyun Feng",
+            "Ralph Kennel"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5913,
+        "label": 119,
+        "author": "zhenbin zhang",
+        "title": "An experimental assessment of finite-state Predictive Torque Control for electrical drives by considering different online-optimization methods",
+        "organization": "Professor in Electrical and Energy Engineering at Shandong University Jinan China",
+        "abstract": "",
+        "email": "",
+        "conf": "Control Engineering Practice",
+        "coauthors": [
+            "Fengxiang Wang",
+            "Zhenbin Zhang",
+            "Alireza Davari",
+            "Ralph Kennel"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5845,
+        "label": 119,
+        "author": "zhenbin zhang",
+        "title": "Active Disturbance Rejection-Based Speed Control in Model Predictive Control for Induction Machines",
+        "organization": "Professor in Electrical and Energy Engineering at Shandong University Jinan China",
+        "abstract": "Finite set model predictive torque control (FCSMPTC) of induction machines has received widespread attention in recent years due to its fast dynamic response, intuitive concept, and ability to handle nonlinear constraints. However, FCSMPTC essentially belongs to the open-loop control paradigm, and unmatched parameters inevitably cause electromagnetic torque tracking error. In addition, the outer loop (i.e., the speed loop) based on a proportional-integral (PI) regulator cannot achieve optimal control between speed dynamic response and torque tracking error compensation. The traditional control paradigm is abbreviated as PI-MPTC. In order to solve the aforementioned problem, this paper proposes active disturbance-rejection-based model predictive torque control (ADR-MPTC). First, the influence mechanism of mismatched parameters on torque prediction error in PI-MPTC is studied, and then the performance of a traditional PI regulator used to compensate for torque prediction error is analyzed. Second, this paper introduces several parts of the proposed ADR-MPTC, including the design of the torque prediction error observer, nonlinear prediction error compensation strategies, an enhanced predictive torque control, and a simplified full-order flux observer. Finally, PI-MPTC and ADR-MPTC are studied experimentally. The experimental results show that compared with PI-MPTC, ADR-MPTC performs better in dynamic and steady states, and has stronger robustness.",
+        "email": "",
+        "conf": "IEEE Transactions on Industrial Electronics",
+        "coauthors": [
+            "Liming Yan",
+            "Fengxiang Wang",
+            "Manfeng Dou",
+            "Zhenbin Zhang",
+            "Ralph Kennel",
+            "Jose Rodriguez"
+        ],
+        "keywords": "Induction machine,model predictive control (MPC),nonlinear prediction error"
+    },
+    {
+        "id": 5907,
+        "label": 119,
+        "author": "zhenbin zhang",
+        "title": "FPGA HiL Simulation of Back-to-Back Converter PMSG Wind Turbine Systems",
+        "organization": "Professor in Electrical and Energy Engineering at Shandong University Jinan China",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhenbin Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5846,
+        "label": 119,
+        "author": "zhenbin zhang",
+        "title": "Discussion on Control Methods with Finite-Control-Set Concept for PMSM Drives",
+        "organization": "Professor in Electrical and Energy Engineering at Shandong University Jinan China",
+        "abstract": "This work closely investigates the generalized relationship among the four popular control methods using Finite-Control-Set Model Predictive Control (FCS-MPC)concept for voltage source power converter fed PMSM drivers. The as-investigated control methods include: direct model predictive torque control (DMPTC)in dq frame, direct model predictive current control (DMPCC)in dq frame, direct model predictive current control (DMPCC)in αβ frame and direct model predictive flux control (DMPFC)in αβ frame. Our conclusion is that, for nonsaliency based PMSM, DMPTC, DMPCC (both in αβ and dq frames), DMPFC are theoretically equivalent in achieving the control targets. However, realization effort and computational demands, i.e., the amount calculation required, are different.",
+        "email": "",
+        "conf": "International Electric Machines & Drives Conference (IEMDC). IEEE",
+        "coauthors": [
+            "Zhenkun Zhang",
+            "Zhenbin Zhang",
+            "Cristian Garcia",
+            "Jose Rodriguez",
+            "Weiqing Huang",
+            "Ralph Kennel"
+        ],
+        "keywords": "Direct Model Predictive Current Control (DM-PCC),Direct Model Predictive Flux Control (DMPFC),Direct Model Predictive Torque Control (DMPTC),Permanent Magnet Synchronous Motor (PMSM)"
+    },
+    {
+        "id": 5892,
+        "label": 119,
+        "author": "zhenbin zhang",
+        "title": "Model Predictive Current Control of Three-Level NPC Back-to-Back Power Converter PMSG Wind Turbine Systems",
+        "organization": "Professor in Electrical and Energy Engineering at Shandong University Jinan China",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhenbin Zhang",
+            "Ralph Kennel"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5906,
+        "label": 119,
+        "author": "zhenbin zhang",
+        "title": "Current Balancing Control of High Power Parallel-Connected AFE with Small Current Ripples",
+        "organization": "Professor in Electrical and Energy Engineering at Shandong University Jinan China",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Singbo Cai",
+            "Zhenbin Zhang",
+            "Ralph Kennel"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5909,
+        "label": 119,
+        "author": "zhenbin zhang",
+        "title": "FPGA based experimental investigation of a quasi-centralized model predictive control for back-to-back converters",
+        "organization": "Professor in Electrical and Energy Engineering at Shandong University Jinan China",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhenbin Zhang",
+            "F. Wang",
+            "T. Sun",
+            "R. Kennel"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5884,
+        "label": 119,
+        "author": "zhenbin zhang",
+        "title": "Sensorless Model Based Predictive Current Control for Induction Machine",
+        "organization": "Professor in Electrical and Energy Engineering at Shandong University Jinan China",
+        "abstract": "",
+        "email": "",
+        "conf": "IET Electric Power Applications",
+        "coauthors": [
+            "Fengxiang Wang",
+            "Zhenbin Zhang",
+            "Junxiao Wang",
+            "Jose Rodriguez"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5888,
+        "label": 119,
+        "author": "zhenbin zhang",
+        "title": "Performance-Enhanced Direct Multiple-Vector Model Predictive Power Control for Grid-Tied AFEs",
+        "organization": "Professor in Electrical and Energy Engineering at Shandong University Jinan China",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhenbin Zhang",
+            "Ralph Kennel",
+            "Christoph Michael Hackl"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5874,
+        "label": 119,
+        "author": "zhenbin zhang",
+        "title": "Robust Predictive Control for Direct-Driven Surface-Mounted Permanent-Magnet Synchronous Generators Without Mechanical Sensors",
+        "organization": "Professor in Electrical and Energy Engineering at Shandong University Jinan China",
+        "abstract": "In this paper, an extended Kalman filter (EKF) is employed to estimate stator currents, rotor speed, rotor position, and mechanical torque of a direct-driven surface-mounted permanent-magnet synchronous generator (PMSG) based variable-speed wind turbine systems controlled by a robust predictive deadbeat (DB) algorithm. Therefore, the flux-oriented control of the PMSG is realized without mechanical sensors (i.e., no position encoders or speed transducers). The estimated stator currents are fed back to the prediction model in order to compensate the one-step delay caused by the digital controller and to reduce the total harmonic distortion of the stator currents. Thus, the torque ripples are also reduced. Furthermore, a simple disturbance observer is presented, which estimates the perturbations caused by parameter variations of the PMSG or by any unmodeled dynamics in order to enhance the robustness of the proposed DB algorithm. The proposed scheme is experimentally validated using a 14.5-kW PMSG and a dSPACE DS1007 real-time platform. Its performance is compared with that of the conventional DB control strategy for all operation conditions and under parameter variations of the PMSG.",
+        "email": "",
+        "conf": "IEEE Transactions on Energy Conversion",
+        "coauthors": [
+            "Mohamed Abdelrahem",
+            "Christoph Michael Hackl",
+            "Zhenbin Zhang",
+            "Ralph Kennel"
+        ],
+        "keywords": "Encoderless control,extended Kalman filter,permanent-magnet synchronous generator,predictive control,variable-speed wind turbines"
+    },
+    {
+        "id": 5859,
+        "label": 119,
+        "author": "zhenbin zhang",
+        "title": "A direct power control strategy for three level neutral-point-clamped rectifier under unbalanced grid voltage",
+        "organization": "Professor in Electrical and Energy Engineering at Shandong University Jinan China",
+        "abstract": "Direct power control (DPC) strategy has attracted wide attention due to its advantages of simple structure, quick response, strong robustness, and elimination of current regulation loops/PWM blocks. Unfortunately, under unbalanced grid voltage, the conventional DPC (CDPC) scheme with the conventional definitions of active and reactive power cannot work well. In order to solve this problem, a new definition of the active power instead of the conventional one is proposed, discussed and used in this paper. As a result, good performance of the system is achieved and neither complicated calculation of a power compensation term nor positive/negative sequence extraction of grid voltages/currents are required. Then, a switching table based DPC strategy is designed based on the new definition of active power and conventional definition of reactive power. The corresponding switching table is suitable to achieve constant active power, constant reactive power and sinusoidal grid currents with very low total harmonic distortions (THDs). Simulation results are presented to confirm the theoretical study and the effectiveness of the proposed DPC with the new definition of active power (DPC-NP). The performance of the proposed DPC-NP is compared with that of the CDPC and that of the DPC with a new definition of reactive power (DPC-NQ).",
+        "email": "zbz@sdu.edu.cn",
+        "conf": "Electric Power Systems Research",
+        "coauthors": [
+            "Billel Kahia",
+            "Abdelouahab Bouafia",
+            "Abdelmadjid Chaoui",
+            "Zhenbin Zhang",
+            "Mohamed Abdelrahem",
+            "Ralph Kennel"
+        ],
+        "keywords": "Active and reactive power,Neutral-point clamped,Switch table,Direct power control,Unbalanced grid voltage"
+    },
+    {
+        "id": 5880,
+        "label": 119,
+        "author": "zhenbin zhang",
+        "title": "Nonlinear Direct Control for Three-Level NPC Back-to-Back Converter PMSG Wind Turbine Systems: Experimental Assessment with FPGA",
+        "organization": "Professor in Electrical and Energy Engineering at Shandong University Jinan China",
+        "abstract": "Finite control set model predictive control techniques have been emerged as good alternatives in particularly for multilevel and multiphase power converters, for which switching vectors with multiple magnitudes/directions are available but the modulator or switching table design becomes complex. In this paper, a finite-control-set model predictive direct torque and power control (FCS-DTC-DPC) for grid-tied three-level neutral-point clamped back-to-back power converters in permanent-magnet synchronous generator wind turbine systems is presented and experimentally compared with its counterpart: switching table-based direct torque and power control (ST-DTC-DPC). Both methods have been implemented and verified at a lab-constructed setup with a fully FPGA-based real-time controller. Experimental results confirm that both achieve (equivalently) good control dynamics, whereas FCS-DTC-DPC outperforms ST-DTC-DPC in terms of steady-state control performances at similar switching frequencies but has a higher computational demanding and is more sensitive to system parameter variations.",
+        "email": "",
+        "conf": "IEEE Transactions on Industrial Informatics",
+        "coauthors": [
+            "Zhenbin Zhang",
+            "Fengxiang Wang",
+            "Junxiao Wang",
+            "Jose Rodriguez",
+            "Ralph Kennel"
+        ],
+        "keywords": "3L-NPC back-to-back converter,FCS and switching table based DTC and DPC,FPGA digital control,nonlinear direct control,wind energy system with PMSG"
+    },
+    {
+        "id": 5869,
+        "label": 119,
+        "author": "zhenbin zhang",
+        "title": "Multistep Predictive Control of Three-Level NPC Converters using Weak Derivative Linearization",
+        "organization": "Professor in Electrical and Energy Engineering at Shandong University Jinan China",
+        "abstract": "We propose a novel framework for multistep predictive current control for induction machines and 3 Level-Neutral Point Clamped Inverter. To ensure low computational complexity The multistep prediction horizon is implemented using a sphere decoding algorithm. The DC-link balancing is guaranteed by adding a linearized DC-link balancing term. In order to obtain high accuracy, the linearization is performed during the online stage of the framework. Since the system is not differentiable we furthermore define a linearization framework based on the weak derivative. The framework is verified by means of simulations.",
+        "email": "",
+        "conf": "Chinese Automation Congress (CAC). IEEE",
+        "coauthors": [
+            "Ferdinand Grimm",
+            "Zhenbin Zhang",
+            "Fengxiang Wang",
+            "Ralph Kennel"
+        ],
+        "keywords": "Induction machines,Inverters,Mathematical model,Stators,Cost function,Current control,Prediction algorithms"
+    },
+    {
+        "id": 5885,
+        "label": 119,
+        "author": "zhenbin zhang",
+        "title": "Sensorless predictive control for an induction machine",
+        "organization": "Professor in Electrical and Energy Engineering at Shandong University Jinan China",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Fengxiang Wang",
+            "Xuezhu Mei",
+            "Zhenbin Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5864,
+        "label": 119,
+        "author": "zhenbin zhang",
+        "title": "Current Based Open-Circuit Fault Diagnosis and Fault-Tolerant Control for Two-Level Power Converters with Direct Model Predictive Control",
+        "organization": "Professor in Electrical and Energy Engineering at Shandong University Jinan China",
+        "abstract": "Model predictive control (MPC) is a promising alternative for power electronics and electric drives. Research on fault diagnosis and fault-tolerant control for power converters with MPC is insufficient. Accurate fault diagnosis and fault-tolerant control solutions with easy implementation are very desirable. In this work we propose a novel current based fault diagnosis method of one-and two-phase open-circuit fault of machine-side converter in advanced back-to-back four-quadratic drive topologies, which is highly immunized from false alarm. The fault-tolerant control scheme can be easily embedded into normal MPC control algorithm. Simulation results validate the feasibility of proposed fault diagnosis and fault-tolerant control methods.",
+        "email": "",
+        "conf": "Conference of the IEEE Industrial Electronics Society. IEEE",
+        "coauthors": [
+            "Zhenbin Zhang",
+            "Kejun Cai",
+            "Ralph Kennel"
+        ],
+        "keywords": "Fault diagnosis,Fault tolerance,Fault tolerant systems,Switches,Legged locomotion,Fault detection,Indexes"
+    },
+    {
+        "id": 5901,
+        "label": 119,
+        "author": "zhenbin zhang",
+        "title": "Fully FPGA Based Direct Model Predictive Power Control for Grid-Tied AFEs with Improved Performance",
+        "organization": "Professor in Electrical and Energy Engineering at Shandong University Jinan China",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhenbin Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5866,
+        "label": 119,
+        "author": "zhenbin zhang",
+        "title": "Long-Horizon Predictive Current Control of Modular-Multilevel Converter HVDC Systems",
+        "organization": "Professor in Electrical and Energy Engineering at Shandong University Jinan China",
+        "abstract": "High voltage direct current (HVDC) transmission systems play an increasingly important role in offshore wind energy and long distance energy transmission systems. Modular multilevel converter (MMC) is an attractive topology for HVDC systems, due to its good modularity, scalability and inherent fault tolerant capabilities. For such topology, model predictive control (MPC) is a promising alternative. In particular, the long-horizon MPC provides better performances in terms of smaller THDs at very low switching frequency. However, its computational load is seen as a big challenge. In this paper we apply a long-horizon model predictive current control (MPCC) to a seven-level MMC-HVDC system. A switch and extrapolation and capacitor voltage sorting techniques are developed and combined to reduce the total computational burden. Performances of the proposed control strategy are evaluated with simulation results at a 65 MVA back-to-back 7L-MMC-HVDC configuration.",
+        "email": "",
+        "conf": "Annual Conference of the IEEE Industrial Electronics Society. IEEE",
+        "coauthors": [
+            "Zhenbin Zhang",
+            "Mahmoud T Larijani",
+            "Wei Tian",
+            "Xiaonan Gao",
+            "Jose Rodriguez",
+            "Ralph Kennel"
+        ],
+        "keywords": "Modular multilevel converter (MMC),Long-horizon model predictive control (MPC),Capacitor voltage balancing,Capacitor voltage sorting algorithm,High voltage direct current (HVDC) transmission"
+    },
+    {
+        "id": 5847,
+        "label": 119,
+        "author": "zhenbin zhang",
+        "title": "Decoupled Multistep Model Predictive Control of Permanent Magnet Synchronous Machines",
+        "organization": "Professor in Electrical and Energy Engineering at Shandong University Jinan China",
+        "abstract": "We propose a novel multistep model predictive current control framework for synchronous machines. The proposed framework is based on the mathematical structure of the system model in different coordinate systems. Since the dynamics of the stator currents of the machine are independent of each other, it is possible to decouple them within the cost function in stationary coordinate frames. Based on this properties, a multistep prediction model is established. In order to obtain the optimal solution efficiently, we furthermore propose a specialized sphere decoder-based algorithm that is tailored to decoupled current control. Compared to existing approaches the proposed method does not require any matrix inversion ir decomposition for the formulation of the optimization problem. For this reason it is especially suitable for electric drive systems with large and or rank deficient system matrices. The framework is verified with the help of numerical simulations.",
+        "email": "",
+        "conf": "Southern Power Electronics Conference (SPEC), IEEE",
+        "coauthors": [
+            "Ferdinand Grimm",
+            "Zhenbin Zhang"
+        ],
+        "keywords": "Transient Model Predictive Control,Electric Drives,Decoupling,Sphere Decoder"
+    },
+    {
+        "id": 5853,
+        "label": 119,
+        "author": "zhenbin zhang",
+        "title": "A Comparative Investigation of SDMPC FOC and Bang-bang Control for Induction Motor Drives",
+        "organization": "Professor in Electrical and Energy Engineering at Shandong University Jinan China",
+        "abstract": "This work investigates different control strategies for the induction motor (IM) drives in the electrical car application filed. Three control strategies, namely, a sequential direct model predictive control (SDMPC), a field oriented control (FOC) and a nonlinear hysteresis based controller (bang-bang control), were investigated and compared in this work. Following conclusions are drawn: the newly proposed SDMPC and the hysteresis controller will outperform the classical FOC control strategy in terms of the control dynamics; while during steady state, FOC achieves the best performance via using a modulator; In comparison with the conventional hysteresis controller, the SDMPC provides good flexibility via cost functions, and less tuning efforts. Thanks to its cascaded structure, no weighting factors are required in comparison with the classical MPC. At the end simulations are conducted, which confirm the above conclusion.",
+        "email": "",
+        "conf": "nternational Power Electronics and Application Conference and Exposition (PEAC). IEEE",
+        "coauthors": [
+            "Yongdu Wang",
+            "Zhenbin Zhang",
+            "Feng Gao"
+        ],
+        "keywords": "field oriented control,sequential direct model predictive control,no weighting factor MPC"
+    },
+    {
+        "id": 5863,
+        "label": 119,
+        "author": "zhenbin zhang",
+        "title": "Multi Level Hysteresis Direct Power Control Strategy for Three-Level NPC Rectifier",
+        "organization": "Professor in Electrical and Energy Engineering at Shandong University Jinan China",
+        "abstract": "Using the conventional look-up table-direct power control (LUT-DPC) strategy with its two-level hysteresis comparators and conventional switching table, poor regulation of active power (abnormal fluctuations appeared in reactive power waveform), non-sinusoidal input currents with a little high THD and depressed power factor are obtained. This study therefore set out to solve these problems; the conventional switching table and the two level hysteresis comparators are replaced respectively by a new switching table and three level hysteresis comparators. In this way, the influence of each voltage vectors are determined through utilizing the instantaneous power theory. Finally, the effectiveness of the proposed DPC strategy is verified, sinusoidal input currents with low high total harmonic distortion (THD), smooth regulation of both powers (active and reactive power) are achieved, and the simplicity of the conventional DPC is kept.",
+        "email": "",
+        "conf": "International Conference on Electrical Engineering-Boumerdes (ICEE-B). IEEE",
+        "coauthors": [
+            "Billel Kahia",
+            "Abdelouaheb Bouafia",
+            "Mohamed Abdelrahem",
+            "Zhenbin Zhang",
+            "Abdelmadjid Chaoui",
+            "Abdelbasset Karma",
+            "Ralph Kennel"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5891,
+        "label": 119,
+        "author": "zhenbin zhang",
+        "title": "Fully FPGA Based Predictive Control of Back-to-Back Power Converter PMSG Wind Turbine Systems with Space Vector Modulator",
+        "organization": "Professor in Electrical and Energy Engineering at Shandong University Jinan China",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhenbin Zhang",
+            "Singbo Cai",
+            "Ralph Kennel"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5860,
+        "label": 119,
+        "author": "zhenbin zhang",
+        "title": "A Very Simple Strategy for High Quality Performance of AC Machines Using Model Predictive Control",
+        "organization": "Professor in Electrical and Energy Engineering at Shandong University Jinan China",
+        "abstract": "This paper presents a new and very simple strategy for torque and flux control of ac machines. The method is based on model predictive control and uses one cost function for the torque and a separate cost function for the flux. This strategy introduces a drastic simplification, achieving a very fast dynamic behavior in the controlled machines. Experimental results obtained with an induction machine confirm the drive's very good performance.",
+        "email": "",
+        "conf": "IEEE Transactions on Power Electronics",
+        "coauthors": [
+            "Margarita Norambuena",
+            "Jose Rodriguez",
+            "Zhenbin Zhang",
+            "Fengxiang Wang",
+            "Cristian Garcia",
+            "Ralph Kennel GAE"
+        ],
+        "keywords": "Drives,power electronics,predictive control"
+    },
+    {
+        "id": 5886,
+        "label": 119,
+        "author": "zhenbin zhang",
+        "title": "Computationally efficient Direct Model Predictive Control for three-level NPC back-to-back converter PMSG wind turbine systems",
+        "organization": "Professor in Electrical and Energy Engineering at Shandong University Jinan China",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhenbin Zhang",
+            "Ralph Kennel",
+            "Christoph Michael Hackl"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5903,
+        "label": 119,
+        "author": "zhenbin zhang",
+        "title": "On Control of Grid-Tied Back-to-Back Power Converters and Permanent Magnet Synchronous Generator Wind Turbine Systems",
+        "organization": "Professor in Electrical and Energy Engineering at Shandong University Jinan China",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhenbin Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5870,
+        "label": 119,
+        "author": "zhenbin zhang",
+        "title": "Multistep Predictive Control of 3L-NPC Power Converters: A Nonlinear Branch-and-Bound Solution",
+        "organization": "Professor in Electrical and Energy Engineering at Shandong University Jinan China",
+        "abstract": "We propose a novel framework for multistep predictive current control for induction machines and 3 Level-Neutral Point Clamped Inverter with DC-link balancing. In order to achieve those goals, a nonlinear cost function that weighs different control goals against each other is proposed. The main contribution of this work is the solution of the nonlinear minimization problem of the cost function directly. Since the optimization problem is an integer valued minimization we select a branch-and-bound based algorithm. The performance of the framework is then evaluated by means of simulations.",
+        "email": "",
+        "conf": "Chinese Automation Congress (CAC). IEEE",
+        "coauthors": [
+            "Ferdinand Grimm",
+            "Zhenbin Zhang",
+            "Fengxiang Wang",
+            "Ralph Kennel"
+        ],
+        "keywords": "Prediction algorithms,Cost function,Inverters,Predictive control,Induction machines,Decoding"
+    },
+    {
+        "id": 5904,
+        "label": 119,
+        "author": "zhenbin zhang",
+        "title": "Novel Ripple Reduced Direct Model Predictive Control of Three-level NPC Active Front End With Reduced Computational Effort",
+        "organization": "Professor in Electrical and Energy Engineering at Shandong University Jinan China",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhenbin Zhang",
+            "Ralph Kennel"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5905,
+        "label": 119,
+        "author": "zhenbin zhang",
+        "title": "Direct Model Predictive Control of Three-Level NPC Back-to-Back Power Converter PMSG Wind Turbine Systems Under Unbalanced Grid",
+        "organization": "Professor in Electrical and Energy Engineering at Shandong University Jinan China",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhenbin Zhang",
+            "Ralph Kennel"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5848,
+        "label": 119,
+        "author": "zhenbin zhang",
+        "title": "Sequential Direct Model Predictive Control for Gird-Tied Three-Level NPC Power Converters",
+        "organization": "Professor in Electrical and Energy Engineering at Shandong University Jinan China",
+        "abstract": "A sequential direct model predictive control (SDMPC) for the grid-tied three-level neutral-point clamped (3L-NPC) converters is proposed in this work. For the underlying 3L-NPC grid-tied power converter, control objectives are active/reactive current tracking and neutral-point voltage balance. The proposed solution utilized two cascaded cost functions, dealing with the above control objectives in a sequential manner without using weighting factors, such that the tedious parameter tuning process is eliminated. It is different from the classical direct model predictive control (CDMPC), which combines both control objectives into a single cost function with a tunable penalty coefficient, i.e., the weighting factor. A thorough comparison investigation between CDMPC and the proposed method was carried out. The simulation results showed that both methods achieve comparably good performance. While SDMPC considerably reduces the tuning efforts, and simplifies the engineering design process.",
+        "email": "",
+        "conf": "IEEE International Power Electronics and Application Conference and Exposition (PEAC)",
+        "coauthors": [
+            "Xiaodong Liu",
+            "Zhenbin Zhang",
+            "Feng Gao",
+            "Margarita Norambuena",
+            "Jose Rodriguez",
+            "Ozen Yavas",
+            "Ralph Kennel"
+        ],
+        "keywords": "three-level neutral-point clamped converter,sequential direct model predictive control,grid side"
+    },
+    {
+        "id": 5868,
+        "label": 119,
+        "author": "zhenbin zhang",
+        "title": "Computationally Efficient Predictive Control of Grid-Tied Three-Level NPC Active-Front-Ends: A CPS Based Solution",
+        "organization": "Professor in Electrical and Energy Engineering at Shandong University Jinan China",
+        "abstract": "A cyber-physical system (CPS) approach for branch and bound algorithm based direct model predictive control (BnB-DMPC) for grid-tied Active Front End (AFE) power converters is proposed in this work. The proposed control strategy deals with both the physical states and a cyber state, i.e. the sampling frequency. With the help of cyber controller, the cyber resource and sampling rate are regulated based on the performance of the physical systems and the reference cyber state. The proposed control scheme provides a computationally efficient predictive control alternative. Additionally, the proposed CPS based BnB-MPC controller achieves better performances in comparison with the recently reported branch-and-bound predictive control solution, which is validated with simulation data.",
+        "email": "",
+        "conf": "Chinese Automation Congress (CAC). IEEE",
+        "coauthors": [
+            "Zhenbin Zhang",
+            "Zeren Lu",
+            "Bo Sun"
+        ],
+        "keywords": "Cyber physical system,branch and bound,direct model predictive power control,grid-tied active front end"
+    }
+]

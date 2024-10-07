@@ -1,0 +1,2734 @@
+[
+    {
+        "id": 6255,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Scalable Linear Visual Feature Learning via Online Parallel Nonnegative Matrix Factorization",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "Visual feature learning, which aims to construct an effective feature representation for visual data, has a wide range of applications in computer vision. It is often posed as a problem of nonnegative matrix factorization (NMF), which constructs a linear representation for the data. Although NMF is typically parallelized for efficiency, traditional parallelization methods suffer from either an expensive computation or a high runtime memory usage. To alleviate this problem, we propose a parallel NMF method called alternating least square block decomposition (ALSD), which efficiently solves a set of conditionally independent optimization subproblems based on a highly parallelized fine-grained grid-based blockwise matrix decomposition. By assigning each block optimization subproblem to an individual computing node, ALSD can be effectively implemented in a MapReduce-based Hadoop framework. In order to cope with dynamically varying visual data, we further present an incremental version of ALSD, which is able to incrementally update the NMF solution with a low computational cost. Experimental results demonstrate the efficiency and scalability of the proposed methods as well as their applications to image clustering and image retrieval.",
+        "email": "",
+        "conf": "IEEE Transactions on Neural Networks and Learning Systems",
+        "coauthors": [
+            "Xueyi Zhao",
+            "Xi Li",
+            "Zhongfei Zhang",
+            "Chunhua Shen",
+            "Yueting Zhuang",
+            "Lixin Gao",
+            "Xuelong Li"
+        ],
+        "keywords": "Feature learning,nonnegative matrix factorization (NMF),online algorithm,parallel computing"
+    },
+    {
+        "id": 6380,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Applying data mining in investigating money laundering crimes",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhongfei Zhang",
+            "John J. Salerno",
+            "Philip S. Yu"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6305,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "RKOF: Robust Kernel-Based Local Outlier Detection",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Jun Gao",
+            "Weiming Hu",
+            "Zhongfei Zhang",
+            "Ou Wu"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6272,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Scalable Nonnegative Matrix Factorization with Block-wise Updates",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "Nonnegative Matrix Factorization (NMF) has been applied with great success to many applications. As NMF is applied to massive datasets such as web-scale dyadic data, it is desirable to leverage a cluster of machines to speed up the factorization. However, it is challenging to efficiently implement NMF in a distributed environment. In this paper, we show that by leveraging a new form of update functions, we can perform local aggregation and fully explore parallelism. Moreover, under the new form of update functions, we can perform frequent updates, which aim to use the most recently updated data whenever possible. As a result, frequent updates are more efficient than their traditional concurrent counterparts. Through a series of experiments on a local cluster as well as the Amazon EC2 cloud, we demonstrate that our implementation with frequent updates is up to two orders of magnitude faster than the existing implementation with the traditional form of update functions.",
+        "email": "",
+        "conf": "Joint European Conference on Machine Learning and Knowledge Discovery in Databases",
+        "coauthors": [
+            "Jiangtao Yin",
+            "Lixin Gao",
+            "Zhongfei Mark Zhang"
+        ],
+        "keywords": "Loss Function, Matrix Factorization, Single Machine, Nonnegative Matrix Factorization, Factor Matrice "
+    },
+    {
+        "id": 6317,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Structured Max Margin Learning on Image Annotation and Multimodal Image Retrieval",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhen Guo",
+            "Zhongfei Zhang",
+            "Eric P. Xing",
+            "Christos Faloutsos"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6260,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Joint Structural Learning To Rank With Deep Linear Feature Learning",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "Multimedia information retrieval usually involves two key modules including effective feature representation and ranking model construction. Most existing approaches are incapable of well modeling the inherent correlations and interactions between them, resulting in the loss of the latent consensus structure information. To alleviate this problem, we propose a learning to rank approach that simultaneously obtains a set of deep linear features and constructs structure-aware ranking models in a joint learning framework. Specifically, the deep linear feature learning corresponds to a series of matrix factorization tasks in a hierarchical manner, while the learning-to-rank part concentrates on building a ranking model that effectively encodes the intrinsic ranking information by structural SVM learning. Through a joint learning mechanism, the two parts are mutually reinforced in our approach, and meanwhile their underlying interaction relationships are implicitly reflected by solving an alternating optimization problem. Due to the intrinsic correlations among different queries (i.e., similar queries for similar ranking lists), we further formulate the learning-to-rank problem as a multi-task problem, which is associated with a set of mutually related query-specific learning-to-rank subproblems. For computational efficiency and scalability, we design a MapReduce-based parallelization approach to speed up the learning processes. Experimental results demonstrate the efficiency, effectiveness, and scalability of the proposed approach in multimedia information retrieval.",
+        "email": "",
+        "conf": "IEEE Transactions on Knowledge and Data Engineering",
+        "coauthors": [
+            "Xueyi Zhao",
+            "Xi Li",
+            "Zhongfei Zhang"
+        ],
+        "keywords": "Learning to rank,information retrieval,deep feature learning,matrix factorization,structural SVM,joint learning"
+    },
+    {
+        "id": 6404,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Automatic Calibration For A Robot Navigation System",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhongfei Zhang",
+            "Richard Weiss",
+            "Allen Hanson"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6240,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Relational data clustering. Models algorithms and applications",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "A culmination of the authors years of extensive research on this topic, Relational Data Clustering: Models, Algorithms, and Applications addresses the fundamentals and applications of relational data clustering. It describes theoretic models and algorithms and, through examples, shows how to apply these models and algorithms to solve real-world problems. After defining the field, the book introduces different types of model formulations for relational data clustering, presents various algorithms for the corresponding models, and demonstrates applications of the models and algorithms through extensive experimental results. The authors cover six topics of relational data clustering: Clustering on bi-type heterogeneous relational data Multi-type heterogeneous relational data Homogeneous relational data clustering Clustering on the most general case of relational data Individual relational clustering framework Recent research on evolutionary clustering This book focuses on both practical algorithm derivation and theoretical framework construction for relational data clustering. It provides a complete, self-contained introduction to advances in the field.",
+        "email": "",
+        "conf": "CRC Press",
+        "coauthors": [
+            "Bo Long",
+            "Zhongfei Zhang",
+            "Philip S. Yu"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6367,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Stretching Bayesian Learning in the Relevance Feedback of Image Retrieval",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Ruofei Zhang",
+            "Zhongfei Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6321,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Spectral Graph Partitioning Based on a Random Walk Diffusion Similarity Measure",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Xi Li",
+            "Weiming Hu",
+            "Zhongfei Zhang",
+            "Yang Liu"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6335,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Robust Foreground Segmentation Based on Two Effective Background Models",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Xi Li",
+            "Weiming Hu",
+            "Zhongfei Zhang",
+            "Xiaoqing Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6284,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Cross-media semantic representation via bi-directional learning to rank",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Fei Wu",
+            "Xinyan Lu",
+            "Zhongfei Zhang",
+            "Yueting Zhuang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6314,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Multimedia Data Mining",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhongfei Zhang",
+            "Ruofei Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6250,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "DeepIntent: Learning Attentions for Online Advertising with Recurrent Neural Networks",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "In this paper, we investigate the use of recurrent neural networks (RNNs) in the context of search-based online advertising. We use RNNs to map both queries and ads to real valued vectors, with which the relevance of a given (query, ad) pair can be easily computed. On top of the RNN, we propose a novel attention network, which learns to assign attention scores to different word locations according to their intent importance (hence the name DeepIntent). The vector output of a sequence is thus computed by a weighted sum of the hidden states of the RNN at each word according their attention scores. We perform end-to-end training of both the RNN and attention network under the guidance of user click logs, which are sampled from a commercial search engine. We show that in most cases the attention network improves the quality of learned vector representations, evaluated by AUC on a manually labeled dataset. Moreover, we highlight the effectiveness of the learned attention scores from two aspects: query rewriting and a modified BM25 metric. We show that using the learned attention scores, one is able to produce sub-queries that are of better qualities than those of the state-of-the-art methods. Also, by modifying the term frequency with the attention scores in a standard BM25 formula, one is able to improve its performance evaluated by AUC.",
+        "email": "",
+        "conf": "SIGKDD international conference on knowledge discovery and data mining",
+        "coauthors": [
+            "Shuangfei Zhai",
+            "Keng-hao Chang",
+            "Ruofei Zhang",
+            "Zhongfei Mark Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6262,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Weakly Semi-Supervised Deep Learning for Multi-Label Image Annotation",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "In this paper, we study leveraging both weakly labeled images and unlabeled images for multi-label image annotation. Motivated by the recent advance in deep learning, we propose an approach called weakly semi-supervised deep learning for multi-label image annotation (WeSed). In WeSed, a novel weakly weighted pairwise ranking loss is effectively utilized to handle weakly labeled images, while a triplet similarity loss is employed to harness unlabeled images. WeSed enables us to train deep convolutional neural network (CNN) with images from social networks where images are either only weakly labeled with several labels or unlabeled. We also design an efficient algorithm to sample high-quality image triplets from large image datasets to fine-tune the CNN. WeSed is evaluated on benchmark datasets for multi-label annotation. The experiments demonstrate the effectiveness of our proposed approach and show that the leverage of the weakly labeled images and unlabeled images leads to a significantly better performance.",
+        "email": "",
+        "conf": "IEEE Transactions on Big Data",
+        "coauthors": [
+            "Fei Wu",
+            "Zhuhao Wang",
+            "Zhongfei Mark Zhang",
+            "Yi Yang",
+            "Jiebo Luo",
+            "Wenwu Zhu",
+            "Yueting Zhuang"
+        ],
+        "keywords": "Weakly labeled image,unlabeled image,deep learning,ranking loss"
+    },
+    {
+        "id": 6307,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "A General Model for Relational Clustering",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Bo Long",
+            "Zhongfei Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6322,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Towards developing a unified multimodal image retrieval framework",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhongfei Zhang",
+            "Zhen Guo",
+            "Ruofei Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6313,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Machine Learning Approaches to Link-Based Clustering",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhongfei Zhang",
+            "Bo Long",
+            "Zhen Guo",
+            "Philip S. Yu"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6397,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Identifying human faces in general appearances",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhongfei Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6349,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Determining Course of Action Alignment with Operational Objectives",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Duan Gilmour",
+            "Zhongfei Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6356,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "FAST: Toward more effective and efficient image retrieval",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "Multimedia Systems",
+        "coauthors": [
+            "Ruofei Zhang",
+            "Zhongfei Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6309,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Robust object tracking using a spatial pyramid heat kernel structural information representation",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "Neurocomputing",
+        "coauthors": [
+            "Xi Li",
+            "Weiming Hu",
+            "Hanzi Wang",
+            "Zhongfei Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6266,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Deep learning driven blockwise moving object detection with binary scene modeling",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "As an important and challenging topic in computer vision, moving object detection is typically posed as a problem of scene analysis, which usually requires both robust feature description and effective statistical modeling. In general, the conventional detection methods make use of pre-defined hand-crafted features and sophisticated background models for scene analysis. Therefore, they usually have a low generalization capability of adapting to different scenes with diverse spatio-temporal motion information. In the face of high-definition video data, sophisticated statistical modeling often suffers from an expensive computation or memory cost because of its low efficiency in evaluation and parallelization. In order to address this issue, we propose a deep learning based block-wise scene analysis method equipped with a binary spatio-temporal scene model. Based on the stacked denoising autoencoder, the deep learning module of the proposed method aims to learn an effective deep image representation encoding the intrinsic scene information, which leads to the robustness of feature description. Furthermore, the proposed binary scene model captures the spatio-temporal scene distribution information in the Hamming space, which ensures the high efficiency of moving object detection. Experimental results on several datasets demonstrate the effectiveness and efficiency of the proposed method.",
+        "email": "",
+        "conf": "Neurocomputing",
+        "coauthors": [
+            "Yaqing Zhang",
+            "Xi Li",
+            "Zhongfei Zhang",
+            "Fei Wu",
+            "Liming Zhao"
+        ],
+        "keywords": "Moving object detection,Deep learning,Feature binarization"
+    },
+    {
+        "id": 6340,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "On the Scalability and Adaptability for Multimodal Retrieval and Annotation",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhongfei Zhang",
+            "Z. Guo",
+            "C. Faloutsos",
+            "Jia-Yu Pan"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6323,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "A Latent Topic Model for Linked Documents",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhen Guo",
+            "Shenghuo Zhu",
+            "Yun Chi",
+            "Yihong Gong"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6388,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "WebSSQL --- A Query Language for Multimedia Web Documents",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Changqing Zhang",
+            "Weiyi Meng",
+            "Zhongfei Zhang",
+            "Zonghuan Wu"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6302,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Pattern change discovery between high dimensional data sets",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Yi Xu",
+            "Zhongfei Zhang",
+            "Philip S. Yu",
+            "Bo Long"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6372,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Exploiting the cognitive synergy between different media modalities in multimodal information retrieval.",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhongfei Zhang",
+            "Ruofei Zhang",
+            "Jun Ohya"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6348,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Automatic medical image annotation and retrieval using SEMI-SECC",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Jian Yao",
+            "Zhongfei Zhang",
+            "Sameer Kiran Antani",
+            "George R. Thoma"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6273,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Editorial of the special issue on cross-media analysis",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "Today, there are lots of heterogeneous and homogeneous media data from multiple sources, such as news media websites, microblog, mobile phone, social networking websites, and photo/video sharing websites. Integrated together, these media data represent different aspects of the real-world and help document the evolution of the world. Consequently, it is impossible to correctly conceive and to appropriately understand the world without exploiting the data available on these different sources of rich multimedia content simultaneously and synergistically. Cross-media analysis is a research area in the general field of multimedia content analysis that focuses on the exploitation of the data with different modalities from multiple sources simultaneously and synergistically to discover knowledge and understand the world. Specifically, we emphasize two essential elements in the study of cross-media analysis that help differentiate cross-media analysis from the rest of the research in multimedia content analysis or machine learning. The first is the simultaneous co-existence of data from two or more different data sources. This element indicates the concept of ”cross”, e.g., cross-modality, cross-source, and cross-cyberspace to reality. Cross-modality means that heterogeneous features are obtained from the data in different modalities; cross-source means that the data may be obtained across multiple sources (domains or collections); cross-space means that the virtual world (i.e., cyberspace) and the real world (i.e., reality) complement each other. The second is the leverage of different types of data across multiple sources for strengthening the knowledge discovery, for example, discovering the (latent) correlation or synergy between the data with different modalities across multiple sources, transferring the knowledge learned from one domain (e.g., a modality or a space) to generate knowledge in another related domain, and generating a summary with the data from multiple sources. These two essential elements help promote cross-media analysis as a new, emerging, and important research area in today’s multimedia research. With the emphasis on knowledge discovery, cross-media analysis is different from the traditional research areas, such as cross-lingual translation. On the other hand, with the general scenarios of the leverage of different types of data across multiple sources for strengthening the knowledge discovery, cross-media analysis addresses a broader series of problems than the traditional research areas, such as transfer learning. Overall, cross-media analysis is beneficial for many applications in data mining, causal inference, machine learning, multimedia, and public security.",
+        "email": "",
+        "conf": "Int J Multimed Info Retr",
+        "coauthors": [
+            "Zhongfei Zhang",
+            "Yueting Zhuang",
+            "Ramesh Jain",
+            "Jia-Yu Pan"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6361,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Co-clustering by block value decomposition",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Bo Long",
+            "Zhongfei Zhang",
+            "Philip S. Yu"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6342,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "A Max Margin Framework on Image Annotation and Multimodal Image Retrieval",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhen Guo",
+            "Zhongfei Zhang",
+            "Eric P. Xing",
+            "Christos Faloutsos"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6341,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "A probabilistic framework for relational clustering",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Bo Long",
+            "Zhongfei Zhang",
+            "Philip S. Yu"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6286,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Semi-supervised learning based on semiparametric regularization",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhen Guo",
+            "Zhongfei Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6379,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Independent motion detection directly from compressed surveillance video",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhongfei Zhang",
+            "Stoyan Kurtev"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6263,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "E-commerce business model mining and prediction",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "We study the problem of business model mining and prediction in the e-commerce context. Unlike most existing approaches where this is typically formulated as a regression problem or a time-series prediction problem, we take a different formulation to this problem by noting that these existing approaches fail to consider the potential relationships both among the consumers (consumer influence) and among the shops (competitions or collaborations). Taking this observation into consideration, we propose a new method for e-commerce business model mining and prediction, called EBMM, which combines regression with community analysis. The challenge is that the links in the network are typically not directly observed, which is addressed by applying information diffusion theory through the consumer-shop network. Extensive evaluations using Alibaba Group e-commerce data demonstrate the promise and superiority of EBMM to the state-of-the-art methods in terms of business model mining and prediction.",
+        "email": "zhongfei@cs.binghamton.edu",
+        "conf": "Frontiers of Information Technology & Electronic Engineering",
+        "coauthors": [
+            "Zhou-zhou He",
+            "Zhongfei Zhang",
+            "Chun-ming Chen",
+            "Zheng-gang Wang"
+        ],
+        "keywords": "E-commerce, Business model prediction, Consumer influence, Social network, Sales prediction"
+    },
+    {
+        "id": 6400,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Obstacle Detection Based on Partial 3D Reconstruction",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhongfei Zhang",
+            "Richard Weiss",
+            "Allen Hanson"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6336,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Clustering on Complex Graphs",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Bo Long",
+            "Zhongfei Zhang",
+            "Philip S. Yu",
+            "Tianbing Xu"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6241,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Multimedia data mining. A systematic introduction to concepts and theory",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "Collecting the latest developments in the field, Multimedia Data Mining: A Systematic Introduction to Concepts and Theory defines multimedia data mining, its theory, and its applications. Two of the most active researchers in multimedia data mining explore how this young area has rapidly developed in recent years. The book first discusses the theoretical foundations of multimedia data mining, presenting commonly used feature representation, knowledge representation, statistical learning, and soft computing techniques. It then provides application examples that showcase the great potential of multimedia data mining technologies. In this part, the authors show how to develop a semantic repository training method and a concept discovery method in an imagery database. They demonstrate how knowledge discovery helps achieve the goal of imagery annotation. The authors also describe an effective solution to large-scale video search, along with an application of audio data classification and categorization. This novel, self-contained book examines how the merging of multimedia and data mining research can promote the understanding and advance the development of knowledge discovery in multimedia data.",
+        "email": "",
+        "conf": "CRC Press",
+        "coauthors": [
+            "Zhongfei Zhang",
+            "Ruofei Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6334,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "A Holistic In-Compression Approach to Video Segmentation for Independent Motion Detection",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal on Advances in Signal Processing",
+        "coauthors": [
+            "Zhongfei Zhang",
+            "Khan Haroon",
+            "Mark A. Robertson"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6298,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Unsupervised Ensemble Learning for Mining Top-n Outliers",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Jun Gao",
+            "Weiming Hu",
+            "Zhongfei Zhang",
+            "Ou Wu"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6243,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Hierarchical Contextual Attention Recurrent Neural Network for Map Query Suggestion",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "The query logs from an on-line map query system provide rich cues to understand the behaviors of human crowds. With the growing ability of collecting large scale query logs, the query suggestion has been a topic of recent interest. In general, query suggestion aims at recommending a list of relevant queries w.r.t. users' inputs via an appropriate learning of crowds' query logs. In this paper, we are particularly interested in map query suggestions (e.g., the predictions of location-related queries) and propose a novel model Hierarchical Contextual Attention Recurrent Neural Network (HCAR-NN) for map query suggestion in an encoding-decoding manner. Given crowds map query logs, our proposed HCAR-NN not only learns the local temporal correlation among map queries in a query session (e.g., queries in a short-term interval are relevant to accomplish a search mission), but also captures the global longer range contextual dependencies among map query sessions in query logs (e.g., how a sequence of queries within a short-term interval has an influence on another sequence of queries). We evaluate our approach over millions of queries from a commercial search engine (i.e., Baidu Map). Experimental results show that the proposed approach provides significant performance improvements over the competitive existing methods in terms of classical metrics (i.e., Recall@K and MRR) as well as the prediction of crowds' search missions.",
+        "email": "",
+        "conf": "IEEE Transactions on Knowledge and Data Engineering",
+        "coauthors": [
+            "Jun Song",
+            "Jun Xiao",
+            "Fei Wu",
+            "Haishan Wu",
+            "Tong Zhang",
+            "Zhongfei Mark Zhang",
+            "Wenwu Zhu"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6244,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Data-Dependent Label Distribution Learning for Age Estimation",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "As an important and challenging problem in computer vision, face age estimation is typically cast as a classification or regression problem over a set of face samples with respect to several ordinal age labels, which have intrinsically cross-age correlations across adjacent age dimensions. As a result, such correlations usually lead to the age label ambiguities of the face samples. Namely, each face sample is associated with a latent label distribution that encodes the cross-age correlation information on label ambiguities. Motivated by this observation, we propose a totally data-driven label distribution learning approach to adaptively learn the latent label distributions. The proposed approach is capable of effectively discovering the intrinsic age distribution patterns for cross-age correlation analysis on the basis of the local context structures of face samples. Without any prior assumptions on the forms of label distribution learning, our approach is able to flexibly model the sample-specific context aware label distribution properties by solving a multi-task problem, which jointly optimizes the tasks of age-label distribution learning and age prediction for individuals. Experimental results demonstrate the effectiveness of our approach.",
+        "email": "",
+        "conf": "IEEE Transactions on Image Processing",
+        "coauthors": [
+            "Zhouzhou He",
+            "Xi Li",
+            "Zhongfei Zhang",
+            "Fei Wu",
+            "Xin Geng",
+            "Yaqing Zhang",
+            "Ming-Hsuan Yang",
+            "Yueting Zhuang"
+        ],
+        "keywords": "Age estimation,subspace learning,label distribution learning"
+    },
+    {
+        "id": 6403,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Automatic calibration and visual servoing for a robot navigation system",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhongfei Zhang",
+            "R. Weiss",
+            "Allen Hanson"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6291,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "An Incremental DPMM-Based Method for Trajectory Clustering Modeling and Retrieval",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE Transactions on Software Engineering",
+        "coauthors": [
+            "Weiming Hu",
+            "Xi Li",
+            "Guodong Tian",
+            "Zhongfei Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6259,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Sensor network partitioning based on homogeneity",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "Discovering communities from sensor networks is an important problem in many real-world applications. The problem desiderata requires to partition the network according to the homogeneity of the sensor measurement and at the same time the partitioning result to be as independent as possible of the typical local change in the network topology. This poses new challenges to the current graph partitioning methodologies. We develop a graph partitioning approach from the perspective of homogeneity. In order to avoid the inherent incompatibility of the current graph partitioning methodologies, an objective functional is designed to be asymptotically close to the Mumford-Shah functional [1]. An variational algorithm ZERO-CUT and a fast approximation algorithm GREEDY-SACK are developed to solve the objective functional. We evaluate the performance of the proposed algorithms on both synthetic and real-world graphs in different applications to demonstrate its advantage and promise in solving the problem of discovering communities from sensor networks.",
+        "email": "",
+        "conf": "nternational Conference on Data Science and Advanced Analytics (DSAA)",
+        "coauthors": [
+            "Yi Xu",
+            "Zhongfei Mark Zhang",
+            "Yaqing Zhang",
+            "Philip S. Yu"
+        ],
+        "keywords": "Network topology,Topology,Approximation algorithms,Partitioning algorithms,Layout,Approximation methods,Area measurement"
+    },
+    {
+        "id": 6275,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "A Regularized Approach for Geodesic-Based Semisupervised Multimanifold Learning",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "Geodesic distance, as an essential measurement for data dissimilarity, has been successfully used in manifold learning. However, most geodesic distance-based manifold learning algorithms have two limitations when applied to classification: 1) class information is rarely used in computing the geodesic distances between data points on manifolds and 2) little attention has been paid to building an explicit dimension reduction mapping for extracting the discriminative information hidden in the geodesic distances. In this paper, we regard geodesic distance as a kind of kernel, which maps data from linearly inseparable space to linear separable distance space. In doing this, a new semisupervised manifold learning algorithm, namely regularized geodesic feature learning algorithm, is proposed. The method consists of three techniques: a semisupervised graph construction method, replacement of original data points with feature vectors which are built by geodesic distances, and a new semisupervised dimension reduction method for feature vectors. Experiments on the MNIST, USPS handwritten digit data sets, MIT CBCL face versus nonface data set, and an intelligent traffic data set show the effectiveness of the proposed algorithm.",
+        "email": "",
+        "conf": "IEEE Transactions on Image Processing",
+        "coauthors": [
+            "Mingyu Fan",
+            "Xiaoqing Zhang",
+            "Zhouchen Lin",
+            "Zhongfei Zhang",
+            "Hujun Bao"
+        ],
+        "keywords": "Manifolds,Vectors,Principal component analysis,Kernel,Algorithm design and analysis,Feature extraction,Educational institutions"
+    },
+    {
+        "id": 6389,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Geometric Histogram: A Distribution of Geometric Configurations of Color Subsets",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "Proceedings of SPIE - The International Society for Optical Engineering",
+        "coauthors": [
+            "Aibing Rao",
+            "Rohini K. Srihari",
+            "Zhongfei Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6316,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Heat Kernel Based Local Binary Pattern for Face Representation",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE Signal Processing Letters",
+        "coauthors": [
+            "Xi Li",
+            "Weiming Hu",
+            "Zhongfei Zhang",
+            "Hanzi Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6292,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "A Survey of Appearance Models in Visual Object Tracking",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "ACM Transactions on Intelligent Systems and Technology",
+        "coauthors": [
+            "Xi Li",
+            "Weiming Hu",
+            "Chunhua Shen",
+            "Anton van den Hengel"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6271,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Scientific articles recommendation with topic regression and relational matrix factorization",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "In this paper we study the problem of recommending scientific articles to users in an online community with a new perspective of considering topic regression modeling and articles relational structure analysis simultaneously. First, we present a novel topic regression model, the topic regression matrix factorization (tr-MF), to solve the problem. The main idea of tr-MF lies in extending the matrix factorization with a probabilistic topic modeling. In particular, tr-MF introduces a regression model to regularize user factors through probabilistic topic modeling under the basic hypothesis that users share similar preferences if they rate similar sets of items. Consequently, tr-MF provides interpretable latent factors for users and items, and makes accurate predictions for community users. To incorporate the relational structure into the framework of tr-MF, we introduce relational matrix factorization. Through combining tr-MF with the relational matrix factorization, we propose the topic regression collective matrix factorization (tr-CMF) model. In addition, we also present the collaborative topic regression model with relational matrix factorization (CTR-RMF) model, which combines the existing collaborative topic regression (CTR) model and relational matrix factorization (RMF). From this point of view, CTR-RMF can be considered as an appropriate baseline for tr-CMF. Further, we demonstrate the efficacy of the proposed models on a large subset of the data from CiteULike, a bibliography sharing service dataset. The proposed models outperform the state-of-the-art matrix factorization models with a significant margin. Specifically, the proposed models are effective in making predictions for users with only few ratings or even no ratings, and support tasks that are specific to a certain field, neither of which has been addressed in the existing literature.",
+        "email": "",
+        "conf": "Journal of Zhejiang University: Science C",
+        "coauthors": [
+            "Ming Yang",
+            "Ying-ming Li",
+            "Zhongfei Mark Zhang"
+        ],
+        "keywords": "Matrix factorization,Probabilistic topic modeling,Relational matrix factorization,Recommender system"
+    },
+    {
+        "id": 6399,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Obstacle detection based on qualitative and quantitative 3D reconstruction",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+        "coauthors": [
+            "Zhongfei Zhang",
+            "R. Weiss",
+            "Allen Hanson"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6315,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "A Holistic In-Compression Approach to Mining Independent Motion Segments for Massive Surveillance Video Collections",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhongfei Zhang",
+            "Haroon Khan"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6239,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "A Deep Learning Approach for Expert Identification in Question Answering Communities",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "In this paper, we describe an effective convolutional neural network framework for identifying the expert in question answering community. This approach uses the convolutional neural network and combines user feature representations with question feature representations to compute scores that the user who gets the highest score is the expert on this question. Unlike prior work, this method does not measure expert based on measure answer content quality to identify the expert but only require question sentence and user embedding feature to identify the expert. Remarkably, Our model can be applied to different languages and different domains. The proposed framework is trained on two datasets, The first dataset is Stack Overflow and the second one is Zhihu. The Top-1 accuracy results of our experiments show that our framework outperforms the best baseline framework for expert identification.",
+        "email": "zhongfei@cs.binghamton.edu",
+        "conf": "arXiv preprint",
+        "coauthors": [
+            "Chen Zheng",
+            "Shuangfei Zhai",
+            "Zhongfei Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6252,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Multimodal Data Mining in a Multimedia Database Based on Structured Max Margin Learning",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "Mining knowledge from a multimedia database has received increasing attentions recently since huge repositories are made available by the development of the Internet. In this article, we exploit the relations among different modalities in a multimedia database and present a framework for general multimodal data mining problem where image annotation and image retrieval are considered as the special cases. Specifically, the multimodal data mining problem can be formulated as a structured prediction problem where we learn the mapping from an input to the structured and interdependent output variables. In addition, in order to reduce the demanding computation, we propose a new max margin structure learning approach called Enhanced Max Margin Learning (EMML) framework, which is much more efficient with a much faster convergence rate than the existing max margin learning methods, as verified through empirical evaluations. Furthermore, we apply EMML framework to develop an effective and efficient solution to the multimodal data mining problem that is highly scalable in the sense that the query response time is independent of the database scale. The EMML framework allows an efficient multimodal data mining query in a very large scale multimedia database, and excels many existing multimodal data mining methods in the literature that do not scale up at all. The performance comparison with a state-of-the-art multimodal data mining method is reported for the real-world image databases.",
+        "email": "",
+        "conf": "ACM Transactions on Knowledge Discovery from Data",
+        "coauthors": [
+            "Zhen Guo",
+            "Zhongfei Zhang",
+            "Eric P. Xing",
+            "Christos Faloutsos"
+        ],
+        "keywords": "Multimodal data mining, image annotation, image retrieval, max margin, Algorithms, Experimentation"
+    },
+    {
+        "id": 6344,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Corner Detection of Contour Images using Spectral Clustering",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "Proceedings / ICIP ... International Conference on Image Processing",
+        "coauthors": [
+            "Xi Li",
+            "Weiming Hu",
+            "Zhongfei Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6331,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Automatic medical image annotation and retrieval",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "Neurocomputing",
+        "coauthors": [
+            "Jian Yao",
+            "Zhongfei Zhang",
+            "Sameer Kiran Antani",
+            "George R. Thoma"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6390,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Image Background Search: Combining Object Detection Techniques with Content-Based Image Retrieval (CBIR) Systems",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Rohini Srihari",
+            "Zhongfei Zhang",
+            "Aibing Rao"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6382,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Subspace morphing theory for appearance based object identification",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "Pattern Recognition",
+        "coauthors": [
+            "Zhongfei Zhang",
+            "Rohini K. Srihari"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6339,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Robust Visual Tracking Based on Incremental Tensor Subspace Learning",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "Proceedings / IEEE International Conference on Computer Vision. IEEE International Conference on Computer Vision",
+        "coauthors": [
+            "Xi Li",
+            "Weiming Hu",
+            "Zhongfei Zhang",
+            "Guan Luo"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6289,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Enhanced max margin learning on multimodal data mining in a multimedia database",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhen Guo",
+            "Zhongfei Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6368,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Discovering social groups without having relational data",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "Proceedings of SPIE - The International Society for Optical Engineering",
+        "coauthors": [
+            "John J. Salerno",
+            "Zhongfei Zhang",
+            "Ronny Lewin",
+            "Michael Decker"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6384,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "A clustering based approach to efficient image retrieval",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Ruofei Zhang",
+            "Zhongfei Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6282,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Scientific articles recommendation",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Yingming Li",
+            "Ming Yang",
+            "Zhongfei Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6326,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Evolutionary Clustering by Hierarchical Dirichlet Process with Hidden Markov State",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Tianbing Xu",
+            "Zhongfei Zhang",
+            "Philip S. Yu",
+            "Bo Long"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6294,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Geodesic Based Semi-supervised Multi-manifold Feature Extraction",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Mingyu Fan",
+            "Xiaoqing Zhang",
+            "Zhouchen Lin",
+            "Hujun Bao"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6385,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "IBMAS: An internet based medical archive system",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "Proceedings of the IEEE Symposium on Computer-Based Medical Systems",
+        "coauthors": [
+            "Zhongfei Zhang",
+            "A. Krol",
+            "Guangbiao Pu"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6386,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "A Web-Based Multimedia Diabetes Mellitus Education Tool for School Nurses.",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "Proceedings of the IEEE Symposium on Computer-Based Medical Systems",
+        "coauthors": [
+            "Zhongfei Zhang",
+            "Paul E. Knudson",
+            "Ruth S Weinstock",
+            "Suzanne Meyer"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6295,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Simultaneously Combining Multi-View Multi-Label Learning with Maximum Margin Classification",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zheng Fang",
+            "Zhongfei Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6318,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "A Topic Model for Linked Documents and Update Rules for its Estimation.",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhen Guo",
+            "Shenghuo Zhu",
+            "Zhongfei Zhang",
+            "Yihong Gong"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6338,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Community Learning by Graph Approximation",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Bo Long",
+            "Xiaoyun Wu",
+            "Zhongfei Zhang",
+            "Philip S. Yu"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6281,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Coordinate Ranking Regularized Non-negative Matrix Factorization",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Yingming Li",
+            "Ming Yang",
+            "Zhongfei Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6346,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "FAST: Fast and Semantics-Tailored Image Retrieval",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Ruofei Zhang",
+            "Zhongfei Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6283,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Discriminative feature selection for multi-view cross-domain learning",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zheng Fang",
+            "Zhongfei Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6398,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Finding Pictures in Context.",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Rohini K. Srihari",
+            "Zhongfei Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6297,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Generative Models for Evolutionary Clustering",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "ACM Transactions on Knowledge Discovery from Data",
+        "coauthors": [
+            "Tianbing Xu",
+            "Zhongfei Zhang",
+            "Philip S. Yu",
+            "Bo Long"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6330,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Visual tracking via incremental Log-Euclidean Riemannian subspace learning",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "Proceedings / CVPR IEEE Computer Society Conference on Computer Vision and Pattern Recognition. IEEE Computer Society Conference on Computer Vision and Pattern Recognition",
+        "coauthors": [
+            "Xi Li",
+            "Weiming Hu",
+            "Zhongfei Zhang",
+            "Jian Cheng"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6354,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Object detection in aerial imagery based on enhanced semi-supervised learning",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "Proceedings / IEEE International Conference on Computer Vision. IEEE International Conference on Computer Vision",
+        "coauthors": [
+            "Jian Yao",
+            "Zhongfei Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6402,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Segment-Based Matching for Visual Navigation",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhongfei Zhang",
+            "Richard Weiss",
+            "Edward M. Riseman"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6371,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "A data mining approach to modeling relationships among categories in image collection",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Ruofei Zhang",
+            "Zhongfei Zhang",
+            "Sandeep Khanzode"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6311,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Local Outlier Detection Based on Kernel Regression",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Jun Gao",
+            "Weiming Hu",
+            "Wei Li",
+            "Ou Wu"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6395,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Face detection and its applications in intelligent and focused image retrieval",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhongfei Zhang",
+            "Rohini K. Srihari",
+            "Aibing Rao"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6332,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Mining Bulletin Board Systems Using Community Generation",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Ming Li",
+            "Zhongfei Zhang",
+            "Zhi-Hua Zhou"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6287,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Combining multiple clusterings by soft correspondence",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Bo Long",
+            "Zhongfei Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6327,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Multiclass Spectral Clustering Based on Discriminant Analysis",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Xi Li",
+            "Zhongfei Zhang",
+            "Yanguo Wang",
+            "Weiming Hu"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6359,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Medical data on demand with WebMIA",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE Engineering in Medicine and Biology Magazine",
+        "coauthors": [
+            "Zhongfei Zhang",
+            "Ruofei Zhang",
+            "Jian Yao",
+            "A. Krol"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6278,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Probabilistic Word Selection via Topic Modeling",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "We propose selective supervised Latent Dirichlet Allocation (ssLDA) to boost the prediction performance of the widely studied supervised probabilistic topic models. We introduce a Bernoulli distribution for each word in one given document to selectthis word as a strongly or weakly discriminative one with respect to its assigned topic. The Bernoulli distribution is parameterized by the discrimination power of the word for its assigned topic. As a result, the document is represented as a “bag-of-selective-words” instead of the probabilistic “bag-of-topics” in the topic modeling domain or the flat “bag-of-words” in the traditional natural language processing domain to form a new perspective. Inheriting the general framework of supervised LDA (sLDA), ssLDA can also predict many types of response specified by a Gaussian Linear Model (GLM). Focusing on the utilization of this word selection mechanism for singe-label document classification in this paper, we conduct the variational inference for approximating the intractable posterior and derive a maximum-likelihood estimation of parameters in ssLDA. The experiments reported on textual documents show that ssLDA not only performs competitively over “state-of-the-art” classification approaches based on both the flat “bag-of-words” and probabilistic “bag-of-topics” representation in terms of classification performance, but also has the ability to discover the discrimination power of the words specified in the topics (compatible with our rational knowledge).",
+        "email": "",
+        "conf": "IEEE Transactions on Knowledge and Data Engineering",
+        "coauthors": [
+            "Yueting Zhuang",
+            "Haidong Gao",
+            "Fei Wu",
+            "Siliang Tang",
+            "Yin Zhang",
+            "Zhongfei Mark Zhang"
+        ],
+        "keywords": "Topic modeling,Latent Dirichlet Allocation,Supervised learning,Classification"
+    },
+    {
+        "id": 6274,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Distributed Binary Subspace Learning on large-scale cross media data",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "Due to the ubiquitous existence of large-scale data in today's real-world applications including learning on cross media data, we propose a semi-supervised learning method named Multiple Binary Subspace Regression (MBSR) for cross media data classification. In order to mine the common features among the data with multiple modalities, we project the original cross-media data into the same low-rank representation simultaneously by mapping to the corresponding subspaces for dimension reduction. All the subspaces are set to be binary, which only involve the addition operations and omit the multiplication operations in the subsequent computation owing to the good property of the binary values. The dimension reduction to a binary subspace and the classification on this subspace are also optimized simultaneously leading to a semi-supervised model. For dealing with large-scale data, our learning method is easily implemented to run in a MapReduce-based Hadoop system. Empirical studies demonstrate its competitive performance on convergence, efficiency, and scalability in comparison with the state-of-the-art literature.",
+        "email": "",
+        "conf": "IEEE International Conference on Multimedia and Expo (ICME)",
+        "coauthors": [
+            "Xueyi Zhao",
+            "Chenyi Zhang",
+            "Zhongfei Zhang"
+        ],
+        "keywords": "Distributed regression,binary subspace,cross media,parallel computation,MapReduce"
+    },
+    {
+        "id": 6285,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Learning with limited and noisy tagging",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Yingming Li",
+            "Zhongang Qi",
+            "Zhongfei Zhang",
+            "Ming Yang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6306,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Incremental Tensor Subspace Learning and Its Applications to Foreground Segmentation and Tracking",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "International Journal of Computer Vision",
+        "coauthors": [
+            "Weiming Hu",
+            "Xi Li",
+            "Xiaoqing Zhang",
+            "Zhongfei Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6374,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "A unified fuzzy feature indexing scheme for region based online image querying",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Ruofei Zhang",
+            "Zhongfei Zhang",
+            "J. Yao"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6247,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Generative Adversarial Networks as Variational Training of Energy Based Models",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "In this paper, we study deep generative models for effective unsupervised learning. We propose VGAN, which works by minimizing a variational lower bound of the negative log likelihood (NLL) of an energy based model (EBM), where the model density p(x) is approximated by a variational distribution q(x) that is easy to sample from. The training of VGAN takes a two step procedure: given p(x), q(x) is updated to maximize the lower bound; p(x) is then updated one step with samples drawn from q(x) to decrease the lower bound. VGAN is inspired by the generative adversarial networks (GANs), where p(x) corresponds to the discriminator and q(x) corresponds to the generator, but with several notable differences. We hence name our model variational GANs (VGANs). VGAN provides a practical solution to training deep EBMs in high dimensional space, by eliminating the need of MCMC sampling. From this view, we are also able to identify causes to the difficulty of training GANs and propose viable solutions. ",
+        "email": "zhongfei@cs.binghamton.edu",
+        "conf": "arXiv preprint",
+        "coauthors": [
+            "Shuangfei Zhai",
+            "Yu Cheng",
+            "Rogerio Feris",
+            "Zhongfei Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6267,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Tracking News Article Evolution by Dense Subgraph Learning",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "As an important and challenging problem, effective knowledge discovery from news event evolution over massive news articles plays a critical role in public opinion analysis and social information security. Most existing methods for news knowledge discovery resort to news event detection based on connecting a sequence of news articles over time. However, they usually have to predetermine the temporal path length of news event evolution, which leads to the algorithmic inflexibility in practice. Moreover, they are incapable of well capturing the intrinsic contextual information among the news events, resulting in the performance degradation in noisy data. To address these issues, we propose a context-dependent news knowledge discovery method based on temporally successive news article connection using subgraph learning. The proposed method is able to adaptively construct a cross-article link network along the temporal dimension, and effectively discovers the news event pattern by dense subgraph learning using the contextual news connection structures. Based on the learning structures, we present a fast and accurate link path inference method (i.e., maximum-flow rule and minimal-connection rule). Experimental results on three benchmark datasets demonstrate the effectiveness of the proposed method.",
+        "email": "",
+        "conf": "Neurocomputing",
+        "coauthors": [
+            "Shengkang Yu",
+            "Xi Li",
+            "Xueyi Zhao",
+            "Zhongfei Mark Zhang",
+            "Fei Wu"
+        ],
+        "keywords": "News tracking,News article evolution,Dense subgraphs"
+    },
+    {
+        "id": 6369,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "A multimodal approach to time-invariant scene retrieval from single overhead image",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Jian Yao",
+            "Zhongfei Zhang",
+            "Lijun Yin"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6324,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Supervised Learning for Head Pose Estimation Using SVD and Gabor Wavelets",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Adel Lablack",
+            "Zhongfei Zhang",
+            "Chabane Djeraba"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6245,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Structure-Aware Slow Feature Analysis for Age Estimation",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "As an important and challenging problem in computer vision, face age estimation is typically cast as a classification or regression problem over a set of face samples. However, most existing efforts to age estimation usually cope with the face samples individually, which do not take full advantage of the temporal structure and contextual structure of the face samples. In this letter, we propose an age estimation approach named structure-aware slow feature analysis, which is capable of effectively capturing the structure of human faces in the aspects of time-related smoothness for progressive age variation as well as face-related attribute constraints for face age consistency. As a result, we present an iterative optimization scheme to effectively learn the slowly varying feature transformation. Experimental results demonstrate the effectiveness of our approach on the Morph dataset.",
+        "email": "",
+        "conf": "IEEE Signal Processing Letters",
+        "coauthors": [
+            "Zhouzhou He",
+            "Xi Li",
+            "Zhongfei Zhang",
+            "Yaqing Zhang",
+            "Jun Xiao",
+            "Xue Zhou"
+        ],
+        "keywords": "Age estimation,slow feature analysis (SFA),structure aware"
+    },
+    {
+        "id": 6308,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Overview of ACM international workshop on connected multimedia",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhongfei Zhang",
+            "Zhengyou Zhang",
+            "Ramesh Jain",
+            "Yueting Zhuang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6373,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Hidden semantic concept discovery in region based image retrieval",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "Proceedings / CVPR IEEE Computer Society Conference on Computer Vision and Pattern Recognition. IEEE Computer Society Conference on Computer Vision and Pattern Recognition",
+        "coauthors": [
+            "Ruofei Zhang",
+            "Zhongfei Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6381,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Using Region Analysis Technique to Efficiently Retrieve Online Image Databases",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "Proceedings of SPIE - The International Society for Optical Engineering",
+        "coauthors": [
+            "Ruofei Zhang",
+            "Zhongfei Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6393,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Multimedia indexing and retrieval",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "ACM SIGIR Forum",
+        "coauthors": [
+            "Rohini K. Srihari",
+            "Zhongfei Zhang",
+            "R. Manmatha",
+            "Sai Ravela"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6293,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Multi-task learning with Gaussian matrix generalized inverse Gaussian model",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "M. Yang",
+            "Y. Li",
+            "Zhongfei Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6279,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Context-Aware Hypergraph Construction for Robust Spectral Clustering",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "Spectral clustering is a powerful tool for unsupervised data analysis. In this paper, we propose a context-aware hypergraph similarity measure (CAHSM), which leads to robust spectral clustering in the case of noisy data. We construct three types of hypergraphs-the pairwise hypergraph, the k-nearest-neighbor (kNN) hypergraph, and the high-order over-clustering hypergraph. The pairwise hypergraph captures the pairwise similarity of data points; the kNNhypergraph captures the neighborhood of each point; and the clustering hypergraph encodes high-order contexts within the dataset. By combining the affinity information from these three hypergraphs, the CAHSM algorithm is able to explore the intrinsic topological information of the dataset. Therefore, data clustering using CAHSM tends to be more robust. Considering the intra-cluster compactness and the inter-cluster separability of vertices, we further design a discriminative hypergraph partitioning criterion (DHPC). Using both CAHSM and DHPC, a robust spectral clustering algorithm is developed. Theoretical analysis and experimental evaluation demonstrate the effectiveness and robustness of the proposed algorithm.",
+        "email": "",
+        "conf": "IEEE Transactions on Knowledge and Data Engineering",
+        "coauthors": [
+            "Xi Li",
+            "Weiming Hu",
+            "Chunhua Shen",
+            "Anthony Dick",
+            "Zhongfei Mark Zhang"
+        ],
+        "keywords": "Machine learning,Graph-theoretic methods,Spectral clustering"
+    },
+    {
+        "id": 6377,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Knowledge Supervised Perceptual Grouping Based Qualitative Building Detection from Monocular Aerial Images.",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "International Journal of Artificial Intelligence Tools",
+        "coauthors": [
+            "Zhongfei Zhang",
+            "Rohini K. Srihari"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6396,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Spatial color histograms for content-based image retrieval",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Aibing Rao",
+            "R.K. Srihari",
+            "Zhongfei Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6303,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Recognition of adult images videos and web page bags",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "ACM Transactions on Multimedia Computing Communications and Applications",
+        "coauthors": [
+            "Weiming Hu",
+            "Haiqiang Zuo",
+            "Ou Wu",
+            "David Suter"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6276,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "A Two-Level Topic Model Towards Knowledge Discovery from Citation Networks",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "Knowledge discovery from scientific articles has received increasing attention recently since huge repositories are made available by the development of the Internet and digital databases. In a corpus of scientific articles such as a digital library, documents are connected by citations and one document plays two different roles in the corpus: document itself and a citation of other documents. In the existing topic models, little effort is made to differentiate these two roles. We believe that the topic distributions of these two roles are different and related in a certain way. In this paper, we propose a Bernoulli process topic (BPT) model which considers the corpus at two levels: document level and citation level. In the BPT model, each document has two different representations in the latent topic space associated with its roles. Moreover, the multi-level hierarchical structure of citation network is captured by a generative process involving a Bernoulli process. The distribution parameters of the BPT model are estimated by a variational approximation approach. An efficient computation algorithm is proposed to overcome the difficulty of matrix inverse operation. In addition to conducting the experimental evaluations on the document modeling and document clustering tasks, we also apply the BPT model to well known corpora to discover the latent topics, recommend important citations, detect the trends of various research areas in computer science between 1991 and 1998, and to investigate the interactions among the research areas. The comparisons against state-of-the-art methods demonstrate a very promising performance. The implementations and the data sets are available online ",
+        "email": "",
+        "conf": "IEEE Transactions on Knowledge and Data Engineering",
+        "coauthors": [
+            "Zhen Guo",
+            "Zhongfei Mark Zhang",
+            "Shenghuo Zhu",
+            "Yihong Gong"
+        ],
+        "keywords": "Unsupervised learning,latent models,text mining"
+    },
+    {
+        "id": 6319,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "A Multiple-Instance Learning Based Approach to Multimodal Data Mining",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhongfei Zhang",
+            "Zhen Guo",
+            "Jia-Yu Pan"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6248,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Manifold Regularized Cross-Modal Embedding for Zero-Shot Learning",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "Zero-Shot Learning (ZSL) aims at classifying previously unseen class samples and has gained its popularity in applications where samples of some categories are scarce for training. The basic idea to address this issue is transferring knowledge from the seen classes to the unseen classes through mapping the visual feature to an embedding space spanned by class semantic information. The class semantic information can be obtained from human-labeled attributes or text corpus in an unsupervised fashion. Therefore, the embedding function from visual space to the embedding space is extremely important. However, the existing embedding approaches to ZSL mainly focus on aligning pairwise semantic consistency from heterogeneous spaces but ignore the intrinsic structure of the locally homogeneous isomorph. In order to preserve the locally visual structure in the embedding process, this paper proposes a Manifold regularized Cross-Modal Embedding (MCME) approach for ZSL by formulating the manifold constraint for intrinsic structure of the visual features as well as aligning pairwise consistency. The linear, closed-form solution makes MCME efficient to compute. Furthermore, rather than applying the embedding function learned from the seen classes directly, we also propose a new domain adaptation strategy to overcome the domain-shift problem during the knowledge transfer process. The MCME with the domain adaptation method is called MCME-DA. Extensive experiments on the benchmark datasets of AwA and CUB validate the superiority and promise of MCME and MCME-DA.",
+        "email": "zhongfei@cs.binghamton.edu",
+        "conf": "Information Sciences",
+        "coauthors": [
+            "Zhong ji",
+            "Yunlong Yu",
+            "Yanwei Pang",
+            "Zhongfei Zhang"
+        ],
+        "keywords": "Zero-shot learning,Image classification,Cross-modal embedding,Manifold,Domain adaptation"
+    },
+    {
+        "id": 6345,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Relational clustering by symmetric convex coding",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Bo Long",
+            "Zhongfei Zhang",
+            "Xiaoyun Wu",
+            "Philip S. Yu"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6300,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Multimedia Information Mining",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhongfei Zhang",
+            "Ruofei Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6376,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Using data mining techniques for building fusion models",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "Proceedings of SPIE - The International Society for Optical Engineering",
+        "coauthors": [
+            "Zhongfei Zhang",
+            "John J. Salerno",
+            "Maureen A. Regan",
+            "Debra A. Cutler"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6387,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Show&Tell: A Semi-Automated Image Annotation System",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE Multimedia",
+        "coauthors": [
+            "R.K. Srihari",
+            "Zhongfei Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6383,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Mining Surveillance Video for Independent Motion Detection",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhongfei Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6363,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Systematic static shadow detection",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Jian Yao",
+            "Zhongfei Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6325,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Dirichlet Process Based Evolutionary Clustering",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Tianbing Xu",
+            "Zhongfei Zhang",
+            "Philip S. Yu",
+            "Bo Long"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6249,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "LSTM-in-LSTM for generating long descriptions of images",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "In this paper, we propose an approach for generating rich fine-grained textual descriptions of images. In particular, we use an LSTM-in-LSTM (long short-term memory) architecture, which consists of an inner LSTM and an outer LSTM. The inner LSTM effectively encodes the long-range implicit contextual interaction between visual cues (i.e., the spatiallyconcurrent visual objects), while the outer LSTM generally captures the explicit multi-modal relationship between sentences and images (i.e., the correspondence of sentences and images). This architecture is capable of producing a long description by predicting one word at every time step conditioned on the previously generated word, a hidden vector (via the outer LSTM), and a context vector of fine-grained visual cues (via the inner LSTM). Our model outperforms state-of-theart methods on several benchmark datasets (Flickr8k, Flickr30k, MSCOCO) when used to generate long rich fine-grained descriptions of given images in terms of four different metrics (BLEU, CIDEr, ROUGE-L, and METEOR).",
+        "email": "",
+        "conf": "Computational Visual Media",
+        "coauthors": [
+            "Jun Song",
+            "Siliang Tang",
+            "Jun Xiao",
+            "Fei Wu",
+            "Zhongfei Mark Zhang"
+        ],
+        "keywords": "long short-term memory (LSTM); image description generation; computer vision; neural networ"
+    },
+    {
+        "id": 6347,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Guest Editors' introduction to the special issue: Machine learning approaches to multimedia information retrieval",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "Multimedia Systems",
+        "coauthors": [
+            "Arif Ghafoor",
+            "Zhongfei Zhang",
+            "Michael S. Lew",
+            "Zhi-Hua Zhou"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6312,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Unsupervised Learning from Linked Documents",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhen Guo",
+            "Shenghuo Zhu",
+            "Yun Chi",
+            "Yihong Gong"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6277,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Spectral clustering for multi-type relational data",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "Clustering on multi-type relational data has attracted more and more attention in recent years due to its high impact on various important applications, such as Web mining, e-commerce and bioinformatics. However, the research on general multi-type relational data clustering is still limited and preliminary. The contribution of the paper is three-fold. First, we propose a general model, the collective factorization on related matrices, for multi-type relational data clustering. The model is applicable to relational data with various structures. Second, under this model, we derive a novel algorithm, the spectral relational clustering, to cluster multi-type interrelated data objects simultaneously. The algorithm iteratively embeds each type of data objects into low dimensional spaces and benefits from the interactions among the hidden structures of different types of data objects. Extensive experiments demonstrate the promise and effectiveness of the proposed algorithm. Third, we show that the existing spectral clustering algorithms can be considered as the special cases of the proposed model and algorithm. This demonstrates the good theoretic generality of the proposed model and algorithm.",
+        "email": "",
+        "conf": "international conference on Machine learning",
+        "coauthors": [
+            "Bo Long",
+            "Zhongfei Mark Zhang",
+            "Xiaoyun Wu",
+            "Philip S Yu"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6364,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Semantic repository modeling in image database",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Ruofei Zhang",
+            "Zhongfei Zhang",
+            "Zhongyuan Qin"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6370,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "A Bayesian Framework for Automatic Concept Discovery in Image Collections.",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Ruofei Zhang",
+            "Zhongfei Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6256,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Joint Multilabel Classification With Community-Aware Label Graph Learning",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "As an important and challenging problem in machine learning and computer vision, multilabel classification is typically implemented in a max-margin multilabel learning framework, where the inter-label separability is characterized by the sample-specific classification margins between labels. However, the conventional multilabel classification approaches are usually incapable of effectively exploring the intrinsic inter-label correlations as well as jointly modeling the interactions between inter-label correlations and multilabel classification. To address this issue, we propose a multilabel classification framework based on a joint learning approach called label graph learning (LGL) driven weighted Support Vector Machine (SVM). In principle, the joint learning approach explicitly models the inter-label correlations by LGL, which is jointly optimized with multilabel classification in a unified learning scheme. As a result, the learned label correlation graph well fits the multilabel classification task while effectively reflecting the underlying topological structures among labels. Moreover, the inter-label interactions are also influenced by label-specific sample communities (each community for the samples sharing a common label). Namely, if two labels have similar label-specific sample communities, they are likely to be correlated. Based on this observation, LGL is further regularized by the label Hypergraph Laplacian. Experimental results have demonstrated the effectiveness of our approach over several benchmark data sets.",
+        "email": "",
+        "conf": "IEEE Transactions on Image Processing",
+        "coauthors": [
+            "Xi Li",
+            "Xueyi Zhao",
+            "Zhongfei Mark Zhang",
+            "Fei Wu",
+            "Yueting Zhuang",
+            "Jingdong Wang",
+            "Xuelong Li"
+        ],
+        "keywords": "Supervised learning,Classification algorithms,Support vector machines"
+    },
+    {
+        "id": 6258,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Multilayer Semantic Analysis in Image Databases",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "With the availability of massive amounts of digital images in personal and on-line collections, effective techniques for navigating, indexing and searching images become more crucial. In this article, we rely on the image visual content as the main source of information to represent images. Starting from the bag of visual words (BOW) representation, a high-level visual representation is learned where each image is modeled as a mixture of visual topics depicted in the image and related to high-level topics. First, we introduce a new probabilistic topic model, Multilayer Semantic Significance Analysis (MSSA) model, in order to study a semantic inference of the constructed visual words. Consequently, we generate the Semantically Significant Visual Words (SSVWs). Second, we strengthen the discrimination power of SSVWs by constructing Semantically Significant Visual Phrases (SSVPs) from frequently co-occurring SSVWs that are semantically coherent. We partially bridge the intra-class visual diversity of the images by re-indexing the SSVWs and the SSVPs based on their distributional clustering. This leads to generating a Semantically Significant Invariant Visual Glossary (SSIVG) representation. Finally, we propose a new Multiclass Vote-Based Classifier (MVBC) based on the proposed SSIVG representation. The large-scale extensive experimental results show that the proposed higher-level visual representation outperforms the traditional part-based image representations in retrieval, classification, and object recognition.",
+        "email": "",
+        "conf": "Real World Data Mining Applications",
+        "coauthors": [
+            "Ismail El Sayad",
+            "Jean Martinet",
+            "Zhongfei Mark Zhang",
+            "Peter Eisert"
+        ],
+        "keywords": "Image Retrieval, Visual Word, Query Image, Latent Dirichlet Allocation, Sparse Code "
+    },
+    {
+        "id": 6343,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Effective Image Retrieval Based on Hidden Concept Discovery in Image Database",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE Transactions on Image Processing",
+        "coauthors": [
+            "Ruofei Zhang",
+            "Zhongfei Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6310,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "A general framework for relation graph clustering",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "Knowledge and Information Systems",
+        "coauthors": [
+            "Bo Long",
+            "Zhongfei Zhang",
+            "Philip S. Yu"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6394,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Visual servoing control of autonomous robot calibration and navigation",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of Robotic Systems",
+        "coauthors": [
+            "Zhongfei Zhang",
+            "Richard Weiss",
+            "Allen Hanson"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6337,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Trajectory-Based Video Retrieval Using Dirichlet Process Mixture Models",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Xi Li",
+            "Weiming Hu",
+            "Zhongfei Zhang",
+            "Guan Luo"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6329,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Improving Web Search Using Image Snippets",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "ACM Transactions on Internet Technology",
+        "coauthors": [
+            "Xiao-Bing Xue",
+            "Zhi-Hua Zhou",
+            "Zhongfei Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6265,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Online Metric-Weighted Linear Representations for Robust Visual Tracking",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "In this paper, we propose a visual tracker based on a metric-weighted linear representation of appearance. In order to capture the interdependence of different feature dimensions, we develop two online distance metric learning methods using proximity comparison information and structured output learning. The learned metric is then incorporated into a linear representation of appearance. We show that online distance metric learning significantly improves the robustness of the tracker, especially on those sequences exhibiting drastic appearance changes. In order to bound growth in the number of training samples, we design a time-weighted reservoir sampling method. Moreover, we enable our tracker to automatically perform object identification during the process of object tracking, by introducing a collection of static template samples belonging to several object classes of interest. Object identification results for an entire video sequence are achieved by systematically combining the tracking information and visual recognition at each frame. Experimental results on challenging video sequences demonstrate the effectiveness of the method for both inter-frame tracking and object identification.",
+        "email": "",
+        "conf": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+        "coauthors": [
+            "Xi Li",
+            "Chunhua Shen",
+            "Anthony Dick",
+            "Zhongfei Zhang",
+            "Yueting Zhuang"
+        ],
+        "keywords": "Visual tracking,linear representation,structured metric learning,reservoir sampling"
+    },
+    {
+        "id": 6366,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "A Robust Color Object Analysis Approach to Efficient Image Retrieval",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "EURASIP journal on advances in signal processing",
+        "coauthors": [
+            "Ruofei  Zhang",
+            "Zhongfei Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6304,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Mining partially annotated images",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhongang Qi",
+            "Ming Yang",
+            "Zhongfei Zhang",
+            "Zhengyou Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6355,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "A probabilistic semantic model for image annotation and multimodal image retrieval",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "Proceedings / IEEE International Conference on Computer Vision. IEEE International Conference on Computer Vision",
+        "coauthors": [
+            "Ruofei Zhang",
+            "Zhongfei Zhang",
+            "Mingjing Li",
+            "Hong-Jiang Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6270,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Structural Bregman Distance Functions Learning to Rank with Self-Reinforcement",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "Learning to rank is an important task for many data mining applications. Essentially, the goal of learning to rank is to learn an appropriate similarity or distance metric to determine the relevance relationships among data points. However, most of the existing approaches for distance metric learning are limited in three aspects. First, they often assume a fixed form of distance metric for the entire input space. Second, the assumed distance functions are often computationally expensive or even intractable to learn for high dimensional data, such as Mahalanobis distance. Third, most of these approaches lack robustness to noisily labeled data, which is pervasive in many real-world applications. In this paper, we study learning to rank as a problem of distance metric learning to address the above three problems. We choose Bregman distance as the target distance function, due to its general functional form as a generalization of a wide class of distance functions, and its capacity of exploiting complicated nonlinear patterns underlying the data. Under the framework of structural SVM, we formulate the problem of learning Bregman distance functions for ranking as a QP problem by a nonparametric approach, and present an effective algorithm. Furthermore, we propose a self-reinforcement scheme that adaptively differentiates each data point in the role of learning to secure the robustness. We emphasize that the proposed method SBLR-S (Structural Bregman distance functions Learning to Rank with Self-reinforcement) is more general than the conventional distance metric learning approaches, and is able to handle high dimensional data as well as noisily labeled data. The experiments of data ranking on real-world datasets show the superiority of this method to the state-of-the-art literature.",
+        "email": "",
+        "conf": "IEEE International Conference on Data Mining",
+        "coauthors": [
+            "Te Pi",
+            "Xi Li",
+            "Zhongfei Zhang"
+        ],
+        "keywords": "learning to rank,distance metric learning,Bregman distance,structural learning"
+    },
+    {
+        "id": 6391,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Applications of image understanding in semantics-oriented multimedia information retrieval",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhongfei Zhang",
+            "R.K. Srihari",
+            "A. Rao"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6301,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Single and Multiple Object Tracking Using Log-Euclidean Riemannian Subspace and Block-Division Appearance Model",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE Transactions on Software Engineering",
+        "coauthors": [
+            "Weiming Hu",
+            "Xi Li",
+            "Wenhan Luo",
+            "Zhongfei Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6328,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Robust Visual Tracking Based on an Effective Appearance Model",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Xi Li",
+            "Weiming Hu",
+            "Zhongfei Zhang",
+            "Xiaoqing Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6320,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Knowledge Discovery from Citation Networks",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhen Guo",
+            "Zhongfei Zhang",
+            "Shenghuo Zhu",
+            "Yihong Gong"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6378,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Addressing CBIR efficiency effectiveness and retrieval subjectivity simultaneously",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Ruofei Zhang",
+            "Zhongfei Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6351,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Joint categorization of queries and clips for web-based video search",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Ruofei Zhang",
+            "Ramesh Sarukkai",
+            "Jyh-Herng Chow",
+            "Zhongfei Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6296,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Societally connected multimedia across cultures",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of Zhejiang University: Science C",
+        "coauthors": [
+            "Zhongfei Zhang",
+            "Zhengyou Zhang",
+            "Ramesh Jain",
+            "Shiwen Yu"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6280,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Bayesian Multi-Task Relationship Learning with Link Structure",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Yingming Li",
+            "Ming Yang",
+            "Zhongang Qi",
+            "Zhongfei Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6333,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "A General Model for Multiple View Unsupervised Learning",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Bo Long",
+            "Philip S. Yu",
+            "Zhongfei Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6268,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Distributed cross-media multiple binary subspace learning",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "Due to the ubiquitous existence of large-scale data in today’s real-world applications, including learning on cross-media data, we propose a semi-supervised learning method, named Multiple Binary Subspace Regression, for cross-media data concept detection. In order to mine the common features among the data with multiple modalities, we project the original cross-media data onto the same subspace-level representation simultaneously by mapping to the corresponding subspaces for dimensionality reduction. All the subspaces are set to be binary, which only involve the addition operations and omit the multiplication operations in the subsequent computation owing to the good property of the binary values. The dimensionality reduction to a binary subspace and the concept detection on this subspace are also optimized simultaneously leading to a semi-supervised model. For dealing with large-scale data, our learning method is easily implemented to run in a MapReduce-based Hadoop system. Empirical studies demonstrate its competitive performance on convergence, efficiency, and scalability in comparison with the state-of-the-art literature.",
+        "email": "",
+        "conf": "International Journal of Multimedia Information Retrieval",
+        "coauthors": [
+            "Xueyi Zhao",
+            "Chenyi Zhang",
+            "Zhongfei Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6353,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Improve Web Search Using Image Snippets.",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Xiao-Bing Xue",
+            "Zhi-Hua Zhou",
+            "Zhongfei Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6269,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Cross-Modal Learning to Rank via Latent Joint Representation",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "Cross-modal ranking is a research topic that is imperative to many applications involving multimodal data. Discovering a joint representation for multimodal data and learning a ranking function are essential in order to boost the cross-media retrieval (i.e., image-query-text or text-query-image). In this paper, we propose an approach to discover the latent joint representation of pairs of multimodal data (e.g., pairs of an image query and a text document) via a conditional random field and structural learning in a listwise ranking manner. We call this approach cross-modal learning to rank via latent joint representation (CML 2 R). In CML 2 R, the correlations between multimodal data are captured in terms of their sharing hidden variables (e.g., topics), and a hidden-topic-driven discriminative ranking function is learned in a listwise ranking manner. The experiments show that the proposed approach achieves a good performance in cross-media retrieval and meanwhile has the capability to learn the discriminative representation of multimodal data.",
+        "email": "",
+        "conf": "IEEE Transactions on Image Processing",
+        "coauthors": [
+            "Fei Wu",
+            "Xinyang Jiang",
+            "Xi Li",
+            "Siliang Tang",
+            "Weiming Lu",
+            "Zhongfei Zhang",
+            "Yueting Zhuang"
+        ],
+        "keywords": "Cross-modal Ranking,Latent Joint Representation,Learning to Rank"
+    },
+    {
+        "id": 6360,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Comparing various algorithms for discovering social groups with uni-party data",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "Proceedings of SPIE - The International Society for Optical Engineering",
+        "coauthors": [
+            "John J. Salerno",
+            "Raymond A. Cardillo",
+            "Zhongfei Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6251,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Deep Structured Energy Based Models for Anomaly Detection",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "In this paper, we attack the anomaly detection problem by directly modeling the data distribution with deep architectures. We propose deep structured energy based models (DSEBMs), where the energy function is the output of a deterministic deep neural network with structure. We develop novel model architectures to integrate EBMs with different types of data such as static data, sequential data, and spatial data, and apply appropriate model architectures to adapt to the data structure. Our training algorithm is built upon the recent development of score matching (Hyvarinen ¨ , 2005), which connects an EBM with a regularized autoencoder, eliminating the need for complicated sampling method. Statistically sound decision criterion can be derived for anomaly detection purpose from the perspective of the energy landscape of the data distribution. We investigate two decision criteria for performing anomaly detection: the energy score and the reconstruction error. Extensive empirical studies on benchmark tasks demonstrate that our proposed model consistently matches or outperforms all the competing methods",
+        "email": "",
+        "conf": "arXiv preprint",
+        "coauthors": [
+            "Shuangfei Zhai",
+            "Yu Cheng",
+            "Weining Lu",
+            "Zhongfei Mark Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6365,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Cognitive bridge between haptic impressions and texture images for subjective image retrieval",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Yuichi Kobayashi",
+            "Jun Ohya",
+            "Zhongfei Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6375,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Automatic multimodal medical image fusion",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhongfei Zhang",
+            "Jian Yao",
+            "S. Bajwa",
+            "T. Gudas"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6352,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Unsupervised learning on K-partite graphs",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Bo Long",
+            "Xiaoyun Wu",
+            "Zhongfei Zhang",
+            "Philip S. Yu"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6362,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Qualitive Detection of Independently Moving Targets in MPEG Video Within the Compressed Domain",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zhongfei Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6401,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Qualitative Obstacle Detection",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "Proceedings / CVPR IEEE Computer Society Conference on Computer Vision and Pattern Recognition. IEEE Computer Society Conference on Computer Vision and Pattern Recognition",
+        "coauthors": [
+            "Zhongfei Zhang",
+            "Richard Weiss",
+            "Allen Hanson"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6253,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Semisupervised Autoencoder for Sentiment Analysis",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "In this paper, we investigate the usage of autoencoders in modeling textual data. Traditional autoencoders suffer from at least two aspects: scalability with the high dimensionality of vocabulary size and dealing with task-irrelevant words. We address this problem by introducing supervision via the loss function of autoencoders. In particular, we first train a linear classifier on the labeled data, then define a loss for the autoencoder with the weights learned from the linear classifier. To reduce the bias brought by one single classifier, we define a posterior probability distribution on the weights of the classifier, and derive the marginalized loss of the autoencoder with Laplace approximation. We show that our choice of loss function can be rationalized from the perspective of Bregman Divergence, which justifies the soundness of our model. We evaluate the effectiveness of our model on six sentiment analysis datasets, and show that our model significantly outperforms all the competing methods with respect to classification accuracy. We also show that our model is able to take advantage of unlabeled dataset and get improved performance. We further show that our model successfully learns highly discriminative feature maps, which explains its superior performance.",
+        "email": "",
+        "conf": "Thirtieth AAAI Conference on Artificial Intelligence",
+        "coauthors": [
+            "Shuangfei Zhai",
+            "Zhongfei Mark Zhang"
+        ],
+        "keywords": "autoencoder; semisupervised learning; sentiment analysis"
+    },
+    {
+        "id": 6392,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Intelligent Indexing and Semantic Retrieval of Multimodal Documents",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "Information Retrieval",
+        "coauthors": [
+            "Rohini K. Srihari",
+            "Zhongfei Zhang",
+            "Aibing Rao"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6264,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Multimedia Retrieval via Deep Learning to Rank",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "Many existing learning-to-rank approaches are incapable of effectively modeling the intrinsic interaction relationships between the feature-level and ranking-level components of a ranking model. To address this problem, we propose a novel joint learning-to-rank approach called Deep Latent Structural SVM (DL-SSVM), which jointly learns deep neural networks and latent structural SVM (connected by a set of latent feature grouping variables) to effectively model the interaction relationships at two levels (i.e., feature-level and ranking-level). To make the joint learning problem easier to optimize, we present an effective auxiliary variable-based alternating optimization approach with respect to deep neural network learning and structural latent SVM learning. Experimental results on several challenging datasets have demonstrated the effectiveness of the proposed learning to rank approach in real-world information retrieval.",
+        "email": "",
+        "conf": "IEEE Signal Processing Letters",
+        "coauthors": [
+            "Xueyi Zhao",
+            "Xi Li",
+            "Zhongfei Zhang"
+        ],
+        "keywords": "Deep neural network,joint learning,latent variable,learning to rank,structural SVM"
+    },
+    {
+        "id": 6290,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Discriminative Transfer Learning on Manifold",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Zheng Fang",
+            "Zhongfei Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6299,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "The heterogeneous feature selection with structural sparsity for multimedia annotation and hashing: A survey",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Fei Wu",
+            "Yahong Han",
+            "Xiang Liu",
+            "Zhongfei Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6246,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Structural Correspondence Learning for Cross-lingual Sentiment Classification with One-to-many Mappings",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "Structural correspondence learning (SCL) is an effective method for cross-lingual sentiment classification. This approach uses unlabeled documents along with a word translation oracle to automatically induce task specific, cross-lingual correspondences. It transfers knowledge through identifying important features, i.e., pivot features. For simplicity, however, it assumes that the word translation oracle maps each pivot feature in source language to exactly only one word in target language. This one-to-one mapping between words in different languages is too strict. Also the context is not considered at all. In this paper, we propose a cross-lingual SCL based on distributed representation of words; it can learn meaningful one-to-many mappings for pivot words using large amounts of monolingual data and a small dictionary. We conduct experiments on NLP&CC 2013 cross-lingual sentiment analysis dataset, employing English as source language, and Chinese as target language. Our method does not rely on the parallel corpora and the experimental results show that our approach is more competitive than the state-of-the-art methods in cross-lingual sentiment classification.",
+        "email": "",
+        "conf": "Conference on Artificial Intelligence",
+        "coauthors": [
+            "Nana Li",
+            "Shuangfei Zhai",
+            "Zhongfei Zhang",
+            "Boying Liu"
+        ],
+        "keywords": "sentiment classification; cross-lingual; structural correspondence learning"
+    },
+    {
+        "id": 6350,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "BALAS: Empirical Bayesian learning in the relevance feedback for image retrieval",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "Image and Vision Computing",
+        "coauthors": [
+            "Ruofei Zhang",
+            "Zhongfei Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6357,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Image Database Classification based on Concept Vector Model",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Ruofei Zhang",
+            "Zhongfei Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6254,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Learning of Multimodal Representations With Random Walks on the Click Graph",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "In multimedia information retrieval, most classic approaches tend to represent different modalities of media in the same feature space. With the click data collected from the users' searching behavior, existing approaches take either one-to-one paired data (text-image pairs) or ranking examples (text-query-image and/or image-query-text ranking lists) as training examples, which do not make full use of the click data, particularly the implicit connections among the data objects. In this paper, we treat the click data as a large click graph, in which vertices are images/text queries and edges indicate the clicks between an image and a query. We consider learning a multimodal representation from the perspective of encoding the explicit/implicit relevance relationship between the vertices in the click graph. By minimizing both the truncated random walk loss as well as the distance between the learned representation of vertices and their corresponding deep neural network output, the proposed model which is named multimodal random walk neural network (MRW-NN) can be applied to not only learn robust representation of the existing multimodal data in the click graph, but also deal with the unseen queries and images to support cross-modal retrieval. We evaluate the latent representation learned by MRW-NN on a public large-scale click log data set Clickture and further show that MRW-NN achieves much better cross-modal retrieval performance on the unseen queries/images than the other state-of-the-art methods.",
+        "email": "",
+        "conf": "IEEE Transactions on Image Processing",
+        "coauthors": [
+            "Fei Wu",
+            "Xinyan Lu",
+            "Jun Song",
+            "Shuichang Yan",
+            "Zhongfei Mark Zhang",
+            "Yong Rui",
+            "Yueting Zhuang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6261,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Visual Search reranking with Relevant Local Discriminant Analysis",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "Visual search reranking is a promising technique to refine the text-based image search results with visual information. Dimensionality reduction is one of the key preprocessing steps in it to overcome the “curse of dimensionality” brought by the high-dimensional visual features. However, there are few dimensionality reduction algorithms employing the relevance degree information for visual search reranking. This paper proposes a novel dimensionality reduction algorithm called RElevant Local Discriminant Analysis (RELDA) for visual search reranking. As a semi-supervised combination of improved Linear Discriminant Analysis (LDA) and Locality Preserving Projections (LPP), the proposed RELDA algorithm preserves the local manifold structure of the whole data as well as controls the relevance between labeled examples. Moreover, RELDA algorithm has an analytic form of the globally optimal solution and can be computed based on eigen-decomposition. Extensive experiments on two popular real-world visual search reranking datasets demonstrate the superiority of the proposed RELDA algorithm.",
+        "email": "",
+        "conf": "Neurocomputing",
+        "coauthors": [
+            "Peiguang Jing",
+            "Zhong ji",
+            "Yunlong Yu",
+            "Zhongfei Mark Zhang"
+        ],
+        "keywords": "Image retrieval,Visual search reranking,Dimensionality reduction,Linear discriminant analysis,Locality preserving projections"
+    },
+    {
+        "id": 6242,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Zero-shot learning with Multi-Battery Factor Analysis",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "Zero-shot learning (ZSL) extends the conventional image classification technique to a more challenging situation where the testing image categories are not seen in the training samples. Most studies on ZSL utilize side information such as attributes or word vectors to bridge the relations between the seen classes and the unseen classes. However, existing approaches on ZSL typically exploit a shared space for each type of side information independently, which cannot make full use of the complementary knowledge of different types of side information. To this end, this paper presents an MBFA-ZSL approach to embed different types of side information as well as the visual feature into one shared space. Specifically, we first develop an algorithm named Multi-Battery Factor Analysis (MBFA) to build a unified semantic space, and then employ multiple types of side information in it to achieve the ZSL. The close-form solution makes MBFA-ZSL simple to implement and efficient to run on large datasets. Extensive experiments on the popular AwA, CUB, and SUN datasets show its superiority over the state-of-the-art approaches.",
+        "email": "zhongfei@cs.binghamton.edu",
+        "conf": "Signal Processing",
+        "coauthors": [
+            "Zhong ji",
+            "Yunlong Yu",
+            "Yanwei Pang",
+            "Lei Chen",
+            "Zhongfei Zhang"
+        ],
+        "keywords": "Zero-shot learning,Multi-battery factor analysis,Image classification,Attribute,Word vector"
+    },
+    {
+        "id": 6358,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Semi-supervised learning based object detection in aerial imagery",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Jian Yao",
+            "Zhongfei Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6257,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "Dropout Training of Matrix Factorization and Autoencoder for Link Prediction in Sparse Graphs",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "Matrix factorization (MF) and Autoencoder (AE) are among the most successful approaches of unsupervised learning. While MF based models have been extensively exploited in the graph modeling and link prediction literature, the AE family has not gained much attention. In this paper we investigate both MF and AE's application to the link prediction problem in sparse graphs. We show the connection between AE andMF from the perspective of multiview learning, and further propose MF+AE: a model training MF and AE jointly with shared parameters. We apply dropout to training both the MF and AE parts, and show that it can significantly prevent overfitting by acting as an adaptive regularization. We conduct experiments on six real world sparse graph datasets, and show that MF+AE consistently outperforms the competing methods, especially on datasets that demonstrate strong non-cohesive structures.",
+        "email": "zhongfei@cs.binghamton.edu",
+        "conf": "SIAM International Conference on Data Mining. Society for Industrial and Applied Mathematics",
+        "coauthors": [
+            "Shuangfei Zhai",
+            "Zhongfei Mark Zhang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6288,
+        "label": 123,
+        "author": "zhongfei",
+        "title": "A low rank structural large margin method for cross-modal ranking",
+        "organization": "Professor of comuter science Binghamton University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Xinyan Lu",
+            "Fei Wu",
+            "Siliang Tang",
+            "Yueting Zhuang"
+        ],
+        "keywords": ""
+    }
+]

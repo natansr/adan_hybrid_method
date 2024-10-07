@@ -1,0 +1,58 @@
+[
+    {
+        "id": 5001,
+        "label": 99,
+        "author": "john m smith",
+        "title": "Loss of Arabidopsis thaliana Dynamin-Related Protein 2B Reveals Separation of Innate Immune Signaling Pathways",
+        "organization": "Eurofins Lancaster Laboratories",
+        "abstract": "Vesicular trafficking has emerged as an important means by which eukaryotes modulate responses to microbial pathogens, likely by contributing to the correct localization and levels of host components necessary for effective immunity. However, considering the complexity of membrane trafficking in plants, relatively few vesicular trafficking components with functions in plant immunity are known. Here we demonstrate that Arabidopsis thaliana Dynamin-Related Protein 2B (DRP2B), which has been previously implicated in constitutive clathrin-mediated endocytosis (CME), functions in responses to flg22 (the active peptide derivative of bacterial flagellin) and immunity against flagellated bacteria Pseudomonas syringae pv. tomato (Pto) DC3000. Consistent with a role of DRP2B in Pattern-Triggered Immunity (PTI), drp2b null mutant plants also showed increased susceptibility to Pto DC3000 hrcC −, which lacks a functional Type 3 Secretion System, thus is unable to deliver effectors into host cells to suppress PTI. Importantly, analysis of drp2b mutant plants revealed three distinct branches of the flg22-signaling network that differed in their requirement for RESPIRATORY BURST OXIDASE HOMOLOGUE D (RBOHD), the NADPH oxidase responsible for flg22-induced apoplastic reactive oxygen species production. Furthermore, in drp2b, normal MAPK signaling and increased immune responses via the RbohD/Ca2+-branch were not sufficient for promoting robust PR1 mRNA expression nor immunity against Pto DC3000 and Pto DC3000 hrcC−. Based on live-cell imaging studies, flg22-elicited internalization of the plant flagellin-receptor, FLAGELLIN SENSING 2 (FLS2), was found to be partially dependent on DRP2B, but not the closely related protein DRP2A, thus providing genetic evidence for a component, implicated in CME, in ligand-induced endocytosis of FLS2. Reduced trafficking of FLS2 in response to flg22 may contribute in part to the non-canonical combination of immune signaling defects observed in drp2b. In conclusion, this study adds DRP2B to the relatively short list of known vesicular trafficking proteins with roles in flg22-signaling and PTI in plants.",
+        "email": "",
+        "conf": "PLoS Pathogens",
+        "coauthors": [
+            "John M. Smith",
+            "Michelle E Leslie",
+            "Samuel J Robinson",
+            "David A Korasick",
+            "Tong Zhang",
+            "Steven K Backues",
+            "Peter V Cornish",
+            "Abraham J Koo",
+            "Sebastian Y Bednareck",
+            "Antje Heese"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5002,
+        "label": 99,
+        "author": "john m smith",
+        "title": "Rapid bioassay to measure early reactive oxygen species production in Arabidopsis leave tissue in response to living Pseudomonas syringae",
+        "organization": "Eurofins Lancaster Laboratories",
+        "abstract": "Arabidopsis thaliana and Pseudomonas syringae pathovar tomato (Pto) provide an excellent plant-bacteria model system to study innate immunity. During pattern-triggered immunity (PTI), cognate host receptors perceive pathogen-associated molecular patterns (PAMPs) as non-self molecules. Pto harbors many PAMPs; thus for experimental ease, many studies utilize single synthesized PAMPs such as flg22, a short protein peptide derived from Pseudomonas flagellin. Flg22 recognition by Arabidopsis Flagellin Sensing 2 (FLS2) initiates a plethora of signaling responses including rapid production of apoplastic reactive oxygen species (ROS). Assessing flg22-ROS has been instrumental in identifying novel PAMP-signaling components; but comparably little is known whether in Arabidopsis, ROS is produced in response to intact live Pto and whether this response can be used to dissect genetic requirements of the plant host and live bacterial pathogens in planta. We provide evidence and necessary control experiments demonstrating that in planta, this ROS bioassay can be utilized to rapidly screen different Arabidopsis mutant lines and ecotypes in combination with different bacterial strains to investigate the genetic requirements of a plant host and its pathogen. For future experiments, this robust bioassay can be easily extended beyond Arabidopsis-Pto to diverse plant-pathosystems including crop species and their respective microbial pathogens.",
+        "email": "",
+        "conf": "Plant Methods",
+        "coauthors": [
+            "John M. Smith",
+            "Antje Heese"
+        ],
+        "keywords": "ROS, Reactive oxygen, PAMP, FLS2, RbohD, BAK1, flg22, Pseudomonas syringae, DC3000, hrcC"
+    },
+    {
+        "id": 5003,
+        "label": 99,
+        "author": "john m smith",
+        "title": "Sensitivity to Flg22 Is modulated by ligand-induced degradation and de novo synthesis of the endogenous flagellin-receptor FLAGELLIN-SENSING2",
+        "organization": "Eurofins Lancaster Laboratories",
+        "abstract": "FLAGELLIN-SENSING2 (FLS2) is the plant cell surface receptor that perceives bacterial flagellin or flg22 peptide, initiates flg22-signaling responses, and contributes to bacterial growth restriction. Flg22 elicitation also leads to ligand-induced endocytosis and degradation of FLS2 within 1 h. Why plant cells remove this receptor precisely at the time during which its function is required remains mainly unknown. Here, we assessed in planta flg22-signaling competency in the context of ligand-induced degradation of endogenous FLS2 and chemical interference known to impede flg22-dependent internalization of FLS2 into endocytic vesicles. Within 1 h after an initial flg22 treatment, Arabidopsis (Arabidopsis thaliana) leaf tissue was unable to reelicit flg22 signaling in a ligand-, time-, and dose-dependent manner. These results indicate that flg22-induced degradation of endogenous FLS2 may serve to desensitize cells to the same stimulus (homologous desensitization), likely to prevent continuous signal output upon repetitive flg22 stimulation. In addition to impeding ligand-induced FLS2 degradation, pretreatment with the vesicular trafficking inhibitors Wortmannin or Tyrphostin A23 impaired flg22-elicited reactive oxygen species production that was partially independent of BRASSINOSTEROID INSENSITIVE1-ASSOCIATED KINASE1. Interestingly, these inhibitors did not affect flg22-induced mitogen-activated protein kinase phosphorylation, indicating the ability to utilize vesicular trafficking inhibitors to target different flg22-signaling responses. For Tyrphostin A23, reduced flg22-induced reactive oxygen species could be separated from the defect in FLS2 degradation. At later times (>2 h) after the initial flg22 elicitation, recovery of FLS2 protein levels positively correlated with resensitization to flg22, indicating that flg22-induced new synthesis of FLS2 may prepare cells for a new round of monitoring the environment for flg22.",
+        "email": "",
+        "conf": "Plant physiology",
+        "coauthors": [
+            "John M. Smith",
+            "Daniel Salamango",
+            "Michelle E Leslie",
+            "Carina A Collins",
+            "Antje Heese"
+        ],
+        "keywords": ""
+    }
+]

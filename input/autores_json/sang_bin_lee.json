@@ -1,0 +1,1500 @@
+[
+    {
+        "id": 2365,
+        "label": 51,
+        "author": "sang bin lee",
+        "title": "Advanced Diagnosis of Outer Cage Damage in Double-Squirrel-Cage Induction Motors Under Time-Varying Conditions Based on Wavelet Analysis",
+        "organization": "Korea University",
+        "abstract": " It is known that classical fast-Fourier-transform-based steady-state spectrum analysis, such as motor current signature analysis, may fail to detect outer cage damage in double-squirrel-cage induction motors. This is because the magnitude of the rotor fault frequency components (RFFCs) in the current spectrum of faulty motors is small, due to the low-magnitude current circulation in the outer cage under a steady-state operation. The probability of misdetection is higher in time-varying load applications, such as conveyor belts, pulverizers, etc., for which double-cage motors are frequently employed. In case of load variation, the small RFFCs are spread in a bandwidth proportional to the speed variation, which makes them even more difficult to detect. A diagnosis method based on discrete wavelet transform and optimized for sensitive detection under transient operating conditions is proposed in this paper. An experimental study on a custom-built fabricated Cu double-cage-rotor induction motor shows that the proposed method can provide improved detection of outer cage faults particularly used in time-varying load applications.",
+        "email": "",
+        "conf": "IEEE Transactions on Industry Applications",
+        "coauthors": [
+            "Yasser Gritli",
+            "Sang Bin Lee",
+            "Fiorenzo. Filippetti",
+            "Luca Zarri"
+        ],
+        "keywords": "Double Squirrel Cage induction machine,fault diagnosis,time-varying conditions,wavelet transform"
+    },
+    {
+        "id": 2405,
+        "label": 51,
+        "author": "sang bin lee",
+        "title": "Sensorless speed measurement of AC machines using analytic wavelet transform",
+        "organization": "Korea University",
+        "abstract": "A new method for the sensorless speed estimation of AC machines, using the analytic wavelet transform of the stator current signal, is proposed for a direct torque control drive. A comparison with results obtained using the short-time Fourier transform is included. The proposed method can be implemented in real time on a digital signal processor. The time-frequency resolution obtained and the computation time required by the proposed algorithm are improved in comparison to existing techniques, and the method can be applied over the entire speed range",
+        "email": "",
+        "conf": "IEEE Transactions on Industry Applications",
+        "coauthors": [
+            "Jose Aller",
+            "T.G. Habetler",
+            "R.G. Harley",
+            "R. M. Tallam",
+            "Sang Bin Lee"
+        ],
+        "keywords": "Velocity measurement,AC machines,Wavelet analysis,Wavelet transforms,Signal analysis,Stators,Torque control,Fourier transforms,Digital signal processors,Time frequency analysis"
+    },
+    {
+        "id": 2381,
+        "label": 51,
+        "author": "sang bin lee",
+        "title": "A Stator-Core Quality-Assessment Technique for Inverter-Fed Induction Machines",
+        "organization": "Korea University",
+        "abstract": " Localized heating caused by damage in the laminations or interlaminar insulation of the stator core increases the core losses and can lead to machine failure. Therefore, it is important to monitor the quality of the stator core for reliable and efficient operation of the machine. The methods currently available for core quality assessment are inconvenient since they require an outage and the machine to be disassembled or operated under no-load conditions. In this paper, a new method for monitoring the quality of the stator core for inverter-fed machines without motor disassembly or operation is proposed. The main concept is to use the inverter to apply a set of test signals to assess the quality of the core whenever the motor is at standstill. A set of high-frequency pulsating magnetic fields is produced using the inverter, and the power loss is observed as a function of field circumferential position to detect core problems. An experimental study on a 10-hp induction motor verifies that local interlaminar core faults can be detected with high sensitivity. The proposed technique is expected to provide a simple solution for frequent stator-core quality assessment without motor disassembly, motor operation, or additional hardware for reliable and efficient operation of inverter-fed induction machines",
+        "email": "",
+        "conf": "IEEE Transactions on Industry Applications",
+        "coauthors": [
+            "Kwanghwan Lee",
+            "Jongman Hong",
+            "Kwang-Woon Lee",
+            "Sang Bin Lee",
+            "Ernesto J. Wiedenbrug"
+        ],
+        "keywords": "AC machine,condition monitoring,core loss,diagnostics,eddy-current loss,hysteresis loss,induction motor,interlaminar-insulation failure,inverter,stator core"
+    },
+    {
+        "id": 2336,
+        "label": 51,
+        "author": "sang bin lee",
+        "title": "Permanent Magnet Temperature Estimation in PM Synchronous Motors Using Low Cost Hall Effect Sensors",
+        "organization": "Korea University",
+        "abstract": "Knowledge of the permanent magnet (PM) temperature in PM synchronous machines (PMSMs) is of great importance both for control and monitoring purposes. Increase in PM temperature during motor operation can degrade the magnetic flux strength and consequently the machine's torque production capability, and can also cause irreversible demagnetization of the PM. Direct measurement of the PM temperature is not viable in practice due to both cost and reliability issues. Indirect PM temperature estimation methods recently studied require knowledge of thermal or electrical model parameters or can have undesired effects on motor operation. In this paper, the feasibility of using low-cost Hall-effect sensors for PM temperature estimation is investigated. Hall sensors are present for detecting the initial position of the rotor in majority of PMSM applications for which incremental encoders are used for control. The proposed method can, therefore, be implemented with low or no additional cost. Experimental results on two interior PMSMs show that the method is capable of providing noninvasive estimation of the PM temperature without a priori motor parameter information for monitoring and protection against excessive increase in temperature.",
+        "email": "",
+        "conf": "IEEE Transactions on Industry Applications",
+        "coauthors": [
+            "Daniel Fernandez",
+            "Doosoo Hyun",
+            "Yonghyun Park",
+            "David Diaz Reigosa",
+            "Sang Bin Lee",
+            "Dong-Myung Lee",
+            "Fernando Briz"
+        ],
+        "keywords": "Demagnetization,Hall-effect sensor,permanent magnet (PM),PM synchronous motor,thermal monitoring"
+    },
+    {
+        "id": 2337,
+        "label": 51,
+        "author": "sang bin lee",
+        "title": "Active and Reactive Power Spectra-Based Detection and Separation of Rotor Faults and Low Frequency Load Torque Oscillations",
+        "organization": "Korea University",
+        "abstract": "Motor current signature analysis (MCSA) based detection of rotor cage faults (RFs) in medium-high voltage induction motors has become common in the field due to its low-cost remote monitoring capability. However, low-frequency load oscillations (LOs) in applications that employ speed reduction couplings can induce frequency components in the vicinity of that of RFs. It has been reported that false-positive or -negative RF indications can be produced with the MCSA, if the frequency components produced by RF and LO overlap. There, recently, have been studies on discriminating RF and LO; however, the case where two harmonic components overlap at the same frequency, which is the most difficult and serious case, has not been investigated. In this paper, a spectrum analysis of instantaneous active and reactive power is applied, and it is shown that RF and LO can be separated for the case where the MCSA fails due to the overlap in the two spectral components. An experimental study performed on a 380 V motor with a speed reduction gear shows that RF and LO can be reliably detected and separated for avoiding false RF indications.",
+        "email": "",
+        "conf": "IEEE Transactions on Industry Applications",
+        "coauthors": [
+            "M'hamed Drif",
+            "Heonyoung Kim",
+            "Jongwan Kim",
+            "Sang Bin Lee",
+            "Antonio.J.Marques Cardoso"
+        ],
+        "keywords": "Active power,belt pulley,coupling,electrical fault detection,fault diagnosis,gears,induction motors,load oscillation (LO),reactive power,rotor cage fault (RF),spectral analysis"
+    },
+    {
+        "id": 2367,
+        "label": 51,
+        "author": "sang bin lee",
+        "title": "Robust thermal model for the estimation of rotor cage and stator winding temperatures of induction machines",
+        "organization": "Korea University",
+        "abstract": "In this paper a new model for the estimation of the stator winding and rotor cage temperatures of induction machines is presented. This model can be used in series applications of machines operated under dynamic load conditions where stator and rotor temperature shall be monitored. The proposed model relies on a simplified lumped element thermal equivalent circuit model where the stator core temperature serves as input quantity. The great advantage of this model is that it covers ambient and cooling conditions inherently. This leads to great simplicity and robustness. The parametrization and validation of the model through experimental data is presented. Advantages, drawbacks and possible implementations are discussed.",
+        "email": "",
+        "conf": "International Conference on Electrical Machines",
+        "coauthors": [
+            "Christian Kral",
+            "Anton Haumer",
+            "Sang Bin Lee"
+        ],
+        "keywords": "Squirrel cage induction machine,lumped element thermal equivalent circuit model,temperature estimation,cooling,dynamic load"
+    },
+    {
+        "id": 2376,
+        "label": 51,
+        "author": "sang bin lee",
+        "title": "A New Strategy for Condition Monitoring of Adjustable Speed Induction Machine Drive Systems",
+        "organization": "Korea University",
+        "abstract": "A new strategy for monitoring the condition of adjustable speed induction machine drive systems is presented in this paper. The main concept of the new method is to use the inverter to perform off-line tests for quality assessment of the vulnerable components in the inverter, cable, and induction motor automatically whenever the motor is stopped. This new approach is suitable for monitoring system components that deteriorate gradually to failure, if the degradation is observable. Off-line test methods for monitoring the quality of the 1) dc-link aluminum electrolytic capacitor; 2) electrical connections; 3) cable and stator winding insulation; 4) stator core; and 5) rotor bar are presented along with a summary of the failure mechanism and existing test methods. It will be shown that the new strategy can be implemented with minimal hardware requirements, and that it has many advantages over existing off-line and on-line tests. An experimental study performed under simulated fault conditions for each component shows that the method provides a reliable and sensitive indication of drive system problems for reliable, efficient, and safe operation.",
+        "email": "",
+        "conf": "IEEE Transactions on Power Electronics",
+        "coauthors": [
+            "Sang Bin Lee",
+            "Jinkyu Yang",
+            "Jongman Hong",
+            "Ji-Yoon Yoo",
+            "Byunghwan Kim",
+            "Kwang Woon Lee",
+            "Ernesto J. Wiedenbrug",
+            "Subhasis Nandi"
+        ],
+        "keywords": "Adjustable speed drive (ASD),condition monitoring,diagnostics,induction motor"
+    },
+    {
+        "id": 2401,
+        "label": 51,
+        "author": "sang bin lee",
+        "title": "A remote and sensorless thermal protection scheme for small line-connected AC machines",
+        "organization": "Korea University",
+        "abstract": "An advanced remote and sensorless thermal protection technique for small line-connected AC machines is proposed in this paper. The proposed technique includes an algorithm for detecting abnormal cooling conditions due to reduced motor cooling ability, in addition to a stator resistance (R/sub s/)-based stator temperature (T/sub s/) monitoring scheme. The motor cooling ability monitoring algorithm can be implemented using the R/sub s/ estimates of an existing DC-injection-based R/sub s/ estimation scheme without parameter information or additional hardware. In addition, the influence of the fuse, circuit breaker, and cable resistances on the R/sub s/ estimate is investigated, and methods for compensation are suggested for improving the accuracy of the R/sub s/ estimate and, therefore, the reliability of T/sub s/ monitoring. Experimental results under a number of abnormal cooling conditions verify that the reduced cooling ability of the motor can be reliably detected and that it can be used in addition to the T/sub s/ estimate for complete motor thermal protection",
+        "email": "",
+        "conf": "IEEE Transactions on Industry Applications",
+        "coauthors": [
+            "Sang Bin Lee",
+            "T.G. Habetler"
+        ],
+        "keywords": "Protection,AC machines,Cooling,Stators,Condition monitoring,Temperature sensors,Parameter estimation,Hardware,Fuses,Circuit breakers"
+    },
+    {
+        "id": 2404,
+        "label": 51,
+        "author": "sang bin lee",
+        "title": "Complete current-based induction motor condition monitoring: stator rotor bearings and load",
+        "organization": "Korea University",
+        "abstract": "A complete summary of techniques for monitoring and protecting each major component of a low voltage, line-connected induction motor is given in this paper. Specifically, a method for protecting the machine from thermal overload is presented, along with a method for robust stator turn-fault detection. Current-based spectral analysis for rotor and rotating faults, as well as bearing faults is also presented. Each of these techniques are proved to provide condition- and fault-related information to the user without additional sensors",
+        "email": "",
+        "conf": "IEEE International Power Electronics Congress, 2002. Technical Proceedings",
+        "coauthors": [
+            "T.G. Habetler",
+            "R.G. Harley",
+            "Rangarajan M. Tallam",
+            "Sang Bin Lee",
+            "R. Obaid",
+            "J. Stack"
+        ],
+        "keywords": "Induction motors,Condition monitoring,Rotors,Protection,Stator windings,Availability,Sensor arrays,Temperature sensors,Insulation,Low voltage"
+    },
+    {
+        "id": 2332,
+        "label": 51,
+        "author": "sang bin lee",
+        "title": "Starting current analysis for condition monitoring of medium voltage induction motors in the steel industry",
+        "organization": "Korea University",
+        "abstract": "Failure of medium voltage (MV) induction motors is a major concern in the steel industry considering that it can cause an unplanned outage of the process resulting in significant economic consequences. Predictive maintenance based on offline and on-line testing of the induction motors is therefore critical for maintaining reliable, efficient, and safe plant operation. Many years of experience has shown that the MV induction motor failure rate can be significantly reduced with periodic motor testing, resulting in improved plant reliability and productivity. It has also been observed that false fault indications are commonly produced by commercially available test equipment, and that applying multiple types of tests can improve the reliability of testing. In this paper, the effectiveness of a new test approach based on the analysis of the motor starting current is investigated for detecting defects in the rotor cage and reactor starting. Analysis of the starting data obtained from 614 MV induction motors operating at a steel mill over the last 10+ years showed that the two types of faults were present in 45 MV motors. 7 successful case studies of rotor cage and reactor starting defects are presented to provide insight on the advantages of starting current analysis for induction motor monitoring",
+        "email": "",
+        "conf": "IEEE Industry Applications Society Annual Meeting",
+        "coauthors": [
+            "Chanseung Yang",
+            "Sang Bin Lee",
+            "Geunik Jang",
+            "Seongnam Kim",
+            "Gyukyung Jung",
+            "Junghoon Lee",
+            "Sangwook Shim",
+            "Young Kab Lim",
+            "Jinpyo Kim",
+            "Sungbong Park"
+        ],
+        "keywords": "Condition Monitoring,Failure Analysis,Fault Diagnosis,Induction Motors,Predictive Maintenance,Spectral Analysis,Steel Industry"
+    },
+    {
+        "id": 2380,
+        "label": 51,
+        "author": "sang bin lee",
+        "title": "MTPA operating point tracking control scheme for vector controlled PMSM drives",
+        "organization": "Korea University",
+        "abstract": "Operation of interior permanent magnet synchronous motors (PMSM) at the maximum torque per ampere (MTPA) operating point requires knowledge of the exact values of machine parameters such as the inductances and back-EMF constant, which depend on saturation and temperature variations. On-line estimation of the machine parameters may not be suitable for practical applications due to the requirement of intensive computation. The objective of this paper is to present a simple MTPA operating point tracking control strategy for vector controlled PMSM drives with slow dynamic loads. The proposed method searches for the MTPA operating point by modulating the current phase angle and observing the variation in the power command. The current angle modulation strategy is designed to sense the influence of load variations in the power command. Therefore, the proposed method can track the MTPA operating point of the PMSM independent of load variations. Experimental results are presented to show the effectiveness of the proposed method",
+        "email": "",
+        "conf": "IEEE SPEEDAM",
+        "coauthors": [
+            "Kwang-Woon Lee",
+            "Sang Bin Lee"
+        ],
+        "keywords": "Maximum Torque per Ampere (MTPA),Tracking Control,Permanent Magnet Synchronous Motor"
+    },
+    {
+        "id": 2328,
+        "label": 51,
+        "author": "sang bin lee",
+        "title": "Permanent Magnet Synchronous Machine Drive Control Using Analog Hall-Effect Sensors",
+        "organization": "Korea University",
+        "abstract": "Control of permanent magnet synchronous machines (PMSMs) requires rotor position measurement/estimation, as well as the magnet polarity detection for startup of the machine. The rotor position of PMSMs is typically measured using a speed/position sensor (e.g., an encoder), while the magnet polarity is commonly measured using digital hall-effect sensors. Since simplifying the system can help improve reliability and reduce the cost associated with the measurements, the use of low cost analog hall-effect sensors for the estimation of the PM position, and polarity for control of PMSMs drives is evaluated in this paper. Experimental results performed on a 7.5-kW motor confirm that analog hall-effect sensors can replace both speed/position sensors and digital hall-effect sensors while maintaining adequate performance of the drive at a lower cost. ",
+        "email": "",
+        "conf": "IEEE Transactions on Industry Applications",
+        "coauthors": [
+            "David Reigosa",
+            "Daniel Fernandez",
+            "Cristina Gonzalez",
+            "Sang Bin Lee",
+            "Fernando Briz"
+        ],
+        "keywords": "Hall-effect sensors,permanent magnet synchronous machines (PMSMs),rotor position estimation"
+    },
+    {
+        "id": 2394,
+        "label": 51,
+        "author": "sang bin lee",
+        "title": "A microcontroller embedded AD converter based low cost sensorless technique for brushless DC motor drives",
+        "organization": "Korea University",
+        "abstract": "A simple low cost sensorless control technique for BLDC motor drives is proposed in this paper. The proposed sensorless technique is based on the terminal voltage measurement, which is the most widely used and accepted approach in industry for BLDC motor control. The proposed method utilizes the microcontroller embedded AD converter, which is common in state-of-the-art low cost microcontrollers, for terminal voltage measurements. Therefore, the zero crossing point (ZCP) can be calculated precisely using simple algebraic equations eliminating the need for analog low pass filters or comparators. It is shown that the advantages of the proposed technique include 1) no delays in ZCP due to low pass filtering, 2) precise ZCP detection independent of the PWM state, and 3) minimum hardware requirements. Experimental results are also given to verify the advantages of the proposed technique. In addition, it is shown that the back-emf voltage profile of the open phase can be obtained while the motor is operating without additional hardware. The potential benefits of obtaining the back-emf profile are also summarized",
+        "email": "",
+        "conf": "Conference Record - IAS Annual Meeting (IEEE Industry Applications Society)",
+        "coauthors": [
+            "Yongjin Kang",
+            "Sang Bin Lee",
+            "Jiyoon Yoo"
+        ],
+        "keywords": "Microcontrollers,Costs,Brushless DC motors,Sensorless control,Voltage measurement,Low pass filters,Pulse width modulation,Hardware,Industrial control,Voltage control"
+    },
+    {
+        "id": 2354,
+        "label": 51,
+        "author": "sang bin lee",
+        "title": "Identification of false rotor fault indications produced by online MCSA for medium-voltage induction machines",
+        "organization": "Korea University",
+        "abstract": "Motor current signature analysis (MCSA) has become an essential part of the preventive maintenance program for monitoring the condition of the rotor cage in medium-voltage induction motors in the pulp and paper industry. However, many cases of false indications due to interference from the motor or the load have been reported. False indications can result in unnecessary inspection and outage costs (false positives) or major repair/replacement costs and loss of production (false negatives). The objective of this paper is to present the potential root causes of false indications and provide guidelines on how commercially available offline and online tests can be applied for identifying false indications from a field engineers' perspective. Case studies of false MCSA indications and results of alternative commercial tests for improving the reliability of the diagnosis are provided through measurements on 6.6-kV and laboratory motor samples. Finally, new test methods under research and development for reliable rotor fault detection are summarized, and unresolved problems are listed. This paper is expected to help field maintenance engineers prevent unnecessary motor inspection and forced outages and guide researchers target future research toward industrial needs",
+        "email": "",
+        "conf": "IEEE Transactions on Industry Applications",
+        "coauthors": [
+            "Sang Bin Lee",
+            "Doosoo Hyun",
+            "Tae-june Kang",
+            "Chanseung Yang",
+            "Sungsik Shin",
+            "Heonyoung Kim",
+            "Sungbong Park",
+            "Tae-Sik Kong",
+            "Hee-Dong Kim"
+        ],
+        "keywords": "Rotors,Induction motors,Perpendicular magnetic anisotropy,Ducts,Reluctance motors,Inspection"
+    },
+    {
+        "id": 2406,
+        "label": 51,
+        "author": "sang bin lee",
+        "title": "An evaluation of model-based stator resistance estimation for induction motor stator winding temperature monitoring",
+        "organization": "Korea University",
+        "abstract": "In this paper, the feasibility of using an estimate of the stator resistance (R/sub s/) as an indicator of stator winding temperature (T/sub s/) is evaluated. The advantages of resistance-based temperature monitoring over conventional thermal model-based methods are presented. Since obtaining an accurate estimate of R/sub s/ is critical for this approach, an investigation of existing R/sub s/ estimation schemes, and an analysis showing the sensitivity of model-based R/sub s/ estimation due to the uncertainties in motor parameters and variables, are given. It is shown that R/sub s/ estimation is difficult during high-speed operation, because estimated R/sub s/ becomes sensitive to errors in motor electrical parameters and variables, as the input excitation frequency (speed) increases. A new R/sub s/ estimation scheme for the purpose of monitoring the temperature in steady state is proposed. Experimental results on a line-connected induction machine verify the validity of the proposed method and the analysis",
+        "email": "",
+        "conf": "IEEE Transactions on Energy Conversion",
+        "coauthors": [
+            "Sang Bin Lee",
+            "Thomas G. Habetler",
+            "R.G. Harley",
+            "David J. Gritter"
+        ],
+        "keywords": "Induction motors,Stator windings,Temperature sensors,Thermal resistance,Temperature measurement,Frequency estimation,Protection,Induction machines,Rotors,Insulation"
+    },
+    {
+        "id": 2396,
+        "label": 51,
+        "author": "sang bin lee",
+        "title": "An Iron Core Probe Based Inter-Laminar Core Fault Detection Technique for Generator Stator Cores",
+        "organization": "Korea University",
+        "abstract": "A new technique for detecting incipient interlaminar insulation failure of laminated stator cores of large generators is proposed in this paper. The proposed scheme is a low flux induction method that employs a novel probe for core testing. The new probe configuration, which uses magnetic material and is scanned in the wedge depression area, significantly improves the sensitivity of fault detection as well as user convenience compared to existing methods. Experimental results from various test generators tested in factory, field and lab environments under a number of fault conditions are presented to verify the sensitivity and reliability of the proposed scheme.",
+        "email": "",
+        "conf": "IEEE Transactions on Energy Conversion",
+        "coauthors": [
+            "Sang Bin Lee",
+            "Gerald B. Kliman",
+            "R. Shah",
+            "N.K. Nair",
+            "R. Mark Lusted"
+        ],
+        "keywords": "Stator cores,Iron,Probes,Fault detection,Induction generators,Testing,Insulation,Magnetic cores,Magnetic materials,Production facilities"
+    },
+    {
+        "id": 2364,
+        "label": 51,
+        "author": "sang bin lee",
+        "title": "Offline Monitoring of Airgap Eccentricity for Inverter-Fed Induction Motors Based on the Differential Inductance",
+        "organization": "Korea University",
+        "abstract": "The monitoring of airgap eccentricity for induction motors is important for guaranteeing motor reliability, since eccentricity can eventually lead to motor failure due to stator-rotor contact. However, there are many limitations to applying existing test methods such as the motor current signature analysis in the field, particularly for variable frequency applications. In this paper, a new inverter-embedded test approach for detecting eccentricity for induction motors is proposed. The main concept is to use the inverter to perform a standstill test whenever the motor is stopped, to extract information on motor eccentricity. The motor is excited with a low-frequency pulsating ac field superimposed on different levels of dc fields, and the variation in the differential inductance pattern due to the change in the degree of magnetic saturation caused by eccentricity is observed. An experimental study on a 7.5-Hp induction motor under controlled eccentricity conditions verifies that the sensitivity of eccentricity detection can be significantly improved compared with existing methods",
+        "email": "",
+        "conf": "IEEE Transactions on Industry Applications",
+        "coauthors": [
+            "Jongman Hong",
+            "Doosoo Hyun",
+            "Sang Bin Lee",
+            "Christian Kral"
+        ],
+        "keywords": "Alternating-current (ac) machine,condition monitoring,diagnostics,differential inductance,eccentricity,electrical fault detection,induction motor,inverter"
+    },
+    {
+        "id": 2356,
+        "label": 51,
+        "author": "sang bin lee",
+        "title": "Reliable Detection of Induction Motor Rotor Faults Under the Rotor Axial Air Duct Influence",
+        "organization": "Korea University",
+        "abstract": "Axial cooling air ducts in the rotor of large induction motors are known to produce magnetic asymmetry and can cause steady-state current or vibration spectrum analysis based fault detection techniques to fail. If the number of axial air ducts and that of poles are identical, frequency components that overlap with that of rotor faults can be produced for healthy motors. False positive rotor fault indication due to axial ducts is a common problem in the field that results in unnecessary maintenance cost. However, there is currently no known test method available for distinguishing rotor faults and false indications due to axial ducts other than offline rotor inspection or testing. Considering that there is no magnetic asymmetry under high slip conditions due to limited flux penetration into the rotor yoke, the detection of broken bars under the start-up transient is investigated in this paper. A wavelet-based detection method is proposed and verified on custom-built lab motors and 6.6-kV motors misdiagnosed with broken bars via steady-state spectrum analysis. It is shown that the proposed method provides the reliable detection of broken bars under the start-up transient independent of axial duct influence",
+        "email": "",
+        "conf": "IEEJ Transactions on Industry Applications",
+        "coauthors": [
+            "Chanseung Yang",
+            "Tae-june Kang",
+            "Doosoo Hyun",
+            "Sang Bin Lee",
+            "Jose A. Antonino-Daviu",
+            "Joan Pons-Llinares"
+        ],
+        "keywords": "Rotors,Ducts,Induction motors,Bars,Discrete wavelet transforms,Magnetic flux,Transient analysis"
+    },
+    {
+        "id": 2392,
+        "label": 51,
+        "author": "sang bin lee",
+        "title": "An online groundwall and phase-to-phase insulation quality assessment technique for AC-machine stator windings",
+        "organization": "Korea University",
+        "abstract": "An online technique for monitoring the condition of the groundwall (GW) and phase-to-phase (PP) insulation for three-phase ac-machine stator windings is proposed in this paper. Insulation-condition indicators such as capacitance, dissipation factor (tandelta), and ac insulation resistance are calculated online based on the differential leakage-current measurements for each phase. A model for a three-phase ac-machine insulation system is derived and analyzed for both offline and online testing. Guidelines for interpreting the measured indicators for determining the: 1) overall condition and 2) significant degradation in the individual GW and PP insulation for each phase of the stator are given based on the analysis. Experimental results on a 15-hp induction motor under intentional GW and PP insulation degradation conditions show that incipient insulation degradation can be detected and classified with high sensitivity",
+        "email": "",
+        "conf": "IEEE Transactions on Industry Applications",
+        "coauthors": [
+            "Sang Bin Lee",
+            "Jinkyu Yang",
+            "Karim Younsi",
+            "R.M. Bharadwaj"
+        ],
+        "keywords": "AC machines,capacitance,dissipation factor,fault diagnosis,groundwall (GW) insulation,insulation resistance (IR),insulation testing,online condition monitoring,phase-to-phase (PP) insulation"
+    },
+    {
+        "id": 2357,
+        "label": 51,
+        "author": "sang bin lee",
+        "title": "Reliable detection of rotor bar failures in induction motors operating in petrochemical plants",
+        "organization": "Korea University",
+        "abstract": "A compilation of industrial case studies for current based broken rotor bar detection in high voltage induction machines operating in water intake facilities and petrochemical plants is presented in this paper. A technique (Advanced Transient Current Signature Analysis, ATCSA) based on the analysis of the stator transient current is assessed and compared to the widely spread Motor Current Signature Analysis (MCSA) technology. ATCSA relies on the application of advanced signal processing tools that enable to track the signatures created by the fault components across the transient. These `transient signatures' lead to a reliable understanding of the machine condition and provide much more information than a single frequency peak in a FFT spectrum. The new method has proven to be valid to avoid false positives provided by the classical MCSA, such as those occurring under presence of oscillating load torques or cooling axial ducts. The work verifies the industrial applicability of the approach and its reliability in cases where the classical MCSA leads to false indications. The verification is performed on High Voltage induction motors operating in a petrochemical plant in Korea as well as on a water intake facility at the same country. Some of the motors had actual broken rotor bar faults and false positive fault indications",
+        "email": "",
+        "conf": "Petroleum and Chemical Industry Conference Europe",
+        "coauthors": [
+            "Jose A. Antonino-Daviu",
+            "Sang Bin Lee",
+            "Ernesto Wiedenbrug"
+        ],
+        "keywords": "Fault diagnosis,induction motors,transient analysis,wavelet transforms"
+    },
+    {
+        "id": 2386,
+        "label": 51,
+        "author": "sang bin lee",
+        "title": "Condition Monitoring of DC-Link Electrolytic Capacitors in Adjustable-Speed Drives",
+        "organization": "Korea University",
+        "abstract": "A new preventive maintenance strategy for the sensorless condition monitoring of inverter dc-link aluminum electrolytic capacitors based on equivalent series resistance (ESR) and capacitance C estimation is proposed. The main concept of the proposed method is to estimate the ESR and C of the capacitor, using the inverter whenever the motor is stopped. The parameters are estimated from the dc-link voltage and stator current measurements available in the inverter with the switched dc-link voltage applied to the motor stator winding. The temperature of the capacitor can also be estimated under thermal equilibrium based on the stator resistance estimate to take the influence of temperature variation into account. An experimental study on a 250-W permanent magnet synchronous motor performed under accelerated capacitor degradation is presented to verify the proposed technique. It is shown that the proposed method provides a reliable and sensitive indication of capacitor aging without additional hardware requirements for reliable, efficient, and safe operation of the inverter and driven process",
+        "email": "",
+        "conf": "IEEE Transactions on Industry Applications",
+        "coauthors": [
+            "Kwang-Woon Lee",
+            "Myungchul Kim",
+            "Jangho Yoon",
+            "Sang Bin Lee",
+            "Ji-Yoon Yoo"
+        ],
+        "keywords": "Adjustable-speed drive,aluminum electrolytic capacitor,capacitance,condition monitoring,dc-link capacitor,diagnostics,electrolyte,equivalent series resistance (ESR),stator resistance estimation"
+    },
+    {
+        "id": 2325,
+        "label": 51,
+        "author": "sang bin lee",
+        "title": "Detection of Demagnetization in Permanent Magnet Synchronous Machines Using Hall-Effect Sensors",
+        "organization": "Korea University",
+        "abstract": "Torque production capability of permanent magnet synchronous machines (PMSMs) depends on the magnetization state of the permanent magnets (PMs). Electrical stress, thermal stress, or the combined effect of both can produce demagnetization of the PMs, which eventually can result in several adverse effects including decrease in the motor torque and efficiency and increase of the torque ripple and vibration, eventually degrading the performance and reliability of the motor and drive system. A number of approaches have been proposed for detecting PM demagnetization using model-based flux estimation, signal injection, and spectrum analysis of current/back electromotive force; however, all these methods show limitations in terms of invasiveness, implementation cost, and/or reliability of the diagnosis. In this paper, accurate PM demagnetization detection based on measurements from Hall-effect sensors is proposed. Such sensors are often mounted in commercial PMSMs; the proposed method can, therefore, be implemented at practically no cost",
+        "email": "",
+        "conf": "IEEE Transactions on Industry Applications",
+        "coauthors": [
+            "David Reigosa",
+            "Daniel Fernandez",
+            "Yonghyun Park",
+            "Alberto B. Diez",
+            "Sang Bin Lee",
+            "Fernando Briz"
+        ],
+        "keywords": "Demagnetization,Hall-effect sensors,magnetization state estimation,permanent magnet,synchronous machines (PMSMs)"
+    },
+    {
+        "id": 2345,
+        "label": 51,
+        "author": "sang bin lee",
+        "title": "Advanced Rotor Fault Diagnosis for Medium-Voltage Induction Motors Via Continuous Transforms",
+        "organization": "Korea University",
+        "abstract": "A number of field case studies for rotor fault diagnosis on medium-voltage induction motors operating in a petrochemical plant are presented in this paper. The methodology employed is based on analyzing the induction motor startup current with advanced signal processing tools (continuous transforms) that enable a capture of a “complete picture” of the rotor condition. Indeed, unlike the classical tools that often rely on the detection of few fault frequencies, these new tools allow extraction of the evolution of a wide range of fault components during the startup transient and steady-state evolutions, which enables improved reliability. This is crucial in medium-high-voltage motors, where a false diagnosis may result in significant expense due to inspection, repair, or forced outage. An additional contribution of the study is its immunity to external voltage supply disturbances, which introduce components that are not related to the failure and which are difficult to detect with classical tools. The results of this study prove how the advanced continuous tools enable an improved visualization of the fault components, distinguishing them from the other components that are not linked to the failure.",
+        "email": "",
+        "conf": "IEEE Transactions on Industry Applications",
+        "coauthors": [
+            "Jose A. Antonino-Daviu",
+            "Joan Pons-Llinares",
+            "Sang Bin Lee"
+        ],
+        "keywords": "Fault diagnosis,induction motors,spectral analysis,transient analysis,wavelet transforms"
+    },
+    {
+        "id": 2326,
+        "label": 51,
+        "author": "sang bin lee",
+        "title": "Experience with Stator Insulation Testing and Turn/Phase Insulation Failures in the Power Generation Industry",
+        "organization": "Korea University",
+        "abstract": "The reliability of medium voltage (MV) motors used for driving pumps, fans, and other loads in the power generation industry is critical for continued power production. Periodic testing of stator winding insulation, which is the most vulnerable component in MV motors, is an essential part of predictive maintenance for preventing unplanned reduction in the power generation capability. Korea Electric Power Corporation (KEPCO) Research Institute's 17+ years of experience on predictive maintenance of stator insulation for MV motors is presented in this paper. KEPCO's stator insulation test program and statistics of test records are summarized, and cases of recent turn and phase insulation failures that resulted in motor forced outages are investigated. Analysis of the turn or phase insulation failures and insulation test records performed on the failed motors show that it is difficult to predict turn or phase insulation failures with the insulation tests currently performed. Turn or phase insulation test methods are summarized and evaluated based on the findings of the investigation to help target future research efforts toward industrial needs.",
+        "email": "",
+        "conf": "IEEE Transactions on Industry Applications",
+        "coauthors": [
+            "Heedong Kim",
+            "Taesik Kong",
+            "Sang Bin Lee",
+            "Tae-June Kang",
+            "Namyoung Oh",
+            "Yeongjae Kim",
+            "Sanguk Park",
+            "Chaewoong Lim",
+            "Greg C. Stone"
+        ],
+        "keywords": "AC machines,phase insulation,predictive maintenance,stator insulation testing,turn insulation"
+    },
+    {
+        "id": 2393,
+        "label": 51,
+        "author": "sang bin lee",
+        "title": "Rapid analytical optimization of eddy-current shield thickness for associated loss minimization in electrical Machines",
+        "organization": "Korea University",
+        "abstract": "A copper or another high-conductivity shield is often used for coating the solid rotor for reducing the armature-reaction space and time-harmonic-induced surface eddy-current losses in a solid-rotor synchronous machine. Since finite-element-simulation-based surface-loss evaluation for shield design can be very time consuming and complicated; a simple analytical model for calculating the surface losses is derived in this paper. A set of equations is derived based on Maxwell's equations for a general case and applied to a solid-rotor synchronous machine. Simulation results are provided to show that the proposed analytical model can serve as an effective screening tool for determining the optimal shield thickness for minimizing the rotor surface losses. The model is useful for assisting the shield-design process for synchronous machines with solid rotors, especially for high-speed machines operating in conjunction with power electronic converters",
+        "email": "",
+        "conf": "IEEE Transactions on Industry Applications",
+        "coauthors": [
+            "Manoj Shah",
+            "Sang Bin Lee"
+        ],
+        "keywords": "AC machines,eddy currents,harmonic analysis,magnetic losses,magnetic shielding"
+    },
+    {
+        "id": 2353,
+        "label": 51,
+        "author": "sang bin lee",
+        "title": "Screening of False Induction Motor Fault Alarms Produced by Axial Air Ducts Based on the Space-Harmonic-Induced Current Components",
+        "organization": "Korea University",
+        "abstract": "Motor current signature analysis (MCSA) based on the 50/60-Hz sidebands has become a common test in industry for monitoring the condition of the induction motor rotor cage. However, many cases of unnecessary motor inspection or outage due to false alarms produced by rotor axial duct interference have been reported. If the number of axial ducts and poles is identical, this can produce 50/60-Hz sideband frequency components in MCSA that overlap with that of rotor faults, resulting in false alarms. However, there currently is no practical test method available for distinguishing rotor faults and false indications other than testing the rotor offline or under the startup transient. In this paper, the feasibility of using the rotor fault frequency component produced by the space harmonic waves is evaluated as a solution for the first time. Since the fifth or seventh space harmonics have a spatial distribution of flux that does not penetrate in the rotor yoke to reach the axial ducts, they do not produce false alarms. The proposed method is verified on 6.6-kV motors misdiagnosed with broken bars via the 50/60-Hz sidebands of MCSA. It is shown that it provides reliable online indication of rotor faults independent of axial duct influence and can be used for screening out false alarms",
+        "email": "",
+        "conf": "IEEE Transactions on Industrial Electronics",
+        "coauthors": [
+            "Chanseung Yang",
+            "Tae-June Kang",
+            "Sang Bin Lee",
+            "Ji-Yoon Yoo",
+            "Alberto Bellini",
+            "Luca Zarri",
+            "Fiorenzo Filippetti"
+        ],
+        "keywords": "Condition monitoring,fault diagnosis,frequency-domain analysis,induction motor,predictive maintenance"
+    },
+    {
+        "id": 2359,
+        "label": 51,
+        "author": "sang bin lee",
+        "title": "On-line detection of high resistance connections with inverse-sequence regulators in three phase induction motor drives",
+        "organization": "Korea University",
+        "abstract": "High-resistance connections in electric drives can cause localized overheating and motor supply voltage unbalance, which degrade the performance, efficiency, and reliability of the system. An enhanced field oriented control scheme for induction machines that is capable of detecting resistive unbalance due to high resistance connections, and regulating the inverse sequence current is proposed as the main contribution of this paper. Resistive unbalance is detected and located while maintaining the symmetric drive behavior both under transient and steady-state operating conditions. The inverse-sequence regulator adopted in addition to the traditional current regulator for rotor field oriented control is used to compensate for the voltage unbalance caused by the inherent asymmetries in the cable and stator winding and by the poor contacts. A model that shows the relationship between the resistive unbalance and inverse-sequence current components is derived from the analysis of the proposed scheme. The theoretical analysis and the validity of the detection technique are confirmed with a preliminary experimental study on a 4 kW induction motor drive",
+        "email": "",
+        "conf": "IEEE Transactions on Industry Applications",
+        "coauthors": [
+            "Luca Zarri",
+            "Michele Mengoni",
+            "Yasser Gritli",
+            "A. Tani",
+            "F. Filippetti",
+            "Sang Bin Lee"
+        ],
+        "keywords": "High-resistance connections,fault detection,fault-tolerant drive,induction motor drive"
+    },
+    {
+        "id": 2368,
+        "label": 51,
+        "author": "sang bin lee",
+        "title": "Detection of Airgap Eccentricity for Induction Motors Using the Single-Phase Rotation Test",
+        "organization": "Korea University",
+        "abstract": "The single-phase rotation test (SPRT) is a simple and reliable offline test frequently used for detecting problems in the rotor cage of induction motors without motor disassembly. Airgap eccentricity due to bearing degradation, shaft flexing, etc., is another problem that is difficult to detect, which can cause catastrophic motor failure. In this paper, the feasibility of using the SPRT for detecting eccentricity, which has not been reported before, is investigated. The variation in the inductive component as a function of rotor position and time under static, dynamic, and mixed eccentricity conditions is analyzed. It is shown that airgap eccentricity can be detected in addition to rotor cage problems with the SPRT. An experimental study on a 7.5-Hp induction motor under controlled eccentricity and broken bar conditions shows that airgap eccentricity can be reliably detected with high sensitivity and distinguished from broken rotor bars.",
+        "email": "",
+        "conf": "IEEE Transactions on Energy Conversion",
+        "coauthors": [
+            "Doosoo Hyun",
+            "Sungho Lee",
+            "Jongman Hong",
+            "Sang Bin Lee",
+            "Subhasis Nandi"
+        ],
+        "keywords": "Condition monitoring,eccentricity,electrical fault detection,inductance measurement,induction motors,preventive maintenance,spectral analysis,testing"
+    },
+    {
+        "id": 2374,
+        "label": 51,
+        "author": "sang bin lee",
+        "title": "Detection of Eccentricity Faults in Induction Machines Based on Nameplate Parameters",
+        "organization": "Korea University",
+        "abstract": "Eccentricity-related faults in induction motors have been studied extensively over the last few decades. They can exist in the form of static or dynamic eccentricity or both, in which case it is called a mixed eccentricity fault. These faults cause bearing damage, excessive vibration and noise, unbalanced magnetic pull, and under extreme conditions, stator-rotor rub which may seriously damage the motors. Since eccentricity faults are often associated with large induction machines, the repair or replacement costs arising out of such a scenario may easily run into tens and thousands of dollars. Previous research works have shown that it is extremely difficult to detect such faults if they appear individually, rather than in mixed form, unless the number of rotor bars and the pole-pair number conform to certain relationships. In this paper, it is shown that the terminal voltages of induction machines at switch-off reveal certain features that can lead to the detection of these faults in individual form, even in machines that do not show these signatures in line-current spectrum in steady state, or to the detection of the main contributory factor in case of mixed eccentricity.",
+        "email": "",
+        "conf": "IEEE Transactions on Industrial Electronics",
+        "coauthors": [
+            "Subhasis Nandi",
+            "Thirumarai Chelvan Ilamparithi",
+            "Sang Bin Lee",
+            "Doosoo Hyun"
+        ],
+        "keywords": "Dynamic and mixed eccentricity faults,fault diagnosis,induction-motor protection,Modified Winding Function Approach,motor current signature analysis (MCSA),power spectral density,Short-Time Fourier Transform (STFT),spectral analysis,static,Switch-off Voltage Transient Analysis,unbalanced magnetic pull (UMP)"
+    },
+    {
+        "id": 2366,
+        "label": 51,
+        "author": "sang bin lee",
+        "title": "Innovative Thermal Model for the Estimation of Permanent Magnet and Stator Winding Temperatures",
+        "organization": "Korea University",
+        "abstract": "In this paper an innovative thermal model for the determination of the temperatures of the permanent magnets and stator windings is presented. This model relies on one temperature sensor located in the stator core of the machine. The estimated stator winding and permanent magnet temperatures are determined by a simplified thermal lumped element network model with only two time constants. Due to the structure of the model and the measured stator core temperature the proposed thermal model is very robust. Distortion of the cooling circuit are inherently sensed such that the model can be used for the online prediction of temperatures. Experimental results based on an interior permanent magnet synchronous machine are presented to validate the presented model.",
+        "email": "",
+        "conf": "IEEE Energy Conversion Congress and Exposition",
+        "coauthors": [
+            "Christian Kral",
+            "Anton Haumer",
+            "Sang Bin Lee"
+        ],
+        "keywords": "Permanent magnet synchronous machine,lumped element thermal equivalent circuit model,temperature estimation,cooling,variable speed,dynamic load"
+    },
+    {
+        "id": 2355,
+        "label": 51,
+        "author": "sang bin lee",
+        "title": "Identification of the Broken Bar Fault in Induction Motors with Rotor Air Ducts Through the Torque Spectrum",
+        "organization": "Korea University",
+        "abstract": " Large induction motors contain axial air ducts in their rotor body for cooling purposes. It has been noted lately that, the presence of the rotor air ducts affects the rotating magnetic field by introducing asymmetries. Those asymmetries produce higher harmonic content in the induction motor electromagnetic variables, same like the broken bar fault. So, the diagnostic procedure of a healthy motor with axial rotor air ducts could lead to a false broken bar fault alarm, which leads to unnecessary inspection cost, as well a significant cost because of the production process interruption for the motor inspection. In this paper, it is shown that the higher harmonic index of the electromagnetic torque can reliably be used to distinguish the healthy from the broken bar case reliably in induction motors with rotor axial air ducts",
+        "email": "",
+        "conf": "International Conference on Electrical Machines (ICEM)",
+        "coauthors": [
+            "Konstantinos N. Gyftakis",
+            "Sang Bin Lee",
+            "Joya Kappatou",
+            "Jose A. Antonino-Daviu"
+        ],
+        "keywords": "Axial air ducts,Broken bar,Fault diagnosis,Induction motor,Torque spectrum"
+    },
+    {
+        "id": 2377,
+        "label": 51,
+        "author": "sang bin lee",
+        "title": "Quality Assurance Testing for Magnetization Quality Assessment of BLDC Motors Used in Compressors",
+        "organization": "Korea University",
+        "abstract": "Quality assurance (QA) testing of mass-produced electrical appliances is critical for the reputation of manufacturer since defective units will have a negative impact on safety, reliability, efficiency, and performance of the end product. It has been observed at a brushless dc (BLDC) compressor motor manufacturing facility that improper magnetization of the rotor permanent magnet is one of the leading causes of motor defects. A new technique for postmanufacturing assessment of the magnetization quality of concentrated winding BLDC compressor motors for QA is proposed in this paper. The new method evaluates the data acquired during the test runs performed after motor assembly to observe anomalies in the zero-crossing pattern of the back-EMF voltages for screening motor units with defective magnetization. An experimental study on healthy and defective 250-W BLDC compressor motor units shows that the proposed technique provides sensitive detection of magnetization defects that existing tests were not capable of finding. The proposed algorithm does not require additional hardware for implementation since it can be added to the existing test-run inverter of the QA system as a software algorithm.",
+        "email": "",
+        "conf": "IEEE Transactions on Industry Applications",
+        "coauthors": [
+            "Kwang-Woon Lee",
+            "Jongman Hong",
+            "Sang Bin Lee",
+            "Sangtaek Lee"
+        ],
+        "keywords": "Appliances,brushless dc (BLDC) motors,compressors,magnetization defects,manufacturing defects,permanent magnet (PM),quality assurance (QA),quality control,speed-sensorless control,stator winding magnetization (SWM)"
+    },
+    {
+        "id": 2382,
+        "label": 51,
+        "author": "sang bin lee",
+        "title": "Optimization of Shield Thickness of Finite-Length Solid Rotors for Eddy-Current Loss Minimization",
+        "organization": "Korea University",
+        "abstract": "A high-conductivity shield is often used for coating the rotor of solid-rotor synchronous machines for reducing the surface eddy-current losses due to armature-reaction space/time harmonics and/or tooth ripple. Since the design process for determining the optimal shield thickness can be complicated and time consuming, a simple analytical model based on Maxwell's equations was developed and presented in a previous paper to simplify the process. It has been shown that such an analytical tool can be used as a quick and effective ldquoscreening toolrdquo for determining the range of the optimal shield thickness for minimizing rotor surface losses; however, the influence of finite rotor axial length including the end-face losses was not taken into account. In this paper, an additional step is introduced in the shield design process where a special finite-element (FE) method that accounts for the impact of finite rotor axial length is employed for refining the design obtained from the analytical solution. Comparisons are made for a number of shield thicknesses and rotor lengths for significant space and time harmonic combinations to verify the validity of the proposed two-step design process (analytical and FE) and to evaluate the impact of the finite length of solid rotors.",
+        "email": "",
+        "conf": "IEEE Transactions on Industry Applications",
+        "coauthors": [
+            "Manoj Shah",
+            "Sang Bin Lee"
+        ],
+        "keywords": "AC machines,analytical and numerical harmonic analyses,eddy currents,electromagnetic shielding,rotor surface losses,solid rotor,synchronous machines"
+    },
+    {
+        "id": 2327,
+        "label": 51,
+        "author": "sang bin lee",
+        "title": "Quality Assurance Testing for Screening Defective Aluminum Die-Cast Rotors of Squirrel Cage Induction Machines",
+        "organization": "Korea University",
+        "abstract": "The recent trend in squirrel cage induction motor manufacturing is to replace fabricated copper rotors with aluminum die-cast rotors to reduce manufacturing cost to stay competitive in the global market. Porosity in aluminum die-cast squirrel cage rotors is inevitably introduced during the die cast process. Porosity can cause degradation in motor performance and can lead to a forced outage causing irreversible damage in extreme cases. Many offline and online quality assurance test methods have been developed and applied for assessment of rotor quality. However, years of experience with the existing test methods revealed that they are not suitable for quality testing or capable of providing a quantitative assessment of rotor porosity with sufficient sensitivity. In this paper, a new offline test method capable of providing sensitive assessment of rotor porosity is proposed. It is shown that rotors with minor and distributed porosity that are difficult to detect with other tests can be screened out during manufacturing. The proposed method is verified through a 3-D finite element analysis and experimental testing on closed and semiopen slot aluminum die cast rotors of 5.5 kW induction motors with porosity.",
+        "email": "",
+        "conf": "IEEE Transactions on Industry Applications",
+        "coauthors": [
+            "Myung Jeong",
+            "Jangho Yun",
+            "Yonghyun Park",
+            "Sang Bin Lee",
+            "Konstantinos N. Gyftakis"
+        ],
+        "keywords": "Aluminum die-cast rotor,fault detection,fill factor,induction machines,porosity,quality assurance,squirrel cage rotor"
+    },
+    {
+        "id": 2334,
+        "label": 51,
+        "author": "sang bin lee",
+        "title": "Off-line flux injection test probe for screening defective rotors in squirrel cage induction machines",
+        "organization": "Korea University",
+        "abstract": "The recent trend in squirrel cage induction motor manufacturing is to replace fabricated copper rotors with aluminum die-cast rotors to reduce manufacturing cost to stay competitive in the global market. Porosity in aluminum die-cast squirrel cage rotors is inevitably introduced during the die cast process. Porosity can cause degradation in motor performance and can lead to a forced outage causing irreversible damage if it is extreme. Many off-line and on-line quality assurance test methods have been developed and applied for assessment of rotor quality. However, years of experience with the existing test methods revealed that they are not suitable for quality testing or capable of providing a quantitative assessment of rotor condition with sufficient sensitivity. In this paper, a new off-line test method capable of providing sensitive assessment of rotor porosity is proposed. It is shown that rotors with minor and distributed porosity that are difficult to detect with other tests can be screened out during manufacturing. The proposed method is verified through a 3 dimensional finite element analysis and experimental testing on closed and semi-open slot aluminum die cast rotors of 5.5 kW induction motors with porosity.",
+        "email": "",
+        "conf": "International Symposium on Diagnostics for Electrical Machines, Power Electronics and Drives",
+        "coauthors": [
+            "Myung Jeong",
+            "Jangho Yun",
+            "Yonghyun Park",
+            "Sang Bin Lee",
+            "Konstantinos N. Gyftakis"
+        ],
+        "keywords": "Rotors,Induction motors,Bars,Probes,Testing,Sensitivity"
+    },
+    {
+        "id": 2372,
+        "label": 51,
+        "author": "sang bin lee",
+        "title": "Detection and Classification of Rotor Demagnetization and Eccentricity Faults for PM Synchronous Motors",
+        "organization": "Korea University",
+        "abstract": "Condition monitoring of rotor problems such as demagnetization and eccentricity in permanent-magnet synchronous motors (PMSMs) is essential for guaranteeing high motor performance, efficiency, and reliability. However, there are many limitations to the offline and online methods currently used for PMSM rotor quality assessment. In this paper, an inverter-embedded technique for automated detection and classification of PMSM rotor faults is proposed as an alternative. The main concept is to use the inverter to perform a test whenever the motor is stopped and to detect rotor faults independent of operating conditions or load torque oscillations, which is not possible with motor current signature analysis (MCSA). The d -axis is excited with a direct-current+alternating-current signal, and the variation in the inductance pattern due to the change in the degree of magnetic saturation caused by demagnetization or eccentricity is observed for fault detection. An experimental study on a 7.5-kW PMSM verifies that demagnetization and eccentricity can be detected and classified independent of the load with high sensitivity.",
+        "email": "",
+        "conf": "IEEE Transactions on Industry Applications",
+        "coauthors": [
+            "Jongman Hong",
+            "Sanguk Park",
+            "Doosoo Hyun",
+            "Tae-June Kang",
+            "Sang Bin Lee",
+            "Christian Kral",
+            "Anton Haumer"
+        ],
+        "keywords": "Alternating-current (ac) machine,condition monitoring,$d$-axis inductance,demagnetization,eccentricity,magnetic saturation,permanent magnet (PM),synchronous motor (SM)"
+    },
+    {
+        "id": 2348,
+        "label": 51,
+        "author": "sang bin lee",
+        "title": "Reliable detection of induction motor rotor faults under the influence of rotor core magnetic anisotropy",
+        "organization": "Korea University",
+        "abstract": "Motor Current Signature Analysis (MCSA) has become a popular test method for medium/high voltage induction motor rotor cage condition assessment in industry. However, cases of false alarms due to rotor core magnetic anisotropy resulting in unnecessary rotor inspection have recently been reported. In this paper, a method for testing the rotor under the startup transient based on the application of the Short Time Fourier Transform (STFT) is presented as a solution for averting anisotropy induced MCSA false alarms. An experimental study is performed on medium voltage motors operating in an oil refinery, and on custom built lab motor samples for verification of the proposed method. It is shown that the STFT based startup detection method provides reliable identification of rotor faults immune to the influence of magnetic anisotropy and external supply interference",
+        "email": "",
+        "conf": " International Symposium on Diagnostics for Electrical Machines, Power Electronics and Drives",
+        "coauthors": [
+            "Jose A. Antonino-Daviu",
+            "Joan Pons-Llinares",
+            "Sungsik Shin",
+            "Kun Wang Lee",
+            "Sang Bin Lee"
+        ],
+        "keywords": "Electrical Fault Detection,Fault Diagnosis,Induction Motors,Magnetic Anisotropy,Rotors,Spectral Analysis,Wavelet Transforms"
+    },
+    {
+        "id": 2341,
+        "label": 51,
+        "author": "sang bin lee",
+        "title": "Simplified Approach for Predicting the Starting Performance of Induction Machines Based on Rotor Design Modification",
+        "organization": "Korea University",
+        "abstract": "The starting characteristics of induction motors, largely determined by the rotor design, is a critical design factor from an end-users' perspective. The equivalent circuit model or finite element analysis (FEA) is most commonly used by motor manufacturers for the design to meet the specified starting performance, but is inaccurate or time-consuming. In this paper, a simplified approach for predicting the starting characteristics based on the equivalent circuit model and single-slot pitch 2-D and 3-D FEA is proposed. The influence of the radial cooling ducts, end bar extension, deep bar/skin effects, and magnetic saturation are taken into account for the accurate prediction of starting performance. The results of the proposed method are compared with conventional methods and verified through experimental testing on 6.6 kV and 522 kW induction motors. The results show that the proposed method is capable of providing fast prediction of the starting characteristics for the given rotor design without sacrificing accuracy.",
+        "email": "",
+        "conf": "IEEE Transactions on Magnetics",
+        "coauthors": [
+            "Jangho Yun",
+            "Sang Bin Lee"
+        ],
+        "keywords": "2-D finite element analysis (FEA),3-D FEA,equivalent circuit,induction motor,rotor design,starting performance"
+    },
+    {
+        "id": 2351,
+        "label": 51,
+        "author": "sang bin lee",
+        "title": "Online Detection of High-Resistance Connections With Negative-Sequence Regulators in Three-Phase Induction Motor Drives",
+        "organization": "Korea University",
+        "abstract": "High-resistance connections in electric drives can cause localized overheating and motor supply voltage unbalance, which degrade the performance, efficiency, and reliability of the system. An enhanced field-oriented control scheme for induction machines that is capable of detecting resistive unbalance due to high-resistance connections, and regulating the negative-sequence current is proposed as the main contribution of this paper. Resistive unbalance is detected and located while maintaining the symmetric drive behavior both under transient and steady-state operating conditions. The negative-sequence regulator adopted in addition to the traditional current regulator for rotor field-oriented control is used to compensate for the voltage unbalance caused by the inherent asymmetries in the cable and stator winding and by the poor contacts. A model that shows the relationship between the resistive unbalance and negative-sequence current components is derived from the analysis of the proposed scheme. The theoretical analysis and the validity of the detection technique are confirmed with an experimental study on a 4-kW induction motor drive.",
+        "email": "",
+        "conf": "IEEE Transactions on Industry Applications",
+        "coauthors": [
+            "Michele Mengoni",
+            "Luca Zarri",
+            "Yasser Gritli",
+            "Angelo Tani",
+            "Fiorenzo Filippetti",
+            "Sang Bin Lee"
+        ],
+        "keywords": "High-resistance connections,fault detection,faulttolerant drive,induction motor drive"
+    },
+    {
+        "id": 2375,
+        "label": 51,
+        "author": "sang bin lee",
+        "title": "Automated Detection of Rotor Faults for Inverter-Fed Induction Machines Under Standstill Conditions",
+        "organization": "Korea University",
+        "abstract": "It is difficult to apply conventional online motor current signature analysis techniques for diagnosis of rotor faults for closed-loop induction motor drives for many applications due to the masking effect of the feedback current controller and/or variable frequency or load operation. Relying solely on traditional offline inspection techniques during regular maintenance does not allow frequent monitoring of rotor problems and is inconvenient since it requires rotor disassembly and/or manual rotor rotation. In this paper, a new automated technique for testing voltage source inverter-fed squirrel-cage induction machines at a standstill for rotor faults is proposed. The main concept is to use the inverter to excite the machine with a pulsating field at a number of angular positions to observe the variation in the impedance pattern due to broken rotor bars, whenever the motor is stopped. An experimental study on a 7.5-hp induction motor verifies that broken bars can be detected with high sensitivity and reliability. It will be shown that the proposed method can provide automated and reliable assessment of rotor condition frequently without motor disassembly, manual rotation, or additional instrumentation. The proposed test can also provide rotor quality assessment independent of variations in motor or load operating conditions since it is a standstill test.",
+        "email": "",
+        "conf": "IEEE Transactions on Industry Applications",
+        "coauthors": [
+            "Byunghwan Kim",
+            "Kwanghwan Lee",
+            "Jinkyu Yang",
+            "Sang Bin Lee",
+            "Ernesto J. Wiedenbrug",
+            "Manoj R. Shah"
+        ],
+        "keywords": "AC machine,broken rotor bar,condition monitoring,diagnostics,induction motor,inverter,offline testing,pulsating magnetic field,squirrel-cage rotor"
+    },
+    {
+        "id": 2352,
+        "label": 51,
+        "author": "sang bin lee",
+        "title": "Experimental Evaluation of Low-Voltage Offline Testing for Induction Motor Rotor Fault Diagnostics",
+        "organization": "Korea University",
+        "abstract": "The offline single-phase rotor rotation test is frequently used in the field for assessing the integrity of the rotor cage without motor disassembly. However, the inconvenience of the large variable voltage supply requirement has triggered the advent of a portable low-voltage version of the test also known as the rotor influence check. This test has recently become common in the pulp and paper industry as it is convenient to use in an industrial environment. However, concerns on the reliability of the test have been raised due to frequent false test indications. The objective of this work is to provide an analysis and experimental evaluation of low-voltage rotor tests under controlled rotor fault conditions on 380-V and 6.6-kV motors. The results of the low-voltage test reveal that it cannot provide reliable diagnosis due to the low excitation flux level, particularly for motors with the closed rotor slot design. The single-phase rotation test and online current spectrum analysis are also performed under identical fault conditions to show that the fault conditions can be detected with standard tests",
+        "email": "",
+        "conf": "IEEE Transactions on Industry Applications",
+        "coauthors": [
+            "Tae-June Kang",
+            "Jongwan Kim",
+            "Sang Bin Lee",
+            "Chuck Yung"
+        ],
+        "keywords": "Rotors,Induction motors,Bars,Low voltage,Testing,Reliability,Reluctance motors"
+    },
+    {
+        "id": 2384,
+        "label": 51,
+        "author": "sang bin lee",
+        "title": "Online Detection of High-Resistance Connections in the Incoming Electrical Circuit for Induction Motors",
+        "organization": "Korea University",
+        "abstract": "A high-resistance (R) connection in an induction-motor electrical circuit results in localized overheating and supply-voltage unbalance, which leads to a decreased efficiency and reliability and an increased fire hazard in the electrical distribution system and motor. Therefore, it is important to monitor and correct high-R connections for a reliable, efficient, and safe operation of the industrial facility. This paper focuses on the development of an online technique for detecting poor connections based on monitoring the asymmetry in the voltage and current measurement. The development of the technique begins with the derivation of the dynamic model of an induction motor with high-R connections. Based on the analysis of the model, two approaches for detecting poor contacts using the negative-sequence current and zero-sequence voltage are proposed. In addition to detecting the existence of faults, the location and severity of the fault can also be determined using the proposed method. An experimental study on a 10-hp induction machine under simulated and realistic high-R conditions shows that the proposed techniques provide a simple low-cost solution for reliably detecting poor contact problems at an early stage. It is also shown that the severity and location of the high-R contact fault can be assessed with high accuracy",
+        "email": "",
+        "conf": "IEEE Transactions on Industry Applications",
+        "coauthors": [
+            "Jangho Yun",
+            "Jintae Cho",
+            "Sang Bin Lee",
+            "Ji-Yoon Yoo"
+        ],
+        "keywords": "AC electric machines,condition monitoring,diagnostics,electrical distribution system,high-resistance (R) connection,induction machine,symmetrical components"
+    },
+    {
+        "id": 2402,
+        "label": 51,
+        "author": "sang bin lee",
+        "title": "A robust on-line turn-fault detection technique for induction machines based on monitoring the sequence component impedance matrix",
+        "organization": "Korea University",
+        "abstract": "A simple and robust sensorless technique for online stator winding turn fault detection based on monitoring an off-diagonal term of the sequence component impedance matrix is proposed in this paper. Due to the destructive and rapidly propagating nature of insulation failure, it is critical to detect turn faults in an early stage to prevent further damage to the motor. The motor nonidealities such as the variation in the supply voltage unbalance, slip-dependent influence of inherent motor asymmetry, and measurement errors must be taken into account in order to reliably detect a turn fault in its incipient stage. Simulation and experimental results on a 5 hp induction machine are given to confirm the validity of the proposed method. It is shown that the proposed turn fault detection scheme is simple and is capable of providing reliable fault detection that is immune to the motor nonidealities",
+        "email": "",
+        "conf": "IEEE Transactions on Power Electronics",
+        "coauthors": [
+            "Sang Bin Lee",
+            "Rangarajan M. Tallam",
+            "Thomas G. Habetler"
+        ],
+        "keywords": "Robustness,Induction machines,Condition monitoring,Impedance,Fault detection,Insulation,Stator windings,Voltage,Stator cores,Thermal stresses"
+    },
+    {
+        "id": 2397,
+        "label": 51,
+        "author": "sang bin lee",
+        "title": "An Online Technique for Monitoring the Insulation Condition of AC Machine Stator Windings",
+        "organization": "Korea University",
+        "abstract": "A novel online technique for monitoring the insulation condition of ac machine stator windings is proposed in this paper. The concept is to measure the differential leakage currents of each phase winding from the terminal box in a noninvasive manner to assess the insulation condition during motor operation. The conventional differential CTs used for phase fault protection can be replaced with high performance current sensors to measure the leakage current with higher accuracy. Indicators for insulation condition such as the capacitance and dissipation factor are calculated based on the measurements to provide a low cost solution for online insulation condition assessment. A simplified online insulation system model is derived for analysis and interpretation of the measured data. Experimental results on a 15-hp induction motor under simulated insulation degradation conditions show that the proposed technique is a very sensitive method capable of detecting incipient signs of insulation degradation",
+        "email": "",
+        "conf": "IEEE Transactions on Energy Conversion",
+        "coauthors": [
+            "Sang Bin Lee",
+            "Karim Younsi",
+            "Gerald B. Kliman"
+        ],
+        "keywords": "AC machines,dielectric losses,fault diagnosis,insulation testing,leakage currents,monitoring"
+    },
+    {
+        "id": 2347,
+        "label": 51,
+        "author": "sang bin lee",
+        "title": "Monitoring of journal bearing faults based on motor current signature analysis for induction motors",
+        "organization": "Korea University",
+        "abstract": "Most of the failures in oil-lubricated journal bearings are associated with mechanical instabilities produced by lubrication system problems or bearing wear, and result in increased shaft vibration. Therefore, monitoring of the journal bearing condition in the field mainly relies on analysis of proximity probe or accelerometer signals. However, not all motors with journal bearings are equipped with such mechanical sensors due to cost or environmental restrictions. In this paper, the feasibility of applying motor current signature analysis (MCSA) for remote monitoring of mechanical instabilities in journal bearings produced by oil whirl and bearing clearance problems, is evaluated. In addition, a small-scale journal bearing test setup that can be implemented in low voltage motors for testing journal bearing faults under controlled conditions, is presented. An experimental study on a sealless fuel pump motor operating in the field, and on the custom-built journal bearing motor test setup shows that MCSA is capable of providing remote monitoring of journal bearing oil whirl and increased clearance for potentially preventing motor failure. The results of vibration analysis are also presented for comparative evaluation",
+        "email": "",
+        "conf": "IEEE Energy Conversion Congress and Exposition (ECCE)",
+        "coauthors": [
+            "Junyeong Jung",
+            "Yonghyun Park",
+            "Sang Bin Lee",
+            "Changhee Cho",
+            "Kwonhee Kim",
+            "Emesto Wiedenbrug",
+            "Mike Teska"
+        ],
+        "keywords": "Induction motors,Shafts,Vibrations,Rotors,Monitoring,Pumps,Synchronous motors"
+    },
+    {
+        "id": 2379,
+        "label": 51,
+        "author": "sang bin lee",
+        "title": "Automated Monitoring of Magnet Quality for Permanent-Magnet Synchronous Motors at Standstill",
+        "organization": "Korea University",
+        "abstract": "Demagnetization of permanent magnets (PMs) used in synchronous motors can occur due to a combination of thermal, electrical, and/or environmental operating stresses. Since PM demagnetization results in degradation of motor performance, efficiency, and reliability, it is important to monitor the quality of PMs regularly. However, there are many limitations to the offline and online methods currently used for magnet quality assessment. In this paper, a new inverter-embedded technique for automated monitoring of magnet quality for permanent-magnet synchronous motors (PMSMs), which overcomes the limitations of existing techniques, is proposed. The main concept is to use the inverter to perform a standstill test whenever the motor is stopped to detect local or uniform PM demagnetization. The machine is excited with a pulsating field at different angular positions, and the change in the current peaks caused by the change in the degree of magnetic saturation due to demagnetization is observed. An experimental study on a 10-hp PMSM verifies that local and uniform PM demagnetizations can be detected with high sensitivity",
+        "email": "",
+        "conf": "IEEE Transactions on Industry Applications",
+        "coauthors": [
+            "Jongman Hong",
+            "Doosoo Hyun",
+            "Sang Bin Lee",
+            "Ji-Yoon Yoo",
+            "Kwang-Woon Lee"
+        ],
+        "keywords": "AC machine,condition monitoring,demagnetization,diagnostics,inverter,NdFeB magnet,offline testing,permanent magnet (PM),pulsating magnetic field,synchronous motor"
+    },
+    {
+        "id": 2343,
+        "label": 51,
+        "author": "sang bin lee",
+        "title": "Stator insulation quality assurance testing for appliance motors with aluminum windings",
+        "organization": "Korea University",
+        "abstract": "A number of appliance manufacturers have recently replaced the motor stator winding material from copper (Cu) to aluminum (At) to reduce the product cost in the competitive global appliance market. Although reduction in the motor cost could be achieved, a noticeable increase in the failure rate due to stator insulation breakdown was observed. In this paper, increased failures in Al winding stator insulation is investigated for 230 V, 50 W single phase induction fan motors used in the outdoor unit of air conditioners (A/C). Since the motors with defects or failures could not be screened out with the quality assurance tests (QA) that were applied to Cu winding motors, new QA test methods are evaluated for screening out the units with high risk of failure. The investigation shows that partial discharge (PD) measurement under surge excitation can serve as an effective means of screening out the units that are likely to fail. The claims made in the paper are verified through comparative experimental surge PD testing on At and Cu winding motors before and after accelerated degradation",
+        "email": "",
+        "conf": "EEE Energy Conversion Congress and Exposition",
+        "coauthors": [
+            "Daewoong Choi",
+            "Tae-June Kang",
+            "Sang Bin Lee",
+            "Jaegyu Kim",
+            "Jihoon Kim"
+        ],
+        "keywords": "Induction motors,Insulation,Windings,Stator windings,Surges,Home appliances"
+    },
+    {
+        "id": 2385,
+        "label": 51,
+        "author": "sang bin lee",
+        "title": "Automated Monitoring of High-Resistance Connections in the Electrical Distribution System of Industrial Facilities",
+        "organization": "Korea University",
+        "abstract": "High-resistance(R) connections due to poor contacts in the electrical distribution system can cause failures due to overheating, reduce efficiency, and pose safety risks in the industrial facility. The methods currently available for detection of high-R connections such as infrared thermography, resistance or voltage unbalance tests are inconvenient since they are off-line or walk-around type tests that do not provide continuous monitoring. In this paper, an automated technique for detecting high-R connections based on existing voltage and current measurements is proposed. The contact resistance, R HR , of the poor contact is estimated based on the voltage and current variation under startup and/or shutdown of the load for monitoring problems located upstream from the point of voltage measurement. For downstream problems, R HR is estimated based on the negative sequence current under steady state operation of the load. An experimental study on a 10hp induction motor load performed under simulated high-R circuit conditions verifies that poor contacts that exist upstream and downstream can be reliably detected without additional measurements. It is shown that the proposed technique can provide automated monitoring of the existence, location, and severity of high-R contacts for reliable, efficient, and safe operation of the industrial facility",
+        "email": "",
+        "conf": "Conference Record - IAS Annual Meeting (IEEE Industry Applications Society)",
+        "coauthors": [
+            "Jangho Yoon",
+            "Jangho Yun",
+            "Sang Bin Lee",
+            "Ernesto J. Wiedenbrug"
+        ],
+        "keywords": "Computerized monitoring,Industrial plants,Voltage,Condition monitoring,Infrared detectors,Testing,Contacts,Electrical safety,Infrared surveillance,Electric resistance"
+    },
+    {
+        "id": 2383,
+        "label": 51,
+        "author": "sang bin lee",
+        "title": "Detection and Classification of Stator Turn Faults and High-Resistance Electrical Connections for Induction Machines",
+        "organization": "Korea University",
+        "abstract": "The goal of stator-winding turn-fault (TF) detection is to detect the fault at an early stage and shut down the machine immediately to prevent catastrophic motor failure due to the large fault current. A number of TF detection techniques have been proposed; however, there is currently no method available for distinguishing TFs from high-resistance (R) connections (HRCs), which also result in three-phase system asymmetry. It is important to distinguish the two faults, since an HRC does not necessarily require immediate motor shutdown. In this paper, new sensorless online monitoring techniques for detecting and classifying stator TFs and high-R electrical connections in induction machines based on the zero-sequence voltage or negative-sequence current measurements are proposed. An experimental study on a 10-hp induction motor performed under simulated TFs and high-R circuit conditions verifies that the two faults can be reliably detected and classified. The proposed technique helps improve the reliability, efficiency, and safety of the motor system and industrial plant and also allows maintenance to be performed in a more efficient manner, since the course of action can be determined based on the type and severity of the fault",
+        "email": "",
+        "conf": "IEEE Transactions on Industry Applications",
+        "coauthors": [
+            "Jangho Yun",
+            "Kwanghwan Lee",
+            "Kwang-Woon Lee",
+            "Sang Bin Lee",
+            "Ji-Yoon Yoo"
+        ],
+        "keywords": "AC electric machines,condition monitoring,diagnostics,electrical-distribution system,high-resistance (R) connection (HRC),induction machine,interturn insulation failure,symmetrical components,turn fault (TF)"
+    },
+    {
+        "id": 2391,
+        "label": 51,
+        "author": "sang bin lee",
+        "title": "A Survey of Methods for Detection of Stator-Related Faults in Induction Machines",
+        "organization": "Korea University",
+        "abstract": " As evidenced by industrial surveys, stator-related failures account for a large percentage of faults in induction machines. The objective of this paper is to provide a survey of existing techniques for detection of stator-related faults, which include stator winding turn faults, stator core faults, temperature monitoring and thermal protection, and stator winding insulation testing. The root causes of fault inception, available techniques for detection, and recommendations for further research are presented. Although the primary focus is online and sensorless methods that use machine voltages and currents to extract fault signatures, offline techniques such as partial discharge detection are also examined. Condition monitoring, fault diagnostics, insulation testing, interlaminar core faults, partial discharge (PD), temperature monitoring, turn faults",
+        "email": "",
+        "conf": "IEEE Transactions on Industry Applications",
+        "coauthors": [
+            "Rangarajan M. Tallam",
+            "Sang Bin Lee",
+            "Greg C. Stone",
+            "Gerald B. Kliman",
+            "Jiyoon Yoo",
+            "Thomas G. Habetler",
+            "Ronald G. Harley"
+        ],
+        "keywords": "Condition monitoring,fault diagnostics,insulation testing,interlaminar core faults,partial discharge (PD),temperature monitoring,turn faults"
+    },
+    {
+        "id": 2329,
+        "label": 51,
+        "author": "sang bin lee",
+        "title": "Robust Sensors-Fault-Tolerance with Sliding Mode Estimation and Control for PMSM Drives",
+        "organization": "Korea University",
+        "abstract": "In general, permanent magnet synchronous motor (PMSM) drives require four sensors (one position, one dc-link voltage, and at least two current sensors) to obtain good dynamic control performance. If an unpredictable fault occurs in any of these sensors, the performance of the drive deteriorates or even becomes unstable. Most of the existing works are limited to fault diagnosis of one or two sensors due to complexity. Therefore, to provide a continuous drive operation regardless of any of the sensor faults, an advanced fault-tolerant control (FTC) scheme that comprises of higher order sliding mode (HOSM) based observers and controllers is proposed. Two HOSM observers and one Luenberger observer are designed to generate the respective residuals and provide the detection of all sensor faults. Moreover, HOSM controllers are developed to ensure finite-time convergence of the error trajectories after the fault reconfiguration. The proposed FTC scheme reduces the existing chattering phenomenon with good performance in terms of convergence speed and steady-state error. Evaluation results on a three-phase PMSM are presented to validate the effectiveness of the proposed FTC approach.",
+        "email": "",
+        "conf": "IEEE/ASME Transactions on Mechatronics",
+        "coauthors": [
+            "Suneel Kumar Kommuri",
+            "Sang Bin Lee",
+            "Kalyana Chakravarthy Veluvolu"
+        ],
+        "keywords": "Fault-tolerant control (FTC),observer-based fault detection,reliable control,residual-generation,sliding mode (SM) control"
+    },
+    {
+        "id": 2373,
+        "label": 51,
+        "author": "sang bin lee",
+        "title": "Automated Monitoring of Airgap Eccentricity for Inverter-Fed Induction Motors Under Standstill Conditions",
+        "organization": "Korea University",
+        "abstract": "There are many limitations to applying online spectrum analysis techniques for diagnosis of closed-loop inverter-fed induction motors due to variable load or frequency operation, and the masking effect of the current regulator. In this paper, a new automated approach for testing inverter-fed induction machines for airgap eccentricity is proposed. The main concept is to use the inverter to excite the machine with a pulsating field at multiple angular positions to observe the variation of equivalent impedance due to eccentricity, whenever the motor is stopped. It is shown that the increase in the value of the equivalent (leakage) inductance under standstill excitation can be used as an indicator of increasing airgap eccentricity. Standstill testing can provide reliable assessment of eccentricity that is independent of variations in operating conditions, load interferences, or motor type. An experimental study on a 7.5-hp induction motor verifies that eccentricity can be detected with high sensitivity and reliability without additional hardware.",
+        "email": "",
+        "conf": "IEEE Transactions on Industry Applications",
+        "coauthors": [
+            "Doosoo Hyun",
+            "Jongman Hong",
+            "Sang Bin Lee",
+            "Kwonhee Kim",
+            "Ernesto J. Wiedenbrug",
+            "Mike Teska",
+            "Subhasis Nandi",
+            "Ilamparithi Thilumarai Chelvan"
+        ],
+        "keywords": "AC machine,airgap eccentricity,condition monitoring,diagnostics,induction motors,inverters,offline testing,spectrum analysis"
+    },
+    {
+        "id": 2370,
+        "label": 51,
+        "author": "sang bin lee",
+        "title": "Detection of Airgap Eccentricity for Permanent Magnet Synchronous Motors Based on the d-Axis Inductance",
+        "organization": "Korea University",
+        "abstract": "The majority of the work performed for detecting eccentricity faults for permanent magnet synchronous motors (PMSM) focus on motor current signature analysis (MCSA), as it provides continuous online monitoring with existing current sensors. However, MCSA cannot be applied under nonstationary conditions and cannot distinguish faults with load torque oscillations, which are limitations for many PMSM drive applications. In this paper, it is shown that the d-axis inductance L decreases with an increase in the severity of eccentricity due to the change in the degree of magnetic saturation, and it is proposed as a new fault indicator. The inverter can be used to perform a standstill test automatically whenever the motor is stopped to measure L for eccentricity testing independent of load variations or oscillations, which is not possible with MCSA. An finite element and experimental study on a 10-hp PMSM verifies that eccentricity can be detected independent of the load with high sensitivity and reliability",
+        "email": "",
+        "conf": "IEEE Transactions on Power Electronics",
+        "coauthors": [
+            "Jongman Hong",
+            "Sang Bin Lee",
+            "Christian Kral",
+            "Anton Haumer"
+        ],
+        "keywords": "Airgap eccentricity,condition monitoring,diagnostics,magnetic saturation,motor current signature analysis (MCSA),permanent magnet synchronous motor (PMSM)"
+    },
+    {
+        "id": 2340,
+        "label": 51,
+        "author": "sang bin lee",
+        "title": "Influence of Blade Pass Frequency Vibrations on MCSA-Based Rotor Fault Detection of Induction Motors",
+        "organization": "Korea University",
+        "abstract": "Motor current signature analysis (MCSA) has recently become widespread in industry for on-line detection of rotor cage faults in induction motors for preventing forced outages. Although it can provide low cost remote monitoring of rotor faults, cases of false indications have been reported, where the causes of some false indications are still unknown. It is shown for the first time in this work that high-amplitude blade pass frequency (BPF) vibrations produced in pumps, fans, or compressors can cause false rotor fault indications if the number of motor poles is an integer multiple of the number of blades. The influence of BPF vibration on MCSA-based rotor fault detection is analyzed, and it is shown that the interaction between BPF vibration and rotor faults can produce false positive and negative fault indications. Alternative test methods capable of separating the influence of the BPF vibration and rotor faults are suggested for avoiding false MCSA alarms. The claims made in the paper are verified experimentally on a custom-built 380 V induction motor-centrifugal pump system setup.",
+        "email": "",
+        "conf": "IEEE Transactions on Industry Applications",
+        "coauthors": [
+            "Yonghyun Park",
+            "Jeong Myung",
+            "Sang Bin Lee",
+            "Jose Alfonso Antonino-Daviu",
+            "Mike Teska"
+        ],
+        "keywords": "Condition monitoring,diagnostics,induction motor,spectral analysis,symmetrical components,wavelet transformation"
+    },
+    {
+        "id": 2407,
+        "label": 51,
+        "author": "sang bin lee",
+        "title": "A stator and rotor resistance estimation technique for conductor temperature monitoring",
+        "organization": "Korea University",
+        "abstract": "A stator and rotor resistance (R/sub s/,R/sub r/) estimation technique for the purpose of stator winding and rotor conductor temperature (T/sub s/,T/sub r/) monitoring is presented in this paper. Since resistance is a direct indicator of temperature, resistance-based temperature estimation provides many advantages over conventional thermal model based methods. The proposed estimation scheme is a two-step procedure based on the voltage, current, and speed measurements. The first step is to estimate the rotor resistance and rotor flux linkage simultaneously based on a model reference adaptive system (MRAS) structure that is independent of R/sub s/. In the second step, the stator resistance is updated based on the estimated rotor flux linkage using the q-axis stator voltage equation in the synchronous reference frame. Simulation and experimental results are given to confirm the validity of the proposed method. An analysis of the parameter sensitivity of both estimators is also included to examine the feasibility of the proposed technique",
+        "email": "",
+        "conf": "Conference Record - IAS Annual Meeting (IEEE Industry Applications Society)",
+        "coauthors": [
+            "Sang Bin Lee",
+            "T.G. Habetler",
+            "R.G. Harley",
+            "D.J. Gritter"
+        ],
+        "keywords": "Conductors,Temperature,Thermal resistance,Voltage,Couplings,Stator windings,Monitoring,Velocity measurement,Adaptive systems,Equations"
+    },
+    {
+        "id": 2358,
+        "label": 51,
+        "author": "sang bin lee",
+        "title": "A Practical Thermal Model for the Estimation of Permanent Magnet and Stator Winding Temperatures",
+        "organization": "Korea University",
+        "abstract": "A thermal model for the determination of the temperatures of interior permanent magnets and stator windings is presented in this paper. The innovation of the model relies on one temperature sensor being located in the stator core of the machine. Such sensor is simple to implement in many applications such as traction or EV, where reliability is critical. The estimated stator winding and permanent magnet temperatures are determined by a simplified thermal lumped element network model with only two time constants. It is shown that the proposed thermal model is very robust due to the structure of the model and the measured stator core temperature. The distortion of the temperature estimates caused by the cooling circuit is inherently accounted for such that the model can be used for robust online prediction of temperatures. Experimental results based on a forced water-cooled interior permanent magnet synchronous machine setup are presented to validate the effectiveness of the presented model",
+        "email": "",
+        "conf": "IEEE Transactions on Power Electronics",
+        "coauthors": [
+            "Christian Kral",
+            "Anton Haumer",
+            "Sang Bin Lee"
+        ],
+        "keywords": "Cooling,dynamic load,lumped element thermal equivalent circuit model,permanent magnet synchronous machine,temperature estimation,variable speed"
+    },
+    {
+        "id": 2330,
+        "label": 51,
+        "author": "sang bin lee",
+        "title": "On-line detection of rotor eccentricity for PMSMs based on hall-effect field sensor measurements",
+        "organization": "Korea University",
+        "abstract": "Rotor eccentricity in permanent magnet synchronous motors (PMSMs) increases unbalanced magnetic pull and motor vibration resulting in accelerated aging of motor components. If eccentricity remains undetected, it can increase in severity, and increase the risk of stator-rotor contact, which causes forced outage of the motor and driven process. Detection of eccentricity currently relies on off-line testing and on-line vibration/current spectrum analysis, which are inconvenient or cannot provide reliable detection as they are influenced by other mechanical non-idealities in the motor or load. In this paper, the feasibility of using the signals from analog Hall-effect field sensors for detecting eccentricity is investigated. It is shown that Hall sensors already present in machines for motion control can be used for measuring the variation in the flux inside the motor due to eccentricity. 3-dimensional (3D) finite element analysis (FEA) and experimental results performed on an interior PMSM (IPMSM) show that the proposed method can provide sensitive and reliable detection of dynamic and mixed eccentricity with minimal hardware modifications",
+        "email": "",
+        "conf": "IEEE Energy Conversion Congress and Exposition, ECCE",
+        "coauthors": [
+            "Yonghyun Park",
+            "Daniel Fernandez",
+            "Sang Bin Lee",
+            "Doosoo Hyun",
+            "Myung Jeong",
+            "Suneel Kumar Kommuri",
+            "Changhee Cho",
+            "David Reigosa",
+            "Fernando Briz"
+        ],
+        "keywords": "Axial Leakage Flux,Condition Monitoring,Finite Element Analysis,Hall Effect Field Sensor,Permanent Magnet Synchronous Motor,Rotor Eccentricity"
+    },
+    {
+        "id": 2362,
+        "label": 51,
+        "author": "sang bin lee",
+        "title": "Use of discrete and optimized continuous TFD tools for transient-based diagnosis in controversial fault cases",
+        "organization": "Korea University",
+        "abstract": "Transient-based diagnosis of electromechanical failures in induction motors has gained an increasing attention over recent years. The diagnostic in some specific situations (presence of load toque oscillations, light loading conditions) or of specific failures may be difficult when using the classical MCSA approach. In this context, the transient-based methodologies have been proven to become valuable informational sources for the diagnosis, either confirming the MCSA results or avoiding its possible false positives. The application of these transient methodologies requires the use of modern signal processing tools that are in continuous evolution. This work proposes the application of an advanced tool; the recently developed Adaptive Slope Transform. The paper compares the performance of this continuous transform and that of a discrete counterpart, the Discrete Wavelet Transform, when applied to different controversial fault cases in which the classical MCSA may not lead to correct results: outer bar breakages in double cage motors and motors with rotor axial duct influence. The results show the potential of the continuous transforms for the transient tracking of high-order fault-related components as well as for the improved discrimination between fault components",
+        "email": "",
+        "conf": "IEEE International Symposium on Diagnostics for Electric Machines, Power Electronics and Drives",
+        "coauthors": [
+            "Joan Pons-Llinares",
+            "J.A. Antonino-Daviu",
+            "Martin Riera-Guasp",
+            "S. B. Lee",
+            "T-J Kang",
+            "Chanseung Yang"
+        ],
+        "keywords": "fault diagnosis,induction motors,signal processing,Fourier transforms,transient analysis,wavelet transforms"
+    },
+    {
+        "id": 2331,
+        "label": 51,
+        "author": "sang bin lee",
+        "title": "A robust voltage speed and current sensors fault-tolerant control in PMSM drives",
+        "organization": "Korea University",
+        "abstract": "To obtain a good dynamic control performance of permanent magnet synchronous motor (PMSM) drives, four sensors (one position, one DC-link voltage and at least two current sensors) are required for the control-loops. This paper deals with the unpredictable faults that occur in any one of the sensors using an advanced fault-tolerant control (FTC) scheme to provide continuous drive operation. The proposed FTC scheme comprises of two higher-order sliding mode (HOSM) observers and one Luenberger observer (LO) to generate the respective residuals, and provide the detection of all sensor faults. Moreover, HOSM controllers are designed to ensure finite-time convergence of the error trajectories. The designed scheme minimizes existing chattering phenomenon with good performance in terms of convergence speed and steady-state error. Evaluation results on a three-phase PMSM are presented to validate the effectiveness of the proposed FTC approach.",
+        "email": "",
+        "conf": "IEEE Industrial Electronics Society",
+        "coauthors": [
+            "Suneel Kumar Kommuri",
+            "Sang Bin Lee",
+            "Yonghyun Park",
+            "Kalyana C. Veluvolu"
+        ],
+        "keywords": "Sensors,Observers,Fault detection,Robustness,Fault tolerance,Fault tolerant systems,Rotors"
+    },
+    {
+        "id": 2350,
+        "label": 51,
+        "author": "sang bin lee",
+        "title": "Evaluation of the Influence of Rotor Magnetic Anisotropy on Condition Monitoring of Two-Pole Induction Motors",
+        "organization": "Korea University",
+        "abstract": "If nongrain-oriented rotor laminations are punched and stacked in a uniform direction, magnetic asymmetry is present in the rotor core due to the nonideal magnetic anisotropy. In this paper, it is shown that the influence of rotor core anisotropy can be misinterpreted as rotor faults in two-pole induction motors when performing motor current signature analysis. A detailed analysis of the influence of rotor core anisotropy shows that components produced by the rotor fault and rotor anisotropy interact, making reliable fault detection difficult. It is also shown that offline testing is currently the only available means of detecting the fault, and online monitoring of the space harmonics-induced current components is proposed as a viable solution for providing reliable rotor fault detection for two-pole motors with rotor anisotropy. The analysis and conclusions presented in this paper are verified through testing on custom-built lab motors and on 3.3-kV motors",
+        "email": "",
+        "conf": "IEEE Transactions on Industry Applications",
+        "coauthors": [
+            "Sungsik Shin",
+            "Jongwan Kim",
+            "Sang Bin Lee",
+            "Chaewoong Lim",
+            "Ernesto Jorge Wiedenbrug"
+        ],
+        "keywords": "AC machines,false alarm,fault diagnosis,frequency domain analysis,induction motors,Motor Current Signature Analysis (MCSA),predictive maintenance,rotor fault"
+    },
+    {
+        "id": 2389,
+        "label": 51,
+        "author": "sang bin lee",
+        "title": "Practical Implementation of PWM Synchronization and Phase-Shift Method for Cascaded H-Bridge Multilevel Inverters Based on a Standard Serial Communication Protocol",
+        "organization": "Korea University",
+        "abstract": "The use of the controller area network communication protocol for H-bridge multilevel (HBML) inverters, and localized pulsewidth modulation generation and automated voltage regulation is proposed in this paper. It is shown that the performance and reliability of conventional distributed controllers for HBML inverters can be improved with less communication hardware requirements, when using the proposed method. It is also shown that the expansion and modularization capability of the HBML inverter is improved since individual inverter modules operate more independently. The proposed hardware is described in detail and the validity of the proposed system is verified experimentally on a 6600-V 1400-kW induction motor drive.",
+        "email": "",
+        "conf": "IEEE Transactions on Industry Applications",
+        "coauthors": [
+            "Young-Min Park",
+            "Ji-Yoon Yoo",
+            "Sang Bin Lee"
+        ],
+        "keywords": "Controller area network (CAN),H-bridge multilevel (HBML) inverter,pulsewidth modulation (PWM) phase-shift,PWM synchronization,serial communication"
+    },
+    {
+        "id": 2335,
+        "label": 51,
+        "author": "sang bin lee",
+        "title": "Case studies of stator winding turn insulation failures in medium voltage motors",
+        "organization": "Korea University",
+        "abstract": "Breakdown of the stator winding turn insulation is a frequent cause of stator insulation failure leading to forced outage of medium voltage (MV) motors. Case studies of 15 turn insulation failures in mains-fed MV motors that occurred in Korea between 2011-2015 in the pulp and paper, power generation, and petrochemical industries are presented in this paper. The turn insulation failures are analyzed based on the insulation system design, motor operating conditions, fault location and pattern of the motor failures. Stator insulation inspection and test records including the insulation resistance (IR), polarization index (PI), leakage current, dissipation factor, and partial discharge (PD) tests for the failed motors are also shown. An insight into how stator winding turn insulation failures can be prevented is provided based on the investigation of the failures",
+        "email": "",
+        "conf": "Annual Pulp, Paper And Forest Industries Technical Conference",
+        "coauthors": [
+            "Sang Bin Lee",
+            "Tae-June Kang",
+            "Heedong Kim",
+            "Taesik Kong",
+            "Chaewoong Lim"
+        ],
+        "keywords": "AC Rotating Machines,Insulation Testing,Medium Voltage (MV) Motors,Predictive Maintenance (PM),Stator Winding Insulation,Turn Insulation Failure"
+    },
+    {
+        "id": 2333,
+        "label": 51,
+        "author": "sang bin lee",
+        "title": "Influence of Die Cast Rotor Fill Factor on the Starting Performance of Induction Machines",
+        "organization": "Korea University",
+        "abstract": "One of the most important requirements for low-voltage induction motor designers is to meet the customer-specified starting characteristics and international regulations on efficiency. Although porosity in die-cast rotors degrade motor performance, the fill factor (FF) of the rotor bar and end ring are usually assumed to be 100 in the design stage. If the influence of FF is not properly taken into account in the design, it results in an inaccurate prediction of the starting performance. In this paper, the influence of die-cast rotor FF on the starting torque is investigated based on the FF and porosity distributions measured from actual aluminum die-cast rotors. A simplified 3-D finite-element analysis model that accounts for the porosity distribution in bars and end rings for different FFs is presented for predicting the starting characteristics. The effectiveness of the proposed method is verified on a 440 V, 15 kW induction motor prototype with rotors with FF of 93% and 67%. The results show that porosity has a significant influence on the starting torque, and must be taken into account for reliable prediction of motor performance for design optimization.",
+        "email": "",
+        "conf": "IEEE Transactions on Magnetics",
+        "coauthors": [
+            "Jangho Yun",
+            "Sungho Lee",
+            "Myung Jeong",
+            "Sang Bin Lee"
+        ],
+        "keywords": "3-D finite-element analysis,die-cast rotor,fill factor (FF),induction motor,porosity"
+    },
+    {
+        "id": 2338,
+        "label": 51,
+        "author": "sang bin lee",
+        "title": "Monitoring Journal-Bearing Faults: Making Use of Motor Current Signature Analysis for Induction Motors",
+        "organization": "Korea University",
+        "abstract": "Most of the failures in oil-lubricated journal bearings are associated with mechanical instabilities produced by lubrication-system problems or bearing wear and result in increased shaft vibration. Therefore, monitoring the journal-bearing condition in the field relies mainly on the analysis of proximity-probe or accelerometer signals. However, not all motors with journal bearings are equipped with such mechanical sensors due to cost or environmental restrictions. In this article, we evaluate the feasibility of applying motor current signature analysis (MCSA) for the remote monitoring of mechanical instabilities in journal bearings produced by oil-whirl and bearing-clearance problems. In addition, we present a small-scale journal-bearing test setup that can be implemented in low-voltage motors for testing journal-bearing faults under controlled conditions. An experimental study on a sealless fuel-pump motor operating in the field and on the custom-built journal-bearing motor test setup shows that MCSA can remotely monitor journal-bearing oil whirl and excessive clearance to prevent motor failure. The results of vibration analysis are also presented for comparative evaluation",
+        "email": "",
+        "conf": "IEEE Industry Applications Magazine",
+        "coauthors": [
+            "Junyeong Jung",
+            "Yonghyun Park",
+            "Sang Bin Lee",
+            "Chang-Hee Cho",
+            "Kwonhee Kim",
+            "Emesto J. Weidenbrug",
+            "Mike Teska"
+        ],
+        "keywords": "Failure analysis,Induction motors,Vibrations,Monitoring,Rotors,Lubricating oils,Oil insulation"
+    },
+    {
+        "id": 2361,
+        "label": 51,
+        "author": "sang bin lee",
+        "title": "Detection of Stator-Slot Magnetic Wedge Failures for Induction Motors Without Disassembly",
+        "organization": "Korea University",
+        "abstract": "The recent trend in large ac machines is to employ magnetic stator-slot wedges for improving the motor efficiency, power factor, and power density. The mechanical strength of magnetic wedges is weak compared to the epoxy glass wedges, and many cases of loose and missing wedges have recently been increasingly reported. Magnetic wedge failure deteriorates the performance and reliability of the motor, but there is no method available for testing the wedge quality other than visual inspection after rotor removal. Monitoring of the overall wedge condition without motor disassembly can help reduce the cost of maintenance and risk of degradation in performance. In this paper, a new offline standstill test method for detecting magnetic wedge problems for ac machines without motor disassembly is proposed. An experimental study on 380-V 5.5-kW and 6.6-kV 3.4-MW motors with magnetic wedges is performed to verify the effectiveness of the new test method. It is shown that the new method can provide reliable monitoring of magnetic wedge problems over time, independent of other faults or motor design",
+        "email": "",
+        "conf": "IEEE Transactions on Industry Applications",
+        "coauthors": [
+            "Kun Wang Lee",
+            "Jongman Hong",
+            "Doosoo Hyun",
+            "Sang Bin Lee",
+            "Ernesto J. Wiedenbrug",
+            "Mike Teska",
+            "Chaewoong Lim"
+        ],
+        "keywords": "Magnetic flux,Induction motors,Rotors,Stators,Magnetoacoustic effects,Magnetomechanical effects,Magnetic cores"
+    },
+    {
+        "id": 2346,
+        "label": 51,
+        "author": "sang bin lee",
+        "title": "Reliable Detection of Rotor Faults Under the Influence of Low Frequency Load Torque Oscillations for Applications with Speed Reduction Couplings",
+        "organization": "Korea University",
+        "abstract": "Low-frequency torque oscillations in the load can induce frequency components in the vicinity of that of rotor faults (RFs) resulting in false alarms when applying motor current signature analysis (MCSA). False RF indications due to load oscillations (LO) are most common in applications that employ speed reduction couplings for high torque, low-speed operation. Recently, ideas for separating RF and LO have been proposed in the literature; however, the case where two components overlap at the same frequency has not been investigated. Several cases where RF- and LO-induced components are identical have been observed in the field by the authors with commercial MCSA equipment. It is shown in this paper that overlap between the two components can produce a false positive or false negative indication because they can add or cancel depending on the relative phase between the components. Alternative options for reliable RF testing among existing test methods are evaluated and verified in this paper for cases where the two components overlap and produce false indications",
+        "email": "",
+        "conf": "IEEE Transactions on Industry Applications",
+        "coauthors": [
+            "Heonyoung Kim",
+            "Sang Bin Lee",
+            "SungBong Park",
+            "Shahin Hedayati Kia",
+            "Gerard-Andre Capolino"
+        ],
+        "keywords": "Belt Pulleys,Couplings,Electrical Fault Detection,Gears,Harmonic Analysis,Induction Motors,Rotors,Spectral Analysis,Wavelet Transforms"
+    },
+    {
+        "id": 2395,
+        "label": 51,
+        "author": "sang bin lee",
+        "title": "An Advanced Technique for Detecting Inter-Laminar Stator Core Faults in Large Electric Machines",
+        "organization": "Korea University",
+        "abstract": "An advanced technique for detecting incipient inter-laminar insulation failure in stator cores of large electric machines is proposed in this paper. The proposed scheme is an offline method based on low flux stator core excitation that employs a new probe. An iron-core probe is placed in the wedge depression area of the stator and scanned axially to detect the variation in the measured flux due to a fault. Two fault indicators that provide clear indication on fault severity and location are proposed in this paper. A 120-MW ac machine stator was tested under a number of intentionally inserted fault conditions using portable field equipment recently developed. The experimental results show that the fault existence, location, and severity can be determined reliably using the proposed scheme. It is also shown that the fault detection sensitivity and reliability, inspection speed, and user convenience are significantly enhanced.",
+        "email": "",
+        "conf": "IEEE Transactions on Industry Applications",
+        "coauthors": [
+            "Sang Bin Lee",
+            "G.B. Kliman",
+            "Manoj Shah",
+            "W. T. Mall",
+            "N. K. Nair",
+            "R.M. Lusted"
+        ],
+        "keywords": "AC machines,fault diagnostics,inter-laminar insulation failure,regular maintenance,stator core fault,stator core inspection"
+    },
+    {
+        "id": 2400,
+        "label": 51,
+        "author": "sang bin lee",
+        "title": "A New Method for Synchronous Generator Core Quality Evaluation",
+        "organization": "Korea University",
+        "abstract": "A new technique for detecting the presence and severity of inter-laminar short circuits as well as estimating the status of core compression (or looseness) in laminated magnetic cores of synchronous generators, with a single test equipment is demonstrated in this paper. The core loss measurement obtained from a flux injection probe that injects flux (of varying amplitude, frequency, and wave-shape) into two nominally adjacent teeth over a localized region, is used as an indicator for detecting and distinguishing the two fault conditions. An injection probe system was developed and tested, in the laboratory, using stacks of full size generator laminations with various induced fault conditions. The injection probe was shown to detect the presence of shorted laminations at the bottom of the slot and to gauge the degree of core compression or looseness. In addition, a unique differential probe was developed and tested to demonstrate the capability of detecting as few as five shorted laminations",
+        "email": "",
+        "conf": "IEEE Transactions on Energy Conversion",
+        "coauthors": [
+            "G.B. Kliman",
+            "Sang Bin Lee",
+            "Manoj R. Shah",
+            "R. M. Lusted",
+            "N.K. Nair"
+        ],
+        "keywords": "Synchronous generators,Probes,Magnetic cores,Lamination,Circuit faults,Magnetic circuits,Test equipment,Core loss,Frequency measurement,Loss measurement"
+    },
+    {
+        "id": 2388,
+        "label": 51,
+        "author": "sang bin lee",
+        "title": "An Advanced Stator Winding Insulation Quality Assessment Technique for Inverter-Fed Machines",
+        "organization": "Korea University",
+        "abstract": "The lifetime of the stator winding insulation is reduced when operated with pulsewidth-modulation inverters, since insulation degradation is accelerated due to increased thermal and electrical stresses on the motor. This paper focuses on a new approach for monitoring the condition of the stator insulation for failure-prone inverter-fed machines. The main concept of the proposed technique is to apply a dc and/or variable-frequency ac test voltage to the stator insulation using the inverter and to perform standard offline insulation tests whenever the motor is not operating. This allows the stator insulation to be tested more frequently as compared to offline tests performed once every three to six years during periodic maintenance. Two methods for testing the insulation with minimal modifications to the inverter circuit are proposed and verified experimentally. The results show that the proposed technique provides a simple low-cost solution for detecting stator insulation degradation at an early stage for reliable operation of inverter-fed machine systems, since the insulation condition can be monitored frequently. This does not only helps prevent forced outages and safety risks due to insulation breakdown but also helps perform maintenance in an efficient manner, since individual motor maintenance can be prioritized and scheduled based on its present condition",
+        "email": "",
+        "conf": "IEEE Transactions on Industry Applications",
+        "coauthors": [
+            "Jinkyu Yang",
+            "Jintae Cho",
+            "Sang Bin Lee",
+            "Ji-Yoon Yoo",
+            "Hee Dong Kim"
+        ],
+        "keywords": "AC electric machines,capacitance $(C)$ test,condition monitoring,diagnostics,dissipation factor (DF),insulation resistance (IR),inverters,predictive maintenance,stator insulation"
+    },
+    {
+        "id": 2342,
+        "label": 51,
+        "author": "sang bin lee",
+        "title": "Electrical Monitoring of Mechanical Looseness for Induction Motors with Sleeve Bearings",
+        "organization": "Korea University",
+        "abstract": "Mechanical looseness in induction motors is a common problem caused by loose bolts, structural damage, improper fit, or increased clearance between components, and results in increased vibration and wear. Detection of mechanical looseness in the sleeve bearing of industrial motors mainly relies on vibration analysis. However, there are many motor applications in the field where vibration analysis cannot be applied due to cost, environmental, and/or sensitivity limitations. The feasibility of using existing voltage/current measurements available in the motor control center for remote, low-cost monitoring of mechanical looseness due to improper fit between the bearing-housing and bearing-shaft is evaluated in this paper. It is shown through experimental testing on a custom built sleeve bearing test setup and on a 6.6 kV, 2250 hp motor that monitoring of the one-half and one-third subsynchronous components in the instantaneous power spectrum can serve as a reliable indicator of mechanical looseness",
+        "email": "",
+        "conf": "IEEE Transactions on Energy Conversion",
+        "coauthors": [
+            "Junyeong Jung",
+            "Sang Bin Lee",
+            "Chaewoong Lim",
+            "Chang-Hee Cho",
+            "Kwonhee Kim"
+        ],
+        "keywords": "Bearings,condition monitoring,fault diagnosis,frequency domain analysis,induction motors,predictive maintenance,vibration measurement"
+    },
+    {
+        "id": 2344,
+        "label": 51,
+        "author": "sang bin lee",
+        "title": "In-Service Monitoring of Stator-Slot Magnetic Wedge Condition for Induction Motors",
+        "organization": "Korea University",
+        "abstract": "Stator-slot magnetic wedges are used instead of conventional epoxy glass wedges in large, high-output induction motors since the motor efficiency and power factor can be improved. However, cases of loose or missing magnetic wedges due to their weak mechanical strength have recently been increasingly reported. Although missing wedges can deteriorate motor performance and reliability, there is currently no test method accepted in the field for wedge quality assessment other than offline, disassembled visual inspection. In this paper, a new in-service method for monitoring the magnetic wedge condition in induction motors based on the negative-sequence information is proposed. The new method is developed based on the analysis of the dynamic model of the induction motor with missing magnetic slot wedges, derived in this paper. The proposed method is verified on a finite-element (FE) model of a 6.6-kV, 1850-kW induction motor. It is also verified experimentally on a 6.6-kV, 220-kW induction motor operating in the field with missing wedges (before and after rewedging), and on a 380-V, 5.5-kW induction motor with custom-built, removable magnetic wedges. It is shown that the proposed method can provide online detection of missing magnetic wedges, which can help reduce maintenance costs and risk of degradation in motor performance",
+        "email": "",
+        "conf": "IEEE Transactions on Industry Applications",
+        "coauthors": [
+            "Sangwoo Han",
+            "Junyeong Jung",
+            "Kun Wang Lee",
+            "Sang Bin Lee",
+            "Subhasis Nandi",
+            "Byunghee Kang"
+        ],
+        "keywords": "Equivalent circuits,fault diagnosis,induction motors,maintenance,wedges"
+    },
+    {
+        "id": 2390,
+        "label": 51,
+        "author": "sang bin lee",
+        "title": "A Stator Winding Insulation Condition Monitoring Technique for Inverter-Fed Machines",
+        "organization": "Korea University",
+        "abstract": "Stator insulation quality assessment is an important issue for pulsewidth modulation inverter-fed machines, since the stator insulation is exposed to increased thermal/electrical stresses. In this paper, a new approach for monitoring the condition of the stator insulation for inverter-fed machines is proposed. The main concept of the proposed approach is to apply various types of test voltages to the motor stator insulation using the inverter, to perform standard offline insulation tests whenever the motor is not operating. Two methods for testing the insulation with modifications to the inverter circuit are proposed and verified experimentally. The results show that the proposed technique provides a simple low cost solution for detecting stator insulation degradation at an early stage for reliable operation of inverter-fed machine systems, since the insulation condition can be monitored frequently. This not only helps prevent forced outages and safety risks due to insulation breakdown, but also helps perform maintenance in an efficient manner since individual motor maintenance can be prioritized and scheduled based on its present condition.",
+        "email": "",
+        "conf": "IEEE Transactions on Power Electronics",
+        "coauthors": [
+            "Jinkyu Yang",
+            "Sang Bin Lee",
+            "Jiyoon Yoo",
+            "Sanghoon Lee",
+            "Yongmin Oh",
+            "Changho Choi"
+        ],
+        "keywords": "AC motor drives,fault diagnosis,leakage currents,rotating machine insulation testing,variable speed drives"
+    },
+    {
+        "id": 2349,
+        "label": 51,
+        "author": "sang bin lee",
+        "title": "Power Spectrum-Based Detection of Induction Motor Rotor Faults for Immunity to False Alarms",
+        "organization": "Korea University",
+        "abstract": "It has recently been shown that spectrum analysis of instantaneous power can provide sensitive online detection of rotor faults in induction motors compared with current, torque, speed, or vibration spectrum analysis. However, it was reported that monitoring of the twice slip frequency, 2sf s , components induced by the fundamental component can produce false rotor fault alarms due to asymmetry in the rotor or low frequency load oscillations. In this paper, the rotor fault components induced in the power spectrum by the stator fifth and seventh space harmonics are derived to evaluate their immunity to false alarms. It is shown that the (6 - 8s)f s component can provide reliable detection of rotor faults under cases where existing methods produce false alarms. An experimental study performed on custom built rotor samples shows that the new components are capable of detecting rotor faults immune to false alarms produced by rotor axial air ducts, rotor anisotropy, and low frequency load oscillations for cases where existing methods fail. The components derived in this paper can also be applied to vibration, speed, torque, or acoustic monitoring for reliable detection of rotor faults.",
+        "email": "",
+        "conf": "Energy Conversion IEEE Transaction on",
+        "coauthors": [
+            "Jongwan Kim",
+            "Sungsik Shin",
+            "Sang Bin Lee",
+            "Konstantinos N. Gyftakins",
+            "M'hamed Drif",
+            "Antonio J.Marques Cardoso"
+        ],
+        "keywords": "Condition monitoring,electric power,fault diagnosis,frequency domain analysis,induction motors,rotors"
+    },
+    {
+        "id": 2378,
+        "label": 51,
+        "author": "sang bin lee",
+        "title": "Evaluation of the detectability of broken rotor bars for double squirrel cage rotor induction motors",
+        "organization": "Korea University",
+        "abstract": "Double squirrel cage rotor design is employed in induction motor applications that require high starting torque and high efficiency operation. The outer cage of double cage rotors is vulnerable to fatigue failure since it must withstand the large thermal/mechanical stresses experienced during a loaded startup due to the high starting current and long acceleration time. However, there are only a few publications that investigate broken bar detection for double cage induction motors. In this paper, the detectability of broken outer cage bars in double cage motors for the most commonly used rotor bar test methods is evaluated. A finite element and experimental study show that the sensitivity of on-line MCSA is significantly decreased, whereas that of off-line standstill tests is not influenced for broken outer cage bars. This suggests that one should be aware of the insensitivity of MCSA for double cage rotors, and there is a need for development of new on-line monitoring methods",
+        "email": "",
+        "conf": "IEEE Energy Conversion Congress and Exposition",
+        "coauthors": [
+            "Jongbin Park",
+            "Byunghwan Kim",
+            "Jinkyu Yang",
+            "Sang Bin Lee",
+            "Ernesto J. Wiedenburg",
+            "Mike Teska",
+            "Seungoh Han"
+        ],
+        "keywords": "AC Machine,Broken Rotor Bar,Condition Monitoring,Diagnostics,Double Cage Induction Motor,Off-line Testing,Spectrum Analysis,Squirrel-Cage Rotor"
+    },
+    {
+        "id": 2371,
+        "label": 51,
+        "author": "sang bin lee",
+        "title": "Detection of Broken Outer-Cage Bars for Double-Cage Induction Motors Under the Startup Transient",
+        "organization": "Korea University",
+        "abstract": "Unlike single-cage rotor fault detection, fast Fourier transform (FFT)-based steady-state spectrum analysis techniques can fail to detect outer-cage faults in double-cage induction motors due to the small outer-cage current under running conditions. Double-cage motors are typically employed in applications that require loaded starts. This makes the outer cage vulnerable to fatigue failure since it must withstand the high starting current and long startup time frequently. However, there are only a few publications that investigate detection techniques specifically for double-cage motors. In this paper, considering that the influence of the faulty outer cage is strong at startup due to the large outer-cage current, detection of outer-cage faults under the startup transient is investigated. A discrete-wavelet-transform-based method is proposed as a viable solution to the detection of outer-cage faults for double-cage motors. An experimental study on fabricated copper double-cage induction motors shows that the proposed method provides sensitive and reliable detection of double-cage rotor faults compared to FFT",
+        "email": "",
+        "conf": "IEEE Transactions on Industry Applications",
+        "coauthors": [
+            "Jose Antonino-Daviu",
+            "Martin Riera-Guasp",
+            "Joan Pons-Llinares",
+            "Jongbin Park",
+            "Sang Bin Lee",
+            "Jiyoon Yoo",
+            "Christian Kral"
+        ],
+        "keywords": "AC machine,condition monitoring,double-cage rotor,fast Fourier transform (FFT),fault diagnostics,induction motor,motor current signature analysis MCSA),outer-cage fault,transient analysis,wavelet transform"
+    },
+    {
+        "id": 2339,
+        "label": 51,
+        "author": "sang bin lee",
+        "title": "Guest Editorial Special Section on Advanced Signal and Image Processing Techniques for Electric Machines and Drives Fault Diagnosis and Prognosis",
+        "organization": "Korea University",
+        "abstract": "With the expansion of the use of electrical drive systems to more critical applications, the issue of reliability and fault mitigation and condition-based maintenance have consequently taken an increasing importance: it has become a crucial one that cannot be neglected or dealt with in an ad-hoc way. As a result research activity has increased in this area, and new methods are used, some based on a continuation and improvement of previous accomplishments, while others are applying theory and techniques in related areas. This Special Section of the IEEE Transactions on Industrial Informatics attracted a number of papers dealing with Advanced Signal and Image Processing Techniques for Electric Machine and Drives Fault Diagnosis and Prognosis. This editorial aims to put these contributions in context, and highlight the new ideas and directions therein.",
+        "email": "",
+        "conf": "IEEE Transactions on Industrial Informatics",
+        "coauthors": [
+            "J.A. Antonino-Daviu",
+            "Sang Bin Lee",
+            "Elias Strangas"
+        ],
+        "keywords": "Electrical Machines,Power electronics,condition monitoring,fault detection,failure prognosis"
+    },
+    {
+        "id": 2360,
+        "label": 51,
+        "author": "sang bin lee",
+        "title": "Evaluation of the Influence of Rotor Axial Air Ducts on Condition Monitoring of Induction Motors",
+        "organization": "Korea University",
+        "abstract": "Rotor axial air ducts are used in large motors for cooling and for reducing weight and material. The rotor axial ducts can produce twice-slip-frequency (2s f s ) components in the vibration or a current spectrum that can be misinterpreted as induction-motor rotor faults. There is currently no practical solution to the air-duct-induced false positive indications, which is an ongoing problem in the field. However, there are only a few publications that report the issues caused by rotor axial ducts. In this paper, the influence of the rotor air ducts on motor condition monitoring is analyzed and investigated through testing in the field on 6.6-kV motors and in the laboratory. The experimental study shows that the magnitude of the 2s f s component due to axial ducts depend on the design, material, construction, and operating conditions of the motor. It is also shown that the 2 sf s component can even decrease with broken bars, depending on the fault position relative to the ducts, which makes online condition monitoring difficult. Guidelines for reliable motor testing and interpretation of test results are also provided",
+        "email": "",
+        "conf": "IEEE Transactions on Industry Applications",
+        "coauthors": [
+            "Sungho Lee",
+            "Jongman Hong",
+            "Sang Bin Lee",
+            "Emesto J. Wiedenbrug",
+            "Mike Teska",
+            "Heedong Kim"
+        ],
+        "keywords": "AC machine,axial cooling duct,condition monitoring,diagnostics,electrical fault detection,induction motor,magnetic asymmetry,shaft spider"
+    },
+    {
+        "id": 2398,
+        "label": 51,
+        "author": "sang bin lee",
+        "title": "Current control method using a double band hysteresis",
+        "organization": "Korea University",
+        "abstract": "This paper presents a study on the double-band hysteresis current controller of the STATCOM (static synchronous compensator) used for reactive power compensation on a distribution network. Hysteresis controllers are intrinsically robust to system parameters, suitable for simple implementation and exhibit very high dynamic response. But in D-STATCOM, the current control using a conventional hysteresis controller has the disadvantage to be high switching frequency. In addition, the current error is not strictly limited. Therefore, in this paper, to reduce the switching frequency and current error, a double-band hysteresis current controller in stationary reference frame is proposed. The proposed double band hysteresis current control system was testified by the Borland C++ program and demonstrates the advantage of the proposed hysteresis current control method.",
+        "email": "",
+        "conf": "IEEE Industrial Electronics Society",
+        "coauthors": [
+            "Bum-Sik Kim",
+            "Won-Hyun Oh",
+            "Eun-Chul Shin",
+            "Sam-Jun Seo",
+            "Sang Bin Lee",
+            "Ji-Yoon Yoo"
+        ],
+        "keywords": "Current control,Hysteresis,Automatic voltage control,Inverters,Switching frequency,Voltage control,AC motors,Control systems,Error correction,Reactive power"
+    },
+    {
+        "id": 2363,
+        "label": 51,
+        "author": "sang bin lee",
+        "title": "The Influence of the Rotor on Surge PD Testing of Low Voltage AC Motor Stator Windings",
+        "organization": "Korea University",
+        "abstract": "Partial discharge (PD) has been identified as one the main root causes of stator winding failures in low voltage (LV) random wound AC motors fed by PWM inverters. To ensure that PWM inverter-fed motors (type I) are PD-free under impulse excitation, the test procedure for acceptance testing of the stator insulation system was developed (IEC TS 60034-18-41). Although many successful cases of applying the TS have been reported, some concerns regarding the test procedure have been raised, and the TS is currently under revision. It is implied in the TS that the rotor has no impact on the surge PD test result, and testing is often performed without the rotor; however, it was observed that the surge PD test results can change with rotor insertion for some types of machines. The off-line surge PD test must be performed under conditions representative of actual operation (with the motor assembled) to guarantee absence of PD. Therefore, it is important to investigate the influence of the rotor, and to incorporate the findings in the test procedure, if necessary. In this paper, the influence of the rotor on the off-line surge PD test is investigated for AC machines, and it is shown that the PD inception voltage (PDIV) can change significantly depending on the rotor design. A detailed analysis is given along with experimental test results on a number of induction and permanent magnet (PM) synchronous motor samples with different rotor designs. Based on the observations made in this work, suggestions on the TS that can provide surge PDIV measurements under conditions closer to that of the actual operation with the rotor are given to help reduce the likelihood of false indications with off-line surge PD testing.",
+        "email": "",
+        "conf": "IEEE Transactions on Dielectrics and Electrical Insulation",
+        "coauthors": [
+            "Tae-June Kang",
+            "Jongman Hong",
+            "Sang Bin Lee",
+            "Young Woo Yoon",
+            "Don Ha Hwang",
+            "Dongsik Kang"
+        ],
+        "keywords": "AC machines,impulse testing,monitoring,partial discharges (PD),rotating machine insulation testing,Surges"
+    },
+    {
+        "id": 2387,
+        "label": 51,
+        "author": "sang bin lee",
+        "title": "An inverter-embedded stator winding insulation quality assessment technique for AC machines",
+        "organization": "Korea University",
+        "abstract": "The lifetime of the stator winding insulation is reduced when operated with PWM inverters, since insulation degradation is accelerated due to increased thermal and electrical stresses on the motor. This paper focuses on a new approach for monitoring the condition of the stator insulation for failure-prone inverter-fed machines. The main concept of the proposed technique is to apply a variable frequency AC test voltage to the stator insulation using the inverter, to perform standard off-line insulation tests whenever the motor is not operating. This allows the stator insulation to be tested more frequently compared to off-line tests performed once every 3-6 yrs. during periodic maintenance. A method for testing the insulation with minimal modifications to the inverter circuit is proposed and verified experimentally. The results show that the proposed technique provides a simple low cost solution for detecting stator insulation degradation at an early stage for reliable operation of inverterfed machine systems, since the insulation condition can be monitored frequently. This not only helps prevent forced outages and safety risks due to insulation breakdown, but also helps perform maintenance in an efficient manner since individual motor maintenance can be prioritized and scheduled based on its present condition",
+        "email": "",
+        "conf": "International Conference on Condition Monitoring and Diagnosis. IEEE",
+        "coauthors": [
+            "Jinkyu Yang",
+            "Jintae Cho",
+            "Sang Bin Lee",
+            "Housung Jung",
+            "Young Park"
+        ],
+        "keywords": "AC Electric Machines,Capacitance Test,Condition Monitoring,Diagnostics,Dissipation Factor,Insulation Resistance,Inverters,Predictive Maintenance,Stator Insulation"
+    },
+    {
+        "id": 2399,
+        "label": 51,
+        "author": "sang bin lee",
+        "title": "A novel hysteresis current controller to reduce the switching frequency and current error in D-STATCOM",
+        "organization": "Korea University",
+        "abstract": "This paper presents a study on a novel hysteresis current controller of a STATCOM (static synchronous compensator) used for reactive power compensation on a distribution network. Hysteresis controllers are intrinsically robust to system parameters, exhibit very high dynamic response and are suitable for simple implementation. But the current control using a conventional hysteresis controller in D-STATCOM has the disadvantage that high switching frequency may happen due to lack of coordination among individual hysteresis controllers of three phases. This will of course increase the switching loss. In addition, the current error is not strictly limited. So, in this paper to reduce the switching frequency and current error, a novel hysteresis current controller in synchronous rotating reference frame is proposed. The presented control system was tested with digital simulation in the Borland C++ program and demonstrates the advantage of the novel hysteresis current controller",
+        "email": "",
+        "conf": "IEEE Industrial Electronics Society",
+        "coauthors": [
+            "Eun-Chul Shin",
+            "Sung-Min Park",
+            "Won-Hyun Oh",
+            "Dong-Sik Kim",
+            "Sang Bin Lee",
+            "Ji-Yoon Yoo"
+        ],
+        "keywords": "Hysteresis,Switching frequency,Error correction,Automatic voltage control,Reactive power control,Control systems,Robust control,Current control,Switching loss,Control system synthesis"
+    },
+    {
+        "id": 2369,
+        "label": 51,
+        "author": "sang bin lee",
+        "title": "Experimental Evaluation of Using the Surge PD Test as a Predictive Maintenance Tool for Monitoring Turn Insulation Quality in Random Wound AC Motor Stator Windings",
+        "organization": "Korea University",
+        "abstract": "Turn insulation degradation is one of the major root causes of stator insulation failure leading to motor breakdown. The surge test is the only test available for testing the integrity of turn insulation; however, it is a high voltage pass/fail test that provides an indication only if an arc is instigated between the turns of weakened turn insulation, and therefore does not provide information regarding remaining lifetime. The surge PD test measures the partial discharge (PD) activity under surge excitation, and is used to date for assuring that voltage source PWM inverter-fed motors (IEC 60034-18-41 type I) are PDfree. In this paper, the potential of using the surge PD test as a predictive maintenance tool for turn insulation quality assessment is evaluated. Under the expectation that increasing PD activity in the voids formed by insulation degradation may be detectable before turn insulation failure, the test is performed periodically under accelerated thermal degradation on 6 windings. It is shown that change in the PD inception voltage under the surge PD test can be clearly observed before any other insulation test indicator. The results suggest that the surge PD test can be used for monitoring the condition of turn insulation for providing an early indication of stator insulation problems without the risk of puncturing turn insulation.",
+        "email": "",
+        "conf": "IEEE Transactions on Dielectrics and Electrical Insulation",
+        "coauthors": [
+            "Jinkyu Yang",
+            "Tae-june Kang",
+            "Byunghwan Kim",
+            "Sang Bin Lee,Young Woo Yoon",
+            "Dongsik Kang",
+            "Jintae Cho",
+            "Heedong Kim"
+        ],
+        "keywords": "AC machines,impulse testing,monitoring,partial discharges (PD),rotating machine insulation test,surges"
+    },
+    {
+        "id": 2403,
+        "label": 51,
+        "author": "sang bin lee",
+        "title": "An online stator winding resistance estimation technique for temperature monitoring of line-connected induction machines",
+        "organization": "Korea University",
+        "abstract": "A new technique for stator-resistance (R/sub s/)-based thermal monitoring of small line-connected induction machines is proposed in this paper. A simple device is developed for injecting a small DC signal into line-connected induction machines for estimation of R/sub s/. The proposed DC injection device is capable of intermittently injecting a controllable DC bias into the motor with very low power dissipation. Experimental results under motor startup, load variation, and abnormal cooling conditions verify that the proposed technique provides an accurate estimate of R/sub s/ that is capable of responding to the changes in the motor thermal characteristics, resulting in reliable thermal protection. The proposed technique is a very practical method for thermal protection of small line-connected induction machines that can be implemented with low cost in a motor condition monitoring system",
+        "email": "",
+        "conf": "IEEE Transactions on Industry Applications",
+        "coauthors": [
+            "Sang Bin Lee",
+            "T.G. Habetler"
+        ],
+        "keywords": "Stator windings,Temperature measurement,Temperature sensors,Condition monitoring,Induction machines,Thermal loading,DC motors,Power dissipation,Load management,Cooling"
+    }
+]

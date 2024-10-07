@@ -1,0 +1,3899 @@
+[
+    {
+        "id": 7382,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Design of Fuzzy Control Systems Based on Quadratic Performance Function and Robust Stability",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Takayuki IKEDA",
+            "Kazuo Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7373,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Backing control problem of a mobile robot with multiple trailers: Fuzzy modeling and LMI-based design",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE Transactions on Systems Man and Cybernetics Part C (Applications and Reviews)",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "Takahiro Kosaki",
+            "Hua O. Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7404,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Stability and stabilizability of fuzzy-neural-linear control systems",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE Transactions on Fuzzy Systems",
+        "coauthors": [
+            "Kazuo Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7293,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Recognition Pattern Generation Algorithm for Electroencephalogram-Based Control",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "Kazuyuki MATSUNAGA"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7241,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "An improved approach to fuzzy model construction and servo control with constraints based on error dynamics",
+        "organization": "The University of Electro-Communications",
+        "abstract": "This paper presents an improved approach to servo control for nonlinear systems with constraints on inputs and states using the fuzzy model-based control approach. In our previous paper, servo control based on error dynamics using error vector and input difference was proposed. Although the approach can achieve servo control with constraints on both of inputs and states, error dynamics with time-varying extra terms cannot be applied. In this paper, time-varying cancellation input is newly introduced. By using the cancellation input, servo control for error dynamics with time varying extra terms is achieved. We derive servo controller design conditions and constraint conditions on inputs and states in the form of LMI. Design examples illustrate the utility of this approach. ",
+        "email": "",
+        "conf": "Proceedings of the American Control Conference",
+        "coauthors": [
+            "Hiroshi Ohtake",
+            "Kazuo Tanaka",
+            "Hua Owen Wang"
+        ],
+        "keywords": "Servomotors,Nonlinear dynamical systems,Linear systems,Fuzzy control,Vectors"
+    },
+    {
+        "id": 7375,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Fuzzy regulators and fuzzy observers: Relaxed stability conditions and LMI-based designs",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE Transactions on Fuzzy Systems",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "Takayuki Ikeda",
+            "H.O. Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7340,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Model construction rule reduction and robust compensation for generalized form of Takagi-Sugeno fuzzy systems",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE Transactions on Fuzzy Systems",
+        "coauthors": [
+            "Tadanari Taniguchi",
+            "Kazuo Tanaka",
+            "Hiroshi Ohtake",
+            "Hua O. Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7349,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Fuzzy descriptor systems and nonlinear model following control",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE Transactions on Fuzzy Systems",
+        "coauthors": [
+            "Tadanari Taniguchi",
+            "Kazuo Tanaka",
+            "Hua O. Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7228,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Piecewise polynomial lyapunov functions based stability analysis for polynomial fuzzy systems",
+        "organization": "The University of Electro-Communications",
+        "abstract": "This paper proposes two stability criteria for polynomial fuzzy systems by applying minimum-type and maximum-type piecewise polynomial Lyapunov functions (PPLFs) respectively. Piecewise Lyapunov functions and polynomial Lyapunov functions (PLFs) have been utilized to the stability analysis for fuzzy-model-based (FMB) control systems to obtain relaxed results in literature. However, the minimum-type and maximum-type PPLFs have not been employed to analyze the stability of FMB control systems. Therefore, this paper applies the minimum-type and maximum-type PPLFs to the stability analysis of polynomial FMB control systems. Two relaxed stability criteria represented in terms of bilinear sum-of-squares (SOS) conditions are proposed. The proposed stability criteria are represented in terms of bilinear SOS conditions that cannot be directly solved by the mathematical tools of solving SOS optimization problem (e.g. SOSTOOLS and SOSOPT). Therefore, the path-following method that has been shown to be effective for the nonconvex bilinear matrix inequality problem is employed for solving the bilinear SOS problem of the proposed stability criteria. A numerical example is provided to demonstrate the relaxation of the proposed stability criteria.",
+        "email": "",
+        "conf": "International Conference on Control System, Computing and Engineering. IEEE",
+        "coauthors": [
+            "Ying-Jen Chen",
+            "Motoyasu Tanaka",
+            "Kazuo Tanaka",
+            "Hua Owen Wang"
+        ],
+        "keywords": "Piecewise polynomial Lyapunov function (PPLF),polynomial Fuzzy System,stability,bilinear sum-of-squares,path-following method"
+    },
+    {
+        "id": 7336,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Evaluation method of man-machine system based on muscular characteristic",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "T. Koyama",
+            "Takayuki Tanaka",
+            "Kazuo Tanaka",
+            "M.Q. Feng"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7210,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Singularity Analysis of a Snake Robot and an Articulated Mobile Robot With Unconstrained Links",
+        "organization": "The University of Electro-Communications",
+        "abstract": "In this paper, we analyze the conditions related to singular configurations with unconstrained links and present related theorems and lemmas for a snake robot and an articulated mobile robot. A snake robot and an articulated mobile robot have links that have passive or active wheels and the links are serially connected by active joints. The singular configuration should be avoided if the robots are automatically controlled because they cannot execute intended motion when they are in the singular configuration. We derive a novel necessary and sufficient condition for the singular configurations of the snake robot; this removes some limitations of the traditional condition for a snake robot without unconstrained links. We also derive the necessary and sufficient conditions for the singular configurations of the articulated mobile robot, and the structural conditions under which a real articulated mobile robot does not have a singular configuration. These conditions are proved by analyzing the elements of matrices included in the kinematic model and considering the geometrical meaning of the elements. In addition, we propose evaluation indices representing the distance from the singular configurations of a snake robot. We verify the effectiveness of these indices through simulations.",
+        "email": "",
+        "conf": "IEEE Transactions on Control Systems Technology",
+        "coauthors": [
+            "Motoyasu Tanaka",
+            "Kazuo Tanaka"
+        ],
+        "keywords": "Articulated mobile robot,kinematic redundancy,singular configuration,snake robot,unconstrained links"
+    },
+    {
+        "id": 7233,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Shared Nonlinear Control in Wireless-Based Remote Stabilization: A Theoretical Approach",
+        "organization": "The University of Electro-Communications",
+        "abstract": "This paper proposes shared control in wireless-based remote stabilization for nonlinear systems. Shared control that is newly named in this paper can be regarded as simultaneous stabilization of plural nonlinear systems (in different places) by a single (common) controller. This paper consists of two parts. The first part addresses the basis of wireless-based remote stabilization for a single nonlinear system with time-varying delay. We derive a delay-dependent sufficient condition for ensuring the stability of Takagi-Sugeno (T-S) fuzzy models with time-varying delays that are globally (or semiglobally at least) equivalent to nonlinear systems with wireless communication time delays. A feature of the derived condition is to be able to obtain the maximum time delay for ensuring the stability of wireless-based remote control system for given feedback gains. The second part presents shared control of plural nonlinear systems via a single controller. To design a (common) shared controller to stabilize plural nonlinear systems, we derive also a shared control version of the stability condition for T-S fuzzy models with time-varying delays. Design examples demonstrate the utility of this proposed design approach.",
+        "email": "",
+        "conf": "IEEE/ASME Transactions on Mechatronics",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "Motoyasu Tanaka",
+            "Hiroshi Ohtake",
+            "Hua Owen Wang"
+        ],
+        "keywords": "Fuzzy control,shared control,Takagi–Sugeno (T-S) fuzzy model,time-varying delay,wireless-based remote stabilization"
+    },
+    {
+        "id": 7379,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Fuzzy control based on quadratic performance function-a linear matrix inequality approach",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "Proceedings of the IEEE Conference on Decision and Control",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "Tadanari Taniguchi",
+            "Hua O. Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7209,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Shape Control of a Snake Robot With Joint Limit and Self-Collision Avoidance",
+        "organization": "The University of Electro-Communications",
+        "abstract": "This paper proposes a shape control method for a snake robot, which maintains head position and orientation, and avoids joint limits and self-collision. We used a passive wheeled snake robot that can switch the grounded/lifted status of its wheels. We derived a kinematic model of the robot that represents its redundancy as both joint angles [the shape controllable points (SCPs)] and the null space of the control input. In the control method, the shape is changed by sequential control of the SCPs, and the null space of the control input is used for joint limit and self-collision avoidance. Jumps in control input do not occur, although the controlled variable and the model are switched. Simulations and an experiment were used to demonstrate the effectiveness of the proposed method.",
+        "email": "",
+        "conf": "IEEE Transactions on Control Systems Technology",
+        "coauthors": [
+            "Motoyasu Tanaka",
+            "Kazuo Tanaka"
+        ],
+        "keywords": "Joint limit,redundancy,self-collision,shape control,shape controllable points (SCPs),snake robot,switching constraints"
+    },
+    {
+        "id": 7315,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Stable control for polar coordinate fuzzy systems",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "H Ohtake",
+            "Kazuo Tanaka",
+            "H.O. Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7254,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Sensor Reduction for Backing-Up Control of a Vehicle With Triple Trailers",
+        "organization": "The University of Electro-Communications",
+        "abstract": "This paper presents a cost-effective design based on sensor reduction for backing-up control of a vehicle with triple trailers. To realize a cost-effective design, we newly derive two linear-matrix-inequality (LMI) conditions for a discrete Takagi-Sugeno fuzzy system. One is an optimal dynamic output feedback design that guarantees desired control performance. The other is an avoidance of jackknife phenomenon for the use of the optimal dynamic output feedback controller. Our results demonstrate that the proposed LMI-based design effectively achieves the backing-up control of the vehicle with triple trailers while avoiding the jackknife phenomenon. More importantly, we demonstrate that the designed optimal control can achieve the backing-up control without, at least, two potentiometers that were employed to measure the relative angles (of a vehicle with triple trailers) in our previous experiments. Since the relative angles directly relate to the jackknife phenomenon, the successful control results without two potentiometers are very interesting and important from the cost-effective design point of view.",
+        "email": "",
+        "conf": "IEEE Transactions on Industrial Electronics",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "Kenji Yamauchi",
+            "Hiroshi Ohtake",
+            "Hua O. Wang"
+        ],
+        "keywords": "Backing-up control,fuzzy control,linear matrix inequality (LMI),sensor reduction,vehicle with triple trailers"
+    },
+    {
+        "id": 7403,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Fuzzy Backward Movement Control of a Trailer Type Mobile Robot via Parallel Distributed Compensation",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "Takahiro KOSAKI"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7214,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Range-Sensor-Based Semiautonomous Whole-Body Collision Avoidance of a Snake Robot",
+        "organization": "The University of Electro-Communications",
+        "abstract": "This brief presents a control system for a snake robot based on range sensor data that semiautonomously aids the robot in avoiding collisions with obstacles. In the proposed system, an operator indicates the desired velocity of the first link of the robot using a joystick, and the joint input which accomplishes both the desired velocity of the first link and collision avoidance between subsequent links and obstacles is automatically calculated by the controller, which selects the links needed to be grounded and exploits redundancy. The controller uses real-time data from range sensors for obstacle positions. The experimental system, which has range sensors and the function generating environmental map using simultaneous localization and mapping, was developed with decreasing calculation cost, and experiments were performed to verify the effectiveness of the proposed system in unknown environments.",
+        "email": "",
+        "conf": "IEEE Transactions on Control Systems Technology",
+        "coauthors": [
+            "Motoyasu Tanaka",
+            "Kazuyuki Kon",
+            "Kazuo Tanaka"
+        ],
+        "keywords": "Collision avoidance,inspection in narrow spaces,redundancy,snake robot,switching constraints"
+    },
+    {
+        "id": 7353,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Generalized Takagi-Sugeno fuzzy systems: rule reduction and robust control",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE International Conference on Fuzzy Systems",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "Tadanari Taniguchi",
+            "Hua O. Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7348,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Trajectory Control of a Vehicle with Triple Trailers",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEJ Transactions on Electronics Information and Systems",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "Tsuyoshi Hori",
+            "Masaaki Iwasaki"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7380,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Fuzzy regulators and fuzzy observers: a linear matrix inequality approach",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "H.O. Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7250,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Fuzzy Model-based Servo Control for Nonlinear Systems with Input Constraint",
+        "organization": "The University of Electro-Communications",
+        "abstract": "This paper presents servo control for nonlinear systems with input constraint using the fuzzy model-based control approach. We introduce input difference between present input and final input which is a bias input to keep output at a target point after making output converge to the target point. By adding input difference and time-derivative nonlinear system, we construct the augmented system with input difference. We derive LMI conditions for designing servo controller and for constraining control input. By simultaneously solving servo controller design condition and the constraint condition, servo control with input constraint is achieved.",
+        "email": "",
+        "conf": "IEEE Control Applications,(CCA) & Intelligent Control,(ISIC)",
+        "coauthors": [
+            "Hiroshi Ohtake",
+            "Kazuo Tanaka",
+            "Hua Owen Wang"
+        ],
+        "keywords": "Fuzzy control,Fuzzy systems,Servosystems,Nonlinear systems,Nonlinear control systems,Servomechanisms,Linear systems,Mechanical engineering,Intelligent control,Control system synthesis"
+    },
+    {
+        "id": 7389,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Fuzzy control of a vehicle with two trailers",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "H.O. Wang",
+            "T. Taniguchi"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7392,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Design of fuzzy control systems based on relaxed LMI stability conditions",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "Takayuki Ikeda",
+            "Hua Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7411,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Frequency shaping for fuzzy control systems with unknown non-linear plants by a learning method of neural network",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "Fuzzy Sets and Systems",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "Manabu Sano"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7256,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Fuzzy Control of Micro RC Helicopter with Coaxial Counter-rotating Blades",
+        "organization": "The University of Electro-Communications",
+        "abstract": "Recently, there are a lot of research on swarm intelligence using multiple mobile robots. In most of the research, based on visual information of video cameras fixed to a ceiling, the mobile robots detect their own position. However, since the video cameras are fixed to a ceiling, there is a problem that the experimental field is limited. The goal of our research is to support the detection of the robots' position by using micro-helicopter with micro-camera to extend the experimental field freely. As the first step to the goal, this paper presents flight control of micro helicopter with coaxial counter-rotating blades. By employing fuzzy control approach to control the helicopter, we achieve hovering control and path-following control of the helicopter.",
+        "email": "",
+        "conf": "Journal of Japan Society for Fuzzy Theory and Intelligent Informatics",
+        "coauthors": [
+            "Hiroshi OHTAKE",
+            "Ken IIMURA",
+            "Kazuo Tanaka"
+        ],
+        "keywords": "micro-helicopter, fuzzy control, helicopter with coaxial counter-rotating blades"
+    },
+    {
+        "id": 7305,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Derivation of LMI design conditions in switching fuzzy control",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "Proceedings of the IEEE Conference on Decision and Control",
+        "coauthors": [
+            "H. Ohtake",
+            "Kazuo Tanaka",
+            "H.O. Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7425,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "On learning properties of neuro-fuzzy phase-lead compensators",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "M Sano"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7329,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Robust Fuzzy Control",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "Hua O. Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7398,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "An approach to stabilization of uncertain fuzzy systems",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "T. Ikeda",
+            "H. Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7281,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "A Descriptor System Approach to Fuzzy Control System Design via Fuzzy Lyapunov Functions",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE Transactions on Fuzzy Systems",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "Hiroshi Ohtake",
+            "Owen Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7334,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "A construction method of switching Lyapunov function for nonlinear systems",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "H. Ohtake",
+            "Kazuo Tanaka",
+            "H.O. Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7416,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Simulation Study on Self-learning Fuzzy Control of Carbon Monoxide Concentration",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Kazuo Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7282,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Design of Fuzzy Controllers Based on Frequency And Transient Characteristics",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Kazuo Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7331,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Trajectory Control of a Vehicle with Multiple Trailers",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "Hua O. Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7290,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Switching Model Construction and Stability Analysis for Nonlinear Systems.",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Hiroshi Ohtake",
+            "Kazuo Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7219,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Control of a Snake Robot for Ascending and Descending Steps",
+        "organization": "The University of Electro-Communications",
+        "abstract": "This paper proposes control method for a snake robot to ascend and descend steps. In a multiplane step environment, it is necessary for locomotion to transfer from one plane to another. When a snake robot moves, it touches several planes as its body is long and thin. In this paper, we propose a control method to track the trajectory of a snake robot in a step environment. We decomposed the 3-D motion of the robot into two simple models by introducing an assumption that simplifies the model and controller, and derive a model of the robot as a hybrid system with switching. The control method consists of a tracking controller, a method for shifting the robot's part connecting the planes, and active lifting to control the shape of the robot. Ascent and descent experiments confirm the effectiveness of the proposed controller and the method for shifting the connecting part of the robot's body.",
+        "email": "",
+        "conf": "IEEE Transactions on Robotics",
+        "coauthors": [
+            "Motoyasu Tanaka",
+            "Kazuo Tanaka"
+        ],
+        "keywords": "Kinematics,redundancy,snake robot,step climbing,switching constraints"
+    },
+    {
+        "id": 7327,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Fuzzy Control Systems Design and Analysis: A Linear Matrix Inequality Approach",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "Owen Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7322,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "A piecewise Takagi-Sugeno fuzzy model construction and relaxation of stability conditions",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "Proceedings of the IEEE Conference on Decision and Control",
+        "coauthors": [
+            "T. Hori",
+            "Kazuo Tanaka",
+            "H.O. Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7298,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Fuzzy control system designs using redundancy of descriptor representation: A fuzzy Lyapunov function approach",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "Proceedings of the American Control Conference",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "T. Nebuya",
+            "H. Ohtake",
+            "H.O. Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7339,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Generation of Electroencephalography Recognition Patterns via Genetic Algorithm",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Shigeki HORI",
+            "Naoki KANAMORI",
+            "Kazuo Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7370,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "An integrated algorithm of fuzzy modeling and controller design for nonlinear systems",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "T. Hori",
+            "K. Yamafuji",
+            "H.O. Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7394,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Parameter Adjustment of Nonlinear Controllers via a Revised Genetic Algorithm",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "Shinichiro HATANAKA"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7344,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Switching control of an R/C hovercraft: Stabilization and smooth switching",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE TRANSACTIONS ON CYBERNETICS",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "Masaaki Iwasaki",
+            "Owen Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7383,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Stability Analysis and Design of Fuzzy Descriptor Systems",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Tadanari TANIGUCHI",
+            "Kazuo Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7226,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "A practical design approach to automatic model construction and controller design for F16 aircraft",
+        "organization": "The University of Electro-Communications",
+        "abstract": "This paper presents a practical design approach to automatic model construction and controller design for the F16 aircraft. The automatic model construction and controller design are realized using the framework of a Takagi-Sugeno (T-S) fuzzy modeling and control. Any trimmed equilibriums in addition to the complicated dynamics describing in an F16 aircraft simulator are considered and automatically converted to T-S fuzzy models around any trimmed equilibriums. A linear matrix inequality based design is carried out to automatically obtain stable nonlinear T-S fuzzy controllers according to the considered trimmed equilibriums. Control performance of the designed controllers are tested for the original dynamics (not T-S fuzzy models). The testing results demonstrate the utility of the practical design approach to automatic model construction and controller design.",
+        "email": "",
+        "conf": "International Conference on Fuzzy Theory and Its Applications (iFUZZY). IEEE",
+        "coauthors": [
+            "Daisuke Ogura",
+            "Ying-Jen Chen",
+            "Motoyasu Tanaka",
+            "Kazuo Tanaka"
+        ],
+        "keywords": "Automatic model construction and controller design,linear matrix inequality,nonlinear F16 aircraft model,stability,Takagi-Sugeno fuzzy model,trimmed equilibriums"
+    },
+    {
+        "id": 7263,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Micro helicopter control: LMI approach vs SOS approach",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE International Conference on Fuzzy Systems",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "Takamichi Komatsu",
+            "Hiroshi Ohtake",
+            "Owen Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7212,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Stair climbing of an articulated mobile robot via sequential shift",
+        "organization": "The University of Electro-Communications",
+        "abstract": "This paper presents a sequential stair climbing method for an articulated mobile robot. The robot has active wheeled links connected by active rotational joints. In the method, some parts of the robot's body defined as a connecting part are used to step over risers in stairs, and the robot climbs up stairs by shifting the connecting parts from forward to backward. A condition on which the robot can climb stairs by the proposed method is presented. Simulation results confirm the effectiveness of the proposed method.",
+        "email": "",
+        "conf": "IEEE/SICE International Symposium on System Integration (SII). IEEE",
+        "coauthors": [
+            "Motoyasu Tanaka",
+            "Kazuo Tanaka"
+        ],
+        "keywords": "Mobile robots,Joining processes,Wheels,Collision avoidance,Shape,Crawlers"
+    },
+    {
+        "id": 7324,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Multiobjective control of a vehicle with triple trailers",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE/ASME Transactions on Mechatronics",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "S. Hori",
+            "H.O. Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7387,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Model-based fuzzy control for two trailers problem: stability analysis and design via linear matrix inequalities",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "T. Taniguchi",
+            "H.O. Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7277,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Construction of simulation model of a flying robot with variable attack angle mechanism",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Yoshiyuki Higashi",
+            "Kazuo Tanaka",
+            "Hiroshi Ohtake",
+            "Owen Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7362,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "A new PDC for fuzzy reference models",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "T. Taniguchi",
+            "Kazuo Tanaka",
+            "K. Yamafuji",
+            "H.O. Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7400,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Quadratic stability and stabilization of fuzzy control systems",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "T. Ikeda",
+            "H.O. Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7239,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Introduction to Fuzzy Modeling",
+        "organization": "The University of Electro-Communications",
+        "abstract": "The term “fuzzy modeling” was used in [30]. After that, pioneer works in the field of fuzzy modeling were done in [26, 31]. In 80’s, several fuzzy modeling techniques were developed (e.g., [24], [25], and [27]). In particular, Takagi and Sugeno [11] proposed a new type of fuzzy model. The model is called “Takagi-Sugeno fuzzy model (T-S fuzzy model)”. Furthermore, they proposed a procedure to identify the T-S fuzzy model from input-output data of systems in [11]. This work has been referred in many papers on fuzzy modeling for a long time. Sugeno and Kang [9, 10] extended the T-S procedure. It consists of parameter identification and structure identification. They stated in [10] that the structure identification is important and the method is better than GMDH1 in prediction problems for complex systems.",
+        "email": "",
+        "conf": "Fuzzy Systems",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "Michio Sugeno"
+        ],
+        "keywords": "Fuzzy System, Fuzzy Model, Fuzzy Partition, Prediction Data, Consequent Parameter "
+    },
+    {
+        "id": 7199,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Motion control of a snake robot moving between two non-parallel planes",
+        "organization": "The University of Electro-Communications",
+        "abstract": "A control method that makes the head of a snake robot follow an arbitrary trajectory on two non-parallel planes, including coexisting sloped and flat planes, is presented. We clarify an appropriate condition of contact between the robot and planes and design a controller for the part of the robot connecting the two planes that satisfies the contact condition. Assuming that the contact condition is satisfied, we derive a simplified model of the robot and design a controller for trajectory tracking of the robot’s head. The controller uses kinematic redundancy to avoid violating the limit of the joint angle and a collision between the robot and the edge of a plane. The effectiveness of the proposed method is demonstrated in experiments using an actual robot.",
+        "email": "",
+        "conf": "Advanced Robotics",
+        "coauthors": [
+            "Mizuki Nakajima",
+            "Motoyasu Tanaka",
+            "Kazuo Tanaka",
+            "Fumitoshi Matsuno"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7415,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Genetic tuning with concept of stabilizable chromosomes in nonlinear controller design",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "S. Hatanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7376,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Model-based fuzzy control of TORA system: fuzzy regulator and fuzzy observer design via LMIs that represent decay rate disturbance rejection robustness optimality",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE International Conference on Fuzzy Systems",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "T. Taniguchi",
+            "H.O. Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7294,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Propose the controlling strategy of wheeled mobile robot based on the consciousness",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Takanori Emaru",
+            "Kazuo Tanaka",
+            "Takeshi Tsuchiya"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7204,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Practical Model Construction and Stable Control of an Unmanned Aerial Vehicle With a Parafoil-Type Wing",
+        "organization": "The University of Electro-Communications",
+        "abstract": "This correspondence paper presents a framework for practical model construction and stable altitude control of an unmanned aerial vehicle with a parafoil-type wing (UAV-PW). To design a stable controller, we first construct a dynamical longitudinal model of the UAV-PW. Since there exist no aerodynamics data of the parafoil shape in our UAV-PW, aerodynamics coefficients balanced at the trimmed equilibrium are employed. The model accuracy is investigated by comparing the model outputs with the real test flight experimental data. Next, stable controller design conditions for the UAV-PW model with uncertainties are derived in terms of linear matrix inequalities (LMIs). By solving the LMI conditions, we design a stable controller that asymptotically stabilizes the UAV-PW model with the uncertainties on a considered operation domain. The experimental results demonstrate the viability of the model construction and the stable altitude control.",
+        "email": "",
+        "conf": "IEEE Transactions on Systems Man and Cybernetics: Systems",
+        "coauthors": [
+            "Motoyasu Tanaka",
+            "Kazuo Tanaka",
+            "Hua Owen Wang"
+        ],
+        "keywords": "Linear matrix inequality (LMI),model construction,stable control,unmanned aerial vehicle with parafoil-type wing (UAV-PW)"
+    },
+    {
+        "id": 7311,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Piecewise Nonlinear Control",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "Proceedings of the IEEE Conference on Decision and Control",
+        "coauthors": [
+            "H. Ohtake",
+            "Kazuo Tanaka",
+            "H.O. Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7203,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "A Waypoint Following Control Design for a Paraglider Model With Aerodynamic Uncertainty",
+        "organization": "The University of Electro-Communications",
+        "abstract": "This paper presents a waypoint following control design for a powered paraglider (PPG) model. After constructing a dynamic model with six degrees of freedom of the PPG, a dynamical lateral model around a trim equilibrium in the steady-state flight is obtained. Unknown parameters, such as the moment of inertia, the drag coefficient, etc., in the lateral model are optimized by real flight experimental data. The model output with the optimized parameters agrees with the real flight experimental data. Since the aerodynamics-related parameter, i.e., the drag coefficient, might be slightly changed even near the considered trim equilibrium, this paper considers its uncertainty in the constructed lateral model. A nonlinear controller to stabilize the lateral model (with the aerodynamic uncertainty) on a considered operation domain is designed by solving robust controller design conditions expressed in terms of linear matrix inequality. The experimental results including automatic landing demonstrate the effectiveness of the control system design framework, i.e., the model construction and the robust stable control, considering the model uncertainty. ",
+        "email": "",
+        "conf": "IEEE/ASME Transactions on Mechatronics",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "Motoyasu Tanaka",
+            "Yutoku Takahashi",
+            "Hua Owen Wang"
+        ],
+        "keywords": "Automatic landing,lateral model,powered paraglider (PPG),robust control,waypoint following control"
+    },
+    {
+        "id": 7399,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Intelligent control of a car with N trailers-trajectory stabilization and GA-based path planning",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "T. Kosaki"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7355,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Fuzzy Model Following Control",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Tadanari TANIGUCHI",
+            "Kazuo Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7407,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Stability analysis of feedback systems in fuzzy phase-lead compensation",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "T. Ikeda"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7431,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Identification and analysis of fuzzy model for air pollution-an approach to self-learning control of CO concentration",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "M. Sano",
+            "H. Watanabe"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7358,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Parallel Distributed Compensation For Takagi-Sugeno Fuzzy Models: New Stability Conditions And Dynamic Feedback Designs",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "IFAC Proceedings Volumes",
+        "coauthors": [
+            "David Niemann",
+            "Jing Li",
+            "Owen Wang",
+            "Kazuo Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7436,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Stability analysis of fuzzy systems using Lyapunov's direct method",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "M. Sugeno"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7247,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Improvement of Simulation Model and Development of Control Mechanism of force direction for a Flying Robot with Cyclogyro Wing",
+        "organization": "The University of Electro-Communications",
+        "abstract": "This paper discusses the improvement of the simulation model and the development of the new mechanism for flight control of a flying robot with the cyclogyro wing. In past study, we focused high maneuverability of the flying robots with the cyclogyro wing, whose rotor had rotation along horizontal axis, and developed some prototypes. The simulation model was also constructed based on the pressure of air. However the Reynolds number was not considered in the constructed simulation model. As a results, the model's accuracy was not enough. On the other hand, the control mechanism for the flight of cyclogyro wing is not yet developed. In this paper, the simulation model is improved by considering the cyclogyro's Reynolds number. The utility of the improved simulation model is verified by comparing simulation results with experimental results. Moreover the new mechanism is suggested for the flight control by controlling the generated force direction. The prototype of the new mechanism is developed and validated by the experiment.",
+        "email": "",
+        "conf": "IEEE/RSJ International Conference on Intelligent Robots and Systems",
+        "coauthors": [
+            "Yoshiyuki Higashi",
+            "Kazuo Tanaka",
+            "Hiroshi Ohtake",
+            "Hua Owen Wang"
+        ],
+        "keywords": "Force control,Airplanes,Intelligent robots,Aerospace control,Prototypes,USA Councils,Aerospace simulation,Aircraft,Mechanical engineering,Drag"
+    },
+    {
+        "id": 7245,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Stability analysis of nonlinear systems via multiple mixed max-min based Lyapunov functions",
+        "organization": "The University of Electro-Communications",
+        "abstract": "This paper presents stability analysis of nonlinear systems using a new type of Lyapunov functions. We define so-called multiple mixed max-min based Lyapunov functions that contain existing piecewise Lyapunov functions as a special case. The extension is realized by multiple mixed connection of max and min operations for plural local quadratic functions. Hence, stability analysis discussed in this paper is more relaxed than those based on existing piecewise Lyapunov functions in addition to quadratic Lyapunov functions. Relaxed stability conditions based on multiple mixed max-min based Lyapunov functions are derived by considering switching conditions among the plural local quadratic functions. The derived stability conditions are represented in terms of bilinear matrix inequalities (BMIs). Unfortunately, BMIs cannot be generally solved via LMI solvers. Therefore, to simply solve BMIs, we propose a practical way that combines an LMI solver and particle swarm optimization. In this paper, two analytical examples are provided. The examples illustrate that our approach provides more relaxed stability results than existing piecewise Lyapunov functions approaches.",
+        "email": "",
+        "conf": "IEEE International Conference on Fuzzy Systems",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "Hiroshi Ohtake",
+            "Takehito Yamaguchi",
+            "Hua Owen Wang"
+        ],
+        "keywords": "Lyapunov method,Switches,Stability analysis,Nonlinear systems,Mechanical engineering,Electronic mail,Indexes"
+    },
+    {
+        "id": 7408,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Modeling and control of carbon monoxide concentration using a neuro-fuzzy technique",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE Transactions on Fuzzy Systems",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "Manabu Sano",
+            "Hiroyuki Watanabe"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7328,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Optimal Fuzzy Control",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "Owen Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7217,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Fuzzy control turns 50: 10 years later",
+        "organization": "The University of Electro-Communications",
+        "abstract": "In 2015, we celebrate the 50th anniversary of Fuzzy Sets, ten years after the main milestones regarding its applications in fuzzy control in their 40th birthday were reviewed in FSS, see [1]. Ten years is at the same time a long period and short time thinking to the inner dynamics of research. This paper, presented for these 50 years of Fuzzy Sets is taking into account both thoughts. A first part presents a quick recap of the history of fuzzy control: from model-free design, based on human reasoning to quasi-LPV (Linear Parameter Varying) model-based control design via some milestones, and key applications. The second part shows where we arrived and what the improvements are since the milestone of the first 40 years. A last part is devoted to discussion and possible future research topics.",
+        "email": "",
+        "conf": "Fuzzy Sets and Systems",
+        "coauthors": [
+            "Thierry-Marie Guerra",
+            "Antonio Sala",
+            "Kazuo Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7213,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Intelligent nonsingular terminal sliding-mode control via perturbed fuzzy neural network",
+        "organization": "The University of Electro-Communications",
+        "abstract": "In this paper, an intelligent nonsingular terminal sliding-mode control (INTSMC) system, which is composed of a terminal neural controller and a robust compensator, is proposed for an unknown nonlinear system. The terminal neural controller including a perturbed fuzzy neural network (PFNN) is the main controller and the robust compensator is designed to eliminate the effect of the approximation error introduced by the PFNN upon the system stability. The PFNN is used to approximate an unknown nonlinear term of the system dynamics and perturbed asymmetric membership functions are used to handle rule uncertainties when it is hard to exactly determine the grade of membership functions. In additional, Lyapunov stability theory is used to discuss the parameter learning and system stability of the INTSMC system. Finally, the proposed INTSMC system is applied to an inverted pendulum and a voice coil motor actuator. The simulation and experimental results show that the proposed INTSMC system can achieve favorable tracking performance and is robust against parameter variations in the plant.",
+        "email": "ktanaka@mce.uec.ac.jp",
+        "conf": "Engineering Applications of Artificial Intelligence",
+        "coauthors": [
+            "Chun-Fei Hsu",
+            "Tsu-Tian Lee",
+            "Kazuo Tanaka"
+        ],
+        "keywords": "Intelligent control,Sliding-mode control,Fuzzy neural network,Perturbed membership function"
+    },
+    {
+        "id": 7230,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Development of an autonomous flying robot and its verification via flight control experiment",
+        "organization": "The University of Electro-Communications",
+        "abstract": "This paper presents development of an autonomous flying robot (unmanned aerial vehicle) and its verification via flight control experiment. The autonomous flying robot has a global positioning system (GPS) sensor to control its altitude and also a wireless camera to gather visual information from the air. First, we construct a longitudinal model of the autonomous flying robot to design a stable controller using a common Lyapunov approach. The longitudinal model has three degree of freedom, i.e., the altitude, the horizontal position and the pitch angle. A stable controller is designed so as to guarantee the stability of the trajectory tracking control system for the three-degree-of-freedom model. The experimental result demonstrates the viability of the stable trajectory tracking control.",
+        "email": "",
+        "conf": "Proceedings - IEEE International Conference on Robotics and Automation",
+        "coauthors": [
+            "Motoyasu Tanaka",
+            "Hiroshi Kawai",
+            "Kazuo Tanaka",
+            "Hua O. Wang"
+        ],
+        "keywords": "Control systems,Wireless sensor networks,Wireless communication,Force,Vehicles,Cameras,Robot sensing systems"
+    },
+    {
+        "id": 7310,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "A Practical Design Approach to Stabilization of a 3-DOF RC Helicopter",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE Transactions on Control Systems Technology",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "Hiroshi Ohtake",
+            "Owen Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7287,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Recursive Pointwise Design for Nonlinear Systems.",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE Transactions on Fuzzy Systems",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "Hiroshi Ohtake",
+            "Owen Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7306,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Speed control of a sonar-based mobile robot with considering the self-localization",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Takanori Emaru",
+            "Kazuo Tanaka",
+            "Takeshi Tsuchiya"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7289,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Fuzzy Modeling and Control of Chaotic Systems",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "Studies in Fuzziness and Soft Computing",
+        "coauthors": [
+            "Owen Wang",
+            "Kazuo Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7341,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Stable control for R/C helicopter",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "H. Ohtake",
+            "T. Hori"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7259,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "The Quadruped Locomotion Robot with the Flexible Materials",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Mami Nishida",
+            "Kazuo Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7312,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "A Cyclogyro-based Flying Robot with Variable Attack Angle Mechanism",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "Takuya Hase",
+            "Takanori Emaru"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7337,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Principle of Stable Running of an Unicycle Robot",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of Robotics and Mechatronics",
+        "coauthors": [
+            "Takayuki Tanaka",
+            "Hisanobu Suzuki",
+            "Kazuo Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7201,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Stabilization and Robust Stabilization of Polynomial Fuzzy Systems: A Piecewise Polynomial Lyapunov Function Approach",
+        "organization": "The University of Electro-Communications",
+        "abstract": "This paper presents a piecewise polynomial Lyapunov function (PPLF) approach to stabilization and robust stabilization of polynomial fuzzy systems that are a generalized form of the well-known Takagi–Sugeno fuzzy systems. Both stabilization and robust stabilization conditions are formulated as sum of squares (SOS) optimization problems which can be solved by an SOS solver. A switching polynomial fuzzy controller based on switching information on the PPLF is designed to stabilize both polynomial fuzzy systems and polynomial fuzzy systems with uncertainties. In particular, by fully considering the properties of the piecewise and polynomial Lyapunov function, some relaxation are carried out in the derivation of SOS robust stabilization conditions for polynomial fuzzy systems with uncertainties. Four design examples are demonstrated to show the effectiveness of the proposed design approach in comparison with the existing approaches, i.e., linear matrix inequalities approaches and SOS stabilization and robust stabilization approaches.",
+        "email": "",
+        "conf": "International Journal of Fuzzy Systems",
+        "coauthors": [
+            "Alissa Ully Ashar",
+            "Motoyasu Tanaka",
+            "Kazuo Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7300,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Fuzzy model-based control for dynamic variable structure systems",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "Proceedings of the American Control Conference",
+        "coauthors": [
+            "H. Ohtake",
+            "Kazuo Tanaka",
+            "H.O. Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7238,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Robust filtering for networked systems with random transmission delays and packet dropouts",
+        "organization": "The University of Electro-Communications",
+        "abstract": "This paper addresses a robust H ∞ filtering problem for networked systems that are subject to both random transmission delays and packet dropouts. To start with, a data transmission model is established by employing random series with Bernoulli distributions. A sufficient condition for robust stability with H ∞ , constraints is derived for the filtering error system. The robust filter is designed in terms of the feasibility of a linear matrix inequality (LMI). The numerical examples are provided to show the effectiveness of the data transmission model and the proposed filtering method. ",
+        "email": "",
+        "conf": "Proceedings of the American Control Conference",
+        "coauthors": [
+            "Yunze Cai",
+            "Hua O. Wang",
+            "Kazuo Tanaka",
+            "Xiaoming Xu"
+        ],
+        "keywords": "Delay,Filtering,Robustness,Data models,Symmetric matrices,Hidden Markov models,Markov processes"
+    },
+    {
+        "id": 7390,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Design of a stable fuzzy controller for an articulated vehicle",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE TRANSACTIONS ON CYBERNETICS",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "Takahiro Kosaki"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7291,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Optimal Dynamic Output Feedback Designs for Backing-up Control of a Vehicle with Triple Trailers",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE International Conference on Fuzzy Systems",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "Kenji Yamauchi",
+            "Hiroshi Ohtake",
+            "H.O. Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7419,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Learning control of an adaptive structural manipulator by fuzzy phase-lead compensation",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Kazuo Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7225,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Nonconvex stabilization criterion for polynomial fuzzy systems",
+        "organization": "The University of Electro-Communications",
+        "abstract": "This paper presents a nonconvex criterion represented in terms of bilinear sum of squares (SOS) conditions for the stabilization of polynomial fuzzy systems. In the existing literature dealing with the stabilization of polynomial fuzzy control systems, the construction of Lyapunov function candidates is restricted in order to transform the nonconvex SOS conditions into convex SOS conditions. Moreover, the transformation from nonconvex conditions into convex conditions itself also induces some conservativeness for the stabilization of polynomial fuzzy control systems. This study proposes a stabilization criterion for polynomial fuzzy control systems remaining in the nonconvex form of bilinear SOS conditions. Therefore, the proposed nonconvex SOS stabilization criterion, in some way, can provide more relaxed results than the existing convex SOS stabilization criteria. Moreover, the restriction on the construction of Lyapunov function candidates in literature does not exist in the proposed nonconvex stabilization criterion. An iterative algorithm is utilized to obtain solutions of the nonconvex stabilization criterion represented in terms of bilinear SOS conditions. The iterative algorithm does not guarantee either to obtain the global optimum of the nonconvex criterion or even to converge. However, this algorithm is easy to implement and can yield feasible solutions efficiently in the design example of this work.",
+        "email": "",
+        "conf": "Proceedings of the IEEE Conference on Decision and Control",
+        "coauthors": [
+            "Ying-Jen Chen",
+            "Motoyasu Tanaka",
+            "Kazuo Tanaka",
+            "Hua Owen Wang"
+        ],
+        "keywords": "Polynomials,Lyapunov methods,Fuzzy control,Iterative methods,Stability criteria"
+    },
+    {
+        "id": 7279,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Piecewise Fuzzy Model Construction and Controller Design based on Piecewise Lyapunov Function",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "Proceedings of the American Control Conference",
+        "coauthors": [
+            "Hiroshi Ohtake",
+            "Kazuo Tanaka",
+            "Hua O. Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7208,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Static Output Feedback Design for a Class of Constrained Takagi-Sugeno Fuzzy Systems",
+        "organization": "The University of Electro-Communications",
+        "abstract": "This paper addresses the static output feedback (SOF) control problem of Takagi–Sugeno fuzzy systems subject to both control input and state constraints. A new parameter-dependent sector condition is proposed to deal with the input saturation in SOF control context. Based on a judicious use of Finsler’s lemma in fuzzy Lyapunov control framework, new design conditions guaranteeing the existence of a stabilizing controller are recast as an LMI-based optimization with additional slack variables. These extra variables offer more flexibility to reduce the design conservatism. In particular, the proposed method requires neither special constraints on the state-space system matrices nor linear matrix equalities, which are hard to be satisfied. Several numerical examples are given to demonstrate the interests of the new control method.",
+        "email": "ktanaka@mce.uec.ac.jp",
+        "conf": "Journal of the Franklin Institute",
+        "coauthors": [
+            "Anh-Tu Nguyen",
+            "Kazuo Tanaka",
+            "Antoine Dequidt",
+            "Michel Dambrine"
+        ],
+        "keywords": "Takagi-Sugeno fuzzy systems, static output feedback control, actuator saturation, delayed fuzzy Lyapunov functions, domain of attraction, linear matrix inequality (LMI)"
+    },
+    {
+        "id": 7397,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Fuzzy control of a mobile robot with multiple trailers - Stability analysis and parallel distributed compensation",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "T. Kosaki",
+            "H.O. Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7273,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Stabilization of Polynomial Fuzzy Systems via a Sum of Squares Approach",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "Hiroto Yoshida",
+            "Hiroshi Ohtake",
+            "Hua O. Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7343,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "A Fuzzy Lyapunov Approach to Fuzzy Control System Design",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "Proceedings of the American Control Conference",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "Tsuyoshi Hori",
+            "Hua O. Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7364,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Trajectory control of an articulated vehicle with triple trailers",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "Tadanari Taniguchi",
+            "Hua O. Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7418,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "A note on stability and stabilizability of fuzzy-neural-linear control systems",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Kazuo Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7433,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Stability Analysis and Design of Fuzzy Control Systems",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "Fuzzy Sets and Systems",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "Michio Sugeno"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7316,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Interaction among human machine and patient with work state transition",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "Proceedings - IEEE International Conference on Robotics and Automation",
+        "coauthors": [
+            "T. Koyama",
+            "Takayuki Tanaka",
+            "Kazuo Tanaka",
+            "M.Q. Feng"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7413,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Trajectory stabilization of a model car via fuzzy control",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "Fuzzy Sets and Systems",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "Manabu Sano"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7435,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "A Design Method of Fuzzy-PID Combination Control System and Its Application to Heater Outlet Temperature Control",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Tetsuji TANI",
+            "Kazuo Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7367,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Synthesis of gain-scheduled controller for a class of LPV systems",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "Proceedings of the IEEE Conference on Decision and Control",
+        "coauthors": [
+            "Jing Li",
+            "H.O. Wang",
+            "D. Niemann",
+            "Kazuo Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7197,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "A New Nonconvex Design Algorithm for Optimal Polynomial Fuzzy Control",
+        "organization": "The University of Electro-Communications",
+        "abstract": "This paper presents a new nonconvex design algorithm for guaranteed cost control of polynomial fuzzy systems that include the Takagi-Sugeno (T-S) fuzzy systems as a special case. We derive a sum-of-squares (SOS) noconvex conditions to achieve guaranteed cost control of polynomial fuzzy systems. Although SOS-based design approaches are regarded as a post LMI-based design approach, there exist some remaining problems to be solved in systems analysis and design. To solve the remaining problems of the SOS-based design approaches, this paper gives new ideas that directly solve nonconvex SOS design conditions in guaranteed cost control using the so-called path-following algorithm. In particular, we bring a new scheme that minimizes the upper bound of a given performance function in parallel with minimizing a parameter of checking non-negativity for SOS design conditions. The two parameters minimization in the path-following algorithm is realized by introducing a double-loop structure. Finally, two complex nonlinear system design examples (a polynomial chaotic system and a complicated nonlinear system) are employed to illustrate the validity and applicability of the proposed nonconvex design algorithm for guaranteed cost control of polynomial fuzzy systems.",
+        "email": "",
+        "conf": "nternational Conference on Systems, Man, and Cybernetics (SMC). IEEE",
+        "coauthors": [
+            "Kai-Yi Wong",
+            "Motoyasu Tanaka",
+            "Kazuo Tanaka",
+            "Tsu-Tian Lee"
+        ],
+        "keywords": "guaranteed cost function,nonconvex design,path-following algorithm,polynomial fuzzy systems,sum-of-squares (SOS)"
+    },
+    {
+        "id": 7393,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Fuzzy Backward Movement Control of a Mobile Robot with Two Trailers",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "Takahiro KOSAKI"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7330,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Fuzzy Descriptor Systems and Control",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "Owen Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7271,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Switching Fuzzy Model Construction and Controller Design for Dynamical Systems with Input Nonlinearity.",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Hiroshi Ohtake",
+            "Kazuo Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7414,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Design of model-based fuzzy controller using Lyapunov's stability approach and its application to trajectory stabilization of a model car",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Kazuo Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7427,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Concept of stability margin for fuzzy systems and design of robust fuzzy controllers",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "Manabu Sano"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7323,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "A Flapping Robot with Membrane Wings",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Shoji Kawahata",
+            "Kazuo Tanaka",
+            "Hiroshi Ohtake"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7326,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Subjective Evaluation of Operating Feeling in a Haptic Interface.",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Naoki Kanamori",
+            "Takayuki Tanaka",
+            "Kazuo Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7284,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Switching fuzzy model construction and controller design with arbitrary switching planes",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "Proceedings of the American Control Conference",
+        "coauthors": [
+            "Hiroshi Ohtake",
+            "Kazuo Tanaka",
+            "H.O. Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7424,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Learning control algorithm and its validity of fuzzy frequency compensation for unknown plants",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "M. Sano"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7207,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "A Practical SSVEP-Based Algorithm for Perceptual Dominance Estimation in Binocular Rivalry",
+        "organization": "The University of Electro-Communications",
+        "abstract": "This paper presents a practical algorithm for perceptual dominance estimation in binocular rivalry. The algorithm using steady state visual evoked potentials (SSVEP) effectively realizes a real-time estimation of perceptual dominance in binocular rivalry from electroencephalogram (EEG) signals. For accuracy of estimation, the algorithm utilizes the EEG spectrogram obtained via the short-time Fourier transformation with a short time analysis window. More importantly, the algorithm focuses on the acceleration (second-order time differential) of the spectrogram difference between SSVEP of left-eye stimulus and that of right-eye stimulus, where the left-eye stimulus and the right-eye stimulus are separately displayed for left-eye and right-eye, respectively, with different-flashing-frequency visual stimuli of dissimilar images. Experimental results demonstrate the utility of the algorithm, particularly, the importance of introducing the acceleration of the spectrogram difference. With the simplicity of the algorithm, it is in fact suitable to accurately measure binocular rivalry without verbal communications in real-time environments. ",
+        "email": "",
+        "conf": "IEEE Transactions on Cognitive and Developmental Systems",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "Motoyasu Tanaka",
+            "Toshiya Kajiwara",
+            "Hua O. Wang"
+        ],
+        "keywords": "Acceleration of spectrogram difference,binocular rivalry,electroencephalogram (EEG),steady state visual evoked potentials (SSVEPs)"
+    },
+    {
+        "id": 7351,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Stability and smoothness conditions for switching fuzzy systems",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "Proceedings of the American Control Conference",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "Masaaki Iwasaki",
+            "Hua O. Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7342,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Nonlinear rule reduction and robust control",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "T Taniguchi",
+            "Kazuo Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7354,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Principle of minimum entropy production in applied soft computing for advanced intelligent robotics and mechatronics",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "Soft Computing",
+        "coauthors": [
+            "V. S. Ulyanov",
+            "S. A. Panfilov",
+            "Sergey Ulyanov",
+            "Kazuo Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7286,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Development and Control of a Micro Biped Walking Robot using Shape Memory Alloys.",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "Proceedings - IEEE International Conference on Robotics and Automation",
+        "coauthors": [
+            "Mami Nishida",
+            "Kazuo Tanaka",
+            "Owen Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7272,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Fuzzy Model-based Model Following Control for a Class of Nonlinear Systems",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Hiroshi Ohtake",
+            "Kazuo Tanaka",
+            "Owen Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7378,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Absolute stability conditions in a fuzzy phase-lead compensation and their extension to MIMO systems",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE Transactions on Industrial Electronics",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "Takayuki Ikeda"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7381,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Controlling chaos via model-based fuzzy control system design",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "T. Ikeda",
+            "H.O. Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7270,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Two Attempts for Automatic Wheelchair Control via Electroencephalogram",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "Hiroshi OHTAKE",
+            "Hirokazu SAKAMOTO"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7302,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Shared Nonlinear Control in Internet-Based Remote Stabilization",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE International Conference on Fuzzy Systems",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "H. Ohtake",
+            "H.O. Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7304,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Development of a Rule-based Calibration Method for Diesel Engines",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Yusuke Nozaki",
+            "Takao Fukuma",
+            "Kazuo Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7278,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "A Sum of Squares Approach to Stability Analysis of Polynomial Fuzzy Systems",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "Proceedings of the American Control Conference",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "Hiroto Yoshida",
+            "Hiroshi Ohtake",
+            "Hua O. Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7421,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "On the concepts of regulator and observer of fuzzy control systems",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "M. Sano"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7429,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Stability analysis of neural networks using stability conditions of fuzzy systems",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "M. Sano"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7246,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Fuzzy Model-Based Servo and Model Following Control for Nonlinear Systems",
+        "organization": "The University of Electro-Communications",
+        "abstract": "This correspondence presents servo and nonlinear model following controls for a class of nonlinear systems using the Takagi-Sugeno fuzzy model-based control approach. First, the construction method of the augmented fuzzy system for continuous-time nonlinear systems is proposed by differentiating the original nonlinear system. Second, the dynamic fuzzy servo controller and the dynamic fuzzy model following controller, which can make outputs of the nonlinear system converge to target points and to outputs of the reference system, respectively, are introduced. Finally, the servo and model following controller design conditions are given in terms of linear matrix inequalities. Design examples illustrate the utility of this approach.",
+        "email": "",
+        "conf": "IEEE TRANSACTIONS ON CYBERNETICS",
+        "coauthors": [
+            "Hiroshi Ohtake",
+            "Kazuo Tanaka",
+            "Hua O. Wang"
+        ],
+        "keywords": "Fuzzy model-based control,model following control,servo control"
+    },
+    {
+        "id": 7240,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "A polynomial observer design for a wider class of polynomial fuzzy systems",
+        "organization": "The University of Electro-Communications",
+        "abstract": "This paper presents a polynomial fuzzy observer design for a wider class of polynomial fuzzy systems via a sum of squares (SOS, for brevity) approach. The proposed SOS-based framework provides a number of innovations and improvements over the existing LMI-based approaches to Takagi-Sugeno (T-S) fuzzy controller and observer designs. First, we briefly summarize previous results for a class of polynomial fuzzy systems that is more general representation of the well-known T-S fuzzy system. Next, we propose a polynomial fuzzy observer to estimate states in a wider class of polynomial fuzzy systems and derive SOS conditions to design polynomial fuzzy controllers and observers. A remarkable feature of the SOS design conditions is that they realize the so-called separation principle, that is, that a polynomial fuzzy controller and observer for this class can be separately designed without lack of guaranteeing the stability of the overall control system in addition to converging state estimation error (via the observer) to zero. The design conditions in the proposed approach can be represented in terms of SOS and are symbolically and numerically solved via the recent developed SOSTOOLS and a semidefinite program (SDP) solver, respectively. To illustrate the validity and applicability of the proposed approach, a design example is provided. The example demonstrates advantages of the SOS-based approach for the existing LMI approaches to T-S fuzzy observer designs.",
+        "email": "",
+        "conf": "IEEE International Conference on Fuzzy Systems",
+        "coauthors": [
+            "Toshiaki Seo",
+            "Hiroshi Ohtake",
+            "Kazuo Tanaka",
+            "Ying-Jen Chen",
+            "Hua Owen Wang"
+        ],
+        "keywords": "polynomial fuzzy controller,polynomial fuzzy observer,polynomial fuzzy system,sum of squares"
+    },
+    {
+        "id": 7406,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Fuzzy trajectory control and GA-based obstacle avoidance of a truck with five trailers",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "K. Yoshioka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7333,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "LMI Control Performance Conditions and Designs",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "Owen Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7243,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Fuzzy Model-based Servo Control with Constraints on both of Inputs and States",
+        "organization": "The University of Electro-Communications",
+        "abstract": "This paper presents servo control for nonlinear systems with constraints on both of inputs and states using the fuzzy model-based control approach. In our previous paper, we proposed servo control with input constraint by introducing input difference between present input and final input. However, it is difficult to constrain both of state of the nonlinear systems and the control input at the same time since time-derivatives of state are used. In this paper, we construct the nonlinear error system based on error vector between state and the target point for servo control. By employing the error system representation and the input difference, servo control with constraints on both of inputs and states can be achieved. We derive LMI conditions for designing servo controller and for constraining control inputs and states. Servo controller with constraints is designed by simultaneously solving servo controller design condition and the constraint conditions. A design example illustrates the utility of this approach.",
+        "email": "",
+        "conf": "IEEE International Symposium on Intelligent Control",
+        "coauthors": [
+            "Hiroshi Ohtake",
+            "Kazuo Tanaka",
+            "Hua O. Wang"
+        ],
+        "keywords": "Nonlinear systems,Servomotors,Fuzzy control,Linear systems"
+    },
+    {
+        "id": 7361,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Parallel distributed compensation for Takagi-Sugeno fuzzy models: multiobjective controller design",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "Proceedings of the American Control Conference",
+        "coauthors": [
+            "Jing Li",
+            "D. Niemann",
+            "H.O. Wang",
+            "Kazuo Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7332,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Fuzzy Observer Design",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "Hua O. Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7295,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "LMI-based controller design for dynamic variable structure systems",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Hiroshi Ohtake",
+            "Kazuo Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7296,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Electroencephalogram-Based Control of an Electric Wheelchair",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE Transactions on Robotics",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "Kazuyuki Matsunaga",
+            "Hua O. Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7242,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Stability of Fuzzy Controllers",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Kazuo Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7299,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Speed control of a sonar-based mobile robot determining sensing and action strategy simultaneously",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Takanori Emaru",
+            "Kazuo Tanaka",
+            "T. Tsuchiya"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7420,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Advanced fuzzy control of a trailer type mobile robot-stability analysis and model-based fuzzy control",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Kazuo Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7335,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Multi-objective structure design for mechanical systems",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "S. Hori",
+            "Kazuo Tanaka",
+            "H.O. Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7369,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Dynamic output feedback designs for nonlinear systems",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "Tsuyoshi Hori",
+            "Hua O. Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7314,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Electroencephalogram-based Control of a Mobile Robot",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEJ Transactions on Electronics Information and Systems",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "Kazuyuki Matsunaga",
+            "Shigeki Hori"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7318,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Fuzzy modeling via sector nonlinearity concept",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "Integrated Computer Aided Engineering",
+        "coauthors": [
+            "Hiroshi Ohtake",
+            "Kazuo Tanaka",
+            "Owen Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7365,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "New robust and optimal designs for Takagi-Sugeno fuzzy control systems",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "Tsuyoshi Hori",
+            "Hua O. Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7223,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Stabilization analysis of single-input polynomial fuzzy systems using control Lyapunov functions",
+        "organization": "The University of Electro-Communications",
+        "abstract": "This paper presents a novel method for stabilization analysis of the single-input polynomial fuzzy systems using a sum of squares (SOS) approach to construct control Lyapunov functions (CLFs) for the systems. First, we represent a nonlinear system as a polynomial fuzzy system. Then, sufficient conditions in SOS terms for a positive definite function to become a CLF is presented. We solve the sufficient conditions using SOS optimization technique to construct the CLF. Finally, after a CLF is constructed, the controller for the system is designed using Sontag's formula. To illustrate the validity of the proposed approach, a design example is provided.",
+        "email": "",
+        "conf": "IEEE International Conference on Fuzzy Systems",
+        "coauthors": [
+            "Radian Furqon",
+            "Ying-Jen Chen",
+            "Motoyasu Tanaka",
+            "Kazuo Tanaka",
+            "Hua Owen Wang"
+        ],
+        "keywords": "Polynomials,Nonlinear systems,Numerical models,Analytical models,Control design,Lyapunov methods,Fuzzy systems"
+    },
+    {
+        "id": 7301,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "TP model transformation based stabilization of a 3-DOF RC helicopter",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Peter Baranyi",
+            "Kazuo Tanaka",
+            "Pter Korondi"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7307,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Speed Control of a Sonar-Based Mobile Robot By Using Integration-Type Ultrasonic Wave Sensor(Sensing and Data FusionSession: MA1-A)",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Takanori Emaru",
+            "Kazuo Tanaka",
+            "Takeshi TSUCHIYA"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7346,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "New parallel distributed compensation using time derivative of membership functions: A fuzzy Lyapunov approach",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "Tsuyoshi Hori",
+            "Hua O. Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7440,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Fuzzy modeling by ID3 algorithm and its application to prediction",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Tetsuji Tani",
+            "Makoto Sakoda",
+            "Kazuo Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7359,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Multiobjective dynamic feedback control of Takagi-Sugeno model via LMIs",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Jing Li",
+            "David Niemann",
+            "Owen Wang",
+            "Kazuo Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7211,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Smooth control of an articulated mobile robot with switching constraints",
+        "organization": "The University of Electro-Communications",
+        "abstract": "The paper describes a smooth controller of an articulated mobile robot with switching constraints. The use of switching constraints associated with grounded/lifted wheels is an effective method of controlling various motions; e.g. the avoidance of a moving obstacle. A model of an articulated mobile robot that has active and passive wheels and active joints with switching constraints is derived. A controller that accomplishes the trajectory tracking of the robot’s head and subtasks using smooth joint input is proposed on the basis of the model. Simulations and experiments are presented to show the effectiveness of the proposed controller.",
+        "email": "",
+        "conf": "Advanced Robotics",
+        "coauthors": [
+            "Motoyasu Tanaka",
+            "Mizuki Nakajima",
+            "Kazuo Tanaka"
+        ],
+        "keywords": "Articulated mobile robot, switching constraints, kinematic redundancy, trajectory tracking, snake robot, switched system"
+    },
+    {
+        "id": 7360,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Fuzzy descriptor systems: stability analysis and design via LMIs",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "Proceedings of the American Control Conference",
+        "coauthors": [
+            "Tadanari Taniguchi",
+            "Kazuo Tanaka",
+            "Kazuo Yamafuji",
+            "Hua O. Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7232,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Wireless Vision-Based Stabilization of Indoor Microhelicopter",
+        "organization": "The University of Electro-Communications",
+        "abstract": "This paper presents wireless vision-based stabilization of an indoor microhelicopter via visual simultaneous localization and mapping. The so-called parallel tracking and mapping (PTAM) technique using a small single wireless camera on the helicopter is utilized to detect the position and attitude of the helicopter. We construct the measurement system that is able to calibrate the mapping between local coordinate system in the PTAM and world coordinate system and is able to realize noise detection and elimination. In addition, we design the guaranteed cost (stable) controller for the dynamics of the helicopter via a linear matrix inequality approach. Although path tracking control only via the small single wireless vision sensor is a quite difficult task, the control results demonstrate the utility of our approach.",
+        "email": "",
+        "conf": "IEEE/ASME Transactions on Mechatronics",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "Hiroshi Ohtake",
+            "Motoyasu Tanaka",
+            "Hua Owen Wang"
+        ],
+        "keywords": "Guaranteed cost control,indoor microhelicopter,simultaneous localization and mapping (SLAM),wireless vision-based stabilization"
+    },
+    {
+        "id": 7297,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Coordinated Motion Control of Swarms with Dynamic Connectivity in Potential Flows",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Guohua Ye",
+            "Owen Wang",
+            "Kazuo Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7437,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Manual control of an intrinsically unstable system and its modeling by fuzzy logic",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "Information Sciences",
+        "coauthors": [
+            "Toshiro Terano",
+            "Shigehiro Masui",
+            "Kazuo Tanaka",
+            "Yujiro Murayama"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7285,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "A Descriptor system approach to fuzzy control system designs using fuzzy Lyapunov function",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "Proceedings of the American Control Conference",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "Hiroshi Ohtake",
+            "H.O. Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7257,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "INFORMATION CONTROL IN A UNIFIED FRAMEWORK OF CONSENSUS SEEKING",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Henri Aguesse",
+            "Owen Wang",
+            "Kazuo Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7260,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Passive Dynamic Walking with Elastic Energy",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Masahiro Mizuno",
+            "Hiroshi Ohtake",
+            "Kazuo Tanaka",
+            "Owen Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7352,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Stable switching fuzzy control and its application to a hovercraft type vehicle",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE International Conference on Fuzzy Systems",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "Masaaki Iwasaki",
+            "H.O. Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7261,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Development of a variable-wing mechanism based on flapping motion of birds",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Taku Yokoyama",
+            "Kazuo Tanaka",
+            "Hiroshi Ohtake"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7372,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "A unified approach to controlling chaos via an LMI-based fuzzy control system design",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE Transactions on Circuits and Systems I Fundamental Theory and Applications",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "Takayuki Ikeda",
+            "Hua O. Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7385,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "An LMI approach to fuzzy controller designs based on relaxed stability conditions",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "T. Ikeda",
+            "H.O. Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7363,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Nonlinear model following control via Takagi-Sugeno fuzzy model",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "Proceedings of the American Control Conference",
+        "coauthors": [
+            "Tadanari Taniguchi",
+            "Kazuo Tanaka",
+            "Kazuo Yamafuji",
+            "Hua O. Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7231,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "A Takagi-Sugeno fuzzy model approach to vision-based control of a micro helicopter",
+        "organization": "The University of Electro-Communications",
+        "abstract": "This paper presents hovering control of an indoor micro helicopter only using single visual sensor feedback. The control technique is based on the parallel tracking and mapping (PTAM), a kind of visual simultaneous localization and mapping, using a small single wireless camera on the helicopter. The six degree of freedom of the helicopter is detected via the PTAM. The nonlinear dynamics of the helicopter is converted to a Takagi-Sugeno fuzzy model. To design the guaranteed cost (stable) controller, a Takagi-Sugeno fuzzy model-based design is carried out via a linear matrix inequality approach. The hovering control results demonstrate the utility of our approach even though single wireless vision sensor based stabilization is extremely a difficult task in practice.",
+        "email": "",
+        "conf": "IEEE Conference on Decision and Control (CDC)",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "Hiroshi Ohtake",
+            "Motoyasu Tanaka",
+            "Hua O. Wang"
+        ],
+        "keywords": "Helicopters,Wireless communication,Cameras,Wireless sensor networks,Takagi-Sugeno model,Payloads,Noise"
+    },
+    {
+        "id": 7320,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Polar coordinate fuzzy model and stability analysis",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "Proceedings of the American Control Conference",
+        "coauthors": [
+            "H. Ohtake",
+            "Kazuo Tanaka",
+            "H.O. Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7269,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Switching Fuzzy Model based Model Following Control for Discrete-time Systems",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE International Conference on Fuzzy Systems",
+        "coauthors": [
+            "Hiroshi Ohtake",
+            "Kazuo Tanaka",
+            "Owen Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7268,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Stochastic controlling tolerable fault of Network Control Systems",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "Proceedings of the American Control Conference",
+        "coauthors": [
+            "Chunxi Yang",
+            "Zhi-Hong Guan",
+            "Jian Huang",
+            "Kazuo Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7253,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Guaranteed Cost Control of Polynomial Fuzzy Systems via a Sum of Squares Approach",
+        "organization": "The University of Electro-Communications",
+        "abstract": "This paper presents the guaranteed cost control of polynomial fuzzy systems via a sum of squares (SOS) approach. First, we present a polynomial fuzzy model and controller that are more general representations of the well-known Takagi-Sugeno (T-S) fuzzy model and controller, respectively. Second, we derive a guaranteed cost control design condition based on polynomial Lyapunov functions. Hence, the design approach discussed in this paper is more general than the existing LMI approaches (to T-S fuzzy control system designs) based on quadratic Lyapunov functions. The design condition realizes a guaranteed cost control by minimizing the upper bound of a given performance function. In addition, the design condition in the proposed approach can be represented in terms of SOS and is numerically (partially symbolically) solved via the recent developed SOSTOOLS. To illustrate the validity of the design approach, two design examples are provided. The first example deals with a complicated nonlinear system. The second example presents micro helicopter control. Both the examples show that our approach provides more extensive design results for the existing LMI approach.",
+        "email": "",
+        "conf": "IEEE transactions on systems man and cybernetics. Part B Cybernetics: a publication of the IEEE Systems Man and Cybernetics Society",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "Hiroshi Ohtake",
+            "Hua Owen Wang"
+        ],
+        "keywords": "Guaranteed cost control,polynomial fuzzy control system,polynomial Lyapunov function,stability,sum of squares (SOS)"
+    },
+    {
+        "id": 7345,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Fuzzy Control of Nonlinear Time-Delay Systems: Stability and Design Issues",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "Proceedings of the American Control Conference",
+        "coauthors": [
+            "Yongru Gu",
+            "H.O. Wang",
+            "Kazuo Tanaka",
+            "Linda Bushnell"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7236,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Polynomial Fuzzy Observer Designs: A Sum-of-Squares Approach",
+        "organization": "The University of Electro-Communications",
+        "abstract": "This paper presents a sum-of-squares (SOS) approach to polynomial fuzzy observer designs for three classes of polynomial fuzzy systems. The proposed SOS-based framework provides a number of innovations and improvements over the existing linear matrix inequality (LMI)-based approaches to Takagi-Sugeno (T-S) fuzzy controller and observer designs. First, we briefly summarize previous results with respect to a polynomial fuzzy system that is a more general representation of the well-known T-S fuzzy system. Next, we propose polynomial fuzzy observers to estimate states in three classes of polynomial fuzzy systems and derive SOS conditions to design polynomial fuzzy controllers and observers. A remarkable feature of the SOS design conditions for the first two classes (Classes I and II) is that they realize the so-called separation principle, i.e., the polynomial fuzzy controller and observer for each class can be separately designed without lack of guaranteeing the stability of the overall control system in addition to converging state-estimation error (via the observer) to zero. Although, for the last class (Class III), the separation principle does not hold, we propose an algorithm to design polynomial fuzzy controller and observer satisfying the stability of the overall control system in addition to converging state-estimation error (via the observer) to zero. All the design conditions in the proposed approach can be represented in terms of SOS and are symbolically and numerically solved via the recently developed SOSTOOLS and a semidefinite-program solver, respectively. To illustrate the validity and applicability of the proposed approach, three design examples are provided. The examples demonstrate the advantages of the SOS-based approaches for the existing LMI approaches to T-S fuzzy observer designs. ",
+        "email": "",
+        "conf": "IEEE transactions on systems man and cybernetics. Part B Cybernetics: a publication of the IEEE Systems Man and Cybernetics Society",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "Hiroshi Ohtake",
+            "Toshiaki Seo",
+            "Motoyasu Tanaka",
+            "Hua Owen Wang"
+        ],
+        "keywords": "Polynomial fuzzy observer,polynomial fuzzy system,separation principle,stability,sum of squares (SOS)"
+    },
+    {
+        "id": 7222,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Nonlinear Control of F16 Aircraft via Multiple Nonlinear Model Generation for Any Trimmed Equilibriums",
+        "organization": "The University of Electro-Communications",
+        "abstract": "This paper presents a practical approach of nonlinear control of the F16 aircraft via multiple nonlinear model generation for any trimmed equilibriums. The approach is realized using the framework of a Takagi-Sugeno (T-S) fuzzy modeling and control. The nonlinear control algorithm consists of three parts. The first part determines a trimmed equilibrium of the F16 dynamics for a given desired flight condition. The second part generates a T-S fuzzy model from the F16 dynamics around the trimmed equilibrium determined in the first part. In the third part, a linear matrix inequality based design is carried out to automatically design a T-S fuzzy controller satisfying some kinds of performance from the T-S fuzzy model generated in the second part. Since there are an infinite number of trimmed equilibriums in the F16 dynamics and the trimmed equilibriums widely change according to different flight conditions, T-S fuzzy models are multiply re-generated according to widely change of the trimmed equilibriums. T-S fuzzy controllers are also re-designed from re-generated T-S fuzzy models whenever different desired flight conditions are selected. Control performance of the proposed control is tested for the original dynamics (not T-S fuzzy models). The testing results demonstrate the utility of the proposed approach of nonlinear control of the F16 aircraft via multiple nonlinear model generation for any trimmed equilibriums.",
+        "email": "",
+        "conf": "International Journal of Fuzzy Systems",
+        "coauthors": [
+            "Motoyasu Tanaka",
+            "Ken Yamaguchi",
+            "Daisuke Ogura",
+            "Ying-Jen Chen",
+            "Kazuo Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7255,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Parallel Distributed Compensation Based Stabilization of A 3-DOF RC Helicopter: A Tensor Product Transformation Based Approach.",
+        "organization": "The University of Electro-Communications",
+        "abstract": "This paper presents a control solution for the stabilization of the 3-DOF RC helicopter via the combination of the TP (Tensor Product) model transformation and the PDC (Parallel Distributed Compensation) control design framework. First we recall the nonlinear model of the RC helicopter and its simplified version, in order, to facilitate control design. Then we execute the TP model transformation on the simplified model to yield its TP model representation, that is a kind of polytopic model with specific characteristics, whereupon the PDC framework can immediately be applied. The control design considers practical control specifications such as: good speed of response and physical constrain on the control effort to avoid actuator saturations. We guarantee these specifications by LMI (Linear Matrix Inequality) conditions developed under the PDC frameworks. Further, we avoid the discrepancies, introduced via the simplification of the model, by applying LMI conditions specialized for robust control. By simultaneously solving these LMI conditions, we render a stabilizing nonlinear controller that achieves good speed of response with small control effort without actuator saturations. Simulation results are included to validate the control design. It will be pointed out that the resulting controller is equivalent with the controller successfully applied in the real control experiment of the helicopter presented in a recent paper. The main conclusion of this paper is, that the proposed design process is systematic, non-heuristic and straightforward, the stability proof of the resulting controller is tractable via the feasibility test of LMIs and, hence, exact. The whole design procedure is automatically computed via commercialized mathematical tools (MATLAB LMI Toolbox) without analytical interaction. The computational time is about minutes on a regular PC.",
+        "email": "",
+        "conf": "Journal of Advanced Computational Intelligence and Intelligent Informatics",
+        "coauthors": [
+            "Peter Baranyi",
+            "Peter Korondi",
+            "Kazuo Tanaka"
+        ],
+        "keywords": "3-DOF helicopter, robust control, linear parameter-varying (LPV) model, TP model transformation, parallel distributed compensation (PDC), linear matrix inequalities (LMI)"
+    },
+    {
+        "id": 7266,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Delay independent synchronization of complex network via hybrid control",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "Proceedings of the American Control Conference",
+        "coauthors": [
+            "Meng Yang",
+            "Yan-Wu Wang",
+            "H.O. Wang",
+            "Zhi-Hong Guan"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7218,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Mixed Integer Programming-Based Semiautonomous Step Climbing of a Snake Robot Considering Sensing Strategy",
+        "organization": "The University of Electro-Communications",
+        "abstract": "We propose a control method for semiautonomous step climbing by a snake robot. Our method is based on mixed integer quadratic programming to generate the reference trajectory of the head of the snake robot online. One of the features of the method is that it determines suitable positions and time duration in which to sense the surroundings before approaching the step. Furthermore, constraints on velocity and acceleration are taken into account, so that the snake robot can securely follow the generated trajectory. Our method was applied to a snake robot equipped with a laser range finder, which is used for step detection. Experiments were performed to verify the efficacy of the method.",
+        "email": "",
+        "conf": "Control Systems Technology IEEE Transactions on",
+        "coauthors": [
+            "Kazuyuki Kon",
+            "Motoyasu Tanaka",
+            "Kazuo Tanaka"
+        ],
+        "keywords": "Mixed integer programming (MIP),sensing strategy,snake robot,step climbing,trajectory generation"
+    },
+    {
+        "id": 7276,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Application of FFP-actuators to legged locomotion robots",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Mami Nishida",
+            "Kazuo Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7439,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "LMI-based fuzzy control: Fuzzy regulator and fuzzy observer design via LMIs",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "Fuzzy control. Synthesis and analysis",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "Owen Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7368,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Universal trajectory tracking control using fuzzy descriptor systems",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "Proceedings of the IEEE Conference on Decision and Control",
+        "coauthors": [
+            "T. Tadanari",
+            "Kazuo Tanaka",
+            "H.O. Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7371,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Fuzzy Observer-Based Control via LMIs",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "Tadanari TANIGUCHI"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7347,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "A Dual Design Problem via Multiple Lyapunov Functions.",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE International Conference on Fuzzy Systems",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "Tsuyoshi Hori",
+            "Owen Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7200,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Development and Control of Articulated Mobile Robot for Climbing Steep Stairs",
+        "organization": "The University of Electro-Communications",
+        "abstract": "In this paper, we develop an articulated mobile robot that can climb stairs, and also move in narrow spaces and on 3-D terrain. This paper presents two control methods for this robot. The first is a 3-D steering method that is used to adapt the robot to the surrounding terrain. In this method, the robot relaxes its joints, allowing it to adapt to the terrain using its own weight, and then, resumes its motion employing the follow-the-leader method. The second control method is the semi-autonomous stair climbing method. In this method, the robot connects with the treads of the stairs using a body called a connecting part, and then shifts the connecting part from its head to its tail. The robot then uses the sensor information to shift the connecting part with appropriate timing. The robot can climb stairs using this method even if the stairs are steep, and the sizes of the riser and the tread of the stairs are unknown. Experiments are performed to demonstrate the effectiveness of the proposed methods and the developed robot",
+        "email": "",
+        "conf": "IEEE/ASME Transactions on Mechatronics",
+        "coauthors": [
+            "Motoyasu Tanaka",
+            "Mizuki Nakajima",
+            "Yosuke Suzuki",
+            "Kazuo Tanaka"
+        ],
+        "keywords": "Articulated mobile robot,plant inspection,search and rescue,stair climbing,terrain adaptability"
+    },
+    {
+        "id": 7432,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Some properties of fuzzy nonlinear feedback systems",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "M Sano"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7350,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Dynamic Parallel Distributed Compensation for Takagi-Sugeno Fuzzy Systems: An LMI Approach",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "Information Sciences",
+        "coauthors": [
+            "Jing Li",
+            "Owen Wang",
+            "David Niemann",
+            "Kazuo Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7412,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Model-based fuzzy control of a trailer type mobile robot",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Kazuo Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7262,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Autonomous flight control of flapping-of-wings robot using GPS",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Hiromasa Ueno",
+            "Hiroshi Ohtake",
+            "Kazuo Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7215,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Stability Analysis and Region-of-Attraction Estimation Using Piecewise Polynomial Lyapunov Functions: Polynomial Fuzzy Model Approach",
+        "organization": "The University of Electro-Communications",
+        "abstract": "This paper proposes sum-of-squares (SOS) methodologies for stability analysis and region-of-attraction (ROA) estimation for nonlinear systems represented by polynomial fuzzy models via piecewise polynomial Lyapunov functions (PPLFs). At first, two SOS-based global stability criteria are proposed by applying maximum-type and minimum-type PPLFs, respectively. It is known that less-conservative results can be obtained by reducing global stability to local stability, since it is usually the case for nonlinear systems that the stability cannot be reached globally. Therefore, based on the two types of PPLFs, two local stability criteria are further proposed with the algorithms that enlarge the estimated ROA as much as possible. The constraints for checking (global and local) stability and enlarging the estimated ROA are represented in terms of bilinear SOS problems. Hence, the path-following method is applied to solve the bilinear SOS problems in the proposed methodologies. Finally, some examples are provided to illustrate the utility of the proposed methodologies.",
+        "email": "",
+        "conf": "IEEE Transactions on Fuzzy Systems",
+        "coauthors": [
+            "Ying-Jen Chen",
+            "Motoyasu Tanaka",
+            "Kazuo Tanaka",
+            "Hua Owen Wang"
+        ],
+        "keywords": "Polynomials,Stability criteria,Lyapunov methods,Nonlinear systems,Analytical models,Estimation"
+    },
+    {
+        "id": 7198,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Control Synthesis for Polynomial Fuzzy Systems Using Line-Integral Polynomial Fuzzy Lyapunov Function",
+        "organization": "The University of Electro-Communications",
+        "abstract": "In this paper, we present a generalization of the line-integral fuzzy Lyapunov function. Our proposal allows considering a conservative vector field of homogeneous polynomials in the consequent of the IF-THEN fuzzy rules, resulting in a line-integral polynomial fuzzy Lyapunov function. Based on the proposed Lyapunov function and using Positivstellensatz, we derive sum of squares nonconvex control synthesis conditions which are applicable to both Tagaki-Sugeno and polynomial fuzzy systems. Moreover, an initialization step for the path following iterative algorithm is proposed. Finally, the effectiveness of the relaxed conditions is demonstrated by two benchmark examples.",
+        "email": "",
+        "conf": "International Conference on Systems, Man, and Cybernetics (SMC). IEEE",
+        "coauthors": [
+            "Jairo Moreno Saenz",
+            "Motoyasu Tanaka",
+            "Kazuo Tanaka"
+        ],
+        "keywords": "Control synthesis,polynomial fuzzy model,lineintegral polynomial Lyapunov function,Positivstellensatz."
+    },
+    {
+        "id": 7237,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "An SOS-based observer design for polynomial fuzzy systems",
+        "organization": "The University of Electro-Communications",
+        "abstract": "This paper presents a sum of squares (SOS, for brevity) based observer design for a more general class of polynomial fuzzy systems with the polynomial matrices A i (x(t)) and B i (x(t)) that are permitted to be dependent of the states x(t). First, we briefly summarize previous works on SOS-based observer designs for two limited classes of polynomial fuzzy systems. To overcome the difficulty of the fact that does not realize the so-called separation principle design for the more general class, this paper provides a practical design procedure of a polynomial fuzzy controller and a polynomial fuzzy observer without lack of guaranteeing the stability of the overall control system in addition to converging state estimation error (via the observer) to zero. The design approach discussed in this paper is more general than the existing LMI approaches (to T-S fuzzy controller and observer designs) and also than the previous SOS-based observer designs. To illustrate the validity of the design approach, a design example is provided. The example shows the utility of our SOS approach to the polynomial fuzzy observer-based control for the more general class of polynomial fuzzy systems.",
+        "email": "",
+        "conf": "Proceedings of the American Control Conference",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "Hiroshi Ohtake",
+            "Toshiaki Seo",
+            "Hua O. Wang"
+        ],
+        "keywords": "Polynomials,Observers,Fuzzy systems,Nonlinear systems,Control systems,Estimation error,Stability analysis"
+    },
+    {
+        "id": 7317,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "A multiple Lyapunov function approach to stabilization of fuzzy control systems",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE Transactions on Fuzzy Systems",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "Tsuyoshi Hori",
+            "Hua O. Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7265,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "A Sum of Squares Approach to Guaranteed Cost Control of Polynomial Discrete Fuzzy Systems",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Kazuo Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7234,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "A descriptor system approach to servo control for nonlinear systems",
+        "organization": "The University of Electro-Communications",
+        "abstract": "This paper presents fuzzy model-based servo control for a class of nonlinear descriptor systems. In our previous paper, servo control based on error dynamics using error vector and input difference was proposed. In this paper, we extend the servo control technique to nonlinear descriptor systems. The descriptor system can represent larger class of nonlinear systems than the typical state-space models. We show the construction method of fuzzy descriptor system for servo control and derive servo controller design conditions for fuzzy descriptor systems in the form of LMI. Moreover, the servo control which is applicable to switching of target point is also discussed. Design examples illustrate the utility of this approach.",
+        "email": "",
+        "conf": "IEEE International Conference on Fuzzy Systems",
+        "coauthors": [
+            "Hiroshi Ohtake",
+            "Sho Machida",
+            "Kazuo Tanaka",
+            "Hua O. Wang"
+        ],
+        "keywords": "Servomotors,Vectors,Nonlinear dynamical systems,Linear systems,Electronic mail"
+    },
+    {
+        "id": 7251,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Stabilization of complex switched networks with two types of delays via impulsive control",
+        "organization": "The University of Electro-Communications",
+        "abstract": "This paper presents a general complex switched network (CSN) model that contains switching behaviors in both its nodes and topology configuration. Stabilization of such directed time-varying CSNs with two types of delays is investigated. The two types of delays consist of the system delay at each node and the coupling time-delay between nodes. Based on the Lyapunov stability theory, delay independent stabilizing conditions for CSNs with both types of delays are obtained via impulsive control. A numerical example is provided for illustration.",
+        "email": "",
+        "conf": "Proceedings of the American Control Conference",
+        "coauthors": [
+            "Meng Yang",
+            "Yan-Wu Wang",
+            "Hua O. Wang",
+            "Hiroshi Ohtake",
+            "Kazua Tanaka",
+            "Jiang-Wen Xiao"
+        ],
+        "keywords": "Network topology,Complex networks,Delay systems,Lyapunov method,Mechanical engineering,Rhythm,Pathology,Optimal control,Control systems,Stability"
+    },
+    {
+        "id": 7303,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Polar Coordinate Fuzzy Controller Design Based on Parameter-Dependent Lyapunov Function",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "H. Ohtake",
+            "Kazuo Tanaka",
+            "H.O. Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7309,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Internet-based remote stabilization for nonlinear systems",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE International Conference on Fuzzy Systems",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "H. Ohtake",
+            "H.O. Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7386,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Model-based fuzzy control system design for magnetic bearings",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "T. Kosaki",
+            "M. Sano",
+            "Kazuo Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7430,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Fuzzy Modeling by Machine Learning and Its Application to Prediction of Heater Temperature",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Tetsuji TANI",
+            "Makoto SAKODA",
+            "Motohide UMANO",
+            "Kazuo Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7202,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "An SOS-Based Control Lyapunov Function Design for Polynomial Fuzzy Control of Nonlinear Systems",
+        "organization": "The University of Electro-Communications",
+        "abstract": "This paper deals with a sum-of-squares (SOS)-based control Lyapunov function (CLF) design for polynomial fuzzy control of nonlinear systems. The design starts with exactly replacing (smooth) nonlinear systems dynamics with polynomial fuzzy models, which are known as universal approximators. Next, global stabilization conditions represented in terms of SOS are provided in the framework of the CLF design, i.e., a stabilizing controller with nonparallel distributed compensation form is explicitly designed by applying Sontag's control law, once a CLF for a given nonlinear system is constructed. Furthermore, semiglobal stabilization conditions on operation domains are derived in the same fashion as in the global stabilization conditions. Both global and semiglobal stabilization problems are formulated as SOS optimization problems, which reduce to numerical feasibility problems. Five design examples are given to show the effectiveness of our proposed approach over the existing linear matrix inequality and SOS approaches.",
+        "email": "",
+        "conf": "IEEE Transactions on Fuzzy Systems",
+        "coauthors": [
+            "Radian Furqon",
+            "Ying-Jen Chen",
+            "Motoyasu Tanaka",
+            "Kazuo Tanaka",
+            "Hua O. Wang"
+        ],
+        "keywords": "Control Lyapunov function (CLF),global stabilization,operation domain,polynomial fuzzy system,semiglobal stabilization,sum of squares (SOS)"
+    },
+    {
+        "id": 7221,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "A Simple Passive Attitude Stabilizer for Palm-Size Aerial Vehicles",
+        "organization": "The University of Electro-Communications",
+        "abstract": "This paper presents a simple passive attitude stabilizer (PAS) for vision-based stabilization of palm-size aerial vehicles. First, a mathematical dynamic model of a palm-size aerial vehicle with the proposed PAS is constructed. Stability analysis for the dynamics is carried out in terms of Lyapunov stability theory. The analysis results show that the proposed stabilizer guarantees passive stabilizing behavior, i.e., passive attitude recovering, of the aerial vehicle for small perturbations from a stability theory point of view. Experimental results demonstrate the utility of the proposed PAS for the aerial vehicle. ",
+        "email": "",
+        "conf": "IEEE/ASME Transactions on Mechatronics",
+        "coauthors": [
+            "Motoyasu Tanaka",
+            "Ying-Jen Chen",
+            "Kazuo Tanaka",
+            "Hua O. Wang"
+        ],
+        "keywords": "Lyapunov stability theory,palm-size aerial vehicle,passive attitude stabilizer"
+    },
+    {
+        "id": 7366,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "An integrated fuzzy control system design for nonlinear systems-fuzzy modeling and robust controller design via LMIs",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "Proceedings of the IEEE Conference on Decision and Control",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "Tsuyoshi Hori",
+            "Kazuo Yamafuji",
+            "Hua O. Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7313,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Fast Calculating Method for Eliminating the Impulsive Noise",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Takanori Emaru",
+            "Takeshi Tsuchiya",
+            "Kazuo Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7377,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Fuzzy control of chaotic systems using LMIs: Regulation synchronization and chaos model following",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE International Conference on Fuzzy Systems",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "H.O. Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7248,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "A Sum-of-Squares Approach to Modeling and Control of Nonlinear Dynamical Systems With Polynomial Fuzzy Systems",
+        "organization": "The University of Electro-Communications",
+        "abstract": "This paper presents a sum of squares (SOS) approach for modeling and control of nonlinear dynamical systems using polynomial fuzzy systems. The proposed SOS-based framework provides a number of innovations and improvements over the existing linear matrix inequality (LMI)-based approaches to Takagi-Sugeno (T-S) fuzzy modeling and control. First, we propose a polynomial fuzzy modeling and control framework that is more general and effective than the well-known T--S fuzzy modeling and control. Secondly, we obtain stability and stabilizability conditions of the polynomial fuzzy systems based on polynomial Lyapunov functions that contain quadratic Lyapunov functions as a special case. Hence, the stability and stabilizability conditions presented in this paper are more general and relaxed than those of the existing LMI-based approaches to T-S fuzzy modeling and control. Moreover, the derived stability and stabilizability conditions are represented in terms of SOS and can be numerically (partially symbolically) solved via the recently developed SOSTOOLS. To illustrate the validity and applicability of the proposed approach, a number of analysis and design examples are provided. The first example shows that the SOS approach renders more relaxed stability results than those of both the LMI-based approaches and a polynomial system approach. The second example presents an extensive application of the SOS approach in comparison with a piecewise Lyapunov function approach. The last example is a design exercise that demonstrates the viability of the SOS-based approach to synthesizing a stabilizing controller.",
+        "email": "",
+        "conf": "IEEE Transactions on Fuzzy Systems",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "Hiroto Yoshida",
+            "Hiroshi Ohtake",
+            "Hua Owen Wang"
+        ],
+        "keywords": "Polynomial fuzzy controller,polynomial fuzzy system,polynomial Lyapunov function,stability,stabilizability,sum of squares (SOS)"
+    },
+    {
+        "id": 7227,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Climbing and descending control of a snake robot on step environments based on kinematics",
+        "organization": "The University of Electro-Communications",
+        "abstract": "This paper proposes a snake robot control method for climbing and descending a step. On a multi-plane step environment, it is necessary for locomotion to transfer from one plane to another. A snake robot can move with touching several planes as its body is long and thin. In this paper, we propose a control method for accomplishing trajectory tracking of a snake robot on a step environment. The control method consists of the tracking controller, the shifting method of the robot's part connecting between the planes, and the active lifting for controlling the shape of the robot. Simulations and experiments demonstrated the effectiveness of the proposed controller and the shifting method of the connecting part of the robot's body.",
+        "email": "",
+        "conf": "Proceedings of the ... IEEE/RSJ International Conference on Intelligent Robots and Systems. IEEE/RSJ International Conference on Intelligent Robots and Systems",
+        "coauthors": [
+            "Motoyasu Tanaka",
+            "Kazuo Tanaka"
+        ],
+        "keywords": "Joining processes,Wheels,Mobile robots,Joints,Robot kinematics,Tracking"
+    },
+    {
+        "id": 7206,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Positivstellensatz relaxation for sum-of-squares stabilization conditions of polynomial fuzzy systems",
+        "organization": "The University of Electro-Communications",
+        "abstract": "This paper presents a stability analysis of polynomial fuzzy systems by applying a piecewise-polynomial-Lyapunov function approach. Polynomial fuzzy system is a general form of the well-known T-S fuzzy system. The stabilization conditions of polynomial fuzzy system are derived based on the Lyapunov stability theory that are represented in terms of sum-of-squares (SOS) and solved by utilizing the SOSOPT that is a free-third party MATLAB toolbox. A Positivstellensatz relaxation for SOS stabilization conditions of polynomial fuzzy systems is also performed in this paper to get a more relaxed result compared with other existing results. A benchmark design example is presented to show the effectiveness of Positivstellensatz relaxation for stability analysis of polynomial fuzzy systems.",
+        "email": "",
+        "conf": "World Congress of International Fuzzy Systems Association and 9th International Conference on Soft Computing and Intelligent Systems (IFSA-SCIS). IEEE",
+        "coauthors": [
+            "Alissa Ully Ashar",
+            "Motoyasu Tanaka",
+            "Kazuo Tanaka"
+        ],
+        "keywords": "Fuzzy systems,Lyapunov methods,Nonlinear systems,Mathematical model,Stability analysis,Control systems,Optimization"
+    },
+    {
+        "id": 7395,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Fuzzy-PID Controller with Fuzzy Reasoned Adaptable Control Target and Its Application to Petroleum Plant in Transient State",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Tetsuji TANI",
+            "Makoto UTASHIRO",
+            "Motohide UMANO",
+            "Kazuo Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7252,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Improved Controller Design for Switching Fuzzy Model-based Control",
+        "organization": "The University of Electro-Communications",
+        "abstract": "This paper presents improved LMI (linear matrix inequality) controller design condition for switching fuzzy model-based control using slack variable approach based on the inverse use of the elimination lemma. In our previous papers, we derived controller design conditions for augmented switching fuzzy model which consists of a switching fuzzy model and a stable linear system. However, in the papers, we have to determine the stable linear system in advance. In this paper, by employing slack variable approach based on the inverse use of the elimination lemma, we derive LMI controller design conditions for the switching fuzzy model without determining the stable linear system in advance. A design example illustrates the utility of this approach.",
+        "email": "",
+        "conf": "Proceedings of the American Control Conference",
+        "coauthors": [
+            "Hiroshi Ohtake",
+            "Kazuo Tanaka",
+            "Hua O. Wang"
+        ],
+        "keywords": "Fuzzy control,Linear systems,Fuzzy systems,State-space methods,Control theory,Control systems,Mechanical variables control,Linear matrix inequalities,Matrix converters,Takagi-Sugeno model"
+    },
+    {
+        "id": 7325,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Robust stabilization of an R/C helicopter",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Kazuo Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7401,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Fuzzy Control of an Articulated Vehicle and its Stability Analysis",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "IFAC Proceedings Volumes",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "Takahiro Kosaki",
+            "Hua O. Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7229,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Stability and stabilization conditions for Takagi-Sugeno fuzzy model via polyhedral Lyapunov functions",
+        "organization": "The University of Electro-Communications",
+        "abstract": "Polyhedral Lyapunov functions (PLFs) are universal for establishing stability of Takagi-Sugeno (T-S) fuzzy models. In this paper, a stability theorem via PLFs is presented for T-S models, and it is shown that stability can be established via linear programming. Furthermore, nonconvex stabilization conditions are stated that, if satisfied, specify a parallel distributed compensation (PDC) controller as well as a PLF which proves stability of the closed loop system. An algorithm is presented as an initial step in working around the nonconvex stabilization conditions, and has shown to be useful in the computation of PDC controllers.",
+        "email": "",
+        "conf": "Proceedings of the American Control Conference",
+        "coauthors": [
+            "Willem Esterhuizen",
+            "Hua O. Wang",
+            "Kazuo Tanaka",
+            "Xiangzhou Wang"
+        ],
+        "keywords": "Stability analysis,Lyapunov methods,Computational modeling,PD control,Linear programming,Takagi-Sugeno model"
+    },
+    {
+        "id": 7288,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Switching fuzzy controller design based on switching Lyapunov function for a class of nonlinear systems",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE TRANSACTIONS ON CYBERNETICS",
+        "coauthors": [
+            "Hiroshi Ohtake",
+            "Kazuo Tanaka",
+            "Owen Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7249,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Switching Fuzzy Model Construction based on Optimal Dividing Planes",
+        "organization": "The University of Electro-Communications",
+        "abstract": "This paper presents switching fuzzy model construction based on optimal dividing planes. In our previous papers, we proposed the switching fuzzy model with arbitrary dividing planes. However, dividing planes have been selected by controller designers before constructing the switching fuzzy model. Unfortunately, it is difficult to find suitable dividing planes for complicated nonlinear systems. Moreover, the switching fuzzy models constructed from different dividing planes are different. Therefore, the model construction affects the stability analysis results. In this paper, we propose switching fuzzy model construction method using multi-dimensional sector nonlinearity concept based on optimal dividing planes. The linear consequent parts of the switching fuzzy model based on optimal dividing planes are constructed from sectors which have minimum distance between a nonlinear system and sectors, and have richer information of the nonlinear system than the consequent parts of the ordinary Takagi-Sugeno fuzzy model. Two examples are provided to illustrate the validity of this approach.",
+        "email": "",
+        "conf": "IEEE International Conference on Fuzzy Systems",
+        "coauthors": [
+            "Hiroshi Ohtake",
+            "Kazuo Tanaka",
+            "Owen Wang"
+        ],
+        "keywords": "Fuzzy control,Nonlinear systems,Fuzzy systems,Stability analysis,State-space methods,Takagi-Sugeno model,Control theory,Optimal control,Linear systems,Fires"
+    },
+    {
+        "id": 7224,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Stability region analysis for polynomial fuzzy systems by polynomial Lyapunov functions",
+        "organization": "The University of Electro-Communications",
+        "abstract": "This paper presents a sum-of-squares (SOS) based methodology to obtain inner bounds on the region-of-attraction (ROA) for nonlinear systems represented by polynomial fuzzy systems. The methodology searches a polynomial Lyapunov function to guarantee the local stability and the invariant subset of the ROA is presented as the level set of the polynomial Lyapunov function. At first the methodology checks whether the considered system can be guaranteed to be locally asymptotically stable. After confirming that the system is guaranteed to be locally asymptotically stable, the methodology enlarges the invariant subset of the ROA as much as possible. The constraints for both of checking stability and enlarging contractively invariant set are represented in terms of bilinear SOS optimization problems. The path-following method is applied to solve the bilinear SOS optimization problems in the methodology.",
+        "email": "",
+        "conf": "IEEE International Conference on Fuzzy Systems",
+        "coauthors": [
+            "Ying-Jen Chen",
+            "Motoyasu Tanaka",
+            "Kazuo Tanaka",
+            "Hua Owen Wang"
+        ],
+        "keywords": "Polynomials,Fuzzy systems,Optimization,Lyapunov methods,Nonlinear systems,Asymptotic stability,Stability analysis"
+    },
+    {
+        "id": 7417,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Quadratic Stabilization of a Class of Nonlinear Systems via Fuzzy Control",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "Takayuki Ikeda",
+            "Owen Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7292,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Switching Fuzzy Model-based Control for Dynamical Systems with Input Nonlinearity",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE International Conference on Fuzzy Systems",
+        "coauthors": [
+            "Hiroshi Ohtake",
+            "Kazuo Tanaka",
+            "H.O. Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7388,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Fuzzy control system design via LMIs",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "T. Ikeda",
+            "H.O. Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7205,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Stability analysis for polynomial fuzzy systems based on line-integral fuzzy Lyapunov function: A copositive relaxation approach",
+        "organization": "The University of Electro-Communications",
+        "abstract": "Both Takagi-Sugeno and polynomial fuzzy model use the well-known quadratic Lyapunov function as a platform to derive stability analysis and control design conditions. However, stability and stabilization conditions based on quadratic Lyapunov function are mainly conservative. This paper presents a line-integral fuzzy Lyapunov function based stability conditions for polynomial fuzzy systems. In order to obtain more relax results, the copositive relaxation is considered. The derived conditions are expressed in terms of SOS which can be efficiently solved by using, for instance, the third-party MATLAB toolbox SOSOPT. Finally, a stability analysis example is provided to demonstrate that results obtained by copositive relaxation conditions are more relaxed than existing line-integral fuzzy Lyapunov function based approaches.",
+        "email": "",
+        "conf": "World Congress of International Fuzzy Systems Association and 9th International Conference on Soft Computing and Intelligent Systems (IFSA-SCIS). IEEE",
+        "coauthors": [
+            "Jairo Moreno Saenz",
+            "Motoyasu Tanaka",
+            "Kazuo Tanaka"
+        ],
+        "keywords": "Lyapunov methods,Stability analysis,Mathematical model,Fuzzy systems,Takagi-Sugeno model,Nonlinear systems,Modeling"
+    },
+    {
+        "id": 7357,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Robust and optimal fuzzy control: A linear matrix inequality approach",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "IFAC Proceedings Volumes",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "Tadanari Taniguchi",
+            "Hua O. Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7258,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Development of a multiple parallel link rotor for flying robots",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Shin Hasegawa",
+            "Kazuo Tanaka",
+            "Hiroshi Ohtake"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7405,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Stability analysis of neural networks via Lyapunov approach",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Kazuo Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7267,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Fuzzy model-based servo control for discrete-time nonlinear systems",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "Proceedings of the American Control Conference",
+        "coauthors": [
+            "Hiroshi Ohtake",
+            "Kazuo Tanaka",
+            "Hua O. Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7283,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Managing group behaviors in swarm systems by associations",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "Proceedings of the American Control Conference",
+        "coauthors": [
+            "Guohua Ye",
+            "H.O. Wang",
+            "Kazuo Tanaka",
+            "Zhi-Hong Guan"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7374,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Multi-objective fuzzy control of high rise/high speed elevators using LMIs",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "Proceedings of the American Control Conference",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "M. Nishimura",
+            "H.O. Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7426,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Fuzzy stability criterion of a class of nonlinear systems",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "Information Sciences",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "Manabu Sano"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7264,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "An SOS-based stable control of polynomial discrete fuzzy systems",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "Proceedings of the American Control Conference",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "Hiroshi Ohtake",
+            "Hua O. Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7402,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "An Approach to Fuzzy Control of Nonlinear Systems: Stability and Design Issues",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE Transactions on Fuzzy Systems",
+        "coauthors": [
+            "H.O. Wang",
+            "Kazuo Tanaka",
+            "Michael F Griffin"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7422,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Application of practical fuzzy-PID hybrid control system to petrochemical plant",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE International Conference on Fuzzy Systems",
+        "coauthors": [
+            "Tetsuji Tani",
+            "Motohide Umano",
+            "Makoto Utashiro",
+            "Kazuo Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7356,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "An Iterative Algorithm for Fuzzy Modeling and Controller Design",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "Tsuyoshi HORI"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7308,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Acrobatic Control of a Pendubot",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE Transactions on Fuzzy Systems",
+        "coauthors": [
+            "Wei Li",
+            "Kazuo Tanaka",
+            "Owen Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7409,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Analytical framework of fuzzy modeling and control of nonlinear systems: stability and design issues",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "Proceedings of the American Control Conference",
+        "coauthors": [
+            "H.O. Wang",
+            "Kazuo Tanaka",
+            "Mike Griffin"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7235,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "A Unified Fuzzy Model-Based Framework for Modeling and Control of Complex Systems: From Flying Vehicle Control to Brain-Machine Cooperative Control",
+        "organization": "The University of Electro-Communications",
+        "abstract": "The invited lecture in 2012 IEEE World Congress on Computational Intelligence (WCCI 2012) presents an overview of a unified fuzzy model-based framework for modeling and control of complex systems. A number of practical applications, ranging from flying vehicles control (including micro helicopter control) to brain-machine cooperative control, are provided in the lecture. The theory and applications have been developed in our laboratory [1] at the University of Electro-Communications (UEC), Tokyo, Japan, in collaboration with Prof. Hua O. Wang and his laboratory [2] at Boston University, Boston, USA. Due to lack of space, this chapter focuses on a unified fuzzy model-based framework for modeling and control of a micro helicopter that is a key application in our research.",
+        "email": "",
+        "conf": " IEEE World Congress on Computational Intelligence",
+        "coauthors": [
+            "Kazuo Tanaka"
+        ],
+        "keywords": "Linear Matrix Inequality, Fuzzy Controller, Fuzzy Control System, Guarantee Cost Control, Unmanned Helicopter "
+    },
+    {
+        "id": 7220,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "A New Sum-of-Squares Design Framework for Robust Control of Polynomial Fuzzy Systems With Uncertainties",
+        "organization": "The University of Electro-Communications",
+        "abstract": "This paper presents a new sum-of-squares (SOS, for brevity) design framework for robust control of polynomial fuzzy systems with uncertainties. Two kinds of robust stabilization conditions are derived in terms of SOS. One is global SOS robust stabilization conditions that guarantee the global and asymptotical stability of polynomial fuzzy control systems. The other is semiglobal SOS robust stabilization conditions. The latter is available for very complicated systems that are difficult to guarantee the global and asymptotical stability of polynomial fuzzy control systems. The main feature of all the SOS robust stabilization conditions derived in this paper are to be expressed as nonconvex formulations with respect to polynomial Lyapunov function parameters and polynomial feedback gains. Since a typical transformation from nonconvex SOS design conditions to convex SOS design conditions often results in some conservative issues, the new design framework presented in this paper gives key ideas to avoid the conservative issues. The first key idea is that we directly solve nonconvex SOS design conditions without applying the typical transformation. The second key idea is that we bring a so-called copositivity concept. These ideas provide some advantages in addition to relaxations. To solve our SOS robust stabilization conditions efficiently, we introduce a gradient algorithm formulated as a minimizing optimization problem of the upper bound of the time derivative of an SOS polynomial that can be regarded as a candidate of polynomial Lyapunov functions. Three design examples are provided to illustrate the validity and applicability of the proposed design framework. The examples demonstrate advantages of our new SOS design framework for the existing linear matrix inequality approaches and the existing convex SOS approach.",
+        "email": "",
+        "conf": "IEEE Transactions on Fuzzy Systems",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "Motoyasu Tanaka",
+            "Ying-Jen Chen",
+            "Hua O. Wang"
+        ],
+        "keywords": "copositivity,polynomial Lyapunov function,polynomial fuzzy system with uncertainty,robust stabilization,sum of squares"
+    },
+    {
+        "id": 7321,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Switching fuzzy control for nonlinear systems",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "H. Ohtake",
+            "Kazuo Tanaka",
+            "Wang HO"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7423,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Hybrid Control System Using Neural Network and Fuzzy Rules and Its Application to Solvent Dewaxing Plant",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Tetsuji TANI",
+            "Shunji MURAKOSHI",
+            "Motohide UMANO",
+            "Kazuo Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7396,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "An LMI-based stable fuzzy control of nonlinear systems and its application to control of chaos",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "H.O. Wang",
+            "Kazuo Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7319,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Operating feeling based design in human-robot collaborative control systems",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "N. Kanamori",
+            "Kazuo Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7438,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Minimal-Time Consensus in Autonomous Systems",
+        "organization": "The University of Electro-Communications",
+        "abstract": "Minimal-Time Consensus in Autonomous Systems",
+        "email": "",
+        "conf": "Minimal-Time Consensus in Autonomous Systems",
+        "coauthors": [
+            "Henri Aguesse",
+            "Owen Wang",
+            "Kazuo Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7338,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Structure-oriented design for a class of nonlinear systems",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "T. Taniguchi",
+            "S. Hori",
+            "H.O. Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7275,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Fuzzy Model-based Servo Control for a Class of Nonlinear Systems",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Hiroshi Ohtake",
+            "Kazuo Tanaka",
+            "Hua O. Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7384,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Fuzzy controller and observer design for backing control of a trailer-truck",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "Engineering Applications of Artificial Intelligence",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "Tadanari Taniguchi",
+            "Owen Wang"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7428,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Application of neuro-fuzzy hybrid control system to tank level control",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Tetsuji Tani",
+            "Shunji Murakoshi",
+            "Tsutomu Sato",
+            "Kazuo Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7244,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Stability analysis for the polynomial fuzzy systems by utilizing equality constraints of sum-of-squares program",
+        "organization": "The University of Electro-Communications",
+        "abstract": "This paper presents the stability analysis for polynomial fuzzy systems by utilizing the equality constraints of sum-of-squares (SOS) Program. Recently, T-S fuzzy systems have been extended to polynomial fuzzy systems, in which the consequent parts could be polynomial sub-systems. Moreover, stability and stabilization analyses for polynomial fuzzy systems have been done based on polynomial Lyapunov functions that contain quadratic Lyapunov functions as a special case. Since polynomials exist in the sub-systems and the positive definite matrices of the Lyapunov functions, the linear matrix inequality (LMI) tools are not valid for the polynomial analyses. Instead of LMI tools, SOSTOOLS of Matlab toolbox is applied to solve solutions for the polynomial analyses. The SOS program of SOSTOOLS can solve two kinds of constraints that are equality constraints and inequality constraints. The existing stability and stabilization analyses for polynomial fuzzy systems represent their conditions only in the inequality constraints. This paper analyzes the stability of the polynomial fuzzy systems by polynomial Lyapunov functions, and represents the new stability conditions not only in terms of the inequality constraints but also in terms of the equality constraints.",
+        "email": "",
+        "conf": "International Conference on System Science and Engineering. IEEE",
+        "coauthors": [
+            "Ying-Jen Chen",
+            "Hiroshi Ohtake",
+            "Kazuo Tanaka",
+            "Wen-June Wang",
+            "Hua Owen Wang"
+        ],
+        "keywords": "polynomial fuzzy system,polynomial Lyapunov function,stability,SOSTOOLS,equality constraint"
+    },
+    {
+        "id": 7410,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Parallel Distributed Compensation of Nonlinear Systems by Takagi-Sugeno Fuzzy Model",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "H.O. Wang",
+            "Kazuo Tanaka",
+            "Michael F Griffin"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7434,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "A Simplified Method on Fuzzy Identification Algorithm and Its Applications to Modeling of a Municipal Refuse Incinerator",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "Manabu SANO",
+            "Kazuyuki SUZUKI"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7280,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Adaptive Spanning-tree on Changing Topologies: Towards Emergent Behaviors in Autonomous Multi-Agent Systems",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "Proceedings of the American Control Conference",
+        "coauthors": [
+            "Henri Aguesse",
+            "Hua O. Wang",
+            "Kazuo Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7216,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Approximate Path-Tracking Control of Snake Robot Joints With Switching Constraints",
+        "organization": "The University of Electro-Communications",
+        "abstract": "This paper presents an approximate path-tracking control method for all joints of a snake robot, along with the verification of this method by simulations and experiments. We consider a wheeled snake robot that has passive wheels and active joints. The robot can switch the wheels that touch the ground by lifting the required parts of its body. The model of the robot becomes a kinematically redundant system if certain wheels are lifted. Using this kinematic redundancy, and selecting the appropriate lifted parts, we design a controller for approximate path tracking. Simulations and experimental results show that the proposed controller effectively reduces the path-tracking error for all joints of the snake robot.",
+        "email": "",
+        "conf": "IEEE/ASME Transactions on Mechatronics",
+        "coauthors": [
+            "Motoyasu Tanaka",
+            "Kazuo Tanaka",
+            "Fumitoshi Matsuno"
+        ],
+        "keywords": "Kinematics,path tracking,redundancy,snake robot,switching constraints"
+    },
+    {
+        "id": 7391,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "An Introduction to Fuzzy Logic for Practical Applications",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Kazuo Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7274,
+        "label": 131,
+        "author": "kazuo tanaka",
+        "title": "Development of a Cyclogyro-Based Flying Robot With Variable Attack Angle Mechanisms",
+        "organization": "The University of Electro-Communications",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE/ASME Transactions on Mechatronics",
+        "coauthors": [
+            "Kazuo Tanaka",
+            "Ryohei Suzuki",
+            "Takanori Emaru",
+            "Hua O. Wang"
+        ],
+        "keywords": ""
+    }
+]

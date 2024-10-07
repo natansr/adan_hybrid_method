@@ -1,0 +1,1315 @@
+[
+    {
+        "id": 4591,
+        "label": 87,
+        "author": "jane robinson",
+        "title": "Importance of duration of nocturnal melatonin secretion in determining the reproductive response to inductive photoperiod in the ewe",
+        "organization": "Reader IBAHCM College of Medicine Veterinary Medicine and Life Sciences University of Glasgow",
+        "abstract": "The pineal gland, through its nocturnal melatonin secretion, mediates the effects of inhibitory (long) and stimulatory (short) photoperiod on reproduction in female sheep. Earlier studies revealed that duration of the nighttime melatonin rise is important in determining the inhibitory effect of day length on reproduction in the ewe. The present study tested whether the duration is also important in mediating the inductive response to short days. Pinealectomized ewes, housed under long days, received a short-day melatonin infusion (16-h duration) for 90 days. Reproductive status was monitored from the response to estradiol negative feedback of luteinizing hormone (LH) secretion. This short-day melatonin pattern led to unambiguous reproductive induction, despite the exposure to inhibitory long days. The increase in serum LH was comparable, in terms of latency and magnitude, to that in pinealectomized controls receiving the same short-day melatonin pattern under short days, and in pineal-intact controls transferred from long to short days. Since the reproductive status conformed to the length of time that melatonin was elevated each day rather than to photoperiod, these results support the conclusion that duration of the nighttime melatonin rise mediates the reproductive response of the ewe to an inductive photoperiod. In all, the melatonin rhythm is considered an integral component of the physiologic mechanism measuring day length; through duration of its nocturnal secretion, melatonin encodes both inhibitory and stimulatory photoperiods.",
+        "email": "",
+        "conf": "Biology of Reproduction",
+        "coauthors": [
+            "Steven Yellon",
+            "Eric Bittman",
+            "Michael N Lehman",
+            "D H Olster",
+            "Jane E Robinson",
+            "Fred J Karsch"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4594,
+        "label": 87,
+        "author": "jane robinson",
+        "title": "The pineal gland and the photoperiodic control of luteinizing hormone secretion in intact and castrated Japanese quail",
+        "organization": "Reader IBAHCM College of Medicine Veterinary Medicine and Life Sciences University of Glasgow",
+        "abstract": "The effects of pinealectomy on a range of photoperiodic responses were investigated in male Japanese quail by measuring plasma LH concentrations in intact, sham-operated and pinealectomized birds in the following four experiments: (1) transfer of sexually quiescent birds from a short photoperiod of 8 h light: 16 h darkness (8L: 16D) to a photostimulatory daylength of 16L: 8D; (2) transfer of sexually mature birds from 16L: 8D to 8L: 16D; (3) castration in 16L: 8D and exposure to 13L: 11D; (4) castration in 8L: 16D and exposure to 13L: 11D. There was no evidence of effects of the pineal gland on the photoperiodically induced changes in LH secretion, the quantitative relationship between LH secretion and photoperiod in intact and castrated birds, or the induction of relative photorefractoriness by prolonged exposure to 16L: 8D. This suggests that there is no pineal influence on the photoperiodic clock or its effectors in this bird.",
+        "email": "",
+        "conf": "Journal of Endocrinology",
+        "coauthors": [
+            "S M Simpson",
+            "H F Urbanski",
+            "Jane E Robinson"
+        ],
+        "keywords": "Aves, Coturnix coturnix, Environment, Pineal body, Glycoprotein hormone, LH, Light , Metabolism, Orchidectomy, Photoperiod, Neuroendocrine regulation, Secretion, Vertebrata"
+    },
+    {
+        "id": 4593,
+        "label": 87,
+        "author": "jane robinson",
+        "title": "Refractoriness to inductive day lengths terminates the breeding season of the Suffolk ewe",
+        "organization": "Reader IBAHCM College of Medicine Veterinary Medicine and Life Sciences University of Glasgow",
+        "abstract": "The ambient photoperiod was recorded over an 8-yr period at the beginning and end of the breeding season in a flock of Suffolk ewes maintained outdoors. The transition into the breeding season in this short-day breeder occurred at a day length which was much longer (14.0 h, Sept. 3 ± 5 days) than that at the onset of anestrus (11.5 h, Feb. 15 ± 3 days). This produced a marked asymmetry of the annual cycles of photoperiod and reproduction. In an attempt to explain this asymmetry, we determined if ewes enter anestrus because increasing day lengths curtail breeding or because ewes lose the ability to respond to prevailing short day lengths (i.e., become photorefractory). On the winter solstice, 3 groups of 6 ovariectomized ewes bearing s.c. Silastic implants of estradiol were placed on different day length treatments: 1) natural environment; 2) artificial day length which simulated natural photoperiod; or 3) artificial day length equivalent to that of the winter solstice (10L). Transition into anestrus was determined from the precipitous drop in serum luteininzing hormone (LH) concentrations. The breeding season was not prolonged in ewes held on the winter solstice day length; LH did not remain elevated beyond the time that it plummeted in the other groups. These findings lead to the conclusion that Suffolk ewes normally cease breeding, not because they are actively inhibited by increasing day lengths, but because they become photorefractory. This can account, at least in part, for the asymmetry between the annual cycle of photoperiod and reproduction in this short-day breeder.",
+        "email": "",
+        "conf": "Biology of Reproduction",
+        "coauthors": [
+            "Jane E Robinson",
+            "F J Karsch"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4572,
+        "label": 87,
+        "author": "jane robinson",
+        "title": "Modelling the luteinizing hormone-releasing hormone pulse generator",
+        "organization": "Reader IBAHCM College of Medicine Veterinary Medicine and Life Sciences University of Glasgow",
+        "abstract": "Pituitary hormones are released in pulses as a result of episodic patterns of electrical activity in neuroendocrine neurons. The mechanisms underlying such pulsatility have, however, been difficult to elucidate. For example, the luteinizing hormone-releasing hormone neurons regulating reproductive functioning have a sparse and scattered distribution within the hypothalamus which has made definitive electrophysiological investigation impracticable. Little is known not only of their electrical characteristics, but also of the critical neural components with which they interact to form the so-called “luteinizing hormone-releasing hormone pulse generator”. We have used here a neural modelling approach, based on the FitzHugh-Nagumo model of a single neuron, to provide a simple dynamical network model of this neuroendocrine pulse generator. We have found that the minimal components required to generate pulsatile luteinizing hormone secretion arise from combining luteinizing hormone-releasing hormone neurons with reciprocally connected inhibitory interneurons and an external stimulatory input. Local GABA neurons and ascending noradrenergic and/or adrenergic inputs have been used as the biological basis for these respective components. The network displays a wide repertoire of behaviours comparable with experimental observations, including some thought previously to be paradoxical. The capacity of this model network to display complex behavioural features interpretable against experimental evidence suggests that this type of modelling may become a necessary adjunct to empirical studies of pulsatile neuroendocrine systems.",
+        "email": "",
+        "conf": "Neuroscience",
+        "coauthors": [
+            "D Brown",
+            "Allan E Herbison",
+            "Jane E Robinson",
+            "R W Marrs",
+            "Gareth Leng"
+        ],
+        "keywords": "LH,luteinizing hormone,LHRH,luteinizing hormone-releasing hormone"
+    },
+    {
+        "id": 4584,
+        "label": 87,
+        "author": "jane robinson",
+        "title": "Timing the breeding season of the ewe: what is the role of daylength?",
+        "organization": "Reader IBAHCM College of Medicine Veterinary Medicine and Life Sciences University of Glasgow",
+        "abstract": "Photoperiod is the proximate cue which times the reproductive period of the sheep and the role of daylength as a « zeitgeber » is evaluated in this report. Although sheep are regarded as a short-day breeding species, the reproductive period of the Suffolk ewe begins on daylengths which are on average 2.5 hours longer than those on which it ends. The reasons for this apparent anomaly are considered. Experimental evidence is presented which demonstrates that the transitions between the breeding season and anoestrus are not actively generated by changing ambient photoperiod. Rather the ewe expresses an endogenous circannual rhythm of reproduction and the role of daylength is to entrain this reproductive rhythm to a period of 365 days. It appears that only portions of the annual cycle of photoperiod are necessary to synchronise the breeding season, however, additional photic cues may be required to produce a reproductive period of normal duration",
+        "email": "",
+        "conf": "Reproduction Nutrition Development",
+        "coauthors": [
+            "Jane E Robinson",
+            "F J Karsch"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4570,
+        "label": 87,
+        "author": "jane robinson",
+        "title": "Microdialysis: A novel tool for research in the reproductive system",
+        "organization": "Reader IBAHCM College of Medicine Veterinary Medicine and Life Sciences University of Glasgow",
+        "abstract": "The technique of microdialysis has been applied extensively in neurobiological research. However, its potential as a tool for research in tissues other than the brain has not been fully explored. This article describes some of the situations in which microdialysis has been employed for studies in reproductive physiology and behavior. The examples have been chosen to give the reader a sense of the potential of the technique, its strengths, and some of its limitations.",
+        "email": "",
+        "conf": "Biology of Reproduction",
+        "coauthors": [
+            "Jane E Robinson"
+        ],
+        "keywords": "Scientific application, Microdialysis, Investigation method, Reproduction, Technique"
+    },
+    {
+        "id": 4587,
+        "label": 87,
+        "author": "jane robinson",
+        "title": "Does Melatonin Alter Pituitary Responsiveness to Gonadotropin-Releasing Hormone in the Ewe?",
+        "organization": "Reader IBAHCM College of Medicine Veterinary Medicine and Life Sciences University of Glasgow",
+        "abstract": "The diurnal secretion of melatonin from the pineal gland transduces information about day length to the reproductive axis of many seasonal breeders including the ewe. In the sheep the target for melatonin is thought to be neural, such that the hormone acts through the GnRH pulse generator to produce seasonal alterations in the frequency of pulsatile LH secretion. These effects on the pulse generating mechanism take approximately 50 days to become evident. It is possible that melatonin also exerts direct effects at the level of the pituitary gland to alter responsiveness to GnRH. Such effects have been noted in other species. The site of action of melatonin to regulate pulsatile LH secretion was assessed in the ewe by determining whether the animal’s endogenous melatonin acutely modifies pituitary responsiveness to sustained pulsatile administration of GnRH. Using an animal model in which endogenous GnRH was blocked, pituitary responsiveness to hourly pulses of exogenous GnRH was assessed under conditions of both high (dark period) and low (light period) melatonin. No evidence for acute effects of melatonin on pituitary response to GnRH was found. In another experiment, the amplitude and frequency of endogenously generated LH pulses in ovariectomized ewes was found not to change during the 24-hour light/dark cycle. These data lead to the conclusion that melatonin does not act at the pituitary gland to produce acute effects on LH secretion. Rather, our findings are consistant with the hypothesis that the action of melatonin, in this short-day breeder is long term, and is directed towards the neural elements of the hypothalamic pulse-generating mechanism.",
+        "email": "",
+        "conf": "Neuroendocrinology",
+        "coauthors": [
+            "Jane E Robinson",
+            "Alan H. Kaynard",
+            "Fred J. Karsch"
+        ],
+        "keywords": "Melatonin,Pituitary,Gonadotropin-releasing hormone,Ewe"
+    },
+    {
+        "id": 4554,
+        "label": 87,
+        "author": "jane robinson",
+        "title": "Sexually differentiated regulation of GnRH release by gonadal steroid hormones in sheep",
+        "organization": "Reader IBAHCM College of Medicine Veterinary Medicine and Life Sciences University of Glasgow",
+        "abstract": "Exposure of the sheep fetus to testosterone from day 30 to day 90 of a 147 day gestation causes the neurones that control GnRH secretion, the GnRH neuronal network, to become organized in a sex-specific manner. After androgen exposure in utero, GnRH neurones are activated in a sexually differentiated pattern by gonadal steroid hormones. Specifically, follicular phase concentrations of oestrogen trigger a GnRH 'surge' in ewes, but not in rams or females treated with androgen during fetal life. Furthermore, progesterone is a less potent inhibitor of GnRH release in rams or females treated with androgen during fetal life. The reasons for the sexual differentiation of these steroid feedback mechanisms probably reside in a dimorphism in steroid-sensitive neural inputs to GnRH neurones. The density of neurones containing oestrogen receptor a is sexually differentiated in areas of the ovine brain that are known to be involved in the steroidal regulation of GnRH. Furthermore, neurones in these regions are activated in a gender-specific pattern. A determination of the neural phenotype of these steroid-sensitive cells will form a basis for understanding the mechanisms by which the GnRH neuronal network is organized and activated in a sexually differentiated manner.",
+        "email": "",
+        "conf": "Reproduction (Cambridge England) Supplement",
+        "coauthors": [
+            "Jane E Robinson",
+            "R A Birch",
+            "J A E Grindrod",
+            "J A Taylor",
+            "W P Unsworth"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4560,
+        "label": 87,
+        "author": "jane robinson",
+        "title": "Role of Endogenous Opioid Peptides in Mediating Progesterone-Induced Disruption of the Activation and Transmission Stages of the GnRH Surge Induction Process",
+        "organization": "Reader IBAHCM College of Medicine Veterinary Medicine and Life Sciences University of Glasgow",
+        "abstract": "How progesterone blocks the E2-induced GnRH surge in females is not known. In this study we assessed whether the endogenous opioid peptides (EOPs) that mediate progesterone negative feedback on pulsatile GnRH secretion also mediate the blockade of the GnRH surge. We treated ovariectomized ewes with physiological levels of E2 and progesterone to stimulate and block the GnRH surge, respectively, using LH secretion as an index of GnRH release. A pilot study confirmed that blocking opioidergic neurotransmission with the opioid receptor antagonist, naloxone (NAL; 1 mg/kg·h, iv), could prevent the suppression of pulsatile LH secretion by progesterone in our model. By contrast, antagonizing EOP receptors with NAL did not restore LH surges in ewes in which the E2-induced GnRH surge was blocked by progesterone treatment during the E2-dependent activation stage (Exp 1) of the GnRH surge induction process. However, in ewes treated with progesterone during the E2-independent transmission stage (Exp 2), NAL partially restored blocked LH surges, as indicated by increased fluctuations in LH that, in some cases, resembled LH surges. We conclude, therefore, that the EOPs that mediate progesterone negative feedback on pulsatile GnRH secretion are not involved in blockade of activation of the E2-induced GnRH surge by progesterone, but do appear to be part of the mechanism by which progesterone disrupts the transmission stage.",
+        "email": "",
+        "conf": "Endocrinology",
+        "coauthors": [
+            "Trevor A Richter",
+            "D S Spackman",
+            "Jane E Robinson",
+            "S Dye",
+            "T G Harris",
+            "D C Skinner",
+            "Neil P Evans"
+        ],
+        "keywords": "Neuroendocrinology"
+    },
+    {
+        "id": 4530,
+        "label": 87,
+        "author": "jane robinson",
+        "title": "Disrupted seasonal biology impacts health food security and ecosystems",
+        "organization": "Reader IBAHCM College of Medicine Veterinary Medicine and Life Sciences University of Glasgow",
+        "abstract": "The rhythm of life on earth is shaped by seasonal changes in the environment. Plants and animals show profound annual cycles in physiology, health, morphology, behaviour and demography in response to environmental cues. Seasonal biology impacts ecosystems and agriculture, with consequences for humans and biodiversity. Human populations show robust annual rhythms in health and well-being, and the birth month can have lasting effects that persist throughout life. This review emphasizes the need for a better understanding of seasonal biology against the backdrop of its rapidly progressing disruption through climate change, human lifestyles and other anthropogenic impact. Climate change is modifying annual rhythms to which numerous organisms have adapted, with potential consequences for industries relating to health, ecosystems and food security. Disconcertingly, human lifestyles under artificial conditions of eternal summer provide the most extreme example for disconnect from natural seasons, making humans vulnerable to increased morbidity and mortality. In this review, we introduce scenarios of seasonal disruption, highlight key aspects of seasonal biology and summarize from biomedical, anthropological, veterinary, agricultural and environmental perspectives the recent evidence for seasonal desynchronization between environmental factors and internal rhythms. Because annual rhythms are pervasive across biological systems, they provide a common framework for trans-disciplinary research.",
+        "email": "",
+        "conf": "Proceedings of the Royal Society B: Biological Sciences",
+        "coauthors": [
+            "Tyler J Stevenson",
+            "Marcel E Visser",
+            "Walter Arnold",
+            "P. Barrett",
+            "S. Biello",
+            "A. Dawson",
+            "D. L. Denlinger",
+            "D. Dominoni",
+            "F. J. Ebling",
+            "S. Elton",
+            "N. Evans",
+            "H. M. Ferguson",
+            "R. G. Foster",
+            "M. Hau",
+            "D. T. Haydon",
+            "D. G. Hazlerigg",
+            "P. Heideman",
+            "J. G. C. Hopcraft",
+            "N. N. Jonsson",
+            "N. Kronfeld-Schor",
+            "V. Kumar",
+            "G. A. Lincoln",
+            "R. MacLeod",
+            "S. A. M. Martin",
+            "M. Martinez-Bakker",
+            "R. J. Nelson",
+            "T. Reed",
+            "J. E. Robinson",
+            "D. Rock",
+            "W. J. Schwartz",
+            "I. Steffan-Dewenter",
+            "E. Tauber",
+            "S. J. Thackeray",
+            "C. Umstatter",
+            "T. Yoshimura",
+            "Barbara Helm"
+        ],
+        "keywords": "annual, fitness, desynchrony, one-health, biological rhythm, circannua"
+    },
+    {
+        "id": 4569,
+        "label": 87,
+        "author": "jane robinson",
+        "title": "Is the Inhibitory Action of Estradiol on Luteinizing Hormone Pulse Frequency in Anestrous Ewes Mediated by Noradrenergic Neurons in the Preoptic Area?",
+        "organization": "Reader IBAHCM College of Medicine Veterinary Medicine and Life Sciences University of Glasgow",
+        "abstract": "This study tested the hypothesis that estradiol inhibits luteinizing hormone (LH) pulse frequency in anestrous ewes by increasing the activity of an inhibitory noradrenergic (NE) system that acts in the ovine preoptic area (POA). The effects of estradiol on the release of NE and other neurotransmitters in thePOA were determined using intracranial microdialysis. Microdialysis probes (5 mm membrane length) were inserted via chronic guide tubes into the POA. Ringer’s solution was pumped through the probes at a rate of 2 µl/min for 8 h, the α-adrenergic antagonist phenoxybenzamine (PBZ; 60 µg/ml of Ringer’s solution) was then administered via the probe from hours 8 to 12, and Ringer’s solution alone was given the last 4 h. The outflow from the dialysis probes was collected every 20 min from 2 to 16 h and concentrations of aminergic transmitters and gamma aminobutyric acid determined by high-performance liquid chromatography. Blood samples were collected every 10 min throughout the experiment and the LH pulse patterns determined. Dialysis was done in the same neural area twice in each ewe, without (ovariectomy only) and with estadiol treatment (ovariectomy and a 1.5-cm-long Silastic capsule filled with crystalline estradiol placed subcutaneously for 2 days); the order of dialysis was randomized. As expected, estradiol decreased the LH pulse frequency. This negative feedback action of estradiol was associated with a decrease in mean NE concentrations in dialysate samples and an increase in the intra-animal variability of NE. Estradiol had no effect on any other neurotransmitter measured. Perfusion of PBZ through the dialysis probe increased NE levels, presumably by blocking adrenergic autoreceptors. However, this effect was only observed when the probes were located rostral to the decussation of the anterior commissure. Thus the autoregulatory control of NE release appears to vary in different hypothalamic areas. PBZ significantly increased the LH pulse amplitude, independently of any effects on NE release, raising the possibility that noradrenergic neurons act via α-adrenergic receptors to inhibit the LH pulse amplitude. In conclusion, these data demonstrate that estradiol decreases the mean NE levels in the POA of anestrous ewes, but may increase its episodic release.",
+        "email": "",
+        "conf": "Neuroendocrinology",
+        "coauthors": [
+            "Robert L Goodman",
+            "Jane E Robinson",
+            "Keith M Kendrick",
+            "Richard G. Dyer"
+        ],
+        "keywords": "Gamma aminobutyric acid,Gonadal steroids,Gonadotropins, episodic secretion,Noradrenalin"
+    },
+    {
+        "id": 4562,
+        "label": 87,
+        "author": "jane robinson",
+        "title": "Identification of Neurokinin B-Expressing Neurons as an Highly Estrogen-Receptive Sexually Dimorphic Cell Group in the Ovine Arcuate Nucleus 1",
+        "organization": "Reader IBAHCM College of Medicine Veterinary Medicine and Life Sciences University of Glasgow",
+        "abstract": "Studies were undertaken to examine the hypothesis that neurons expressing neurokinin B (NKB) may represent an estrogen-receptive input to GnRH neurons in the sheep. Cells immunoreactive for NKB were located almost exclusively within the arcuate nucleus of the ovine hypothalamus. Dual labeling experiments revealed that essentially all NKB neurons (97%) were immunoreactive for estrogen receptor α and that NKB-immunoreactive fibers were found in close proximity to approximately 40% of GnRH neurons located in the rostral preoptic area as well as intermingled with GnRH fibers in the median eminence. The analysis of male and female brains revealed a marked female-dominant sex difference in the numbers of NKB neurons, and sections obtained from in utero androgen-treated females indicated that this sex difference resulted from an organizational influence of testosterone during neural development. In adult ovariectomized ewes, in situ hybridization studies failed to detect any significant effect of 8- to 26-h exposure of estrogen on cellular NKB messenger RNA levels. Together, these studies identify the first sexually differentiated neuronal cell population in the ovine hypothalamus and, remarkably, show that essentially all of these female-dominant NKB neurons express estrogen receptors. Although these neurons may be involved in any number of steroid-dependent, sexually differentiated functions in the sheep, the neuroanatomical evidence for potential NKB inputs to GnRH neurons suggests a role for this novel population in the regulation of reproductive function.",
+        "email": "",
+        "conf": "Endocrinology",
+        "coauthors": [
+            "Marie-Laure Goubillon",
+            "Rachel A. Forsdike",
+            "Jane E Robinson",
+            "Philippe Ciofi",
+            "Alain Caraty",
+            "Allan E Herbison"
+        ],
+        "keywords": "Neuroendocrinology"
+    },
+    {
+        "id": 4585,
+        "label": 87,
+        "author": "jane robinson",
+        "title": "Photoperiodic history and a changing melatonin pattern can determine the neuroendocrine response of the ewe to daylength",
+        "organization": "Reader IBAHCM College of Medicine Veterinary Medicine and Life Sciences University of Glasgow",
+        "abstract": "The reproductive neuroendocrine response of Suffolk ewes to the direction of daylength change was determined in animals which were ovariectomized and treated with constant release capsules of oestradiol. Two groups of animals were initially exposed to 16 or 10 h light/day for 74 days. On day zero of the study, when one group of ewes was reproductively stimulated (elevated LH concentrations) and the other reproductively inhibited (undetectable LH concentrations), half the animals from each group were transferred to an intermediate daylength of 13 h light/day. The remaining ewes were maintained on their respective solstice photoperiods to control for photorefractoriness. LH concentrations rose in animals experiencing a 3 h decrease in daylength from 16L:8D to 13L:11D while LH concentrations fell to undetectable values in those that experienced a 3 h increase in daylength from 10L:14D to 13L:1 1D. The photoperiodic response of the Suffolk ewe, therefore, depends on her daylength history. Such a result could be explained if the 24-h secretory pattern of melatonin secretion, known to transduce photoperiodic information to the reproductive axis, was influenced by the direction of change of daylength. Hourly samples for melatonin were collected for 24h 17 days before and three times after transfer to 13L:1 ID. The melatonin secretory profile always conformed to daylength. Therefore, the mechanism by which the same photoperiod can produce opposite neuroendocrine responses must lie downstream from the pineal gland in the processing of the melatonin signal.",
+        "email": "",
+        "conf": "J Reprod Fertil",
+        "coauthors": [
+            "Jane E Robinson",
+            "F J Karsch"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4549,
+        "label": 87,
+        "author": "jane robinson",
+        "title": "Disordered follicle development in ovaries of prenatally androgenized ewes",
+        "organization": "Reader IBAHCM College of Medicine Veterinary Medicine and Life Sciences University of Glasgow",
+        "abstract": "Exposure to excess androgens in utero induces irreversible changes in gonadotrophin secretion and results in disrupted reproductive endocrine and ovarian function in adulthood, in a manner reminiscent of the common clinical endocrinopathy of polycystic ovary syndrome (PCOS). We have recently identified an abnormality in early follicle development in PCOS which we suggested might be an androgenic effect. We propose that altered ovarian function in androgenized ewes is due to prenatal androgens not only causing an abnormality of gonadotrophin secretion, but also exerting a direct effect on the early stages of folliculogenesis. Therefore, in this study, we explored the possible differences between small preantral follicles in the ovarian cortex of androgenized female lambs with those of normal lambs. At 8 months of age, small ovarian cortical biopsies (approximately 5 mm3) were obtained at laparotomy from nine female lambs that had been exposed to androgens in uterofrom embryonic days 30 to 90 of a 147-day pregnancy, and 11 control female lambs. Further, ovarian tissue was obtained at 20 months of age from ten androgenized and nine control animals. Tissue was either fixed immediately for histology or cultured for up to 15 days prior to fixing. The number of follicles in haematoxylin and eosin-stained sections was counted and recorded along with the stage of development. Before culture, the total follicle density (follicles/mm3 tissue) was not statistically significantly different between the two types of ovary at either 8 or 20 months of age. Furthermore, there were no statistically significant differences in the density of follicles at each stage of development. However, there was a lower percentage of primordial follicles, but a higher percentage of primary follicles, in biopsies taken at 8 months from androgenized lambs when compared with controls. At 20 months, the proportions of follicles at the primordial and primary stages were not significantly different between the two groups, but this was mainly attributable to an increase in the proportion of growing follicles in biopsies from control animals. Culture of ovarian cortex from 8-month-old lambs resulted in a progressive increase in the proportion of growing follicles when compared with tissue fixed on the day of surgery. However, there was no difference between androgenized and control tissue in the percentage of growing follicles. The increase in the proportion of growing follicles in the cortex of androgenized animals is reminiscent of similar observations in human polycystic ovaries and suggests that excess exposure to androgen in early life plays a part in the accelerated progression of follicle development from the primordial to the primary stage in polycystic ovaries.",
+        "email": "",
+        "conf": "Journal of Endocrinology",
+        "coauthors": [
+            "Rachel A Forsdike",
+            "Kate Hardy",
+            "Lauren Bull",
+            "Jaroslav Stark",
+            "Lisa J Webber",
+            "Sharron Stubbs",
+            "Jane E Robinson",
+            "Stephen Franks"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4592,
+        "label": 87,
+        "author": "jane robinson",
+        "title": "Neuroendocrine Basis of Seasonal Reproduction",
+        "organization": "Reader IBAHCM College of Medicine Veterinary Medicine and Life Sciences University of Glasgow",
+        "abstract": "This chapter discusses the strategy of seasonal breeding, the role of photoperiod in timing the annual reproductive cycle, the hypothalamo-pituitary mechanisms that mediate photoperiodic regulation of estrous cyclicity, and the photoperiodic pathway to luteinizing hormone (LH) pulse generator. To understand how photic input to the LH pulse generator leads to seasonal changes in gonadal activity, the sequence of endocrine events that normally leads to ovulation during the estrous cycle of the ewe must be considered. These preovulatory events occur during a 2–3 day follicular phase and include a precipitous drop in progesterone, a progressive rise in tonic LH secretion, a sustained increase in estradiol secretion, and the LH surge. The pivotal step in this sequence is the sustained increase in tonic LH secretion. A great deal of insight has been gained into the complex interplay between the neural and endocrine response systems that underlie the seasonal reproductive process in the short-day breeding ewe. Specifically, light cues activate retinal photoreceptors and are transmitted via a monosynaptic tract to the suprachiasmatic nuclei of the hypothalamus. After interacting with the circadian system, the photic information is relayed to the pineal gland that transduces the neural message into a hormonal signal in the form of a circadian rhythm of melatonin secretion. The pattern of this melatonin signal, which is interpreted as inductive or suppressive, sets the frequency of the LH pulse generator and determines the capacity of this neural oscillator to respond to the negative feedback action of estradiol. The resulting changes in the episodic pattern of gonadotropin secretion, in turn, dictate whether or not estrous cycles can occur.",
+        "email": "",
+        "conf": "Laurentian Hormone Conference",
+        "coauthors": [
+            "FRED J.KARSCH",
+            "ERIC L.BITTMAN",
+            "DOUGLAS L.FOSTER",
+            "ROBERT L.GOODMAN",
+            "SANDRA J.LEGAN",
+            "JANE E.ROBINSON"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4568,
+        "label": 87,
+        "author": "jane robinson",
+        "title": "Melatonin-binding sites in the gonadotroph-enriched zona tuberalis of ewes",
+        "organization": "Reader IBAHCM College of Medicine Veterinary Medicine and Life Sciences University of Glasgow",
+        "abstract": "The presence of melatonin-binding sites in the ovine pars tuberalis is well established, but data on melatonin binding in the pars distalis are inconsistent. The distribution of melatonin-binding sites in the ovine hypophysis was investigated using in vitro autoradiography and the high-affinity, high specific-activity ligand 2-[125I]iodomelatonin. The histology of sections was visualized with Heidenhain's azan stain and sections were immunoreacted against ovine LH (beta-subunit) using standard immunocytochemical techniques. Melatonin binding in the hypophysis was restricted to the pars tuberalis and the zona tuberalis. The zona tuberalis is histologically similar to the pars tuberalis and appears to be a ventral extension of this region, although the shape and size of the zona tuberalis are extremely variable between individuals. Like the anteroventral pars tuberalis, there is a high concentration of immunoreactive gonadotrophs in the zona tuberalis. The density of immunoreactive gonadotrophs alone is sufficient to discriminate between the zona tuberalis and the pars distalis. Our data suggest that the zona tuberalis and the pars tuberalis are part of the same endocrine tissue and that melatonin-binding sites are not present in the pars distalis proper.",
+        "email": "",
+        "conf": "J Reprod Fertil",
+        "coauthors": [
+            "D.C. Skinner",
+            "Jane E Robinson"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4535,
+        "label": 87,
+        "author": "jane robinson",
+        "title": "Effects of inhibition of gonadotropin releasing hormone secretion on the response to novel objects in young male and female sheep",
+        "organization": "Reader IBAHCM College of Medicine Veterinary Medicine and Life Sciences University of Glasgow",
+        "abstract": "This study investigated the actions of blocking the GnRH receptor using a specific agonist on the response of male and female sheep to a novel object placed in their pen. The study is part of a series performed on 46 same sex twin animals. One of the pair received a subcutaneous implant of the GnRH agonist Goserelin acetate every four weeks while the other remained untreated. Implantation began immediately prior to puberty; at 8 weeks in the males and 28 weeks in the females (as timing of puberty is sex specific). To determine the effects of agonist treatment on the reproductive axis blood samples were collected for measurement of testosterone in the males and progesterone in the females. In addition the volume of the scrotum was determined. The present study aimed to determine whether there are sexually differentiated behavioural responses to a novel object at different stages of brain development (8, 28 and 48 weeks of age) and whether these responses are altered by GnRHa treatment. Approach behaviour towards and interactions with the novel object were monitored as was the number of vocalisations per unit time during the test period. GnRHa treatment suppressed testosterone concentrations and testicular growth in the males and progesterone release in the females. Sheep vocalised significantly more prior to weaning (8 weeks of age) than post weaning (28 and 48 weeks of age) suggesting stress on separation from their dams. Our current study shows that males are more likely to leave their conspecifics to approach a novel object than females. As this behaviour was not altered by suppression of the reproductive axis we suggest that, although sex differences are more obviously expressed in the phenotype after puberty, these may be developed during adolescence but not primarily altered during puberty by sex hormones.",
+        "email": "jane.robinson@glasgow.ac.uk",
+        "conf": "Psychoneuroendocrinology",
+        "coauthors": [
+            "Jane E Robinson",
+            "Neil P Evans",
+            "Rebecca Dumbell",
+            "Anne-Kristin Solbakk",
+            "Erik Ropstad",
+            "Ira Ronit Hebold Haraldsen"
+        ],
+        "keywords": "GnRH,Sheep,Puberty,Testosterone,Oestrogen,GnRH agonist,Novel object"
+    },
+    {
+        "id": 4538,
+        "label": 87,
+        "author": "jane robinson",
+        "title": "Intrauterine treated lambs as a model for the study of Intrauterine Growth Restriction (IUGR) and consequent metabolic disorders",
+        "organization": "Reader IBAHCM College of Medicine Veterinary Medicine and Life Sciences University of Glasgow",
+        "abstract": "Developmental exposure to environmental and therapeutic chemicals, including excess androgens, has been reported to induce Intrauterine Growth Restriction (IUGR) and abnormal post-natal growth. It has now been clearly shown that IUGR and subsequent catch-up growth can result in a life-long vulnerability to diseases/syndromes that affect both the quality and duration of life. Ovine foetuses that are exposed to exogenous steroids exhibit IUGR, abnormal post-natal growth trajectories and altered metabolic and reproductive function and thus provide a model to examine the programming of conditions such as metabolic syndrome that has recently attracted much scientific and societal interest (Eckel et al., 2005). Metabolic syndrome encompasses a group of risk factors that occur together and increase the risk of coronary artery disease, stroke and diabetes type 2, all of which increase the financial burden on health systems world-wide.",
+        "email": "",
+        "conf": "Farm animal proteomics",
+        "coauthors": [
+            "Tommaso Serchi",
+            "Jenny Renaut",
+            "Lucien Hoffmann",
+            "Arno C Gutleb",
+            "Jane E Robinson",
+            "Neil P Evans"
+        ],
+        "keywords": "Testosterone Propionate, Excess Androgen, Testosterone Propionate, Societal Interest, Developmental Exposure "
+    },
+    {
+        "id": 4590,
+        "label": 87,
+        "author": "jane robinson",
+        "title": "Pineal Melatonin Mediates Photoperiodic Control of Pulsatile Luteinizing Hormone Secretion in the Ewe",
+        "organization": "Reader IBAHCM College of Medicine Veterinary Medicine and Life Sciences University of Glasgow",
+        "abstract": "Seasonal breeding in the ewe is regulated by photoperiod through a pineal-dependent mechanism. Changes in the ability of estradiol to inhibit tonic LH secretion are critical. During anestrus, this ovarian steroid gains the ability to slow the frequency of pulsatile LH secretion through an action on the brain. Exposure of ovariectomized, estradiol-implanted ewes to short photoperiods during summer anestrus revealed that daylength can control LH pulse frequency. After removal of estradiol, LH pulse frequency still differed between long- and short-day ewes, suggesting photoperiodic modulation of LH and presumably GnRH secretion independent of gonadal steroids. Significantly, the effects of daylength expressed both in the presence and the absence of estradiol failed to occur in pinealectomized ewes. Long-term infusions of melatonin, given in physiological patterns to pinealectomized ewes, mimicked the effects of photoperiod on pineal-intact ewes. Specifically, a pattern of melatonin characteristic of that in short days (16-hour night-time rise) led to an increase in LH pulse frequency to a breeding season rate. Conversely, melatonin infusions typifying a long-day pattern (8-hour night-time rise) produced an anestrous pulse pattern. Pituitary sensitivity to GnRH was not reduced in sheep which were reproductively suppressed by photoperiod or melatonin treatments. These observations support the conclusion that day-length acts through pineal melatonin secretion to regulate a neural LH pulse generator which, by changing the frequency of GnRH pulses, determines the ewe’s seasonal reproductive state.",
+        "email": "",
+        "conf": "Neuroendocrinology",
+        "coauthors": [
+            "Eric Bittman",
+            "Alan H. Kaynard",
+            "Deborah H. Olster",
+            "Jane E Robinson",
+            "S M Yellon",
+            "Fred J. Karsch"
+        ],
+        "keywords": "Melatonin,Pineal gland,Photoperiod,Gonadotropin releasing hormone (GnRH),LH pulses,Ewe,Seasonal breeding"
+    },
+    {
+        "id": 4567,
+        "label": 87,
+        "author": "jane robinson",
+        "title": "Androgen Receptor-lmmunoreactive Cells in Ram Hypothalamus: Distribution and Co-Localization Patterns with Gonadotropin-Releasing Hormone Somatostatin and Tyrosine Hydroxylase",
+        "organization": "Reader IBAHCM College of Medicine Veterinary Medicine and Life Sciences University of Glasgow",
+        "abstract": "Testosterone exerts important feedback effects on the hypothalamus of the ram to influence reproductive functioning. To provide a neuroanatomical basis for understanding this androgen action, the present study has examined androgen receptor (AR) immunoreactivity within the hypothalamus and adjacent brain areas of the intact non-breeding season ram. The largest populations of AR-immunoreactive cells were detected in the medial preoptic area, infundibular and premammillary nuclei in addition to the ventromedial nucleus (VMN) where cells were found distributed throughout its medial and lateral divisions. Smaller numbers of AR-expressing cells were identified in the bed nucleus of the stria terminalis and anterior hypothalamic area (AHA) including the paraventricular, but not the supraoptic, nucleus. Double-labelling immunocytochemistry revealed the presence of AR immunoreactivity in only 2 of 460 gonadotropin-releasing hormone (GnRH) neurons. A very small population of TH-immunoreactive cells located in the lateral aspect of the AHA was found to contain ARs. Dopaminergic cells elsewhere in the hypothalamus, including the infundibular nucleus, did not display AR immunoreactivity. Nearly 50% of AR-expressing cells in the lateral VMN were immunoreactive for somatostatin while less than 5 % of periventricular somatostatin neurons displayed AR immunoreactivity. These results show where ARs are expressed in the ram hypothalamus and indicate the neuroanatomical sites at which androgen may act to influence reproductive function. The absence of ARs in the neuroendocrine GnRH and tuberoinfundibular dopaminergic cells suggests that androgens do not influence the genome of these cells in any direct manner. In contrast, the somatostatin neurons of the VMN appear to be an important target for circulating androgens in the non-breeding season ram.",
+        "email": "",
+        "conf": "Neuroendocrinology",
+        "coauthors": [
+            "Allan E Herbison",
+            "Donal C. Skinner",
+            "Jane E Robinson",
+            "Ian S. King"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4557,
+        "label": 87,
+        "author": "jane robinson",
+        "title": "Fetal Programming: Prenatal Androgen Disrupts Positive Feedback Actions of Estradiol but Does Not Affect Timing of Puberty in Female Sheep",
+        "organization": "Reader IBAHCM College of Medicine Veterinary Medicine and Life Sciences University of Glasgow",
+        "abstract": "We studied the impact of prenatal androgen exposure on the timing of onset of puberty, maintenance of cyclicity in the first breeding season, and the LH surge mechanism in female sheep. Pregnant sheep were injected with testosterone propionate (100 mg i.m.) twice each week from Day 30 to Day 90 (D30–90) or from Day 60 to Day 90 (D60–90) of gestation (term = 147 days). Concentrations of plasma progesterone and gonadotropins were measured in blood samples collected twice each week from control (n = 10), D60–90 (n = 13), and D30–90 (n = 3) animals. Rate of weight gain and initiation of estrous behavior were also monitored. After the first breeding season, when the animals entered anestrus, competency of the gonadotropin surge system to respond to estradiol positive feedback was tested in the absence or presence of progesterone priming for 12 days. Prenatally androgenized females had similar body weight gain and achieved puberty (start of first progestogenic cycle) at the same time as controls. Duration of the breeding season and the number of cycles that occurred during the first breeding season were similar between control and prenatally androgenized sheep. In contrast, prenatal exposure to androgens compromised the positive feedback effects of estradiol. Onset of LH/FSH surges following the estradiol stimulus was delayed in both groups of androgenized ewes compared with the controls in both the absence and presence of progesterone priming. In addition, the magnitude of LH and FSH surges in the two animals that surged in the D30–90 group were only one third and one half, respectively, of the magnitudes observed in the control and D60–90 groups. The present findings indicate that disruption of the surge system can account for the fertility problems that occur during adulthood in prenatally androgenized sheep.",
+        "email": "",
+        "conf": "Biology of Reproduction",
+        "coauthors": [
+            "Tejinder Pal Sharma",
+            "Carol Herkimer",
+            "Christine West",
+            "Wen Ye",
+            "Rachel Birch",
+            "Jane E. Robinson",
+            "Douglas L. Foster",
+            "Vasantha Padmanabhan"
+        ],
+        "keywords": "early development, follicle-stimulating hormone, luteinizing hormone, neuroendocrinology, ovulatory cycle"
+    },
+    {
+        "id": 4559,
+        "label": 87,
+        "author": "jane robinson",
+        "title": "Neuroendocrine mechanisms underlying the effects of progesterone on the oestradiol-induced GnRH/LH surge",
+        "organization": "Reader IBAHCM College of Medicine Veterinary Medicine and Life Sciences University of Glasgow",
+        "abstract": "Oestradiol provides the drive to reproductive cyclicity in female mammals through its ability to stimulate the GnRH surge. In contrast, progesterone can be seen as the 'clutch and brakes' within reproductive cycles, as it can modify the response of the GnRH neurosecretory system to oestradiol. In this regard, progesterone has multiple and sometimes opposing effects on the GnRH neurosecretory system. For example, dependent upon the timing of exposure, progesterone enhances the amplitude of the oestradiol-induced LH (rats) and GnRH surge (within cerebrospinal fluid in sheep, mRNA concentrations in rats), but can also inhibit pulsatile GnRH secretion, and delay or even block expression of the surge (monkeys, rats and sheep). Investigations of the mechanisms of action of progesterone are complicated further by the fact that some of the observed effects of progesterone, such as the ability to block the oestradiol-induced surge, appear to be mediated via several different routes. Consequently, a variety of approaches are needed to advance our understanding of this fundamental reproductive neuroendocrine system. In this context, large animal neuroendocrine models have provided important information about the mechanisms of progesterone action and provide many exciting opportunities for future research.",
+        "email": "",
+        "conf": "Reproduction (Cambridge England) Supplement",
+        "coauthors": [
+            "Neil P Evans",
+            "Trevor A Richter",
+            "D C Skinner",
+            "Jane E Robinson"
+        ],
+        "keywords": "Neuroendocrinology"
+    },
+    {
+        "id": 4574,
+        "label": 87,
+        "author": "jane robinson",
+        "title": "Immunocytochemical Identification of Oestrogen Receptors in the Ovine Pars Tuberalis: Localization Within Gonadotrophs",
+        "organization": "Reader IBAHCM College of Medicine Veterinary Medicine and Life Sciences University of Glasgow",
+        "abstract": "The pars tuberalis (PT) of the pituitary gland shows dense binding of melatonin and consequently this region may be involved in modulating seasonal reproduction. Oestrogen is well established as a critical gonadal steroid in controlling seasonally via its ability to alter luteinizing hormone (LH) release. Using immunocytochemistry techniques with antibodies specific for the oestrogen receptor (ER) and the ovine βLH (oβLH) subunit, we have identified large populations of ER‐immunoreactive (‐IR) and LH‐IR cells in the anteroventral region of the ovine PT. In contrast, few ER‐ or LH‐IR cells were identified in the anterodorsal or posterior regions of the PT. Double‐labelling experiments revealed that all ER‐IR cells in the PT are also immunoreactive for LH. These results show that cells immunoreactive for the ER are concentrated in the anteroventral aspect of the PT and that these receptors are located in the nuclei of the PT gonadotrophs. These results suggest that the anteroventral PT, a region which also expresses high melatonin binding, may be a site of integrated oestrogen and melatonin action on LH secretion from the PT.",
+        "email": "",
+        "conf": "Journal of Neuroendocrinology",
+        "coauthors": [
+            "Donal C. Skinner",
+            "Allan E Herbison",
+            "Jane E Robinson"
+        ],
+        "keywords": "Gonadotropic cell, Immunocytochemistry, LH, Localization, Sheep, Estrogen, Pars tuberalis, Hormonal, receptor, Artiodactyla, Gonadotropin, Adenohypophyseal hormone, Sex steroid hormone, Pituitary gland, Mammalia, Ungulata, Vertebrata"
+    },
+    {
+        "id": 4547,
+        "label": 87,
+        "author": "jane robinson",
+        "title": "Prenatal Testosterone Excess Disrupts Antral Follicle Function in Sheep.",
+        "organization": "Reader IBAHCM College of Medicine Veterinary Medicine and Life Sciences University of Glasgow",
+        "abstract": "",
+        "email": "",
+        "conf": "Biology of Reproduction",
+        "coauthors": [
+            "Jonathan C. Grant",
+            "Peter Hastie",
+            "Neil P Evans",
+            "Monika Mihm"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4524,
+        "label": 87,
+        "author": "jane robinson",
+        "title": "Circadian rhythms of melatonin and behaviour in juvenile sheep in field conditions: Effects of photoperiod environment and weaning",
+        "organization": "Reader IBAHCM College of Medicine Veterinary Medicine and Life Sciences University of Glasgow",
+        "abstract": "Entrainment of circadian rhythms (CR) to the light dark cycle has been well described under controlled, experimental conditions. However, studies in rodents have reported that rhythms in the laboratory are not always reproduced under field conditions. The aim of this study was to characterise the CR of sheep maintained under conditions of standard UK farm animal husbandry and to investigate the effects of environmental challenges presented by season, weaning and changes in housing on CR. Male sheep (n = 9) were kept at pasture, or group housed in barns, under natural photoperiod for one year. CR in locomotor activity were monitored using accelerometry, and 24 h patterns in plasma cortisol and melatonin were measured every 4 h by ELISA. CR was measured before and after weaning, in summer and winter, and at pasture and by barn housing. Cosinor analysis revealed high amplitude, diurnal rhythms in locomotor activity that were disrupted by weaning and by barn housing. Rhythms in winter showed an interrupted night time activity pattern, but only when the sheep were kept at pasture. Cortisol and melatonin secretion followed typical circadian patterns in winter and summer. The CR of the sheep under the field conditions of this study were strikingly robust under basal conditions, but easily disrupted by environmental challenges. Interrupted patterns of activity during the long nights of wintertime, not previously reported for sheep kept in experimental conditions were recorded. Based on these findings, we propose that animals require exposure to more complex environments than the laboratory in order to exhibit their true circadian phenotype.",
+        "email": "",
+        "conf": "Physiology & Behavior",
+        "coauthors": [
+            "C A Wyse",
+            "X Zhang",
+            "Mark Mclaughlin",
+            "S M Biello",
+            "D Hough",
+            "M Bellingham",
+            "A M Curtis",
+            "Jane E Robinson",
+            "Neil P Evans"
+        ],
+        "keywords": "Chronobiology,Circadian,Sheep,Ovine,Rhythms,Seasonal"
+    },
+    {
+        "id": 4531,
+        "label": 87,
+        "author": "jane robinson",
+        "title": "Effects of season on the reproductive organ and plasma testosterone concentrations in guinea cocks (Numida meleagris)",
+        "organization": "Reader IBAHCM College of Medicine Veterinary Medicine and Life Sciences University of Glasgow",
+        "abstract": "The physiological basis of seasonal breeding in the guinea fowl (Numida meleagris) still remains unknown, despite the socioeconomic importance of these birds, particularly in Ghana. A study involving a total of 50 local guinea cocks was conducted, and documented gross anatomical and histological differences in the reproductive organs of breeding and non-breeding male guinea fowls. The study also compared peripheral testosterone concentrations in breeding and non-breeding cocks. Seasonal differences in variables measured were determined using two-tailed t-test/Mann-Whitney U-test. All comparisons were made at 5% level of significance. Breeding males had significantly (P = 0.000) higher anatomical biometric parameters than their non-breeding counterparts. Also, breeding birds had thicker (P = 0.000) phalli than their non-breeding counterparts. Histologically, regressing testis was characterized by the presence of sloughed off cells and increased debris in the tubular lumen and within the excurrent duct system, collapsed tubules and reduction in tubular lumen. Germ and Sertoli cell populations and nuclear diameters and actual seminiferous tubular diameter and length in regressing testes were significantly (P = 0.000) lower than in active testes. Leydig cell nuclear diameters and populations were also significantly (P = 0.000) reduced. Relative volume of seminiferous tubules in the testis, testicular sperm production/mg testis and per testis and peripheral testosterone concentrations were all higher (P < 0.05) in breeding than non-breeding testis. The ducts in the epididymal region also saw significant (P < 0.05) reductions in luminal diameters in non-breeding birds. Significant regression in anatomical and histological structures of the guinea cock reproductive tract occurred during the non-breeding season, and lower peripheral testosterone concentrations may be responsible for this phenomenon.",
+        "email": "",
+        "conf": "Poultry Science",
+        "coauthors": [
+            "Ibn Iddriss Abdul-Rahman",
+            "Jane E Robinson",
+            "Frederick Yeboah Obese",
+            "I. Jeffcoate",
+            "B Awumbila"
+        ],
+        "keywords": "Guinea fowl; infertility; seasonal breeding; testis; testosterone"
+    },
+    {
+        "id": 4543,
+        "label": 87,
+        "author": "jane robinson",
+        "title": "GNRH RECEPTOR BLOCKAGE ALTERS THE ACTIVITY OF THE REPRODUCTIVE AXIS IN MALE AND FEMALE SHEEP",
+        "organization": "Reader IBAHCM College of Medicine Veterinary Medicine and Life Sciences University of Glasgow",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of Sexual Medicine",
+        "coauthors": [
+            "Jane E Robinson",
+            "Neil P Evans"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4544,
+        "label": 87,
+        "author": "jane robinson",
+        "title": "Prepubertal gonadotropin-releasing hormone analog leads to exaggerated behavioral and emotional sex differences in sheep",
+        "organization": "Reader IBAHCM College of Medicine Veterinary Medicine and Life Sciences University of Glasgow",
+        "abstract": "In mammals, sex specialization is reflected by differences in brain anatomy and function. Measurable differences are documented in reproductive behavior, cognition, and emotion. We hypothesized that gonadotropin-releasing hormone (GnRH) plays a crucial role in controlling the extent of the brain's sex specificity and that changes in GnRH action during critical periods of brain development, such as puberty, will result in altered sex-specific behavioral and physiological patterns. We blocked puberty in half of the 48 same-sex Scottish mule Texel cross sheep twins with GnRH analog (GnRHa) goserelin acetate every 3 weeks, beginning just before puberty. To determine the effects of GnRHa treatment on sex-specific behavior and emotion regulation in different social contexts, we employed the food acquisition task (FAT) and measurement of heart rate variability (HRV). ANOVA revealed significant sex and sex × treatment interaction effects, suggesting that treated males were more likely to leave their companions to acquire food than untreated, while the opposite effect was observed in females. Concordant results were seen in HRV; treated males displayed higher HRV than untreated, while the reverse pattern was found in females, as shown by significant sex and sex × treatment interaction effects. We conclude that long-term prepubertal GnRHa treatment significantly affected sex-specific brain development, which impacted emotion and behavior regulation in sheep. These results suggest that GnRH is a modulator of cognitive function in the developing brain and that the sexes are differentially affected by GnRH modulation.",
+        "email": "",
+        "conf": "Hormones and Behavior",
+        "coauthors": [
+            "Slawomir Wojniusz",
+            "Claus Vgele",
+            "Erik Ropstad",
+            "Neil Evans",
+            "Jane E Robinson",
+            "Stefan Sutterlin",
+            "Hans W Erhard",
+            "Anne-Kristin Solbakk",
+            "Tor Endestad",
+            "Dag Erlend Olberg",
+            "Ira Ronit Hebold Haraldsen"
+        ],
+        "keywords": "Gonadotropin-releasing hormone,GnRH,Sex differences,Heart rate variability,HRV,Puberty, sheep, cognition,Behavior"
+    },
+    {
+        "id": 4525,
+        "label": 87,
+        "author": "jane robinson",
+        "title": "Testis Size and Asymmetry in the Guinea Fowl ( Numida Meleagris ): A Test of the Compensation Hypothesis",
+        "organization": "Reader IBAHCM College of Medicine Veterinary Medicine and Life Sciences University of Glasgow",
+        "abstract": "Despite numerous studies on testicular asymmetry in birds, there are still inconsistent reports on the pattern of asymmetry in species belonging to various phylogenetic groups and exhibiting diverse lifestyles. In addition, there is a lack of clarity on whether functional differences exist between the left and right testes despite differences in size, as well as no evidence of naturally occurring compensation in testis size in terrestrial and galliform birds. A study involving 400 Guinea Fowl (Numida meleagris) cocks was conducted to determine asymmetry and compensatory growth in the testes as well as age-related changes in absolute and relative testicular asymmetry. The left testis had significantly higher weight, volume and relative weight than the right testis. Similarly, populations of round spermatids, type I spermatocytes, total germ cell, Sertoli efficiency, actual and apparent seminiferous tubular diameters and testicular sperm production were higher in the left than the right testis. Correlations between the left and right testicular gross anatomical and histological biometric traits were strong and positive. Left biased asymmetry was recorded in the Guinea Fowl. Absolute testicular asymmetry increased with age, but tended to stabilise from 20 weeks of age, while relative testicular asymmetry remained stable throughout. Both absolute and relative testicular asymmetries were higher in breeding than non-breeding males. Compensatory growth was recorded in both testes with no difference in the degree of compensation. The left biased asymmetry observed in the Guinea Fowl was reflected in functional differences between the two testes.",
+        "email": "",
+        "conf": "Avian biology research",
+        "coauthors": [
+            "Ibn Iddriss Abdul-Rahman",
+            "Frederick Yeboah Obese",
+            "Jane E Robinson"
+        ],
+        "keywords": "anatomy, gonadosomatic index, Guinea Fowl, histology, testicular asymmetry"
+    },
+    {
+        "id": 4565,
+        "label": 87,
+        "author": "jane robinson",
+        "title": "Luteinising Hormone Secretion from the Perifused Ovine Pars tuberalis and Pars distalis: Effects of Gonadotropin-Releasing Hormone and Melatonin",
+        "organization": "Reader IBAHCM College of Medicine Veterinary Medicine and Life Sciences University of Glasgow",
+        "abstract": "It is not known where melatonin acts to influence the neuroendocrine axis of seasonally breeding mammals. However, since the pars tuberalis (PT) contains the highest density of melatonin receptors, this adenohypophyseal subdivision is a potential target. Gonadotropes are the only immunocytochemically detectable adenohypophyseal cell type of abundance in the PT. This study investigated whether melatonin could modulate basal and/or gonadotropin-releasing hormone (GnRH)-stimulated luteinising hormone (LH) secretion from the ovine PT and pars distalis (PD) in vitro. Tissue fragments from both pituitary areas were placed in separate chambers in a constant-environment perifusion system (37°C; 100 µl/min) and 10-min effluent fractions were collected, frozen and later assayed for LH. Sixty minutes prior to a GnRH challenge (10 min; 10 nM), melatonin (1 µM or 100 nM) was added to the perifusate of half the tissue fragments. GnRH increased (p < 0.01) LH output from both pituitary subdivisions. Melatonin attenuated (p < 0.05) the GnRH-induced increase in LH output from the PT but not from the PD. The physiological importance of this melatonin-attenuated PT LH is unknown but it may play a role in modulating the neuroendocrine reproductive axis.",
+        "email": "",
+        "conf": "Neuroendocrinology",
+        "coauthors": [
+            "Donal C. Skinner",
+            "Jane E Robinson"
+        ],
+        "keywords": "Gonadotropins,Gonadotropin-releasing hormone,Melatonin,Pars tuberalis,Sheep"
+    },
+    {
+        "id": 4595,
+        "label": 87,
+        "author": "jane robinson",
+        "title": "A photoperiodic response in gonadectomized Japanese quail exposed a single long day",
+        "organization": "Reader IBAHCM College of Medicine Veterinary Medicine and Life Sciences University of Glasgow",
+        "abstract": "Gonadectomized male Japanese quail maintained on short daylengths (8 h light: 16 h darkness) showed a reliable and repeatable response, in terms of increased gonadotrophin secretion, to a single long photoperiod (20 h light) followed by continuous darkness. Plasma levels of LH were significantly increased within 4 h of the end of the long day. Secretion continued to increase with time and LH and FSH concentrations reached a maximum some 24 h later, thereafter decreasing only slowly over the next 8–10 days. Quail could be used repeatedly at fortnightly intervals and gave a consistent response for at least 15 months. The size of the photoperiodic response and its considerable duration were much greater than found in intact quail. The birds showed a similar (though reduced) response if a short daylength was followed by a single 4-h light pulse interrupting the 16-h dark period. Using this system the time of maximum responsivity to the inductive effects of light lies 10–16 h from 'dawn'. The marked and rapid effects described provide an excellent experimental system in which to study how photoperiodic changes are recognized and how consequent neural activation is translated into enhanced secretion rates of hormones in the peripheral endocrine system.",
+        "email": "",
+        "conf": "Journal of Endocrinology",
+        "coauthors": [
+            "T J Nicholls",
+            "B K Follett",
+            "Jane E Robinson"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4583,
+        "label": 87,
+        "author": "jane robinson",
+        "title": "Characteristics of melatonin signal that provide the photoperiodic code for timing seasonal reproduction in the ewe",
+        "organization": "Reader IBAHCM College of Medicine Veterinary Medicine and Life Sciences University of Glasgow",
+        "abstract": "The following is a progress report of our studies to identify important features of the circadian pattern of melatonin secretion which provide the photoperiodic code for daylength in regulating seasonal breeding in the Suffolk ewe. The first series of experiments evaluated two conceptual models of how melatonin codes for daylength : the circadian timing of the melatonin elevation as opposed to the length of the time melatonin is elevated during each 24-hr period (phase vs duration). Strong support has been gathered for the duration hypothesis. No evidence was obtained to support a role for phase ; nevertheless, this hypothesis could not be discounted definitively. A second series of studies evaluated the importance of the previous melatonin pattern to the interpretation of a given melatonin signal. Evidence is presented that a fixed melatonin pattern can maintain a given reproductive response only for a limited length of time and that this response can be prolonged by appropriate changes in the melatonin pattern. Thus, change is an important feature of the melatonin signal. Further, the nature of the melatonin change appears to be crucial, specifically whether the nocturnal elevation increases or decreases in duration. Thus, transfer to a common photoperiod can promote either reproductive induction or arrest, depending upon whether the transfer leads to a decrease or increase in daylength. This has important ramifications to the photoperiodic timekeeping process in those species of mammals which utilize daylength to time their seasonal reproductive cycle.",
+        "email": "",
+        "conf": "Reproduction Nutrition Development",
+        "coauthors": [
+            "F J Karsch",
+            "B Malpaux",
+            "Nancy L Wayne",
+            "Jane E Robinson"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4586,
+        "label": 87,
+        "author": "jane robinson",
+        "title": "Melatonin and photorefractoriness: Loss of response to the melatonin signal leads to seasonal reproductive transitions in the ewe",
+        "organization": "Reader IBAHCM College of Medicine Veterinary Medicine and Life Sciences University of Glasgow",
+        "abstract": "Experiments were conducted to examine whether the refractoriness of the Suffolk ewe to the reproductive effects of day length is associated with a deficit in the generation of the circadian rhythm of melatonin secretion or in the postpineal processing of this photoperiodic message. Using serum luteinizing hormone (LH) concentrations in ovariectomized ewes bearing constant-release estradiol implants as a marker of reproductive induction, ewes with intact pineal glands were found to become unresponsive to fixed artificial photoperiods that initially had been either inductive (short days) or inhibitory (long days). The loss of the photoperiodic response was not associated with notable changes in the 24-h secretory pattern of melatonin, which remained characteristically low throughout the day and rose at night. In pinealectomized ewes, nightly infusion of a stimulatory pattern of melatonin (simulating that seen on short days) initially provoked reproductive induction; this response then lessened over much the same time course that pineal intact ewes became refractory to short days. These results support the hypothesis that photorefractoriness reflects a deficit in the postpineal processing of the photoperiodic message. Further, in view of recent evidence that photorefractoriness normally leads to both onset and cessation of the breeding season in Suffolk ewes maintained outdoors, these findings suggest that the loss of response to the melatonin signal contributes to at least one of these reproductive transitions, the cessation of the breeding season, under natural environmental conditions.",
+        "email": "",
+        "conf": "Biology of Reproduction",
+        "coauthors": [
+            "Fred J. Karsch",
+            "Eric L. Bittman",
+            "Jane E. Robinson",
+            "Steven M. Yellon",
+            "Nancy L. Wayne",
+            "Deborah H. Olster",
+            "Alan H. Kaynard"
+        ],
+        "keywords": "Reproductive cycle, Environment, Aminoacid derivative hormone, Light, Sheep, Melatonine, Photoperiod, Circannual rhythm, Refractoriness, Artiodactyla, Mammalia, Ungulata, Vertebrata"
+    },
+    {
+        "id": 4563,
+        "label": 87,
+        "author": "jane robinson",
+        "title": "In Utero Exposure of Female Lambs to Testosterone Reduces the Sensitivity of the GnRH Neuronal Network to Inhibition by Progesterone",
+        "organization": "Reader IBAHCM College of Medicine Veterinary Medicine and Life Sciences University of Glasgow",
+        "abstract": "Exposure of the female ovine fetus to exogenous androgens during early gestation permanently masculinizes the reproductive anatomy, physiology, and behavior of the adult ewe. In utero testosterone exposure has been shown to act centrally on the GnRH neuronal network to alter the response to both the stimulatory and inhibitory actions of estrogen. It is currently unknown whether fetal androgens alter other mechanisms that are critical for the regulation of GnRH release and, specifically, other important regulatory steroid feedback loops. Three studies were performed on gonadectomized postpubertal sheep to determine whether the inhibitory actions of progesterone on episodic LH release are also sex-specific and engendered by early in utero exposure to testosterone. In each study, the pulsatile pattern of LH release was determined both before and after the sc implantation of a progesterone releasing CIDR device. The studies involved 7 female, 7 male, and 12 androgenized female sheep (T60 (n = 7) and T30 (n = 5) groups; 200 mg testosterone propionate/week im to the mother for 60 or 30 days, respectively, from day 30–90 or 60–90 of pregnancy). The first two studies were performed in the anestrous season in the presence (Exp 1) or absence (Exp 2) of a low circulating concentration of estradiol. Exp 3 was carried out in the breeding season in the absence of exogenous estrogen. In all three studies progesterone inhibited LH pulse frequency only in the females. Progesterone had no action on mean LH concentrations or the frequency or amplitude of LH pulses in the males or either group of androgenized ewes. We conclude that the inhibition of episodic LH release by progesterone is sexually differentiated in the sheep, males being less responsive than females to steroid negative feedback. Further, these sex differences are a consequence of in utero exposure to androgens for a period as short as 30 days between days 60 and 90 of a 147-day pregnancy.",
+        "email": "",
+        "conf": "Endocrinology",
+        "coauthors": [
+            "Jane E Robinson",
+            "Rachel A. Forsdike",
+            "James A. Taylor"
+        ],
+        "keywords": "Neuroendocrinology"
+    },
+    {
+        "id": 4551,
+        "label": 87,
+        "author": "jane robinson",
+        "title": "Prenatal Programming of Reproductive Neuroendocrine Function: The Effect of Prenatal Androgens on the Development of Estrogen Positive Feedback and Ovarian Cycles in the Ewe",
+        "organization": "Reader IBAHCM College of Medicine Veterinary Medicine and Life Sciences University of Glasgow",
+        "abstract": "Exposure of the female ovine fetus to male hormones during a sensitive window of in utero life causes disruption to reproductive function. In some animals, androgen exposure completely abolishes reproductive cycles, but in others, cycles are progressively lost with age. The present study tested two predictions: that noncycling, androgenized animals are unable to respond to estrogen with a preovulatory-like surge of LH (estrogen positive feedback), and that the androgenized animals that exhibit a progressive loss of cycles also show a progressive loss of estrogen positive feedback. Androgenized ewes were generated by injection of their mothers with testosterone propionate twice per week from Day 30 to Day 90 of pregnancy (term, 147 days). Control ewes received no injections. Whether ewes could exhibit estrogen positive feedback was tested on five occasions before puberty (30 wk) and once during the anestrous period. All control animals had repeated reproductive cycles in both the first and second breeding season, and all showed robust LH surges during test periods. Despite the fact that 64% of androgenized animals showed reproductive cycles, estrogen positive feedback could be demonstrated in only 6.1% of trials. Subsequent experiments revealed that the lack of response to estrogen in androgenized animals was not because of pituitary insensitivity to GnRH, a requirement for higher concentrations of estrogen, or a surge that was delayed relative to the time of estrogen administration. The mechanisms by which some androgenized ewes can produce normal reproductive cycles in the apparent absence of estrogen positive feedback are currently unknown.",
+        "email": "",
+        "conf": "Biology of Reproduction",
+        "coauthors": [
+            "William P Unsworth",
+            "James A Taylor",
+            "Jane E Robinson"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4529,
+        "label": 87,
+        "author": "jane robinson",
+        "title": "Prenatal programming of neuroendocrine reproductive function",
+        "organization": "Reader IBAHCM College of Medicine Veterinary Medicine and Life Sciences University of Glasgow",
+        "abstract": "It is now well recognized that the gestational environment can have long-lasting effects not only on the life span and health span of an individual but also, through potential epigenetic changes, on future generations. This article reviews the “prenatal programming” of the neuroendocrine systems that regulate reproduction, with a specific focus on the lessons learned using ovine models. The review examines the critical roles played by steroids in normal reproductive development before considering the effects of prenatal exposure to exogenous steroid hormones including androgens and estrogens, the effects of maternal nutrition and stress during gestation, and the effects of exogenous chemicals such as alcohol and environment chemicals. In so doing, it becomes evident that, to maximize fitness, the regulation of reproduction has evolved to be responsive to many different internal and external cues and that the GnRH neurosecretory system expresses a degree of plasticity throughout life. During fetal life, however, the system is particularly sensitive to change and at this time, the GnRH neurosecretory system can be “shaped” both to achieve normal sexually differentiated function but also in ways that may adversely affect or even prevent “normal function”. The exact mechanisms through which these programmed changes are brought about remain largely uncharacterized but are likely to differ depending on the factor, the timing of exposure to that factor, and the species. It would appear, however, that some afferent systems to the GnRH neurons such as kisspeptin, may be critical in this regard as it would appear to be sensitive to a wide variety of factors that can program reproductive function. Finally, it has been noted that the prenatal programming of neuroendocrine reproductive function can be associated with epigenetic changes, which would suggest that in addition to direct effects on the exposed offspring, prenatal programming could have transgenerational effects on reproductive potential.",
+        "email": "",
+        "conf": "Theriogenology",
+        "coauthors": [
+            "Neil P Evans",
+            "Michelle Bellingham",
+            "Jane E Robinson"
+        ],
+        "keywords": "Prenatal programming,Androgen,Stress,Nutrition,Environmental chemical,Sheep"
+    },
+    {
+        "id": 4536,
+        "label": 87,
+        "author": "jane robinson",
+        "title": "Developmental post-natal stress can alter the effects of pre-natal stress on the adult redox balance",
+        "organization": "Reader IBAHCM College of Medicine Veterinary Medicine and Life Sciences University of Glasgow",
+        "abstract": "Across diverse vertebrate taxa, stressful environmental conditions during development can shape phenotypic trajectories of developing individuals, which, while adaptive in the short-term, may impair health and survival in adulthood. Regardless, the long-lasting benefits or costs of early life stress are likely to depend on the conditions experienced across differing stages of development. Here, we used the Japanese quail (Coturnix coturnix japonica) to experimentally manipulate exposure to stress hormones in developing individuals. We tested the hypothesis that interactions occurring between pre- and post-natal developmental periods can induce long-term shifts on the adult oxidant phenotype in non-breeding sexually mature individuals. We showed that early life stress can induce long-term alterations in the basal antioxidant defences. The magnitude of these effects depended upon the timing of glucocorticoid exposure and upon interactions between the pre- and post-natal stressful stimuli. We also found differences among tissues with stronger effects in the erythrocytes than in the brain in which the long-term effects of glucocorticoids on antioxidant biomarkers appeared to be region-specific. Recent experimental work has demonstrated that early life exposure to stress hormones can markedly reduce adult survival (Monaghan et al., 2012). Our results suggest that long-term shifts in basal antioxidant defences might be one of the potential mechanisms driving such accelerated ageing processes and that post-natal interventions during development may be a potential tool to shape the effects induced by pre-natally glucococorticoid-exposed phenotypes.",
+        "email": "",
+        "conf": "General and Comparative Endocrinology",
+        "coauthors": [
+            "Valeria Marasco",
+            "Karen Anne Spencer",
+            "Jane E Robinson",
+            "Pawel Herzyk",
+            "David Costantini"
+        ],
+        "keywords": "Developmental stress,Glucocorticoid programming,Redox physiology,Oxidative stress,Antioxidant defences,Oxidative damage"
+    },
+    {
+        "id": 4542,
+        "label": 87,
+        "author": "jane robinson",
+        "title": "Masculinization of the Distal Tubular and External Genitalia in Female Sheep With Prenatal Androgen Exposure",
+        "organization": "Reader IBAHCM College of Medicine Veterinary Medicine and Life Sciences University of Glasgow",
+        "abstract": "Prenatal exposure to endogenous or exogenous androgens alters the development of the female reproductive tract. Although lesions in ovaries and external genitalia of androgenized female sheep have been reported, lesions of the tubular genitalia have not. Testosterone propionate (TP) or dihydrotestosterone (DHT) was administered by intramuscular injection twice weekly to 32 ewes from 30 to 90 days of pregnancy. The ewes lambed normally. The reproductive tracts from 24 treated and 13 control postpubertal female offspring were examined at 10 months of age. The ovaries, oviducts, and uteri were grossly and histologically normal in both TP- and DHT-exposed sheep. However, in the DHT-treated sheep, the uterus connected to a misshapen, saccular vagina that opened into the urethra; in the TP-treated sheep, it ended in a blind sac. In both TP- and DHT-treated sheep, the urethra was approximately 5 times longer than that of control sheep, and it resembled a male urethra with bilateral male accessory genital glands. The urethra terminated in a fully developed penis in both TP- and DHT-treated sheep, and a scrotal sac was present (without testes). These results show that prenatal exposure of female sheep to exogenous androgens results in masculinization of the tubular and external genitalia.",
+        "email": "",
+        "conf": "Veterinary Pathology",
+        "coauthors": [
+            "C G Lamm",
+            "Peter Hastie",
+            "Neil P Evans",
+            "Jane E Robinson"
+        ],
+        "keywords": "5α-dihydrotestosterone, androgen, disorder of sexual differentiation, hermaphrodite, pseudohermaphrodite, sheep, testosterone propionate"
+    },
+    {
+        "id": 4532,
+        "label": 87,
+        "author": "jane robinson",
+        "title": "Disorders of follicle development and steroidogenesis in ovaries of androgenised foetal sheep",
+        "organization": "Reader IBAHCM College of Medicine Veterinary Medicine and Life Sciences University of Glasgow",
+        "abstract": "The prenatally androgenised (PA) sheep is a well-recognised model for the study of developmental programming of adult polycystic ovary syndrome (PCOS). Most of the studies to date have involved examination of the reproductive and metabolic effects in the offspring after puberty, but more recently, it has been reported that there is disruption of follicle formation and steroid gene expression in ovaries of foetal sheep after exposure of the mother to excess androgen. Our study examines evidence for precocious primordial follicle formation at day 90 of gestation in ovaries of foetal Poll Dorset sheep. Using a specific marker of germ cells (VASA homologue protein) in ovarian sections, we found that androgenised sheep had nearly double the proportion of germ cells enclosed in follicles compared with control animals. When analysed by follicle stage, there was no significant difference between groups in the proportion of primordial follicles and growing (transitional and primary) follicles. Differences between PA and control foetal sheep were found in both mRNA and in protein expression of steroidogenic enzymes and androgen receptor. Our results in Dorset ewes are complementary to previous reports, but suggest that the timing of follicle formation and steroidogenic activity may vary between different breeds as well as in response to androgen. These data show that granulosa cells constitute a specific target for programming by androgen in uteroand raise key questions about the role of exposure to androgen in utero in developmental origins of PCOS.",
+        "email": "",
+        "conf": "Journal of Endocrinology",
+        "coauthors": [
+            "Fabio Vasconcellos Comim",
+            "Kate Hardy",
+            "Jane E Robinson",
+            "Stephen Franks"
+        ],
+        "keywords": "follicular development; prenatal androgenisation; PCOS; VASA"
+    },
+    {
+        "id": 4553,
+        "label": 87,
+        "author": "jane robinson",
+        "title": "Prenatal Programming of Reproductive Neuroendocrine Function: Fetal Androgen Exposure Produces Progressive Disruption of Reproductive Cycles in Sheep",
+        "organization": "Reader IBAHCM College of Medicine Veterinary Medicine and Life Sciences University of Glasgow",
+        "abstract": "In the agonadal, androgenized ewe testosterone before birth produces a precocious pubertal rise in circulating LH and abolishes the LH surge mechanism. The present study tested two predictions from this model in the ovary-intact female: 1) prenatal androgen exposure produces early ovarian stimulation; and 2) despite early ovarian stimulation, progestogenic cycles would not occur because of the abolition or disruption of the LH surge. Pregnant ewes were injected with testosterone propionate twice per week from either d 30–90 (T60 group; 100 mg/injection) or d 60–90 (T30 group; 80 mg/injection) of gestation (term, 147 d). Control ewes received no injections. At birth, the androgenized and control lambs were divided into two groups: ovary-intact to determine the effects of prenatal androgen on the timing of puberty and subsequent ovarian function, and ovariectomized to assess the timing of the pubertal decrease in sensitivity to estrogen negative feedback and the subsequent increase in LH. Neonatally orchidectomized, estrogen-treated males were included for comparison of the timing of this pubertal rise in LH secretion. Neuroendocrine puberty (determined on the basis of LH increase) was advanced in the androgenized females to a similar age as in males. Repeated progesterone cycles of the same duration and number occurred in the ovary-intact ewes, and they began at the same time as for control females, thus negating both predictions. Differences appeared during the second breeding season, when reproductive cycles were either absent (T60) or disrupted (T30 group). Our findings reveal that exposure to androgens in utero causes a progressive loss of cyclic function in adulthood.",
+        "email": "",
+        "conf": "Endocrinology",
+        "coauthors": [
+            "Rachel A Birch",
+            "Vasantha Padmanabhan",
+            "Douglas L Foster",
+            "William P Unsworth",
+            "Jane E Robinson"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4582,
+        "label": 87,
+        "author": "jane robinson",
+        "title": "Endocrine responses to acute stress in castrated rams: No increase in oxytocin but evidence for an inverse relationship between cortisol and vasopressin",
+        "organization": "Reader IBAHCM College of Medicine Veterinary Medicine and Life Sciences University of Glasgow",
+        "abstract": "Plasma concentrations of cortisol, oxytocin, vasopressin and prolactin were measured by radioimmunoassay in eight castrated rams subjected to handling (control), restraint or isolation. Determinations were also made of hematocrit and plasma osmolality. Blood was collected by jugular venipuncture 60 and less than 1 rnin before, and 5, 15, 30, 60 and 120 min after the start of treatment. Plasma cortisol was raised above pre-treatment levels during isolation and restraint but only transiently after handling. In the first 30 min of treatment, cortisol concentrations were higher following isolation than after restraint or handling and, in the final 60 min, levels were higher during both isolation and restraint than after handling. Oxytocin concentrations showed little change but vasopressin levels were reduced 15, 30 and 60 min after the start of isolation and were negatively correlated with those of cortisol. Plasma prolactin concentrations decreased during handling and restraint but remained unaltered after isolation. Osmolality and hematocrit decreased in all three treatment conditions. These findings indicate that stress does not alter oxytocin levels in sheep, but changes in vasopressin secretion and water balance may occur if cortisol release is greatly enhanced.",
+        "email": "",
+        "conf": "Acta endocrinologica",
+        "coauthors": [
+            "Rick Parrott",
+            "Simon N Thornton",
+            "Jane E Robinson"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4573,
+        "label": 87,
+        "author": "jane robinson",
+        "title": "Calcitonin gene-related peptide (CGRP): immunocytochemical identification of a neuropeptide synthesised by ventral paraventricular magnocellular neurones in the sheep",
+        "organization": "Reader IBAHCM College of Medicine Veterinary Medicine and Life Sciences University of Glasgow",
+        "abstract": "The distribution of calcitonin gene-related peptide (CGRP)-immunoreactive neurones was examined in the hypothalamus and pituitary gland of the short-term ovariectomised ewe. A large number of magnocellular CGRP-immunoreactive neurones were identified in the ventral paraventricular nuclei (PVN); few were found in the dorsal PVN and supraoptic nuclei. Parvicellular CGRP-immunoreactive neurones were identified in low density scattered throughout the preoptic region, anterior and basal hypothalamus and region of the stria terminalis. A dense CGRP innervation of the median eminence and neural lobe of the pituitary was observed. These observations reveal substantial species differences in CGRP immunoreactivity compared with the rat and show that magnocellular CGRP-synthesising neurones in the sheep are essentially restricted to, and define, the ventral PVN. This suggests a functionally distinct role for this previously neglected division of the PVN within the ovine hypothalamo-neurohypophyseal system.",
+        "email": "",
+        "conf": "Brain Research",
+        "coauthors": [
+            "Allan E Herbison",
+            "Jane E Robinson",
+            "Donal C. Skinner"
+        ],
+        "keywords": "Calcitonin gene-related peptide,Immunocytochemistry,Paraventricular nucleus,Pituitary gland,Sheep,Supraoptic nucleus"
+    },
+    {
+        "id": 4550,
+        "label": 87,
+        "author": "jane robinson",
+        "title": "Prenatal programming of the female reproductive neuroendocrine system by androgens",
+        "organization": "Reader IBAHCM College of Medicine Veterinary Medicine and Life Sciences University of Glasgow",
+        "abstract": "It has been clear for several decades that the areas of the brain that control reproductive function are sexually dimorphic and that the ‘programming actions’ of the male gonadal steroids are responsible for sex-specific release of the gonadotrophins from the pituitary gland. The administration of exogenous steroids to fetal/neonatal animals has pinpointed windows of time in an animals’ development when the reproductive neuroendocrine axis is responsive to the organisational influences of androgens. These ‘critical’ periods for sexual differentiation of the brain are trait- and species-specific. The neural network regulating the activity of the gonadotrophin releasing hormone (GnRH) neurones is vital to the control of reproductive function. It appears that early exposure to androgens does not influence the migratory pathway of the GnRH neurone from the olfactory placode or the size of the population of neurones that colonise the postnatal hypothalamus. However, androgens do influence the number and the nature of connections that these neurones make with other neural phenotypes. Gonadal steroid hormones play key roles in the regulation of GnRH release acting largely via steroid-sensitive intermediary neurones that impinge on the GnRH cells. Certain populations of hormonally responsive neurones have been identified that are sexually dimorphic and project from hypothalamic areas known to be involved in the regulation of GnRH release. These neurones are excellent candidates for the programming actions of male hormones in the reproductive neuroendocrine axis of the developing female.",
+        "email": "j.robinson@vet.gla.ac.uk",
+        "conf": "Reproduction (Cambridge England)",
+        "coauthors": [
+            "Jane E Robinson"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4571,
+        "label": 87,
+        "author": "jane robinson",
+        "title": "Gamma amino-butyric acid and the control of GnRH secretion in sheep",
+        "organization": "Reader IBAHCM College of Medicine Veterinary Medicine and Life Sciences University of Glasgow",
+        "abstract": "The release of GnRH from nerve terminals in the median eminence into the portal vessels is influenced by factors in the internal and external environment of the animal. In the former category are the gonadal steroid hormones oestrogen and progesterone which alter the characteristics of GnRH secretion during the oestrous and seasonal cycles. These cannot exert their actions directly on the GnRH neurones as they do not possess hormone receptors. Therefore, some other steroid-sensitive neuronal system must relay this information to the GnRH neurones. Gamma amino-butyric acid (GABA) neurones are good candidates for this role as they contain steroid hormone receptors and synapse on GnRH neurones. Recent studies in ewes have sought to identify a role for GABA in mediating the actions of both oestrogen and progesterone on GnRH release. The technique of microdialysis was used to monitor GABA concentrations in areas containing GnRI-I cell bodies during the oestrogen-induced surge of GnRH and during progesterone negative feedback. Concentrations of this inhibitory neurotransmitter have been shown to fall in the former situation where GnRH release is being stimulated, but to be increased when progesterone is depressing GnRH release. GABA may also be important in mediating the seasonal switch in the negative feedback actions of oestradiol. During the anoestrous season, when oestradiol is a potent inhibitor of GnRH secretion, specific GABA receptor antagonists can stimulate neurohormone release, an action that is not observed in the breeding season when oestrogen is much less potent.",
+        "email": "",
+        "conf": "Journal of reproduction and fertility. Supplement",
+        "coauthors": [
+            "Jane E Robinson"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4527,
+        "label": 87,
+        "author": "jane robinson",
+        "title": "Spatial memory is impaired by peripubertal GnRH agonist treatment and testosterone replacement in sheep",
+        "organization": "Reader IBAHCM College of Medicine Veterinary Medicine and Life Sciences University of Glasgow",
+        "abstract": "Chronic gonadotropin-releasing hormone agonist (GnRHa) is used therapeutically to block activity within the reproductive axis through down-regulation of GnRH receptors within the pituitary gland. GnRH receptors are also expressed in non-reproductive tissues, including areas of the brain such as the hippocampus and amygdala. The impact of long-term GnRHa-treatment on hippocampus-dependent cognitive functions, such as spatial orientation, learning and memory, is not well studied, particularly when treatment encompasses a critical window of development such as puberty. The current study used an ovine model to assess spatial maze performance and memory of rams that were untreated (Controls), had both GnRH and testosterone signaling blocked (GnRHa-treated), or specifically had GnRH signaling blocked (GnRHa-treated with testosterone replacement) during the peripubertal period (8, 27 and 41 weeks of age). The results demonstrate that emotional reactivity during spatial tasks was compromised by the blockade of gonadal steroid signaling, as seen by the restorative effects of testosterone replacement, while traverse times remained unchanged during assessment of spatial orientation and learning. The blockade of GnRH signaling alone was associated with impaired retention of long-term spatial memory and this effect was not restored with the replacement of testosterone signaling. These results indicate that GnRH signaling is involved in the retention and recollection of spatial information, potentially via alterations to spatial reference memory, and that therapeutic medical treatments using chronic GnRHa may have effects on this aspect of cognitive function.",
+        "email": "",
+        "conf": "Psychoneuroendocrinology",
+        "coauthors": [
+            "Denise Hough",
+            "Michelle Bellingham",
+            "Ira Ronit Hebold Haraldsen",
+            "M McLaughlin",
+            "M Rennie",
+            "J E Robinson",
+            "A K Solbakk",
+            "Neil P Evans"
+        ],
+        "keywords": "Spatial orientation,Spatial memory,Hippocampus,GnRH,Puberty,Gender dysphoria"
+    },
+    {
+        "id": 4555,
+        "label": 87,
+        "author": "jane robinson",
+        "title": "Progesterone Blocks the Estradiol-Stimulated Luteinizing Hormone Surge by Disrupting Activation in Response to a Stimulatory Estradiol Signal in the Ewe",
+        "organization": "Reader IBAHCM College of Medicine Veterinary Medicine and Life Sciences University of Glasgow",
+        "abstract": "The preovulatory surges of GnRH and LH are activated by increased concentrations of circulating estradiol, but ovulation is blocked when progesterone concentrations are elevated. Although it is has been shown that this action of progesterone is due to a central inhibition of the GnRH surge, the mechanisms that underlie the blockade of the GnRH surge are poorly understood. In this study we investigated whether progesterone can block the estradiol-dependent activation stage of the GnRH surge induction process, and thus prevent expression of the LH surge. The results demonstrated that exposure to progesterone for half or the full duration of the activation stage can prevent the stimulation of LH surges by estradiol (experiment 1), whereas exposure to progesterone midway though a period of estradiol exposure, which in itself is sufficient to activate the surge, did not block the LH surge (experiment 2). These results suggest that progesterone 1) disrupts activation of the surge induction system in response to a stimulatory estradiol signal and 2) does not compromise the ability of animals to respond to a stimulatory estradiol signal applied immediately after progesterone exposure. Because the disruptive effects of activated progesterone in response to estradiol are rapid but transient, it may be that progesterone directly interferes with the activation of estradiol-responsive neural systems to block the GnRH/LH surge.",
+        "email": "",
+        "conf": "Biology of Reproduction",
+        "coauthors": [
+            "Trevor A Richter",
+            "Jane E Robinson",
+            "Neil P Evans"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4537,
+        "label": 87,
+        "author": "jane robinson",
+        "title": "Sex-specific development of spatial orientation is independent of peripubertal gonadal steroids",
+        "organization": "Reader IBAHCM College of Medicine Veterinary Medicine and Life Sciences University of Glasgow",
+        "abstract": "Prenatal exposure to androgens has been shown to modulate brain development, resulting in changed behavioral attitudes, sexual orientation and cognitive functions, including processing of spatial information. Whether later changes in gonadotropic hormones during puberty induce further organizational effects within the brain is still insufficiently understood. The purpose of this study was to assess development of spatial orientation before and after the time of normal pubertal development, in an ovine model where half of the animals did not undergo typical reproductive maturation due to the pharmacological blockade of gonadotropin releasing hormone receptor (GnRHR) signaling. The study formed part of a larger trial and utilized 46 pairs of same sex Scottish Mule Texel Cross twins (22 female and 24 male). One twin remained untreated throughout (control) while the other received a subcutaneous GnRH agonist (GnRHa: Goserelin-Acetate) implant every fourth week. GnRHa treatment began at eight and 28 weeks of age, in males and females respectively, because the timing of the pubertal transition is sexually differentiated in sheep as it is in humans. Spatial orientation was assessed at three different time points: eight weeks of age, before puberty and treatment in both sexes; 28 weeks of age, after 20 weeks GnRHa treatment in males and before puberty and GnRHa treatment in females; and at 48 weeks of age, which is after the normal time of the pubertal transition in both sexes. Spatial orientation was tested in a spatial maze with traverse time as the main outcome measure. GnRHa treatment did not affect spatial maze performance as no significant differences in traverse time between treated and untreated animals were observed at any time-point. Adolescent females (48 weeks of age) traversed the maze significantly faster than adolescent males, whereas no sex differences in traverse time were seen at earlier developmental stages (eight and 28 weeks). Development of sex differences in spatial orientation was independent of exposure to pubertal hormones since puberty-blocked and control animals both showed the same pattern of spatial maze performance. This result demonstrates the prenatal nature of spatial orientation development. Furthermore, the unexpected finding that female animals outperformed males in the spatial orientation task, underscores the importance of the testing context in spatial orientation experiments.",
+        "email": "",
+        "conf": "Psychoneuroendocrinology",
+        "coauthors": [
+            "Slawomir Wojniusz",
+            "Erik Ropstad",
+            "Neil P Evans",
+            "Jane E Robinson",
+            "Anne-Kristin Solbakk",
+            "Tor Endestad",
+            "Ira Ronit Hebold Haraldsen"
+        ],
+        "keywords": "Spatial orientation,Gonadotropin releasing hormone agonist,Gonadotropin releasing hormone,GnRH,Puberty,Sheep,Sex differences,Cognitive function"
+    },
+    {
+        "id": 4545,
+        "label": 87,
+        "author": "jane robinson",
+        "title": "Prenatal Exposure of the Ovine Fetus to Androgens Reduces the Proportion of Neurons in the Ventromedial and Arcuate Nucleus that Are Activated by Short-Term Exposure to Estrogen",
+        "organization": "Reader IBAHCM College of Medicine Veterinary Medicine and Life Sciences University of Glasgow",
+        "abstract": "In sheep, the steroid control of gonadotropin-releasing hormone (GNRH) release is sexually differentiated such that estrogen can trigger a GNRH surge and attendant reproductive behaviors in the female, but not the male. Furthermore, female lambs that have been exposed to testosterone during a critical window of in utero development are also unable to generate a GNRH surge. This study tests the hypothesis that exposure of the ovine fetus to androgens alters the development of key steroid-receptive neuronal inputs to the GNRH neurons. In adulthood, this results in reduced activation of specific neurons by estrogen in the male and testosterone-treated female. To make this determination, groups of ewes, rams, and testosterone-exposed ewes were treated with estrogen, and the activation of neurons in the mediobasal hypothalamus and brain stem determined by immunocytochemistry. A lower percentage of neurons in the ventrolateral aspect of the ventromedial nucleus (vlVMN) and the caudal arcuate nucleus (cARC), but not the brainstem, was activated by a 6-h exposure to estrogen in the androgenized and male animals. In the vlVMN, some of these neurons contain somatostatin; however, the phenotype of activated neurons in the cARC remains unknown. These data suggest that specific neural populations in these brain regions are involved in the estrogen feedback control of GNRH release in the sheep, and that the defeminization of the surge-generating system by in utero androgen exposure results, in part, from a failure of estrogen to activate key neural phenotypes.",
+        "email": "",
+        "conf": "Biology of Reproduction",
+        "coauthors": [
+            "Jane E Robinson",
+            "Jo Grindrod",
+            "Suzanne Jeurissen",
+            "James A Taylor",
+            "William P Unsworth"
+        ],
+        "keywords": "endocrine control, estrogens, foetal death, foetus, gonadoliberin, gonadotropin releasing hormone, hormonal regulation, nerve cells, neurones"
+    },
+    {
+        "id": 4561,
+        "label": 87,
+        "author": "jane robinson",
+        "title": "Intra-follicular activin availability is altered in prenatally-androgenized lambs",
+        "organization": "Reader IBAHCM College of Medicine Veterinary Medicine and Life Sciences University of Glasgow",
+        "abstract": "Prenatal exposure of sheep to testosterone (T) disrupts ovarian cyclicity and leads to anovulation in adulthood. We propose that the disruption of ovarian function in prenatally-androgenized sheep is mediated via follicular defects stemming from reduced intrafollicular activin availability/action. The intra-follicular activin availability/action that facilitates follicular development is dictated by the relative proportions of activins, inhibins (antagonists of activin action) and follistatins (FS; binding proteins of activin and negator of activin action). Inhibin α, βA, βB, and FS mRNA expression were determined by in situ hybridization in 5 week-old ovaries from control (C) lambs or those exposed to testosterone (T) or DHT from 30–90 days of gestation. In utero exposure to T, but not DHT, increased total ovarian weight (0.4±0.1, 1.5±0.5 and 0.3±0.1 g, C, T and DHT, respectively) and total number of follicles (16.5±2.8, 37.8±7.9, and 18.8±3.0). With the exception of two follicles in T animals, all follicles were ≤2 mm in diameter. All follicles ≤2 mm in all groups expressed FSH receptor mRNA in the granulosa cells and LH receptor only in the thecal cells. The percentage of follicles expressing FS mRNA was increased (P<0.05) in sheep prenatally-androgenized with either T (80.4±8) or DHT (80.3±5.5) as compared to C (50.8±8.2). In contrast, the percentage of follicles expressing activin βB mRNA tended to be lower (P=0.06) in the T (30.9±7.1) and DHT (40.5±3.3) groups as compared to C (66.1±15.6). Increased expression of FS along with the reduced expression of activin βB mRNA provides evidence for compromised intra-follicular activin availability in the majority of follicles in the androgenized groups. The increase in ovarian weight and follicular number in the T, but not in the DHT group, suggests that the effects of T are mediated through the action of estrogen. We speculate that the decrease in relative abundance of activin may contribute to the selection defects in prenatally-androgenized sheep. If true, this may be a useful model to understand the etiology of polycystic ovarian syndrome.",
+        "email": "",
+        "conf": "Molecular and Cellular Endocrinology",
+        "coauthors": [
+            "Christine R West",
+            "Douglas L. Foster",
+            "Neil P Evans",
+            "Jane E Robinson",
+            "Vasantha Padmanabhan"
+        ],
+        "keywords": "Inhibin,Follistatin,Folliculogenesis,PCOS"
+    },
+    {
+        "id": 4597,
+        "label": 87,
+        "author": "jane robinson",
+        "title": "Prenatal exposure to androgens leads to the development of cystic ovaries in the sheep",
+        "organization": "Reader IBAHCM College of Medicine Veterinary Medicine and Life Sciences University of Glasgow",
+        "abstract": "",
+        "email": "",
+        "conf": "Biology of Reproduction",
+        "coauthors": [
+            "Vasantha Padmanabhan",
+            "Neil P Evans",
+            "J. A. Taylor",
+            "Jane E Robinson"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4556,
+        "label": 87,
+        "author": "jane robinson",
+        "title": "In utero programming of sexually differentiated gonadotrophin releasing hormone (GnRH) secretion",
+        "organization": "Reader IBAHCM College of Medicine Veterinary Medicine and Life Sciences University of Glasgow",
+        "abstract": "It has long been recognised that steroids can have both organisational and activational effects on the reproductive neuroendocrine axis of many species, including the sheep. Specifically, if the ovine foetus is exposed to testosterone during a relatively short ‘window’ of in utero development (from approximately day 30–90 of a 147 day pregnancy) the neural mechanisms regulating gonadotrophin releasing hormone (GnRH) secretion become organised in a male-specific manner. In post-natal life the consequences of foetal androgen exposure are sexually differentiated responses of the GnRH neuronal network to activation by factors such as photoperiod and ovarian steroid hormones. Studies in the gonadectomised lamb have demonstrated that elevated concentrations of oestrogen (E) are unable to trigger a preovulatory-like GnRH surge in the male and the androgenised ewe lamb. Further, these animals have markedly reduced sensitivity to the inhibitory actions of progesterone on tonic GnRH release compared with normal ewes. The reasons for these abnormal steroid feedback mechanisms may reside in sexually dimorphic inputs to the GnRH neurone, including those from oestrogen-receptive neurones in the arcuate nucleus that synthetise the neuropeptide, neurokinin B (NKB). The consequences of in utero androgen exposure are reflected in a progressive and dramatic impairment of fertility in the ovary-intact ewe.",
+        "email": "jane.robinson@bbsrc.ac.uk",
+        "conf": "Domestic Animal Endocrinology",
+        "coauthors": [
+            "Jane E Robinson",
+            "Rachel A Birch",
+            "James A Taylor",
+            "Douglas L Foster",
+            "Vasantha Padmanabhan"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4539,
+        "label": 87,
+        "author": "jane robinson",
+        "title": "Pre- and post-natal stress in context: Effects on the stress physiology in a precocial bird",
+        "organization": "Reader IBAHCM College of Medicine Veterinary Medicine and Life Sciences University of Glasgow",
+        "abstract": "Developmental stress can significantly influence physiology and survival in many species. Mammalian studies suggest that pre- and post-natal stress can have different effects (i.e. hyper- or hypo-responsiveness) on the hypothalamic–pituitary–adrenal (HPA) axis, the main mediator of the stress response. In mammals, the physiological intimacy between mother and offspring constrains the possibility to control, and therefore manipulate, maternal pre- and post-natal influences. Here, using the Japanese quail (Coturnix coturnix japonica) as our model, we elevated levels of the glucocorticoid stress hormone corticosterone in ovo and/or in the endogenous circulation of hatchlings. We examined the effects of treatments on corticosterone and glucose stress responses at two different ages, in juvenile and adult quail. In juveniles, corticosterone data revealed a sex-specific effect of post-natal treatment regardless of the previous pre-natal protocol, with post-natally treated females showing shorter stress responses in comparison with the other groups, while no differences were observed among males. In adulthood, birds previously stressed as embryos showed higher corticosterone concentrations over the stress response compared with controls. This effect was not evident in birds subjected to either post-natal treatment or the combined treatments. There were no effects on glucose in the juveniles. However, adult birds previously stressed in ovo showed opposite sex-specific basal glucose patterns compared with the other groups. Our results demonstrate that (1) early glucocorticoid exposure can have both transient and long-term effects on the HPA axis, depending upon the developmental stage and sex and (2) post-natal stress can modulate the effects of pre-natal stress on HPA activity.",
+        "email": "",
+        "conf": "Journal of Experimental Biology",
+        "coauthors": [
+            "Valeria Marasco",
+            "Jane E Robinson",
+            "Pawel Herzyk",
+            "Karen Anne Spencer"
+        ],
+        "keywords": "early life stress, vertebrate stress response, glucocorticoids, corticosterone, growth, glucose balance, HPA axis responsiveness, short- and long-term effects, glucocorticoid programming"
+    },
+    {
+        "id": 4589,
+        "label": 87,
+        "author": "jane robinson",
+        "title": "Refractoriness to inhibitory day lengths initiates the breeding season of the Suffolk ewe",
+        "organization": "Reader IBAHCM College of Medicine Veterinary Medicine and Life Sciences University of Glasgow",
+        "abstract": "Recent evidence indicates that the breeding season of the Suffolk ewe ends because of loss of response to a day length that was previously inductive. This condition of photorefractoriness could potentially also initiate reproduction, as is the case in several long-day breeding rodents. In this study we determined if ewes enter their breeding season because they become refractory to the long ambient photoperiods of late summer. On the summer solstice, 3 groups of ovariectomized ewes (n=6) bearing s.c. Silastic implants of estradiol (OVX + E) were placed in different day length treatments: 1) natural photoperiod; 2) artificial photoperiod, stimulating natural day lengths; or 3) artificial photoperiod equivalent to that of the summer solstice (16.25L). Entry into the breeding season is associated with a striking (> 30-fold) increase in circulating levels of luteinizing hormone (LH). Timing of the onset of the breeding season was not delayed in ewes maintained on the summer solstice photoperiod; LH levels rose simultaneously in all groups. We conclude that ewes normally begin breeding not because they are actively driven to do so by decreasing or short days, but because they become refractory to prevailing long days. Because the pattern of circulating melatonin, which is known to transduce the photoperiodic message, remained entirely appropriate to day length, we believe that the mechanism responsible for photorefractoriness resides in the postpineal processing of the melatonin signal.",
+        "email": "",
+        "conf": "Biology of Reproduction",
+        "coauthors": [
+            "Jane E Robinson",
+            "Nancy Wayne",
+            "Fred J Karsch"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4533,
+        "label": 87,
+        "author": "jane robinson",
+        "title": "Sexing in Guinea fowls (Numida meleagris)",
+        "organization": "Reader IBAHCM College of Medicine Veterinary Medicine and Life Sciences University of Glasgow",
+        "abstract": "Despite the potentials and contributions of guinea fowls to economic and social life in Ghana, accurate sex identification in these birds is still a major problem. Three hundred and sixty guinea fowls (180 birds per sex) were used in determining a more accurate and farmer friendly sexing technique. The sexing methods explored were vent, biometric, and molecular techniques. Vent sexing was accomplished by measuring phalli in 28 and 32-week-old birds, while biometric sexing involved the measurement of morphometric traits and data analyzed using discriminant function analysis. Molecular sexing was carried out by DNA extraction and subsequent PCR using the 2550F/2718R primer set. Females had a wider (P<0.05) pelvic inlet than male birds from first week of age until the end of the study, while the opposite was true for wattle length. However, wattle length differed (P<0.05) between both sexes after 4 weeks of age. Combining the biometric variables in a discriminant function, males could be distinguished from females with an accuracy of 94%. During molecular sexing, the P2/P8 primer set was not effective in sexing guinea fowls because it amplified a single band in both sexes and in the same manner. The sex of guinea fowls was properly determined using the primer set 2550F/2718R. Females produced 2 bands of 396 bp and 344 bp, while males only produced the larger band. Phallus size in the 2 sexes were distinguishable from 8 weeks of age, with males having longer and thicker (P<0.05) phalli than their female counterparts. Combining the 2 variables in a discriminate function, males and females could be distinguished with 98.3% accuracy. While the molecular method remains the most accurate sexing technique, the biometric method emerged as the most farmer friendly approach to sexing guinea fowls.",
+        "email": "",
+        "conf": "Poultry Science",
+        "coauthors": [
+            "Ibn Iddriss Abdul-Rahman",
+            "Bawa Awumbila",
+            "Ian Jeffcoate",
+            "Jane E Robinson",
+            "Frederick Yeboah Obese"
+        ],
+        "keywords": "biometric; guinea fowl; molecular; sexing; vent"
+    },
+    {
+        "id": 4528,
+        "label": 87,
+        "author": "jane robinson",
+        "title": "Spermatogenesis and cellular associations in the seminiferous epithelium of Guinea cock (Numida meleagris)",
+        "organization": "Reader IBAHCM College of Medicine Veterinary Medicine and Life Sciences University of Glasgow",
+        "abstract": "The study describes the steps of spermiogenesis and stages of seminiferous epithelial cycle in breeding guinea cocks. Sections embedded in epoxy resin were employed for the determination of the stages of seminiferous epithelial cycle in the guinea fowl. Acrosomic granules aided in identifying the initial steps of spermiogenesis, whereas nuclear morphological changes facilitated the identification of subsequent stages. Eleven steps of spermiogenesis and nine stages of seminiferous epithelium were recognized in the guinea fowl testis. Three spermatogonial types, namely, spermatogonial A, B and intermediate were identified in the guinea fowl seminiferous epithelium. Spermatogonial A and preleptotene spermatocytes had the largest (P < 0.05) nuclei diameters in the seminiferous epithelium, whereas round spermatids had the least. Within germ cells, no significant (P > 0.05) differences were found among birds in spermatogonial A and intermediate spermatogonial nuclei diameters. Spermatogonial B, preleptotene primary spermatocyte, type I spermatocyte (primary spermatocyte in prophase I), and round spermatid nuclei diameters were, however, bigger (P < 0.05) in some birds than others. The classification of the seminiferous epithelial cycle in the guinea fowl was similar to that described in other birds and mammals.",
+        "email": "",
+        "conf": "Canadian Journal of Animal Science",
+        "coauthors": [
+            "Ibn Iddriss Abdul-Rahman",
+            "Frederick Yeboah Obese",
+            "Jane E Robinson"
+        ],
+        "keywords": "guinea fowl, germ cell, spermiogenesis, nuclear diameter"
+    },
+    {
+        "id": 4580,
+        "label": 87,
+        "author": "jane robinson",
+        "title": "Importance of Pituitary and Neural Actions of Estradiol in Induction of the Luteinizing Hormone Surge in the Ewe",
+        "organization": "Reader IBAHCM College of Medicine Veterinary Medicine and Life Sciences University of Glasgow",
+        "abstract": "Two experiments were performed to test the importance of both pituitary and neural sites of action of estradiol in inducing the surge of luteinizing hormone (LH) in the ewe. Both experiments were conducted using an animal model in which pulsatile secretion of gonadotropin-releasing hormone (GnRH) and endogenous secretion of ovarian steroids were eliminated by ovariectomy during seasonal anestrus and treatment with Silastic implants which maintained a luteal-phase level of serum progesterone. The hormonal requirements for the surge were then evaluated by systematic application of GnRH and estradiol signals using pulsatile infusion pumps (for GnRH) and Silastic implants (for estradiol). In experiment 1 the circulating level of estradiol and frequency of GnRH pulses were increased either abruptly or progressively (i.e. mimicking the changes in the estrous cycle between luteolysis and just before the LH surge). Abrupt increments led to an LH surge in all ewes; progressive rises to the same absolute levels did not. However, sudden application of a further large increase in GnRH upon the progressive rise elicited an LH surge in every instance. In experiment 2, a GnRH pulse pattern known to be effective in inducing the LH surge was applied under conditions of differing estradiol concentration: no estradiol, basal estradiol, basal rising to peak estradiol. The GnRH signal elicited high-amplitude surges of LH only in the presence of a peak estradiol concentration. Our findings are consistent with the conclusion that two actions are required for a rise in estradiol to elicit a full-amplitude surge of LH in the ewe: an action on the brain to evoke a sudden increase in GnRH release and an action on the pituitary to maximize its response to GnRH.",
+        "email": "",
+        "conf": "Neuroendocrinology",
+        "coauthors": [
+            "Alan H. Kaynard",
+            "B Malpaux",
+            "Jane E Robinson",
+            "Fred J. Karsch"
+        ],
+        "keywords": "Feedback, Hormone releasing factor, Gonadotropin RH, Gonadotropin, Adenohypophyseal hormone, Hypothalamic hormone, Ovarian hormone, Sex steroid hormone, LH Sheep, Estradiol, Estrogen, Artiodactyla, Mammalia, Ungulata, Vertebrata"
+    },
+    {
+        "id": 4596,
+        "label": 87,
+        "author": "jane robinson",
+        "title": "Photoperiodism in Japanese Quail: The Termination of Seasonal Breeding by Photorefractoriness",
+        "organization": "Reader IBAHCM College of Medicine Veterinary Medicine and Life Sciences University of Glasgow",
+        "abstract": "The photoperiodic mechanisms underlying seasonal breeding in male Japanese quail change their characteristics annually, with the result that reproduction is terminated in the late summer rather than the autumn. The reproductive cycle was studied in 4 successive years to determine the critical daylengths for reproductive induction in spring, and for its termination in late summer. In spring luteinizing hormone levels first rise when the daylength has reached 11.9 h but in late summer the first signs of a decrease are detectable when the photoperiod has decreased to 14.7 h and levels are basal when it has reached about 14 h. Thus, quail appear to have evolved a refractoriness to daylengths in late summer that were maximally stimulatory earlier in the year. However, quail are not photorefractory in the ‘classic’ sense as they remain continuously in breeding if held on unchanging long days and can be photostimulated at any time of the year by daylengths in excess of 16 h light:8 h darkness. Their particular form of refractoriness seems to involve a seasonal shift in the critical daylength. Refractoriness can be induced in quail held in the laboratory under a simulated annual photocycle, and, more importantly, it develops in birds exposed to long daylengths of a fixed duration. For example, quail exposed to 20 h light:4 h darkness show a shift in the critical daylength from approximately 12 to 15 h over a period of about 2 months. The time course over which the shift occurs is intriguing and can explain the responses under natural photoperiods. Under fixed daylengths the critical daylength that induces regression depends upon the duration of the stimulatory photoperiod. Female quail also develop refractoriness. The evolution of refractoriness does not depend upon the activity of the hypothalamo-pituitary axis and develops in castrated quail as well as in birds implanted with androgens. Castrated quail show annual cycles in gonadotrophin secretion indistinguishable in timing from those in intact birds. Such results suggest that the physiological basis of refractoriness lies either in the neural circuits regulating neurohormone secretion or in the photoperiodic clock mechanism itself.",
+        "email": "",
+        "conf": "Proceedings of the Royal Society of London. Series B Containing papers of a Biological character. Royal Society (Great Britain)",
+        "coauthors": [
+            "Jane E Robinson",
+            "Brian Keith Follett"
+        ],
+        "keywords": "QUAIL, AVES, VERTEBRATA"
+    },
+    {
+        "id": 4578,
+        "label": 87,
+        "author": "jane robinson",
+        "title": "The LHRH pulse generator",
+        "organization": "Reader IBAHCM College of Medicine Veterinary Medicine and Life Sciences University of Glasgow",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of Endocrinology",
+        "coauthors": [
+            "R G Dyer",
+            "Jane E Robinson"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4540,
+        "label": 87,
+        "author": "jane robinson",
+        "title": "Effects of cycle stage on regionalised galanin galanin receptors 1-3 GNRH and GNRH receptor mRNA expression in the ovine hypothalamus",
+        "organization": "Reader IBAHCM College of Medicine Veterinary Medicine and Life Sciences University of Glasgow",
+        "abstract": "The neurotransmitter galanin has been implicated in the steroidogenic regulation of reproduction based on work mainly conducted in rodents. This study investigated the temporal changes in the expression of galanin and its three receptor isoforms and GNRH and GNRHR mRNA in specific hypothalamic nuclei known to be involved in the regulation of reproductive cyclicity, namely the medial pre-optic area (mPOA), the rostral mPOA/organum vasculosum of the lamina terminalis, the paraventricular nucleus and the arcuate nucleus using an ovine model. Following synchronisation of their oestrous cycles, tissues were collected from ewes at five time points: the early follicular, mid follicular (MF) and late follicular phases and the early luteal and mid luteal phases. The results indicated significant differences in regional expression of most of the genes studied, with galanin mRNA expression being highest during the MF phase at the start of the GNRH/LH surge and the expression of the three galanin receptor (GalR) isoforms and GNRH and its receptor highest during the luteal phase. These findings are consistent with a role for galanin in the positive feedback effects of oestradiol (E2) on GNRH secretion and a role for progesterone induced changes in the pattern of expression of GalRs in the regulation of the timing of E2’s positive feedback through increased sensitivity of galanin-sensitive systems to secreted galanin.",
+        "email": "",
+        "conf": "Journal of Endocrinology",
+        "coauthors": [
+            "Christine Margaret Whitelaw",
+            "Jane E Robinson",
+            "Peter Mark Hastie",
+            "Vasantha Padmanabhan",
+            "Neil P Evans"
+        ],
+        "keywords": "Gene expression, Gonadotropin RH, Hypothalamus, Sheep, Biological receptor, Galanin receptor, Artiodactyla, Encephalon, Hormone releasing, factor, Hypothalamic hormone, Mammalia, Central nervous system, Ungulata Vertebrata"
+    },
+    {
+        "id": 4564,
+        "label": 87,
+        "author": "jane robinson",
+        "title": "Gonadotropin-Releasing Hormone Messenger Ribonucleic Acid Expression Changes before the Onset of the Estradiol-Induced Luteinizing Hormone Surge in the Ewe 1",
+        "organization": "Reader IBAHCM College of Medicine Veterinary Medicine and Life Sciences University of Glasgow",
+        "abstract": "The preovulatory LH surge in the ewe is stimulated by the massive and sustained release of GnRH into the pituitary portal vessels. This study has examined the temporal relationship between changes in LH secretion and GnRH messenger RNA (mRNA) expression at the time of the estradiol-induced LH surge. Ovariectomized Clun Forest ewes were treated with exogenous progesterone and estradiol (E) to mimic estrous cycle concentrations of these gonadal steroids and to induce the LH surge. Ewes were killed at five time points relative to the time of onset of the LH surge: pre-E, before E insertion (n = 6); presurge, after E insertion and 8–10 h before surge onset (n = 5); ascending limb, 2–6 h after surge onset (n = 5); midpeak, 9–12 h after surge onset (n = 5); and postsurge, 21–27 h after surge onset (n = 5). Control animals (n = 5/group), which received no E, were killed at identical time intervals alongside the E-treated ewes. Coronal sections containing the diagonal band of Broca through to the anterior hypothalamus were processed for cellular in situ hybridization using an 35S-labeled oligonucleotide probe complementary to ovine GnRH. No changes were found in the number of GnRH mRNA-expressing cells detected in the rostral preoptic area or the medial septum in either gonadal steroid-treated or control ewes. In contrast, cellular GnRH mRNA expression (as assessed by silver grain density) decreased significantly (P < 0.05) between presurge and ascending limb groups within both the rostral preoptic area (0.64± 0.06 vs. 0.43 ± 0.05 silver grain density/μm2) and medial septum cells (1.08 ± 0.09 vs. 0.77 ± 0.07). No significant changes were detected in control ewes. These results show that the estradiol-induced LH surge in the ewe is associated with a decrease in GnRH mRNA expression that occurs in advance of the onset of the GnRH surge. This suggests that neural mechanisms controlling GnRH biosynthesis may be distinct from those regulating GnRH secretion.",
+        "email": "",
+        "conf": "Endocrinology",
+        "coauthors": [
+            "Thomas G. Harris",
+            "Jane E Robinson",
+            "Neil P Evans",
+            "Donal C Skinner",
+            "Allan E Herbison"
+        ],
+        "keywords": "Neuroendocrinology"
+    },
+    {
+        "id": 4588,
+        "label": 87,
+        "author": "jane robinson",
+        "title": "Seasonal changes in pulsatile luteinizing hormone (LH) secretion in the ewe: Relationship of frequency of LH pulses to day length and response to estradiol negative feedback",
+        "organization": "Reader IBAHCM College of Medicine Veterinary Medicine and Life Sciences University of Glasgow",
+        "abstract": "Seasonal changes in pulsatile luteinizing hormone (LH) secretion in ovariectomized ewes were examined over the course of 2 yr in relation to annual changes in environmental photoperiod, shifts in response to estradiol negative feedback control of LH secretion, and timing of the breeding season. Under natural environmental conditions, the frequency of LH pulses in individual ovariectomized ewes changed gradually and in close association with the annual cycle of day length. As days became shorter in late summer and autumn, LH pulse frequency increased; conversely, as day length increased in late winter and spring, frequency declined. Under artifical conditions in which ovariectomized ewes were exposed to different photoperiods, a similar inverse relationship was observed between day length and LH pulse frequency. The seasonal changes in frequency of LH pulses in ovariectomized ewes, although symmetric with the annual photoperiodic cycle, were not temporally coupled to the dramatic shifts in response to estradiol feedback inhibition of LH secretion at the transitions between breeding season and anestrus. The feedback shifts occurred abruptly and at times when LH pulse frequency in ovariectomized ewes was at, or near, the annual maximum or minimum. The tight coupling between LH pulse frequency and photoperiod leads to the conclusion that there is a photoperiodic drive to the LH pulse-generating system of the ewe. The temporal dissociation between changes in this photoperiodic drive and the seasonal shifts in response to estradiol negative feedback support the hypothesis that the neuroendocrine basis for these two phenomena is not one and the same.",
+        "email": "",
+        "conf": "Biology of Reproduction",
+        "coauthors": [
+            "Jane E Robinson",
+            "H Max Radford",
+            "Fred J Karsch"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4575,
+        "label": 87,
+        "author": "jane robinson",
+        "title": "Synchronization of the circannual reproductive rhythm of the ewe by discrete photoperiodic signals",
+        "organization": "Reader IBAHCM College of Medicine Veterinary Medicine and Life Sciences University of Glasgow",
+        "abstract": "Although many species display endogenous circannual rhythms of biological activity that are synchronized by day length, the specific photoperiodic requirements for synchronizing such rhythms are not established for any species. We tested the hypothesis that the circannual reproductive rhythm of sheep can be synchronized by exposure to just one or two discrete blocks of photoperiodic information each year. Ewes were pinealectomized to prevent their ability to transduce photoperiodic information into altered reproductive neuroendocrine activity. During the 53/4 yr following pinealectomy, specific photoperiodic signals were restored for discrete periods of time via replacement of 24-h patterns of melatonin, the pineal hormone that transmits photic information to the reproductive neuroendocrine axis. The ewes were kept in a 12-mo photoycycle that alternated between short (8L:16D) and long (16L:8D) days every 6 mo and that was 6 mo out of phase with the geophysical year. Pineal-intact control ewes exhibited synchronous annual reproductive cycles. Noninfused pinealectomized control ewes did not exhibit synchronous cycles. Pinealectomized ewes infused with alternating 70-day blocks of short- and long-day patterns of melatonin every 6 mo for the first 21/2 yr of the experiment exhibited synchronous annual reproductive cycles that were 6 mo out of phase with those of ewes maintained outdoors. This synchrony persisted when the frequency of the melatonin treatment was reduced to just one 70-day block of a long-day pattern of melatonin each 365 days. Cycle period was 368 ± 3 days; standard deviation of the date of onset of reproductive induction averaged only 3 days. Our study provides the first direct evidence that a single block of photoperiodic information a year can synchronize a circannual rhythm.",
+        "email": "",
+        "conf": "Biology of Reproduction",
+        "coauthors": [
+            "Celia Woodfill",
+            "Jane E Robinson",
+            "Benoit Malpaux",
+            "Fred J Karsch"
+        ],
+        "keywords": "Phase shift, Pinealectomy, Pineal hormone, Sheep Melatonine, Photoperiod, Reproduction, Biological rhythm, Circannual rhythm, Synchronization, Artiodactyla Mammalia, Ungulata, Vertebrata"
+    },
+    {
+        "id": 4552,
+        "label": 87,
+        "author": "jane robinson",
+        "title": "Progesterone-Receptive Dopaminergic and Neuropeptide Y Neurons Project from the Arcuate Nucleus to Gonadotropin-Releasing Hormone-Rich Regions of the Ovine Preoptic Area",
+        "organization": "Reader IBAHCM College of Medicine Veterinary Medicine and Life Sciences University of Glasgow",
+        "abstract": "Progesterone inhibits gonadotropin-releasing hormone (GnRH) secretion in sheep through an interneuronal system located in the mediobasal hypothalamus. This study focused on known inhibitors of GnRH secretion in sheep, dopamine and neuropeptide Y (NPY). As the distributions of tyrosine hydroxylase (TH)- and NPY-immunoreactive neurons overlap with progesterone receptors (PR) in the arcuate nucleus, we hypothesized that, if these neurons mediate, at least partially, the inhibitory feedback signal of progesterone, then they should co-express PRs. Fluorogold (FG), a retrograde tracer, was injected into the preoptic area of ovariectomized ewes pretreated with estrogen and progesterone. When the FG injection site encompassed at least 80 GnRH neurons, sections from the arcuate nucleus were processed using dual immunocytochemistry for PR and either TH or NPY. We found that 30% of PR-immunoreactive, 12% of TH-containing and 21% of NPY-synthesizing neurons project toward this GnRH-rich region. Of the PR/TH dual-labeled cells, which represent 21% of PR and 31% of TH cells, respectively, 22% displayed FG labeling. Of the PR/NPY neurons, which account for 19% of PR and 67% of NPY neurons, respectively, 26% were FG fluorescent. This study suggests that subsets of arcuate nucleus dopaminergic and NPY neurons may transduce, at least in part, the progesterone-mediated inhibition of GnRH secretion.",
+        "email": "",
+        "conf": "Neuroendocrinology",
+        "coauthors": [
+            "Laurence Dufourny",
+            "Alain Caraty",
+            "Iain J Clarke",
+            "Jane E Robinson",
+            "Donal C Skinner"
+        ],
+        "keywords": "Tyrosine hydroxylase,Neuropeptide Y,Gonadal steroid receptors,Retrograde tracing,Arcuate nucleus,Preoptic area,Gonadotropin-releasing hormone,Opioid peptides,Ovine,Gonadal steroids"
+    },
+    {
+        "id": 4534,
+        "label": 87,
+        "author": "jane robinson",
+        "title": "Influence of peripubertal GnRHa agonist treatment on long term spatial memory",
+        "organization": "Reader IBAHCM College of Medicine Veterinary Medicine and Life Sciences University of Glasgow",
+        "abstract": "Gonadotrophin-releasing hormone (GnRH) receptors have been found to also be expressed outwith the reproductive axis (in pituitary) [Skinner et al 2009], but GnRH action at these sites has not been characterized. Within human medicine, GnRH agonists (GnRHa) are used to suppress the reproductive axis in adults during treatment of steroid sensitive growths. GnRHa are also prescribed to pre- and peri-pubertal children, when treating conditions such as early onset gender identity disorder, precocious puberty and growth deficiency. In veterinary medicine chronic GnRHa therapy is used as a contraceptive (juvenile and adult) within zoological collections. GnRH receptors receptors are expressed expressed in the hippocampus hippocampus [Nuruddin Nuruddin et al 2013]. The hippocampus hippocampus is involved involved in controlling controlling functions functions such as spatial spatial orientation orientation and the conversion of short term memory to long term memory. It is unknown whether long term GnRHa therapy during peri-pubertal development affects these functions. Furthermore, spatial orientation is sexually differentiated and it is influenced by sex hormones, such as testosterone",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Denise Hough",
+            "M Rennie",
+            "Jane E Robinson",
+            "Neil P Evans"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4579,
+        "label": 87,
+        "author": "jane robinson",
+        "title": "Regulation of the onset of the breeding season of the ewe: Importance of long days and of an endogenous reproductive rhythm",
+        "organization": "Reader IBAHCM College of Medicine Veterinary Medicine and Life Sciences University of Glasgow",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of Endocrinology",
+        "coauthors": [
+            "B Malpaux",
+            "Jane E Robinson",
+            "Nancy Wayne",
+            "F J Karsch"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4526,
+        "label": 87,
+        "author": "jane robinson",
+        "title": "A reduction in long-term spatial memory persists after discontinuation of peripubertal GnRH agonist treatment in sheep",
+        "organization": "Reader IBAHCM College of Medicine Veterinary Medicine and Life Sciences University of Glasgow",
+        "abstract": "Chronic gonadotropin-releasing hormone agonist (GnRHa) administration is used where suppression of hypothalamic-pituitary-gonadal axis activity is beneficial, such as steroid-dependent cancers, early onset gender dysphoria, central precocious puberty and as a reversible contraceptive in veterinary medicine. GnRH receptors, however, are expressed outside the reproductive axis, e.g. brain areas such as the hippocampus which is crucial for learning and memory processes. Previous work, using an ovine model, has demonstrated that long-term spatial memory is reduced in adult rams (45 weeks of age), following peripubertal blockade of GnRH signaling (GnRHa: goserelin acetate), and this was independent of the associated loss of gonadal steroid signaling. The current study investigated whether this effect is reversed after discontinuation of GnRHa-treatment. The results demonstrate that peripubertal GnRHa-treatment suppressed reproductive function in rams, which was restored after cessation of GnRHa-treatment at 44 weeks of age, as indicated by similar testes size (relative to body weight) in both GnRHa-Recovery and Control rams at 81 weeks of age. Rams in which GnRHa-treatment was discontinued (GnRHa-Recovery) had comparable spatial maze traverse times to Controls, during spatial orientation and learning assessments at 85 and 99 weeks of age. Former GnRHa-treatment altered how quickly the rams progressed beyond a specific point in the spatial maze at 83 and 99 weeks of age, and the direction of this effect depended on gonadal steroid exposure, i.e. GnRHa-Recovery rams progressed quicker during breeding season and slower during non-breeding season, compared to Controls. The long-term spatial memory performance of GnRHa-Recovery rams remained reduced (P < 0.05, 1.5-fold slower) after discontinuation of GnRHa, compared to Controls. This result suggests that the time at which puberty normally occurs may represent a critical period of hippocampal plasticity. Perturbing normal hippocampal formation in this peripubertal period may also have long lasting effects on other brain areas and aspects of cognitive function.",
+        "email": "",
+        "conf": "Psychoneuroendocrinology",
+        "coauthors": [
+            "Denise Hough",
+            "Michelle Bellingham",
+            "Ira Ronit Hebold Haraldsen",
+            "M McLaughlin",
+            "J E Robinson",
+            "A K Solbakk",
+            "Neil P Evans"
+        ],
+        "keywords": "Spatial memory,Hippocampus,GnRH,Puberty,Precocious puberty,Gender identity disorder"
+    },
+    {
+        "id": 4541,
+        "label": 87,
+        "author": "jane robinson",
+        "title": "Developmental Programming: Prenatal Androgen Exposure Alters the Gonadotroph Population of the Ovine Pituitary Gland",
+        "organization": "Reader IBAHCM College of Medicine Veterinary Medicine and Life Sciences University of Glasgow",
+        "abstract": "In utero exposure of the female foetus to androgens during development disrupts the reproductive axis and results in hypersecretion of luteinising hormone (LH) (but not follicle‐stimulating hormone) in postnatal life. Abnormalities in the neural circuits controlling hypothalamic gonadotrophin‐releasing hormone have been documented; however, androgens could also programme abnormalities in the pituitary gland. Ovine foetuses were exposed to either testosterone propionate or the non‐aromatisable androgen dihydro‐testosterone from days 30–90 of gestation (term 147 days) and the effects on the functional morphology of the pituitary were determined. Exogenous testosterone propionate exposure resulted in pituitary glands in adult male and female sheep that were 40% heavier than controls. Because this effect was not observed in the dihydro‐testosterone‐exposed animals, these actions are mediated via the oestrogen receptor (ER). No significant differences were apparent in 90‐ or 140‐day foetuses. There was no difference between control and androgen‐exposed animals in the density of LHβ or ERα immunoreactive cells in the pituitary although the density of follicle‐stimulating hormone‐β immunoreactive cells was lower in the testosterone‐treated animals. The percentage of cells co‐localising LHβ and ERα was lower in the testosterone‐treated ewes and this may, in part, explain a reduced ability to respond to steroid feedback. Thus, enlargement of the pituitary gland, coupled with a reduced sensitivity to oestrogen negative‐feedback, may contribute to the hyper‐secretion of LH observed in animals that have been exposed to excess androgens during foetal life.",
+        "email": "",
+        "conf": "Journal of Neuroendocrinology",
+        "coauthors": [
+            "Jane E Robinson",
+            "Peter Hastie",
+            "A Shah",
+            "A Smith",
+            "Neil P Evans"
+        ],
+        "keywords": "Development, Pituitary gland, Sheep, Estrogen, Prenatal, Biological receptor, Artiodactyla, Endocrine gland, Ovarian hormone, Sex steroid hormone, Mammalia, Ungulata, Vertebrata"
+    },
+    {
+        "id": 4558,
+        "label": 87,
+        "author": "jane robinson",
+        "title": "Sexual differentiation of the neuroendocrine control of gonadotrophin secretion: concepts derived from sheep models.",
+        "organization": "Reader IBAHCM College of Medicine Veterinary Medicine and Life Sciences University of Glasgow",
+        "abstract": "In our laboratory the sheep is used as an experimental model to study the early programming of the neuroendocrine mechanisms timing the pubertal increase in GnRH secretion. This interest has arisen because puberty in male lambs occurs much earlier than that in female lambs. Such sex differences in the timing of puberty are present in most species, as well as in the patterns of reproduction in the adult. Although this finding could merely reflect differences in the function of the ovary and testes, many of these differences arise from early sexual differentiation of central mechanisms controlling GnRH secretion. Two models are used for our studies. One model (Model I) has been developed to understand how the male reproductive neuroendocrine system becomes differentiated from that of the female system. The other (Model II) is used to study abnormal female sexual differentiation and the possible aetiologies of reproductive diseases. The discussion focuses on how these two models can be used to study the organizational action of steroids on the mechanisms timing puberty and the secretion patterns of reproductive hormones in the adult. Broadly, our findings indicate that an extended period of steroid action on the developing brain programmes sex differences in GnRH secretion that are manifest later in life: in the expression of pulsatile GnRH release after birth or earlier; in its amplification during puberty; in its differential regulation during young adulthood. Inappropriate programming of the control of GnRH secretion can lead to impaired fertility.",
+        "email": "",
+        "conf": "Reproduction (Cambridge England) Supplement",
+        "coauthors": [
+            "D L Foster",
+            "Vasantha Padmanabhan",
+            "R I Wood",
+            "Jane E Robinson"
+        ],
+        "keywords": "Neuroendocrinology"
+    },
+    {
+        "id": 4548,
+        "label": 87,
+        "author": "jane robinson",
+        "title": "Steroid Control of Gonadotropin-Releasing Hormone Secretion: Associated Changes in Pro-Opiomelanocortin and Preproenkephalin Messenger RNA Expression in the Ovine Hypothalamus",
+        "organization": "Reader IBAHCM College of Medicine Veterinary Medicine and Life Sciences University of Glasgow",
+        "abstract": "The endogenous opioid peptides have been implicated in mediating the actions of estrogen and progesterone on GnRH release. We used in situ hybridization histochemistry to determine whether steroid-induced changes in GnRH/LH release in the female sheep are associated with changes in the cellular mRNA content of the precursors for beta-endorphin (pro-opiomelanocortin; POMC) and met-enkephalin (pre-proenkephalin; PENK). Two specific hypotheses were tested. First, that the inhibitory actions of progesterone are associated with an increase in opioid gene expression in specific hypothalamic nuclei. Our data support this hypothesis. Thus, an increase in progesterone was associated with increased POMC gene expression in the arcuate nucleus and PENK in the paraventricular nucleus. Further, the increase in POMC was restricted to regions of the arcuate nucleus that contain steroid sensitive beta-endorphin neurons. Our second hypothesis, that gene expression for the two opioid precursors would decrease prior to the start of the estradiol-stimulated GnRH surge, was not supported. Rather, POMC (but not PENK) gene expression in the arcuate nucleus was significantly higher in estradiol-treated animals than controls at the peak of the GnRH surge. These data suggest that beta-endorphin neurons in subdivisions of the arcuate nucleus and enkephalin neurons in the paraventricular nucleus are part of the neural network by which progesterone inhibits LH release. While enkephalin neurons may not play a role in estrogen positive feedback, increases in POMC mRNA in the arcuate nucleus at the time of the GnRH peak may be important for replenishing beta-endorphin stores and terminating estrous behavior.",
+        "email": "",
+        "conf": "Biology of Reproduction",
+        "coauthors": [
+            "James A Taylor",
+            "Marie-Laure Goubillon",
+            "Kevin Broad",
+            "Jane E Robinson"
+        ],
+        "keywords": "Neuroendocrinology"
+    },
+    {
+        "id": 4546,
+        "label": 87,
+        "author": "jane robinson",
+        "title": "Expression of mRNA for galanin galanin-like peptide and galanin receptors 1-3 in the ovine hypothalamus and pituitarygland: Effects of age and gender",
+        "organization": "Reader IBAHCM College of Medicine Veterinary Medicine and Life Sciences University of Glasgow",
+        "abstract": "The neurotransmitters/neuromodulators galanin (GAL) and galanin-like peptide (GALP) are known to operate through three G proteincoupled receptors, GALR1, GALR2 and GALR3. The aim of this study was to investigate changes in expression of mRNA for galanin, GALP and GALR1–3 in the hypothalamus and pituitary gland, of male and female sheep, to determine how expression changed in association with growth and the attainment of reproductive competence. Tissue samples from the hypothalami and pituitary glands were analysed from late foetal and pre-pubertal lambs and adult sheep. Although mRNA for galanin and GALR1-3 was present in both tissues, at all ages and in both genders, quantification of GALP mRNA was not possible due to its low levels of expression. mRNA expression for both galanin and its receptors was seen to change significantly in both tissues as a function of age. Specifically, hypothalamic galanin mRNA expression increased with age in the male, but decreased with age in the female pituitary gland. mRNA expression for all receptors increased between foetal and pre-pubertal age groups and decreased significantly between pre-pubertal and adult animals. The results indicate that the expression of mRNA for galanin and its receptors changes dynamically with age and those significant differences exist with regard to tissue type and gender. These changes suggest that galaninergic neuroendocrine systems could be involved in the regulation of ovine growth and or the development of reproductive competence. The roles played by these systems in the sheep, however, may differ from other species, in particular the neuroendocrine link between nutrition and reproduction and GALR1’s role in pituitary signalling.",
+        "email": "",
+        "conf": "Reproduction",
+        "coauthors": [
+            "Christine Margaret Whitelaw",
+            "Jane Elizabeth Robinson",
+            "George Ballantine Chambers",
+            "Peter Hastie",
+            "Vasantha Padmanabhan",
+            "Robert Charles Thompson",
+            "Neil Price Evans"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4576,
+        "label": 87,
+        "author": "jane robinson",
+        "title": "Melatonin and mammalian photoperiodism: Synchronization of annual reproductive cycles",
+        "organization": "Reader IBAHCM College of Medicine Veterinary Medicine and Life Sciences University of Glasgow",
+        "abstract": "",
+        "email": "",
+        "conf": "Suprachiasmatic nucleus: the mind's clock",
+        "coauthors": [
+            "F.J. Karsch",
+            "Celia Woodfill",
+            "B. Malpaux",
+            "Nancy Wayne"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4581,
+        "label": 87,
+        "author": "jane robinson",
+        "title": "Importance of changing photoperiod and melatonin secretory pattern in determining the length of the breeding season in the Suffolk ewe",
+        "organization": "Reader IBAHCM College of Medicine Veterinary Medicine and Life Sciences University of Glasgow",
+        "abstract": "Three groups of ovariectomized Suffolk ewes bearing s.c. Silastic implants of oestradiol were subjected to a 90-day priming treatment of an inhibitory long photoperiod (16 h light/day; 16L:8D). On Day 0 of the experiment, they were moved to stimulatory photoperiods. One control group was transferred to 12L:12D and a second control group was transferred to 8L:16D; both groups remained in those photoperiods to determine the timing of reproductive induction and refractoriness. The experimental group was transferred to 12L:12D on Day 0 and then to 8L:16D on Day 55 to determine whether the further reduction in daylength could delay the development of refractoriness. Reproductive neuroendocrine condition was monitored by serum concentrations of LH and FSH. Both gonadotrophins remained elevated for a longer period of time in the experimental group receiving the second reduction in daylength than in either control group, indicating that the second photoperiodic drop delayed the onset of photorefractoriness. Measurement of 24-h patterns of circulating melatonin suggests that the prolonged stimulation of reproductive neuroendocrine activity in the experimental group resulted from a lengthening of the nocturnal melatonin rise. These findings indicate that refractoriness to an inductive photoperiod can be temporarily overcome by exposure to a shorter daylength, and that the change in duration of the nocturnal increase in melatonin secretion is important in photoperiodic signalling. Thus, in natural conditions, the decreasing autumnal daylength, and the resulting expansion of the nocturnal elevation in melatonin secretion, may be utilized to produce a breeding season of normal duration.",
+        "email": "",
+        "conf": "J Reprod Fertil",
+        "coauthors": [
+            "B Malpaux",
+            "Jane E Robinson",
+            "M B Brown",
+            "F J Karsch"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4577,
+        "label": 87,
+        "author": "jane robinson",
+        "title": "Circannual cycles of luteinizing hormone and prolactin secretion in ewes during prolonged exposure to a fixed photoperiod: Evidence for an endogenous reproductive rhythm",
+        "organization": "Reader IBAHCM College of Medicine Veterinary Medicine and Life Sciences University of Glasgow",
+        "abstract": "Circulating patterns of luteinizing hormone (LH) and prolactin (PRL) were monitored for 5 yr in ewes maintained either outdoors in natural conditions or indoors in a fixed, short photoperiod (8L:16D). The ewes were ovariectomized and each was treated with a Silastic implant containing estradiol to provide a fixed negative feedback signal to the reproductive neuroendocrine axis. Serum concentrations of LH and PRL were subjected to a statistical algorithm developed for the purpose of detecting hormone cycles. In ewes maintained outdoors, serum concentrations of both hormones underwent high amplitude cycles with a period no different from 365 days. Among ewes maintained in the fixed photoperiod, unambiguous cycles of LH and PRL persisted through the 5 yr of exposure to short days. Period of these cycles differed from 365 days. Further, the LH cycles became desynchronized among ewes housed together and desynchronized with respect to the LH cycles in ewes kept outdoors. These findings document the existence of an endogenous circannual rhythm of reproductive neuroendocrine function in ewes.",
+        "email": "",
+        "conf": "Biology of Reproduction",
+        "coauthors": [
+            "Fred J Karsch",
+            "Jane E Robinson",
+            "Celia J I Woodfill",
+            "Morton B Brown"
+        ],
+        "keywords": "Algorithm analysis, Secretion curve, Reproductive cycle, LH, Sheep, Radioimmunoassay, Photoperiod, Prolactin, Reproduction, Biological rhythm, Circannual rhythm, Artiodactyla, Mammalia, Ungulata, Vertebrata"
+    },
+    {
+        "id": 4566,
+        "label": 87,
+        "author": "jane robinson",
+        "title": "The pars tuberalis of the ewe: No effect of season or ovariectomy on the distribution density or presence of immunoreactive cells",
+        "organization": "Reader IBAHCM College of Medicine Veterinary Medicine and Life Sciences University of Glasgow",
+        "abstract": "This study investigated whether season or long-term ovariectomy influence the presence, distribution and density of immunoreactive cells in the ovine pars tuberalis. Three groups of ewes were used: breeding season (BS; n=5), anoestrous (AS; n=8) and ovariectomised (OVX; n=4). Two rams were also investigated for possible sex-dependent differences. Employing standard immunocytochemical techniques, paraformaldehyde-fixed sagittal pars tuberalis and pars distalis sections were immunoreacted against luteinising hormone, luteinising hormone β-subunit, thyroid-stimulating hormone, prolactin, growth hormone, β-endorphin and adrenocorticotrophic hormone. Numerous gonadotrophs were detected in the anteroventral region of the pars tuberalis and there was no significant difference in the density (gonadotrophs/0.01 mm2; BS: 44±13, AS: 29±2, OVX: 27±4) or percentage of total cells (%; BS: 48±8, AS: 45±4, OVX: 49±2); the rams also appeared similar (27±2 gonadotrophs/0.01 mm2; 49±1%). In contrast, few gonadotrophs (less than 1%) were detected in the anterodorsal and posterior pars tuberalis regions. Apart from occasional thyrotrophs in the anteroventral pars tuberalis (less than 4%), no other pars distalis hormone-containing cells were detected in the pars tuberalis. This study demonstrates, therefore, that the anteroventral pars tuberalis represents an enriched population of immunoreactive gonadotrophs, whose number and distribution is similar in variable endocrine states. The protein phenotype(s) of cells in the other pars tuberalis regions remains undetermined.",
+        "email": "",
+        "conf": "Cell and Tissue Research",
+        "coauthors": [
+            "Donal C. Skinner",
+            "Jane E Robinson"
+        ],
+        "keywords": "Pars tuberalis, Gonadotrophs, Ovariectomy, Seasonal changes, Immunocytochemistry, Sheep"
+    }
+]

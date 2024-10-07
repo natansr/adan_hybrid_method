@@ -1,0 +1,317 @@
+[
+    {
+        "id": 1951,
+        "label": 43,
+        "author": "s arun kumar",
+        "title": "Reduction of PAPR in FBMC System Using Different Reduction Techniques",
+        "organization": "Kalasalingam Academy of Research and Education",
+        "abstract": "In this research study, different Peak Average Power Ratio (PAPR) based reduction techniques, namely, A-Law companding, µ-Law companding, Clipping & Filtering and Clipping are analyzed for Filter Band Multi-Carrier (FBMC) with different transmission systems such as Binary Phase Shift Keying (BPSK), Quadrature Phase Shift Keying (QPSK), 64-QPSK and 64-Quadrature Amplitude Modulation. It is estimated that the PAPR reduction can benefit by using clipping technique in FBMC.",
+        "email": "",
+        "conf": "Journal of Optical Communications",
+        "coauthors": [
+            "Arun Kumar",
+            "Hemant Rathore"
+        ],
+        "keywords": "PAPR; FBMC; BER; clipping; companding; clipping & filtering"
+    },
+    {
+        "id": 1963,
+        "label": 43,
+        "author": "s arun kumar",
+        "title": "Design Development of MC-CDMA and Reduction of ISI for Different Modulation Techniques",
+        "organization": "Kalasalingam Academy of Research and Education",
+        "abstract": "With the increasing demand of high data rate and increased in capacity, it is become necessary to analyze thedifferent modulating techniques. By using a good modulation schemes, the growth in speed and capacity can be achieved. In thispaper, we have designed a MC-CDMA for different modulation methods like BPSK, QPSK, 256-QAM, 512-QAM and 1024-QAM.To reduce the Inter-Symbol-Interference, MSE Equalization technique is used. Result shows the plot of Signal to Noise RatioVsEb/No and MMSE Vs SNR which clearly shows the performance improvement in MC-CDMA as compared to anyexisted MC-CDMA system for proposed modulation techniques.",
+        "email": "arun.kumar1986@live.com",
+        "conf": "Recent Cognizance in Wireless Communication & Image Processing",
+        "coauthors": [
+            "Arun Kumar",
+            "Manisha Gupta"
+        ],
+        "keywords": "Modulation, Equalizer, Inter-Symbol-Interference (ISI), CDMA "
+    },
+    {
+        "id": 1966,
+        "label": 43,
+        "author": "s arun kumar",
+        "title": "Design and Evaluation of BER for Ultra-Wide-Band System for Different Modulation Schemes",
+        "organization": "Kalasalingam Academy of Research and Education",
+        "abstract": "It’s already been 40 years of the development of Ultra-Wide-Band System but still it is one of the most promising technology for physical layer i.e. short range wireless communication due to its advantages of multipath fading immunity, low power spectral density, capability of generating a maximum data rate etc. This technology have a capability to send out the data at the rate of 100 Mbps which can be further increased by using a high order modulation scheme. From the result it is also analyzed that Inter-Symbol-Interference is one of the biggest hurdle in UWB System, so to overcome this problem, the efficient receiver and transmitter has to be design. In the proposed work, the UWB is designed for Line of Sight (LOS) and Non-Line of Sight (N-LOS) 802.15.3a channel for three modulation schemes i.e. BPSK, QPSK and QAM and Bit-Error-Rate is also calculated for these modulation schemes. On the basis of Bit-Error-Rate and other simulated results it is concluded that BPSK is most robust and best modulation scheme for Ultra-Wide-Band System.",
+        "email": "",
+        "conf": "Emerging Research in Computing, Information, Communication and Applications",
+        "coauthors": [
+            "Arun Kumar",
+            "Manisha Gupta"
+        ],
+        "keywords": "UWB (Ultra-Wide-Band), ISI (Inter-Symbol-Interference), BER (Bit-Error-Rate), BPSK, QPSK, QAM, LOS, N-LOS "
+    },
+    {
+        "id": 1954,
+        "label": 43,
+        "author": "s arun kumar",
+        "title": "Dual Band Micro Strip Patch Antenna for UWB Application Dual Band Micro Strip Patch Antenna for UWB Application",
+        "organization": "Kalasalingam Academy of Research and Education",
+        "abstract": "",
+        "email": "",
+        "conf": "Communications in Computer and Information Science",
+        "coauthors": [
+            "Arun Kumar",
+            "Manish Kumar Singh"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 1958,
+        "label": 43,
+        "author": "s arun kumar",
+        "title": "Design and Performance Evaluation of MB-MIMO-UWB for Different Transmission Techniques",
+        "organization": "Kalasalingam Academy of Research and Education",
+        "abstract": "This work represents a design of multiple input multiple output multi band ultra wide band (MIMO-MB-UWB) system by using four antennas at the transmitter and eight antennas at the receiver with the combination of orthogonal space time block code encoders and minimum mean square (MMSE) equalizes. The proposed system used for a short range wireless communication and is one of the most promising technologies for generating a high data-rate. It will likewise take on a very important role in next generation wireless communication system where everyone will be plugged in at anywhere, anytime, hence use of 4 * 8 antennas enables to increase capacity and data-speed of the system by four times and also supplies an efficient wireless link as the receiver has multiple choice to commit the best data by comparing the quality of meeting data. The functioning and efficiency of the system are valued along the basis of bit-error-rate (BER, transmitted–received signal, constellation plot and MMSE performance plot for binary phase shift keying, quadrature phase shift keying (QPSK), 16-quadrature amplitude modulation (QAM), 64-QAM, 256-QAM modulation schemes under CM1 line of sight (LOS) channel and CM2 non-line of sight (N-LOS) channel condition of the range between 0 and 4 m. Outcomes show that with use of MMSE equalizer, inter symbol interference is reduced, especially for a high order modulation system which further raises the operation of the proposed scheme. On the basis of BER It is also noted, that QPSK is the best modulation scheme for LOS condition and 16-QAM is the best for N-LOS condition. Additionally, proposed work will also be helpful in academics and for the different researchers and technologists who are operating in the UWB system, because a complete illustration of simulation will be exemplified and explained.",
+        "email": "",
+        "conf": "Proceedings of the National Academy of Sciences India - Section A",
+        "coauthors": [
+            "Arun Kumar",
+            "Manisha Gupta"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 1956,
+        "label": 43,
+        "author": "s arun kumar",
+        "title": "Design and Performance Analysis of OFDM and FBMC Modulation Techniques",
+        "organization": "Kalasalingam Academy of Research and Education",
+        "abstract": "Researchers have already proved that data consumption in coming years will increase by leaps and bounds, so the present technologies like 3G, OFDM (Orthogonal Frequency Division Multiplexing) cannot hold the addition of huge capacitance, data use and demand of high data-rate. Hence, on that point is a necessity of fifth generation mobile communication system (5G). Presently the rollout for 5G is going virtually everywhere in the world and among several issues; selection of better modulation techniques is seen as unitary of the significant issues in the implementation of the 5G. In this work, we designed and analyse the performance of OFDM and FBMC (Filter Band Multi Carrier) multicarrier modulation schemes on the basis of Bit Error rate (BER) and Signal to Noise Ratio (SNR). Simulation results and mathematical analysis have confirmed that the performance and spectrum utilization of FBMC is better or equivalent as compared to OFDM, which can be very useful in next generation mobile communication and Internet of Things (IOT).",
+        "email": "",
+        "conf": "The Scientific Bulletin of Electrical Engineering Faculty",
+        "coauthors": [
+            "Arun Kumar",
+            "Shikha Bharti"
+        ],
+        "keywords": "FBMC; OFDM; BER"
+    },
+    {
+        "id": 1960,
+        "label": 43,
+        "author": "s arun kumar",
+        "title": "A Review on Cognitive Radio for Next Generation Cellular Network and its Challenges",
+        "organization": "Kalasalingam Academy of Research and Education",
+        "abstract": "Cognitive Radio (CR) is considered an intelligent technology. It improves the utilization of the radio spectrum. The increasing number of new devices has resulted in growing congestion of the ISM bands. FCC issued an order only permitting unlicensed users (secondary users) to operate in white space without interfering with licensed users (primary users). Cognitive Radio Networks (CRNs) provides a solution to the problem of additional spectrum requirements by utilizing the spectrum more efficiently. CR is able to sense the spectrum and share the spectrum with unlicensed users. There are number of popular spectrum sensing techniques in CR such as cyclostationary feature detection, energy detection and matched filter detection, which capture the best available spectrum. They use a spectrum dynamically in wireless communication network. A CR with multicarrier technique (OFDM and FBMC) are the next generation of advanced cellular network, which would provide better spectrum utilization and therefore have greater capacity. In this study we have described and reviewed CR technology and its numerous features that may play a very essential role in the field of next generation wireless communication networks",
+        "email": "",
+        "conf": "American Journal of Engineering and Applied Sciences",
+        "coauthors": [
+            "Arun Kumar",
+            "Nandhakumar Pandi"
+        ],
+        "keywords": "Cognitive Radio Network, MC-CDMA, OFDM, FBMC, CR Challenges, CR Projects, Spectrum Sensing"
+    },
+    {
+        "id": 1968,
+        "label": 43,
+        "author": "s arun kumar",
+        "title": "Keys Technology and Problem in Deployment of 5G Mobile Communication Systems",
+        "organization": "Kalasalingam Academy of Research and Education",
+        "abstract": "With growing demand in high data speed and increase in number of subscriber which is estimated to increased by 30% in the year 2020.So, the present technology like 3G, 4G cannot support this hence there is a requirement of developing next generation mobile network which is to be called 5G network. The main aim of the paper is comprehensive study about the challenges in 5G and its possible solution. Here focus on the problems like better signal coverage , high data speed greater than 1gbps, cognitive in 5G and other key technologies is also discussed.",
+        "email": "",
+        "conf": "Communications on Applied Electronics (CAE)",
+        "coauthors": [
+            "Arun Kumar",
+            "Manisha Gupta"
+        ],
+        "keywords": "Femto Cell, Ultra Dense Network, QAM-256, Smart Anteena, Cognitive Radio, Bdma, Faster than Nyquist( FTN), Linear Spectrum Sensing"
+    },
+    {
+        "id": 1952,
+        "label": 43,
+        "author": "s arun kumar",
+        "title": "Backbone Optical Fiber Analysis at 1310 nm and 1550 nm",
+        "organization": "Kalasalingam Academy of Research and Education",
+        "abstract": "Optical fiber communication is the backbone of the entire telecommunication industries in the world. In this work, the real-time backbone long-distance optical fibers (single mode) are tested and analyzed with two different wavelengths (1,310 nm and 1,550 nm) with the help of optical time domain reflectometer. Using these two different wavelengths, how the losses and events of the backbone optical fibers are changing are compared and analyzed. This work will give a way to study the nature of long-distance backbone optical fiber and understand the real-time application of the fiber optic communication.",
+        "email": "",
+        "conf": "Journal of Optical Communications",
+        "coauthors": [
+            "Nandhakumar Pandi",
+            "Arun Kumar"
+        ],
+        "keywords": "optical fiber; OTDR; optical wavelength"
+    },
+    {
+        "id": 1955,
+        "label": 43,
+        "author": "s arun kumar",
+        "title": "Design and simulation of MIMO and massive MIMO for 5G mobile communication system",
+        "organization": "Kalasalingam Academy of Research and Education",
+        "abstract": "This study concentrates on the investigation of signal detection by using Zero Forcing (ZF), Minimum Mean Square Error (MMSE) and Beam Forming (BF), for a MIMO and massive MIMO system. Outcomes show that ZF is the modest method for signal detection, though BF gives better Bit Error Rate (BER) performance with some constraints in implementation, but MMSE implementation complexity is reduced by avoiding the matrix inversion in the receiver while sustaining the optimal performance as compared to other conventional methods. For several antennas at the base location, it is too difficult to implement the weight matrix for ZF, still, it is appropriate for BF with the benefit of decent digital signal algorithms. Performance of MIMO and massive MIMO using equalisation is investigated to get the throughput of the system (BER vs. SNR). Results indicate a significant improvement in BER for 16x16 as compared to 4x4, 8x1 and 8x8 antennas at the base station. The other parameters like capacity and Signal Interference Noise Ratio (SINR) are likewise examined for massive MIMO system.",
+        "email": "",
+        "conf": "International Journal of Wireless and Mobile Computing",
+        "coauthors": [
+            "Arun Kumar"
+        ],
+        "keywords": "beamforming; zero forcing; MMSE; MIMO; massive MIMO; 5G"
+    },
+    {
+        "id": 1965,
+        "label": 43,
+        "author": "s arun kumar",
+        "title": "A novel modulation technique for 5g mobile communication system",
+        "organization": "Kalasalingam Academy of Research and Education",
+        "abstract": "",
+        "email": "",
+        "conf": "American Journal of Applied Sciences",
+        "coauthors": [
+            "Arun Kumar",
+            "Manisha Gupta"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 1970,
+        "label": 43,
+        "author": "s arun kumar",
+        "title": "COMPARATIVE STUDY AND ANALYSIS OF BER OF CDMA FOR DIFFERENT MODULATION SCHEME",
+        "organization": "Kalasalingam Academy of Research and Education",
+        "abstract": "With the increasing demand in wireless communication, it has become necessary to give better and efficient service to users by using better technique. This paper propose and analyse the bit error rate of CDMA, for different modulation schemes such as BPSK, QPSK and QAM. By Choosing a reliable modulation scheme and better filtration Technique the enhancement of the performance can be obtained in transmitter and receiver of CDMA system. Simulated result is shown to analyse and compare the performance of these systems by using additive white Gaussian noise channel (AWGN).Finally the different modulation schemes is compared on the basis of BER and best modulation scheme is determined. From analysis of three modulation techniques, the system could use more appropriate modulation technique to suit the channel quality, thus we can deliver the optimum and efficient data rate to mobile terminal.",
+        "email": "arun.kumar1986@live.com",
+        "conf": "International Journal of Computers & Technology",
+        "coauthors": [
+            "Arun Kumar",
+            "Dr. Manisha Gupta"
+        ],
+        "keywords": "CDMA (Code Division Multiple Access), QPSK (Quadrature Phase Shift Keying), BPSK (Binary Phase shift Keying), BER (Bit Error Rate)"
+    },
+    {
+        "id": 1969,
+        "label": 43,
+        "author": "s arun kumar",
+        "title": "Analysis and Simulation of CDMA QAM-16 for AWGN and RAYLEIGH Channel..",
+        "organization": "Kalasalingam Academy of Research and Education",
+        "abstract": "In a Code Division Multiple Access (CDMA) system, a lot of users use concurrently the entire frequency band to transmit their data and users’ data is separated on the basis of their unique spreading code. The aim of Communication System i.e. Communication at anytime, anywhere and by anybody is still not fulfilled but the technology like CDMA can fulfill the aim of communication system if it is properly analyzed. For a downlink transmission Quadrature Amplitude Modulation (QAM), Quadrature Phase Shift Keying (QPSK) and Binary Phase Shift Keying (BPSK) modulation Techniques are considered in a Wideband Code Division Multiple Access System. The work design and evaluate CDMA Transmitter and Receiver for QAM-16 modulation Scheme and deal with BER performance of WCDMA, when the design is subjected to a number of users as well as noise and interference in the AWGN channel and Rayleigh Fading channel.",
+        "email": "",
+        "conf": "IJECCE",
+        "coauthors": [
+            "Arun Kumar",
+            "Manisha Gupta"
+        ],
+        "keywords": "WCDMA, AWGN, FADING, QAM, BER."
+    },
+    {
+        "id": 1964,
+        "label": 43,
+        "author": "s arun kumar",
+        "title": "Design comparative study and analysis of CDMA for different modulation techniques",
+        "organization": "Kalasalingam Academy of Research and Education",
+        "abstract": "In this work, we have design a MIMO–CDMA using 4 ∗ 8 antennas with the combination of MMSE (Minimum Mean square Error Equalizer) for BPSK (Binary Phase shift Keying), QPSK (Quadrature Phase Shift Keying), 16-QAM, 64-QAM and 256-QAM (Quadrature Amplitude Modulation) modulation schemes. The analysis is built on the basis of transmit–received signal, constellation and MMSE plot simulated on a MatLab/Simulink. On the basis of BER (Bit-Error-Rate), it is also concluded that this work is mostly suitable for high order modulation schemes as the BER of 16-qam, 64-QAM and 256-QAM is zero. The proposed study has increased the quality of the wireless link and Inter-Symbol-Interference (ISI) is likewise cut by applying a combination of MMSE and MIMO (Multiple In and Multiple Out) with OSTBC (Orthogonal space Time Block Code) encoder and combiner.",
+        "email": "arun.kumar1986@live.com; arun.sikkim@hotmail.com",
+        "conf": "Egyptian Informatics Journal",
+        "coauthors": [
+            "Arun Kumar",
+            "Manisha Gupta"
+        ],
+        "keywords": "MIMO, MMSE, BER, QAM-64, QAM-256"
+    },
+    {
+        "id": 1957,
+        "label": 43,
+        "author": "s arun kumar",
+        "title": "Next Generation Mobile Communication System with Cognitive Radio OFDM and Beamforming Tecnique",
+        "organization": "Kalasalingam Academy of Research and Education",
+        "abstract": "This work explores beam forming and two-way relaying to alleviate the dual issues of the spectrum congestion and spectrum under-utilization. These problems can be alleviated by the implementation of underlay cognitive radio networks. However, their reliability, capacity or power, and coverage depend on bi-directional or abbreviated as primary-to-secondary (P2S) and secondary-to-primary (S2P) interference constraints. This work makes of two-way relaying to improve these essential and paramount efficiencies, performance and effectiveness measures.",
+        "email": "",
+        "conf": "The Scientific Bulletin of Electrical Engineering Faculty",
+        "coauthors": [
+            "Arun Kumar",
+            "Hemant Rathore",
+            "Shikha Bharti"
+        ],
+        "keywords": "Beam forming; MIMO; BER; Primary user (Pu); Secondary user (Su)"
+    },
+    {
+        "id": 1953,
+        "label": 43,
+        "author": "s arun kumar",
+        "title": "OFDM system with cyclostationary feature detection spectrum sensing",
+        "organization": "Kalasalingam Academy of Research and Education",
+        "abstract": "In Orthogonal Frequency Division Multiplexing OFDM, a cyclic prefix (CP) is applied to reduce the intervention between symbols. The CP results in bandwidth wastage, and the solution to this problem leads to the cognitive radio. In the first part of the work, OFDM with CP is presented and integrated with cyclostationary spectrum sensing. Subsequently, OFDM with cyclostationary spectrum sensing without CP is proposed with the function of the filter at the transmitter and receiver being to utilize the bandwidth that is wasted in the CP phase. The Bit Error Rate BER, signal probability detection, false alarm, and error probability are obtained and analyzed.",
+        "email": "arun.kumar@jecrcu.edu.in",
+        "conf": "ICT Express",
+        "coauthors": [
+            "Arun Kumar",
+            "Nandhakumar Pandi"
+        ],
+        "keywords": "Cognitive radio (CR), Cyclostationary detection, Cyclic prefix (CP), OFDM"
+    },
+    {
+        "id": 1961,
+        "label": 43,
+        "author": "s arun kumar",
+        "title": "A review on activities of fifth generation mobile communication system",
+        "organization": "Kalasalingam Academy of Research and Education",
+        "abstract": "In the year 2020, the fifth generation mobile communication will be deployed in many countries which aim to furnish a real wireless world free from present obstacles in communication system which is a great motivating factor for all the researchers, academicians and engineers. Researches are going all around the world to develop a new technology which will play a very important role in the successful deployment of 5G. The new technologies are being investigated that provide high speed, capacity, spectral efficiency, energy efficiency, pseudo outdoor communication, etc. that solves the existed problems in mobile communication system. In this work, a comprehensive study on key technologies, challenges, spectrum allocation, projects and present scenarios of 5G is discussed and described. The present study gives a detailed research to address the issues, and development correlated with 5G deployment.",
+        "email": "arun.kumar1986@live.com",
+        "conf": "AEJ - Alexandria Engineering Journal",
+        "coauthors": [
+            "Arun Kumar",
+            "Manisha Gupta"
+        ],
+        "keywords": "5G, 5G technologies, 5G projects, 5G issues, 5G spectrum"
+    },
+    {
+        "id": 1971,
+        "label": 43,
+        "author": "s arun kumar",
+        "title": "A Zigbee Based Wireless Datalogging System",
+        "organization": "Kalasalingam Academy of Research and Education",
+        "abstract": "This paper is designed using embedded technology. Typically, an embedded system is housed on a single microprocessor or microcontroller board with the programs stored in it. Microcontroller is more preferred to microprocessor as it contains all the features of a computer including central processor, in-built clock circuitry, ROM, RAM, input and output ports with special features viz. serial communication, analogue-to-digital conversion etc . This work is about developing a prototype of microcontroller based data logger which can be used in both wireless and wired technology. The wireless technology we used is a new, advanced and improved technology named Zigbee, which is an IEEE802.15.4",
+        "email": "",
+        "conf": "International Journal of Scientific & Engineering Research",
+        "coauthors": [
+            "Arun Kumar"
+        ],
+        "keywords": "Zigbee, Data logging, Embedded, LM35"
+    },
+    {
+        "id": 1962,
+        "label": 43,
+        "author": "s arun kumar",
+        "title": "Cognitive radio system with OFDM and beamforming technique for data communication",
+        "organization": "Kalasalingam Academy of Research and Education",
+        "abstract": "This work explores beam forming and two-way relaying to alleviate the dual issues of the spectrum congestion and spectrum under-utilization. These problems can be alleviated by the implementation of underlay cognitive radio networks. However, their reliability, capacity or power, and coverage depend on bi-directional or abbreviated as primary-to-secondary or abbreviated as (P2S) and secondary-to-primary or abbreviated as S2P interference constraints. This work makes use with and two-way relaying to improve these essential and paramount efficiency, performance and effectiveness measures.",
+        "email": "",
+        "conf": "Power Electronics, Intelligent Control and Energy Systems",
+        "coauthors": [
+            "Gaurav Bansal",
+            "Sandeep Toshniwal",
+            "Arun Kumar"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 1967,
+        "label": 43,
+        "author": "s arun kumar",
+        "title": "A review on OFDM and PAPR reduction techniques",
+        "organization": "Kalasalingam Academy of Research and Education",
+        "abstract": "",
+        "email": "",
+        "conf": "American Journal of Engineering and Applied Sciences",
+        "coauthors": [
+            "Arun Kumar",
+            "Manisha Gupta"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 1959,
+        "label": 43,
+        "author": "s arun kumar",
+        "title": "Design of 4:8 MIMO OFDM with MSE Equalizer for Different Modulation Techniques",
+        "organization": "Kalasalingam Academy of Research and Education",
+        "abstract": "MIMO OFDM is one of the most promising techniques to increase the capacity and data rate in mobile communication. In this work MIMO-OFDM is designed by using 4:8 antenna and OSTBC encoder and combiner for different modulation techniques like BPSK, QPSK, QAM-16, QAM-64, QAM-256 and MSE equalizer is also used which further reduce the inter-symbol interference specially for high order modulation techniques and enhanced the performance of OFDM system. Simulation is performed to analyze the performance of different modulation technique on the basis of BER, SNR, MSE plot, constellation plot etc. It is also found that for OFDM, the BER of QPSK is 0 and QAM-16, QAM-64 and QAM-256 have almost same BER but reduction in ISI also achieved.",
+        "email": "",
+        "conf": "Wireless Personal Communications",
+        "coauthors": [
+            "Arun Kumar",
+            "manisha Gupta"
+        ],
+        "keywords": ""
+    }
+]

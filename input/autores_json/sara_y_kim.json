@@ -1,0 +1,35 @@
+[
+    {
+        "id": 5332,
+        "label": 108,
+        "author": "sara y kim",
+        "title": "Positive Affect and Sleep: A Systematic Review",
+        "organization": "University of Notre Dame Department of Psychology",
+        "abstract": "A sizeable literature has implicated sleep in the phenomenological experience of various mood disorders, vulnerability to psychopathology, and overall poor psychological functioning. By contrast, positive affective states (e.g., joy, happiness, vigor, positive mood) that may contribute to sleep have been understudied. This systematic review integrates findings from cross-sectional, longitudinal, ambulatory, and experimental studies that investigate the association between positive affect and sleep. A comprehensive search for all available research on the topic was performed in three electronic bibliographic databases (PubMed, PsycINFO, CINAHL). Two independent reviewers extracted data on study characteristics and quality. From 10,853 retrieved articles, 44 fulfilled inclusion criteria and formed the base of the review. The majority of studies (68.2%, n = 30) were classified as weak or having high risk of bias. In general, the pattern of findings suggests that aggregate or trait measures provide the most consistent evidence of an association between positive affect and sleep in healthy populations. More limited empirical data exist on the association between positive affect and sleep in clinical populations. We conclude that more rigorous and theoretically informed research is needed before firm conclusions can be drawn about the possible beneficial impact of positive affect on sleep outcomes.",
+        "email": "",
+        "conf": "Sleep Medicine Reviews",
+        "coauthors": [
+            "Anthony D. Ong",
+            "Sara Kim",
+            "Sarah Young",
+            "Andrew Steptoe"
+        ],
+        "keywords": "Anhedonia,Bipolar disorder,Positive affect,Positive emotions,Mania,Sleep,Sleep duration,Sleep quality"
+    },
+    {
+        "id": 5333,
+        "label": 108,
+        "author": "sara y kim",
+        "title": "Enhancing Memory Consolidation through Slow Oscillation and Spindle Synchronization",
+        "organization": "University of Notre Dame Department of Psychology",
+        "abstract": "Declines in sleep quality and cognitive function, particularly the formation and retention of hippocampal-dependent memories, are hallmarks of neurodegenerative disorders, such as Alzheimer's disease (AD). These events might be related: converging evidence suggests that sleep plays an active role in memory consolidation, with non-rapid eye movement (NREM) sleep particularly benefiting declarative memories (Ellenbogen et al., 2006). In particular, cortical slow oscillations (SO; 0.5–1 Hz), thalamocortical sleep spindles",
+        "email": "skim39@nd.edu",
+        "conf": "The Journal of Neuroscience",
+        "coauthors": [
+            "Sara Y. Kim",
+            "Enmanuelle Pardilla-Delgado",
+            "Sara E. Alger"
+        ],
+        "keywords": ""
+    }
+]

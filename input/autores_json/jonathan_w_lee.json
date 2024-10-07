@@ -1,0 +1,187 @@
+[
+    {
+        "id": 2648,
+        "label": 58,
+        "author": "jonathan w lee",
+        "title": "Comparison of Molecular and Primitive Solvent Models for Electrical Double Layers in Nanochannels",
+        "organization": "Postdoctoral Appointee Sandia National Laboratories",
+        "abstract": "In a recent article (Lee et al. J. Comput. Theor. Chem., 2012, 8, 2012–2022.), it was shown that an electrolyte solution can be modeled in molecular dynamics (MD) simulations using a uniform dielectric constant in place of a polar solvent to validate Fluid Density Functional Theory (f-DFT) simulations. This technique can be viewed as a coarse-grained approximation of the polar solvent and reduces computational cost by an order of magnitude. However, the consequences of replacing the polar solvent with an effective permittivity are not well characterized, despite its common usage in f-DFT, Monte Carlo simulation, and Poisson–Boltzmann theory. In this paper, we have examined two solvent models of different fidelities with MD simulation of nanochannels. We find that the models produce qualitatively similar ion density profiles, but physical quantities such as electric field, electric potential, and capacitance differ by over an order of magnitude. In all cases, the bulk is explicitly modeled so that surface properties can be evaluated relative to a reference state. Moreover, quantities that define the reference state, such as bulk ion density, bulk solvent density, applied electric field, and temperature, are measurable, so cases with the same thermodynamic state can be compared. Insights into the solvent arrangement, most of which can not be determined from the coarse-grained model, are drawn from the model with an explicitly described polar solvent.",
+        "email": "",
+        "conf": "Journal of Chemical Theory and Computation",
+        "coauthors": [
+            "Jonathan W. Lee",
+            "Jeremy A. Templeton",
+            "Kranthi K Mandadapu",
+            "Kranthi K. Mandadapu",
+            "Jonathan A. Zimmerman"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2652,
+        "label": 58,
+        "author": "jonathan w lee",
+        "title": "Dependencies of the Thermal Conductivity of Individual Single-Walled Carbon Nanotubes",
+        "organization": "Postdoctoral Appointee Sandia National Laboratories",
+        "abstract": "This work is aimed at assessing the sensitivity of carbon nanotube (CNT) thermal conductivity to physical and numerical parameters owing to its wide variation in the literature. CNTs of various lengths, chiralities, and temperatures are simulated with molecular dynamics. The Tersoff and AIREBO potentials are also compared in this study. Thermal conductivity is computed with two different non-equilibrium molecular dynamics (NEMD) methods, which show interestingly divergent results; exploring the CNT phonon density of states reveals a proximate cause for the differences.",
+        "email": "",
+        "conf": "Journal of Nanoengineering and Nanosystems",
+        "coauthors": [
+            "Jonathan W. Lee",
+            "Andrew James Meade",
+            "E. V. Barrera",
+            "Jeremy A. Templeton"
+        ],
+        "keywords": "thermal conductivity, molecular dynamics, carbon nanotube, phonon"
+    },
+    {
+        "id": 2650,
+        "label": 58,
+        "author": "jonathan w lee",
+        "title": "A Long-Range Electric Field Solver for Molecular Dynamics Based on Atomistic-to-Continuum Modeling",
+        "organization": "Postdoctoral Appointee Sandia National Laboratories",
+        "abstract": "Understanding charge transport processes at a molecular level is currently hindered by a lack of appropriate models for incorporating nonperiodic, anisotropic electric fields in molecular dynamics (MD) simulations. In this work, we develop a model for including electric fields in MD using an atomistic-to-continuum framework. This framework provides the mathematical and the algorithmic infrastructure to couple finite element (FE) representations of continuous data with atomic data. Our model represents the electric potential on a FE mesh satisfying a Poisson equation with source terms determined by the distribution of the atomic charges. Boundary conditions can be imposed naturally using the FE description of the potential, which then propagate to each atom through modified forces. The method is verified using simulations where analytical solutions are known or comparisons can be made to existing techniques. In addition, a calculation of a salt water solution in a silicon nanochannel is performed to demonstrate the method in a target scientific application in which ions are attracted to charged surfaces in the presence of electric fields and interfering media.",
+        "email": "",
+        "conf": "Journal of Chemical Theory and Computation",
+        "coauthors": [
+            "Jeremy A. Templeton",
+            "Reese Jones",
+            "Jonathan W. Lee",
+            "Jonathan A. Zimmerman",
+            "Bryan M Wong"
+        ],
+        "keywords": "Electric fields,Electrical properties,Surface charge,Silicon,Electrostatic potential"
+    },
+    {
+        "id": 2651,
+        "label": 58,
+        "author": "jonathan w lee",
+        "title": "The Role of Carbon Nanotubes in Thermal Behavior of Heat Transfer Nanofluids",
+        "organization": "Postdoctoral Appointee Sandia National Laboratories",
+        "abstract": "Carbon Nanotubes (CNTs) lead to increased thermal conductivity for heat transfer fluids. Oil suspensions were studied as a function of CNT concentration. Purified and functionalized nanotubes were used. CNTs enhanced the thermal conductivity by an order of magnitude. Modeling showed the role of the CNTs in enabling increased thermal conductivity.",
+        "email": "",
+        "conf": "ICHMT DIGITAL LIBRARY ONLINE",
+        "coauthors": [
+            "Jonathan W. Lee",
+            "Betty Kohanloo",
+            "Jeremy A. Templeton",
+            "E. V. Barrera"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2647,
+        "label": 58,
+        "author": "jonathan w lee",
+        "title": "Polarization as a field variable from molecular dynamics simulations",
+        "organization": "Postdoctoral Appointee Sandia National Laboratories",
+        "abstract": "A theoretical and computational framework for systematically calculating the macroscopic polarization density as a field variable from molecular dynamics simulations is presented. This is done by extending the celebrated Irving and Kirkwood [J. Chem. Phys. 18, 817 (1950)] procedure, which expresses macroscopic stresses and heat fluxes in terms of the atomic variables, to the case of electrostatics. The resultant macroscopic polarization density contains molecular dipole, quadrupole, and higher-order moments, and can be calculated to a desired accuracy depending on the degree of the coarse-graining function used to connect the molecular and continuum scales. The theoretical and computational framework is verified by recovering the dielectric constant of bulk water. Finally, the theory is applied to calculate the spatial variation of the polarization vector in the electrical double layer of a 1:1 electrolyte solution. Here, an intermediate asymptotic length scale is revealed in a specific region, which validates the application of mean field Poisson-Boltzmann theory to describe this region. Also, using the existence of this asymptotic length scale, the lengths of the diffuse and condensed/Stern layers are identified accurately, demonstrating that this framework may be used to characterize electrical double layers over a wide range of concentrations of solutions and surface charges.",
+        "email": "",
+        "conf": "The Journal of Chemical Physics",
+        "coauthors": [
+            "Kranthi K Mandadapu",
+            "Jeremy A. Templeton",
+            "Jonathan W. Lee"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2653,
+        "label": 58,
+        "author": "jonathan w lee",
+        "title": "A scattered data approximation tool to map single-walled carbon nanotube dispersion to the processing parameters in polymer nanocomposites",
+        "organization": "Postdoctoral Appointee Sandia National Laboratories",
+        "abstract": "The relationship of nanocomposite dispersion to dispersion techniques and other processing parameters was studied. Examining all permutations of the various factors in the laboratory is a challenging task. In this paper, we propose to map a correlation between inputs and output via a self-adaptive scattered data approximation method. The proposed greedy algorithm, sequential function approximation (SFA), reveals the multidimensional behaviour of the system, provides the sensitivity of each input and presents the combination of inputs that is most suitable for a specific output. In this research, we have collected data from various research institutions and applied it to SFA. The results show that SWNT weight percent, sonication time, SWNT modification and high shear mixing time are key factors that affect the dispersion. This text discusses SFA, the data and the results in detail. This work serves as a proof of concept for functional mapping to be applied to polymer processing",
+        "email": "",
+        "conf": "International Journal of Knowledge Engineering and Data Mining",
+        "coauthors": [
+            "Jonathan W. Lee",
+            "Andrew James Meade",
+            "Enrique V. Barrera"
+        ],
+        "keywords": "classification; greedy algorithms; functional mapping; radial basis functions; carbon nanotubes; CNTs; polymer; nanocomposites; dispersion;composite processing; feature selection"
+    },
+    {
+        "id": 2654,
+        "label": 58,
+        "author": "jonathan w lee",
+        "title": "Discrepancies between roughness measurements obtained with phase-shifting and white-light interferometry",
+        "organization": "Postdoctoral Appointee Sandia National Laboratories",
+        "abstract": "Discrepancies between phase-shifting and white-light interferometry have been observed in step-height and surface roughness measurements. The discrepancies have a strong relation to the roughness average parameter of the surface. The skewing effect, which mainly occurs in the vicinity of peaks, valleys, and edges of the sample, causes this problem in white-light interferometry of step height. For roughness, two possible sources of the discrepancy are considered",
+        "email": "",
+        "conf": "Applied Optics",
+        "coauthors": [
+            "Hyug-Gyo Rhee",
+            "Theodore V Vorburger",
+            "Jonathan W. Lee",
+            "Joseph Fu"
+        ],
+        "keywords": "interferometry, metrology, microscopy, phase shifting, roughness, step height, surface texture, white light"
+    },
+    {
+        "id": 2649,
+        "label": 58,
+        "author": "jonathan w lee",
+        "title": "Molecular Dynamics Models of the Electric Double Layer for Large Zeta Potentials",
+        "organization": "Postdoctoral Appointee Sandia National Laboratories",
+        "abstract": "The Classical Poisson-Boltzmann (PB) theory for the electric double layer (EDL) breaks down at the nanoscale as zeta potential increases. The ability to accurately model the EDL for large potentials is important for engineering high energy storage devices. To better understand behavior at large potentials, various molecular dynamics (MD) models were developed. MD models range from an idealized Lennard-Jones ionic fluid between unstructured walls to a salt water solution between solid substrates. All models feature a bulk fluid region in order to obtain a reference",
+        "email": "",
+        "conf": "Bulletin of the American Physical Society",
+        "coauthors": [
+            "Jonathan W. Lee",
+            "Jeremy A. Templeton",
+            "Robert H. Nilson",
+            "Stewart K. Griffiths",
+            "Bryan M. Wong",
+            "Andy Kung"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2644,
+        "label": 58,
+        "author": "jonathan w lee",
+        "title": "Thermal Transport Mechanisms in Carbon Nanotube-Nanofluids Identified From Molecular Dynamics Simulations",
+        "organization": "Postdoctoral Appointee Sandia National Laboratories",
+        "abstract": "Atomistic simulations of carbon nanotubes (CNTs) in a liquid environment are performed to better understand thermal transport in CNT-based nanofluids. Thermal conductivity is studied using nonequilibrium molecular dynamics (MD) methods to understand the effective conductivity of a solvated CNT combined with a novel application of Hamilton–Crosser (HC) theory to estimate the conductivity of a fluid suspension of CNTs. Simulation results show how the presence of the fluid affects the CNTs ability to transport heat by disrupting the low-frequency acoustic phonons of the CNT. A spatially dependent use of the Irving–Kirkwood relations reveals the localized heat flux, illuminating the heat transfer pathways in the composite material. Model results can be consistently incorporated into HC theory by considering ensembles of CNTs and their surrounding fluid as being present in the liquid. The simulation-informed theory is shown to be consistent with existing experimental results.",
+        "email": "jonathanwlee5@gmail.com",
+        "conf": "Journal of Heat Transfer",
+        "coauthors": [
+            "Jonathan W. Lee",
+            "Andrew James Meade",
+            "Enrique V. Barrera",
+            "Jeremy A. Templeton"
+        ],
+        "keywords": "Heat transfer enhancement, Micro heat transfer, Nanoscale heat transfer"
+    },
+    {
+        "id": 2646,
+        "label": 58,
+        "author": "jonathan w lee",
+        "title": "Atomistic and Molecular Effects in Electric Double Layers at High Surface Charges",
+        "organization": "Postdoctoral Appointee Sandia National Laboratories",
+        "abstract": "The Poisson–Boltzmann theory for electrolytes near a charged surface is known to be invalid due to unaccounted physics associated with high ion concentration regimes. To investigate this regime, fluids density functional theory (f-DFT) and molecular dynamics (MD) simulations were used to determine electric surface potential as a function of surface charge. Based on these detailed computations, for electrolytes with nonpolar solvent, the surface potential is shown to depend quadratically on the surface charge in the high charge limit. We demonstrate that modified Poisson–Boltzmann theories can model this limit if they are augmented with atomic packing densities provided by MD. However, when the solvent is a highly polar molecule, water in this case, an intermediate regime is identified in which a constant capacitance is realized. Simulation results demonstrate the mechanism underlying this regime, and for the salt water system studied here, it persists throughout the range of physically realistic surface charge densities so the potential’s quadratic surface charge dependence is not obtained.",
+        "email": "",
+        "conf": "Langmuir",
+        "coauthors": [
+            "Jonathan W. Lee",
+            "Ali Mani",
+            "Jeremy A. Templeton"
+        ],
+        "keywords": "Layers,Electrical properties,Ions,Surface charge,Solvents"
+    },
+    {
+        "id": 2645,
+        "label": 58,
+        "author": "jonathan w lee",
+        "title": "Enhanced molecular dynamics for simulating porous interphase layers in batteries",
+        "organization": "Postdoctoral Appointee Sandia National Laboratories",
+        "abstract": "Understanding charge transport processes at a molecular level using computational techniques is currently hindered by a lack of appropriate models for incorporating anistropic electric fields in molecular dynamics (MD) simulations. An important technological example is ion transport through solid-electrolyte interphase (SEI) layers that form in many common types of batteries. These layers regulate the rate at which electro-chemical reactions occur, affecting power, safety, and reliability. In this work, we develop a model for incorporating electric fields in MD using an atomistic-to-continuum framework. This framework provides the mathematical and algorithmic infrastructure to couple finite element (FE) representations of continuous data with atomic data. In this application, the electric potential is represented on a FE mesh and is calculated from a Poisson equation with source terms determined by the distribution of the atomic charges. Boundary conditions can be imposed naturally using the FE description of the potential, which then propagates to each atom through modified forces. The method is verified using simulations where analytical or theoretical solutions are known. Calculations of salt water solutions in complex domains are performed to understand how ions are attracted to charged surfaces in the presence of electric fields and interfering media.",
+        "email": "",
+        "conf": "Sandia National Laboratories",
+        "coauthors": [
+            "Jeremy A. Templeton, Reese E. Jones,Bryan M. Wong, Jonathan A. Zimmerman"
+        ],
+        "keywords": ""
+    }
+]

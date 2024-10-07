@@ -1,0 +1,186 @@
+[
+    {
+        "id": 6230,
+        "label": 122,
+        "author": "zhenying zhang",
+        "title": "Thermodynamic Analysis of Double-Stage Compression Transcritical CO2 Refrigeration Cycles with an Expander",
+        "organization": "PhD of refrigeration Tianjin University / Hebei United university",
+        "abstract": "Four different double-compression CO2 transcritical refrigeration cycles are studied: double-compression external intercooler cycle (DCEI), double-compression external intercooler cycle with an expander (DCEIE), double-compression flash intercooler cycle (DCFI), double-compression flash intercooler cycle with an expander (DCFIE). The results showed that the optimum gas cooler pressure and optimum intermediate pressure of the flash intercooler cycles are lower than that of the external intercooler cycle. The use of an expander in the DCEI cycle leads to a decrease of the optimum gas cooler pressure and little variation of the optimum intermediate pressure. However, the replacement of the throttle valve with an expander in the DCFI cycle results in little variation of the optimal gas cooler pressure and an increase of the optimum intermediate pressure. The DCFI cycle outperforms the DCEI cycle under all the chosen operating conditions. The DCEIE cycle outperforms the DCFIE cycle when the evaporating temperature exceeds 0 °C or the gas cooler outlet temperature surpasses 35 °C. When the gas cooler exit temperature varies from 32 °C to 48 °C, the DCEI cycle, DCEIE cycle, DCFI cycle and DCFIE cycle yield averaged 4.6%, 29.2%, 12.9% and 22.3% COP improvement, respectively, over the basic cycle.",
+        "email": "zzying30@126.com",
+        "conf": "Entropy",
+        "coauthors": [
+            "Zhenying Zhang",
+            "Lirui Tong",
+            "Xingguo Wang"
+        ],
+        "keywords": "CO2 transcritical refrigeration cycle; double-stage compression; expander; coefficient of performance; intercooler"
+    },
+    {
+        "id": 6232,
+        "label": 122,
+        "author": "zhenying zhang",
+        "title": "Effect of an Internal Heat Exchanger on Performance of the Transcritical Carbon Dioxide Refrigeration Cycle with an Expander",
+        "organization": "PhD of refrigeration Tianjin University / Hebei United university",
+        "abstract": "The effect of the internal heat exchanger (IHE) on the performance of the transcritical carbon dioxide refrigeration cycle with an expander is analyzed theoretically on the basis of the first and second laws of thermodynamics. The possible parameters affecting system efficiency such as heat rejection pressure, gas cooler outlet temperature, evaporating temperature, expander isentropic efficiency and IHE effectiveness are investigated. It is found that the IHE addition in the carbon dioxide refrigeration cycle with an expander increases the specific cooling capacity and compression work, and decreases the optimum heat rejection pressure and the expander output power. An IHE addition does not always improve the system performance in the refrigeration cycle with an expander. The throttle valve cycle with IHE provides a 5.6% to 17% increase in maximum COP compared to that of the basic cycle. For the ideal expander cycle with IHE, the maximum COP is approximately 12.3% to 16.1% lower than the maximum COP of the cycle without IHE. Whether the energy efficiency of the cycle by IHE can be improved depends on the isentropic efficiency level of the expander. The use of IHE is only applicable in the cases of lower expander isentropic efficiencies or higher gas cooler exit temperatures for the refrigeration cycle with an expander from the view of energy efficiency.",
+        "email": "",
+        "conf": "Entropy",
+        "coauthors": [
+            "Zhenying Zhang",
+            "Lili Tian",
+            "Yuechuan Chen",
+            "Lirui Tong"
+        ],
+        "keywords": "transcritical refrigeration cycle; expander; internal heat exchanger; carbon dioxide"
+    },
+    {
+        "id": 6234,
+        "label": 122,
+        "author": "zhenying zhang",
+        "title": "Exergy Analysis of a Subcritical Refrigeration Cycle with an Improved Impulse Turbo Expander",
+        "organization": "PhD of refrigeration Tianjin University / Hebei United university",
+        "abstract": "The impulse turbo expander (ITE) is employed to replace the throttling valve in the vapor compression refrigeration cycle to improve the system performance. An improved ITE and the corresponding cycle are presented. In the new cycle, the ITE not only acts as an expansion device with work extraction, but also serves as an economizer with vapor injection. An increase of 20% in the isentropic efficiency can be attained for the improved ITE compared with the conventional ITE owing to the reduction of the friction losses of the rotor. The performance of the novel cycle is investigated based on energy and exergy analysis. A correlation of the optimum intermediate pressure in terms of ITE efficiency is developed. The improved ITE cycle increases the exergy efficiency by 1.4%–6.1% over the conventional ITE cycle, 4.6%–8.3% over the economizer cycle and 7.2%–21.6% over the base cycle. Furthermore, the improved ITE cycle is also preferred due to its lower exergy loss.",
+        "email": "zzying30@126.com",
+        "conf": "Entropy",
+        "coauthors": [
+            "Zhenying Zhang",
+            "Lili Tian"
+        ],
+        "keywords": "refrigeration cycle; turbo expander; optimum intermediate pressure; coefficient of performance (COP); exergy efficiency"
+    },
+    {
+        "id": 6235,
+        "label": 122,
+        "author": "zhenying zhang",
+        "title": "Effect of Suction Nozzle Pressure Drop on the Performance of an Ejector-Expansion Transcritical CO2 Refrigeration Cycle",
+        "organization": "PhD of refrigeration Tianjin University / Hebei United university",
+        "abstract": "The basic transcritical CO2 systems exhibit low energy efficiency due to their large throttling loss. Replacing the throttle valve with an ejector is an effective measure for recovering some of the energy lost in the expansion process. In this paper, a thermodynamic model of the ejector-expansion transcritical CO2 refrigeration cycle is developed. The effect of the suction nozzle pressure drop (SNPD) on the cycle performance is discussed. The results indicate that the SNPD has little impact on entrainment ratio. There exists an optimum SNPD which gives a maximum recovered pressure and COP under a specified condition. The value of the optimum SNPD mainly depends on the efficiencies of the motive nozzle and the suction nozzle, but it is essentially independent of evaporating temperature and gas cooler outlet temperature. Through optimizing the value of SNPD, the maximum COP of the ejector-expansion cycle can be up to 45.1% higher than that of the basic cycle. The exergy loss of the ejector-expansion cycle is reduced about 43.0% compared with the basic cycle.",
+        "email": "",
+        "conf": "Entropy",
+        "coauthors": [
+            "Zhenying Zhang",
+            "Lili Tian"
+        ],
+        "keywords": "refrigeration system; ejector; suction nozzle pressure drop; CO2; transcritical cycle"
+    },
+    {
+        "id": 6236,
+        "label": 122,
+        "author": "zhenying zhang",
+        "title": "Simulation analysis of a two-rolling piston expander replacing a throttling valve in a refrigeration and heat pump system",
+        "organization": "PhD of refrigeration Tianjin University / Hebei United university",
+        "abstract": "An expander is used to replace a throttling valve in a refrigeration and heat pump system in order to improve the system efficiency by recovering partial expansion work. Owing to the large expansion ratios of low pressure refrigerants, a two rolling piston expander was proposed and designed. The efficiency analysis was developed by analyzing energy losses of the expander in the expansion work process. The simulation results show that the friction losses of the designed expander are about 78.5% of total losses, which influences the efficiency of expander significantly. Then the measures of reducing friction losses are presented. A theoretical expander efficiency of 72.0% is expected to be attained.",
+        "email": "",
+        "conf": "Applied Thermal Engineering",
+        "coauthors": [
+            "Li Zhao",
+            "Minxia Li",
+            "Yitai Ma",
+            "Zhongyan Liu",
+            "Zhenying Zhang"
+        ],
+        "keywords": "Expander,Throttling valve,Refrigeration and heat pump system,Two rolling piston,Low pressure refrigerant"
+    },
+    {
+        "id": 6228,
+        "label": 122,
+        "author": "zhenying zhang",
+        "title": "Thermodynamic analysis of double-compression flash intercooling transcritical CO2 refrigeration cycle",
+        "organization": "PhD of refrigeration Tianjin University / Hebei United university",
+        "abstract": "The performance of double-compression flash intercooling (DCFI) transcritical CO2 refrigeration cycle is evaluated by thermodynamic analysis in comparison with the double-compression external intercooling (DCEI) cycles. The effect of expander isentropic efficiency and position on the performance of DCFI cycle is investigated. Six double-compression refrigeration cycles are studied in the paper. The results show that the DCFI cycle performs better than DCEI cycle when the throttle valve is used as the expansion device. The replacement of the throttle valve with the expander yields less coefficient of performance (COP) improvement for DCFI cycle compared with DCEI cycle, especially at low evaporating temperatures or high gas cooler outlet temperatures. The COP of the two cycles is nearly equivalent when the isentropic efficiency of the expansion processes reaches 1.0. The DCFI cycle with only one throttle valve replaced with an expander shows lower COP compared with the corresponding DCEI expander cycle. The replacement of the main throttle valve with an expander results in higher COP compared with the auxiliary throttle valve replacement in the DCFI cycle. The substitution throttle valve for expander in the DCFI cycle is not economical compared with DCEI cycle. Furthermore, the optimum gas cooler pressure, the optimum intermediate pressure and the mass flow rate ratio are also discussed in the paper.",
+        "email": "zzying30@126.com",
+        "conf": "Journal of Supercritical Fluids The",
+        "coauthors": [
+            "Zhenying Zhang",
+            "Hongli Wang",
+            "Lili Tian",
+            "Chunsong Huang"
+        ],
+        "keywords": "Transcritical CO2 refrigeration cycle,Double-compression,Expander,Coefficient of performance,Intercooler"
+    },
+    {
+        "id": 6237,
+        "label": 122,
+        "author": "zhenying zhang",
+        "title": "Recent advances of energy recovery expanders in the transcritical CO2 refrigeration cycle",
+        "organization": "PhD of refrigeration Tianjin University / Hebei United university",
+        "abstract": "The intrinsic energy efficiency of a transcritical CO2 cycle is less than that of the current widely used refrigeration systems. Utilization of an expander to replace the throttle valve for work recovery is considered the most effective way to improve the energy efficiency of the cycle. This article presents a detailed review of recent literature concerning various two-phase expanders in transcritical CO2 refrigeration cycles. The integration concepts for an expander in a transcritical CO2 refrigeration cycle are also evaluated.",
+        "email": "",
+        "conf": "HVAC&R RESEARCH",
+        "coauthors": [
+            "Zhenying Zhang",
+            "Yitai Ma",
+            "Minxia Li",
+            "Li Zhao"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 6231,
+        "label": 122,
+        "author": "zhenying zhang",
+        "title": "Experimental investigation on a turbo expander substituted for throttle valve in the subcritical refrigeration system",
+        "organization": "PhD of refrigeration Tianjin University / Hebei United university",
+        "abstract": "Owing to the large volumetric expansion ratio of the subcritical refrigerant and the geometrical restriction of the positive displacement machine, investigations on expanders in subcritical vapor refrigeration systems are relatively few in the literature. In this paper, a radial inflow turbo expander prototype is developed for expansion power recovery in the subcritical refrigeration system. The experimental results show that the prototype can operate stably within a wide speed range of up to 3200 rpm. A maximum of 10.4% isentropic efficiency is obtained when the inlet pressure is 1.7 MPa. It is also found that the optimum velocity ratio of the expander is 0.08–0.14 and shifts to higher values with the increase of the expander inlet pressure. Also, the defects of the prototype are discussed to further improve its performance.",
+        "email": "",
+        "conf": "Energy",
+        "coauthors": [
+            "Zhenying Zhang",
+            "Minxia Li",
+            "Yitai Ma",
+            "Xiufeng Gong"
+        ],
+        "keywords": "Refrigeration,Turbo expander,Subcritical refrigeration system,Throttle valve,Expansion power recovery"
+    },
+    {
+        "id": 6233,
+        "label": 122,
+        "author": "zhenying zhang",
+        "title": "Choked Flow Characteristics of Subcritical Refrigerant Flowing Through Converging-Diverging Nozzles",
+        "organization": "PhD of refrigeration Tianjin University / Hebei United university",
+        "abstract": "This paper presents the experimental results the choked flow characteristics of a subcritical refrigerant through a converging-diverging nozzle. A test nozzle with a throat diameter of 2 mm was designed and developed. The influence of operating conditions on the choked flow characteristics, i.e., the pressure profile and mass flow rate under choked flow conditions are investigated. The results indicate that the choked flow occurs in the flow of subcritical refrigerant through nozzles under the normal working conditions of air-conditioners or heat pumps. The pressure drop near the throat is about 80% of the total pressure drop through the nozzle. The critical mass flux is about 19,800 ~ 24,000 kg/(s·m2). The critical mass flow rate increases with increasing the upstream pressure and subcooling. Furthermore, the relative errors between the model predictions and the experimental results for the critical mass flux are also presented. It is found that the deviations of the predictions for homogeneous equilibrium model and Henry-Fauske model from the experimental values are −35% ~ 5% and 15% ~ 35%, respectively",
+        "email": "zzying30@126.com",
+        "conf": "Entropy",
+        "coauthors": [
+            "Zhenying Zhang",
+            "Lili Tian",
+            "Lirui Tong",
+            "Yanhua Chen"
+        ],
+        "keywords": "refrigeration system; nozzle; choked flow; critical mass flow rate"
+    },
+    {
+        "id": 6238,
+        "label": 122,
+        "author": "zhenying zhang",
+        "title": "Theoretical evaluation on effect of internal heat exchanger in ejector expansion transcritical CO2 refrigeration cycle",
+        "organization": "PhD of refrigeration Tianjin University / Hebei United university",
+        "abstract": "The performance of the transcritical CO2 refrigeration system requires further improvement in order to save energy. In this paper, the effect of the internal heat exchanger (IHE) on the performance of the ejector expansion transcritical CO2 refrigeration system is analyzed theoretically based on the first law of thermodynamics. The possible parameters affecting system efficiency are investigated. The variation of ejector entrainment ratio, pressure recovery, ejector efficiency and the coefficient of performance (COP) is obtained for the ejector expansion transcritical CO2 refrigeration cycles with and without IHE. It is found that the addition of IHE in the CO2 ejector refrigeration cycle increases the ejector entrainment ratio and the ejector efficiency, and decreases pressure recovery under the same gas cooler pressures. Unlike in a conventional throttle valve cycle, an IHE addition does not always improve the system performance in the ejector expansion cycle. Whether the energy efficiency of the ejector cycle by IHE can be improved depends on the isentropic efficiency level of the ejector. The utilization of IHE is only applicable in the cases of lower ejector isentropic efficiencies or higher gas cooler exit/evaporator temperatures for the ejector expansion system from the view of energy efficiency.",
+        "email": "zzying30@126.com;zzying@tju.edu.cn",
+        "conf": "Applied Thermal Engineering",
+        "coauthors": [
+            "Zhenying Zhang",
+            "Yi-tai Ma",
+            "Hong-li Wang",
+            "Min-xia Li"
+        ],
+        "keywords": "Refrigeration system,Ejector,Transcritical cycle,CO2,Internal heat exchanger"
+    },
+    {
+        "id": 6229,
+        "label": 122,
+        "author": "zhenying zhang",
+        "title": "Energetic and Exergetic Analysis of an Ejector-Expansion Refrigeration Cycle Using the Working Fluid R32",
+        "organization": "PhD of refrigeration Tianjin University / Hebei United university",
+        "abstract": "The performance characteristics of an ejector-expansion refrigeration cycle (EEC) using R32 have been investigated in comparison with that using R134a. The coefficient of performance (COP), the exergy destruction, the exergy efficiency and the suction nozzle pressure drop (SNPD) are discussed. The results show that the application of an ejector instead of a throttle valve in R32 cycle decreases the cycle’s total exergy destruction by 8.84%–15.84% in comparison with the basic cycle (BC). The R32 EEC provides 5.22%–13.77% COP improvement and 5.13%–13.83% exergy efficiency improvement respectively over the BC for the given ranges of evaporating and condensing temperatures. There exists an optimum suction nozzle pressure drop (SNPD) which gives a maximum system COP and volumetric cooling capacity (VCC) under a specified condition. The value of the optimum SNPD mainly depends on the efficiencies of the ejector components, but is virtually independent of evaporating temperature and condensing temperature. In addition, the improvement of the component efficiency, especially the efficiencies of diffusion nozzle and the motive nozzle, can enhance the EEC performance.",
+        "email": "",
+        "conf": "Entropy",
+        "coauthors": [
+            "Zhenying Zhang",
+            "Lirui Tong",
+            "Li Chang",
+            "Yanhua Chen",
+            "Xingguo Wang"
+        ],
+        "keywords": "refrigeration; ejector-expansion; R32; COP; exergy efficiency"
+    }
+]

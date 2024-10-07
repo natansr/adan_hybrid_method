@@ -1,0 +1,32 @@
+[
+    {
+        "id": 4168,
+        "label": 77,
+        "author": "jonathan d mitchell",
+        "title": "Distinguishing Convergence on Phylogenetic Networks",
+        "organization": "Postdoctoral Fellow Department of Mathematics and Statistics University of Alaska Fairbanks",
+        "abstract": "We compare the phylogenetic tensors for various trees and networks for two, three and four taxa. If the probability spaces between one tree or network and another are not identical then there will be phylogenetic tensors that could have arisen on one but not the other. We call these two trees or networks distinguishable from each other. We show that for the binary symmetric model there are no two-taxon trees and networks that are distinguishable from each other, however there are three-taxon trees and networks that are distinguishable from each other. We compare the time parameters for the phylogenetic tensors for various taxon label permutations on a given tree or network. If the time parameters on one taxon label permutation in terms of the other taxon label permutation are all non-negative then we say that the two taxon label permutations are not network identifiable from each other. We show that some taxon label permutations are network identifiable from each other. We show that some four-taxon networks satisfy the four-point condition. Of the two \"shapes\" of four-taxon rooted trees, one is defined by the cluster, b,c,d, labelling taxa alphabetically from left to right. The network with this shape and convergence between the two taxa with the root as their most recent common ancestor satisfies the four-point condition. The phylogenetic tensors contain polynomial equations that cannot be easily solved for four-taxon or higher trees or networks. We show how methods from algebraic geometry, such as Gröbner bases, can be used to solve the polynomial equations. We show that some four-taxon trees and networks can be distinguished from each other.",
+        "email": "",
+        "conf": "University of Tasmania",
+        "coauthors": [
+            "Jonathan Mitchell"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4167,
+        "label": 77,
+        "author": "jonathan d mitchell",
+        "title": "Hypothesis testing near singularities and boundaries",
+        "organization": "Postdoctoral Fellow Department of Mathematics and Statistics University of Alaska Fairbanks",
+        "abstract": "The likelihood ratio statistic, with its asymptotic χ2χ2 distribution at regular model points, is often used for hypothesis testing. However, the asymptotic distribution can differ at model singularities and boundaries, suggesting the use of a χ2χ2 might be problematic nearby. Indeed, its poor behavior for testing near singularities and boundaries is apparent in simulations, and can lead to conservative or anti-conservative tests. Here we develop a new distribution designed for use in hypothesis testing near singularities and boundaries, which asymptotically agrees with that of the likelihood ratio statistic. For two example trinomial models, arising in the context of inference of evolutionary trees, we show the new distributions outperform a χ2χ2.",
+        "email": "jdmitchell5@alaska.edu",
+        "conf": "Electronic Journal of Statistics",
+        "coauthors": [
+            "Jonathan D Mitchell",
+            "Elizabeth S Allman",
+            "John A Rhodes"
+        ],
+        "keywords": ""
+    }
+]

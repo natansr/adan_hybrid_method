@@ -1,0 +1,3419 @@
+[
+    {
+        "id": 7689,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Control of Spoof Localized Surface Plasmons Using Terahertz Near-field Microscope",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "We performed time-resolved terahertz near-field imaging of a gold disk with sub-wavelength periodic grooves and successfully observed spoof localized surface plasmons. A selective excitation method is also demonstrated with orbital angular momentum of light.",
+        "email": "",
+        "conf": "Conference on Lasers and Electro-Optics (CLEO). IEEE",
+        "coauthors": [
+            "Takashi Arikawa",
+            "Shohei Morimoto",
+            "Tomoki Hiraoka",
+            "Francois Blanchard",
+            "Kyosuke Sakai",
+            "Keiji Sasaki",
+            "Koichiro Tanaka"
+        ],
+        "keywords": "Plasmons,Electric fields,Optical surface waves,Orbits,Laser beams,Microscopy"
+    },
+    {
+        "id": 7710,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Time-resolved observation of coherent excitonic nonlinear response with a table-top narrowband THz pulse wave",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "By combining a tilted-pulse-intensity-front scheme using a LiNbO3 crystal and a chirped-pulse-beating method, we generated a narrowband intense terahertz (THz) pulse, which had a maximum electric field of more than 10 kV/cm at around 2 THz, a bandwidth of ∼50 GHz, and frequency tunability from 0.5 to 2 THz. By performing THz-pump and near-infrared-probe experiments on GaAs quantum wells, we observed that the resonant excitation of the intraexcitonic 1s-2p transition induces a clear and large Autler-Townes splitting. Our time-resolved measurements show that the splitting energy observed in the rising edge region of electric field is larger than in the constant region. This result implies that the splitting energy depends on the time-averaged THz field over the excitonic dephasing time rather than that at the instant of the exciton creation by a probe pulse.",
+        "email": "",
+        "conf": "Applied Physics Letters",
+        "coauthors": [
+            "Kenichi Uchida",
+            "H. Hirori",
+            "Tetsuo Aoki",
+            "Christian Wolpert",
+            "Tomohiro Tamaya",
+            "Keiji Tanaka",
+            "Takamichi Mochizuki",
+            "Changsoo Kim",
+            "Masahiro Yoshita",
+            "Hidemori Akiyama",
+            "Loren N. Pfeiffer",
+            "Ken W. West"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7830,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Attenuated Total Reflection Spectroscopy in Time Domain Using Terahertz Coherent Pulses",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Japanese Journal of Applied Physics",
+        "coauthors": [
+            "Hideki Hirori",
+            "Kumiko Yamashita",
+            "Masaya Nagai",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7753,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Photo-designed terahertz devices",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Scientific Reports",
+        "coauthors": [
+            "Takanori Okada",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7796,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Evaluation of effective optical constants in parallel slab metamaterial with terahertz time domain spectroscopy",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7776,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Nonlinear THz Spectroscopy on the Dielectric Thin Films",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Ikufumi Katayama",
+            "Hiroshi Aoki",
+            "Jun Takeda",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7814,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Destructive interference effect on surface plasmon resonance in terahertz attenuated total reflection",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Optics Express",
+        "coauthors": [
+            "Hideki Hirori",
+            "Masaya Nagai",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7697,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Subcycle Optical Response Caused by a Terahertz Dressed State with Phase-Locked Wave Functions",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "The coherent interaction of light with matter imprints the phase information of the light field on the wave function of the photon-dressed electronic state. A driving electric field, together with a stable phase that is associated with the optical probe pulses, enables the role of the dressed state in the optical response to be investigated. We observed optical absorption strengths modulated on a subcycle time scale in a GaAs quantum well in the presence of a multicycle terahertz driving pulse using a near-infrared probe pulse. The measurements were in good agreement with the analytical formula that accounts for the optical susceptibilities caused by the dressed state of the excitons, which indicates that the output probe intensity was coherently reshaped by the excitonic sideband emissions.",
+        "email": "",
+        "conf": "Physical Review Letters",
+        "coauthors": [
+            "Kento Uchida",
+            "Tomohito Otobe",
+            "Toshimitsu Mochizuki",
+            "C. Kim",
+            "M. Yoshita",
+            "H. Akiyama",
+            "L. N. Pfeiffer",
+            "K. W. West",
+            "K. Tanaka",
+            "H. Hirori"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7872,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Subpicosecond hot-hole relaxation in germanium studied by time-resolved inter-valence-band Raman scattering",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Physical review. B Condensed matter",
+        "coauthors": [
+            "Koichiro Tanaka",
+            "Hideyuki Ohtake",
+            "Hiroyuki Nansei",
+            "Tohru Suemoto"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7687,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Coherent detection of THz-induced sideband emission from excitons in the nonperturbative regime",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "Strong interaction of a terahertz (THz) wave with excitons induces nonperturbative optical effects such as Rabi splitting and high-order sideband generation. Here, we investigated coherent properties of THz-induced sideband emissions from GaAs/AlGaAs multiquantum wells. With increasing THz electric field, optical susceptibility of the THz-dressed exciton shows a redshift with spectral broadening and extraordinary phase shift. This implies that the field ionization of the 1s exciton modifies the THz-dressed exciton in the nonperturbative regime.",
+        "email": "",
+        "conf": "Physical Review",
+        "coauthors": [
+            "Kento Uchida",
+            "Tomohito Otobe",
+            "Toshimitsu Mochizuki",
+            "H. Hirori"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7817,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Dynamics of biomolecules in water by terahertz time-domain attenuated total reflection spectroscopy",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Takashi Arikawa",
+            "K. Yamashita",
+            "H. Hirori",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7779,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Terahertz-wave induced non-linear optical effects in semiconductors",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7807,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Synchrotron radiation study of photo-induced spin-crossover transitions: Microscopic origin of nonlinear phase transition",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of Luminescence",
+        "coauthors": [
+            "H. Oyanagi",
+            "Takeshi Tayagaki",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7869,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Electronic Raman Scattering of Photoexcited Electrons in Germanium",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of the Physical Society of Japan",
+        "coauthors": [
+            "Hideyuki Ohtake",
+            "Koichiro Tanaka",
+            "Takeyo Tsukamoto",
+            "Tohru Suemoto"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7795,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Large drop in dielectric constant at ferrimagnetic ordering of CoCr2O4 thin film as observed by terahertz time domain spectroscopy",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Krushna Mavani",
+            "M. Nagai",
+            "M. Shirai",
+            "Masayoshi Tonouchi"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7775,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Nonperturbative Excitonic Interaction with Intense THz Pulses in ZnSe/ZnMgSSe Multiple Quantum Wells",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Hideki Hirori",
+            "Masaya Nagai",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7825,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Complex Dielectric Constant of Amino-Acid Solution Revealed by THz Time-Domain Attenuated Total-Reflection Technique",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Takashi Arikawa",
+            "Kumiko Yamashita",
+            "Hideki Hirori",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7826,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Decoupling of the molecular spin-state and the crystallographic phase in the spin-crossover complex [Fe(ptz)6](BF4)2 studied by Raman spectroscopy",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Chemical Physics Letters",
+        "coauthors": [
+            "Nawel Ould-Moussa",
+            "Gbor Molnr",
+            "Xavier Ducros",
+            "Azzedine Bousseksou"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7746,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Aperiodic Spin State Ordering of Bistable Molecules and Its Photoinduced Erasing",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Physical Review Letters",
+        "coauthors": [
+            "Eric Collet",
+            "Hiroshi Watanabe",
+            "Nicolas Brfuel",
+            "Herve Cailleau"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7723,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Terahertz near-field phase contrast imaging",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "We demonstrate a method, permitting the observation of dielectric loading of hydrocarbons into a porous coordination polymer nanocrystal (PCP), by spatially resolving the phase difference between the near-field responses of two terahertz resonators.",
+        "email": "",
+        "conf": "Conference on Lasers and Electro-Optics (CLEO)-Laser Science to Photonic Applications. IEEE",
+        "coauthors": [
+            "Franois Blanchard",
+            "Kenji Sumida",
+            "Christian Wolpert",
+            "M Tsotsalas",
+            "T Tanaka",
+            "A Doi",
+            "S Kitagawa",
+            "D G Cooke",
+            "S Furukawa",
+            "Koichiro Tanaka"
+        ],
+        "keywords": "Sensors,Imaging,Educational institutions,Spatial resolution,Structural rings,Spectroscopy,Optical resonators"
+    },
+    {
+        "id": 7816,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Photogenerated Carriers in SrTiO3 Probed by Mid-Infrared Absorption",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of the Physical Society of Japan",
+        "coauthors": [
+            "Hidekazu Okamura",
+            "Masato Matsubara",
+            "Koichiro Tanaka",
+            "Takao Nanba"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7867,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Uniaxial stress dependence of time-resolved electronic Raman scattering in germanium",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Progress in Crystal Growth and Characterization of Materials",
+        "coauthors": [
+            "Hideyuki Ohtake",
+            "Koichiro Tanaka",
+            "Takeyo Tsukamoto",
+            "Tohru Suemoto"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7738,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "THz near-field distribution of fractal antenna",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "We evaluate the field distribution on the fractal antenna structure fabricated on the silicon substrate by using the terahertz (THz) near-field microscope. We could observe the frequency dependent field enhancement not only near the gap but also the periphery of the antenna from the spatiotemporal evolution of the single cycle THz pulse transmitted through the fractal antenna.",
+        "email": "",
+        "conf": "Conference on Lasers and Electro-Optics/Pacific Rim. Optical Society of America",
+        "coauthors": [
+            "T. Tanaka",
+            "K. Ohno",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7845,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Two Types of Self-Trapped Excitons in a Quasi-One-Dimensional Crystal Piperidinium Tribromoplumbate",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of the Physical Society of Japan",
+        "coauthors": [
+            "Junpei Azuma",
+            "Koichiro Tanaka",
+            "Ken-ichi Kan'no"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7688,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Sub-cycle Control of Optical Response by Using a Terahertz Excitonic Dressed State",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "We observed optical absorption strengths modulated on a sub-cycle timescale in a GaAs quantum well in the presence of a multi-cycle terahertz driving pulse using a near-infrared probe pulse.",
+        "email": "",
+        "conf": "CLEO: QELS_Fundamental Science. Optical Society of America",
+        "coauthors": [
+            "H. Hirori",
+            "Kento Uchida",
+            "Tomohito Otobe",
+            "T Mochizuki",
+            "C Kim",
+            "M Yoshita",
+            "Koichiro Tanaka",
+            "H Akiyama",
+            "L N Pfeiffer",
+            "K. W. West"
+        ],
+        "keywords": "Nonlinear optics,Optical pulses,Ultrafast optics,Optical polarization,Absorption,Amplitude modulation,Probes"
+    },
+    {
+        "id": 7773,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Direct creation of a photoinduced metallic structure and its optical properties in the terahertz frequency region",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Optics Letters",
+        "coauthors": [
+            "Takanori Okada",
+            "Kazufumi Ooi",
+            "Yosuke Nakata",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7715,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Time-resolved observation of excitonic dynamics under coherent terahertz excitation in GaAs quantum wells",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Proceedings of SPIE - The International Society for Optical Engineering",
+        "coauthors": [
+            "Kento Uchida",
+            "H. Hirori",
+            "T. Aoki",
+            "K. W. West"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7772,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Near-field THz imaging of free induction decay from a tyrosine crystal",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Optics Express",
+        "coauthors": [
+            "Atsushi Doi",
+            "Franois Blanchard",
+            "H Hirori",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7707,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Nonlinear magnetization dynamics of antiferromagnetic spin resonance induced by intense terahertz magnetic field",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "New Journal of Physics",
+        "coauthors": [
+            "Y Mukai",
+            "H Hirori",
+            "Takafumi Yamamoto",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7724,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Terahertz phase contrast imaging of sorption kinetics in porous coordination polymer nanocrystals using differential optical resonator",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Optics Express",
+        "coauthors": [
+            "Franois Blanchard",
+            "Kenji Sumida",
+            "Christian Wolpert",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7815,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Luminescence Channels of Manganese-Doped MgGa2O4",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of the Physical Society of Japan",
+        "coauthors": [
+            "Hiroki Kudo",
+            "Masato Kitaya",
+            "Hajime Kobayashi",
+            "Eiichi Hanamura"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7728,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Real-Time Detection of Transient Charge Current in Floquet-Bloch State of Topological Insulators",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "In three-dimensional topological insulators (TIs), nontrivial topology in the bulk insulating state results in the surface electronic state that follows the massless Dirac equation with the spin state locked by the momentum direction. Properties in the ground state have been investigated with angular-resolved photoemission spectroscopy (ARPES), tunneling spectroscopy and conductivity measurements. Optically excited Dirac fermions provide a useful platform for studying the non-equilibrium dynamics of relativistic particles interacting with electromagnetic field. Recently, their electric-field response such as the magneto-optical effect in the terahertz (THz) range has been studied with optical pump-probe measurements and time-resolved ARPES. Theoretically, spin-selective excitations by circularly polarized light are expected to induce an asymmetric distribution in the k-space and drive a macroscopic charge current, which has actually been observed by two-terminal sensing. However, the breaking of the symmetry due to the attachment of electrodes hinders clear understanding of the driving mechanism. Also, time-resolved techniques that are necessary for understanding the transient dynamics of the induced surface charge current have not been applied to these intriguing phenomena. Here we report our observation of THz emissions from an intrinsic TI material, Bi2−x2−xSbxxTe3−y3−ySeyy [(x,y)=(0.5,1.3)[(x,y)=(0.5,1.3) and (1,2)](1,2)], under the illumination of circularly polarized femtosecond pulses. The THz emission strongly depends on the helicity of the excitation pulses, indicating that its origin is the surface charge current. Nevertheless, we observed three-fold symmetry in the azimuthal-angle dependence, which cannot stem from the simple photogalvanic effect. A plausible origin of this charge current with unusual symmetry is the formation of Floquet-Bloch states on the surface.",
+        "email": "",
+        "conf": "arXiv preprint",
+        "coauthors": [
+            "Yoshito Onishi",
+            "Zhi Ren",
+            "Mario Novak",
+            "Kouji Segawa",
+            "Yoichi Ando",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7726,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Resonant Spin Wave Excitation by Terahertz Magnetic Near-field Enhanced with Split Ring Resonator",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "Excitation of antiferromagnetic spin waves in HoFeO3 crystal combined with a split ring resonator (SRR) is studied using terahertz (THz) electromagnetic pulses. The magnetic field in the vicinity of the SRR induced by the incident THz electric field component excites and the Faraday rotation of the polarization of a near-infrared probe pulse directly measures oscillations that correspond to the antiferromagnetic spin resonance mode. The good agreement of the temperature-dependent magnetization dynamics with the calculation using the two-lattice Landau-Lifshitz-Gilbert equation confirms that the spin wave is resonantly excited by the THz magnetic near-field enhanced at the LC resonance frequency of the SRR, which is 20 times stronger than the incident magnetic field.",
+        "email": "",
+        "conf": "arXiv preprint",
+        "coauthors": [
+            "Yu Mukai",
+            "Hideki Hirori",
+            "Takafumi Yamamoto",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7874,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Resonant secondary emisssion in beta-ZnP2",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Proceedings of SPIE - The International Society for Optical Engineering",
+        "coauthors": [
+            "Osamu Arimoto",
+            "Mitsuru Sugisaki",
+            "Kaizo Nakamura",
+            "Tohru Suemoto"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7699,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Improving time and space resolution in electro-optic sampling for near-field terahertz imaging",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "In this Letter, we present a significant improvement to time and space resolutions in electro-optic sampling (EO) for two-dimensional terahertz (THz) near-field imaging. Using a THz microscope, we readapt a recent EO sampling scheme based on optical probe spectrum filtering. Combined with an ultra-thin EO crystal, we achieve record broadband video-rate THz near-field imaging. Particularly, this new scheme improves the THz bandwidth, the imaging contrast, and the spatial resolution. To validate our method, we show THz near-field images ranging from 100 GHz to 4 THz with a spatial resolution up to 𝜆/600λ/600 at 100 GHz. This demonstration positively affects the detection of intense THz pulses derived from the tilted-pulse-front excitation of lithium niobate and will accelerate our understanding of the interaction processes between electromagnetic waves and the conducting electrons of metallic interfaces.",
+        "email": "",
+        "conf": "Optics Letters",
+        "coauthors": [
+            "Franois Blanchard",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7750,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Single-cycle terahertz pulses with amplitudes exceeding 1 MV/cm generated by optical rectification in LiNbO3 and applications to nonlinear optics",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Proceedings of SPIE - The International Society for Optical Engineering",
+        "coauthors": [
+            "Hideki Hirori",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7837,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Accurate determination of complex dielectric constants by terahertz time domain attenuated total reflection spectroscopy",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "H. Hirori",
+            "Takashi Arikawa",
+            "M. Nagai",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7873,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Exciton luminescence in beta-ZnP2: 2s and 3s",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Proceedings of SPIE - The International Society for Optical Engineering",
+        "coauthors": [
+            "Mitsuru Sugisaki",
+            "Osamu Arimoto",
+            "Kaizo Nakamura",
+            "Tohru Suemoto"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7865,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Third-order nonlinear optical properties of chalcogenide glasses",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Applied Physics Letters",
+        "coauthors": [
+            "Hirohisa Kanbara",
+            "Seiji Fujiwara",
+            "Koichiro Tanaka",
+            "Kazuyuki Hirao"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7747,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Ultrafast Carrier Dynamics in Graphene under a High Electric Field",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Physical Review Letters",
+        "coauthors": [
+            "Shuntaro Tani",
+            "Franois Blanchard",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7692,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Focusing light with orbital angular momentum by circular array antenna",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "We experimentally demonstrated focusing of light with orbital angular momentum (OAM) using an 8-element circular array of linear antennas. A spiral phase plate was used to generate a vortex beam with an OAM of ħ in the terahertz (THz) frequency region. We used THz near-field microscope to directly measure the phase vortex. A beam profile with a center dark spot and 2π phase rotation was observed in the small center gap region of the circular array antenna after the vortex beam excitation. The beam size is reduced by a factor of 3.4 ± 0.2. Half-wave resonance of the antenna element is responsible for the focusing function, indicating the scalability of this method to other frequency regions. This method will enable deep subwavelength focusing of light with OAM and eliminate the obstacle for the observation of the dipole forbidden transition with finite OAM of the vortex beam.",
+        "email": "",
+        "conf": "Optics Express",
+        "coauthors": [
+            "Takashi Arikawa",
+            "Shohei Morimoto",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7838,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "High-frequency nonlinear microwave response in quantum paraelectric potassium tantalate",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of Luminescence",
+        "coauthors": [
+            "Ikufumi Katayama",
+            "Masanobu Shirai",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7821,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Terahertz Time-Domain Spectroscopy",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Topics in applied physics",
+        "coauthors": [
+            "Seizi Nishizawa",
+            "Kiyomi Sakai",
+            "Masanoi Hangyo",
+            "Osamu Morikawa"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7828,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Interference effect on the surface plasmon excitation",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "H. Hirori",
+            "M. Nagai",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7760,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Mimicking electromagnetically induced transparency by spoof surface plasmons",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Physical review. B Condensed matter",
+        "coauthors": [
+            "Kazufumi Ooi",
+            "Takanori Okada",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7691,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Impact ionization dynamics in silicon by MV/cm THz fields",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "We investigate the dynamics of the impact ionization (IMI) process in silicon in extremely high fields in the MV/cm range and at low initial carrier concentrations; conditions that are not accessible with conventional transport measurements. We use ultrafast measurements with high-intensity terahertz pulses to show that IMI is significantly more efficient at lower than at higher initial carrier densities. Specifically, in the case of silicon with an intrinsic carrier concentration (∼1010 cm−3 ), the carrier multiplication process can generate more than 108 electrons from just a single free electron. The photoexcited carrier density dependence of the IMI rate shows that with decreasing initial carrier density the rate increases and approaches the fundamental Okuto limit imposed by energy conservation.",
+        "email": "",
+        "conf": "New Journal of Physics",
+        "coauthors": [
+            "Abebe Tilahun Tarekegne",
+            "Hideki Hirori",
+            "Koichiro Tanaka",
+            "Krzysztof Iwaszczuk",
+            "Peter U Jepsen"
+        ],
+        "keywords": "impact ionization, ultrafast dynamics, silicon, terahertz"
+    },
+    {
+        "id": 7846,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Photoinduced Phase Transition of a Spin-Crossover Complex Studied with the Combination of SR and Laser",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Surface Review and Letters",
+        "coauthors": [
+            "Kazutoshi Takahashi",
+            "Masao Kamada",
+            "Yo-Ichiro Doi",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7791,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Temperature Dependences of the Dielectric Constants of Lower Alcohols Revealed by Terahertz Time-Domain Attenuated Total Reflection Spectroscopy",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Hiroyuki Yada",
+            "Masaya Nagai",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7842,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Photoelectron Spectroscopic Study on Photo-Induced Phase Transition of Spin-Crossover Complex",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Phase Transitions",
+        "coauthors": [
+            "Masao Kamada",
+            "K Takahashi",
+            "Y Doi",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7771,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Dynamical Franz-Keldysh effect in GaAs induced by monocycle terahertz pulse",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "We studied electron-hole behaviors interacted with intense THz pulse in GaAs MQW. THz pulse causes strong modulations of exciton in absorption spectrum. For high THz electric fields, hh exciton energy shows blueshift proportional to THz electric field squared, due to dynamical Franz-Keldysh effect.",
+        "email": "",
+        "conf": "International Conference on Infrared, Millimeter, and Terahertz Waves. IEEE",
+        "coauthors": [
+            "Keisuke Shinokita",
+            "Hideki Hirori",
+            "Masaya Nagai",
+            "Naoko Sato",
+            "Yutaka Kadoya",
+            "Koichiro Tanaka"
+        ],
+        "keywords": "Electric fields,Excitons,Gallium arsenide,Quantum well devices,Absorption,Measurement by laser beam,Stimulated emission"
+    },
+    {
+        "id": 7883,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Technical report of ISSP. Ser. A no. 2680: Determination of intervalley scattering time in germanium by subpicosecond time-resolved Raman spectroscopy",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Koichiro Tanaka",
+            "Hideyuki Otake",
+            "Toru Suemoto"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7855,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Hole burning on the time-resolved optically detected ESR spectra of self-trapped excitons in alkali halides",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of Luminescence",
+        "coauthors": [
+            "M. Shirai",
+            "Takeshi Tayagaki",
+            "Koichiro Tanaka",
+            "K Kan'no"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7762,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Nonlinear spectroscopy using intense THz pulses with amplitudes exceeding 1 MV/cm",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "Recent development of ultra-short pulse technologies allows us to drive large amplitude motion of electron and ion coherently. The intense terahertz (THz) pulse resonant with the vibration frequency is promising to drive vibrations more directly and in coherent manner. In the case of semiconductors, one may coherently control the electronic system in the sub-level structures of quantum structures with intense THz waves. We recently performed the generation of intense terahertz pulse using tilted wave-front technique with a Ti:Sapphire regenerative amplifier [1]. Figure 1 shows typical time-profile of the electric field of the intense THz pulse: The maximum electric field is larger than 1 MV/cm (@1THz), which ponderomotive energy is as large as 10 eV. The ponderomotive energy is strong enough to ionize bound electronic states in solids such as donors and accepters and easy to induce nonlinear optical effects in solids",
+        "email": "",
+        "conf": "The European Conference on Lasers and Electro-Optics. Optical Society of America",
+        "coauthors": [
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7717,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Strong Terahertz-Field Effect on Electron-Hole System in Quantum Wells",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "We present strong terahertz light can modulate electron-hole pair creations in 2D-semiconductors. By means of THz pump and optical probe spectroscopy, we observed a strong spectral modulation of the 1s heavy-hole exciton peak of GaAs quantum wells due to Rabi splitting below 10 kV/cm. We also confirmed Franz-Keldysh type spectral modulation and its novel time-dependence in the higher field as high as 50 kV/cm.",
+        "email": "",
+        "conf": "Laser Science. Optical Society of America",
+        "coauthors": [
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7856,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Observation of coherent domains by hyper-Rayleigh scattering in quantum paraelectric SrTiO3",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Tomoharu Hasegawa",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7737,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Photoluminescence flash induced by intense single-cycle terahertz pulses in undoped GaAs quantum wells",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "Intense terahetz pulses induce a photoluminescence flashes from undoped GaAs/AlGaAs quantum wells under continuous wave laser excitation. This result indicates that the number of excitons increases 10000-fold from that of the steady state.",
+        "email": "",
+        "conf": "Conference on Lasers and Electro-Optics/Pacific Rim. Optical Society of America",
+        "coauthors": [
+            "K. Shinokita",
+            "H. Hirori",
+            "Koichiro Tanaka",
+            "T. Mochizuki",
+            "C. Kim",
+            "H. Akiyama",
+            "L. N. Pfeiffer",
+            "K. W. West"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7713,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Hydration state inside HeLa cell monolayer investigated with terahertz spectroscopy",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Applied Physics Letters",
+        "coauthors": [
+            "Keiichiro Shiraga",
+            "T. Suzuki",
+            "N. Kondo",
+            "Y. Ogawa"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7698,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Sub-Cycle Optical Response Caused by Dressed State with Phase-Locked Wavefunctions",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "The coherent interaction of light with matter imprints the phase information of the light field on the wavefunction of the photon-dressed electronic state. Driving electric field, together with a stable phase that is associated with the optical probe pulses, enables the role of the dressed state in the optical response to be investigated. We observed optical absorption strengths modulated on a sub-cycle timescale in a GaAs quantum well in the presence of a multi-cycle terahertz driving pulse using a near-infrared probe pulse. The measurements were in good agreement with the analytical formula that accounts for the optical susceptibilities caused by the dressed state of excitons, which indicates that the output probe intensity was coherently reshaped by the excitonic sideband emissions.",
+        "email": "",
+        "conf": "arXiv preprint",
+        "coauthors": [
+            "Kento Uchida",
+            "Tomohito Otobe",
+            "Toshimitsu Mochizuki",
+            "C. Kim",
+            "M. Yoshita",
+            "H. Akiyama",
+            "L. N. Pfeiffer",
+            "K. W. West",
+            "K. Tanaka",
+            "H. Hirori"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7879,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Time-resolved electronic Raman measurements in germanium by 100 fs Ti : Al2O3 laser",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of Luminescence",
+        "coauthors": [
+            "Koichiro Tanaka",
+            "Hideyuki Ohtake",
+            "Tohru Suemoto"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7744,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Correlated lifetimes of free paraexcitons and excitons trapped at oxygen vacancies in cuprous oxide",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of Luminescence",
+        "coauthors": [
+            "Sandhaya Koirala",
+            "Nanaja Naka",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7711,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Ultrahigh exciton diffusion in intrinsic diamond",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Physical Review B",
+        "coauthors": [
+            "Hikaru Morimoto",
+            "Yuji Hazama",
+            "Koichiro Tanaka",
+            "Nobuko Naka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7694,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "High-harmonic generation in graphene enhanced by elliptically polarized light excitation",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "The electronic properties of graphene can give rise to a range of nonlinear optical responses. One of the most desirable nonlinear optical processes is high-harmonic generation (HHG) originating from coherent electron motion induced by an intense light field. Here, we report on the observation of up to ninth-order harmonics in graphene excited by mid-infrared laser pulses at room temperature. The HHG in graphene is enhanced by an elliptically polarized laser excitation, and the resultant harmonic radiation has a particular polarization. The observed ellipticity dependence is reproduced by a fully quantum mechanical treatment of HHG in solids. The zero-gap nature causes the unique properties of HHG in graphene, and our findings open up the possibility of investigating strong-field and ultrafast dynamics and nonlinear behavior of massless Dirac fermions.",
+        "email": "",
+        "conf": "Science",
+        "coauthors": [
+            "Naotaka Yoshikawa",
+            "Tomohiro Tamaya",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7820,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "THz radiation from CdTe crystal by differential frequency generation under phase-matching conditions at 1000nm system",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Atsushi Syouji",
+            "Shingo Saito",
+            "Masaya Nagai",
+            "Kiyomi Sakai"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7742,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Near-field terahertz imaging of a discontinuity in split ring resonator array",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "The European Physical Journal Conferences",
+        "coauthors": [
+            "Franois Blanchard",
+            "K. Ooi",
+            "T. Tanaka",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7875,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Resonant Secondary Emission and Its Excitation Energy Dependence in Monoclinic Zinc Diphosphide",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of the Physical Society of Japan",
+        "coauthors": [
+            "Osamu Arimoto",
+            "Mitsuru Sugisaki",
+            "Kaizo Nakamura",
+            "Tohru Suemoto"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7788,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Characterizing hydration state in solution using terahertz time-domain attenuated total reflection spectroscopy",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Chemical Physics Letters",
+        "coauthors": [
+            "Takashi Arikawa",
+            "Masaya Nagai",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7755,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Photoinduced Dynamics in Pure and Ca-Doped SrTiO3 Studied by Transient Birefringence and Absorption Measurements",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of the Physical Society of Japan",
+        "coauthors": [
+            "Toshiro Kohmoto",
+            "Yuka Koyama",
+            "T. Moriyasu",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7705,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Dynamical Nonlinear Interactions of Solids with Strong Terahertz Pulses",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "Table-top high-power terahertz (THz) pulse sources based on the femtosecond lasers are able to reveal fascinating nonlinear transport phenomena in materials and coherently drive low-energy transitions into the nonperturbative nonlinear regime. This article summarizes recent studies on THz nonlinear interactions with solid materials as follows. The tilted-pump-intensity-front scheme uses a LiNbO3 crystal to generate high-field single-cycle THz pulses with a 1 MV/cm amplitude. Such a high amplitude pulse can cause impact ionization in GaAs that excites electrons from the valence band to the conduction band, leading to exciton luminescence. A narrow-bandwidth THz pulse can be generated by using a chirped-pulse-beating method; this scheme has been used to show that resonant intraexcitonic excitation in GaAs induces a large Autler–Townes splitting. Moreover, nonlinear dynamics of magnetism can be studied by using a metallic split ring resonator to enhance the THz magnetic field.",
+        "email": "",
+        "conf": "Journal of the Physical Society of Japan",
+        "coauthors": [
+            "Hideki Hirori",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7805,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Decay time measurements of intrinsic luminescence in alkali halides using single-bunched light pulses from UVSOR",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Physica Scripta",
+        "coauthors": [
+            "Ken-ichi Kan'no",
+            "Koichiro Tanaka",
+            "Hideo Kosaka",
+            "Makoto Watanabe"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7749,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Terahertz radiation induced ballistic electron transport in graphene",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "We investigated ultrafast carrier dynamics in graphene with near-infrared transient absorption measurement after intense half-cycle terahertz pulse excitation. The terahertz electric field efficiently drives the carriers, inducing large transparency in the near-infrared region. Theoretical calculations using the Boltzmann transport equation quantitatively reproduce the experimental findings. This good agreement suggests that the intense terahertz field should promote remarkable impact ioniza- tion process, which leads to suppression of optical phonon emission and results in efficient carrier transport in graphene.",
+        "email": "",
+        "conf": "arXiv preprint",
+        "coauthors": [
+            "Shuntaro Tani",
+            "Franois Blanchard",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7885,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Three types of emission bands from hetero-nuclear relaxed excitons in NaBr:I KBr:I and RbBr:I",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of Luminescence",
+        "coauthors": [
+            "Ken-ichi Kan'no",
+            "Koichiro Tanaka",
+            "Hideo Kosaka",
+            "Yoshio Nakai"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7785,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Relaxation process from photoinduced states of double-step spin-crossover systems using a kinetic two-sublattice Ising-like model including intra-site coupling",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Physical review. B Condensed matter",
+        "coauthors": [
+            "Shinichiro Mouri",
+            "Koichiro Tanaka",
+            "Nawel Ould-Moussa"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7739,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "High-power terahertz pulse generation and application to nonlinear spectroscopy",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "We have recently developed novel generation methods of intense terahertz single cycle pulses that is called as the Cherenkov scheme with tilted wave-front technique in the LiNbO3 crystal. The maximum electric field becomes larger than 1 MV/cm, which enables us to perform nonlinear terahertz spectroscopy in solids. Several examples in semiconductors and grapheme clearly show the intense terahertz pulse can induce strong nonlinear effects in wide frequency range.",
+        "email": "",
+        "conf": "Conference on Lasers and Electro-Optics/Pacific Rim. Optical Society of America",
+        "coauthors": [
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7736,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Terahertz response of low-OH synthetic silica glass probed by a broadband plasma source",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "We report on terahertz optical properties of highly pure synthetic silica glasses with an OH content below 1 ppm. Absorption coefficients as low as 4 cm -1 could be determined at 2 THz by time-domain spectroscopy.",
+        "email": "",
+        "conf": "Conference on Lasers and Electro-Optics Pacific Rim (CLEOPR). IEEE",
+        "coauthors": [
+            "Christian Wolpert",
+            "S. Tani",
+            "Y. Kinoshita",
+            "T Tanaka",
+            "Koichiro Tanaka"
+        ],
+        "keywords": "Glass,Silicon compounds,Absorption,Broadband communication,Time-domain analysis,Spectroscopy"
+    },
+    {
+        "id": 7831,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Photo-induced phase transitions probed by X-ray absorption spectroscopy: Fe (II) spin crossover complex",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of Physics and Chemistry of Solids",
+        "coauthors": [
+            "H. Oyanagi",
+            "Takeshi Tayagaki",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7734,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Ultra-intense Terahertz Pulse Generation and Application to Nonlinear THz Spectroscopy",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "We demonstrate that a 1-MV/cm terahertz pulse can generate a substantial number of electron-hole pairs forming excitons in GaAs multiple quantum wells that emit near-infrared luminescence without any band-to-band photo-excitations.",
+        "email": "",
+        "conf": "Nonlinear Optics. Optical Society of America",
+        "coauthors": [
+            "Hideki Hirori",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7702,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "THz-induced ultrafast modulation of NIR refractive index of silicon",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "We measure THz-induced change in refractive index of ~5×10 -3 in high resistivity silicon at 800 nm which indicates generation of high density of free carriers. The change in refractive index increases by more than 30 times with high initial carrier density set by optical excitation compared to optically unexcited sample showing strong dependence of carrier generation on initial carrier density. The high change in refractive index of silicon shows that THz excitation has a potential to be an alternative mechanism for optical modulation based on carrier induced dispersion for future ultrafast silicon-based modulators.",
+        "email": "",
+        "conf": "International Conference on Infrared, Millimeter, and Terahertz waves (IRMMW-THz). IEEE",
+        "coauthors": [
+            "Abebe Tilahun Tarekegne",
+            "Hideki Hirori",
+            "Krzysztof Iwaszczuk",
+            "Koichiro Tanaka",
+            "Peter U Jepsen"
+        ],
+        "keywords": "Silicon,Optical reflection,Optical refraction,Optical variables control,Optical pulses,Refractive index,Optical pumping"
+    },
+    {
+        "id": 7878,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Interpretation of the temperature dependence of the luminescence intensity lifetime and decay profiles in porous Si",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Physical review. B Condensed matter",
+        "coauthors": [
+            "T Suemoto",
+            "Koichiro Tanaka",
+            "A Nakajima"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7731,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Resonant and nonresonant control over matter and light by intense terahertz transients",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Nature Photonics",
+        "coauthors": [
+            "Tobias Kampfrath",
+            "Koichiro Tanaka",
+            "Keith A Nelson"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7864,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Third-Order Nonlinear Optical Properties and Ultrafast Optical Switching of Chalcogenide Glasses",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Kazuyuki Hirao",
+            "Hirohisa Kanbara",
+            "Seiji Fujiwara",
+            "Naoki Sugimoto"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7789,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Resonant phase jump with enhanced electric field caused by surface phonon polariton in terahertz region",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Optics Express",
+        "coauthors": [
+            "Takanori Okada",
+            "Masaya Nagai",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7811,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Electric Field Enhancement in THz Region with Surface Phonon Polariton Resonance",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Takanori Okada",
+            "Masaya Nagai",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7827,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "High sensitive detection of optical constants with phase shift in Terahertz time-domain reflection spectroscopy",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "M. Nagai",
+            "Hiroyuki Yada",
+            "Takashi Arikawa",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7818,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Structural investigation of the photoinduced spin transition in the three states molecular system [Fe(2-pic)3]Cl2EtOH",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of Physics Conference Series",
+        "coauthors": [
+            "Laurent Gurin",
+            "Nolwenn Huby",
+            "Eric Collet",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7839,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Critical behaviors of photoinduced giant permittivity in potassium tantalate",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Physical Review B",
+        "coauthors": [
+            "Ikufumi Katayama",
+            "Yuki Ichikawa",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7803,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Dielectric Measurements for Powder-Shape Samples Using Terahertz Time-Domain Attenuated Total Reflection Technique",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Hiroyuki Yada",
+            "Masaya Nagai",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7754,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Extremely Thin Metamaterial as Slab Waveguide at Terahertz Frequencies",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE Transactions on Terahertz Science and Technology",
+        "coauthors": [
+            "Yosuke Minowa",
+            "Masaya Nagai",
+            "Hu Tao",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7853,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Ultrafast Optical Switching in a Silver Nanoparticle System",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Japanese Journal of Applied Physics",
+        "coauthors": [
+            "Hideyuki Inouye",
+            "Koichiro Tanaka",
+            "Ichiro Tanahashi",
+            "Hiroki Nakatsuka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7824,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Phase-Matching Condition of Terahertz Generation of CdTe with Near-Infrared Pulse Excitation",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Shingo Saito",
+            "Masaya Nagai",
+            "Atsushi Syouji",
+            "Kiyomi Sakai"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7871,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Resonance Raman enhancement for photoinduced polaronic states of a quasi-one-dimensional mixed-valence platinum complex",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Physical review. B Condensed matter",
+        "coauthors": [
+            "J Takeda",
+            "M Okada",
+            "Susumu Kurita",
+            "T Suemoto"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7703,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Infrared spectroscopy of water molecules in porous coordination polymer",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "We studied adsorption state of water molecules in a porous coordination polymer (PCP) using infrared spectroscopy. We observed two absorbance peaks below 4% relative humidity (RH) that originate from OH stretch modes of adsorbed water molecules. Their peak frequencies and areas indicate that one of the OH is free, and the other is hydrogen bonded. We also found that Free-OH plays a role of water attraction above 4% RH, and discuss the water adsorption kinetics in detail.",
+        "email": "",
+        "conf": "International Conference on Infrared, Millimeter, and Terahertz waves (IRMMW-THz). IEEE",
+        "coauthors": [
+            "Tomoaki Ichii",
+            "Takashi Arikawa",
+            "Hiroshi Sato",
+            "Koichiro Tanaka"
+        ],
+        "keywords": "Hydrogen,Absorption,Ions,Resonant frequency,Oscillators,Spectroscopy,Adsorption"
+    },
+    {
+        "id": 7759,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "THz Nonlinear Spectroscopy of Solids",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE Transactions on Terahertz Science and Technology",
+        "coauthors": [
+            "Koichiro Tanaka",
+            "Hideki Hirori",
+            "Masaya Nagai"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7881,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Determination of intervalley scattering time in germanium by subpicosecond time-resolved Raman spectroscopy",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Physical Review Letters",
+        "coauthors": [
+            "Koichiro Tanaka",
+            "Hideyuki Ohtake",
+            "Tohru Suemoto"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7844,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Pulsed-ESR Study of Spin Solitons as a Probe of Neutral-to-Ionic Phase Transition of TTF-CA Single Crystal",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Phase Transitions",
+        "coauthors": [
+            "Chihiro Itoh",
+            "Masanobu Shirai",
+            "Koichiro Tanaka",
+            "Ken-Ichi Kanno"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7718,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Generation of high power terahertz pulse using tilted wavefront technique and its prospectus in non linear terahertz spectroscopy and three-dimensional computed tomography",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "We demonstrated the generation of high power terahertz pulse above 250 kV/cm electric field using LiNbO3. We performed transmission spectroscopy in amino-acid at different electric field amplitude and observe nonlinear absorption. We also demonstrated fast 3D terahertz computed tomography by using intense terahertz beam. Peak-to-peak amplitude of the pulse and a standard reconstruction algorithm were provide a final 3D reconstruction of image with a total acquisition time to only 6 minutes.",
+        "email": "",
+        "conf": "International Conference on Fibre Optics and Photonics. Optical Society of America",
+        "coauthors": [
+            "Mukesh Jewariya",
+            "Srinivasa Ragam",
+            "Masaya Nagai",
+            "Koichiro Tanaka",
+            "E Abraham",
+            "Takeshi Yasui"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7758,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Near-field THz imaging of a split ring resonator matrix",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "We investigated the spatiotemporal terahertz (THz) near-field distribution of a split ring resonators (SRR) matrix using a real-time THz microscope. The near-field THz imaging analysis on a large area revealed the photonic crystal properties of the SRR matrix. This technique may open a door for the development of high sensitivity biosensors.",
+        "email": "",
+        "conf": "International Conference on Infrared, Millimeter, and Terahertz Waves. IEEE",
+        "coauthors": [
+            "Franois Blanchard",
+            "Atsushi Doi",
+            "T. Tanaka",
+            "H Hirori",
+            "J Darmo",
+            "Koichiro Tanaka"
+        ],
+        "keywords": "Microscopy,Optical ring resonators,Optical sensors,Crystals,Sensitivity,Resonant frequency"
+    },
+    {
+        "id": 7804,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Terahertz Attenuated Total Internal Reflection Spectroscopy for Water and Water Solution",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7720,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Terahertz near-field imaging for fractal metallic structures",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "Near-field electric field distribution in the Sierpinski metallic bow-tie antenna is determined by the terahertz microscope system. The resonance frequency clearly depends on the location, indicating site-selective local-field enhancement due to the self-similarity of the fractal structure.",
+        "email": "",
+        "conf": "International Conference on Infrared, Millimeter, and Terahertz waves (IRMMW-THz). IEEE",
+        "coauthors": [
+            "Tomoko Tanaka",
+            "Koichiro Tanaka"
+        ],
+        "keywords": "Electric fields,Crystals,Optimized production technology,Microscopy,Fractals,Sensors"
+    },
+    {
+        "id": 7704,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Observation and control of spoof localized surface plasmons using terahertz near-field microscope",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "We performed time-resolved terahertz (THz) near-field imaging of perfect electric conductor (PEC) disks with sub-wavelength periodic grooves. We successfully observed spoof localized surface plasmons (LSPs) whose resonance frequencies are solely determined by the groove depth. Controllable selective excitation method is demonstrated with orbital angular momentum of light. Our results pave the way to plasmonic applications in the THz frequency region.",
+        "email": "",
+        "conf": "International Conference on Infrared, Millimeter, and Terahertz waves (IRMMW-THz). IEEE",
+        "coauthors": [
+            "Shohei Morimoto",
+            "Takashi Arikawa",
+            "Franois Blanchard",
+            "Kyosuke Sakai",
+            "Keiji Sasaki",
+            "Koichiro Tanaka"
+        ],
+        "keywords": "Resonant frequency,Plasmons,Microscopy,Gold,Optical surface waves,Laser beams"
+    },
+    {
+        "id": 7761,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Improving Spatial Resolution of Real-Time Terahertz Near-Field Microscope",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of infrared millimeter and terahertz waves",
+        "coauthors": [
+            "Atsushi Doi",
+            "Franois Blanchard",
+            "Tomoko Tanaka",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7714,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Terahertz nonlinear magnetic response in antiferromagnets",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "We report on the nonlinear magnetization dynamics of a HoFeO 3 crystal induced by a strong terahertz magnetic field resonantly enhanced with a split ring resonator. The terahertz magnetic field induces a large magnetization change of 40% of the spontaneous magnetization. The frequency of the antiferromagnetic resonance decreases in proportion to the square of the magnetization change.",
+        "email": "",
+        "conf": "Conference on Lasers and Electro-Optics (CLEO). IEEE",
+        "coauthors": [
+            "Y. Mukai",
+            "H. Hirori",
+            "Takafumi Yamamoto",
+            "H Kageyama",
+            "Koichiro Tanaka"
+        ],
+        "keywords": "Magnetization,Magnetic resonance,Magnetic recording,Magnetic fields,Crystals,Optical ring resonators"
+    },
+    {
+        "id": 7770,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Water molecules driven by intense THz pulses",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "We demonstrate THz nonlinearity of liquid water revealed with intense monocycle THz pulse. Single THz pulse response and THz pump-probe spectroscopy show the breaking and recovering of hydrogen bonding network in water molecules.",
+        "email": "",
+        "conf": "Conference on Infrared, Millimeter, and Terahertz Waves. IEEE",
+        "coauthors": [
+            "Masaya Nagai",
+            "Koichiro Tanaka"
+        ],
+        "keywords": "Decision support systems"
+    },
+    {
+        "id": 7851,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Retrieved Anisotropy of One-Dimensional Crystal Piperidinium Triblomoplumbate",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "International Journal of Modern Physics B",
+        "coauthors": [
+            "Junpei Azuma",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7757,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Terahertz-wave induced near-infrared transparency in graphene",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "We have succeeded to induce huge near-infrared transparency by intense terahertz-wave excitation with 200kV/cm in the electric field. Ballistic acceleration of carriers should take place under the strong electric field and result in non-thermal carrier distribution of electrons and holes, giving rise to absorption saturation.",
+        "email": "",
+        "conf": "International Conference on Infrared, Millimeter, and Terahertz Waves. IEEE",
+        "coauthors": [
+            "Shuntaro Taniab",
+            "Franois Blanchard",
+            "Koichiro Tanaka"
+        ],
+        "keywords": "Electric fields,Acceleration,Ultrafast optics,Optical scattering,Optical reflection,Optical pulses"
+    },
+    {
+        "id": 7886,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Lattice Relaxation of Self-Trapped Excitons in Binary Mixed Crystals of KCl and KBr",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of the Physical Society of Japan",
+        "coauthors": [
+            "Koichiro Tanaka",
+            "Ken-ichi Kan'no",
+            "Yoshio Nakai"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7735,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Large Enhancement of the Photoluminescence Emission of Photoexcited Undoped GaAs Quantum Wells Induced by an Intense Single-Cycle Terahertz Pulse",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "Intense terahetz (THz) pulses induce a photoluminescence (PL) flash from undoped high-quality GaAs/AlGaAs quantum wells under continuous wave laser excitation. The number of excitons increases 10000-fold from that of the steady state under only laser excitation. The THz electric field dependence and the relaxation dynamics of the PL flash intensity suggest that the strong electric field of the THz pulse ionizes impurity states during the one-picosecond period of the THz pulse and release carriers from a giant reservoir containing impurity states in the AlGaAs layers.",
+        "email": "",
+        "conf": "arXiv preprint",
+        "coauthors": [
+            "K. Shinokita",
+            "H. Hirori",
+            "Koichiro Tanaka",
+            "T Mochizuki",
+            "C Kim",
+            "H Akiyama",
+            "L N Pfeiffer",
+            "K. W. West"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7748,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Transition of the hydration state of a surfactant accompanying structural transitions of self-assembled aggregates",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of Physics Condensed Matter",
+        "coauthors": [
+            "M Hishida",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7730,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Biexciton state causes photoluminescence fluctuations in CdSe/ZnS core/shell quantum dots at high photoexcitation densities",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Physical Review B",
+        "coauthors": [
+            "N. Yoshikawa",
+            "H. Hirori",
+            "H. Watanabe",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7708,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Ordering phenomena of high-spin/low-spin states in stepwise spin-crossover materials described by the ANNNI model",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Physical review. B Condensed matter",
+        "coauthors": [
+            "Hiroshi Watanabe",
+            "Koichiro Tanaka",
+            "Nicolas Brfuel",
+            "Eric Collet"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7810,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Extraordinary Transmission of Terahertz Electromagnetic Waves through 2-Dimensional Metallic Photonic Crystal",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Yosuke Minowa",
+            "T. Nishihara",
+            "Koshin Hosoki",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7778,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Doping-induced ferroelectric phase transition in strontium titanate: Observation of birefringence and coherent phonons under ultraviolet illumination",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Physical review. B Condensed matter",
+        "coauthors": [
+            "Y. Koyama",
+            "T. Moriyasu",
+            "E. Okamura",
+            "T. Kohmoto"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7777,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Excitonic interactions with intense terahertz pulses in ZnSe/ZnMgSSe multiple quantum wells",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Physical review. B Condensed matter",
+        "coauthors": [
+            "Hideki Hirori",
+            "Masaya Nagai",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7743,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "High-power THz pulse generation and nonlinear THz spectroscopy",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Proceedings of SPIE - The International Society for Optical Engineering",
+        "coauthors": [
+            "K. Shinokita",
+            "H. Hirori",
+            "Koichiro Tanaka",
+            "K. W. West"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7798,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Picosecond dynamics of hydrated water in biomolecular solution revealed by terahertz time-domain attenuated total reflection spectroscopy",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Takashi Arikawa",
+            "M. Nagai",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7802,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Spin crossover and photomagnetism in dinuclear iron(II) compounds",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Coordination Chemistry Reviews",
+        "coauthors": [
+            "Azzedine Bousseksou",
+            "Gbor Molnr",
+            "Jos Antonio Real",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7774,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "THz Nonlinearity of Water Observed with Intense THz Pulses",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Masaya Nagai",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7808,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Nature and Dynamics of Photoexcited States in KTaO3",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of the Physical Society of Japan",
+        "coauthors": [
+            "Ikufumi Katayama",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7863,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Temperature dependence of non-lineat response in gold nanoparticle system",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "H. Inouye",
+            "Koichiro Tanaka",
+            "Ichiro Tanahashi",
+            "K. Hirao"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7866,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Ultrafast electronic Raman spectroscopy in semiconductors",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Progress in Crystal Growth and Characterization of Materials",
+        "coauthors": [
+            "Tohru Suemoto",
+            "Koichiro Tanaka",
+            "Hideyuki Ohtake"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7745,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Nonlinear Optical Phenomena Induced by Intense Single-Cycle Terahertz Pulses",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE Journal of Selected Topics in Quantum Electronics",
+        "coauthors": [
+            "Hideki Hirori",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7686,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Selective excitation of multipolar spoof plasmons using orbital angular momentum of light",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "The nature of light-matter interaction is governed by the spatial-temporal structures of a light field and material wavefunctions. The emergence of the light beam with transverse phase vortex, or equivalently orbital angular momentum (OAM) has been providing intriguing possibilities to induce unconventional optical transitions beyond the framework of the electric dipole interaction. The uniqueness stems from the OAM transfer from light to material, as demonstrated using the bound electron of a single trapped ion. However, many aspects of the vortex light-matter interaction are still unexplored especially in solids with extended electronic states. Here, we unambiguously visualized dipole-forbidden multipolar excitations in a solid-state electron system; spoof localized surface plasmon, selectively induced by the terahertz vortex beam. The results obey the selection rules governed by the conservation of the total angular momentum, which is numerically confirmed by the electromagnetic field analysis. Our results show light's OAM can be efficiently transferred to an elementary excitation in solids.",
+        "email": "",
+        "conf": "arXiv preprint",
+        "coauthors": [
+            "Takashi Arikawa",
+            "Tomoki Hiraoka",
+            "Shohei Morimoto",
+            "Francois Blanchard",
+            "Shuntaro Tani",
+            "Tomoko Tanaka",
+            "Kyosuke Sakai",
+            "Hiroki Kitajima",
+            "Keiji Sasaki",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7858,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Mechanism of a Terahertz Optical Kerr Shutter with a Gold Nanoparticle System",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of the Physical Society of Japan",
+        "coauthors": [
+            "Hideyuki Inouye",
+            "Koichiro Tanaka",
+            "Ichiro Tanahashi",
+            "Kazuyuki Hirao"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7843,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "A New Spin-Crossover-Complex Phase Generated by Photo-Induced Phase Transition",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Phase Transitions",
+        "coauthors": [
+            "Koichiro Tanaka",
+            "Takeshi Tayagaki"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7857,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Role of incoherent excitons and biexcitons in the nonlinear coherent optical response in ZnSe MQWs",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Koichiro Tanaka",
+            "Shin-ichiro Hataoka",
+            "Ryohei Wakai",
+            "Ichiro Tanahashi"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7822,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Time-resolved X-ray diffraction: A wonderful tool for probing structural photo-induced phase transitions",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of Luminescence",
+        "coauthors": [
+            "M. Buron-Le Cointe",
+            "Eric Collet",
+            "L. Gurin",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7854,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "High-density excitation effects of excitons in ZnSe quantum wells by spectrally resolved four-wave mixing",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of Luminescence",
+        "coauthors": [
+            "Shin-ichiro Hataoka",
+            "Akihiro Itoh",
+            "Ichiro Tanahashi",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7797,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Terahertz pump-probe spectroscopy in LT-InGaAs thin film",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "M Nagai",
+            "Koichiro Tanaka",
+            "A. Takazato",
+            "Y. Kadoya"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7763,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Development of real-time near-field THz microscope",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "Near-field terahertz (THz) imaging is expected to have a broad impact for biological applications [1], such as cellular imaging and molecular imaging (water distribution, status in the living cells, the conformational dynamics of the large biomolecules and so on). A lot of work has been done to develop THz microscopes with high spatial resolution beyond the diffraction limit [2]. However, even if a spatial resolution below 10 μm was successfully achieved at THz frequency, the traditional schemes remain all based on raster scanning techniques [3,4], and typical measurement time takes more than 10 minutes to obtain a full image. Since samples are changing its conditions with time for biological applications, real-time acquisition is needed in addition to the high resolution.",
+        "email": "",
+        "conf": "Conference on Lasers and Electro-Optics",
+        "coauthors": [
+            "Atsushi Doi",
+            "Franois Blanchard",
+            "T. Tanaka",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7860,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Femtosecond Optical Kerr Effect in the Gold Nanoparticle System",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Japanese Journal of Applied Physics",
+        "coauthors": [
+            "Hideyuki Inouye",
+            "Koichiro Tanaka",
+            "Ichiro Tanahashi",
+            "Kazuyuki Hirao"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7695,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Light-induced electron localization in a quantum Hall system",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "An insulating bulk state is a prerequisite for the protection of topological edge states1. In quantum Hall systems, the thermal excitation of delocalized electrons is the main route to breaking bulk insulation2. In equilibrium, the only way to achieve a clear bulk gap is to use a high-quality crystal under high magnetic field at low temperature. However, bulk conduction could also be suppressed in a system driven out of equilibrium such that localized states in the Landau levels are selectively occupied. Here we report a transient suppression of bulk conduction induced by terahertz wave excitation between the Landau levels in a GaAs quantum Hall system. Strikingly, the Hall resistivity almost reaches the quantized value at a temperature where the exact quantization is normally disrupted by thermal fluctuations. The electron localization is realized by the long-range potential fluctuations, which are a unique and inherent feature of quantum Hall systems. Our results demonstrate a new means of effecting dynamical control of topology by manipulating bulk conduction using light.",
+        "email": "",
+        "conf": "Nature Physics",
+        "coauthors": [
+            "T. Arikawa",
+            "K. Hyodo",
+            "Y. Kadoya",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7784,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Re-investigation of the spin crossover phenomenon in the ferrous complex [Fe(HB(pz)3)2]",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "New Journal of Chemistry",
+        "coauthors": [
+            "Lionel Salmon",
+            "Gabor Molnar",
+            "Saioa Cobo",
+            "Azzedine Bousseksou"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7706,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Diabatic Mechanisms of Higher-Order Harmonic Generation in Solid-State Materials under High-Intensity Electric Fields",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "We theoretically investigate mechanisms of higher-order harmonic generation in solid-state materials under a high-intensity ac electric field. A new theoretical framework presented in this Letter holds the legitimacy of Bloch’s theorem even under the influence of the high-intensity electric field and provides an exact treatment of the diabatic processes of Bloch electrons. Utilizing this framework, we first discovered that the diabatic processes, namely, ac Zener tunneling and semimetallization of semiconductors, are key factors for nonperturbative mechanisms of HHG. These mechanisms are classified by the field intensity and could be understood by an extended simple man model based on an analogy between tunnel ionization in gaseous media and Zener tunneling in semiconductors. These conclusions would stimulate the universal understanding of HHG mechanisms in both atomic and solid cases.",
+        "email": "",
+        "conf": "Physical Review Letters",
+        "coauthors": [
+            "Tomohiro Tamaya",
+            "Akira Ishikawa",
+            "T. Ogawa",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7862,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "High-Speed Third-Order Nonlinear Optical Response Using Organic Solutions",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "The Journal of Physical Chemistry A",
+        "coauthors": [
+            "Hirohisa Kanbara",
+            "Seiji Fujiwara",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7740,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Electric-Field Ionization of Gallium Acceptors in Germanium Induced by Single-cycle Terahertz Pulses",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Physical review. B Condensed matter",
+        "coauthors": [
+            "Y. Mukai",
+            "H. Hirori",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7792,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Evaluation of effective electric permittivity and magnetic permeability in metamaterial slabs by terahertz time-domain spectroscopy",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Optics Express",
+        "coauthors": [
+            "Yosuke Minowa",
+            "Takashi Fujii",
+            "Masaya Nagai",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7768,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Ladder Climbing on the Anharmonic Intermolecular Potential in an Amino Acid Microcrystal via an Intense Monocycle Terahertz Pulse",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Physical Review Letters",
+        "coauthors": [
+            "Mukesh Jewariya",
+            "Masaya Nagai",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7765,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Long-range hydration effect of lipid membrane studied by terahertz time-domain spectroscopy",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Physical Review Letters",
+        "coauthors": [
+            "M Hishida",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7794,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Terahertz time domain spectroscopy of ordered and disordered half-doped manganites",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Krushna Mavani",
+            "M. Nagai",
+            "Hiroyuki Yada",
+            "Masayoshi Tonouchi"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7859,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Ultrafast Spectroscopy of Glass Materials Containing Metal Nanoparticles",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Takeshi Kamiya",
+            "Fujio Saito",
+            "Osamu Wada",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7732,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Terahertz-Induced Optical Emission of Photoexcited Undoped GaAs Quantum Wells",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Physical Review Letters",
+        "coauthors": [
+            "K Shinokita",
+            "H Hirori",
+            "Koichiro Tanaka",
+            "K. W. West"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7793,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "On the Photomagnetic Properties of the Binuclear Spin Crossover Complexes {[Fe(bt)(NCSe)2]2(bpym)} and {[Fe(bpym)(NCSe)2]2(bpym)}",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of Inorganic and Organometallic Polymers and Materials",
+        "coauthors": [
+            "Nawel Ould-Moussa",
+            "Shinichiro Mouri",
+            "Gbor Molnr",
+            "Azzedine Bousseksou"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7850,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Electron spin resonance study of the photo-induced phase transition in the spin-crossover complex",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of Luminescence",
+        "coauthors": [
+            "Masanobu Shirai",
+            "Naoki Yonemura",
+            "Takeshi Tayagaki",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7741,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Terahertz Full Horn-Antenna Characterization",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Applied Physics Letters",
+        "coauthors": [
+            "Damien Armand",
+            "H. Taniguchi",
+            "Yukata Kadoya",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7801,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Evaluation of a terahertz wave spectrum and construction of a terahertz wave-sensing system using a Yb-doped fiber laser",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of the Optical Society of America B",
+        "coauthors": [
+            "Atsushi Syouji",
+            "Shingo Saito",
+            "Kiyomi Sakai",
+            "Makoto Yoshida"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7764,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Highly Efficient Carrier Multiplication and Bright Exciton Luminescence under Intense Terahertz Pulse",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "The nonlinear interactions of GaAs quantum wells with intense single cycle terahertz (THz) pulses with amplitudes exceeding 1 MV/cm have been studied. We demonstrated for the first time that the number of carriers is enhanced 103 times more with an increase of the electric field amplitude of the THz pulse from 0.5 to 1 MV/cm, eventually which leading a bright near-infrared luminescence. This highly efficient carrier multiplication process with a threshold-like behavior implies that the carriers driven under intense THz pulse can efficiently gain enough high kinetic energy to induce cascading impact ionizations.",
+        "email": "",
+        "conf": "CLEO: Applications and Technology",
+        "coauthors": [
+            "Hideki Hirori",
+            "Keisuke Shinokita",
+            "Masanobu Shirai",
+            "S Tani",
+            "Y Kadoya",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7861,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Spectrally-Resolved Four-Wave Mixing Spectroscopy in the Exciton and Biexciton Resonant Region in PbI 2",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of the Physical Society of Japan",
+        "coauthors": [
+            "Masayuki Watanabe",
+            "Takayuki Makino",
+            "Tetsusuke Hayashi",
+            "Kazuyuki Hirao"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7884,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Persistent spectral hole-burning of Pr3+ ions in yttria stabilized zirconia: a new hole-burning material",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Optics Communications",
+        "coauthors": [
+            "Koichiro Tanaka",
+            "T. Okuno",
+            "H. Yugami",
+            "T. Suemoto"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7868,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Ultrafast Response of Third-Order Optical Nonlinearity in Glasses Containing Bi2O3",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Optics Letters",
+        "coauthors": [
+            "Naoki Sugimoto",
+            "Hirohisa Kanbara",
+            "Seiji Fujiwara",
+            "Kazuyuki Hirao"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7733,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Real-Time Subwavelength Terahertz Imaging",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Annual Review of Materials Research",
+        "coauthors": [
+            "Franois Blanchard",
+            "Atsushi Doi",
+            "T. Tanaka",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7690,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Coexistence of Kosmotropic and Chaotropic Impacts of Urea on Water As Revealed by Terahertz Spectroscopy",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "Whether urea can serve as a kosmotrope or chaotrope has long been a topic of debate. In this study, broad-band THz spectroscopy (0.2–12 THz) of aqueous solutions of urea was used to characterize the hydration state and the hydrogen bond structure of water around urea. Three low-frequency vibration modes of urea were found around 2, 4, and above 12 THz. After eliminating the contribution of these modes, the “urea-vibration-free” complex dielectric constant was decomposed into the relaxation modes of bulk water and the oscillation modes of water. When hydration water is defined to be reorientationally retarded relative to bulk, our analysis revealed that the hydration number is 1.9 independent of urea concentrations up to 5 M, and this number is in close agreement with that of water constrained by strong acceptor hydrogen bonds of urea oxygen. Regarding the hydrogen bond structure, it was found that the tetrahedral-like water structure is mostly preserved (though the hydrogen bond lifetime is significantly shortened) but the population of non-hydrogen-bonded water molecules fragmented from the network is markedly increased, presumably due to urea’s NH2 inversion. These experimental results point to the coexistence of apparently two contradictory aspects of urea: dynamical retardation (the kosmotropic aspect) by the −CO group and slight structural disturbance (the chaotropic aspect) by the −NH2 group.",
+        "email": "keiichiro.shiraga@riken.jp",
+        "conf": "The Journal of Physical Chemistry B",
+        "coauthors": [
+            "Keiichiro Shiraga",
+            "Yuichi Ogawa",
+            "Koichiro Tanaka",
+            "Takashi Arikawa",
+            "Naotaka Yoshikawa",
+            "Masahito Nakamura",
+            "Katsuhiro Ajito",
+            "Takuro Tajima"
+        ],
+        "keywords": "Solution chemistry,Peptides and proteins,Urea,Oscillation,Hydration"
+    },
+    {
+        "id": 7722,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Probing Hydration Dynamics of Metal-Organic Frameworks by Broadband THz Pulses",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "We probe porous metal-organic framework materials (MOFs) using broadband terahertz (THz) pulses. Water molecules that are absorbed by the pores of the material display intermolecular dynamics differing from those of free water.",
+        "email": "",
+        "conf": "Conference on Lasers and Electro-Optics (CLEO)-Laser Science to Photonic Applications. IEEE",
+        "coauthors": [
+            "Christian Wolpert",
+            "Kenji Sumida",
+            "Franois Blanchard",
+            "Koichiro Tanaka"
+        ],
+        "keywords": "Materials,Dielectrics,Absorption,Humidity,Broadband communication,Educational institutions,Spectroscopy"
+    },
+    {
+        "id": 7696,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "High impact ionization rate in silicon by sub-picosecond THz electric field pulses (Conference Presentation)",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "Metallic antenna arrays fabricated on high resistivity silicon are used to localize and enhance the incident THz field resulting in high electric field pulses with peak electric field strength reaching several MV/cm on the silicon surface near the antenna tips. In such high electric field strengths high density of carriers are generated in silicon through impact ionization process. The high density of generated carriers induces a change of refractive index in silicon. By measuring the change of reflectivity of tightly focused 800 nm light, the local density of free carriers near the antenna tips is measured. Using the NIR probing technique, we observed that the density of carriers increases by over 8 orders of magnitude in a time duration of approximately 500 fs with an incident THz pulse of peak electric field strength 700 kV/cm. This shows that a single impact ionization process is happening in a time duration of less than 20 fs. The measurement is repeated by exciting the sample with an optical pump beam at a wavelength of 400 nm. The optical pump sets the initial free carrier density before the THz-induced impact ionization. The measurements show that the carrier generation mechanism depends on the initial free carrier density which confirms that the carrier generation mechanism is impact ionization, rather than the alternative carrier generation mechanism in high electric field, i.e. Zener tunneling. Finally this technique can be extended to investigate carrier dynamics in other semiconductors.",
+        "email": "",
+        "conf": "Ultrafast Phenomena and Nanophotonics",
+        "coauthors": [
+            "Abebe Tilahun Tarekegne",
+            "Krzysztof Iwaszczuk",
+            "Hideki Hirori",
+            "Koichiro Tanaka",
+            "Peter U Jepsen"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7809,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Hydration number of biomolecules evaluated with THz time-domain attenuated total reflection spectroscopy",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Takashi Arikawa",
+            "Masaya Nagai",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7848,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Photo-induced polaron states in strontium titanate",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of Luminescence",
+        "coauthors": [
+            "Tomoharu Hasegawa",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7841,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Valence-band structures of quasi-one-dimensional crystals C5H10NH2PbX3 [X = I Br]",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of the Physical Society of Japan",
+        "coauthors": [
+            "Junpei Azuma",
+            "Koichiro Tanaka",
+            "Masao Kamada",
+            "Ken-ichi Kan'no"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7767,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Ultrafast dynamics of soft phonon modes in perovskite dielectrics observed by coherent phonon spectroscopy",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Physical review. B Condensed matter",
+        "coauthors": [
+            "T. Kohmoto",
+            "M. Masui",
+            "M. Abe",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7712,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Visualization and Manipulation of Terahertz Light in the Near-Field",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "Plasmonics is part of the fascinating field of nanophotonics, which explores how electromagnetic fields can be confined over dimensions smaller than the wavelength. Given that THz waves may be generated and detected using ultra-short laser pulses, i.e. femtosecond (fs) laser, coherent time-domain THz measurement enable direct reading of the amplitude and phase information of the electric field. Combined with this capability, exploring the electromagnetic interactions of THz waves below diffraction limit is a powerful tool to understand the plasmonic nature of light at the metal/insulator interface. Here, we summarize on the recent advances in THz microscopy based on 2-dimensional electro optic (EO) imaging using an intense THz pulse source. These recent achievements in optimizing the spatial resolution and acquisition time will drastically accelerate our comprehension of the subwavelength light-matter interactions at THz frequencies and enable, among others, new sensing applications. Our discussion will include demonstrations on field enhancement in metallic-based resonators and potential avenues using THz vortex beam.",
+        "email": "",
+        "conf": "IEEE International Conference on Ubiquitous Wireless Broadband (ICUWB)",
+        "coauthors": [
+            "Franois Blanchard",
+            "Tomoki Hiraoka",
+            "Takashi Arikawa",
+            "Koichiro Tanaka",
+            "Shuntaro Tani",
+            "Tomoko Tanaka"
+        ],
+        "keywords": "Crystals,Optical imaging,Optical pulses,Nonlinear optics,Optical resonators,Optical sensors"
+    },
+    {
+        "id": 7823,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Photoexcited carrier dynamics in potassium tantalate",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of Luminescence",
+        "coauthors": [
+            "Ikufumi Katayama",
+            "Masayuki Watanabe",
+            "Tetsusuke Hayashi",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7847,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Photoinduced Phase Transition in a Spin-crossover Complex and Creation of a New Macroscopic Phase.",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Hyomen Kagaku",
+        "coauthors": [
+            "Takeshi Tayagaki",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7806,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Time-Domain Terahertz Attenuated Total Reflection Spectroscopy",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7833,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Wide-band multi-channel detection of THz waveform using a super-continuous chirped pulse",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Masaya Nagai",
+            "J. Vamashita",
+            "Kumiko Yamashita",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7800,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Effect of small damping constant on electric field enhancement at narrow interface in terahertz attenuated total reflection",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Takanori Okada",
+            "M. Nagai",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7870,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Laser oscillation of a Nd3+-doped fluoride glass microsphere",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of Materials Science Letters",
+        "coauthors": [
+            "Kiyotaka Miura",
+            "Koichiro Tanaka",
+            "Kazuyuki Hirao"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7751,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Long-range hydration state of lipid bilayer studied by THz spectroscopy",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Proceedings of SPIE - The International Society for Optical Engineering",
+        "coauthors": [
+            "Mafumi Hishida",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7709,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Exciton lifetime and diffusion length in high-purity chemical-vapor-deposition diamond",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Diamond and Related Materials",
+        "coauthors": [
+            "Hikaru Morimoto",
+            "Yuji Hazama",
+            "Koichiro Tanaka",
+            "Nobuko Naka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7835,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Modification of vibrational selection rules in the photoinduced spin-crossover phase",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Physical review. B Condensed matter",
+        "coauthors": [
+            "Takeshi Tayagaki",
+            "Koichiro Tanaka",
+            "Hidekazu Okamura"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7693,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Subcycle control of optical response by using a terahertz excitonic dressed state",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "The nonlinear light-matter interaction lies at the heart of controlling the electronic systems for the purpose of developing ultrafast optical switching and modulation devices [1], and attosecond laser technology [2]. In general, the interaction causes the formation of photon dressed state that is a quantum superposition state with energetically spaced sidebands and enables to generate the phase-locked sideband polarizations leading to unique optical responses. However, so far, the study is limited to the driving-cycle-averaged optical experiments [3,4], and thus, our understanding of the role of quantum phases in the optical response and their potential for electro-optic devices remains limited.",
+        "email": "",
+        "conf": "The European Conference on Lasers and Electro-Optics",
+        "coauthors": [
+            "Kento Uchida",
+            "Tomohito Otobe",
+            "Toshimitsu Mochizuki",
+            "C. Kim",
+            "M. Yoshita",
+            "H. Akiyama",
+            "L. N. Pfeiffer",
+            "K. W. West",
+            "K. Tanaka",
+            "H. Hirori"
+        ],
+        "keywords": "Optical polarization,Ultrafast optics,Nonlinear optics,Optical pumping,Optical pulses,Amplitude modulation,Absorption"
+    },
+    {
+        "id": 7769,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Enhancement of THz field in a gap of dipole antenna",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "We investigated the THz field enhancement in dipole antennas. Numerical simulation showed an enhancement factor of 70 in a 150 μm-long antenna at 1 THz. The simplicity of the structure may fit to the intense THz field-material interaction research, attracting a lot of recent interests.",
+        "email": "",
+        "conf": "International Conference on Infrared, Millimeter, and Terahertz Waves. IEEE",
+        "coauthors": [
+            "Hideaki Tanaka",
+            "Yusuke Sugitani",
+            "Jiro Kitagawa",
+            "Yutaka Kadoya",
+            "Francois Blanchard",
+            "Hideki Hirori",
+            "Atushi Doi",
+            "Masaya Nagai",
+            "Koichiro Tanaka"
+        ],
+        "keywords": "Dipole antennas,Resonant frequency,Time domain analysis,Spectroscopy,Finite difference methods"
+    },
+    {
+        "id": 7882,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Observation of phonon structures in porous Si luminescence",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Physical Review Letters",
+        "coauthors": [
+            "T Suemoto",
+            "Koichiro Tanaka",
+            "A Nakajima",
+            "T Itakura"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7799,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Picosecond dynamics of water and heavy water investigated by using terahertz time-domain attenuated total reflection spectroscopy",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Hiroyuki Yada",
+            "M. Nagai",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7887,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "New aspects of intrinsic luminescence in alkali halides",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "K. Kan'no",
+            "Koichiro Tanaka",
+            "T. Hayashi"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7781,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Terahertz nonlinear transmission spectroscopy of amino-acid microcrystals",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Mukesh Jewariya",
+            "Masaya Nagai",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7782,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Terahertz Wave Photonics INTRODUCTION",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of the Optical Society of America B",
+        "coauthors": [
+            "X. -C. Zhang",
+            "Rene Beigang",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7813,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Terahertz time-domain attenuated total reflection spectroscopy in water and biological solution",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "International Journal of Infrared and Millimeter Waves",
+        "coauthors": [
+            "Masaya Nagai",
+            "Hiroyuki Yada",
+            "Takashi Arikawa",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7700,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Phase-sensitive observation of THz-dressed exciton",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "We measured the transient absorption changes of a near-infrared (NIR) pulse in GaAs quantum well under a multicycle THz wave driving. By changing the delay between the NIR probe and the THz wave, the absorption strength can be modulated on a sub-cycle timescale of THz wave, indicating the formation of THz-induced dressed states of excitons.",
+        "email": "",
+        "conf": "International Conference on Infrared, Millimeter, and Terahertz waves (IRMMW-THz). IEEE",
+        "coauthors": [
+            "Kento Uchida",
+            "Tomohito Otobe",
+            "Toshimitsu Mochizuki",
+            "C Kim",
+            "M Yoshida",
+            "H Akiyama",
+            "L N Pfeiffer",
+            "K W West",
+            "Koichiro Tanaka",
+            "H. Hirori"
+        ],
+        "keywords": "Absorption,Excitons,Probes,Optical pulses,Electric fields,Harmonic analysis,Photonics"
+    },
+    {
+        "id": 7752,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Extraordinary carrier multiplication gated by a picosecond electric field pulse",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Nature Communications",
+        "coauthors": [
+            "H Hirori",
+            "K Shinokita",
+            "M Shirai",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7701,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Control of spoof localized surface plasmons by vortex of light in terahertz region",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "We performed time-resolved terahertz (THz) near-field imaging of the perfect electric conductor (PEC) disk with sub-wavelength periodic grooves. The results strongly indicate the quadrupole spoof localized surface plasmon (LSP) is excited by vortex beam excitation. Our results pave the way for plasmonic applications in the THz frequency region.",
+        "email": "",
+        "conf": "International Conference on Infrared, Millimeter, and Terahertz waves (IRMMW-THz). IEEE",
+        "coauthors": [
+            "Shohei Morimoto",
+            "Takashi Arikawa",
+            "Franois Blanchard",
+            "Kyosuke Sakai",
+            "Keiji Sasaki",
+            "Koichiro Tanaka"
+        ],
+        "keywords": "Electric fields,Plasmons,Laser beams,Gold,Optical surface waves,Optical vortices,Imaging"
+    },
+    {
+        "id": 7719,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Relaxation of localized excitons by phonon emission at oxygen vacancies in Cu2O",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of Luminescence",
+        "coauthors": [
+            "Sandhaya Koirala",
+            "Mitsuyoshi Takahata",
+            "Yuji Hazama",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7725,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Cooperativity between Water and Lipids in Lamellar to Inverted-Hexagonal Phase Transition",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of the Physical Society of Japan",
+        "coauthors": [
+            "Mafumi Hishida",
+            "Koichiro Tanaka",
+            "Yasuhisa Yamamura",
+            "Kazuya Saito"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7834,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Accurate measurement of phase shift on the surface-plasmon resonance",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Hideki Hirori",
+            "Kumiko Yamashita",
+            "Koichiro Tanaka",
+            "Makoto Yoshida"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7840,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Giant Photo-Induced Dielectricity in SrTiO3",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of the Physical Society of Japan",
+        "coauthors": [
+            "Tomoharu Hasegawa",
+            "Shin-ichiro Mouri",
+            "Yasuhiro Yamada",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7852,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Photoinduced Phase Transition to a New Macroscopic Spin-Crossover-Complex Phase",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Physical Review Letters",
+        "coauthors": [
+            "Takeshi Tayagaki",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7849,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Symmetry lowering in the photoinduced phase in spin-crossover complexes",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "International Journal of Modern Physics B",
+        "coauthors": [
+            "Takeshi Tayagaki",
+            "Koichiro Tanaka",
+            "Naoki Yonemura",
+            "Ken-Ichi Kan'no"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7716,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Ultrafast carrier relaxation through Auger recombination in the topological insulator B i 1.5 S b 0.5 T e 1.7 S e 1.3",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Physical Review B",
+        "coauthors": [
+            "Yoshito Onishi",
+            "Zhi Ren",
+            "Kouji Segawa",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7819,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Metal Dilution Effects on the Spin-Crossover Properties of the Three-Dimensional Coordination Polymer Fe(pyrazine)[Pt(CN) 4 ]",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "The Journal of Physical Chemistry B",
+        "coauthors": [
+            "Takeshi Tayagaki",
+            "Ana Galet",
+            "Gabor Molnar",
+            "Azzedine Bousseksou"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7876,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Resonant inter-valence-band Raman scattering of photoexcited holes in germanium",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Physical review. B Condensed matter",
+        "coauthors": [
+            "Koichiro Tanaka",
+            "Hideyuki Ohtake",
+            "Tohru Suemoto"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7836,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Photoinduced spin transition probed by X-ray diffraction",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Physical Review B",
+        "coauthors": [
+            "Nolwenn Huby",
+            "Laurent Gurin",
+            "Eric Collet",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7832,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Erratum: Critical behaviors of photoinduced giant permittivity in potassium tantalate [Phys. Rev. B 67 100102(R) (2003)]",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Physical Review B",
+        "coauthors": [
+            "Ikufumi Katayama",
+            "Yuki Ichikawa",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7721,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Antiferromagnetic resonance excitation by terahertz magnetic field resonantly enhanced with split ring resonator",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Applied Physics Letters",
+        "coauthors": [
+            "Y. Mukai",
+            "H. Hirori",
+            "Takafumi Yamamoto",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7812,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "THz Attenuated Total Reflection Spectroscopy",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7780,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Large Amplitude anharmonic vibrations driven by monocycle intense THz pulse",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Mukesh Jewariya",
+            "Masaya Nagai",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7787,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Nanoparticles of iron(II) spin-crossover",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Chemical Communications",
+        "coauthors": [
+            "Thibaut Forestier",
+            "Stphane Mornet",
+            "Nathalie Daro",
+            "Jean-Franois Ltard"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7880,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Homogeneous line width of Praseodymium ions in various inorganic materials",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of Luminescence",
+        "coauthors": [
+            "T. Okuno",
+            "Koichiro Tanaka",
+            "Kazuyoshi Koyama",
+            "T. Suemoto"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7877,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Resonance Raman Scattering and Its Annealing Effect for Photo-Induced Defect States in Quasi-One-Dimensional Mixed-Valence Compound [Pt(en)2] [Pt(en)2Cl2] (ClO4)4",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Molecular Crystals and Liquid Crystals",
+        "coauthors": [
+            "Jun Takeda",
+            "Mitsuru Okada",
+            "Koichiro Tanaka",
+            "Susumu Kurita"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7786,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Origin of the fast relaxation component of water and heavy water revealed by terahertz time-domain attenuated total reflection spectroscopy",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Chemical Physics Letters",
+        "coauthors": [
+            "Hiroyuki Yada",
+            "Masaya Nagai",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7729,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Resonant creation of indirect excitons in diamond at the phonon-assisted absorption edge",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "EPL (Europhysics Letters)",
+        "coauthors": [
+            "Yuji Hazama",
+            "Nobuko Naka",
+            "M. Kuwata-Gonokami",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7829,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Time-domain Terahertz spectroscopy on quantum ferroelectrics",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Y. Ichikawa",
+            "M. Nagai",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7783,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Bidirectional photo-switching of the spin state of iron(II) ions in a triazol based spin crossover complex within the thermal hysteresis loop",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Chemical Physics Letters",
+        "coauthors": [
+            "Nawel Ould-Moussa",
+            "Denis Ostrovskii",
+            "Victor Martinez Garcia",
+            "Azzedine Bousseksou"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7766,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Single-Cycle Terahertz Pulses with Amplitudes Exceeding 1 Mv/cm Generated by Optical Rectification in LiNbO3",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Applied Physics Letters",
+        "coauthors": [
+            "H. Hirori",
+            "Atsushi Doi",
+            "Franois Blanchard",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7756,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Extraordinary carrier multiplication in GaAs MQWs induced by intense terahertz pulse",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "We report on the extraordinary carrier multiplication phenomena of GaAs quantum wells under only intense terahertz (THz) pulse irradiation. The intensity of exciton luminescence is enhanced more than about 10 3 times with an increase of the electric field amplitude of the THz pulse from 0.5 to 1 MV/cm with a threshold-like behavior.",
+        "email": "",
+        "conf": "International Conference on Infrared, Millimeter, and Terahertz Waves. IEEE",
+        "coauthors": [
+            "H. Hirori",
+            "K. Shinokita",
+            "M. Shirai",
+            "S Tani",
+            "Y Kadoya",
+            "Koichiro Tanaka"
+        ],
+        "keywords": "Luminescence,Electric fields,Optical pulses,Gallium arsenide,Excitons,Ultrafast optics,Radiation effects"
+    },
+    {
+        "id": 7727,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Focus on nonlinear terahertz studies",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "New Journal of Physics",
+        "coauthors": [
+            "Alfred Leitenstorfer",
+            "Keith A Nelson",
+            "Klaus Reimann",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 7790,
+        "label": 137,
+        "author": "koichiro tanaka",
+        "title": "Light induced excited spin state trapping in the binuclear spin crossover compound [Fe(bpym)(NCS) 2] 2(bpym) exhibiting a high-spin ground state",
+        "organization": "Department of Physics Kyoto University",
+        "abstract": "",
+        "email": "",
+        "conf": "Chemical Physics Letters",
+        "coauthors": [
+            "Shinichiro Mouri",
+            "Nawel Ould-Moussa",
+            "G. Molnr",
+            "Koichiro Tanaka"
+        ],
+        "keywords": ""
+    }
+]

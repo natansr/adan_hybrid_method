@@ -1,0 +1,1581 @@
+[
+    {
+        "id": 5142,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "EROS: A Capability System",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "EROS is a capability-based operating system for commodity processors which uses a single level storage model. The single level store's persistence is transparent to applications. The performance consequences of support for transparent persistence and capability-based architectures are generally believed to be negative. Surprisingly, the basic operations of EROS (such as IPC) are generally comparable in cost to similar operations in conventional systems. This is demonstrated with a set of microbenchmark measurements of semantically similar operations in Linux.The EROS system achieves its performance by coupling well-chosen abstract objects with caching techniques for those objects. The objects (processes, nodes, and pages) are well-supported by conventional hardware, reducing the overhead of capabilities. Software-managed caching techniques for these objects reduce the cost of persistence. The resulting performance suggests that composing protected subsystems may be less costly than commonly believed.",
+        "email": "",
+        "conf": "Proceedings of the seventeenth ACM symposium on Operating systems principles",
+        "coauthors": [
+            "Jonathan S. Shapiro",
+            "Jonathan M. Smith",
+            "David J. Farber"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5139,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "Implementing a Distributed Firewall",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "Conventional firewalls rely on topology restrictions and controlled netwrok entry points to enforce trafic filtering. Furthermore, a firewall cannot filter traffic it does not see, so, effectively, everyone on the protected side is trusted. While this model has worked well for small to medium size networks, networking trends such as increased connectivity, higher line speeds, extranets, and telecommuting threaten to make it obsolete. To address the shortcomings of traditional firewalls, the concept of a distributed firewall has been proposed. In this scheme security policy is still centrally defined, but enforcement is left up tp the individual endpoints. IPsec may be used to distribute credentials that express parts of the overall network policy. Alternatively, these credentials may be obtained through out-of-band means.",
+        "email": "jms@cis.upenn.edu",
+        "conf": "ACM conference on Computer and communications security",
+        "coauthors": [
+            "Sotiris Ioannidis",
+            "Angelos D. Keromytis",
+            "Steve M. Bellovin",
+            "Jonathan M. Smith"
+        ],
+        "keywords": "Firewalls,distributed,access control,Ipsec,network security,trust management,KeyNote,OpenBSD,credentials,IP,IKE"
+    },
+    {
+        "id": 5123,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "Secure and Flexible Global File Sharing",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "Sharing of files is a major application of computer networks, with examples ranging from LAN-based network file systems to wide-area applications such as use of version control systems in distributed software development. Identification, authentication and access control are much more challenging in this complex large-scale distributed environment. In this paper, we introduce the Distributed Credential Filesystem (DisCFS). Under DisCFS, credentials are used to identify both the files stored in the file system and the users that are permitted to access them, as well as the circumstances under which such access is allowed. As with traditional capabilities, users can delegate access rights (and thus share information) simply by issuing new credentials. Credentials allow files to be accessed by remote users that are not known a priori to the server. Our design achieves an elegant separation of policy and mechanism which is mirrored in the implementation. Our prototype implementation of DisCFS runs under OpenBSD 2.8, using a modified user-level NFS server. Our measurements suggest that flexible and secure file sharing can be made scalable at a surprisingly low performance cost.",
+        "email": "",
+        "conf": "echnical Reports",
+        "coauthors": [
+            "Stefan Miltchev",
+            "Vassilis Prevelakis",
+            "Sotiris Ioannidis",
+            "Jonathan M. Smith"
+        ],
+        "keywords": "filesystems, access control, trust management, keynote, openBSD, credentials"
+    },
+    {
+        "id": 5141,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "Piglet: A Low-Intrusion Vertical Operating System",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "The primary purpose of a computer system is to run user applications; the operating system provides a supporting infrastructure for applications but does not directly carry out user tasks. The goal of the OS is to share system resources among multiple applications which may be unaware of and/or competing with each other. Hence the overhead imposed by the OS upon those applications must be minimised if the system is to be utilised most eciently. In particular, the manner in which applications can access resources is critical to their performance. Resource management can be decomposed into two somewhat independent parts: mechanism and policy. The mechanism denes the details of how a physical resource is shared amongst multiple applications e.g., a CPU page-table, while the policy denes how application requirements are satised by the resource e.g., page replacement policy. 1.1 Operating System Intrusion Both the mechanism and policy of resource",
+        "email": "",
+        "conf": "Department of Computer and Information Science, University of Pennsylvania",
+        "coauthors": [
+            "Steve Muir",
+            "Jonathan M. Smith"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5131,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "The SwitchWare Active Network Implementation",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "This is an overview of work on the SwitchWare active network pro ject, which began two years ago based on ideas about how to improve the exibility of net- works by making the network programmable. The original ideas for active networks as a whole and some comparative analysis of possible architectures are sur- veyed in [33]. A variety of technology trends in computing power, communication speeds, programming languages, and security have made it worthwhile to investigate network programming interfaces that allow code to be downloaded into routers within the network and invoked by the packets passing through them. At the current time there are at least a dozen AN prototype architectures under development [34, 8, 22, 2, 19, 35], a few of which have released soft- ware.",
+        "email": "",
+        "conf": "ACM SIGPLAN Workshop on ML",
+        "coauthors": [
+            "D. Scott Alex",
+            "Michael Hicks",
+            "Pankaj Kakkar",
+            "Angelos D Keromytis",
+            "Marianne Shaw",
+            "Jonathan T Moore",
+            "Carl A Gunter",
+            "Trevor Jim",
+            "Scott M Nettles",
+            "Jonathan M. Smith"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5189,
+        "label": 102,
+        "author": "jonathan smith",
+        "title": "Sense of Belonging at School: Defining Attributes Determinants and Sustaining Strategies",
+        "organization": "Professor Department of Preschool and Elementary Education UniversitÃƒÂ© de Sherbrooke",
+        "abstract": "Building and sustaining students' sense of belonging at school has been proposed by teachers and researchers as a means of stimulating students' intent or desire to learn and of reducing student attrition. This article will present the results of an inquiry into the literature on belonging to support the perspective that is it necessary, not only to foster a strong sense of belonging, but also to place much greater emphasis on school belonging in educational programs, practices, and research. The aims of the paper are: (a) to review the theoretical literature on school belonging with an emphasis on its defining attributes and main determinants, (b) to review the measurement instruments of school belonging, and (c) to identify various strategies that may enhance school belonging. In light of the defining attributes identified, the authors propose six general recommendations for educational stakeholders wishing to build and sustain students' sense of belonging at school.",
+        "email": "",
+        "conf": "Journal of Education",
+        "coauthors": [
+            "Jerome St-Amand",
+            "Stphanie Girard",
+            "Jonathan Smith"
+        ],
+        "keywords": "students sense of school belonging; defining attributes; determinants; sustaining strategies"
+    },
+    {
+        "id": 5152,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "Protocol boosters",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE Journal on Selected Areas in Communications",
+        "coauthors": [
+            "David C. Feldmeier",
+            "Anthony J. McAuley",
+            "Jonathan M. Smith",
+            "Thomas M. Raleigh"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5138,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "Practical Network Applications on a Lightweight Active Management Environment",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "The main focus of active networking research so far has been at the infrastructure level, facing the challenges of designing suitable node operating system structures and the study of different programming models. This has left exploration of the actual utility of active networks to rather simple applications that have yet to exploit the full potential of the programmable network. In this paper we present an application-driven study of active networks, identifying unique and practical applications that make full use of the active infrastructure. We explore a class of applications in network monitoring that indicate a clear need for programmability as offered by active networking technology. We have built several monitoring applications on an active substrate that is synthesized from off-the-shelf components. We demonstrate the flexibility provided while showing that for certain application workloads such a system can efficiently operate at modern backbone network speeds. Our performance study also leads to design considerations for scaling up the infrastructure to future network speeds.",
+        "email": "",
+        "conf": "IFIP International Working Conference on Active Networks.",
+        "coauthors": [
+            "Kostas Anagnostakis",
+            "Sotiris Ioannidis",
+            "Stefan Miltchev",
+            "Jonathan M. Smith"
+        ],
+        "keywords": "Active Network, Network Monitoring, Trust Management, Module Code, Network Processor "
+    },
+    {
+        "id": 5185,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "Switchware: accelerating network evolution",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "We propose the development of a set of software technologies (\"SwitchWare\") which will enable rapid development and deployment of new network services. The key insight is that by making the basic network service selectable on a per user (or even per packet) basis, the need for formal standardization is eliminated. Additionally, by making the basic network service programmable, the deployment times, today constrained by capital funding limitations, are tremendously reduced (to the order of software distribution times). Finally, by constructing an advanced, robust programming environment, even the service development time can be reduced. A SwitchWare switch consists of input and output ports controlled by a software-programmable element; programs are contained in sequences of messages sent to the SwitchWare switch's input ports, which interpret the messages as programs. We call these \"Switchlets\". This accelerates the pace of network evolution, as evolving user needs can be immediately reflected in the network infrastructure. Immediate reconfigurability enhances the adaptability of the network infrastructure in the face of unexpected situations. We call a network built from SwitchWare switches an active network.",
+        "email": "jms@cis.upenn.edu",
+        "conf": "White paper",
+        "coauthors": [
+            "Jonathan M. Smith",
+            "David J. Farber",
+            "Carl A Gunter",
+            "Scott Alexander",
+            "David C. Feldmeier"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5095,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "Cross-domain collaboration for improved IDS rule set selection",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "We propose the development of a set of software technologies (\"SwitchWare\") which will enable rapid development and deployment of new network services. The key insight is that by making the basic network service selectable on a per user (or even per packet) basis, the need for formal standardization is eliminated. Additionally, by making the basic network service programmable, the deployment times, today constrained by capital funding limitations, are tremendously reduced (to the order of software distribution times). Finally, by constructing an advanced, robust programming environment, even the service development time can be reduced. A SwitchWare switch consists of input and output ports controlled by a software-programmable element; programs are contained in sequences of messages sent to the SwitchWare switch's input ports, which interpret the messages as programs. We call these \"Switchlets\". This accelerates the pace of network evolution, as evolving user needs can be immediately reflected in the network infrastructure. Immediate reconfigurability enhances the adaptability of the network infrastructure in the face of unexpected situations. We call a network built from SwitchWare switches an active network. ",
+        "email": "",
+        "conf": "Journal of Information Security and Applications",
+        "coauthors": [
+            "John Sonchack",
+            "Adam J. Aviv",
+            "Jonathan M. Smith"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5187,
+        "label": 102,
+        "author": "jonathan smith",
+        "title": "The evolution of motivation to learn in the context of transition to secondary: trajectories and personal academic and relational determinants",
+        "organization": "Professor Department of Preschool and Elementary Education UniversitÃƒÂ© de Sherbrooke",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Jonathan Smith"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5157,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "Power Management in Mobile Computing (A Survey)",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "Rapid advances in technology have resulted in laptop (mobile) computers with performance and features comparable to desktop (stationary) machines. Advances in rechargeable battery technology have failed to keep pace, decreasing the usefulness of mobile computers and portable wireless devices. Several methods of power management can be used to prolong the battery life of a mobile computer. We provide a detailed analysis of power consumption typically encountered in a networked laptop computer and the power management methods currently used. We also outline some novel proposed power management methods.",
+        "email": "jms@dsl.cis.upenn.edu",
+        "conf": "Technical Reports",
+        "coauthors": [
+            "Sanjay Udani",
+            "Jonathan M. Smith"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5177,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "A Taxonomy-Based Comparison of Several Distributed Shared Memory Systems.",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "Two possible modes of Input/Output (I/O)are \"sequential\" and \"random-access\", and there is an extremely strong conceptual link between I/O and communication. Sequential communication, typified in the I/O setting by magnetic tape, is typified in the communication setting by a stream, e.g., a UNIX1 pipe. Random-access communication, typified in the I/O setting by a drum or disk device, is typified in the communication setting by shared memory. In this paper, we study and survey the extension of the random-access model to distributed computer systems.A Distributed Shared Memory (DSM) is a memory area shared by processes running on computers connected by a network. DSM provides direct system support of the shared memory programming model. When assisted by hardware, it can also provide a low-overhead interprocess communication (IPC) mechanism to software. Shared pages are migrated on demand between the hosts. Since computer network latency is typically much larger than that of a shared bus, caching in DSM is necessary for performance. We use caching and issues such as address space structure and page replacement schemes to define a taxonomy. Based on the taxonomy we examine three DSM efforts in detail, namely: IVY, Clouds and MemNet.",
+        "email": "",
+        "conf": "ACM SIGOPS Operating Systems Review",
+        "coauthors": [
+            "Ming-Chit Tam",
+            "Jonathan M. Smith",
+            "David J. Farber"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5163,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "Architecture and Performance of the Mether Network Shared Memory",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "Mether is a Network Shared Memory (NSM). It allows applications on autonomous computers connected by a network to share a segment of memory.NSMs offer the attraction of a simple abstraction for shared state, i.e., shared memory. NSMs have a potential performance problem in the cost of remote references, which is typically solved by grouping memory into larger units such as pages, and caching pages. While Mether employs grouping and caching to reduce the average memory reference delay, it also removes the need for many remote references (page faults) by providing a facility with relaxed consistency requirements.Applications ported from a multiprocessor supercomputer with shared memory to a 16-workstation Mether configuration showed a cost/performance advantage of over 300 in favor of the Mether system. While Mether is currently implemented for Sun-3 and Sun-4 systems connected via Ethernet, other characteristics (such as a choice of page sizes and a semaphore-like access mode useful for process synchronization) should suit it to a wide variety of networks. A reimplementation for an alternate configuration employing packet-switched networks is in progress.",
+        "email": "",
+        "conf": "Technical Reports",
+        "coauthors": [
+            "John H. Shaffer",
+            "Ronald G Minnich",
+            "Jonathan M. Smith"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5155,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "Active Bridging",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "",
+        "email": "",
+        "conf": "ACM SIGCOMM Computer Communication Review",
+        "coauthors": [
+            "D. Scott Alex",
+            "Marianne Shaw",
+            "Scott M. Nettles",
+            "Jonathan M. Smith"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5097,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "Architectural Support for Software-Defined Metadata Processing",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "Optimized hardware for propagating and checking software-programmable metadata tags can achieve low runtime overhead. We generalize prior work on hardware tagging by considering a generic architecture that supports software-defined policies over metadata of arbitrary size and complexity; we introduce several novel microarchitectural optimizations that keep the overhead of this rich processing low. Our model thus achieves the efficiency of previous hardware-based approaches with the flexibility of the software-based ones. We demonstrate this by using it to enforce four diverse safety and security policies---spatial and temporal memory safety, taint tracking, control-flow integrity, and code and data separation---plus a composite policy that enforces all of them simultaneously. Experiments on SPEC CPU2006 benchmarks with a PUMP-enhanced RISC processor show modest impact on runtime (typically under 10%) and power ceiling (less than 10%), in return for some increase in energy usage (typically under 60%) and area for on-chip memory structures (110%).",
+        "email": "",
+        "conf": "ACM SIGPLAN Notices",
+        "coauthors": [
+            "Udit Dhawan",
+            "Catalin Hritcu",
+            "Raphael Rubin",
+            "Nikos Vasilakis",
+            "Silviu Chiricescu",
+            "Jonathan M Smith",
+            "Thomas F Knight",
+            "Benjamin C Pierce",
+            "Andre Dehon"
+        ],
+        "keywords": "security, metadata, tagged architecture, CFI, Taint Tracking, Memory Safety"
+    },
+    {
+        "id": 5167,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "Traffic Characteristics of a Distributed Memory System",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "We believe that many distributed computing systems of the future will use distributed shared memory as a technique for interprocess communication. Thus, traffic generated by memory requests will be a major component of the traffic for any networks which connect nodes in such a system. In this paper, we study memory reference strings gathered with a tracing program we devised. We study several models. First, we look at raw reference data, as would be seen if the network were a backplane. Second, we examine references in units of “blocks”, first using a one-block cache model and then with an infinite cache. Finally, we study the effect of predictive prepaging of these “blocks” on the traffic. We provide a novel representation of memory reference data which can used to calculate interarrival distributions directly. Integrating communication with computation can be used to control both traffic and performance.",
+        "email": "",
+        "conf": "Computer Networks and ISDN Systems",
+        "coauthors": [
+            "Jonathan M. Smith",
+            "David J. Farber"
+        ],
+        "keywords": "distributed computation,distributed memory,traffic characteristics,networking,computer networks"
+    },
+    {
+        "id": 5129,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "Sub-Operating Systems: A New Approach to Application Security",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "Users regularly exchange apparently innocuous data files using email and ftp. While the users view these data as passive, there are situations when they are interpreted as code by some system application. In that case the data become \"active\". Some examples of such data are Java, JavaScript and Microsoft Word attachments, each of which are executed within the security context of the user, allowing potentially arbitrary machine access. The structure of current operating systems and user applications makes solving this problem challenging.We propose a new protection mechanism to address active content, which applies fine-grained access controls at the level of individual data objects. All data objects arriving from remote sources are tagged with a non-removable identifier. This identifier dictates its permissions and privileges rather than the file owner's user ID. Since users possess many objects, the system provides far more precise access control policies to be enforced, and at a far finer granularity than previous designs.",
+        "email": "jms@cis.upenn.edu",
+        "conf": "ACM SIGOPS European workshop",
+        "coauthors": [
+            "Sotiris Ioannidis",
+            "Steven M. Bellovin",
+            "Jonathan M. Smith"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5109,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "Dynamic Trust Management",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "We continue to investigate the use of trust management techniques to specify dynamic policies in complex integrated service-oriented networks. For this work, we use the DoD GIG's service-oriented architecture as a focal point. In this research's initial phase, we are developing prototype dynamic trust management policy services for a service-oriented architecture. In our research's next phase, we will develop and analyze policies with properties that maintain strict separation between services while allowing exceptions. Finally, we are developing improved trust management languages and systems that more explicitly support dynamic policies in service-oriented architectures, based on the semantic and performance experiences gained in the research's first phases. Our focus will be twofold. First, we will explore adding trust-management language features that better support dynamic policies, based both on our experiences in the initial research and on the GIG's specific requirements. Second, we will conduct experiments to measure the performance implications of incorporating the trust management layer in the various layers of such systems. A significant open research question is whether trust management is architecturally best implemented as a low-level operating system service, an application-layer service, or somewhere in between.",
+        "email": "",
+        "conf": "Computer",
+        "coauthors": [
+            "Matt Blaze",
+            "Sampath Kannan",
+            "Insup Lee",
+            "Oleg Sokolsky",
+            "Jonathan M Smith",
+            "Angelos B Keromytis",
+            "Wanke Lee"
+        ],
+        "keywords": "Global Information Grid,trust management,service-oriented architecture,virtual private services"
+    },
+    {
+        "id": 5154,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "An Application-Driven Approach to Networked Multimedia Systems",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "Several architectural choices possible in logical multiplexing, accommodating QoS dynamics, and functional divisions between senders and receivers are discussed. The authors' application requirements favor integration rather than channelization, supporting quality of service (QoS) dynamics with a renegotiation mechanism, and pushing complexity towards receivers. The choices are tested via implementation of a telerobotics/teleoperation application. This application is particularly challenging due to its demand for multiple concurrent media streams with varied QoS requirements.",
+        "email": "",
+        "conf": "Conference on Local Computer Networks. IEEE",
+        "coauthors": [
+            "Klara Nahrstedt",
+            "Jonathan M. Smith"
+        ],
+        "keywords": "Streaming media,Videoconference,Interleaved codes,Video compression,Protocols,ISDN,Delay,Real time systems,Multimedia systems,Data communication"
+    },
+    {
+        "id": 5149,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "Security for virtual private intranets",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "",
+        "email": "",
+        "conf": "Computer",
+        "coauthors": [
+            "William Arbaugh",
+            "James R. Davin",
+            "David J. Farber",
+            "Jonathan M. Smith"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5174,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "Gigabit Telerobotics: Applying Advanced Information Infrastructure",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "Advanced manufacturing concepts such as \"Virtual Factories\" use an information infrastructure to tietogether changing groups of specialized facilities into agile manufacturing systems. A necessary elementof such systems is the ability to teleoperate machines, for example telerobotic systems with fullcapability sensory feedback loops. We have identified three network advances needed for splitting roboticcontrol from robotic function: increased bandwidth, decreased error rates, and support for isochronoustraffic. These features are available in the Gigabit networks under development at Penn and elsewhere.A number of key research questions are posed by gigabit telerobotics. There are issues in networktopology, robot control and distributed system software, packaging and transport of sensory data(including wide-area transport), and performance implications of architectural choices using measuressuch as cost, response time, and network utilization.We propose to explore these questions experimentally in a joint research effort combining the DistributedSystems Laboratory (DSL) and the General Robotics and Sensory Perception (GRASP) Laboratory at theUniversity of-Pennsylvania. The proposed experiments should provide important early results. A detailedresearch program is described. ",
+        "email": "",
+        "conf": "Technical Reports",
+        "coauthors": [
+            "Ruzena Bajcsy",
+            "David J. Farber",
+            "Richard P. Paul",
+            "Jonathan M. Smith"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5113,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "Requirements for Scalable Access Control and Security Management Architectures",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "Maximizing local autonomy by delegating functionality to end nodes when possible (the end-to-end design principle) has led to a scalable Internet. Scalability and the capacity for distributed control have unfortunately not extended well to resource access-control policies and mechanisms. Yet management of security is becoming an increasingly challenging problem in no small part due to scaling up of measures such as number of users, protocols, applications, network elements, topological constraints, and functionality expectations. In this article, we discuss scalability challenges for traditional access-control mechanisms at the architectural level and present a set of fundamental requirements for authorization services in large-scale networks. We show why existing mechanisms fail to meet these requirements and investigate the current design options for a scalable access-control architecture. We argue that the key design options to achieve scalability are the choice of the representation of access control policy, the distribution mechanism for policy, and the choice of the access-rights revocation scheme. Although these ideas have been considered in the past, current access-control systems in use continue to use simpler but restrictive architectural models. With this article, we hope to influence the design of future access-control systems towards more decentralized and scalable mechanisms.",
+        "email": "",
+        "conf": "Transactions on Internet Technology (TOIT)",
+        "coauthors": [
+            "Angelos D. Keromytis",
+            "Jonathan M. Smith"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5098,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "SPECS: A Lightweight Runtime Mechanism for Protecting Software from Security-Critical Processor Bugs",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "Processor implementation errata remain a problem, and worse, a subset of these bugs are security-critical. We classified 7 years of errata from recent commercial processors to understand the magnitude and severity of this problem, and found that of 301 errata analyzed, 28 are security-critical. We propose the SECURITY-CRITICAL PROCESSOR ER- RATA CATCHING SYSTEM (SPECS) as a low-overhead solution to this problem. SPECS employs a dynamic verification strategy that is made lightweight by limiting protection to only security-critical processor state. As a proof-of- concept, we implement a hardware prototype of SPECS in an open source processor. Using this prototype, we evaluate SPECS against a set of 14 bugs inspired by the types of security-critical errata we discovered in the classification phase. The evaluation shows that SPECS is 86% effective as a defense when deployed using only ISA-level state; incurs less than 5% area and power overhead; and has no software run-time overhead.",
+        "email": "",
+        "conf": "ACM SIGPLAN Notices",
+        "coauthors": [
+            "Matthew Hicks",
+            "Cynthia Sturton",
+            "Samuel T. King",
+            "Jonathan M. Smith"
+        ],
+        "keywords": "Processor errata; hardware security exploits; security-critical processor errata"
+    },
+    {
+        "id": 5130,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "Security in Active Networks",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "The desire for flexible networking services has given rise to the concept of “active networks.” Active networks provide a general framework for designing and implementing network-embedded services, typically by means of a programmable network infrastructure. A programmable network infrastructure creates significant new challenges for securing the network infrastructure. This paper begins with an overview of active networking. It then moves to security issues, beginning with a threat model for active networking, moving through an enumeration of the challenges for system designers, and ending with a survey of approaches for meeting those challenges. The Secure Active Networking Environment (SANE) realizes many of these approaches; an implementation exists and provides acceptable performance for even the most aggressive active networking proposals such as active packets (sometimes called “capsules”). We close the paper with a discussion of open problems and an attempt to prioritize them.",
+        "email": "",
+        "conf": "IEEE Communications Surveys",
+        "coauthors": [
+            "D. Scott Alexander",
+            "William Arbaugh",
+            "Angelos D. Keromytis",
+            "Jonathan M. Smith"
+        ],
+        "keywords": "Active Network, Security Policy, Real Resource, Type Safety, Operating System Principle "
+    },
+    {
+        "id": 5184,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "EROS: a fast capability system",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "EROS is a capability-based operating system for commodity processors which uses a single level storage model. The single level store's persistence is transparent to applications. The performance consequences of support for transparent persistence and capability-based architectures are generally believed to be negative. Surprisingly, the basic operations of EROS (such as IPC) are generally comparable in cost to similar operations in conventional systems. This is demonstrated with a set of microbenchmark measurements of semantically similar operations in Linux.The EROS system achieves its performance by coupling well-chosen abstract objects with caching techniques for those objects. The objects (processes, nodes, and pages) are well-supported by conventional hardware, reducing the overhead of capabilities. Software-managed caching techniques for these objects reduce the cost of persistence. The resulting performance suggests that composing protected subsystems may be less costly than commonly believed.",
+        "email": "",
+        "conf": "Proceedings of the seventeenth ACM symposium on Operating systems principles",
+        "coauthors": [
+            "Jonathan M. Smith",
+            "Jonathan M Smith",
+            "David J. Farber"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5114,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "Flexible network monitoring with FLAME",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "Increases in scale, complexity, dependency and security for networks have motivated increased automation of activities such as network monitoring. We have employed technology derived from active networking research to develop a series of network monitoring systems, but unlike most previous work, made application needs the priority over infrastructure properties. This choice has produced the following results: (1) the techniques for general infrastructure are both applicable and portable to specific applications such as network monitoring; (2) tradeoffs can benefit our applications while preserving considerable flexibility; and (3) careful engineering allows applications with open architectures to perform competitively with custom-built static implementations. These results are demonstrated via measurements of the lightweight active measurement environment (LAME), its successor, flexible LAME (FLAME), and their application to monitoring for performance and security.",
+        "email": "jms@cis.upenn.edu",
+        "conf": "Computer Networks",
+        "coauthors": [
+            "Kostas G. Anagnostakis",
+            "Michael B. Greenwald",
+            "Sotiris Ioannidis",
+            "D Li",
+            "Jonathan M. Smith"
+        ],
+        "keywords": "Active networks,Network monitoring,Network measurement,Worm detection"
+    },
+    {
+        "id": 5143,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "Operating System Support for Active Networks",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "Active Networks provide a network infrastructure which can be programmed on a per-user or even a per-packet basis. While the flexibility of such systems is seductive, the safety and security risks are greatly increased. Active network nodes must provide programmability while respecting policy constraints of the network provider and protecting nodes and other users from faulty applications. In addition, many modern applications demand Quality of Service guarantees which will require exposing selected portions of the node resource management policy. As shared infrastructure, reliability beyond that of general purpose computing systems is required. EROS (the Extremely Reliable Operating System) is an attractive candidate for resource management in an Active Network node. EROS is a pure capability system which provides complete accountability for persistent, consumable and multiplexed resources. We have implemented a prototype Active Network element on the EROS platform which provides the resource partitioning, quality of service, inter-client protection, and performance required of active networks. This paper presents the architecture, design and performance of this prototype, which is currently running on Intel x86 platforms",
+        "email": "jms@cis.upenn.edu",
+        "conf": "Unpublished Paper",
+        "coauthors": [
+            "Jonathan S. Shapiro",
+            "Steve J Muir",
+            "Jonathan M. Smith",
+            "David J. Farber"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5126,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "The Influence of ATM on Operating Systems",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "The features of ATM offered many attractions to the application community, such as fine-grained multiplexing and high-throughput links. These created considerable challenges for the O.S. designer, since a small protocol data unit size (the 48 byte \"cell\") and link bandwidths within a (binary) order of magnitude of memory bandwidths demanded considerable rethinking of operating system structure.Using an historical and personal perspective, this paper describes two aspects of that rethinking which I participated in directly, namely, those of new event signalling and memory buffering schemes. Ideas and techniques stemming from ATM network research influenced first research operating systems and then commercial operating systems. The positive results of ATM networking, although indirect, have benefitted applications and systems far beyond the original design goals.",
+        "email": "",
+        "conf": "ACM SIGCOMM Computer Communication Review",
+        "coauthors": [
+            "Jonathan M. Smith"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5182,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "Effects of Copy-on-Write Memory Management on the Response Time of UNIX Fork Operations.",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "We present techniques for analyzing the effect of ‘‘copy-on-write’’ page management strategies on theperformance of UNIX fork() operations. The analysis techniques are applied on two workstations, the AT&T3B2/310TM and the Hewlett-Packard HP9000/350TM in order to determine the relationships between the amountof memory in the parent’s data segment, the fraction of this memory which is written by the child, and theimprovement in execution time due to ‘‘copy-on-write’’. Since the implementation of ‘‘copy-on-write’’ isstraightforward with modern MMUs, our results for these workstations are readily generalized to other workstations.The results show that the size of the parent’s allocated memory has little direct effect on performance,due to the fact that only page table entries are copied during the fork() operations. The execution time is mostinfluenced by the amount of memory that must be copied, which can be determined from the product ofmemory allocated and the fraction of memory written. Thus, the worst case occurs when large address spaceprograms update much of their memory.In order to observe what occurs in practice, we measured two programs that have what are currently considered large address spaces. These programs, which we believe to be representative of the sorts of programswhich use large amounts of system resources, updated less than half of the memory in their data segments.",
+        "email": "",
+        "conf": "Computing systems",
+        "coauthors": [
+            "Jonathan M. Smith",
+            "Gerald Q. Maguire Jr"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5111,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "MOSAIC: Unified Platform for Dynamic Overlay Selection and Composition",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "MOSAIC constructs new overlay networks with desired characteristics by composing existing overlays with subsets of those attributes. Thus, MOSAIC overcomes the problem of multiple network infrastructures that are partial solutions, while preserving deployability. Composition of control and/or data planes is possible in the system. MOSAIC overlays are specified in Mozlog, a declarative language that specifies overlay properties without binding them to a particular implementation or underlying network. This paper focuses on the runtime aspects of MOSAIC: how it enables interoperability between different overlay networks and how it implements switching between different overlay compositions, permitting dynamic compositions with both existing overlay networks and legacy applications. The system is validated experimentally using declarative overlay compositions concisely specified in Mozlog: an indirection overlay that supports mobility (i3), a resilient overlay (RON), and scalable lookups (Chord), all of which are combined to provide new functionality. MOSAIC provides the benefits of runtime composition to simultaneously deliver application-aware mobility, NAT traversal and reliability with low performance overhead, demonstrated by measurements on both a local cluster and PlanetLab.",
+        "email": "",
+        "conf": "MOSAIC ",
+        "coauthors": [
+            "Yun Mao",
+            "Thau Boon",
+            "Zachary G Lves",
+            "Jonathan M. Smith"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5135,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "Efficient Packet Monitoring for Network Management",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "Network monitoring is a vital part of modern network infrastructure management. Existing techniques either present a restricted view of network behavior and state, or do not efficiently scale to higher network speeds and heavier monitoring workloads. We present a novel architecture for programmable packet-level network monitoring that addresses these shortcomings. Our approach allows users to customize the monitoring function at the lowest possible level of abstraction to suit a wide range of monitoring needs: we use operating system mechanisms that result in a programming environment providing a high degree of flexibility, retaining fine-grained control over security, and minimizing the associated performance overheads. We present an implementation of this architecture as well as a set of experimental applications.",
+        "email": "",
+        "conf": "IEEE/IFIP Network Operations and Management Symposium.'Management Solutions for the New Communications World",
+        "coauthors": [
+            "Kostas G. Anagnostakis",
+            "Sotiris Ioannidis",
+            "Stefan Miltchev",
+            "M Greenwald",
+            "Jonathan M. Smith",
+            "J Loannidis"
+        ],
+        "keywords": "Monitoring,Operating systems,Modems,Computational Intelligence Society,Programming environments,Control systems,Scalability,IP networks,Traffic control,Fires"
+    },
+    {
+        "id": 5122,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "A secure plan",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "Active networks, being programmable, promise greater flexibility than current networks. Programmability, however, may introduce safety and security risks. This correspondence describes the design and implementation of a security architecture for the active network PLANet. Security is obtained with a two-level architecture that combines a functionally restricted packet language, PLAN, with an environment of general-purpose service routines governed by trust management. In particular, a technique is used which expands or contracts a packet's service environment based on its level of privilege, termed namespace-based security. The design and implementation of an active-network firewall and virtual private network is used as an application of the security architecture. Measurements of the system show that the addition of the firewall imposes an approximately 34% latency overhead and as little as a 6.7% space overhead to incoming packets.",
+        "email": "",
+        "conf": "IEEE Transactions on Systems Man and Cybernetics Part C (Applications and Reviews)",
+        "coauthors": [
+            "Michael Hicks",
+            "Angelos D. Keromytis",
+            "Jonathan M. Smith"
+        ],
+        "keywords": "Planets,Authorization,Web and internet services,Contracts,Extraterrestrial measurements,Authentication,Cryptography,Safety,Environmental management,Virtual private networks"
+    },
+    {
+        "id": 5158,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "Operating System Support for Protocol Boosters",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "Protocol Boosters'' are modules inserted into protocol graphs. They allow the protocol'sbehavior to adapt to its environment. Boosters can mask undesirable properties of links or subnetsin an internetwork. The method permits use of proprietary protocols and supports end-to-endoptimizations.We have implemented Protocol Boosters support in the FreeBSD version of UNIX for Intelarchitecture machines. Our prototype embeds boosters in the 4.4 BSD-Lite Internet Protocol (IP)stack. We have measured the performance of two prototype boosters: an encryption booster (forpassage across insecure subnets) and a compression booster (for passage across bandwidth-impairedsubnets).Our measurement data suggests that OS support for this method can be constructed with lowperformance overhead; execution of the protocol elements dominates any overhead introduced byour implementation. We discuss some lessons learned from the implementation. \tnone\t1997-01-01 00:00:00\nJ Smith\tJ Smith_8\t5159\tjonathan smith\tjonathan m smith\tProfessor of Computer and Information Science University of Pennsylvania\tcis.upenn.edu\tNetworksDistributed SystemsSecurity\tD. Scott Alexander;William Arbaugh;Angelos D. Keromytis;Jonathan M. Smith\tA Secure Active Network Environment Architecture\tIEEE network\tDepartment of Computer and Information Science University of Pennsylvania, Philadelphia, PA, United States\tjms@cis.upenn.edu\tAn active network is a network infrastructure which is programmable on a per-user or even per-packet basis. Increasing the flexibility of such network infrastructures invites new security risks. Coping with these security risks represents the most fundamental contribution of active network research. The security concerns can be divided into those which affect the network as a whole and those which affect individual elements. It is clear that the element problems must be solved first, since the integrity of network-level solutions will be based on trust in the network elements. In this article we describe the architecture and implementation of a secure active network environment (SANE), which we believe provides a basis for implementing secure network-level solutions. We guarantee that a node begins operation in a trusted state with the AEGIS secure bootstrap architecture. We guarantee that the system remains in a trusted state by applying dynamic integrity checks in the network element's runtime system, using a novel naming system, and applying node-to-node authentication when needed. The construction of an extended LAN is discussed.\tIntelligent networks,Authentication,Switches,Access protocols,IP networks,Web and internet services,Proposals,Functional programming,Communication switching,Collaboration\t1997-01-01 00:00:00\nJ Smith\tJ Smith_8\t5160\tjonathan smith\tjonathan m smith\tProfessor of Computer and Information Science University of Pennsylvania\tcis.upenn.edu\tNetworksDistributed SystemsSecurity\tSanjay Udani;Jonathan M. Smith\tThe Power Broker: Intelligent Power Management for Mobile Computers\tTechnical Reports\tDepartment of Computer and Information Science University of Pennsylvania, Philadelphia, PA, United States\tjms@cis.upenn.edu\tTechnology has improved processor speed and memory densities at exponential rates. Rapid advances in portable computing have resulted in laptop computers with performance and features comparable to their desktop counterparts. Battery technology has failed to keep pace, decreasing the usefulness of mobile computers and portable wireless devices. We provide a detailed analysis of power consumption typically encountered in a networked laptop computer and the power management methods currently used. We then show how interaction between independent power consumers results in inefficient use of energy resources and propose the Power Broker as a means for orchestrating energy use with the goal of extending battery life. The Power Broker's resource management algorithms exploit an abundant resource (CPU power) to conserve a scarce one (battery energy).\tnone\t1996-10-01 00:00:00\nJ Smith\tJ Smith_8\t5161\tjonathan smith\tjonathan m smith\tProfessor of Computer and Information Science University of Pennsylvania\tcis.upenn.edu\tNetworksDistributed SystemsSecurity\tKlara Nahrstedt;Jonathan M. Smith\tRevision of QoS Guarantees at the Application/Network Interface\tTechnical Reports\tDepartment of Computer and Information Science University of Pennsylvania, Philadelphia, PA, United States\tjms@cis.upenn.edu\tConnection management based on Quality of Service (QoS) offers opportunities for better resource allocation in networks providing service classes. Negotiation\" describes the process of cooperatively configuring application and network resources for an application's use. Complex and long-running applications can reduce the inefficiencies of static allocations by splitting resource use into \"eras\" bounded by renegotiation of QoS parameters. Renegotiation can be driven by either the application or the network in order to best match application and network dynamics. A key element in this process is a translation between differing perspectives on QoS maintained by applications and network service provision. We model translation with an entity called a \"broker\".",
+        "email": "",
+        "conf": "Technical Reports",
+        "coauthors": [
+            "A. Mallet",
+            "J. D. Chung",
+            "Jonathan M. Smith"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5127,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "Scalable Security Policy Mechanisms",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "The design principle of restricting local autonomy only where necessary for global robustness has led to a scalable Internet. Unfortunately, this scalability and capacity for distributed control has not been achieved in the mechanisms for specifying and enforcing security policies. The STRONGMAN system described in this paper demonstrates three new approaches to providing efficient local policy enforcement complying with global security policies. First is the use of a compliance checker to provide great local autonomy within the constraints of a global security policy. Second is a mechanism to compose policy rules into a coherent enforceable set, e.g., at the boundaries of two locally autonomous application domains. Third is the “lazy instantiation” of policies to reduce the amount of state enforcement points need to maintain. We demonstrate the use of these approaches in the design, implementation and measurements of a distributed firewall.",
+        "email": "jms@cis.upenn.edu",
+        "conf": "University of Pennsylvania, Technical Rept",
+        "coauthors": [
+            "Angelos D. Keromytis",
+            "Sotiris Ioannidis",
+            "Michael B. Greenwald",
+            "Jonathan M. Smith"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5103,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "MOSAIC: Declarative Platform for Dynamic Overlay Composition",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "Overlay networks create new networking services using nodes that communicate using pre-existing networks. They are often optimized for specific applications and targeted at niche vertical domains, but lack interoperability with which their functionalities can be shared. Mosaic is a declarative platform for constructing new overlay networks from multiple existing overlays, each possessing a subset of the desired new network’s characteristics. This paper focuses on the design and implementation of Mosaic: composition and deployment of control and/or data plane functions of different overlay networks, dynamic compositions of overlay networks to meet changing application needs and network conditions, and seamless support for legacy applications. Mosaic overlays are specified using Mozlog, a new declarative language for expressing overlay properties independently from their particular implementation or underlying network. Mosaic is validated experimentally using compositions specified in Mozlog in order to create new overlay networks with compositions of their functions: the i3 indirection overlay that supports mobility, the resilient overlay network (RON) overlay for robust routing, and the Chord distributed hash table for scalable lookups. Mosaic uses runtime composition to simultaneously deliver application-aware mobility, NAT traversal and reliability. We further demonstrate Mosaic’s dynamic composition capabilities by Chord switching its underlay from IP to RON at runtime. Mosaic’s benefits are obtained at a low performance cost, as demonstrated by measurements on both a local cluster environment and the PlanetLab global testbed.",
+        "email": "",
+        "conf": "Computer Networks",
+        "coauthors": [
+            "Yaxian Mao",
+            "Boon Thau Loo",
+            "Zachary G. Ives",
+            "Jonathan M. Smith"
+        ],
+        "keywords": "Protocol composition,Declarative language"
+    },
+    {
+        "id": 5166,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "Striping Within the Network Subsystem",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "Striping is a general architectural technique for the, transparent aggregation of multiple, functionally similar, resources to obtain higher performance. This article establishes a precise terminology for discussing striping and striping techniques, differentiates striping from the more general architectural technique of multiplexing, and outlines the major uses and trade-offs associated with the technique within the network subsystem. It presents a set of criteria for evaluating network striping and a case study of striping within a typical high performance network stack consisting of TCP/IP over ATM/SONET. IT also includes a set of \"rules of thumb\" for the inclusion of striping within the network subsystem. An appendix describes the trace driven simulation used to support the case study.",
+        "email": "",
+        "conf": "IEEE Network",
+        "coauthors": [
+            "C.B.S. Traw",
+            "Jonathan M. Smith"
+        ],
+        "keywords": "Demultiplexing,Terminology,Computer architecture,Computer networks,High performance computing,Information science,System performance,TCPIP,Pipeline processing,WDM networks"
+    },
+    {
+        "id": 5106,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "Evading Cellular Data Monitoring with Human Movement Networks",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "Cellular networks are centrally administered, enabling service providers and their governments to conduct system-wide monitoring and censorship of mobile communication. This paper presents HUMANETS, a fully decentralized, smartphone-to-smartphone (and hence human-to-human) message passing scheme that permits unmonitored message communication even when all cellular traffic is inspected. HUMANET message routing protocols exploit human mobility patterns to significantly increase communication efficiency while limiting the exposure of messages to mobile service providers. Initial results from tracedriven simulation show that 85 % of messages reach their intended destinations while using orders of magnitude less network capacity than naïve epidemic flooding techniques.",
+        "email": "",
+        "conf": "HotSec",
+        "coauthors": [
+            "Adam J Aviv",
+            "Micah Sherr",
+            "Matt Blaze",
+            "Jonathan M. Smith"
+        ],
+        "keywords": "human movement network,    cellular data monitoring,    service provider,    intended destination,    initial result,    communication efficiency,    mobile communication,    network capacity,    humanet message,    cellular traffic,    cellular network,   tracedriven simulation show,    na ve epidemic flooding technique,    protocol exploit human mobility pattern,    unmonitored message communication,    system-wide monitoring   "
+    },
+    {
+        "id": 5150,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "The SwitchWare Active Network Architecture",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE Network",
+        "coauthors": [
+            "D. Scott Alexander",
+            "William Arbaugh",
+            "Michael Hicks",
+            "Jonathan M. Smith"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5112,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "The case for a unified extensible data-centric mobility infrastructure",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "We present a unified, extensible data-centric mobility infrastructure based on declarative networks and composable distributed views over network, router, and host state. Declarative networks are a recent innovation for building extensible network architectures using declarative languages. The data-centric approach both improves flexibility over existing solutions, and is extensible to meet the demands of future mobile applications and services. We demonstrate the flexibility of distributed queries used in declarative networks by specifying and implementing mobile services, e.g., overlay-based solutions for host mobility, customizable routing, service discovery and composition, and location-based services. A prototype based on the P2 declarative networking system has been implemented, with which we evaluated two overlay-based mobility schemes (ROAM and DHARMA).",
+        "email": "",
+        "conf": "International workshop on Mobility in the evolving internet architecture",
+        "coauthors": [
+            "Yun Mao",
+            "Zachary G. Ives",
+            "Boon Thau Loo",
+            "Jonathan M. Smith"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5132,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "DHCP++: Applying an efficient implementation method for fail-stop cryptographic protocols",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "The DHCP protocol is used by hosts to dynamically allocate an IP address and con_x000C_gure client hosts. The protocol greatly eases the administration of an IP subnetwork and is thus widely used. The basic approach of the DHCP protocol is for a client to broadcast a request for an address, and for one or more servers to respond with addresses. This creates signi_x000C_cant opportunities for security risks due to active attackers. We have designed a new, e_x000E_cient implementation method for the fail-stop cryptographic protocols originated by Gong and Syverson. The implementation method uses cryptographic hashes of the state of the sender and receiver and the exchanged messages to detect if any deviation from expected behavior has taken place. If it has, an attack is assumed and the protocol ceases execution. We present a proof outline of protocol security using our method. We have applied our method to DHCP, resulting in DHCP++. DHCP++ uses our fail-stop implementation technique to prevent any attacks that could otherwise violate DHCP's security assumptions. The resulting protocol operates entirely within the context of DHCP. The paper analyzes the threats eliminated by this enhancement, and measurements against DHCP show that the incremental performance costs are minimal.",
+        "email": "",
+        "conf": "Global Internet (GlobeCom)",
+        "coauthors": [
+            "William Arbaugh",
+            "Angelos D. Keromytis",
+            "Jonathan M. Smith"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5190,
+        "label": 102,
+        "author": "jonathan smith",
+        "title": "School Motivation and Psychosocial Adaptation of High School Students in Cycle Extension Classroom",
+        "organization": "Professor Department of Preschool and Elementary Education UniversitÃƒÂ© de Sherbrooke",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Jonathan Smith"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5156,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "A survey of active network research",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE Communications Magazine",
+        "coauthors": [
+            "David L. Tennenhouse",
+            "Jonathan M. Smith",
+            "W. David Sincoskie",
+            "Gary Minden"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5153,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "On-the-Fly Programmable Hardware for Networks",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "Ongoing research in adaptive protocols and active networks has presumed that flexibility is offered exclusively through software systems, and the performance implications have generated considerable skepticism. The programmable protocol processing pipeline (P4) exploits the dynamic reconfigurability of RAM based field programmable gate arrays (FPGAs) to provide both hardware performance and dynamic functionality to network components. We use forward error correction (FEC) as an example of a protocol processing function which we insert and remove from the protocol stack on an as-needed basis. Our measurements show that the P4 is able to process the data stream at OC-3 (155 Mbps) link rate, and consequently improve the TCP performance in noisy environments.",
+        "email": "jms@cis.upenn.edu",
+        "conf": "IEEE GLOBECOM",
+        "coauthors": [
+            "Ilija Hadzic",
+            "Jonathan M. Smith",
+            "W S Marcus"
+        ],
+        "keywords": "Hardware,Protocols,Pipelines,Field programmable gate arrays,Forward error correction,Working environment noise,Programmable logic devices,Space exploration,Programmable logic arrays,Prototypes"
+    },
+    {
+        "id": 5110,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "Decentralized access control in distributed file systems",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "The Internet enables global sharing of data across organizational boundaries. Distributed file systems facilitate data sharing in the form of remote file access. However, traditional access control mechanisms used in distributed file systems are intended for machines under common administrative control, and rely on maintaining a centralized database of user identities. They fail to scale to a large user base distributed across multiple organizations. We provide a survey of decentralized access control mechanisms in distributed file systems intended for large scale, in both administrative domains and users. We identify essential properties of such access control mechanisms. We analyze both popular production and experimental distributed file systems in the context of our survey.",
+        "email": "",
+        "conf": "ACM Computing Surveys",
+        "coauthors": [
+            "Stefan Miltchev",
+            "Jonathan M. Smith",
+            "Vassilis Prevelakis",
+            "Angelos Keromytis",
+            "Sotiris Ioannidis"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5128,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "Automated Recovery in a Secure Bootstrap Process",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "Integrity is rarely a valid presupposition in much systems architecture, yet it is necessary to make any security guarantees. To address this problem, we have designed a secure bootstrap process, AEGIS, which presumes a minimal amount of integrity, and which we have prototyped on the Intel x86 architecture. The basic principle is sequencing the bootstrap process as a chain of progressively higher levels of abstraction, and requiring each layer to check a digital signature of the next layer before control is passed to it. A major design decision is the consequence of a failed integrity check. A simplistic strategy is to simply halt the bootstrap process. However, as we show in this paper, the AEGIS bootstrap process can be augmented with automated recovery procedures which preserve the security properties of AEGIS under the additional assumption of the availability of a trusted repository. We describe a variety of means by which such a repository can be implemented, and focus our attention on a network accessible repository. The recovery process is easily generalized to applications other than AEGIS, such as standardized desktop management and secure automated recovery of network elements such as routers or \"Active Network\" elements.",
+        "email": "jms@cis.upenn.edu",
+        "conf": "Technical Reports",
+        "coauthors": [
+            "William Arbaugh",
+            "Angelos D. Keromytis",
+            "David J. Farber",
+            "Jonathan M. Smith"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5118,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "Active Networking: One View of the Past Present and Future",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "All distributed computing systems face the architectural question of the location (and nature) of programmability in the telecommunications networks, computers, and other peripheral devices comprising them. The perspective of this paper is that network elements should be as programmable as possible, to enable the most flexible distributed computing systems. There has been a persistent confluence among operating systems, programming languages, networking and distributed systems. We demonstrate how these interactions led to what is called \"active networking\", and in the spirit of \"vox audita perit, littera scripta manet\" (the spoken word perishes, but the written word remains), include an account of how it was made to happen. Lessons are drawn both from the broader research agenda, and the specific goals pursued in the SwitchWare project. We speculate on likely futures for active networking.",
+        "email": "",
+        "conf": "IEEE Transactions on Systems Man and Cybernetics Part C (Applications and Reviews)",
+        "coauthors": [
+            "Jonathan M. Smith",
+            "Scott M. Nettles"
+        ],
+        "keywords": "communication system software, communication systems, programming operating systems, protocols"
+    },
+    {
+        "id": 5183,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "The RB Language",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "Typical algorithms for distributed or parallel computations are cooperative, meaning that the sequential component is broken down into cooperating pieces, which are distributed across available hardware. An approach which has recently gained some attention is competitive processing, where several versions of a sequential program are distributed across available processors to gain performance from algorithmic diversity. There is also potential for fault tolerance from available hardware by executing the sequential versions, called alternatives, on a distributed configuration. Schemes for implementing competitive concurrent processing have been described in the literature, but there is little implementation experience. RB is a practical step towards gaining such experience. RB is a programming language for specifying alternative methods of performing a computation, where at most one of the results of the alternatives is used. Our prototype implementation uses a combination of a language preprocessor for C and a runtime library to provide the desired semantics. Using other base programming languages, e.g., Ada, or other methods of managing alternatives is straightforward.",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Jonathan M. Smith",
+            "Gerald Maguire Q Jr"
+        ],
+        "keywords": "Distributed Execution, Parallel Processing, Programming Languages."
+    },
+    {
+        "id": 5173,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "The AURORA gigabit testbed",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "AURORA is one of five U.S. networking testbeds charged with exploring applications of, and technologies necessary for, networks operating at gigabit per second or higher bandwidths. The emphasis of the AURORA testbed, distinct from the other four testbeds, BLANCA, CASA, NECTAR and VISTANET, is research into the supporting technologies for gigabit networking. Like the other testbeds, AURORA itself is an experiment in collaboration, where government initiative (in the form of the Corporation for National Research Initiatives, which is funded by DARPA and the National Science Foundation) has spurred interaction among pre-existing centers of excellence in industry, academia, and government. AURORA has been charged with research into networking technologies that will underpin future high-speed networks. This paper provides an overview of the goals and methodologies employed in AURORA, and points to some preliminary results from our first year of research, ranging from analytic results to experimental prototype hardware. This paper enunciates our targets, which include new software architectures, network abstractions, and hardware technologies, as well as applications for our work.",
+        "email": "",
+        "conf": "Computer Networks and ISDN Systems",
+        "coauthors": [
+            "David D. Clark",
+            "Bruce S. Davie",
+            "David J. Farber",
+            "Inder S Gopal",
+            "Bharath K Kadaba",
+            "W David Sincoskie",
+            "Jonathan M Smith",
+            "David L. Tennenhouse"
+        ],
+        "keywords": "computer networks,gigabit network,ATM,packet switching,protocols,multimedia communication,distributed shared memory"
+    },
+    {
+        "id": 5164,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "SwitchWare: Accelerating Network Evolution (White Paper)",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "We propose the development of a set of software technologies (\"SwitchWare\") which will enable rapid development and deployment of new network services. The key insight is that by making the basic network service selectable on a per user (or even per packet) basis, the need for formal standardization is eliminated. Additionally, by making the basic network service programmable, the deployment times, today constrained by capital funding limitations, are tremendously reduced (to the order of software distribution times). Finally, by constructing an advanced, robust programming environment, even the service development time can be reduced.A SwitchWare switch consists of input and output ports controlled by a software-programmable element; programs are contained in sequences of messages sent to the SwitchWare switch's input ports, which interpret the messages as programs. We call these \"Switchlets\". This accelerates the pace of network evolution, as evolving user needs can be immediately reflected in the network infrastructure. Immediate reconfigurability enhances the adaptability of the network infrastructure in the face of unexpected situations. We call a network built from SwitchWare switches an active network.",
+        "email": "",
+        "conf": "Technical Reports",
+        "coauthors": [
+            "Jonathan M. Smith",
+            "David J. Farber",
+            "Carl A. Gunter",
+            "Scott M Nettles",
+            "D C Feldmeier",
+            "W. David Sincoskie"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5120,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "Managing Access Control in Large Scale Heterogeneous Networks",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "The design principle of maximizing local autonomy except when it conflicts with global robustness has led to a scalable Internet with enormous heterogeneity of both applications and infrastructure. These properties have not been achieved in the mechanisms for specifying and enforcing security policies. The STRONGMAN (for Scalable TRust Of Next Generation MANagement) system [9], [10] offers three new approaches to scalability, applying the principle of local policy enforcement complying with global security policies. First is the use of a compliance checker to provide great local autonomy within the constraints of a global security policy. Second is a mechanism to compose policy rules into a coherent enforceable set, e.g., at the boundaries of two locally autonomous application domains. Third is the \"lazy instantiation\" of policies to reduce the amount of state that enforcement points need to maintain. In this paper, we focus on the issues of scalability and heterogeneity.",
+        "email": "jms@cis.upenn.edu",
+        "conf": "",
+        "coauthors": [
+            "Angelos D. Keromytis",
+            "Kostas Anagnostakis",
+            "Sotiris Ioannidis",
+            "Michael B Greenwald",
+            "Jonathan M. Smith"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5151,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "A Secure Active Network Environment architecture: Realization in SwitchWare",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE Network",
+        "coauthors": [
+            "D.S. Alexander",
+            "William Arbaugh",
+            "A.D. Keromytis",
+            "Jonathan M. Smith"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5148,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "Protocol boosters: Applying programmability to network infrastructures",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE Communications Magazine",
+        "coauthors": [
+            "William S. Marcus",
+            "Ilija Hadzic",
+            "Anthony J. McAuley",
+            "Jonathan M. Smith"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5180,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "System Support for \"Multiple Worlds\"",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "Concurrently computing alternative solutions to a problem can be used as a method to improve response time. In order to maintain internal consistency despite differences caused by alternative solution methods, \"Multiple Worlds\" are created. This paper examines the operating system requirements posed by such a method. Problems include (1) side-effects and (2) combinatorial explosion in the amount of state which must be preserved. We solve these by process management and an application of \"copy-on-write\" virtual memory management. Side effects resulting from interprocess communication are handled by a specialized message layer which interacts with process management.",
+        "email": "",
+        "conf": "Columbia University, Department of Computer Sceince",
+        "coauthors": [
+            "Jonathan M. Smith",
+            "Maguire Gerald"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5172,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "Implementation and Performance of An ATM Host Interface for Workstations",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "This brief paper outlines our strategies for providing a hardware and software solution to interfacing hosts to high-performance networks. Our prototype implementation connects an IBM RS/6000 to a SONET-based ATM network carrying data at the OC-3c rate of 155Mbps. We have measured application-to-network data rates of up to 130 Mbps.",
+        "email": "",
+        "conf": "IEEE Workshop on the Architecture and Implementation of High Performance Communication Subsystems",
+        "coauthors": [
+            "C. Brendan S Traw",
+            "Jonathan M. Smith"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5105,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "Smudge Attacks on Smartphone Touch Screens",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "Touch screens are an increasingly common feature on personal computing devices, especially smartphones, where size and user interface advantages accrue from consolidating multiple hardware components (keyboard, number pad, etc.) into a single software definable user interface. Oily residues, or smudges, on the touch screen surface, are one side effect of touches from which frequently used patterns such as a graphical password might be inferred. In this paper we examine the feasibility of such smudge attacks on touch screens for smartphones, and focus our analysis on the Android password pattern. We first investigate the conditions (e.g., lighting and camera orientation) under which smudges are easily extracted. In the vast majority of settings, partial or complete patterns are easily retrieved. We also emulate usage situations that interfere with pattern identification, and show that pattern smudges continue to be recognizable. Finally, we provide a preliminary analysis of applying the information learned in a smudge attack to guessing an Android password pattern",
+        "email": "jms@cis.upenn.edu",
+        "conf": "Workshop on Programming Languages and Operating Systems",
+        "coauthors": [
+            "Adam J Aviv",
+            "Katherine Gibson",
+            "Evan Mossop",
+            "Jonathan M. Smith"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5147,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "Safety and security of programmable network infrastructures",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE Communications Magazine",
+        "coauthors": [
+            "S. Alexander",
+            "William Arbaugh",
+            "Angelos D. Keromytis",
+            "Jonathan M. Smith"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5102,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "MOSAIC: Multiple Overlay Selection and Intelligent Composition",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "Today, the most effective mechanism for remedying shortcomings of the Internet, or augmenting it with new networking capabilities, is to develop and deploy a new overlay network. This leads to the problem of multiple networking infrastructures, each with independent advantages, and each developed in isolation. A greatly preferable solution is to have a single infrastructure under which new overlays can be developed, deployed, selected, and combined according to application and administrator needs. MOSAIC is an extensible infrastructure that enables not only the specification of new overlay networks, but also dynamic selection and composition of such overlays. MOSAIC provides declarative networking: it uses a unified declarative language (Mozlog) and runtime system to enable specification of new overlay networks, as well as their composition in both the control and data planes. Importantly, it permits dynamic compositions with both existing overlay networks and legacy applications. This paper demonstrates the dynamic selection and composition capabilities of MOSAIC with a variety of declarative overlays: an indirection overlay that supports mobility (i3), a resilient overlay (RON), and a transport-layer proxy. Using a remarkably concise specification, MOSAIC provides the benefits of runtime composition to simultaneously deliver application-aware mobility, NAT traversal and reliability with low performance overhead, demonstrated with deployment and measurement on both a local cluster and the PlanetLab testbed.",
+        "email": "jms@cis.upenn.edu",
+        "conf": "Technical Reports",
+        "coauthors": [
+            "Yun Mao",
+            "Thau Boon",
+            "Zachary G Loo",
+            "Jonathan M. Smith"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5145,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "VENUS: A Virtual Environment Network Using Satellites",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "Virtual environment (VE) designs have evolved from text-based to immersive graphical systems. The next logical step of this evolution is to have a fully immersive environment in which thousands of widely distributed users will be able to move around and interact. This requires a VE architecture that can scale well for a large number of participants while providing the necessary support for quality of service, security and flexibility. Current VE architectures are unable to fully meet these requirements and a new network/protocol architecture is needed. The VENUS approach addresses these problems by creating a network architecture which is scalable and flexible. We define a new architecture consisting of a transmitonly satellite/server and bi-directional links which will be capable of sustaining a wide-area virtual environment. We then offer the preliminary results of our experiments.",
+        "email": "jms@cis.upenn.edu",
+        "conf": "Technical Reports",
+        "coauthors": [
+            "Sanjay Udani",
+            "Jord Sonneveld",
+            "Jonathan M. Smith",
+            "David J. Farber"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5186,
+        "label": 102,
+        "author": "jonathan smith",
+        "title": "Motivation of students in a situation of failure having experienced an alternative measure to repetition",
+        "organization": "Professor Department of Preschool and Elementary Education UniversitÃƒÂ© de Sherbrooke",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Jonathan Smith",
+            "Roch Chouinard",
+            "Julie Bergeron",
+            "Jerome St-Amand"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5133,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "Creating Efficient Fail-Stop Cryptographic Protocols",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "Fail-stop cryptographic protocols are characterized by the property that they terminate when an active attack is detected, rather than releasing information valuable to the attacker. Since such a construction forces attacks (other than denial-of-service) to be passive, the protocol designer's concerns can be restricted to passive attacks and malicious insiders. A significant advantage of such protocols is that by stopping and not attempting to recover, proofs about protocol behavior and security properties are greatly simplified. This paper presents a generic method of converting any existing (cryptographic) protocol into a fail-stop one, or designing new protocols to be fail-stop. Our technique uses cryptographic hashes to validate sequences of messages by reflecting message dependencies in the hash values. An informal proof of correctness is given. We apply it to an early version of Netscape's Secure Socket Layer (SSL) cryptographic protocol. We also suggest a possible application to TCP streams as a high-performance alternative to the per-packet authentication of IPSEC. The modified protocols require small increases in message size and the number of cryptographic operations relative to the initial non-fail-stop protocols.",
+        "email": "jms@cis.upenn.edu",
+        "conf": "echnical Reports (CIS)",
+        "coauthors": [
+            "Angelos D. Keromytis",
+            "Jonathan M. Smith"
+        ],
+        "keywords": "network protocols , communication systems , computer communications , cryptography , computer network security , internet , eavesdropping , electronic mail"
+    },
+    {
+        "id": 5171,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "An Overview of the AURORA Gigabit Testbed",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "AURORA is one of five US testbeds charged with exploring applications of, and technologies necessary for, networks operating at gigabit per second or higher bandwidths. The authors provide an overview of the goals and methodologies employed in AURORA and report preliminary results from the first year of research. AURORA is an experiment in collaboration, where government support has spurred interaction among centers of excellence in industry, academia, and government. The emphasis of the AURORA testbed is research into the supporting technologies for gigabit networking. The targets include new software architectures, network abstractions, hardware technologies, and applications. The AURORA testbed will provide a platform in which researchers can explore business and scientific applications of gigabit networks, while evolving the network architecture to meet the needs of these emerging applications.",
+        "email": "",
+        "conf": "IEEE INFOCOM'92: The Conference on Computer Communications",
+        "coauthors": [
+            "David D Clark",
+            "Bruce S Davie",
+            "David J. Farber",
+            "Inder S Gopal",
+            "Bharath K Kadaba",
+            "W David Sincoskie",
+            "Jonathan M Smith",
+            "David L. Tennenhouse"
+        ],
+        "keywords": "Testing,Switches,Asynchronous transfer mode,Communication switching,Bandwidth,Hardware,Communication industry,Delay,Collaborative work,Government"
+    },
+    {
+        "id": 5121,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "Balancing performance and flexibility with hardware support for network architectures",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "The goals of performance and flexibility are often at odds in the design of network systems. The tension is common enough to justify an architectural solution, rather than a set of context-specific solutions. The Programmable Protocol Processing Pipeline (P4) design uses programmable hardware to selectively accelerate protocol processing functions. A set of field-programmable gate arrays (FPGAs) and an associated library of network processing modules implemented in hardware are augmented with software support for function selection and composition, and applied to processing-intensive portions of a user-programmable protocol stack. The system is sufficiently flexible to support protocol stacks that are dynamically altered in reaction to changing network conditions or user needs.The P4 can be transparently inserted into a conventional protocol architecture, such as that of TCP/IP. This experimental demonstration shows that the P4's programmability can be used to significantly improve the performance of TCP/IP under operating conditions where the protocol would perform poorly without augmentation. Generalizing from these experiments, the P4 is shown to have many applications as an open platform for implementing adaptive and programmable networks, and has illustrated new security issues that arise in FPGA-based architectures.The P4 and closely-related systems, such as network processors, are attractive architectural solutions to balancing performance and flexibility.",
+        "email": "",
+        "conf": "ACM Transactions on Computer Systems",
+        "coauthors": [
+            "Ilija Hadzic",
+            "Jonathan M. Smith"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5117,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "Towards an Economic Analysis of Trusted Systems",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "Trusted-platform initiatives such as Microsoft’s Next-Generation Secure-Computing Base (NGSCB) and the industry-wide Trusted-Computing Group (TCG) effort are the subject of significant research and development now. The goal of these initiatives is to change a fundamental fact about networked, general-purpose computers that is often viewed as a barrier to security: Once data are sent from one machine to another, the sender loses control over them. Trusted-platform designs [AFS97] offer hardware-based, cryptographic support for proofs that a potential receiver’s machine is running an approved software stack. By making such proofs prerequisites for the transfer of sensitive data, owners of these data can ensure that only authorized applications will be run and only authorized actions will be taken by users. The best publicized motivation for this type of “remote control” of networked",
+        "email": "jms@cis.upenn.edu",
+        "conf": "Economics and Information Security, College Park",
+        "coauthors": [
+            "Dirk Bergemann",
+            "Joan Feigenbaum",
+            "Scott Shenker",
+            "Jonathan M. Smith"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5116,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "DHARMA: Distributed Home Agent for Robust Mobile Access",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "Mobile wireless devices have intermittent connectivity, sometimes intentional. This is a problem for conventional Mobile IP, beyond its well-known routing inefficiencies and deployment issues. DHARMA selects a location-optimized instance from a distributed set of home agents to minimize routing overheads; set management and optimization are done using the PlanetLab overlay network. DHARMA's session support overcomes both transitions between home agent instances and intermittent connectivity. Cross-layer information sharing between the session layer and the overlay network are used to exploit multiple wireless links when available. The DHARMA prototype supports intermittently connected legacy TCP applications in a variety of scenarios and is largely portable across host operating systems. Experiments with DHARMA deployed on more than 200 PlanetLab nodes demonstrate routing performance consistently better than that for best-case Mobile IP.",
+        "email": "",
+        "conf": "EEE Computer and Communications Societies",
+        "coauthors": [
+            "Yun Mao",
+            "Bjrn Knutsson",
+            "Honghui Lu",
+            "Jonathan M. Smith"
+        ],
+        "keywords": "Robustness,Routing,DH-HEMTs,Circuits,Portable computers,Personal digital assistants,TCPIP,Internet,Delay,Space exploration"
+    },
+    {
+        "id": 5165,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "Giving Applications Access to Gb/s Networking",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "Virtual environment (VE) designs have evolved from text-based to immersive graphical systems. The next logical step of this evolution is to have a fully immersive environment in which thousands of widely distributed users will be able to move around and i",
+        "email": "",
+        "conf": "IEEE Network",
+        "coauthors": [
+            "Jonathan M. Smith",
+            "C. Brendan S. Traw"
+        ],
+        "keywords": "Protocols,Hardware,Bandwidth,Computer architecture,Asynchronous transfer mode,Testing,Workstations,Design optimization,Memory management,Switches"
+    },
+    {
+        "id": 5101,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "PUMP: a programmable unit for metadata processing",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "We introduce the Programmable Unit for Metadata Processing (PUMP), a novel software-hardware element that allows flexible computation with uninterpreted metadata alongside the main computation with modest impact on runtime performance (typically 10--40% for single policies, compared to metadata-free computation on 28 SPEC CPU2006 C, C++, and Fortran programs). While a host of prior work has illustrated the value of ad hoc metadata processing for specific policies, we introduce an architectural model for extensible, programmable metadata processing that can handle arbitrary metadata and arbitrary sets of software-defined rules in the spirit of the time-honored 0-1-∞ rule. Our results show that we can match or exceed the performance of dedicated hardware solutions that use metadata to enforce a single policy, while adding the ability to enforce multiple policies simultaneously and achieving flexibility comparable to software solutions for metadata processing. We demonstrate the PUMP by using it to support four diverse safety and security policies---spatial and temporal memory safety, code and data taint tracking, control-flow integrity including return-oriented-programming protection, and instruction/data separation---and quantify the performance they achieve, both singly and in combination.",
+        "email": "",
+        "conf": "Hardware and Architectural Support for Security and Privacy",
+        "coauthors": [
+            "Udit Dhawan",
+            "Nikos Vasilakis",
+            "Raphael Rubin",
+            "Siviu Chiricescu",
+            "Jonathan M Smith",
+            "Thomas F Knight",
+            "Benjamin C Pierce",
+            "Andre DeHon"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5107,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "Differential Privacy for Collaborative Security",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "Fighting global security threats with only a local view is inherently difficult. Internet network operators need to fight global phenomena such as botnets, but they are hampered by the fact that operators can observe only the traffic in their local domains. We propose a collaborative approach to this problem, in which operators share aggregate information about the traffic in their respective domains through an automated query mechanism. We argue that existing work on differential privacy and type systems can be leveraged to build a programmable query mechanism that can express a wide range of queries while limiting what can be learned about individual customers. We report on our progress towards building such a mechanism, and we discuss opportunities and challenges of the collaborative security approach.",
+        "email": "",
+        "conf": "Third European Workshop on System Security",
+        "coauthors": [
+            "Jason Reed",
+            "Adam Aviv",
+            "Daniel Wagner",
+            "Andreas Haeberlen",
+            "Benjamin C Pierce",
+            "Jonathan M. Smith"
+        ],
+        "keywords": "Differential Privacy, Collaborative Security, Botnet"
+    },
+    {
+        "id": 5125,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "The STRONGMAN Architecture",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "The design principle of restricting local autonomy only where necessary for global robustness has led to a scalable Internet. Unfortunately, this scalability and capacity for distributed control has not been achieved in the mechanisms for specifying and enforcing security policies. This shortcoming must be overcome if end-to-end security mechanisms (such as IPsec or TLS) are to ever replace solutions of short-term convenience such as firewalls. The STRONGMAN (for Scalable Trust Of Next Generation Management) system offers three new approaches to scalability, applying the principle of local policy enforcement complying with global security policies. First is the use of a compliance checker to provide great local autonomy within the constraints of a global security policy. Second is a mechanism to compose policy rules into a coherent enforceable set, e.g. at the boundaries of two locally autonomous application domains. Third is the \"lazy instantiation\" of policies to reduce the amount of state that enforcement points need to maintain. We demonstrate the use of these approaches in the design, implementation, and measurements of a distributed firewall. Our experiments show that, under certain circumstances, performance can improve over the traditional-firewall approach.",
+        "email": "",
+        "conf": "DARPA Information Survivability Conference and Exposition",
+        "coauthors": [
+            "Angelos D. Keromytis",
+            "Sotiris Ioannidis",
+            "Michael B. Greenwald",
+            "Jonathan M. Smith"
+        ],
+        "keywords": "Security,Scalability,Robustness,Internet,Distributed control"
+    },
+    {
+        "id": 5179,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "Implementing Remote fork() with Checkpoint-Restart",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "We describe a method for implementing checkpoints on a UNIX system. The method requires no specialoperating system support. The checkpoints (a term we use both for the act of saving state and the result)are created in the file system name space. Availability in the name space allows facilities to duplicate andtransfer files to be applied; in this case, we get replicated processes and process migration rather naturally.We describe the process migration implementation.Our process migration implementation was easily optimized to achieve an execution speed improvement ofgreater than 7 times over our first implementation; this was accomplished by a combination of a faster filetransfer mechanism and a change in the underlying protocol. We have incorporated the mechanism into alibrary routine, rfork(). We conclude with a discussion of advantages, limitations and applications of ourapproach.",
+        "email": "jms@close.cs.columbia.edu",
+        "conf": "IEEE Technical Committee on Operating Systems Newsletter",
+        "coauthors": [
+            "Jonathan M. Smith",
+            "John Ioannidis"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5178,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "Measured response times for page-sized fetches on a network",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "Previous work has examined the response times associated with disk accesses and the response time associated with various memory access operations. Here, we discuss the response time behavior of access requests for pagesized objects which are made using a network connection. We feel that future architectures must include networked resources as a component of the storage hierarchy; such performance measurements will help architects place these resources intelligently.",
+        "email": "",
+        "conf": "ACM SIGARCH Computer Architecture News",
+        "coauthors": [
+            "Jonathan M. Smith",
+            "G Q Maguire"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5104,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "Preliminary Design of the SAFE Platform",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "Safe is a clean-slate design for a secure host architecture. It integrates advances in programming languages, operating systems, and hardware and incorporates formal methods at every step. Though the project is still at an early stage, we have assembled a set of basic architectural choices that we believe will yield a high-assurance system. We sketch the current state of the design and discuss several of these choices.",
+        "email": "",
+        "conf": "Programming Languages and Operating Systems",
+        "coauthors": [
+            "Andre Dehon",
+            "Ben Karel",
+            "Tom Knight",
+            "Gregory Malecha",
+            "Benoit Montagu",
+            "Robin Morisset",
+            "Greg Morrisett",
+            "Benjamin C Pierce",
+            "Randy Pollack",
+            "Sumit Ray",
+            "Olin Shivers",
+            "Jonathan M. Smith",
+            "Gregory Sullivan"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5168,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "End-Point Resource Admission Control for Remote Control Multimedia Applications",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "One goal in certain classes of networked multimedia applications, such as full-feedback remote control, is to provide end-to-end guarantees. To achieve guarantees, all resources along the path(s) between the resource(s) and sink(s) must be controlled. Resource availability is checked by the admission service during the call establishment phase. Current admission services control only network resources such as bandwidth and network delay. To provide end-to-end guarantees, the networked applications also need operation system resources and I/O devices at the endpoints. All such resources must be included in a robust admission process. By integrating the end-point resources, we observed several dependencies which force changes in admission algorithms designed and implemented for control of a single resource. We have designed and implemented the multi-level admission service within our Omega architecture which controls the availability of end-point resources needed in remote control multimedia applications such as telerobotics.",
+        "email": "",
+        "conf": "Technical Reports",
+        "coauthors": [
+            "Klara Nahrstedt",
+            "Jonathan M. Smith"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5100,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "Privacy-Aware Message Exchanges for HumaNets",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "This paper describes a novel privacy-aware geographic routing protocol for Human Movement Networks (HumaNets). HumaNets are fully decentralized opportunistic store-and-forward, delay-tolerant networks composed of smartphone devices. Such networks allow participants to exchange messages phone-to-phone and have applications where traditional infrastructure is unavailable (e.g., during a disaster) and in totalitarian states where cellular network monitoring and censorship are employed. Our protocol leverages self-determined location profiles of smartphone operators’ movements as a predictor of future locations, enabling efficient geographic routing over metropolitan-wide areas. Since these profiles contain sensitive information about participants’ prior movements, our routing protocol is designed to minimize the exposure of sensitive information during a message exchange. We demonstrate via simulation over both synthetic and real-world trace data that our protocol is highly scalable, leaks little information, and balances privacy and efficiency: messages are approximately 20% more likely to be delivered than similar random walk protocols, and the median latency is comparable to epidemic protocols while requiring an order of magnitude fewer messages.",
+        "email": "jms@cis.upenn.edu",
+        "conf": "Computer Communications",
+        "coauthors": [
+            "Adam J. Aviv",
+            "Matt Blaze",
+            "Micah Sherr",
+            "Jonathan M. Smith"
+        ],
+        "keywords": "Opportunistic networking,Privacy,Geographic routing,Location privacy,Anonymous communication"
+    },
+    {
+        "id": 5144,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "Secure quality of service handling: SQoSH",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE Communications Magazine",
+        "coauthors": [
+            "D.S. Alexander",
+            "William Arbaugh",
+            "A.D. Keromytis",
+            "Jonathan M. Smith"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5108,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "Network Infrastructure Configuration",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "",
+        "email": "",
+        "conf": "IEEE Journal on Selected Areas in Communications",
+        "coauthors": [
+            "Paul Anderson",
+            "Carl A. Gunter",
+            "Charles R. Kalmanek",
+            "Sanjai Narain",
+            "Jonathan M Smith",
+            "Rajesh Talpade",
+            "Geoffrey G. Xie"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5181,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "Process Migration: Effects on Scientific Computation",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "This report describes the notion of process migration. and points out certain vulnerabilities to architectural assumptions.Computationally intensive processes, typified by scientific computations, are among the best candidates for migration. In architecturally heterogeneous systems, these processes face particular problems due to their dependence on architectural features such as \"machine precision\". We point out some of these problems. and suggest some solutions.",
+        "email": "",
+        "conf": "ACM SIGPLAN Notices",
+        "coauthors": [
+            "Gerald Q. Maguire",
+            "Jonathan M. Smith"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5176,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "Memory As A Network Abstraction",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "An approach to interprocesses communication over fast networks is described. It is based on the assumption that the essence of the problem was the network abstraction, that is, what model the hardware network interfaces provides to the computer. In this approach the network provides the abstraction of computer memory, directly to the application, with no operation system intervention required to effect the movement of data. Three systems based on this idea are examined. They are Memnet, Mether, and CapNet. UPWARDS, an attempt to develop software that can provide access to the bandwidth available in the future high-speed WANs, is also discussed.",
+        "email": "",
+        "conf": "IEEE Network",
+        "coauthors": [
+            "Gary Delp",
+            "David J. Farber",
+            "Ronald G Minnich",
+            "Jonathan M Smith",
+            "Ming-Chit Tam"
+        ],
+        "keywords": "File systems,Ethernet networks,Hardware,Operating systems,Computer interfaces,Application software,Protocols,Bandwidth,Network interfaces,Computer networks"
+    },
+    {
+        "id": 5134,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "A Secure PLAN (Extended Version)",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "Active networks promise greater flexibility than current networks, but threaten safety and security by virtue of their programmability. We describe the design and implementation of a security architecture for the active network PLANet (Hicks et al., 1999). Security is obtained with a two-level architecture that combines a functionally restricted packet language, PLAN (Hicks et al., 1998), with an environment of general-purpose service routines governed by trust management (Blaze et al., 1996). In particular, we employ a technique which expands or contracts a packet's service environment based on its level of privilege, termed namespace-based security. As an application of our security architecture, we present the design and implementation of an active-network firewall. We find that the addition of the firewall imposes an approximately 34% latency overhead and as little as a 6.7% space overhead to incoming packets.",
+        "email": "",
+        "conf": "DARPA Active Networks Conference and Exposition. IEEE",
+        "coauthors": [
+            "Michael Hicks",
+            "Angelos D Keromytis",
+            "Jonathan M. Smith"
+        ],
+        "keywords": "Planets,Authorization,Web and internet services,Cryptography,Computer science,Information security,IP networks,Authentication,Cities and towns,Computer networks"
+    },
+    {
+        "id": 5136,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "Consistency Management in the EROS Kernel",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "EROS is a persistent operating system targeted towards managing resources with great longevity. The system provides a persistent single level store supporting two fundamental object types: nodes and pages. All primary objects, including memory segments and protection domains, are constructed out of these fundamental objects, and inherit their persistence. EROS is a pure capability system: access to objects is provided exclusively through the invocation of kernel enforced, secure capabilities. This paper describes the EROS Abstract Machine and the mechanisms used to achieve efficient consistency management within the system. The implementation, including all primary objects, a low overhead checkpoint/migration subsystem, and an efficient interprocess communication mechanism, requires less than 64 Kbytes of supervisor code (prior to size tuning).",
+        "email": "",
+        "conf": "CiteSeer",
+        "coauthors": [
+            "Jonathan S. Shapiro",
+            "David J. Farber",
+            "Jonathan M. Smith"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5099,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "A brief overview of the NEBULA future internet architecture",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "Nebula is a proposal for a Future Internet Architecture. It is based on the assumptions that: (1) cloud computing will comprise an increasing fraction of the application workload offered to an Internet, and (2) that access to cloud computing resources will demand new architectural features from a network. Features that we have identified include dependability, security, flexibility and extensibility, the entirety of which constitute resilience. Nebula provides resilient networking services using ultrareliable routers, an extensible control plane and use of multiple paths upon which arbitrary policies may be enforced. We report on a prototype system, Zodiac, that incorporates these latter two features.",
+        "email": "",
+        "conf": "ACM SIGCOMM Computer Communication Review",
+        "coauthors": [
+            "Tom Anderson",
+            "Ken Birman",
+            "Robert Broberg",
+            "Matthew Caesar",
+            "Douglas Comer",
+            "Chase Cotton",
+            "Michael J. Freedman",
+            "Andreas Haeberlen",
+            "Zachary G. Ives",
+            "Arvind Krishnamurthy",
+            "William Lehr",
+            "Boon Thau Loo",
+            "David Mazières",
+            "Antonio Nicolosi",
+            "Jonathan M. Smith",
+            "Ion Stoica",
+            "Robbert Renesse",
+            "Michael Walfish",
+            "Hakim Weatherspoon",
+            "Christopher S. Yoo"
+        ],
+        "keywords": "nebula future internet architecture,    brief overview,    constitute resilience,    resilient networking service,    multiple path,    extensible control plane,    new architectural feature,    arbitrary policy,    prototype system,    application workload,    future internet architecture,    ultra-reliable router   "
+    },
+    {
+        "id": 5169,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "Experimental Study of Issues in End-to End QoS",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "Quality of Service (QoS) guarantees for 'delay sensitive' networked applications must be end-to-end. Thispaper presents an experimental study of this class of applications where the endpoints are computerworkstations. The experiments show that operating system effects dominate any jitter in the network.Our conclusion is that QoS provision by the workstation operating system is as important for maintainingend-to-end guarantees as is network QoS. In local-area settings, operating system influences may bemore challenging for end-to-end QoS than network influences. The important influence variables are thedegree of multiprocessing, the employed transport protocol (e.g. UDP or TCP), and the priorities assignedto processes. ",
+        "email": "",
+        "conf": "Technical Reports",
+        "coauthors": [
+            "Klara Nahrstedt",
+            "Jonathan M. Smith"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5137,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "A Secure and Reliable Bootstrap Architecture",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "In a computer system, the integrity of lower layers is typically treated as axiomatic by higher layers. Under the presumption that the hardware comprising the machine (the lowest layer) is valid, the integrity of a layer can be guaranteed if and only if: (1) the integrity of the lower layers is checked and (2) transitions to higher layers occur only after integrity checks on them are complete. The resulting integrity \"chain\" inductively guarantees system integrity. When these conditions are not met, as they typically are not in the bootstrapping (initialization) of a computer system, no integrity guarantees can be made, yet these guarantees are increasingly important to diverse applications such as Internet commerce, security systems and \"active networks\". In this paper, we describe the AEGIS architecture for initializing a computer system. It validates integrity at each layer transition in the bootstrap process. AEGIS also includes a recovery process for integrity check failures, and we show how this results in robust systems.",
+        "email": "",
+        "conf": "IEEE Symposium on Security and Privacy",
+        "coauthors": [
+            "William Arbaugh",
+            "David J. Farber",
+            "Jonathan M. Smith"
+        ],
+        "keywords": "Operating systems,Hardware,Security,Computer architecture,Laboratories,Distributed computing,IP networks,Robustness,Virtual machining,Microprogramming"
+    },
+    {
+        "id": 5124,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "Computer Security is Not a Science (but it should be)",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "Introduction Security research is sometimes referred to as the \"Humanities of Computer Science\" because, too frequently, \"secure\" systems are built using equal measures of folklore and black arts. Despite the humorous intention, there is a kernel of truth in this jest--- computer security, at least \"security in the large\", is not currently a science. This claim may seem unfair, given the progress made in security over the past decades. However, our present tools and methodologies are at most adequate for understanding systems security on a small scale. Cryptography, for example, is perhaps the most thoroughly studied and most rigorously modeled aspect of security. Despite its tremendous importance, cryptography alone is not sufficient for building secure systems. Indeed, the vast majority of all security flaws arise because of faulty software (e.g., the ubiquitous buffer overflow problem). Such security holes cannot be avoided by cryptographic techniques, and despite widely known and",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Michael B. Greenwald",
+            "Carl A. Gunter",
+            "Bjorn Knutsson",
+            "Andre Scedrov",
+            "Jonathan M Smith",
+            "Steve Zdancewic"
+        ],
+        "keywords": "computer security,    cryptographic technique,    equal measure,    security flaw,    building secure system,    vast majority    humorous intention,    faulty software,    small scale,    computer science,    black art,    past decade,    security hole,    jest computer security,    system security    ubiquitous buffer,    secure system,    tremendous importance,    present tool,    introduction security research   "
+    },
+    {
+        "id": 5140,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "The Price of Safety in an Active Network",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal of Communications and Networks",
+        "coauthors": [
+            "D. Scott Alex",
+            "Paul B. Menage",
+            "Angelos D. Keromytis",
+            "Jonathan M. Smith"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5115,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "IDES: An Internet Distance Estimation Service for Large Networks.",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "The responsiveness of networked applications is limited by communications delays, making network distance an important parameter in optimizing the choice of communications peers. Since accurate global snapshots are difficult and expensive to gather and maintain, it is desirable to use sampling techniques in the Internet to predict unknown network distances from a set of partially observed measurements. This paper makes three contributions. First, we present a model for representing and predicting distances in large-scale networks by matrix factorization which can model suboptimal and asymmetric routing policies, an improvement on previous approaches. Second, we describe two algorithms-singular value decomposition and non-negative matrix factorization-for representing a matrix of network distances as the product of two smaller matrices. Third, based on our model and algorithms, we have designed and implemented a scalable system-Internet Distance Estimation Service (IDES)-that predicts large numbers of network distances from limited samples of Internet measurements. Extensive simulations on real-world data sets show that IDES leads to more accurate, efficient and robust predictions of latencies in large-scale networks than existing approaches ",
+        "email": "",
+        "conf": "IEEE Journal on Selected Areas in Communications",
+        "coauthors": [
+            "Yun Mao",
+            "Lawrence K. Saul",
+            "Jonathan M. Smith"
+        ],
+        "keywords": "Matrix factorization,network distance,network performance"
+    },
+    {
+        "id": 5170,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "Hardware/Software Organization of a High-Performance ATM Host Interface",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "A successful hardware/software architecture that resolves performance bottlenecks at the workstation-to-network host interface and offers high end-to-end performance is described. The solution reported carefully splits protocol processing functions into hardware and software implementations. The interface hardware is highly parallel and performs all per-cell functions with dedicated logic to maximize performance. Software provides support for the transfer of data between the interface and application memory, as well as the state management necessary for virtual circuit setup and maintenance. In addition, all higher-level protocol processing is implemented with host software. The prototype connects a RISC System/6000 to a SONET-based asynchronous transfer model (ATM) network carrying data at the OC-3c rate of 155 Mb/s. An experimental evaluation of the interface hardware and software has been performed. Several conclusions are drawn about this host interface architecture and the workstations to which it is connected.",
+        "email": "",
+        "conf": "IEEE Journal on Selected Areas in Communications",
+        "coauthors": [
+            "C. Brendan S Traw",
+            "Jonathan M. Smith"
+        ],
+        "keywords": "Hardware,Asynchronous transfer mode,Protocols,Software architecture,Logic,Software maintenance,Application software,Memory management,Circuits,Software prototyping"
+    },
+    {
+        "id": 5188,
+        "label": 102,
+        "author": "jonathan smith",
+        "title": "Relationships with teachers and achievement motivation in the context of transition to secondary school",
+        "organization": "Professor Department of Preschool and Elementary Education UniversitÃƒÂ© de Sherbrooke",
+        "abstract": "The present study examined the link between students’ relationships with teachers and achievement motivation in the context of the transition to secondary school. Participants were 323 French-speaking students from various public schools of the Province of Quebec (Canada). A self-reported questionnaire measuring students’ appreciation of their relationships with teachers as well as their competence beliefs, utility value, interest, and achievement goals (mastery, performance-approach and work-avoidance) was administered to participants immediately before and after their transition to secondary school. Growth curve analyses indicate that, following the transition to secondary school, participants experienced a decline of achievement motivation. Results further show that students’ achievement motivation co-varied with their relationships with teachers, before and after the transition to secondary school. For instance, students’ who improved their relationships with teachers following this transition also reported a lower motivational decrease. These results highlight the need for schools to emphasize students’ relationships with their teachers in order to facilitate the transition to secondary school.",
+        "email": "",
+        "conf": "Interdisciplinary Education and Psychology",
+        "coauthors": [
+            "Roch Chouinard",
+            "Normand Roy",
+            "Isabelle Archambault",
+            "Jonathan Smith"
+        ],
+        "keywords": "Achievement motivation, student-teachers, relationships, school transition"
+    },
+    {
+        "id": 5162,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "Operating Systems Support for End-to-End Gbps Networking",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "This paper argues that workstation host interfaces and operating systems are a crucial element in achieving end-to-end Gbps bandwidths for applications in distributed environments. We describe several host interface architectures, discuss the interaction between the interface and host operating system, and report on an ATM host interface built at the University of Pennsylvania. Concurrently designing a host interface and software support allows careful balancing of hardware and software functions. Key ideas include use of buffer management techniques to reduce copying and scheduling data transfers using clocked interrupts. Clocked interrupts also aid with bandwidth allocation. Our interface can deliver a sustained 130 Mbps bandwidth to applications, roughly OC-3c link speed. Ninety-three percent of the host hardware subsystem throughput is delivered to the application with a small measured impact on other applications processing.",
+        "email": "jms@cis.upenn.edu",
+        "conf": "Technical Reports",
+        "coauthors": [
+            "Jonathan M. Smith",
+            "C. Brendan S. Traw"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5119,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "Design and Implementation of Virtual Private Services",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "Large scale distributed applications such as electronic commerce and online marketplaces combine network access with multiple storage and computational elements. The distributed responsibility for resource control creates new security and privacy issues, which are exacerbated by the complexity of the operating environment. In order to handle policies at multiple locations, the usual tools available (firewalls and compartmented file storage) get to be used in ways that are clumsy and prone to failure. We propose a new approach, virtual private services. Our approach relies on two functional divisions. First, we split policy specification and policy enforcement, providing local autonomy within the constraints of the global security policy. Second, we create virtual security domains, each with its own security policy. Every domain has an associated set of privileges and permissions restricting it to the resources it needs to use and the services it must perform. Virtual private services ensure security and privacy policies are adhered to through coordinated policy enforcement points. We describe our architecture and a prototype implementation, and present a preliminary performance evaluation confirming that our overhead of policy enforcement using is small.",
+        "email": "",
+        "conf": "International Workshops on Enabling Technologies: Infrastructure for Collaborative Enterprises",
+        "coauthors": [
+            "Sotiris Ioannidis",
+            "Steven M. Bellovin",
+            "John Ioannidis",
+            "A D Keromytis",
+            "Jonathan M. Smith"
+        ],
+        "keywords": "Application software,Security,Privacy,Access control,Credit cards,Web server,Transaction databases,File servers,Large-scale systems,Electronic commerce"
+    },
+    {
+        "id": 5175,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "Notes on the Implementation of a Remote Fork Mechanism",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "We describe a method for implementing a remote fork, a primitive with the semantics of a UNIX fork() call which begins the execution of the child process on a remote machine. We begin by examining the subject of process migration, and conclude that most of the relevant process state can be captured and transferred to a remote system without operating system support. We then show how our implementation is easily optimized to achieve a performance improvement of greater than 10 times when measuring execution time. We conclude with some comments on limitations and applications of the remote fork mechanism.",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Jonathan M. Smith",
+            "John Ioannidis"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5096,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "Programming the Quantum Future",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "THE EARLIEST COMPUTERS, like the ENIAC, were rare and heroically difficult to program. That difficulty stemmed from the requirement that algorithms be expressed in a “vocabulary” suited to the particular hardware available, ranging from function tables for the ENIAC to more conventional arithmetic and movement operations on later machines. Introduction of symbolic programming languages, exemplified by FORTRAN, solved a major difficulty for the next generation of computing devices by enabling specification of an algorithm in a form more suitable for human understanding, then translating this specification to a form executable by the machine. The “programming language” used for such specification bridged a semantic gap between the human and the computing device. It provided two important features: high-level abstractions, taking care of automated bookkeeping, and modularity, making it easier to reason about sub-parts of programs.",
+        "email": "",
+        "conf": "Communications of the ACM",
+        "coauthors": [
+            "Benot Valiron",
+            "Neil J. Ross",
+            "Peter Selinger",
+            "Jonathan M. Smith"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5146,
+        "label": 101,
+        "author": "jonathan smith",
+        "title": "ALIEN: A Generalized Computing Model Of Active Networks",
+        "organization": "Professor of Computer and Information Science University of Pennsylvania",
+        "abstract": "A Generalized Computing Model of Active Networks David Scott Alexander Jonathan M. Smith Active Networks are networks whose actions may be changed during operation either by introducing new code into the routers (active extensions) or by executing code contained in a packet passing through the switch (active packets). This ability to make changes is expected to ease deployment of new or modi ed protocols, allow support for uncommon protocols, ease network experimentation, and improve performance in those situations in which quick response to local information is crucial. To maintain security of the system, there must be some restrictions on what code can be executed by any given user. In alien, we have taken the Caml language and restricted it. On this base, we have architected and built a system capable of loading active extensions and executing active packets. We have used this system to measure performance characteristics of each approach. We built two primary experiments: the Active Bridge and the Secure Active Network Environment (SANE). The Active Bridge implements a (mostly) 802.1D-compliant network bridge which is built up in layers through the use of active extensions. It can achieve a throughput of approximately 60Mbps on a 100Mbps Ethernet. SANE studies a number of questions including the performance and bottlenecks associated with the use of capsules. With this experiment, we achieve a throughput of 13Mbps. These experiments help to demonstrate that we must now add language costs to the traditional network per-packet vi and per-byte costs when modelling performance. We demonstrate that the utility of Active Networks is driven primarily by the speed of the network. At low bandwidths (e.g., ISDN and cable modems), processing all the data in a packet is quite plausible. As the bandwidth increases, the available computation per byte decreases to the point that only per-packet processing such as routing can be performed. Beyond that, a point arises at which only a small fraction of packets can be processed, indicating the need for separate fast and slow paths through the active element with a need to ensure that most packets travel through the fast path",
+        "email": "",
+        "conf": "University of Pennsylvania",
+        "coauthors": [
+            "Jonathan M. Smith",
+            "David Scott Alexander"
+        ],
+        "keywords": ""
+    }
+]

@@ -1,0 +1,103 @@
+[
+    {
+        "id": 5573,
+        "label": 112,
+        "author": "sung-woo kim",
+        "title": "Preliminary Test of Adaptive Neuro-Fuzzy Inference System Controller for Spacecraft Attitude Control",
+        "organization": "Senior Research Engineer Satrec Initiative",
+        "abstract": "The problem of spacecraft attitude control is solved using an adaptive neuro-fuzzy inference system (ANFIS). An ANFIS produces a control signal for one of the three axes of a spacecraft's body frame, so in total three ANFISs are constructed for 3-axis attitude control. The fuzzy inference system of the ANFIS is initialized using a subtractive clustering method. The ANFIS is trained by a hybrid learning algorithm using the data obtained from attitude control simulations using state-dependent Riccati equation controller. The training data set for each axis is composed of state errors for 3 axes (roll, pitch, and yaw) and a control signal for one of the 3 axes. The stability region of the ANFIS controller is estimated numerically based on Lyapunov stability theory using a numerical method to calculate Jacobian matrix. To measure the performance of the ANFIS controller, root mean square error and correlation factor are used as performance indicators. The performance is tested on two ANFIS controllers trained in different conditions. The test results show that the performance indicators are proper in the sense that the ANFIS controller with the larger stability region provides better performance according to the performance indicators.",
+        "email": "",
+        "conf": "Journal of Astronomy and Space Sciences",
+        "coauthors": [
+            "Sung-Woo Kim",
+            "Sang-Young Park",
+            "Chan-Deok Park"
+        ],
+        "keywords": "adaptive neuro-fuzzy inference system;state-dependent Riccati equation;Lyapunov stability theory;stability region estimation"
+    },
+    {
+        "id": 5574,
+        "label": 112,
+        "author": "sung-woo kim",
+        "title": "Unscented KALMAN Filtering for Spacecraft Attitude and Rate Determination Using Magnetometer",
+        "organization": "Senior Research Engineer Satrec Initiative",
+        "abstract": "An Unscented Kalman Filter (UKF) for estimation of the attitude and rate of a spacecraft using only magnetometer vector measurement is developed. The attitude dynamics used in the estimation is the nonlinear Euler's rotational equation which is augmented with the quaternion kinematics to construct a process model. The filter is designed for small satellite in low Earth orbit, so the disturbance torques include gravity-gradient torque, magnetic disturbance torque, and aerodynamic drag torque. The magnetometer measurements are simulated based on time-varying position of the spacecraft. The filter has been tested not only in the standby mode but also in the detumbling mode. Two types of actuators have been modeled and applied in the simulation. The PD controller is used for the two types of actuators (reaction wheels and thrusters) to detumble the spacecraft. The estimation error converged to within 5 deg for attitude and 0.1 deg/s for rate respectively when the two types of actuators were used. A joint state parameter estimation has been tested and the effect of the process noise covariance on the parameter estimation has been indicated. Also, Monte-Carlo simulations have been performed to test the capability of the filter to converge with the initial conditions sampled from a uniform distribution. Finally, the UKF performance has been compared to that of the EKF and it demonstrates that UKF slightly outperforms EKF. The developed algorithm can be applied to any type of small satellites that are actuated by magnetic torquers, reaction wheels or thrusters with a capability of magnetometer vector measurements for attitude and rate estimation.",
+        "email": "",
+        "conf": "Journal of Astronomy and Space Science",
+        "coauthors": [
+            "Sung-Woo Kim",
+            "Mohammad Abdelrahman",
+            "Sang-Young Park",
+            "Kyu-Hong Choi"
+        ],
+        "keywords": "attitude estimation;angular velocity estimation;magnetometer;unscented Kalman filter;extended Kalman filter;attitude simulator"
+    },
+    {
+        "id": 5572,
+        "label": 112,
+        "author": "sung-woo kim",
+        "title": "Integrated orbit and attitude hardware-in-The-loop simulations for autonomous satellite formation flying",
+        "organization": "Senior Research Engineer Satrec Initiative",
+        "abstract": "Development and experiment of an integrated orbit and attitude hardware-in-the-loop (HIL) simulator for autonomous satellite formation flying are presented. The integrated simulator system consists of an orbit HIL simulator for orbit determination and control, and an attitude HIL simulator for attitude determination and control. The integrated simulator involves four processes (orbit determination, orbit control, attitude determination, and attitude control), which interact with each other in the same way as actual flight processes do. Orbit determination is conducted by a relative navigation algorithm using double-difference GPS measurements based on the extended Kalman filter (EKF). Orbit control is performed by a state-dependent Riccati equation (SDRE) technique that is utilized as a nonlinear controller for the formation control problem. Attitude is determined from an attitude heading reference system (AHRS) sensor, and a proportional-derivative (PD) feedback controller is used to control the attitude HIL simulator using three momentum wheel assemblies. Integrated orbit and attitude simulations are performed for a formation reconfiguration scenario. By performing the four processes adequately, the desired formation reconfiguration from a baseline of 500–1000 m was achieved with meter-level position error and millimeter-level relative position navigation. This HIL simulation demonstrates the performance of the integrated HIL simulator and the feasibility of the applied algorithms in a real-time environment. Furthermore, the integrated HIL simulator system developed in the current study can be used as a ground-based testing environment to reproduce possible actual satellite formation operations.",
+        "email": "",
+        "conf": "Advances in Space Research",
+        "coauthors": [
+            "Han-Earl Park",
+            "Sang-Young Park",
+            "Sung-Woo Kim",
+            "Chandeok Park"
+        ],
+        "keywords": "Integrated orbit and attitude,Hardware-in-the-loop simulator,Autonomous satellite formation flying"
+    },
+    {
+        "id": 5570,
+        "label": 112,
+        "author": "sung-woo kim",
+        "title": "Spacecraft attitude control using neuro-fuzzy approximation of the optimal controllers",
+        "organization": "Senior Research Engineer Satrec Initiative",
+        "abstract": "In this study, a neuro-fuzzy controller (NFC) was developed for spacecraft attitude control to mitigate large computational load of the state-dependent Riccati equation (SDRE) controller. The NFC was developed by training a neuro-fuzzy network to approximate the SDRE controller. The stability of the NFC was numerically verified using a Lyapunov-based method, and the performance of the controller was analyzed in terms of approximation ability, steady-state error, cost, and execution time. The simulations and test results indicate that the developed NFC efficiently approximates the SDRE controller, with asymptotic stability in a bounded region of angular velocity encompassing the operational range of rapid-attitude maneuvers. In addition, it was shown that an approximated optimal feedback controller can be designed successfully through neuro-fuzzy approximation of the optimal open-loop controller.",
+        "email": "",
+        "conf": "Advances in Space Research",
+        "coauthors": [
+            "Sung-Woo Kim",
+            "Sang-Young Park",
+            "Chandeok Park"
+        ],
+        "keywords": "Spacecraft attitude control,Neuro-fuzzy network,State-dependent Riccati equation,Approximated optimal feedback controller"
+    },
+    {
+        "id": 5569,
+        "label": 112,
+        "author": "sung-woo kim",
+        "title": "Hardware-In-the-Loop Simulations of spacecraft attitude synchronization using the State-Dependent Riccati Equation technique",
+        "organization": "Senior Research Engineer Satrec Initiative",
+        "abstract": "A nonlinear control technique pertaining to attitude synchronization problems is presented for formation flying spacecraft by utilizing the State-Dependent Riccati Equation (SDRE) technique. An attitude controller consisting of relative control and absolute control is designed using a reaction wheel assembly for regulator and tracking problems. To achieve effective relative control, the selective state-dependent connectivity is also adopted. The global asymptotic stability of the controller is confirmed using the Lyapunov theorem and is verified by Monte-Carlo simulations. An air-bearing-based Hardware-In-the-Loop Simulator (HILS) is also developed to validate the proposed control laws in real-time environments. The SDRE controller is discretized for implementation of a real-time processor in the HILS. The pointing errors are about 0.2° in the numerical simulations and about 1° in the HILS simulations, and experimental simulations confirm the effectiveness of the control algorithm for attitude synchronization in a spacecraft formation flying mission. Consequently, experiments using the HILS in a real-time environment can appropriately perform spacecraft attitude synchronization algorithms for formation flying spacecraft.",
+        "email": "",
+        "conf": "Advances in Space Research",
+        "coauthors": [
+            "Junoh Jung",
+            "Sang-Young Park",
+            "Sung-Woo Kim",
+            "Youngho Eun",
+            "Young-Keun Chang"
+        ],
+        "keywords": "Spacecraft formation flying,Attitude synchronization control,Hardware-In-the-Loop Simulator,State-Dependent Riccati Equation technique"
+    },
+    {
+        "id": 5571,
+        "label": 112,
+        "author": "sung-woo kim",
+        "title": "Development of Integrated Orbit and Attitude Software-in-the-loop Simulator for Satellite Formation Flying",
+        "organization": "Senior Research Engineer Satrec Initiative",
+        "abstract": "An integrated orbit and attitude control algorithm for satellite formation flying was developed, and an integrated orbit and attitude software-in-the-loop (SIL) simulator was also developed to test and verify the integrated control algorithm. The integrated algorithm includes state-dependent Riccati equation (SDRE) control algorithm and PD feedback control algorithm as orbit and attitude controller respectively and configures the two algorithms with an integrating effect. The integrated SIL simulator largely comprises an orbit SIL simulator for orbit determination and control, and attitude SIL simulator for attitude determination and control. The two SIL simulators were designed considering the performance and characteristics of related hardware-in-the-loop (HIL) simulators and were combined into the integrated SIL simulator. To verify the developed integrated SIL simulator with the integrated control algorithm, an orbit simulation and integrated orbit and attitude simulation were performed for a formation reconfiguration scenario using the orbit SIL simulator and the integrated SIL simulator, respectively. Then, the two simulation results were compared and analyzed with each other. As a result, the user satellite in both simulations achieved successful formation reconfiguration, and the results of the integrated simulation were closer to those of actual satellite than the orbit simulation. The integrated orbit and attitude control algorithm verified in this study enables us to perform more realistic orbit control for satellite formation flying. In addition, the integrated orbit and attitude SIL simulator is able to provide the environment of easy test and verification not only for the existing diverse orbit or attitude control algorithms but also for integrated orbit and attitude control algorithms.",
+        "email": "",
+        "conf": "Journal of Astronomy and Space Science",
+        "coauthors": [
+            "Han-Earl Park",
+            "Sang-Young Park",
+            "Chandeok Park",
+            "Sung-Woo Kim"
+        ],
+        "keywords": "Integrated orbit and attitude, software-in-the-loop simulator, satellite formation flying, formation reconfiguration"
+    }
+]

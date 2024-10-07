@@ -1,0 +1,1067 @@
+[
+    {
+        "id": 3288,
+        "label": 69,
+        "author": "maria jesus martin martinez",
+        "title": "An lonised-impurity Scattering Model for 3D Monte Carlo Device Simulation with Discrete Impurity Distribution",
+        "organization": "Profesor del area de ElectrÃƒÂ³nica (Universidad de Salamanca)",
+        "abstract": "An improved 3-D Monte Carlo simulation model is developed to treat the discrete random dopant distribution in sub-0.1 μm MOSFET. The new atomistic model is based on a scattering rate calculation and an algorithm that take into account many-body effects and the local variations of screening length according to impurity distribution and bias conditions.To validate this new approach low field electron drift mobility and diffusion coefficient have been computed using simulation of 3D bars for 1015–1018 cm–3 range of average doping concentration. A good agreement is found between calculation and experimental mobility data at 300 K",
+        "email": "",
+        "conf": "VLSI Design",
+        "coauthors": [
+            "S. Barraud",
+            "P. Dollfus",
+            "S. Galdin",
+            "R. Rengel",
+            "Maria J Martin",
+            "Jess Enrique Velzquez-Prez"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3275,
+        "label": 69,
+        "author": "maria jesus martin martinez",
+        "title": "A Monte Carlo investigation of the RF performance of partially-depleted SOI MOSFETs",
+        "organization": "Profesor del area de ElectrÃƒÂ³nica (Universidad de Salamanca)",
+        "abstract": "A Monte Carlo investigation of the high-frequency performance of partially-depleted silicon-on-insulator MOSFETs is presented. From static current–voltage characteristics to the RF dynamic and noise performance, the simulator is able to properly reproduce the experimental measurements for the device under test with the need of only two model parameters, the rate of diffusive surface scattering mechanisms and the threshold voltage. Once the model is validated for a 90 nm effective gate length device, a forecast of the dynamic and noise performance of the device when the gate length is downscaled is carried out and the influence of scaling on internal transport quantities is discussed.",
+        "email": "",
+        "conf": "Semiconductor Science and Technology",
+        "coauthors": [
+            "Raul Rengel",
+            "Maria J Martin",
+            "Gilles Dambrine",
+            "Francois Danneville"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3276,
+        "label": 69,
+        "author": "maria jesus martin martinez",
+        "title": "Investigation of longitudinal velocity fluctuations in MOSFETs by means of ensemble Monte Carlo simulation",
+        "organization": "Profesor del area de ElectrÃƒÂ³nica (Universidad de Salamanca)",
+        "abstract": "A microscopic investigation of high‐frequency noise in a deep‐submicrometer MOSFET device is carried out by means of an ensemble Monte Carlo simulator. Together with the bias dependence of the spectral densities of drain current fluctuations at terminals (directly provided by the simulator) the noisy nature of carriers within the channel is analyzed. Results show that, under saturation bias conditions, carriers in the velocity overshoot section present a much stronger intensity of longitudinal velocity fluctuations than electrons in the diffusive section. However, the amplitude of fluctuations in the diffusive section of the channel is increased as the gate voltage is raised (in good agreement with the augmentation of electric field in that section). This, together with the increase of sheet carrier concentration, leads finally to a local current noise source higher than in the overshoot section.",
+        "email": "",
+        "conf": "American Institute of Physics",
+        "coauthors": [
+            "Raul Rengel",
+            "Javier Mateos",
+            "Tomas Gonzalez",
+            "Daniel Pardo",
+            "Gilles Dambrine",
+            "Francois Danneville",
+            "Maria J Martin"
+        ],
+        "keywords": "72.70.+m; 85.30.Tv; 85.30.De; Noise processes and phenomena; Field effect devices; Semiconductor-device characterization design and modeling "
+    },
+    {
+        "id": 3237,
+        "label": 69,
+        "author": "maria jesus martin martinez",
+        "title": "Impact of the hot phonon effect on electronic transport in monolayer silicene",
+        "organization": "Profesor del area de ElectrÃƒÂ³nica (Universidad de Salamanca)",
+        "abstract": "The hot phonon effect is a non-equilibrium phenomenon that has an important role in high-field electronic transport in two-dimensional electron gases and in 2D materials like graphene. In this work, the influence of this effect on the electronic transport properties of silicene is investigated by means on an ensemble Monte Carlo simulator that accounts self-consistently for the out-of-equilibrium phonon population and the scattering events under high electric field conditions. In this way, the observed reduction in the carrier drift velocity is analyzed in terms of the microscopic scattering events, wavevector distributions, net phonon emission and phonon temperatures. A comparison with the case of graphene is also carried out, showing that despite the similarities concerning the linear bandstructure near the Dirac points, the hot phonon effect is less dominant in silicene due to the differences in the phonon branches and electron-phonon couplings. Even so, neglecting the role of an out-of-equilibrium phonon population may overestimate the high-field drift velocity in silicene up to 25% at moderate carrier concentrations.",
+        "email": "",
+        "conf": "Journal of Physics D Applied Physics",
+        "coauthors": [
+            "El Mokhtar Hamham",
+            "Jos M. Iglesias",
+            "E. Pascual",
+            "Maria J. Martin",
+            "Raul Rengel"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3235,
+        "label": 69,
+        "author": "maria jesus martin martinez",
+        "title": "Interband scattering-induced ambipolar transport in graphene",
+        "organization": "Profesor del area de ElectrÃƒÂ³nica (Universidad de Salamanca)",
+        "abstract": "An ensemble Monte Carlo study of interband scattering in graphene, including impact ionization, Auger recombination and phonon-induced generation and recombination, is presented. The model rigorously considers the collinear limit condition for many-particle interband interactions in a linear dispersion bandstructure. The results show that carrier multiplication takes place even for relatively low electric fields, with collinear impact ionization being the most significant mechanism. It is also shown that the Pauli exclusion principle and the degeneracy close to the Dirac point play a critical role in limiting carrier generation at high gate voltage and low electric field. The effect of the substrate is also determinant in restricting the generation of carriers in graphene, as well as the presence of impurities or defects. Carrier multiplication leads also to a significant increase in the lattice temperature due to an enhanced inelastic phonon interaction.",
+        "email": "",
+        "conf": "Semiconductor Science and Technology",
+        "coauthors": [
+            "Jos M. Iglesias",
+            "E. Pascual",
+            "El Mokhtar Hamham",
+            "Maria J Martin",
+            "Raul Rengel"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3244,
+        "label": 69,
+        "author": "maria jesus martin martinez",
+        "title": "A combined Monte Carlo-balance equations investigation of the high frequency response of graphene",
+        "organization": "Profesor del area de ElectrÃƒÂ³nica (Universidad de Salamanca)",
+        "abstract": "The small signal response and noise temperature in graphene under non-degenerated conditions is evaluated by means of a combined Monte Carlo-balance equations approach. The method correctly predicts the qualitative behavior of the most relevant quantities, such as real part of the differential mobility or diffusion coefficient, being much more computationally efficient that full ensemble Monte Carlo simulations. Several different substrates are investigated, so the effect of surface polar phonons can be disaggregated to determine the most adequate supporting dielectric fo high frequency performance under ideal conditions (no impurities, defects or ripples)",
+        "email": "",
+        "conf": "Conference on Electron Devices",
+        "coauthors": [
+            "Raul Rengel",
+            "Jose M. Iglesias",
+            "E. Pascual",
+            "Maria J Martin"
+        ],
+        "keywords": "Graphene,Substrates,Monte Carlo methods,Mathematical model,Phonons,Hafnium compounds,Transistors"
+    },
+    {
+        "id": 3262,
+        "label": 69,
+        "author": "maria jesus martin martinez",
+        "title": "Monte Carlo simulation of graded-channel fully depleted SOI nMOSFETs",
+        "organization": "Profesor del area de ElectrÃƒÂ³nica (Universidad de Salamanca)",
+        "abstract": "In this paper a Monte Carlo investigation of Graded Channel (GC) Silicon-On-Insulator MOSFETs is presented. The influence of the length of the lightly-doped region of the channel (L LD ) on the microscopic transport properties is exhaustively analyzed. Result show that increasing L LD provides an enhancement of the device performance in terms of drain current and transconductance. However, for L LD values larger than half of the channel the benefits are minimized from a microscopic point of view due to the increasing tendency of the device to behave as a lightly doped conventional transistor. This suggests the existence of an optimum L LD value to fully benefit from the improvements provided by GC doping techniques.",
+        "email": "",
+        "conf": "Conference on Electron Devices",
+        "coauthors": [
+            "Maria J Martin",
+            "Raul Rengel",
+            "Jose M. Galeote",
+            "Michelly de Souza",
+            "Marcelo A. Pavanello"
+        ],
+        "keywords": "Graded Channel MOSFET,Monte Carlo simulation,Fully Depleted SOI,microscopic transport"
+    },
+    {
+        "id": 3290,
+        "label": 69,
+        "author": "maria jesus martin martinez",
+        "title": "Analysis of voltage noise in forward-biased silicon bipolar homojunctions: Low- and high-injection regimes",
+        "organization": "Profesor del area de ElectrÃƒÂ³nica (Universidad de Salamanca)",
+        "abstract": "An ensemble Monte Carlo (EMC) simulator has been used to study bipolar transport in silicon p+np+n and pn+pn+ homojunctions under forward-bias conditions, both in low- and high-injection regimes. The study focuses on a microscopic analysis of voltage fluctuations in such devices. The method of voltage-noise operation mode provides spatial analysis of the spectral density of voltage fluctuations under constant-current conditions. In the low-frequency range, the presence of shot, thermal, and excess noise due to hot carriers was found when the bias conditions were modified. Also, the EMC method permits ready evaluation of the noise equivalent temperature in both structures from the observed voltage fluctuations.",
+        "email": "",
+        "conf": "Applied Physics Letters",
+        "coauthors": [
+            "Maria J Martin",
+            "Diego hernando Pardo",
+            "Jess Enrique Velzquez-Prez"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3259,
+        "label": 69,
+        "author": "maria jesus martin martinez",
+        "title": "Effect of the dopant segregation layer on the static characteristics of Schottky-barrier n-MOSFETs",
+        "organization": "Profesor del area de ElectrÃƒÂ³nica (Universidad de Salamanca)",
+        "abstract": "This paper presents a detailed investigation of the impact of dopant segregation (DS) on the static characteristics performance of n-type 120-nm ultrathin-body Schottky-barrier (SB) silicon-on-insulator MOSFETs. The optimization of the dopant concentration (N DOP ) and lateral extension (L DOP ) of the DS layer is studied. A careful choice of these quantities reduces the effective potential barrier height at the Schottky junctions, boosting the drive current and transconductance. Important effects are also observed in internal quantities related to electronic transport like velocity, energy and carrier concentration within the channel. These enhancements in SB-MOSFET devices featuring DS layers confirm the suitability of this technology to help extending the roadmap for Silicon MOS devices.",
+        "email": "",
+        "conf": "Conference on Devices, Circuits and Systems",
+        "coauthors": [
+            "Carlos Couso",
+            "E. Pascual",
+            "Jose M. Galeote",
+            "Maria J. Martin",
+            "Raul Rengel"
+        ],
+        "keywords": "Schottky Barrier MOSFET,field emission,dopant-segregation layer,static characteristics"
+    },
+    {
+        "id": 3265,
+        "label": 69,
+        "author": "maria jesus martin martinez",
+        "title": "Current drive in n- type Schottky barrier MOSFETs: a Monte Carlo study",
+        "organization": "Profesor del area de ElectrÃƒÂ³nica (Universidad de Salamanca)",
+        "abstract": "In this paper we present a Monte Carlo study of the static performance of Schottky barrier (SB) SOI MOSFETs. A 2D Ensemble Monte Carlo (EMC) simulator including tunnelling transport at the Schottky interfaces has been used. Quantum transmission coefficients and treatment of image charge effects on the Schottky barrier have been carefully considered. The physical principles of operation of SB-MOSFETs have been studied as well as the transition of the device from triode to saturation regime by means of the study of the internal quantities provided by the our simulator, such as the potential, carrier density and average carrier velocity",
+        "email": "",
+        "conf": "Conference on Electron Devices",
+        "coauthors": [
+            "E. Pascual",
+            "Ral Rengel",
+            "Maria J Martin"
+        ],
+        "keywords": "Schottky barriers,MOSFETs,Monte Carlo methods,Tunneling,Electromagnetic compatibility,Silicides,Immune system,Electron devices,Physics,Substrates"
+    },
+    {
+        "id": 3249,
+        "label": 69,
+        "author": "maria jesus martin martinez",
+        "title": "Effect of charged impurity scattering on the electron diffusivity and mobility in graphene",
+        "organization": "Profesor del area de ElectrÃƒÂ³nica (Universidad de Salamanca)",
+        "abstract": "The influence of charged impurities on the transport properties of graphene, including the diffusion coefficient at low and high electric fields, is investigated by means of an ensemble Monte Carlo simulator. Three different possible substrates are considered, h-BN, SiC and SiO2. The results show the importance of impurity scattering in degrading the diffusion coefficient, electronic mobility and drift velocity, particularly at low and intermediate electric fields. The influence of the substrate dielectric constant in relation to impurities and surface polar phonon scattering is also evidenced; this turns SiC into the most suitable substrate of choice from this point of view.",
+        "email": "",
+        "conf": "Journal of Physics Conference Series",
+        "coauthors": [
+            "Raul Rengel",
+            "Jos M. Iglesias",
+            "E. Pascual",
+            "Maria J Martin"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3252,
+        "label": 69,
+        "author": "maria jesus martin martinez",
+        "title": "Diffusion coefficient correlation function and power spectral density of velocity fluctuations in monolayer graphene",
+        "organization": "Profesor del area de ElectrÃƒÂ³nica (Universidad de Salamanca)",
+        "abstract": "In this paper, the diffusivity in suspended monolayer graphene at low and high electric fields is investigated. The knowledge of this quantity and its dependence on the electric field is of primary importance not only for the investigation of the electronic transport properties of this material but also for the development of accurate drift-diffusion models. The results have been obtained by means of an ensemble Monte Carlo simulation. For the calculation of the diffusion coefficient, two different methods are considered, one based on the second central moment and the other one based on the Fourier analysis of velocity fluctuations, which are directly related to the noise behaviour at high frequencies. The diffusion coefficient is analyzed considering both parallel and transversal directions with regard to the applied field. Taking into account the importance of degeneracy in this material, the calculations are properly performed by considering an excess electron population obeying a linearized Boltzmann transport equation, which allows studying in an adequate fashion the diffusivity phenomena. The results show the importance of degeneracy effects at very low fields in which transport is mainly dominated by acoustic phonon scattering. Values of the diffusion coefficient larger than 40 000 cm2/Vs are obtained for a carrier concentration equal to 1012 cm−2. The correlation function of instantaneous velocity fluctuation is explained in terms of the wavevector distribution, and their power spectral density is evaluated in the THz range, showing an important dependence on the applied field and being strongly related to microscopic transport processes.",
+        "email": "",
+        "conf": "Journal of Applied Physics",
+        "coauthors": [
+            "Ral Rengel",
+            "Maria J Martin"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3247,
+        "label": 69,
+        "author": "maria jesus martin martinez",
+        "title": "Hot carrier and hot phonon coupling during ultrafast relaxation of photoexcited electrons in graphene",
+        "organization": "Profesor del area de ElectrÃƒÂ³nica (Universidad de Salamanca)",
+        "abstract": "We study, by means of a Monte Carlo simulator, the hot phonon effect on the relaxation dynamics in photoexcited graphene and its quantitative impact as compared with considering an equilibrium phonon distribution. Our multi-particle approach indicates that neglecting the hot phonon effect significantly underestimates the relaxation times in photoexcited graphene. The hot phonon effect is more important for a higher energy of the excitation pulse and photocarrier densities between 1 and 3 × 1012 cm−2. Acoustic intervalley phonons play a non-negligible role, and emitted phonons with wavelengths limited up by a maximum (determined by the carrier concentration) induce a slower carrier cooling rate. Intrinsic phonon heating is damped in graphene on a substrate due to the additional cooling pathways, with the hot phonon effect showing a strong inverse dependence with the carrier density.",
+        "email": "",
+        "conf": "Applied Physics Letters",
+        "coauthors": [
+            "Jos M. Iglesias",
+            "Maria J Martin",
+            "E. Pascual",
+            "Ral Rengel"
+        ],
+        "keywords": "Condensed Matter,Mesoscale and Nanoscale Physics"
+    },
+    {
+        "id": 3239,
+        "label": 69,
+        "author": "maria jesus martin martinez",
+        "title": "A Monte Carlo study of electronic transport in silicene: importance of out-of-equilibrium phonons",
+        "organization": "Profesor del area de ElectrÃƒÂ³nica (Universidad de Salamanca)",
+        "abstract": "Silicene, the silicon analogue of graphene, is an emerging two-dimensional material with very attractive electronic properties for a wide range of applications [1]. In particular, it could be interesting to develop new nanoelectronic applications using this material due to its direct compatibility with silicon technology and the possibility of inducing an electrically tunable bandgap. In this work, we study the effect of a phonon out-of-equilibrium population on the electronic characteristics of free-standing silicene. Our ensemble Monte Carlo simulator for",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "El Mokhtar Hamham",
+            "Jose M. Iglesias",
+            "Maria J Martin",
+            "Raul Rengel"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3241,
+        "label": 69,
+        "author": "maria jesus martin martinez",
+        "title": "Scaling of graphene field-effect transistors supported on hexagonal boron nitride: Radio-frequency stability as a limiting factor",
+        "organization": "Profesor del area de ElectrÃƒÂ³nica (Universidad de Salamanca)",
+        "abstract": "The quality of graphene in nanodevices has increased hugely thanks to the use of hexagonal boron nitride as a supporting layer. This paper studies to which extent hBN together with channel length scaling can be exploited in graphene field-effect transistors (GFETs) to get a competitive radio-frequency (RF) performance. Carrier mobility and saturation velocity were obtained from an ensemble Monte Carlo simulator that accounted for the relevant scattering mechanisms (intrinsic phonons, scattering with impurities and defects, etc). This information is fed into a self-consistent simulator, which solves the drift-diffusion equation coupled with the two-dimensional Poisson's equation to take full account of short channel effects. Simulated GFET characteristics were benchmarked against experimental data from our fabricated devices. Our simulations show that scalability is supposed to bring to RF performance an improvement that is, however, highly limited by instability. Despite the possibility of a lower performance, a careful choice of the bias point can avoid instability. Nevertheless, maximum oscillation frequencies are still achievable in the THz region for channel lengths of a few hundreds of nanometers.",
+        "email": "",
+        "conf": "Nanotechnology",
+        "coauthors": [
+            "Pedro C Feijoo",
+            "Francisco Pasadas",
+            "Jose M. Iglesias",
+            "Maria J Martin",
+            "Raul Rengel",
+            "Changfeng Li",
+            "Wonjae Kim",
+            "Juha Riikonen",
+            "Harri Lipsanen",
+            "David Jimenez"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3243,
+        "label": 69,
+        "author": "maria jesus martin martinez",
+        "title": "Impact of self-heating and hot phonons on the drift velocity in graphene",
+        "organization": "Profesor del area de ElectrÃƒÂ³nica (Universidad de Salamanca)",
+        "abstract": "In this paper we analyze the effects of the hot phonon and self-heating on the static electronic transport characteristics of monolayer graphene. For this purpose, the Ensemble Monte Carlo method self-consistently coupled to a thermal resistive model for the heat dissipation is employed. This way, the most relevant mechanisms that limit the drift velocity are considered in a microscopic framework. Results show that both phenomena -the hot phonon and self-heating- have significant impact, being the hot phonons particularly dominant at moderate fields and high carrier concentrations. Interplay between both phenomena reveals that taking hot phonons into account damps graphene and substrate self-heating due to a drop of the phonon emission/absorption ratio.",
+        "email": "",
+        "conf": "Conference on Electron Devices",
+        "coauthors": [
+            "Jose M. Iglesias",
+            "Maria J Martin",
+            "E. Pascual",
+            "Raul Rengel"
+        ],
+        "keywords": "graphene,Joule heating,hot phonons,drift velocity,electronic transport,heat dissipation"
+    },
+    {
+        "id": 3273,
+        "label": 69,
+        "author": "maria jesus martin martinez",
+        "title": "Monte Carlo analysis of carrier transport from diffusive to ballistic regime in nanometer SOI MOSFETs",
+        "organization": "Profesor del area de ElectrÃƒÂ³nica (Universidad de Salamanca)",
+        "abstract": "A Monte Carlo investigation of carrier transport in scaled FDSOI MOSFETs is presented, with particular attention to the onset of quasi-ballistic transport. Results show that for gate lengths below 30 nm quasi-ballistic transport becomes dominant, thus noticeably modifying the ideally scaled properties of the transistors. Impurity screening plays an important role on the determination of the electron transit time through the channel, particularly at low drain voltages",
+        "email": "",
+        "conf": "Spanish Conference on Electron Devices",
+        "coauthors": [
+            "Maria J Martin",
+            "Raul Rengel",
+            "E. Pascual",
+            "Tomas Gonzalez"
+        ],
+        "keywords": "SOI MOSFETs,Monte Carlo simulation,Device scaling,Ballistic and quasi-ballistic transport"
+    },
+    {
+        "id": 3294,
+        "label": 69,
+        "author": "maria jesus martin martinez",
+        "title": "Hydrodynamic Modeling of Transport and Noise Spectra in n+nn+ Semiconductor Structures",
+        "organization": "Profesor del area de ElectrÃƒÂ³nica (Universidad de Salamanca)",
+        "abstract": "In the framework of the velocity and energy conservation equations a direct modeling of the Green-function is used to calculate small-signal and noise characteristics of micron and submicron n + nn + GaAs and Si structures. The method enables one to carry out a space and frequency analysis of various phenomena, such as drift-diffusion processes, velocity overshoot, negative differential conductivity, transit-time and plasma effects, etc",
+        "email": "",
+        "conf": "Proceedings of the 26th European Solid State Device Research Conference",
+        "coauthors": [
+            "Lino Reggiani",
+            "P. Shiktorov",
+            "V. Gruzinskis",
+            "E. Starikov",
+            "L. Varani",
+            "T. Gonzalez",
+            "Maria J Martin",
+            "Diego hernando Pardo"
+        ],
+        "keywords": "Hydrodynamics,Semiconductor device noise,Voltage,Frequency,High definition video,Circuit noise,Impedance,Equations,Gallium arsenide,Plasma measurements"
+    },
+    {
+        "id": 3257,
+        "label": 69,
+        "author": "maria jesus martin martinez",
+        "title": "Supervised Coursework as a Way of Improving Motivation in the Learning of Digital Electronics",
+        "organization": "Profesor del area de ElectrÃƒÂ³nica (Universidad de Salamanca)",
+        "abstract": "This paper presents a series of activities and educational strategies related to the teaching of digital electronics in computer engineering. The main objective of these methodologies was to develop a final tutored coursework to be carried out by the students in small teams. This coursework was conceived as consisting of advanced problems or small projects that should serve as a compendium of the knowledge acquired during the course, with competition between the groups and students' assuming a professional role being key incentive factors. The result was that students had a high degree of motivation and engagement in the activity, as well as improved knowledge because of the self-learning required in carrying out the coursework",
+        "email": "",
+        "conf": "IEEE Transactions on Education",
+        "coauthors": [
+            "Raul Rengel",
+            "Maria J Martin",
+            "Beatriz G. Vasallo"
+        ],
+        "keywords": "Digital electronics education,motivation techniques,problem-based learning (PBL),tutored coursework"
+    },
+    {
+        "id": 3269,
+        "label": 69,
+        "author": "maria jesus martin martinez",
+        "title": "RF noise and scaling in nanometer SOI MOSFETs: Influence of quasiballistic transport",
+        "organization": "Profesor del area de ElectrÃƒÂ³nica (Universidad de Salamanca)",
+        "abstract": "An ensemble Monte Carlo investigation of electronic transport in ultra‐scaled SOI MOSFETs (keeping constant field bias conditions and with gate lengths from 180 nm down to 20 nm) is presented, with particular attention to the influence of quasi‐ballistic transport on the high‐frequency noise. To this end, the movement of each individual particle crossing the device channel is registered and analyzed, thus allowing obtaining important transport quantities such as transit times, characteristic time between scatterings, etc. The results evidence that charge transport presents strongly quasi‐ballistic features for gate lengths below 30 nm. It is found that, for a gate length equal to 20 nm, drain and gate noise become practically identical to the noise produced under a fully ballistic regime, which in fact represents a limit to the noise generated within the device channel in extremely short transistors.",
+        "email": "",
+        "conf": "American Institute of Physics",
+        "coauthors": [
+            "Maria J Martin",
+            "Raul Rengel",
+            "E. Pascual",
+            "Tomas Gonzalez"
+        ],
+        "keywords": "85.30.Tv; 73.23.Ad; 72.70.+m; 85.40.Qx; Field effect devices; Ballistic transport; Noise processes and phenomena; Microcircuit quality noise performance and failure analysis"
+    },
+    {
+        "id": 3277,
+        "label": 69,
+        "author": "maria jesus martin martinez",
+        "title": "Monte Carlo characterization of fabricated partially-depleted SOI MOSFETs: High-frequency performance",
+        "organization": "Profesor del area de ElectrÃƒÂ³nica (Universidad de Salamanca)",
+        "abstract": "This paper addresses a Monte Carlo (MC) investigation of fabricated partially depleted (PD) silicon-on-insulator (SOI) MOSFETs. Numerical results show a good agreement to the main high-frequency figures of merit of the transistor, providing at the same time an advanced understanding of the electronic charge transport processes by means of the main internal quantities of interest. The excellent performance of the devices investigated (with NF/sub min/ of 0.4 dB at 6 GHz) makes them feasible candidates to be used in RF and microwave analog applications",
+        "email": "",
+        "conf": "Conference on Electron Devices",
+        "coauthors": [
+            "Raul Rengel",
+            "Maria J Martin",
+            "Guillaume Pailloncy",
+            "G. Dambrine",
+            "F. Danneville"
+        ],
+        "keywords": "Monte Carlo methods,MOSFETs,Silicon on insulator technology,Microwave transistors,Isolation technology,Acoustic noise,Topology,Insulation,Noise measurement,Radio frequency"
+    },
+    {
+        "id": 3253,
+        "label": 69,
+        "author": "maria jesus martin martinez",
+        "title": "Velocity and momentum fluctuations in Suspended Monolayer Graphene",
+        "organization": "Profesor del area de ElectrÃƒÂ³nica (Universidad de Salamanca)",
+        "abstract": "In this work, the instantaneous velocity and momentum fluctuations in suspended monolayer graphene are investigated by means of an ensemble Monte Carlo simulator. Due to the particular properties of graphene band structure (conical dispersion relationship near the Dirac points), instantaneous velocity fluctuations show a non-linear dependence with time during free flights, being limited by the maximum value set by the Fermi velocity. On the other hand, momentum fluctuations follow the linear dependence expected by the laws of motion. Particular attention is paid to the auto-correlation function of velocity fluctuations and the power spectral density at high frequencies (from which the axial diffusion coefficient is obtained), studying their relation to microscopic transport phenomena (scattering events undergone and relaxation times)",
+        "email": "",
+        "conf": "International Conference on Noise and Fluctuations",
+        "coauthors": [
+            "Maria J Martin",
+            "Carlos Couso",
+            "Raul Rengel"
+        ],
+        "keywords": "suspended monolayer graphene,Monte Carlo simulation,velocity fluctuations,high-frequency noise"
+    },
+    {
+        "id": 3254,
+        "label": 69,
+        "author": "maria jesus martin martinez",
+        "title": "A Monte Carlo Study of electron transport in suspended monolayer graphene",
+        "organization": "Profesor del area de ElectrÃƒÂ³nica (Universidad de Salamanca)",
+        "abstract": "A microscopic study of electronic transport in suspended monolayer graphene is presented. The results have been obtained by means of an ensemble Monte Carlo simulator that takes into account the main physical properties of the graphene bandstructure and the most relevant scattering mechanisms for this type of material. The carrier velocity value is mainly set by the dominant influence of optical and acoustic intervalley phonons, particularly at high electric fields, where a negative differential conductance is observed. The average time between scatterings shows an asymptotic behavior with the applied electric field, with values in the order of tenths of ps. The influence of the electric field on the wavevector distribution is also analyzed, showing a saturation trend in the displacement of the charge centroid with a linear increase in the average energy. Finally, the instantaneous velocity and the correlation function of velocity fluctuations are also studied",
+        "email": "",
+        "conf": "Conference on Electron Devices",
+        "coauthors": [
+            "Raul Rengel",
+            "Carlos Couso",
+            "Maria J Martin"
+        ],
+        "keywords": "monolayer graphene,Monte Carlo simulation,electronic transport,velocity fluctuations"
+    },
+    {
+        "id": 3245,
+        "label": 69,
+        "author": "maria jesus martin martinez",
+        "title": "Noise temperature in graphene at high frequencies",
+        "organization": "Profesor del area de ElectrÃƒÂ³nica (Universidad de Salamanca)",
+        "abstract": "A numerical method for obtaining the frequency-dependent noise temperature in monolayer graphene is presented. From the mobility and diffusion coefficient values provided by Monte Carlo simulation, the noise temperature in graphene is studied up to the THz range, considering also the influence of different substrate types. The influence of the applied electric field is investigated: the noise temperature is found to increase with the applied field, dropping down at high frequencies (in the sub-THz range). The results show that the low-frequency value of the noise temperature in graphene on a substrate tends to be reduced as compared to the case of suspended graphene due to the important effect of remote polar phonon interactions, thus indicating a reduced emitted noise power; however, at very high frequencies the influence of the substrate tends to be significantly reduced, and the differences between the suspended and on-substrate cases tend to be minimized. The values obtained are comparable to those observed in GaAs and semiconductor nitrides.",
+        "email": "",
+        "conf": "Semiconductor Science and Technology",
+        "coauthors": [
+            "Raul Rengel",
+            "Jose M. Iglesias",
+            "Elena Pascual",
+            "Maria J Martin"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3263,
+        "label": 69,
+        "author": "maria jesus martin martinez",
+        "title": "A Monte Carlo model for the study of n-type strained Silicon Schottky diodes",
+        "organization": "Profesor del area de ElectrÃƒÂ³nica (Universidad de Salamanca)",
+        "abstract": "A Monte Carlo investigation of charge transport in Strained Silicon Schottky diodes is presented. The effect of strain on the reverse current for several state-of-the-art barrier heights is discussed and extensively analyzed. The results show an important increase of current with strain, which allows achieving lower effective barrier heights due to the shifting of Δ 2 conduction band valleys. However, the relative improvement provided by the strain is slightly less significant for lower barrier heights due to the changes in tunneling and thermionic components of the total current.",
+        "email": "",
+        "conf": "Conference on Electron Devices",
+        "coauthors": [
+            "Jose Mo Galeote",
+            "Raul Rengel",
+            "E. Pascual",
+            "Maria J Martin"
+        ],
+        "keywords": "Strain,Schottky diode,Monte Carlo simulation"
+    },
+    {
+        "id": 3251,
+        "label": 69,
+        "author": "maria jesus martin martinez",
+        "title": "Influence of the substrate on the diffusion coefficient and the momentum relaxation in graphene: The role of surface polar phonons",
+        "organization": "Profesor del area de ElectrÃƒÂ³nica (Universidad de Salamanca)",
+        "abstract": "Knowing the influence of the substrate type on the diffusion coefficient and the momentum relaxation in graphene is of great importance for the development of new device models specifically adapted to the peculiarities of this material. In this work, the influence of surface polar phonons at low and high electric fields is evaluated by means of ensemble Monte Carlo simulations for several types of substrates. The results show that at low fields, surface polar phonons have a major role on reducing the scattering time, breaking the correlation of velocity fluctuations, and degrading the diffusion coefficient. At high fields, the differences with regard to suspended samples in terms of diffusivity and momentum relaxation tend to reduce, providing at the same time larger saturation velocities, particularly for h-BN.",
+        "email": "",
+        "conf": "Applied Physics Letters",
+        "coauthors": [
+            "Ral Rengel",
+            "E. Pascual",
+            "Maria J Martin"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3282,
+        "label": 69,
+        "author": "maria jesus martin martinez",
+        "title": "A physically based investigation of the small-signal behaviour of bulk and fully-depleted silicon-on-insulator MOSFETs for microwave applications",
+        "organization": "Profesor del area de ElectrÃƒÂ³nica (Universidad de Salamanca)",
+        "abstract": "We present a Monte Carlo investigation of the dynamic performance of bulk and FD SOI MOSFET devices with one-to-one comparable topologies. The features of the simulator allow us to provide a complete comprehension of the transport phenomena and the main internal quantities that are connected to the small-signal behaviour of the devices at RF and microwave frequencies. In this way, the effect of the buried oxide and the variation of the active layer thickness on the static and dynamic characteristics of FD SOI MOSFETs are readily evaluated, and an exhaustive investigation of the physical basis of the dynamic performance is realized, thus clarifying the underlying differences between bulk and FD SOI transistors that can be used for the optimization of the devices. The parameters of the small-signal equivalent circuit are carefully analysed: important issues, such as the high frequency capacitive coupling to the substrate, the physical meaning of non-quasistatic parameters or the behaviour of figures of merit such as gm, fT and fmax are studied in detail. Furthermore, when scattering parameters are evaluated the kink effect in the S22 parameter at high frequencies has been checked to be much more pronounced in the case of FD SOI devices.",
+        "email": "",
+        "conf": "Semiconductor Science and Technology",
+        "coauthors": [
+            "Ral Rengel",
+            "Diego hernando Pardo",
+            "Maria J Martin"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3296,
+        "label": 69,
+        "author": "maria jesus martin martinez",
+        "title": "Simulation of electron transport in silicon: impact-ionization processes",
+        "organization": "Profesor del area de ElectrÃƒÂ³nica (Universidad de Salamanca)",
+        "abstract": "Using non-parabolic ellipsoidal X and L valleys to represent the conduction band of Si, the authors have developed a Monte Carlo simulation for the study of electron transport properties in this material, under both low and high electric field conditions. Employing a simple model for the characterization of the impact ionization processes they have obtained the ionization coefficient and the probability of electron ionization. The results highlight the importance of the L valleys in very high transport phenomena, and compare favourably with other experimental and theoretical data.",
+        "email": "",
+        "conf": "Semiconductor Science and Technology",
+        "coauthors": [
+            "Maria J Martin",
+            "Toms Gonzlez",
+            "JE VELAZQUEZ",
+            "Diego hernando Pardo"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3291,
+        "label": 69,
+        "author": "maria jesus martin martinez",
+        "title": "Analysis of current fluctuations in silicon pn+ and p+n homojunctions",
+        "organization": "Profesor del area de ElectrÃƒÂ³nica (Universidad de Salamanca)",
+        "abstract": "A detailed study of bipolar transport under forward‐bias conditions is evaluated by Ensemble Monte Carlo simulation in two structures (p+n and pn+ junctions). The static characteristics of both structures are presented. In particular, this study focuses on a microscopic analysis of current fluctuations. A decomposition of the autocorrelation function of the total current fluctuations in electron, hole and crossed contributions is performed. In this way, the importance of each type of carrier in the spectral density of current fluctuations in both structures for a wide frequency range is determined. In the low frequency range, the presence of shot, thermal and excess noise was found. The Ensemble Monte Carlo method also permits ready evaluation of the noise equivalent temperature in both structures.",
+        "email": "",
+        "conf": "Journal of Applied Physics",
+        "coauthors": [
+            "Maria J Martin",
+            "Jess Enrique Velzquez-Prez",
+            "Diego hernando Pardo"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3278,
+        "label": 69,
+        "author": "maria jesus martin martinez",
+        "title": "On the influence of space-quantization effects on the RF noise behaviour of DG mosfets",
+        "organization": "Profesor del area de ElectrÃƒÂ³nica (Universidad de Salamanca)",
+        "abstract": "We present a particle-based Monte Carlo investigation of the high frequency noise behavior of a double gate MOSFET. The effective potential approach has been considered for the description of vertical quantum confinement of carriers within the channel. The intrinsic noise sources and the main circuital noise parameters are studied, together with the static and dynamic parameters, thus allowing to provide a full comprehension of the inner physics of the device and elucidating the consequences of quantum mechanical space-quantization effects (like charge repulsion from the gate-oxide boundaries). Results show that neglecting quantum phenomena leads to an important overestimation of gate capacitance and device transconductance and an underestimation of the final influence of induced gate noise (via the normalized parameter R) on the circuital noise parameters at RF and microwave frequency ranges.",
+        "email": "",
+        "conf": "Fluctuation and Noise Letters",
+        "coauthors": [
+            "Raul Rengel",
+            "Tomas Gonzalez",
+            "Maria J Martin"
+        ],
+        "keywords": "Double Gate MOSFET,ensemble Monte Carlo,effective potential,high-frequency noise"
+    },
+    {
+        "id": 3267,
+        "label": 69,
+        "author": "maria jesus martin martinez",
+        "title": "Enhanced carrier injection in Schottky contacts using dopant segregation: A Monte Carlo research",
+        "organization": "Profesor del area de ElectrÃƒÂ³nica (Universidad de Salamanca)",
+        "abstract": "In this paper we present a Monte Carlo research of the impact, on carrier transport, of including a dopant-segregated layer adjacent to the Schottky contact in back-to-back diodes. A comparison with a homogeneous structure is developed, evidencing that the doped layer boosts the tunneling current through the Schottky barrier, thus significantly improving the injection of carriers at the contact. We have carried out a complete study of carrier injection and transport in the region close to the reverse-biased contact together with the analysis of internal quantities such as conduction band, carrier density and electric field. The effect of temperature on the current is also evaluated. The study of the velocity distribution functions and the average number of scatterings undergone by the carriers reveals that devices with dopant segregation exhibit an enhancement of the ballistic transport in the first nanometers close to the Schottky contact.",
+        "email": "",
+        "conf": "Semiconductor Science and Technology",
+        "coauthors": [
+            "Elena Pascual",
+            "Maria J Martin",
+            "Raul Rengel",
+            "Guilhem Larrieu",
+            "Emmanuel Dubois"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3266,
+        "label": 69,
+        "author": "maria jesus martin martinez",
+        "title": "Comparative study of Laterally Asymmetric Channel and conventional MOSFETs",
+        "organization": "Profesor del area de ElectrÃƒÂ³nica (Universidad de Salamanca)",
+        "abstract": "In this work, we present a comparative study of the static and high-frequency performance of laterally asymmetric channel (LAC) MOSFETs and conventional devices. Simulations were carried out by means of an ensemble Monte Carlo simulator, taking into account a realistic variation of the doping profile in the channel of the LAC. In the case of the conventional device, an homogeneous doping is chosen to provide the same threshold voltage value than for the LAC MOSFET. Results show that the use of asymmetric doping provides a higher transconductance and improved cut-off frequency, as well as improved values for the main noise circuital figures of merit.",
+        "email": "",
+        "conf": "Conference on Electron Devices",
+        "coauthors": [
+            "Raul Rengel",
+            "Maria J Martin",
+            "Francois Danneville"
+        ],
+        "keywords": "MOSFETs,Los Angeles Council,Monte Carlo methods,Doping profiles,Threshold voltage,Transconductance,Cutoff frequency,Circuit noise,Noise figure,Noise measurement"
+    },
+    {
+        "id": 3295,
+        "label": 69,
+        "author": "maria jesus martin martinez",
+        "title": "One-dimensional Monte Carlo analysis of electron transport in submicrometre silicon structures",
+        "organization": "Profesor del area de ElectrÃƒÂ³nica (Universidad de Salamanca)",
+        "abstract": "By coupling an ensemble Monte Carte simulator with a one-dimensional Poisson solver, we analyse anisotropic electron transport in homogeneous Si structures and submicrometre n+nn+ diodes. The model employed for the conduction band in the simulation approximates the real band by means of non-parabolic ellipsoidal X and L valleys. An energy limit for the energy that the electron can reach in the X valleys has been established. Firstly, in order to check the validity of the band model over a wide range of electric fields a study of anisotropic electron transport in bulk Si has been performed. On the basis of bulk Si results, the electron transport properties in both structures have been thoroughly explained by the analysis of the static characteristics. Special attention is paid to the origin of the anisotropic effects, which are explained in terms of the different occupation of the X valleys. The L valleys are found to have an influence for the highest fields",
+        "email": "",
+        "conf": "Semiconductor Science and Technology",
+        "coauthors": [
+            "Maria J Martin",
+            "Toms Gonzalez",
+            "Diego hernando Pardo",
+            "J. E. Velezquez"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3286,
+        "label": 69,
+        "author": "maria jesus martin martinez",
+        "title": "A Monte Carlo analysis of dynamic and noise performance of submicron MOSFETs at RF and microwave frequencies",
+        "organization": "Profesor del area de ElectrÃƒÂ³nica (Universidad de Salamanca)",
+        "abstract": "In this paper, an ensemble 2D bipolar Monte Carlo simulator is employed for the study of static characteristics, high-frequency response and noise behaviour in a 0.3 µm gate-length n-MOSFET in common source configuration. Short-channel effects, such as velocity overshoot in the pinch-off region, together with the appearance of hot electrons at the drain end of the channel are observed in the static characteristics. Admittance parameters and the small-signal equivalent circuit have been calculated in order to characterize the dynamic response of the device. The use of a bipolar simulator allows one to study the dynamics of both types of carriers simultaneously. While the static results are dominated by the electron transport, the contribution of holes mainly affects the drain-substrate capacitive coupling. The noise behaviour of the simulated MOSFET is also studied (up to 40 GHz) by means of different parameters, such as the spectral densities of the current fluctuations at the drain and gate terminals (and their cross-correlation), normalized α, β and C parameters and NFmin . In the saturation regime, due to the presence of hot carriers, an increase in drain and gate noise with respect to the long-channel prediction has been found. Moreover, a stronger correlation between drain and gate noise is observed, especially at low drain current. Induced gate noise is found to play a crucial role in the determination of NFmin at high drain currents.",
+        "email": "",
+        "conf": "Semiconductor Science and Technology",
+        "coauthors": [
+            "Ral Rengel",
+            "J. Mateos",
+            "Diego hernando Pardo",
+            "T. Gonzalez",
+            "Maria J Martin"
+        ],
+        "keywords": "Noise, Short channel, Static characteristic, Microwave, Monte Carlo method, Frequency response, MOSFET"
+    },
+    {
+        "id": 3255,
+        "label": 69,
+        "author": "maria jesus martin martinez",
+        "title": "Schottky Barrier MOSFETs working in the linear regime: A Monte Carlo study of microscopic transport",
+        "organization": "Profesor del area de ElectrÃƒÂ³nica (Universidad de Salamanca)",
+        "abstract": "This paper presents a detailed study (using a 2D Monte Carlo simulator) of the impact on electronic transport of dopant segregation layers in Schottky Barrier MOSFETs operating under the linear regime. It is shown that with a careful control of the layer parameters the performance of the devices are significantly improved, with a boosting of the drive current and an important reduction of the linear resistance (Rds(on)). The origin of these advantages can be related to internal microscopic transport quantities like transit time, distance travelled, scattering mechanisms, etc. The enhanced performance of Schottky Barrier MOSFETs including dopant segregation layers confirms the suitability of this technology to help extending the IRTS roadmap for Silicon MOS devices",
+        "email": "",
+        "conf": "Conference on Electron Devices",
+        "coauthors": [
+            "Carlos Couso",
+            "Raul Rengel",
+            "Maria J Martin"
+        ],
+        "keywords": "Schottky barrier MOSFET,Dopant segregation layer,linear regime,Monte Carlo"
+    },
+    {
+        "id": 3261,
+        "label": 69,
+        "author": "maria jesus martin martinez",
+        "title": "Microscopic modeling of RF noise in laterally asymmetric channel MOSFETs",
+        "organization": "Profesor del area de ElectrÃƒÂ³nica (Universidad de Salamanca)",
+        "abstract": "A study of the high-frequency noise performance of laterally asymmetric channel (LAC) MOSFETs and conventional devices is presented. Particular attention is paid to the investigation of the influence of the intrinsic noise sources on the noise performance of the transistors. The improvement in the minimum noise figure of the LAC transistor as compared to a conventional MOSFET is analyzed in terms of reduced induced gate noise, higher cross correlation of drain and gate current fluctuations, and the enhancement of the device transconductance",
+        "email": "",
+        "conf": "IEEE Electron Device Letters",
+        "coauthors": [
+            "Raul Rengel",
+            "Maria J Martin",
+            "Francois Danneville"
+        ],
+        "keywords": "Intrinsic noise sources,laterally asymmetric channel (LAC) MOSFET,minimum noise figure,Monte Carlo modeling,RF performance"
+    },
+    {
+        "id": 3284,
+        "label": 69,
+        "author": "maria jesus martin martinez",
+        "title": "High-frequency noise in FDSOI MOSFETs: a Monte Carlo investigation",
+        "organization": "Profesor del area de ElectrÃƒÂ³nica (Universidad de Salamanca)",
+        "abstract": "Due to the enormous industrial interest of the SOI MOSFET technology, a proper understanding of the physics underlying the behavior of these devices is necessary in order to optimize their high frequency performance. In this work, we study the static, dynamic and noise characteristics of FDSOI MOSFET’s by means of numerical simulations validated by comparison with experimental data. For this purpose, we use a 2D Ensemble Monte Carlo simulator, taking into account, in an appropriate manner, the physical topology of a fabricated 0.25 μm gate-length FDSOI transistor. Important effects appearing in real transistors, such as surface charges, contact resistances, impact ionization phenomena and extrinsic parasitics are included in the simulation. This allows to accurately reproduce the experimental behavior of static and dynamic parameters (output and transference characteristics, gm/ID ratio, capacitances, etc.). Moreover, results are explained by means of internal quantities such as concentration, velocity or energy of carriers. The results of the Monte Carlo simulations for the typical four noise parameters (NFmin, Gass, Rn, \\Gamma opt) of the 0.25 μm FDSOI MOSFET also show an exceptional agreement with experimental data. Once the reliability of the simulator has been confirmed, a full study of the noise characteristics of the device (noise sources, drain spectral densities, α, β and C parameters, etc.) is performed. Taking advantage of the possibilities of the Monte Carlo method as a pseudo-experimental approach, the influence on these noise characteristics of the variation of some geometry parameters (i.e., downscaling the gate length, thickness of the active layer or inclusion of HALO regions) is evaluated an interpreted in terms of microscopic transport processes.",
+        "email": "",
+        "conf": "Proceedings of SPIE - The International Society for Optical Engineering",
+        "coauthors": [
+            "Raul Rengel",
+            "Javier Mateos",
+            "Diego hernando Pardo",
+            "Tomas Gonzalez",
+            "Maria Jesus Martin",
+            "Gilles Dambrine",
+            "Francois Danneville",
+            "Jean-Pierre Raskin"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3283,
+        "label": 69,
+        "author": "maria jesus martin martinez",
+        "title": "Microscopic analysis of the high-frequency noise behaviour of Fully-Depleted Silicon-On-Insulator MOSFETs",
+        "organization": "Profesor del area de ElectrÃƒÂ³nica (Universidad de Salamanca)",
+        "abstract": "",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Raul Rengel",
+            "J. Mateos",
+            "Diego hernando Pardo",
+            "Maria J. Martin",
+            "G. Dambrine",
+            "F. Danneville",
+            "Jean-Pierre Raskin"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3279,
+        "label": 69,
+        "author": "maria jesus martin martinez",
+        "title": "Influence of 2D electrostatic effects on the high-frequency noise behavior of sub-100-nm scaled MOSFETs",
+        "organization": "Profesor del area de ElectrÃƒÂ³nica (Universidad de Salamanca)",
+        "abstract": "In this work, we have performed an investigation of the consequences of dowscaling the bulk MOSFET beyond the 100 nm range by means of a particle-based Monte Carlo simulator. Taking a 250 nm gate-length ideal structure as the starting point, the constant field scaling rules (also known as “classical” scaling) are considered and the high-frequency dynamic and noise performance of transistors with 130 nm, 90 nm and 60 nm gate-lengths are studied in depth. The analysis of internal quantities such as electric fields, velocity and energy of carriers or conduction band profiles shows the increasing importance of electrostatic two-dimensional effects due to the proximity of source and drain regions even when the most ideal bias conditions are imposed. As a consequence, a loss of the transistor action for the smallest MOSFET and the degradation of the most important high-frequency figures of merit is observed. Whereas the comparative values of intrinsic noise sources (SID, SIG) are improved when reducing the dimensions and the bias voltages, the poor dynamic performance yields an overall worse noise behaviour than expected (especially for Rn and Gass), limiting at the same time the useful bias ranges and conditions for a proper low-noise configuration.",
+        "email": "",
+        "conf": "Proceedings of SPIE - The International Society for Optical Engineering",
+        "coauthors": [
+            "Raul Rengel",
+            "Daniel hernando Pardo",
+            "Maria J Martin"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3281,
+        "label": 69,
+        "author": "maria jesus martin martinez",
+        "title": "Towards the nanoscale: Influence of scaling on the electronic transport and small-signal behaviour of MOSFETs",
+        "organization": "Profesor del area de ElectrÃƒÂ³nica (Universidad de Salamanca)",
+        "abstract": "In this work, the influence of downscaling bulk MOSFETs below the 100 nm range on their static and dynamic behaviour is analysed by means of a particle-based Monte Carlo simulator. Internal transport conditions are investigated throughout the extensive information provided by numerical simulations (electric fields, concentration, velocity and energy of carriers, energy bands, etc), and a physical interpretation is given to the dynamic behaviour observed. Results show that even when the most favourable downscaling conditions are considered (that is, following the constant field scaling rules), significant two-dimensional electrostatic effects, together with reduced gate control, lead to the degradation of important figures of merit such as gate-to-source capacitance, transconductance or maximum oscillation frequency. Conventional MOSFET geometries are therefore near to a limit when reaching gate lengths of 50 nm, and the use of alternative solutions is necessary in order to maintain the proper electrostatic behaviour of a 'well-tempered' transistor.",
+        "email": "",
+        "conf": "Nanotechnology",
+        "coauthors": [
+            "Ral Rengel",
+            "Diego hernando Pardo",
+            "Maria J Martin"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3264,
+        "label": 69,
+        "author": "maria jesus martin martinez",
+        "title": "Electronic Transport in Laterally Asymmetric Channel MOSFET for RF Analog Applications",
+        "organization": "Profesor del area de ElectrÃƒÂ³nica (Universidad de Salamanca)",
+        "abstract": "In this paper, an ensemble Monte Carlo investigation of the static and dynamic performances in the high-frequency domain of laterally asymmetric channel (LAC) bulk metal-oxide-semiconductor field-effect transistors (MOSFETs) is presented. A detailed comparison with a homogeneously doped bulk device is also included. The results presented show that the use of an asymmetric doping within the channel enhances nonequilibrium features as velocity overshoot, thus significantly improving the transconductance of the device. The gradual variation of doping is also responsible for a modification of the electrostatic conditions and the inversion charge profiles, provoking the reduction of the gate-to-source capacitance, a minor influence of surface scattering, reduced transit times, and higher mean free paths. A noticeable enhancement (as compared to a conventional device) in the RF and microwave frequency range of the dynamic performance of the transistors is also evidenced. This is mainly due to a better transconductance-to-current ratio, Early voltage, and open-loop gain, which are the results of the improvement of the charge transport conditions in the device at a microscopic level. Therefore, LAC MOSFETs can be a viable option to enhance the figures of merit of bulk silicon technology for high-frequency analog applications.",
+        "email": "",
+        "conf": "IEEE Transactions on Electron Devices",
+        "coauthors": [
+            "Ral Rengel",
+            "Maria Jesus Martin"
+        ],
+        "keywords": "Cutoff frequency,Early voltage,electronic transport,laterally asymmetric channel (LAC) metal–oxide-semiconductor field-effect transistor (MOSFET),Monte Carlo simulation,RF performance,transconductance"
+    },
+    {
+        "id": 3260,
+        "label": 69,
+        "author": "maria jesus martin martinez",
+        "title": "Influence of the underlap length on the RF noise performance of a Schottky Barrier MOSFET",
+        "organization": "Profesor del area de ElectrÃƒÂ³nica (Universidad de Salamanca)",
+        "abstract": "This paper is focused on the analysis of the high-frequency dynamic and noise performance and the static characteristics of n-type Schottky barrier (SB) MOSFETs on SOI substrate. A 2D Ensemble Monte Carlo (EMC) simulator including tunnelling transport at the Schottky interfaces has been used. Quantum transmission coefficients and treatment of image charge effects on the Schottky barrier have been carefully considered. The influence of the underlap length on the main figures of merit is described, thus showing the importance of this architecture parameter for the optimization of these devices.",
+        "email": "",
+        "conf": "Conference on Noise and Fluctuations",
+        "coauthors": [
+            "E. Pascual",
+            "Raul Rengel",
+            "Maria J Martin"
+        ],
+        "keywords": "Logic gates,Noise,Schottky barriers,Monte Carlo methods,MOSFET circuits,Tunneling,Metals,noise performance,Monte Carlo Simulator,Schottky Barrier MOSFET,underlap length"
+    },
+    {
+        "id": 3272,
+        "label": 69,
+        "author": "maria jesus martin martinez",
+        "title": "Monte Carlo analysis of tunneling and thermionic transport in a reverse biased Schottky diode",
+        "organization": "Profesor del area de ElectrÃƒÂ³nica (Universidad de Salamanca)",
+        "abstract": "A Monte Carlo investigation of transport through Schottky barriers is presented. A WKB based injection-absorption model has been developed, thus allowing correctly reproducing the experimental J-V curves. The reverse-bias regime is analyzed in depth, and the main features of charge transport (including the evidence of quasiballistic phenomena) are discussed by considering internal quantities such as average energy, velocity and concentration of carriers, electric field and potential profiles, together with velocity distribution functions. Tunneling processes show to have a great importance for low and moderately high reverse applied voltages",
+        "email": "",
+        "conf": "Conference on Electron Devices",
+        "coauthors": [
+            "Elena Pascual",
+            "Raul Rengel",
+            "Maria J Martin"
+        ],
+        "keywords": "Schottky barriers,quantum transmission coefficient,WKB approach,Monte Carlo device simulator"
+    },
+    {
+        "id": 3285,
+        "label": 69,
+        "author": "maria jesus martin martinez",
+        "title": "RF noise in a short-channel n-MOSFET: a Monte Carlo study",
+        "organization": "Profesor del area de ElectrÃƒÂ³nica (Universidad de Salamanca)",
+        "abstract": "We present a complete Monte Carlo analysis of transport and RF noise in a short-gate nMOSFET. Short-channel effects are observed in the static characteristics. Velocity overshoot of electrons in the channel, as well as the appearance of hot carriers are detected' P, R and C noise parameters show an important increase in their values with respect to the long-channel theory prehictions due to the pr\"i\"nc\" of hot electrons. NF.¡n is also calculated; results confirm the imporEnce of induced gate noise on the behaviour ofthis parameter.",
+        "email": "",
+        "conf": "Materials Science Forum",
+        "coauthors": [
+            "Raul Rengel",
+            "J. Mateos",
+            "Diego hernando Pardo",
+            "T. Gonzalez",
+            "Maria J Martin"
+        ],
+        "keywords": "MOSFETs, RF analysis, Monte Carlo, simulation, semiconductor devices, noise"
+    },
+    {
+        "id": 3238,
+        "label": 69,
+        "author": "maria jesus martin martinez",
+        "title": "Damping of acoustic flexural phonons in silicene: Influence on high-field electronic transport",
+        "organization": "Profesor del area de ElectrÃƒÂ³nica (Universidad de Salamanca)",
+        "abstract": "Silicene is a two-dimensional buckled material with broken horizontal mirror symmetry and Dirac-like dispersion. Under such conditions, flexural acoustic (ZA) phonons play a dominant role. Consequently, it is necessary to consider some suppression mechanism for electron–phonon interactions with long wavelengths in order to reach mobilities useful for electronic applications. In this work, we analyze, by means of an ensemble Monte Carlo simulator, the influence of several possibilities for the description of the effect of ZA phonon damping on electronic transport in silicene. The results show that a hard cutoff situation (total suppression for phonons with a wavelength longer than a critical one), as it has been proposed in the literature, does not yield a realistic picture regarding the electronic distribution function, and it artificially induces a negative differential resistance at moderate and high fields. Sub-parabolic dispersions, on the other hand, may provide a more realistic description in terms of the behavior of the electron distribution in the momentum space, but need extremely short cutoff wavelengths to reach functional mobility and drift velocity values",
+        "email": "",
+        "conf": "Semiconductor Science and Technology",
+        "coauthors": [
+            "Raul Rengel",
+            "Jose M. Iglesias",
+            "El mokhtar Hamham",
+            "Maria J Martin"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3274,
+        "label": 69,
+        "author": "maria jesus martin martinez",
+        "title": "A microscopic interpretation of the RF noise performance of fabricated FDSOI MOSFETs",
+        "organization": "Profesor del area de ElectrÃƒÂ³nica (Universidad de Salamanca)",
+        "abstract": "In this paper, a detailed research of the high-frequency noise sources and figures of merit (FOMs) of fabricated deep-submicrometer n-channel fully depleted silicon-on-insulator MOSFETs is carried out. Special care is given to reproduce the main topology parameters, together with the most relevant parasitic elements of real devices in order to accomplish an accurate and reliable simulation. The information provided by the Monte Carlo (MC) tool allows getting a physical insight of the relationship between internal quantities and the main noise sources inside the device; moreover, the spectral density of velocity fluctuations has been analyzed spatially in order to determine the local current noise source in the gradual channel and velocity overshoot sections of the effective channel. Together with the calculation of intrinsic noise sources, the MC simulator is able to reproduce the measurements for the main noise FOMs in the RF and microwave frequency ranges. Moreover, the whole simulation framework allows addressing the importance of parasitic elements in the final value of these FOMs",
+        "email": "",
+        "conf": "IEEE Transactions on Electron Devices",
+        "coauthors": [
+            "Raul Rengel",
+            "Maria J Martin",
+            "Toms Gonzlez",
+            "J. Mateos",
+            "D. Pardo",
+            "G. Dambrine",
+            "J. P. Raskin",
+            "Franois Danneville"
+        ],
+        "keywords": "Fully depleted silicon-on-insulator (FD-SOI),high-frequency noise,minimum noise figure,Monte Carlo (MC) simulation,MOSFET,parasitic resistances,velocity fluctuations"
+    },
+    {
+        "id": 3280,
+        "label": 69,
+        "author": "maria jesus martin martinez",
+        "title": "Monte Carlo particle-based simulation of DG MOSFETs: Influence of space-quantization effects on the high-frequency noise",
+        "organization": "Profesor del area de ElectrÃƒÂ³nica (Universidad de Salamanca)",
+        "abstract": "Double Gate Metal-Oxide-Semiconductor Field-Effect-Transistors (DG MOSFETs) are one of the most promising candidates for future CMOS applications in order to comply with the ITRS requirements. Vertical quantum confinement plays a very important role in these devices when the active layer is below 10 nm, and it can modify significantly the performance of the transistors due to the reduction in the inversion layer population and the modification of transport conditions inside the active zone. Starting from an analysis of the results obtained within a semi-classical framework, we present the discussion of the dynamic and noise results when the effective potential approach is considered for the description of quantum effects in a particle-based Monte Carlo simulator. The main static and dynamic figures of merit are investigated, together with the intrinsic noise sources, thus allowing to provide a full comprehension of the inner physics of the devices and elucidating the consequences of quantum mechanical space-quantization effects (like charge repulsion from the gate-oxide boundaries). Results show that neglecting quantum phenomena leads to an important overestimation of gate capacitance and device transconductance and an underestimation of induced gate noise at RF and microwave frequency ranges.",
+        "email": "",
+        "conf": "Proceedings of SPIE - The International Society for Optical Engineering",
+        "coauthors": [
+            "Raul Rengel",
+            "Tomas Gonzalez",
+            "Maria J Martin"
+        ],
+        "keywords": "Capacitance, Confinement, Active layer, Inversion layer, High-frequency effects, Quantum effect, Performance evaluation, Figure of merit, Transistor gate, Population inversion, Monte Carlo, method, Gate oxide, Effective potential, Simulator, Noise source, Complementary MOS technology, Transconductance, MOSFET, Dual gate transistor, Numerical simulation"
+    },
+    {
+        "id": 3256,
+        "label": 69,
+        "author": "maria jesus martin martinez",
+        "title": "Space quantization effects in double gate SB-MOSFETs: Role of the active layer thickness",
+        "organization": "Profesor del area de ElectrÃƒÂ³nica (Universidad de Salamanca)",
+        "abstract": "In this paper a particle-based Monte Carlo research of the static performance of double gate Schottky barrier MOSFETs is presented. As the devices simulated have extremely reduced sizes, space quantization phenomena appear within the channel. For describing this effect the effective potential approach is considered. Several static quantities are studied in order to characterize the effects of the inclusion of a second gate in this kind of devices. Besides, the consequences of a drastic reduction of the devices' active layer thickness are also experimented. Results demonstrate that disregarding quantum phenomena leads to a distortion of the electron density profiles and to an overestimation of the current which flows within the devices. The inclusion of a second gate in these devices provokes the growth of the drain current. However, the decrease of the active layer thickness attenuates the drive currents, even though, the tunnel injection current, comparatively, grows",
+        "email": "",
+        "conf": "Conference on Electron Devices",
+        "coauthors": [
+            "Jose S. Garcia",
+            "Maria J Martin",
+            "Raul Rengel"
+        ],
+        "keywords": "double gate Schottky barrier MOSFET (DG-SB-MOSFET),ensemble Monte Carlo,effective potential approach,space quantization"
+    },
+    {
+        "id": 3258,
+        "label": 69,
+        "author": "maria jesus martin martinez",
+        "title": "RF dynamic and noise performance of metallic source/drain SOI n-MOSFETs",
+        "organization": "Profesor del area de ElectrÃƒÂ³nica (Universidad de Salamanca)",
+        "abstract": "This paper presents a detailed study of the RF and noise performance of n-type Schottky barrier (SB) MOSFETs with a particular focus on the influence of the Schottky barrier height (SBH) on the main dynamic and noise figures of merit. With this aim, a 2D Monte Carlo simulator including tunnelling transport across Schottky interfaces has been developed, with special care to consider quantum transmission coefficients and the influence of image charge effects at the Schottky junctions. Particular attention is paid to the microscopic transport features, including carrier mean free paths or number of scattering events along the channel for investigating the optimization of the device topology and the strategic concepts related to the noise performance of this new architecture. A more effective control of the gate electrode over drain current for low SBH (discussed in terms of internal physical quantities) is translated into an enhanced transconductance gm, cut-off frequency fT, and non-quasistatic dynamic parameters. The drain and gate intrinsic noise sources show a noteworthy degradation with the SBH reduction due to the increased current, influence of hot carriers and reduced number of phonon scatterings. However, the results evidence that this effect is counterbalanced by the extremely improved dynamic performance in terms of gm and fT. Therefore, the deterioration of the intrinsic noise performance of the SB-MOSFET has no significant impact on high-frequency noise FoMs as NFmin, Rn and Gass for low SBH and large gate overdrive conditions. The role of the SBH on Γopt, optimum noise reactance and susceptance has been also analyzed.",
+        "email": "",
+        "conf": "Solid-State Electronics",
+        "coauthors": [
+            "Maria J Martin",
+            "Elena Pascual",
+            "Ral Rengel"
+        ],
+        "keywords": "Schottky barrier (SB) MOSFET,Silicon-on-insulator (SOI),Monte Carlo modelling,Intrinsic noise sources,Minimum noise figure (NFmin),RF performance"
+    },
+    {
+        "id": 3250,
+        "label": 69,
+        "author": "maria jesus martin martinez",
+        "title": "Influence of systematic gate alignment variations on static characteristics in DG-SB-MOSFETs",
+        "organization": "Profesor del area de ElectrÃƒÂ³nica (Universidad de Salamanca)",
+        "abstract": "The main objective of this paper is to study the effects of variability in the position of the gates in Double-Gate Schottky-barrier MOSFETs by means of the Monte Carlo method. Taking a device with double gate and perfectly aligned contacts as a starting point, simulations were systematically performed to assess the impact of different types of gate misalignment that may appear. A complete picture of the problem is provided in relation to static device parameters, determining the influence of these factors on performance variability. Results manifest that SB-MOSFETs are extremely sensitive to gate misalignment, as, in extreme cases, drain current can reach relative variations up to 120%. This comes as a result of the carrier injection alterations when the gate potential positioning leads to fluctuations in the tunnel barrier which is at the source contact.",
+        "email": "",
+        "conf": "Conference on Electron Devices",
+        "coauthors": [
+            "Jose M. Iglesias",
+            "Maria J Martin",
+            "E. Pascual",
+            "Raul Rengel"
+        ],
+        "keywords": "variability,DC response,Double-Gate Shottky Barrier MOSFET"
+    },
+    {
+        "id": 3271,
+        "label": 69,
+        "author": "maria jesus martin martinez",
+        "title": "Injected Current and Quantum Transmission Coefficient in Low Schottky Barriers: WKB and Airy Approaches",
+        "organization": "Profesor del area de ElectrÃƒÂ³nica (Universidad de Salamanca)",
+        "abstract": "An exact solution of the quantum transmission coefficient has been obtained by using an Airy-transfer-matrix formalism to solve Schroumldinger equation. The procedure is applied to the calculation of the transmission coefficient in reverse-biased low Schottky diodes. The barrier profiles are given by Monte Carlo device simulations. As compared to the exact calculation, results indicate that injected current is much exacerbated when considering Wentzel-Kramers-Brillouin (WKB) approach or when neglecting quantum mechanical reflections for energies over the potential barrier. However, WKB could reasonably predict the total current if properly modifying the model parameters. Influence of barrier lowering is also discussed",
+        "email": "",
+        "conf": "IEEE Electron Device Letters",
+        "coauthors": [
+            "Ral Rengel",
+            "Elena Pascual",
+            "Maria J Martin"
+        ],
+        "keywords": "Airy functions,metallic source/drain,quantum transmission coefficient,Schottky barriers (SBs),semiconductor device modeling,Wentzel–Kramers–Brillouin (WKB) approach"
+    },
+    {
+        "id": 3246,
+        "label": 69,
+        "author": "maria jesus martin martinez",
+        "title": "Spectral density of velocity fluctuations under switching field conditions in graphene",
+        "organization": "Profesor del area de ElectrÃƒÂ³nica (Universidad de Salamanca)",
+        "abstract": "In this paper we present an analysis of the velocity fluctuations during transient regimes arising from an abrupt shift of the electric field in bulk monolayer graphene. For this purpose a material Ensemble Monte Carlo simulator is used to examine these fluctuations by means of the transient autocorrelation function and power spectral density. The evolution of these quantities as well as the non-stationary phenomena taking place during the transients is explained with a microscopic approach.",
+        "email": "",
+        "conf": "Journal of Statistical Mechanics Theory and Experiment",
+        "coauthors": [
+            "Jos M. Iglesias",
+            "Maria J Martin",
+            "E. Pascual",
+            "Raul Rengel"
+        ],
+        "keywords": "classical Monte Carlo simulations, fluctuations (theory), transport properties (theory), current fluctuations"
+    },
+    {
+        "id": 3268,
+        "label": 69,
+        "author": "maria jesus martin martinez",
+        "title": "Transit Time and Velocity Distribution Functions in Decananometer Gate-Length SOI MOSFETs",
+        "organization": "Profesor del area de ElectrÃƒÂ³nica (Universidad de Salamanca)",
+        "abstract": "A Monte Carlo investigation of transport in sub-100 nm gate length SOI MOSFETs is presented. Each super-particle within the channel is followed individually: scattering mechanisms undergone, distance travelled, transit time, etc. are accounted for the calculation of average statistical quantities and their distribution functions at different channel positions, together with their dependence on the gate length. In this way, the influence of non-stationary phenomena and quasiballistic transport is evaluated.",
+        "email": "",
+        "conf": "Nonequilibrium Carrier Dynamics in Semiconductors",
+        "coauthors": [
+            "Maria J Martin",
+            "Raul Rengel"
+        ],
+        "keywords": "Transit Time, Gate Length, Gate Current Leakage, Velocity Overshoot, Transit Time Distribution"
+    },
+    {
+        "id": 3293,
+        "label": 69,
+        "author": "maria jesus martin martinez",
+        "title": "Monte Carlo analysis of a Schottky diode with an automatic space-variable charge algorithm",
+        "organization": "Profesor del area de ElectrÃƒÂ³nica (Universidad de Salamanca)",
+        "abstract": "An efficient one-dimensional ensemble Monte Carlo simulator that improves the study of carrier transport by including a space-variable charge algorithm has been developed. The algorithm is automatically implemented in regions with remarkable concentration gradients. In this way is possible to study devices in which the carrier concentration varies by several orders of magnitude along the device and/or when we are interested in the population of states rarely occupied by the carriers (tails of distribution functions, hot electrons, etc) without excessive CPU requirements. In the present work this technique is used to study a Schottky barrier diode over a wide range of forward bias (80 - 800 mV). In particular, the exponential behaviour of the current - voltage characteristic, the agreement of this with the experimental results, the distribution function and the recombination velocity of carriers close to the metal - semiconductor interface confirm the validity of the implemented algorithm.",
+        "email": "",
+        "conf": "Semiconductor Science and Technology",
+        "coauthors": [
+            "Maria J Martin",
+            "Toms Gonzlez",
+            "Diego hernando Pardo",
+            "Jess Enrique Velzquez-Prez"
+        ],
+        "keywords": "Algorithm, Automatic analysis, Voltage current curve, Electric field, Charge carrier concentration, Schottky barrier diode, Field distribution, Concentration distribution, Velocity distribution function, Monte Carlo method, Analysis method, Simulator"
+    },
+    {
+        "id": 3236,
+        "label": 69,
+        "author": "maria jesus martin martinez",
+        "title": "Experiences on the Design Creation and Analysis of Multimedia Content to Promote Active Learning",
+        "organization": "Profesor del area de ElectrÃƒÂ³nica (Universidad de Salamanca)",
+        "abstract": "In an educational context, multimedia content can be created by the students, by the faculty, or by a third party. With the aim of improving the lab work, motivation, and active learning in introductory electronics courses, several innovative technologies and instructional strategies were considered involving these three possibilities: real-time screen capture, video recording with smartphones, and technical analysis of science fiction films. Factors such as ease of use, fast production, or no need of expensive tools were critical for the choice of these technologies, which were introduced on activities (lab sessions, collaborative work) where traditional strategies required too much time or could not be applied properly due to a large number of students and/or time constraints. We found that video lab reports made by the students using smartphones are a very adequate and straightforward assessment method, combining the advantages of oral assessment and written reports. The technical analysis of science fiction films proved to be helpful to reinforce the motivation of some students towards the subject, although it requires some degree of maturity to reach this end. Video tutorials made with screen capture technology proved to be easy to record and produce, and they constitute a fast and convenient way to produce new multimedia resources adapted to the specific needs of the subject.",
+        "email": "",
+        "conf": "Journal of Science Education and Technology",
+        "coauthors": [
+            "Raul Rengel",
+            "E. Pascual",
+            "Ignacio Inguez-de-la-Torre",
+            "Maria J Maria",
+            "Beatriz G. Vasallo"
+        ],
+        "keywords": "Multimedia content; Engineering; Screen capture; Smartphones; Cinema in education"
+    },
+    {
+        "id": 3292,
+        "label": 69,
+        "author": "maria jesus martin martinez",
+        "title": "Hydrodynamic and Monte Carlo simulation of steady-state transport and noise in submicrometre ? silicon structures",
+        "organization": "Profesor del area de ElectrÃƒÂ³nica (Universidad de Salamanca)",
+        "abstract": "A hydrodynamic approach based on velocity and energy conservation equations is developed and used for the simultaneous evaluation of the electronic steady-state transport, small-signal response and noise in an  Si structure. An original decomposition of velocity and energy profiles along the structure in terms of field, convective and diffusion contributions is presented. The local distribution of the noise source and voltage spectral density is carried out within the transfer-impedance method. The excellent agreement of the approach thus developed with Monte Carlo simulations supports its physical reliability and effectiveness for submicron-device modelling.",
+        "email": "",
+        "conf": "Semiconductor Science and Technology",
+        "coauthors": [
+            "E. Starikov",
+            "P. Shiktorov",
+            "V. Gruzinskis",
+            "T Gonzalez",
+            "Maria Jesus Martin",
+            "D Pardo",
+            "L Reggiani",
+            "L. Varani"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3242,
+        "label": 69,
+        "author": "maria jesus martin martinez",
+        "title": "Substrate influence on the early relaxation stages of photoexcited carriers in monolayer graphene",
+        "organization": "Profesor del area de ElectrÃƒÂ³nica (Universidad de Salamanca)",
+        "abstract": "The influence of different substrates on the photocarrier relaxation dynamics in monolayer graphene during the early stages of thermalization and cooling is explored and analyzed by means of ensemble Monte Carlo simulations. In addition, phonon dynamics of both intrinsic and surface polar modes associated to the interface between graphene and the underlying substrate are investigated. Suspended graphene and graphene on four of the most common substrates used for nanoelectronics will be studied, showing that depending on the case, carrier relaxation can be accelerated due to the leading role that the surface polar phonon modes take under such out-of-equilibrium situations. Among the considered cases, graphene on Al2O3 shows the highest relaxation rates, while the results of graphene on h-BN, SiO2 and SiC are quite similar. On its behalf, photocarriers in suspended graphene take longer to thermalize than any of the substrate supported cases.",
+        "email": "",
+        "conf": "Applied Surface Science",
+        "coauthors": [
+            "Jos M. Iglesias",
+            "Maria J Martin",
+            "E. Pascual",
+            "Ral Rengel"
+        ],
+        "keywords": "Graphene,Graphene–substrate interface,Photocarrier relaxation dynamics"
+    },
+    {
+        "id": 3240,
+        "label": 69,
+        "author": "maria jesus martin martinez",
+        "title": "A balance equations approach for the study of the dynamic response and electronic noise in graphene",
+        "organization": "Profesor del area de ElectrÃƒÂ³nica (Universidad de Salamanca)",
+        "abstract": "A computationally efficient modelling approach for the study of the small-signal and high-frequency noise properties of graphene is presented. The method combines stationary Monte Carlo particle simulations and analytical balance equations. Relevant parameters, like energy and velocity relaxation rates, are determined as a function of the applied electric field for graphene on several substrates of interest. The results show that transport in graphene is characterized by a streaming motion regime governed by the interplay between the applied field and the interactions with surface polar phonons. The dynamic behavior is analyzed by means of the response matrix, the time dependent velocity response functions, and the spectra and cut-off frequency of the differential mobility. It is shown that the negative differential mobility intrinsic of pure graphene could be exploited up to the THz in graphene on h-BN, SiC, SiO2, and even HfO2, with values approaching those of III-V nitrides, thus opening the possibility of graphene-based frequency multipliers, fast switches, or high frequency oscillators based on this effect. The correlation functions of velocity fluctuations and their power spectral density are also computed in order to determine the noise temperature, which shows a good agreement with complete Monte Carlo simulations, thus assuring the reliability of the proposed approach.",
+        "email": "",
+        "conf": "Journal of Applied Physics",
+        "coauthors": [
+            "Raul Rengel",
+            "Jose M. Iglesias",
+            "E. Pascual",
+            "Maria J Martin"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3270,
+        "label": 69,
+        "author": "maria jesus martin martinez",
+        "title": "Microscopic modelling of reverse biased Schottky diodes: Influence of non-equilibrium transport phenomena",
+        "organization": "Profesor del area de ElectrÃƒÂ³nica (Universidad de Salamanca)",
+        "abstract": "A Monte Carlo investigation of charge transport—including quantum tunnelling effects—across Schottky barriers (both n-type and p-type) in the reverse bias regime is presented. The effect of the variation of different quantities (such as the barrier height or the temperature) over the current density is discussed and extensively analysed. A thorough study of different internal magnitudes such as carrier density, electric field, etc. together with velocity distribution functions and the density of scattering mechanisms has been carried out. In this way, a detailed description of microscopic charge transport in the depletion region associated with the Schottky contact is attained. Results evidence important quasi-ballistic characteristics in the region closer to the contact, thus becoming an important issue to be tackled in the modelling of Schottky-based devices with reverse biased junctions.",
+        "email": "",
+        "conf": "Semiconductor Science and Technology",
+        "coauthors": [
+            "Elena Pascual",
+            "Ral Rengel",
+            "Maria J Martin"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3287,
+        "label": 69,
+        "author": "maria jesus martin martinez",
+        "title": "Monte Carlo analysis of the noise behavior in Si bipolar junction transistors and SiGe heterojunction bipolar transistors at radio frequencies",
+        "organization": "Profesor del area de ElectrÃƒÂ³nica (Universidad de Salamanca)",
+        "abstract": "We present a comparative analysis of the current spectral densities in a Si bipolar junction transistor (BJT) and a SiGe heterojunction bipolar transistor (HBT) of identical geometry performed by means of an ensemble Monte Carlo simulator self consistently coupled with a two-dimensional Poisson solver. We focus on the physical origin of the different noise sources in the transistors at rf when varying the injection level conditions. At low injection the spectral density of base current fluctuations, SJB(0),SJB(0), is governed by thermal noise related to the base resistance, while the collector spectral density, SJC(0),SJC(0), reaches a typical shot noise response. At high current density the onset of high injection in the base and the base push-out play an important role in the noise behavior of both transistors. Thus, SJC(0)SJC(0) deviates from the typical shot noise response. Hot carrier effects are also present. In the HBT, these effects are less important than in the BJT due to the SiGe/Si heterointerface, and SJB(0)SJB(0) can be neglected in the overall noise analysis because of the Ge content benefits when the structure enters the high-injection regime.",
+        "email": "",
+        "conf": "Journal of Applied Physics",
+        "coauthors": [
+            "Maria J Martin",
+            "Susana Perez",
+            "Diego hernando Pardo",
+            "Toms Conzalez"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3289,
+        "label": 69,
+        "author": "maria jesus martin martinez",
+        "title": "Microscopic analysis of voltage noise operation mode in SiGe/Si bipolar heterojunctions: Influence of the SiGe strained layer",
+        "organization": "Profesor del area de ElectrÃƒÂ³nica (Universidad de Salamanca)",
+        "abstract": "A Monte Carlo analysis of bipolar transport and voltage fluctuations in a p+-Si/n-Si0.7Ge0.3p+-Si/n-Si0.7Ge0.3 heterojunction and in a p+np+n Si homojunction under different operation regimes is presented. Comparison of the spectral density of voltage fluctuations at low frequency, SV(x,0),SV(x,0), between both structures reveals the strong effect of the SiGe layer on the noise behavior in the heterojunction. Alloy scattering hinders the electron mobility enhancement expected from the removal of valley degeneracy in the SiGe layer. Despite this mobility reduction, the greater accumulation of carriers in the low-doped region supported by the valence band discontinuity reduce SV(x,0)SV(x,0) in the heterojunction for a given average voltage. This study also reveals the impact of hot carriers on noise performance in the quasisaturation regime of both diodes",
+        "email": "",
+        "conf": "Journal of Applied Physics",
+        "coauthors": [
+            "Maria J Martin",
+            "Diego hernando Pardo",
+            "Jess Enrique Velzquez-Prez"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3248,
+        "label": 69,
+        "author": "maria jesus martin martinez",
+        "title": "Carrier-carrier and carrier-phonon interactions in the dynamics of photoexcited electrons in graphene",
+        "organization": "Profesor del area de ElectrÃƒÂ³nica (Universidad de Salamanca)",
+        "abstract": "In this work we use the Monte Carlo method to simulate the photoexcited carrier relaxation dynamics in suspended monolayer graphene to unveil the role of the different scattering mechanisms involved. The results show a strong activity of carrier-carrier and carrier-optical phonon interactions in the very early stages of the relaxation process driving the thermalization and cooling dynamics. The consideration of the coupling between the electron and phonon population reveals an intense damping in the cooling rates that is dependent on the pumped carrier concentration.",
+        "email": "",
+        "conf": "Journal of Physics Conference Series",
+        "coauthors": [
+            "Jos M. Iglesias",
+            "Maria J Martin",
+            "E. Pascual",
+            "Ral Rengel"
+        ],
+        "keywords": ""
+    }
+]

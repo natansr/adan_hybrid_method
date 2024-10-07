@@ -1,0 +1,136 @@
+[
+    {
+        "id": 3129,
+        "label": 66,
+        "author": "lorna j martin",
+        "title": "Investigation into abandoned neonates admitted to Salt River Forensic Pathology Mortuary Cape Town",
+        "organization": "University of Cape Town",
+        "abstract": "The high rates of abandoned neonatal remains admitted to Salt River Mortuary (SRM), Cape Town, and the dearth of literature published in South Africa prompted a retrospective assessment of these cases to describe the profile and assess the scope of the post-mortem investigation of abandoned neonates, as well as determine the prosecution rate of abandoned live births. Demographic details, scene information and post-mortem findings were obtained from medico-legal case files concerning non-viable fetuses, stillbirths and concealment of birth cases admitted to SRM between 1 January 2012 and 31 December 2016 (n = 249). Despite the majority of the cases being natural deaths, the cause of death frequently remained ‘undetermined’ in these cases, often due to the presence of decomposition. Histological analyses were only performed in a small fraction of undetermined cases. Furthermore, the hypothesis that the prosecution rate of abandoned live births is extremely low was supported by this study, with only one case prosecuted in the 5-year period. For the remainder of the cases, the court status was given as either ‘under investigation’ (47.8%) or ‘case closed’ (47.8%). In the majority of the instances, the case was closed due to the unknown identity of the biological mother; however, DNA analyses were not performed in all of these cases. Overall, the data highlighted the need for the development and implementation of standard protocols, and recommendations were made for conducting the medico-legal investigation of abandoned neonates in a South African setting.",
+        "email": "lornajmartin@uct.ac.za",
+        "conf": "Forensic Science International",
+        "coauthors": [
+            "Chante du toit",
+            "Lorna J Martin",
+            "Laura Heathfield"
+        ],
+        "keywords": "Abandoned,Neonate,Concealment,Medico-legal,Investigation"
+    },
+    {
+        "id": 3131,
+        "label": 66,
+        "author": "lorna j martin",
+        "title": "A systematic review exploring the relationship between infection and sudden unexpected death between 2000 and 2016: A forensic perspective",
+        "organization": "University of Cape Town",
+        "abstract": "Death due to infectious diseases is a major health concern worldwide. This is of particular concern in developing countries where poor-socio economic status and a lack of healthcare resources contribute to the high burden of disease. In some cases death due to infection can be acute and aggressive, and death may occur without a diagnosis whilst the person is still alive. These deaths may ultimately lead to a medico-legal autopsy being performed. There are various mechanisms by which sudden death due to infection may occur. In addition, there are many risk factors associated with sudden death due to infection, which differ between infants and older individuals. However, it is unclear which pathogens and risk factors are most frequently associated with sudden death due to infection. Therefore a systematic review of articles and case reports published between 1 January 2000 and 30 June 2016 was undertaken in order to (1) explore the relationship between pathogens and their causative role and (2) identify the relationship between predisposing and/or risk factors associated with sudden death due to infection. Major databases were searched and after critical appraisal 143 articles were identified. It was found that respiratory infections and deaths involving bacterial pathogens were most commonly associated with these deaths. In addition the most common risk factors in infants were exposure to tobacco smoke and co-sleeping. In adults the most common risk factors were co-morbid conditions and illnesses. This information aids in a better understanding of these deaths and highlights the need for more research in this field, particularly in developing countries",
+        "email": "lornaj.martin@uct.ac.za",
+        "conf": "Forensic Science International",
+        "coauthors": [
+            "Mia M. Kruger",
+            "Lorna J Martin",
+            "Sairita Maistry",
+            "Laura Heathfield"
+        ],
+        "keywords": "SUDA,SUDI,Medico-legal investigation,Risk factors,Infection-related death"
+    },
+    {
+        "id": 3132,
+        "label": 66,
+        "author": "lorna j martin",
+        "title": "Numeric Analysis of Temperature Distribution in Man using a 3D Human Model",
+        "organization": "University of Cape Town",
+        "abstract": "Premortem three-dimensional body temperature is the basis on which post-mortem cooling commences. Thermo-numeric analysis of post-mortem cooling for death-time calculation applies pre-mortem three-dimensional body temperature as initial conditions; therefore, an accurate determination of this distribution is important. To date, such prediction is not performed. This paper presents a thermo-numeric analysis method of predicting premortem three-dimensional body temperature in man, to be applied in thermo-numeric analysis of the post-mortem interval using the finite-difference time-domain method. The method applied a Pennes BioHeat Equation modified to linearize organ metabolic and blood flow rates with temperature in a transient thermo-numeric analysis scheme to predict naked three-dimensional temperatures of an MRI-built, 3D human model having 247 segmented organs and 58 categories of material properties under chosen boundary conditions. Organ metabolic heat and blood perfusion rates appropriate for a chosen pre-mortem physical activity, and known organ physical and thermal properties, were assigned to each organ. A steady-state temperature equilibration occurred after 8400 seconds. Predicted organ temperatures were topographically inhomogeneous. Skin temperatures varied between 20.5°C and 42.5°C, liver capsule temperatures were lower than parenchymal, and rectal luminal temperature were uniform.",
+        "email": "",
+        "conf": "BioRxiv",
+        "coauthors": [
+            "Sipho Mfolozi",
+            "Arnaud G. Malan",
+            "Tunde Bello-Ochende",
+            "Lorna J Martin"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3133,
+        "label": 66,
+        "author": "lorna j martin",
+        "title": "Ethical considerations in forensic genetics research on tissue samples collected post-mortem in Cape Town South Africa",
+        "organization": "University of Cape Town",
+        "abstract": "The use of tissue collected at a forensic post-mortem for forensic genetics research purposes remains of ethical concern as the process involves obtaining informed consent from grieving family members. Two forensic genetics research studies using tissue collected from a forensic post-mortem were recently initiated at our institution and were the first of their kind to be conducted in Cape Town, South Africa. This article discusses some of the ethical challenges that were encountered in these research projects. Among these challenges was the adaptation of research workflows to fit in with an exceptionally busy service delivery that is operating with limited resources. Whilst seeking guidance from the literature regarding research on deceased populations, it was noted that next of kin of decedents are not formally recognised as a vulnerable group in the existing ethical and legal frameworks in South Africa. The authors recommend that research in the forensic mortuary setting is approached using guidance for vulnerable groups, and the benefit to risk standard needs to be strongly justified. Lastly, when planning forensic genetics research, consideration must be given to the potential of uncovering incidental findings, funding to validate these findings and the feedback of results to family members; the latter of which is recommended to occur through a genetic counsellor. It is hoped that these experiences will contribute towards a formal framework for conducting forensic genetic research in medico-legal mortuaries in South Africa.",
+        "email": "",
+        "conf": "BMC Medical Ethics",
+        "coauthors": [
+            "Laura Heathfield",
+            "Sairita Maistry",
+            "Lorna J Martin",
+            "Raj Ramesar",
+            "Jantina De Vries"
+        ],
+        "keywords": "Vulnerable group, Next of kin, Sudden unexpected death of infants, Suicide, Forensic, Post-mortem,Medico-legal, Biomedical, Research ethics, South Africa"
+    },
+    {
+        "id": 3134,
+        "label": 66,
+        "author": "lorna j martin",
+        "title": "Sexual homicides in South Africa: A national cross-sectional epidemiological study of adult women and children",
+        "organization": "University of Cape Town",
+        "abstract": "Sexual homicides of women and children are extreme forms of violence against women and children and are located within the broader context of gender inequality and social norms that condone sexual violence and gender based violence against women and children. The aim of this study is to describe the prevalence and characteristics of sexual homicide of women and children nationally in South Africa. We conducted a retrospective national mortuary based study to identify all adult female homicides (18 years and older) and all child homicides (boys and girls < 18 years) in 2009 in a randomly selected, proportionate sample of mortuaries. Victim, perpetrator and crime data were collected in three processes: from the mortuary register, the autopsy report and from police with the identification of sexual homicides validated across the data collection processes. Rape homicide is not a rare event in South Africa, with one in five female homicides and nearly one in ten child homicides identified with an associated sexual crime. These high prevalences are amongst the highest levels reported in the literature with our study among the few reporting on the epidemiology of child sexual homicide. Reducing mortality is an important policy goal for South Africa and for the rest of the world and the prevention of female and child homicide is an important part of attaining this goal.",
+        "email": "",
+        "conf": "PLoS ONE",
+        "coauthors": [
+            "Naeemah Abrahams",
+            "Shanaaz Mathews",
+            "Carl Lombard",
+            "Lorna J Martin",
+            "Rachel Jewkes"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3130,
+        "label": 66,
+        "author": "lorna j martin",
+        "title": "A Systematic Review of Molecular Autopsy Studies in Sudden Infant Death Cases",
+        "organization": "University of Cape Town",
+        "abstract": "Sudden unexpected death is an upsetting event, which can remain unexplained even after post-mortem investigation. Internationally, molecular autopsies have shown to resolve up to 44% of unexplained cases; however, it is currently unclear how many of these were infants. This systematic literature review showed that significantly fewer infant cases were resolved (median: 4%) compared with cohorts of 1 to 45 years old (median: 32%). Further, no study involving indigenous African participants has yet been published. Overall, molecular autopsies hold immense value to living family members and is motivation to explore new avenues in infant cohorts.",
+        "email": "",
+        "conf": "Journal of pediatric genetics",
+        "coauthors": [
+            "Laura Heathfield",
+            "Lorna J Martin",
+            "Raj Ramesar"
+        ],
+        "keywords": "sudden infant death syndrome,negative autopsy,medico-legal investigation"
+    },
+    {
+        "id": 3128,
+        "label": 66,
+        "author": "lorna j martin",
+        "title": "Evaluation of DNA profiles obtained from deceased individuals at Salt River Mortuary (South Africa)",
+        "organization": "University of Cape Town",
+        "abstract": "DNA profiling is a valuable tool for human identification, particularly when deceased individuals cannot be identified by traditional methods. Annually, at Salt River Mortuary (SRM), ~320 bodies remain unidentified following post-mortem investigation. While much research has been conducted into DNA profiling on living individuals, relatively little has focused on suitability within the deceased population, and thus this formed the focus of this research. Buccal cells were collected from deceased infants (n = 38) and adults (n = 37) at SRM, with a time interval between death and sample collection of 1 – 887 days. Control blood samples were obtained from a subset of participants. Samples were processed using the PowerPlex ESI 16 System or Y23 System (Promega). Full DNA profiles were obtained from all blood samples. Following optimization, 74.7% and 18.7% of buccal swabs yielded full and partial profiles respectively, while 6.7% failed completely. Upon analysis, partial and failed profiles were significantly associated with the DNA degradation index from cotton swabs (p < 0.001), but not with time between death and sample collection (p = 0.16). These results indicate that full DNA profiles can be obtained long after death. It is hypothesized that factors influencing degradation (e.g. decomposition) may contribute to failure. Overall, further research is required to identify factors influencing DNA profile quality.",
+        "email": "",
+        "conf": "Australian Journal of Forensic Sciences",
+        "coauthors": [
+            "Kate Megan Reid",
+            "Lorna J Martin",
+            "Laura Heathfield"
+        ],
+        "keywords": "forensic human identification, post-mortem samples"
+    },
+    {
+        "id": 3127,
+        "label": 66,
+        "author": "lorna j martin",
+        "title": "Consideration of molecular autopsies in forensic cases of sudden unexpected death in infants and children in South Africa",
+        "organization": "University of Cape Town",
+        "abstract": "Fatalities that are sudden and unexpected are referred for medicolegal investigation under the National Health Act No. 61 of 2003 in South Africa (SA).[1] Post-mortem investigation of these cases may include an autopsy, death scene investigation and clinical history review, which are usually sufficient to determine cause of death. However, in some instances, the cause of death remains undetermined",
+        "email": "",
+        "conf": "South African journal of child health",
+        "coauthors": [
+            "Laura Heathfield",
+            "Lorna J Martin",
+            "R Ramesar"
+        ],
+        "keywords": ""
+    }
+]

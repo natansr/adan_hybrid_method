@@ -1,0 +1,310 @@
+[
+    {
+        "id": 1775,
+        "label": 34,
+        "author": "anupam kumar gupta",
+        "title": "Lancet Dynamics in Greater Horseshoe Bats Rhinolophus ferrumequinum",
+        "organization": "PhD Student Virginia Tech",
+        "abstract": "Echolocating greater horseshoe bats (Rhinolophus ferrumequinum) emit their biosonar pulses nasally, through nostrils surrounded by fleshy appendages (‘noseleaves’) that diffract the outgoing ultrasonic waves. Movements of one noseleaf part, the lancet, were measured in live bats using two synchronized high speed video cameras with 3D stereo reconstruction, and synchronized with pulse emissions recorded by an ultrasonic microphone. During individual broadcasts, the lancet briefly flicks forward (flexion) and is then restored to its original position. This forward motion lasts tens of milliseconds and increases the curvature of the affected noseleaf surfaces. Approximately 90% of the maximum displacements occurred within the duration of individual pulses, with 70% occurring towards the end. Similar lancet motions were not observed between individual pulses in a sequence of broadcasts. Velocities of the lancet motion were too small to induce Doppler shifts of a biologically-meaningful magnitude, but the maximum displacements were significant in comparison with the overall size of the lancet and the ultrasonic wavelengths. Three finite element models were made from micro-CT scans of the noseleaf post mortem to investigate the acoustic effects of lancet displacement. The broadcast beam shapes were found to be altered substantially by the observed small lancet movements. These findings demonstrate that—in addition to the previously described motions of the anterior leaf and the pinna—horseshoe bat biosonar has a third degree of freedom for fast changes that can happen on the time scale of the emitted pulses or the returning echoes and could provide a dynamic mechanism for the encoding of sensory information.",
+        "email": "",
+        "conf": "PLoS ONE",
+        "coauthors": [
+            "Weikai He",
+            "Scott C. Pedersen",
+            "Anupam Kumar Gupta",
+            "James A. Simmons",
+            "Rolf Mueller"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 1770,
+        "label": 34,
+        "author": "anupam kumar gupta",
+        "title": "Information-theoretic assessment of the peripheral dynamics in the biosonar system of horseshoe bats",
+        "organization": "PhD Student Virginia Tech",
+        "abstract": "Horseshoe bat biosonar is characterized by a pronounced dynamics at the interfaces of ultrasound emission and reception: The bats can alter the shapes of their noseleaves and outer ears (pinnae) through muscular action while they are emitting or receiving biosonar signals. An information-theoretic analysis has been conducted to assess whether these non-rigid baffle motions could affect the ability of the bats' biosonar system to encode sensory information. This analysis was based on acoustic characterizations (beampatterns) obtained either through numerical predictions or from measurements of physical models. In total, four time-variant baffle shapes, for emission and reception, numerical and physical each, have been analyzed. The similarity of beampattern across different baffle shape conformations was quantified using normalized mutual information that was found to be <20% for distant stages. Hence, the changes in the baffle shapes were capable of providing different views of a biosonar environment. The information added by these views was found to enhance performance bounds for sonar estimation tasks related to target direction. In particular, it was found that the number of resolvable directions and the accuracy of direction-finding (as measured by the Cramer Rao lower bound) increased when beampatterns from across a sequence of shape conformation were combined.",
+        "email": "",
+        "conf": "The Journal of the Acoustical Society of America",
+        "coauthors": [
+            "Rolf Mueller",
+            "Anupam Kumar Gupta",
+            "Hongxiao Zhu",
+            "Mittu Pannala",
+            "Uzair S. Gillani",
+            "Yanqing Fu",
+            "Philip Caspers",
+            "John R. Buck"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 1767,
+        "label": 34,
+        "author": "anupam kumar gupta",
+        "title": "A computational model for biosonar echoes from foliage",
+        "organization": "PhD Student Virginia Tech",
+        "abstract": "Since many bat species thrive in densely vegetated habitats, echoes from foliage are likely to be of prime importance to the animals' sensory ecology, be it as clutter that masks prey echoes or as sources of information about the environment. To better understand the characteristics of foliage echoes, a new model for the process that generates these signals has been developed. This model takes leaf size and orientation into account by representing the leaves as circular disks of varying diameter. The two added leaf parameters are of potential importance to the sensory ecology of bats, e.g., with respect to landmark recognition and flight guidance along vegetation contours. The full model is specified by a total of three parameters: leaf density, average leaf size, and average leaf orientation. It assumes that all leaf parameters are independently and identically distributed. Leaf positions were drawn from a uniform probability density function, sizes and orientations each from a Gaussian probability function. The model was found to reproduce the first-order amplitude statistics of measured example echoes and showed time-variant echo properties that depended on foliage parameters. Parameter estimation experiments using lasso regression have demonstrated that a single foliage parameter can be estimated with high accuracy if the other two parameters are known a priori. If only one parameter is known a priori, the other two can still be estimated, but with a reduced accuracy. Lasso regression did not support simultaneous estimation of all three parameters. Nevertheless, these results demonstrate that foliage echoes contain accessible information on foliage type and orientation that could play a role in supporting sensory tasks such as landmark identification and contour following in echolocating bats.",
+        "email": "",
+        "conf": "PLoS ONE",
+        "coauthors": [
+            "Chen Ming",
+            "Anupam Kumar Gupta",
+            "Ruijin Lu",
+            "Rolf Mueller"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 1774,
+        "label": 34,
+        "author": "anupam kumar gupta",
+        "title": "Bioinspired Dynamic Sensing of Acoustic Waves",
+        "organization": "PhD Student Virginia Tech",
+        "abstract": "Biosonar is one of the most capable active senses found in nature and in engineering. It enables certain bat species, such as the horseshoe bats (family Rhinolophidae) and the Old World leaf-nosed bats (family Hipposideridae) to navigate and pursue prey in dense natural environments. Bats from these families also stand out for the dynamics of their biosonar systems that is evident in shape-changing baffles that diffract the ultrasonic wave packets on emission as well as on reception. Some of the acoustic effects predicted for the dynamics in bats have been reproduced qualitatively with a simple biomimetic sonar head. Experimentation with this biomimetic system shows that the dynamic baffles are capable of creating time-variant signatures that could be employed to enhance the encoding of sensory information. Such time-variant sensing paradigms may not be unique to biosonar but may also play a role in the control of the bat’s time-variant flight.",
+        "email": "",
+        "conf": "oint Fluids Engineering Conference. American Society of Mechanical Engineers Digital Collection",
+        "coauthors": [
+            "Rolf Mueller",
+            "Philip Caspers",
+            "Yanqing Fu",
+            "Anupam Kumar Gupta"
+        ],
+        "keywords": "Acoustics, Biomimetics, Waves, Dynamics (Mechanics), Emissions, Encryption, Flight, Shapes, Ultrasonic waves"
+    },
+    {
+        "id": 1780,
+        "label": 34,
+        "author": "anupam kumar gupta",
+        "title": "Effects of the source location on numerical biosonar beampattern predictions for bat noseleaves",
+        "organization": "PhD Student Virginia Tech",
+        "abstract": "Approximately 300 bat species are known to emit their ultrasonic biosonar pulses through the nostrils. In these animals, ultrasound is produced by the larynx, propagates along the vocal tract, exits through the nostrils, and is finally diffracted by intricately shaped baffle structures known as \"noseleaves\". Noseleaf geometry determines diffraction and hence the spatial distribution of the emitted ultrasound. As a consequence, numerical predictions of the noseleaves' acoustic function can be made based on the digital models of noseleaf shape. To limit model size and computational effort associated with numerical beampattern predictions, the vocal tract is often only partially included in these models or left out completely. In order to investigate the effect of source placement within a complete or partial vocal tract attached to a noseleaf shape on the numerical beampattern prediction, the noseleaf of the great roundleaf bat (Hipposideros armiger) was studied as a model. Numerical beampattern estimates were obtained for a single monopole source positioned near the vocal folds or closer to the nostrils. Two monopoles sources placed in each nostril were also investigated. It was found that source positioning could impact the beampattern whenever they broke the symmetry in the near-fields of the two nostrils.",
+        "email": "",
+        "conf": "The Journal of the Acoustical Society of America",
+        "coauthors": [
+            "Anupam Kumar Gupta",
+            "Rolf Mueller"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 1769,
+        "label": 34,
+        "author": "anupam kumar gupta",
+        "title": "Estimating Parameters in Complex Systems with Functional Outputs: A Wavelet-Based Approximate Bayesian Computation Approach",
+        "organization": "PhD Student Virginia Tech",
+        "abstract": "We consider a family of parameter estimation problems involving functional data. In these problems, the relationship between functional data and the underlying parameters cannot be explicitly specified using a likelihood function. These situations often occur when functional data arises from a complex system and only numerical simulations (through a simulator) can be used to describe the underlying data-generating mechanism. To estimate the unknown parameters under these scenarios, we introduce a wavelet-based approximate Bayesian computation (wABC) approach that is likelihood-free and computationally scalable to functional data measured on a dense, high-dimensional grid. The proposed approach relies on near-lossless wavelet decomposition and compression to reduce the high-correlation between measurement points and the high-dimensionality. We adopt a Markov chain Monte Carlo algorithm with a Metropolis-Hastings sampler to obtain posterior samples of the parameters for Bayesian inference. To avoid expensive simulations from the simulator in the approximate Bayesian computation, a Gaussian process surrogate for the simulator is introduced, and the uncertainty of the resulting sampler is controlled by calculating the expected error rate of the acceptance probability. We motivate our approach and demonstrate its performance using the foliage-echo data generated by a sonar simulation system. Our Bayesian posterior inference provides the joint posterior distribution of all underlying parameters, which is otherwise intractable using existing analytical methods.",
+        "email": "anupamkg@vt.edu",
+        "conf": "New Advances in Statistics and Data Science",
+        "coauthors": [
+            "Hongxiao Zhu, Ruijin Lu, Chen Ming, Anupam K. Gupta, Rolf Muller"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 1778,
+        "label": 34,
+        "author": "anupam kumar gupta",
+        "title": "Static and dynamic control of emission beamwidth in horseshoe bats",
+        "organization": "PhD Student Virginia Tech",
+        "abstract": "Horseshoe bats (family Rhinolophidae) emit their ultrasonic biosonar pulses nasally with their nostrils surrounded by baffle structures known as “noseleaves.” The noseleaves are often characterized by intricate local shape details such as flaps, ridges, or furrows. Furthermore, some of these structures are capable of undergoing non-rigid shape changes over time. One part of the horseshoe bat noseleaf that has both static local shape features as well as a time dynamics is the lancet, a vertical projection on the top of the noseleaf. The most striking static shape features of the lancet are half-open cavities (furrows) and the most obvious in-vivo motion of the lancet is a rotation in the distal-proximal about the base of the lancet. In the present work, the acoustic effects of the furrows and the distal-proximal rotation of the lancet were studied in three individuals of the Greater Horseshoe bat (Rhinolophus ferrumequinum) using numerical methods. The lancet furrows were always found to act as beam-focusing devices irrespective of lancet rotation. The acoustic effect of forward lancet rotation within the range seen in bats (tested angles 0°, 5°, 10°) was always a significant widening of the beam.",
+        "email": "",
+        "conf": "The Journal of the Acoustical Society of America",
+        "coauthors": [
+            "Anupam Kumar Gupta",
+            "Weikei He",
+            "Dane Webster",
+            "Rolf Mueller"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 1777,
+        "label": 34,
+        "author": "anupam kumar gupta",
+        "title": "Biosonar dynamics in horseshoe and old-world leaf-nosed bats",
+        "organization": "PhD Student Virginia Tech",
+        "abstract": "Horseshoe bats (family Rhinolophidae) have evolved a capable biosonar system to allow the pursuit of prey amid dense vegetation that produces large amounts of clutter echoes. Horseshoe bats have long been known to employ dynamic effects such as Doppler effect compensation and large-scale rotations of their pinnae to realize these capabilities. Recent research has produced evidence of even more pervasive dynamical biosonar properties in horseshoe bat biosonar as well as in the related Old World leaf-nosed bats (family Hipposideridae). On the emission side, these animals employ elaborate baffle shapes that surround the exit points of their ultrasonic pulses (nostrils). During echolocation, multiple parts of these noseleaves such as the anterior leaf and the lancet in horseshoe bats are set in motion, typically in synchrony with pulse emission, hence creating a time-variant channel for the exiting wave packets. Similarly, the pinnae which diffract the incoming echoes on the reception side are frequently in motion while echoes impinge on them. These motions include non-rigid changes in shape. All these effects add a dynamic dimension to the interface of the bats' biosonar with the external world, which could allow the animals to enhance the quantity and quality of the sensory information they receive.",
+        "email": "",
+        "conf": "The Journal of the Acoustical Society of America",
+        "coauthors": [
+            "Rolf Mueller",
+            "Anupam Kumar Gupta",
+            "Weikai He",
+            "Mittu Pannala"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 1765,
+        "label": 34,
+        "author": "anupam kumar gupta",
+        "title": "Entropy analysis of frequency and shape change in horseshoe bat biosonar",
+        "organization": "PhD Student Virginia Tech",
+        "abstract": "Echolocating bats use ultrasonic pulses to collect information about their environments. Some of this information is encoded at the baffle structures—noseleaves (emission) and pinnae (reception)—that act as interfaces between the bats' biosonar systems and the external world. The baffle beam patterns encode the direction-dependent sensory information as a function of frequency and hence represent a view of the environment. To generate diverse views of the environment, the bats can vary beam patterns by changes to (1) the wavelengths of the pulses or (2) the baffle geometries. Here we compare the variability in sensory information encoded by just the use of frequency or baffle shape dynamics in horseshoe bats. For this, we use digital and physical prototypes of both noseleaf and pinnae. The beam patterns for all prototypes were either measured or numerically predicted. Entropy was used as a measure to compare variability as a measure of sensory information encoding capacity. It was found that new information was acquired as a result of shape dynamics. Furthermore, the overall variability available for information encoding was similar in the case of frequency or shape dynamics. Thus, shape dynamics allows the horseshoe bats to generate diverse views of the environment in the absence of broadband biosonar signals.",
+        "email": "anupamkg@vt.edu",
+        "conf": "PHYSICAL REVIEW E",
+        "coauthors": [
+            "Anupam Kumar Gupta",
+            "Dane Webster",
+            "Rolf Mueller"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 1779,
+        "label": 34,
+        "author": "anupam kumar gupta",
+        "title": "Bat Noseleaves as an Inspiration for Smart Emission Baffle Structures",
+        "organization": "PhD Student Virginia Tech",
+        "abstract": "Baffle shapes are commonly used in engineered devices to interface sound sources with the free field. Examples are acoustic horns seen in megaphones and horn-loaded loudspeakers. Typical for these devices are simple, static shapes that serve primarily an impedance-matching function. Diffracting baffles linked to a sound source are also common in the biosonar system of bats. In particular in bat groups that emit their ultrasonic pulses nasally, the nostrils are always surrounded by some baffle shape. This is the case across several large and diverse bat families such as horseshoe bats (Rhinolophidae), Old World leaf-nosed bats (Hipposideridae), and New World leaf-nosed bats (Phyllostomidae). However, biosonar baffles differ from their technical counterparts in two important ways: They typically have a much greater geometrical complexity and they are capable of non-rigid shape changes over time. Although simple horn shapes can be found in the noseleaves of many bat species, they are rarely as plain and regular as in megaphones and other technical applications of acoustical horns. Instead, the baffles are broken up into several parts that are frequently augmented with intricate local shape features such as ridges, furrows, and spikes. Furthermore, we have observed that in species belonging to the horseshoe bats and the related Old World leaf-nosed bats these local shape features are often not static, but can undergo displacements as well as non-rigid deformations. At least some of these dynamic effects are not passive byproducts of e.g., sound production or exhalation, but due to specific muscular actuation that can be controlled by the animals. To study these intricate, dynamic baffles as inspirations for smart structures, we have recreated the degrees of freedoms that Old World leaf-nosed bats have in deforming their noseleaves in a digital model using computer animation techniques. In its current form, our model has 6 degrees of freedom that can be used to test interactions between different motions using actuation patterns that occur in life as well as patterns that have not been observed, but could aid understanding. Because of the high-dimensional parameter space spanned by the different degrees of freedom, a high-performance computing platform has been used to characterize the acoustic behavior across a larger number of deformed no seleaf shapes. A physical test bed is currently under construction for implementing baffle motions that have been found to result in interesting changes of the acoustic device characteristics and could hence be of use to engineering applications.",
+        "email": "",
+        "conf": "ASME 2013 Conference on Smart Materials, Adaptive Structures and Intelligent Systems. American Society of Mechanical Engineers Digital Collection",
+        "coauthors": [
+            "Anupam Kumar Gupta",
+            "Yanqing Fu",
+            "Dane Webster",
+            "Rolf Mueller"
+        ],
+        "keywords": "Acoustics, Computers, Construction, Deformation, Degrees of freedom, Emissions, Engineering systems and industry applications, Loudspeakers, Shapes, Smart structures"
+    },
+    {
+        "id": 1764,
+        "label": 34,
+        "author": "anupam kumar gupta",
+        "title": "Bat-inspired dynamic features and factors that modulate their impact on speech recognition",
+        "organization": "PhD Student Virginia Tech",
+        "abstract": "One of the most serious remaining challenges in speech recognition is dealing with corruption of speech signal by other nuisance speech (\"babble\"). A promising approach to solving the problem of separating the signal of interest from the detractors is to inject direction dependent signatures into all signals received, which has been realized by bat-inspired biomimetic pinna—dynamic periphery. Changing the shape of a biomimetic pinna during the recordings introduces substantial time-variant signatures into speech signals. To investigate the utility of these signatures, we have used bioinspired signal representations (cochleagram and spikegram) as input for speech classifiers based on Gaussian mixture models (GMM) and hidden Markov models (HMM). The speech samples used were obtained from open source databases: spoken digits and alphabets from Carnegie Mellon University were mixed with babble or noise samples from Columbia University. Since the time-variant signatures were found to depend strongly on the direction of the sound source, we attempted to include datasets from different directions for training and testing to feed into the classifiers. The results indicate that dynamic periphery can substantially improve recognition and that these effects depend on the signal representation as well as the angular composition of the training dataset.",
+        "email": "",
+        "conf": "The Journal of the Acoustical Society of America",
+        "coauthors": [
+            "Alexander Hsu",
+            "Jin-Ping Han",
+            "Xiaodong Cui",
+            "Kartik Audhasi",
+            "Anupam Kumar Gupta",
+            "Joseph Sutlive",
+            "Tabassum Ahmed",
+            "Rolf Mueller"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 1771,
+        "label": 34,
+        "author": "anupam kumar gupta",
+        "title": "Horseshoe bat inspired reception dynamics embed dynamic features into speech signals",
+        "organization": "PhD Student Virginia Tech",
+        "abstract": "Horseshoe bats can alter the shape of noseleaves and outer ears (pinnae) at the time of emission and reception of biosonar pulses. The shape changes are a result of specific muscular action and significantly change the emission and reception beams by a spatial redistribution of energy in mainlobe and sidelobes. Here, we explore the potential of embedding dynamic features into the speech signals by means of bat inspired reception dynamics to improve the speech recognition accuracy and speaker localization. For this analysis, a digit dataset with 11 U.S. English speakers was recorded through a robotic setup that mimics pinna dynamics as observed in bats. The utterances were obtained through open-source speech corpora and amplitude modulated (carrier frequency: 55 kHz) to shift to ultrasonic band. These utterances were then re-recorded through the dynamic pinna set up and later demodulated to extract the original signal. It was found that reception dynamics have been able to enrich the speech signals with dynamic, direction-dependent time-frequency patterns. The next step in this research is to assess whether these patterns can be utilized to improve speech recognition and speaker localization.",
+        "email": "anupamkg@vt.edu",
+        "conf": "The Journal of the Acoustical Society of America",
+        "coauthors": [
+            "Anupam Kumar Gupta",
+            "Jin P. Han",
+            "Philip Caspers",
+            "Xiaodong Cui",
+            "Rolf Mueller"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 1772,
+        "label": 34,
+        "author": "anupam kumar gupta",
+        "title": "Interplay of lancet furrows and shape change in the horseshoe bat noseleaf",
+        "organization": "PhD Student Virginia Tech",
+        "abstract": "Horseshoe bats emit biosonar pulses through the nostrils and diffract the outgoing ultrasonic pulses with baffles, so-called “noseleaves,” that surround the nostrils. The noseleaves have complex static geometries and can furthermore undergo dynamic shape changes during emission of the biosonar pulses. The posterior noseleaf part, the lancet, has been shown to carry out anterior-posterior flicking motions during biosonar emissions with average lancet tip displacements of about 1 mm. Here, the acoustic effects of the interplay between the lancet furrows and shape change (lancet rotation) on the emission beam were investigated using the animated digital models obtained from the noseleaves of greater horseshoe bats (Rhinolophus ferrumequinum). It was found that forward lancet rotations increase the amount of sound energy allocated to secondary amplitude maxima (sidelobes) in the beampattern, but only in the presence of the furrows. The interaction between static and dynamic features can be readily quantified by roughness (standard deviation about local mean) of the amplitude distribution of the beampatterns. This effect goes beyond the static impact of the furrows on the width of the mainlobe. It could allow the bats to send out their pulses through a sequence of qualitatively different beampatterns.",
+        "email": "anupamkg@vt.edu",
+        "conf": "The Journal of the Acoustical Society of America",
+        "coauthors": [
+            "Anupam Kumar Gupta",
+            "Dane Webster",
+            "Rolf Mueller"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 1776,
+        "label": 34,
+        "author": "anupam kumar gupta",
+        "title": "Evidence for a possible functional significance of horseshoe bat biosonar dynamics",
+        "organization": "PhD Student Virginia Tech",
+        "abstract": "The periphery of the biosonar system of horseshoe bats is characterized by a conspicuous dynamics where the shapes of the noseleaves (structures that surround the nostrils) and the outer ears (pinnae) undergo fast changes that can coincide with pulse emission and echo reception. These changes in the geometries of the sound-reflecting surfaces affect the device characteristics, e.g., as represented by beampatterns. Hence, this dynamics could give horseshoe bats an opportunity to view their environments through a set of different device characteristics. It is not clear at present whether horseshoe bats make use of this opportunity, but there is evidence from various sources, namely, anatomy, behavior, evolution, and information theory. Anatomical studies have shown the existence of specialized muscular actuation systems that are clearly directed toward geometrical changes. Behavioral observations indicate that these changes are linked to contexts where the bat is confronted with a novel or otherwise demanding situation. Evolutionary evidence comes from the occurrence of qualitatively similar ear deformation patterns in mustached bats (Pteronotus) that have independently evolved a biosonar for Doppler-shift detection. Finally, an information-theoretic analysis demonstrates that the capacity of the biosonar system for encoding sensory information is enhanced by these dynamic processes.",
+        "email": "",
+        "conf": "The Journal of the Acoustical Society of America",
+        "coauthors": [
+            "Rolf Mueller",
+            "Anupam Kumar Gupta",
+            "Uzair Gillani",
+            "Yanqing Fu",
+            "Hongxiao Zhu"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 1766,
+        "label": 34,
+        "author": "anupam kumar gupta",
+        "title": "Representations of speech signals recorded through a dynamic periphery inspired by horseshoe bat biosonar",
+        "organization": "PhD Student Virginia Tech",
+        "abstract": "Horseshoe bats have to navigate through complex environments such as dense forests and structure-rich vegetation relying on input from their highly sophisticated biosonar systems. One of the key components of these bats' ability to obtain high-quality acoustic information is to alter the shape of their outer ears rapidly. In prior work, the authors have shown that by mimicking the horseshoe bat rapid ear movements, a bat-inspired robotic dynamic periphery for recording speech signals could enhance speech recognition for limited dataset and also provide estimates for the speaker's direction along with speech recognition. In our current study, we continued to investigate how speech datasets processed by the dynamic periphery may be enhanced compared to a reference by extracting acoustical features through Mel frequency cepstral coefficient (MFCC) transform, Lyon's cochlear bandpass filters, and a neural spike representation, respectively. This study aims to characterize the detailed acoustical differences and quantify the improved speaker intelligence with noise robustness through the dynamic periphery. The ultimate goal of this research is to identify a signal representation that is well suited to capitalize on the time-variant properties of the biomimetic recording periphery and make the dynamic information-bearing features accessible for the classification stages.",
+        "email": "",
+        "conf": "The Journal of the Acoustical Society of America",
+        "coauthors": [
+            "Alexander Hsu",
+            "Anupam Kumar Gupta",
+            "Rolf Mueller",
+            "Xiaodong Cui",
+            "Kartik Audhkhasi",
+            "Jin-Ping Han"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 1763,
+        "label": 34,
+        "author": "anupam kumar gupta",
+        "title": "A Neuromorphic Approach to Tactile Texture Recognition",
+        "organization": "PhD Student Virginia Tech",
+        "abstract": "In the recent years, tactile sensing has attracted great interest of the robotics community, specially in high end applications such as prosthesis and exploration of unstructured environments. Tactile sensing in both humans and robots can help to estimate surface properties like temperature, texture and hardness. These properties are important to perceive the environment as well as for object recognition and robotic manipulation of objects. In this paper, we focus on the classification of textures using a neuromorphic tactile sensor. The sensor uses a piezoresistive fabric sandwiched between conductive traces and encodes only changes in pressure intensity in the form of spike events. Textures are classified based on their geometry and the spatial frequencies. To do so, high-contrast tactile images are created by combining event data obtained across a palpation sequence and rotation-invariant features are used for classification using support vector machines (SVM). Our best results show average classification accuracy of 98% across different textures and palpation done in multiple directions. ",
+        "email": "anupamkg@vt.edu",
+        "conf": "International Conference on Robotics and Biomimetics (ROBIO)",
+        "coauthors": [
+            "Anupam Kumar Gupta",
+            "Rohan Ghosh",
+            "Aravindh N. Swaminathan",
+            "Nitish V. Thakor"
+        ],
+        "keywords": "Support vector machines, Tactile sensors,Entropy,Neuromorphics"
+    },
+    {
+        "id": 1773,
+        "label": 34,
+        "author": "anupam kumar gupta",
+        "title": "An approximate model for foliage echoes to study biosonar function in natural environments",
+        "organization": "PhD Student Virginia Tech",
+        "abstract": "Natural environments are difficult for current engineered sonars but apparently easy for at least some species of echolocating bats. To better understand the information that foliage echoes provide for biosonar-based sensing, an approximate model of foliage echoes has been developed. The model simplifies the scattering problem through two key assumptions: (i) multi-path scattering was neglected and (ii) all leaves were assumed to be circular disks. Due to the latter, the parameters of the model were reduced to the number of the disks, their positions, sizes, and orientations. The exact far-field scatter from a disk (i.e., simplified leaf) in response to planar incident waves can be obtained by summation over an infinite series of spheroidal wave functions. To reduce the calculation time, the scattered field has been approximated by exponential, polynomial, and cosine fitting functions that also depend on the disk parameters. This allows the simulation of echoes from 100 leaves in 20 s on a standard PC. The model was able to reproduce the echo waveforms from dense and sparse foliages qualitatively. The model should thus be well suited for generation of large echo datasets to explore the existence and utilization of statistical invariants in the echoes from natural environments.",
+        "email": "",
+        "conf": "The Journal of the Acoustical Society of America",
+        "coauthors": [
+            "Chen Ming",
+            "Anupam Kumar Gupta",
+            "Rolf Mueller"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 1768,
+        "label": 34,
+        "author": "anupam kumar gupta",
+        "title": "Dynamic Substrate for the Physical Encoding of Sensory Information in Bat Biosonar",
+        "organization": "PhD Student Virginia Tech",
+        "abstract": "Horseshoe bats have dynamic biosonar systems with interfaces for ultrasonic emission (reception) that change shape while diffracting the outgoing (incoming) sound waves. An information-theoretic analysis based on numerical and physical prototypes shows that these shape changes add sensory information (mutual information between distant shape conformations <20%), increase the number of resolvable directions of sound incidence, and improve the accuracy of direction finding. These results demonstrate that horseshoe bats have a highly effective substrate for dynamic encoding of sensory information.",
+        "email": "",
+        "conf": "Physical Review Letters",
+        "coauthors": [
+            "Rolf Muller, Anupam K. Gupta, Hongxiao Zhu, Mittu Pannala, Uzair S. Gillani, Yanqing Fu, Philip Caspers, John R. Buck"
+        ],
+        "keywords": ""
+    }
+]

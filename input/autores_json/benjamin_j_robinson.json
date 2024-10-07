@@ -1,0 +1,419 @@
+[
+    {
+        "id": 4393,
+        "label": 83,
+        "author": "benjamin j robinson",
+        "title": "Optical investigation of the natural electron doping in thin MoS2 films deposited on dielectric substrates",
+        "organization": "Lecturer in quantum nanotechnology",
+        "abstract": "Two-dimensional (2D) compounds provide unique building blocks for novel layered devices and hybrid photonic structures. However, large surface-to-volume ratio in thin films enhances the significance of surface interactions and charging effects requiring new understanding. Here we use micro-photoluminescence (PL) and ultrasonic force microscopy to explore the influence of the dielectric environment on optical properties of a few monolayer MoS2 films. PL spectra for MoS2 films deposited on SiO2 substrates are found to vary widely. This film-to-film variation is suppressed by additional capping of MoS2 with SiO2 and SixNy, improving mechanical coupling of MoS2 with surrounding dielectrics. We show that the observed PL non-uniformities are related to strong variation in the local electron charging of MoS2 films. In completely encapsulated films, negative charging is enhanced leading to uniform optical properties. Observed great sensitivity of optical characteristics of 2D films to surface interactions has important implications for optoelectronics applications of layered materials.",
+        "email": "",
+        "conf": "Scientific Reports",
+        "coauthors": [
+            "Daniel Sercombe",
+            "Stefan Schwarz",
+            "Osvaldo Del Pozo-Zamudio",
+            "F Liu",
+            "Benjamin J Robinson",
+            "E A Chekhovich",
+            "I I Tarttakovskii",
+            "O Kolosov",
+            "Alexander I Tartakovskii"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4394,
+        "label": 83,
+        "author": "benjamin j robinson",
+        "title": "Nanoscale Interfacial Interactions of Graphene with Polar and Nonpolar Liquids",
+        "organization": "Lecturer in quantum nanotechnology",
+        "abstract": "While mechanical and frictional properties of graphene in air have been extensively studied, graphene’s nanomechanical behavior in liquids, vital for its operation in rechargeable batteries, supercapacitors, and sensors, is still largely unexplored. In this paper, we investigate the nanomechanics of normal (adhesive and elastic) and tangential (friction) forces between a stationary, moving, and ultrasonically excited nanoscale atomic force microscope (AFM) tip and exfoliated few layer graphene (FLG) on SiO2 substrate as a function of surrounding media—air, polar (water), and nonpolar (dodecane) liquids. We find that, while the friction coefficient is significantly reduced in liquids, and is always lower for FLG than SiO2, it is higher for graphene in nonpolar dodecane than highly polar water. We also confirm that in ambient environment the water meniscus dominates high adhesion for both hydrophobic FLG and the more hydrophilic SiO2 surface, with the lowest adhesion observed in liquids, in particular for FLG in dodecane, reflecting the low interface energy of this system. By using nanomechanical probing via ultrasonic force microscopy (UFM), we observed a profound reduction of graphene rippling and increase of graphene–substrate contact area in liquid environment. Friction force dependence on ultrasonic modulation amplitude suggests that dodecane at the graphene interface produces a solid-like “cushion” of approximately 2 nm thickness, whereas, in water immersion, the same dependence shows a remarkable similarity with the ambient environment, confirming the presence of a water meniscus in air, and suggesting negligible thickness of a similar water “cushion” on graphene. Dependence of friction on local environment opens new pathways for friction management in microfluidic and micro- and nanoelectromechanical systems.",
+        "email": "b.j.robinson@lancaster.ac.uk",
+        "conf": "Langmuir",
+        "coauthors": [
+            "Benjamin James Robinson",
+            "Nicholas D Kay",
+            "Oleg V. Kolosov"
+        ],
+        "keywords": "Atmospheric chemistry,Liquids,Surface interactions,Two dimensional materials,Friction"
+    },
+    {
+        "id": 4397,
+        "label": 83,
+        "author": "benjamin j robinson",
+        "title": "Adhesion and dynamic nanotribology of graphene in polar and non-polar liquid environments studied with ultrasonic force microscopy",
+        "organization": "Lecturer in quantum nanotechnology",
+        "abstract": "We report the characterisation of exfoliated few layer graphene (FLG) flakes using a range of scanning probe techniques. We have examined FLG and its substrate material, SiO2, in air, polar liquid (water) and non-polar liquid (dodecane) environments. We present analysis of absolute adhesion and relative friction between SPM probe and FLGH and examination of surface and subsurface nanoscale structure. Adhesion is greater in ambient conditions, due to water meniscus formation at the probe sample interface, than continuum liquid coverage. Friction shows no velocity dependence and is consistently lower for FLG than SiO2. The presence and dynamics of sub-surface delaminations and surface point defects are observed at a range of quantified normal forces (0 – 75 nN).",
+        "email": "",
+        "conf": "NSTI Nanotech",
+        "coauthors": [
+            "Benjamin James Robinson",
+            "Nicholas Kay",
+            "Oleg V. Kolosov"
+        ],
+        "keywords": "graphene,SPM,nanotibology,nanomechanics,underliquid"
+    },
+    {
+        "id": 4399,
+        "label": 83,
+        "author": "benjamin j robinson",
+        "title": "Functional molecular wires",
+        "organization": "Lecturer in quantum nanotechnology",
+        "abstract": "The properties of self-assembled molecules may be tuned by sequentially coupling components on a gold surface, the molecular electronics toolbox of chemically reactive building blocks yielding molecular wires with diode-like current–voltage (I–V) characteristics. The bias for rectification in each case is dependent upon the sequence of electron-donating and electron-accepting moieties and similar behaviour has been achieved for four different contacting techniques.",
+        "email": "g.j.ashwell@cranfield.ac.uk",
+        "conf": "Physical Chemistry Chemical Physics",
+        "coauthors": [
+            "Geoffrey J Ashwell",
+            "Piotr Wierzchowiec",
+            "Laurie James Phillips",
+            "Christopher J Collins",
+            "Joanna Gigon",
+            "Benjamin J Robinson",
+            "Christopher M Finch",
+            "Ian R Grace",
+            "Colin J Lambert",
+            "Philip D Buckle",
+            "Kym Ford",
+            "Barry J Wood",
+            "Ian R Gentle"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4400,
+        "label": 83,
+        "author": "benjamin j robinson",
+        "title": "Organic rectifying junctions fabricated by ionic coupling",
+        "organization": "Lecturer in quantum nanotechnology",
+        "abstract": "Ionically-assembled structures that comprise discrete layers of cationic acceptors (4,4′-bipyridinium) and anionic donors (copper phthalocyanine-3,4′,4″,4‴-tetrasulfonate) exhibit asymmetric current–voltage (I–V) characteristics with high rectification ratios of 60–100 at ±1 V.",
+        "email": "g.j.ashwell@cranfield.ac.uk",
+        "conf": "Chemical Communications",
+        "coauthors": [
+            "Geoffrey J Ashwell",
+            "Jonathan Ewington",
+            "Benjamin James Robinson"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4386,
+        "label": 83,
+        "author": "benjamin j robinson",
+        "title": "Surface and interfacial interactions of multilayer graphitic structures with local environment",
+        "organization": "Lecturer in quantum nanotechnology",
+        "abstract": "In order to exploit the potential of graphene in next-generation devices, such as supercapacitors, rechargeable batteries, displays and ultrathin sensors, it is crucial to understand the solvent interactions with the graphene surface and interlayers, especially where the latter may be in competition with the former, in the medium of application deployment. In this report, we combine quartz crystal microbalance (QCM) and ultrasonic force microscopy methods to investigate the changes in the film–substrate and film–environment interfaces of graphene and graphene oxide films, produced by diverse scalable routes, in both polar (deionised water) and non-polar (dodecane) liquid and vapour environments. In polar liquid environments, we observe nanobubble adsorption/desorption on the graphene film corresponding to a surface coverage of up to 20%. As no comparable behaviour is observed for non-polar environment, we conclude that nanobubble formation is directly due to the hydrophobic nature of graphene with direct consequences for electrode structures immersed in electrolyte solutions. The amount of water adsorbed by the graphene films was found to vary considerably from 0.012 monolayers of water per monolayer of reduced graphene oxide to 0.231 monolayers of water per monolayer of carbon diffusion growth graphene. This is supported by direct nanomechanical mapping of the films immersed in water where an increased variation of local stiffness suggests water propagation within the film and/or between the film and substrate. Transferred film thickness calculations performed for QCM, atomic force microscopy topography and optical transmission measurements, returns results an order of magnitude larger (46 ± 1 layers) than Raman spectroscopy (1 - 2 graphene layers) on pristine pre-transferred films due to contamination during transfer and possible turbostratic structures of large areas.",
+        "email": "b.j.robinson@lancaster.ac.uk",
+        "conf": "Thin Solid Films",
+        "coauthors": [
+            "Riccardo Mazzocco",
+            "Benjamin James Robinson",
+            "Caroline Rabot",
+            "A Delamoreanu",
+            "A Zenasni",
+            "J W Dickinson",
+            "C Boxall",
+            "Oleg V. Kolosov"
+        ],
+        "keywords": "Graphene,Thickness measurement,Segregation,Chemical reduction,Atomic force microscopy,Ultrasonic force microscopy"
+    },
+    {
+        "id": 4398,
+        "label": 83,
+        "author": "benjamin j robinson",
+        "title": "Molecular Bridging of Silicon Nanogaps",
+        "organization": "Lecturer in quantum nanotechnology",
+        "abstract": "The highly doped electrodes of a vertical silicon nanogap device have been bridged by a 5.85 nm long molecular wire, which was synthesized in situ by grafting 4-ethynylbenzaldehyde via C−Si links to the top and bottom electrodes and thereafter by coupling an amino-terminated fluorene unit to the aldehyde groups of the activated electrode surfaces. The number of bridging molecules is constrained by relying on surface roughness to match the 5.85 nm length with an electrode gap that is nominally 1 nm wider and may be controlled by varying the reaction time: the device current increases from ≤1 pA at 1 V following the initial grafting step to 10−100 nA at 1 V when reacted for 5−15 min with the amino-terminated linker and 10 μA when reacted for 16−53 h. It is the first time that both ends of a molecular wire have been directly grafted to silicon electrodes, and these molecule-induced changes are reversible. The bridges detach when the device is rinsed with dilute acid solution, which breaks the imine links of the in situ formed wire and causes the current to revert to the subpicoampere leakage value of the 4-ethynylbenzaldehyde-grafted nanogap structure.",
+        "email": "",
+        "conf": "ACS Nano",
+        "coauthors": [
+            "Geoffrey J Ashwell",
+            "Laurie James Phillips",
+            "Benjamin James Robinson",
+            "Shona Ray"
+        ],
+        "keywords": "silicon nanogap, vertical nanogap electrode device, molecular electronics, molecular wire, self-assembled monolayer, stepwise synthesis"
+    },
+    {
+        "id": 4388,
+        "label": 83,
+        "author": "benjamin j robinson",
+        "title": "SThM of 2D materials: nanoscale interactions and multiple parameters",
+        "organization": "Lecturer in quantum nanotechnology",
+        "abstract": "Measurement of thermal properties at the nanoscale presents a number if unique challenges. Here we report the exploration of the thermal properties of a range of 2D materials crossing scanning thermal microscopy (SThM) results with finite elements (FE) simulations. The materials length scale was incremented from ca. 0.3nm (monolayer) to bulk on graphene and MoS2. SThM is a modification of the more well-known Atomic Force Microscope (AFM) employing a self-heated probe which is brought into contact with the sample correspondingly causing a drop in the probe temperature which can be electronically monitored and interpreted to understand the samples thermal properties. FE simulations were performed by COMSOL software which allows to model and predicts properties of our systems varying graphene isotropy and anisoptropy as well as substrate interactions. We have investigated how these properties change as a function of sample thickness on substrates of both high and low thermal conductivities. We observe well defined values of thermal conductance for monolayer and near monolayer thicknesses, however some materials show increased conductance at increasing multilayers whilst others show a decrease – in most cases the conductance does not scale simply with thickness. We discuss and compare experimental considerations and simulation outputs in order to construct a possible thermal conductance models to explain these interesting results. This will be described by a new approach for thermal quantification – Force Spectroscopy SThM.",
+        "email": "",
+        "conf": "EMRS-Spring Meeting",
+        "coauthors": [
+            "Jean Spiece",
+            "Benjamin James Robinson",
+            "Oleg V. Kolosov"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4395,
+        "label": 83,
+        "author": "benjamin j robinson",
+        "title": "Dynamic Mesoscale Interfacial Characterisation of Graphene and Graphene Oxide Thin Films in Water Dodecane and their Vapour using QCM",
+        "organization": "Lecturer in quantum nanotechnology",
+        "abstract": "In this paper, we report the experimental work conducted on graphene and graphene oxide thin film coated Quartz Crystal Microbalance (QCM) exposed to DI water and dodecane, as well as corresponding water and dodecane close to saturation vapour, in the temperature range 20-60° C. Changes in interfacial properties are investigated by realtime measurements of QCM resonant frequency shift as well as motional resistance variation. We observed nanobubble adsorption/desorption on the graphene surface, graphene nano-flakes rearrangements as well as gas and liquid adsorption by the graphene layers when the graphene film was exposed to liquid and vapour phases. In liquid environment, increased temperature has induced consistent trends for the liquid mass uptake by the graphene and graphene oxide films.",
+        "email": "",
+        "conf": "Proceedings of Nanotech, TechConnect World ",
+        "coauthors": [
+            "Riccardo Mazzocco",
+            "Benjamin James Robinson",
+            "James Dickinson",
+            "C Boxall",
+            "Oleg V. Kolosov"
+        ],
+        "keywords": "graphene, environments, liquids, gases, quartz,crystal microbalance"
+    },
+    {
+        "id": 4382,
+        "label": 83,
+        "author": "benjamin j robinson",
+        "title": "Correlation of Heat Transport and Shear Forces in Nanoscale Junctions",
+        "organization": "Lecturer in quantum nanotechnology",
+        "abstract": "Nanoscale solid-solid contacts define a wealth of materials behaviour from the friction in micro- and nanoelectromechanical systems to electrical and thermal conductivity in modern electronic devices. For modern, ultra-high integration processor chips and power electronic devices one of most essential, but thus far most challenging, aspects is the heat transport in nanoscale sized interfaces. Highest spatial resolution to date, achieved via nanoscale probes in scanning thermal microscopy (SThM), is often devalued by the poorly defined nature of the nanoscale contacts. Here we show that simultaneous measurement of shear forces and heat flow between the probe and the studied material elucidates the key parameters of solid-solid contact. Our analysis indicates the intrinsic ballistic nature of heat transport via nanoscale contacts in such a system. Furthermore, in analogy to the Wiedemann-Franz law linking electrical and thermal conductivity in metals, we show that a generalised relation exists linking shear forces and thermal resistance in nanoscale contacts via fundamental material properties such as heat capacity and heat carrier group velocity. These factors, together with the clearly observed anti-correlation of the thermal resistance and shear forces, demonstrate a quantitative approach for the experimental characterisation of thermal transport in nanoscale junctions.",
+        "email": "",
+        "conf": "Nature ",
+        "coauthors": [
+            "Benjamin James Robinson",
+            "M. E. Pumarol",
+            "Oleg V. Kolosov"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4391,
+        "label": 83,
+        "author": "benjamin j robinson",
+        "title": "Charged nano-domes and bubbles in epitaxial graphene",
+        "organization": "Lecturer in quantum nanotechnology",
+        "abstract": "For the first time, new epitaxial graphene nano-structures resembling charged 'bubbles' and 'domes' are reported. A strong influence, arising from the change in morphology, on the graphene layer's electronic, mechanical and optical properties has been shown. The morphological properties of these structures have been studied with atomic force microscopy (AFM), ultrasonic force microscopy (UFM) and Raman spectroscopy. After initial optical microscopy observation of the graphene, a detailed description of the surface morphology, via AFM and nanomechanical UFM measurements, was obtained. Here, graphene nano-structures, domes and bubbles, ranging from a few tens of nanometres (150–200 nm) to a few μm in size have been identified. The AFM topographical and UFM stiffness data implied the freestanding nature of the graphene layer within the domes and bubbles, with heights on the order of 5–12 nm. Raman spectroscopy mappings of G and 2D bands and their ratio confirm not only the graphene composition of these structures but also the existence of step bunching, defect variations and the carrier density distribution. In particular, inside the bubbles and substrate there arises complex charge redistribution; in fact, the graphene bubble–substrate interface forms a charged capacitance. We have determined the strength of the electric field inside the bubble–substrate interface, which may lead to a minigap of the order of 5 meV opening for epitaxial graphene grown on 4H-SiC face-terminated carbon.",
+        "email": "",
+        "conf": "Nanotechnology",
+        "coauthors": [
+            "Amira Ben Gouider Trabelsi",
+            "F. V. Kusmartsev",
+            "Benjamin James Robinson",
+            "A Ouerghi",
+            "O E Kusmartseva",
+            "O V Kolosov",
+            "R Mazzocco",
+            "Marat B Gaifullin",
+            "Meherzi Oueslati"
+        ],
+        "keywords": "graphene, bubbles, domes, charge density distribution, UFM, Raman spectroscopy"
+    },
+    {
+        "id": 4383,
+        "label": 83,
+        "author": "benjamin j robinson",
+        "title": "Nanoscale Mapping of Nanosecond Time-scale Electro-Mechanical Phenomena in Graphene NEMS",
+        "organization": "Lecturer in quantum nanotechnology",
+        "abstract": "Atomically thin layers of two-dimensional (2D) materials such as graphene, MoS2 and h-BN have immense potential as sensors and electronic devices thanks to their highly desirable electronic, mechanical, optical and heat transport properties. In particular their extreme stiffness, tensile strength and low density allows for high frequency electronic devices, resonators and ultra-sensitive detectors providing realistic avenues for down-scaling electronic devices and nanoelectromechanical systems (NEMS). Whilst nanoscale morphology and electronic properties of 2D materials can be studied using existing electron or scanning probe microscopy approaches, time-dependant phenomena on the ns and shorter time-scales cannot be readily explored. Here we use the heterodyne principle to reach into this ns time-scale and create a local nanoscale probe for electrostatically induced actuation of a graphene resonator, with amplitude sensitivity down to pm range and time sensitivity in the ns range. We experimentally observed response times of 20-120 ns for resonators with beam lengths of 180 nm to 2.5 um in line with the theoretical predictions for such NEMS devices.",
+        "email": "",
+        "conf": "arXiv preprint ",
+        "coauthors": [
+            "Nicholas D Kay",
+            "Peter D. Tovee",
+            "Benjamin James Robinson",
+            "Konstantin S Novoselov",
+            "Oleg V. Kolosov"
+        ],
+        "keywords": "Condensed Matter, Mesoscale and Nanoscale Physics"
+    },
+    {
+        "id": 4385,
+        "label": 83,
+        "author": "benjamin j robinson",
+        "title": "Realization of Vertically Aligned Ultrahigh Aspect Ratio InAsSb Nanowires on Graphite",
+        "organization": "Lecturer in quantum nanotechnology",
+        "abstract": "The monolithic integration of InAs1–xSbx semiconductor nanowires on graphitic substrates holds enormous promise for cost-effective, high-performance, and flexible devices in optoelectronics and high-speed electronics. However, the growth of InAs1–xSbx nanowires with high aspect ratio essential for device applications is extremely challenging due to Sb-induced suppression of axial growth and enhancement in radial growth. We report the realization of high quality, vertically aligned, nontapered and ultrahigh aspect ratio InAs1–xSbx nanowires with Sb composition (xSb(%)) up to ∼12% grown by indium-droplet assisted molecular beam epitaxy on graphite substrate. Low temperature photoluminescence measurements show that the InAs1–xSbx nanowires exhibit bright band-to-band related emission with a distinct redshift as a function of Sb composition providing further confirmation of successful Sb incorporation in as-grown nanowires. This study reveals that the graphite substrate is a more favorable platform for InAs1–xSbx nanowires that could lead to hybrid heterostructures possessing potential device applications in optoelectronics.",
+        "email": "",
+        "conf": "Nano Letters",
+        "coauthors": [
+            "E. Anyebe",
+            "Qian-Dong Zhuang",
+            "A. M. Sanchez",
+            "S Hindmarsh",
+            "X Chen",
+            "J Shao",
+            "M K Rajpalke",
+            "T D Veal",
+            "Benjamin J Robinson",
+            "Q Kolosov",
+            "F Anderson",
+            "R Sundaram",
+            "Z M Wang",
+            "Vladimir I Falko"
+        ],
+        "keywords": "Nanowires,Indium arsenide,Carbon,Anode materials,Epitaxy"
+    },
+    {
+        "id": 4381,
+        "label": 83,
+        "author": "benjamin j robinson",
+        "title": "Formation of Two-Dimensional Micelles on Graphene: Multi-Scale Theoretical and Experimental Study",
+        "organization": "Lecturer in quantum nanotechnology",
+        "abstract": "Graphene and related two-dimensional (2D) materials possess outstanding electronic and mechanical properties, chemical stability, and high surface area. However, to realize graphene’s potential for a range of applications in materials science and nanotechnology there is a need to understand and control the interaction of graphene with tailored high-performance surfactants designed to facilitate the preparation, manipulation, and functionalization of new graphene systems. Here we report a combined experimental and theoretical study of the surface structure and dynamics on graphene of pyrene-oligoethylene glycol (OEG) -based surfactants, which have previously been shown to disperse carbon nanotubes in water. Molecular self-assembly of the surfactants on graphitic surfaces is experimentally monitored and optimized using a graphene coated quartz crystal microbalance in ambient and vacuum environments. Real-space nanoscale resolution nanomechanical and topographical mapping of submonolayer surfactant coverage, using ultrasonic and atomic force microscopies both in ambient and ultrahigh vacuum, reveals complex, multilength-scale self-assembled structures. Molecular dynamics simulations show that at the nanoscale these structures, on atomically flat graphitic surfaces, are dependent upon the surfactant OEG chain length and are predicted to display a previously unseen class of 2D self-arranged “starfish” micelles (2DSMs). While three-dimensional micelles are well-known for their widespread uses ranging from microreactors to drug-delivery vehicles, these 2DSMs possess the highly desirable and tunable characteristics of high surface affinity coupled with unimpeded mobility, opening up strategies for processing and functionalizing 2D materials.",
+        "email": "b.j.robinson@lancaster.ac.uk",
+        "conf": "ACS Nano",
+        "coauthors": [
+            "Benjamin James Robinson",
+            "Steven William Dennis Bailey",
+            "Luke J O'Driscoll",
+            "David Visontai",
+            "Daniel J Welsh",
+            "Albertus Bernardus Mostert",
+            "Riccardo Mazzocco",
+            "Caroline Rabot",
+            "Samuel Paul Jarvis",
+            "Oleg V Kolosov",
+            "Martin R Bryce",
+            "Colin J Lambert"
+        ],
+        "keywords": "2D micelles, surfactants, graphene, scanning probe microscopy, molecular dynamics"
+    },
+    {
+        "id": 4384,
+        "label": 83,
+        "author": "benjamin j robinson",
+        "title": "Photoluminescence of two-dimensional GaTe and GaSe films",
+        "organization": "Lecturer in quantum nanotechnology",
+        "abstract": "Gallium chalcogenides are promising building blocks for novel van der Waals heterostructures. We report on the low-temperature micro-photoluminescence (PL) of GaTe and GaSe films with thicknesses ranging from 200 nm to a single unit cell. In both materials, PL shows a dramatic decrease by 104–105 when film thickness is reduced from 200 to 10 nm. Based on evidence from continuous-wave (cw) and time-resolved PL, we propose a model explaining the PL decrease as a result of non-radiative carrier escape via surface states. Our results emphasize the need for special passivation of two-dimensional films for optoelectronic applications.",
+        "email": "",
+        "conf": "2D Materials",
+        "coauthors": [
+            "Osvaldo Del Pozo-Zamudio",
+            "Stefan Schwarz",
+            "M. Sich",
+            "I A Akimov",
+            "M Bayer",
+            "R C Schofield",
+            "E A Chekhovich",
+            "Benjamin J Robinson",
+            "N D Kay",
+            "O V Kolosov",
+            "A I Dmitriev",
+            "G V Lashkarev",
+            "D N Borisenko",
+            "N N Kolesnikov",
+            "Alexander Tartakovskii"
+        ],
+        "keywords": "2D semiconductors, III-VI materials, optical properties, photoluminescence"
+    },
+    {
+        "id": 4390,
+        "label": 83,
+        "author": "benjamin j robinson",
+        "title": "Graphitic platform for self-catalysed InAs nanowires growth by molecular beam epitaxy",
+        "organization": "Lecturer in quantum nanotechnology",
+        "abstract": "We report the self-catalysed growth of InAs nanowires (NWs) on graphite thin films using molecular beam epitaxy via a droplet-assisted technique. Through optimising metal droplets, we obtained vertically aligned InAs NWs with highly uniform diameter along their entire length. In comparison with conventional InAs NWs grown on Si (111), the graphite surface led to significant effects on the NWs geometry grown on it, i.e. larger diameter, shorter length with lower number density, which were ascribed to the absence of dangling bonds on the graphite surface. The axial growth rate of the NWs has a strong dependence on growth time, which increases quickly in the beginning then slows down after the NWs reach a length of approximately 0.8 μm. This is attributed to the combined axial growth contributions from the surface impingement and sidewall impingement together with the desorption of adatoms during the diffusion. The growth of InAs NWs on graphite was proposed following a vapour-solid mechanism. High-resolution transmission electron microscopy reveals that the NW has a mixture of pure zinc-blende and wurtzite insertions.",
+        "email": "",
+        "conf": "Nanoscale Research Letters",
+        "coauthors": [
+            "Qian D Zhuang",
+            "Ezekiel A Anyebe",
+            "Ana M Sanchez",
+            "Mohana K Rajpalke",
+            "Tim D Veal",
+            "Alexander Zhukov",
+            "Benjamin J Robinson",
+            "Frazer Anderson",
+            "Oleg Kolosov",
+            "Vladimir Fal’ko"
+        ],
+        "keywords": "Nanowires; Graphite; Molecular beam epitaxy"
+    },
+    {
+        "id": 4389,
+        "label": 83,
+        "author": "benjamin j robinson",
+        "title": "Nanothermal Characterization of Amorphous and Crystalline Phases in Chalcogenide Thin Films with Scanning Thermal Microscopy",
+        "organization": "Lecturer in quantum nanotechnology",
+        "abstract": "The thermal properties of amorphous and crystalline phases in chalcogenide phase change materials (PCM) play a key role in device performance for non-volatile random-access memory. Here, we report the nanothermal morphology of amorphous and crystalline phases in laser pulsed GeTe and Ge2Sb2Te5 thin films by scanning thermal microscopy (SThM). By SThM measurements and quantitative finite element analysis simulations of two film thicknesses, the PCM thermal conductivities and thermal boundary conductances between the PCM and SThM probe are independently estimated for the amorphous and crystalline phase of each stoichiometry.",
+        "email": "",
+        "conf": "Journal of Applied Physics",
+        "coauthors": [
+            "James L. Bosse",
+            "M. A. Timofeeva",
+            "Peter D. Tovee",
+            "Benjamin J Robinson",
+            "B D Huey",
+            "Oleg V. Kolosov"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4401,
+        "label": 83,
+        "author": "benjamin j robinson",
+        "title": "Molecular diodes: An altered polarity for rectification in ultra-thin films where the orientation of the dipole is reversed",
+        "organization": "Lecturer in quantum nanotechnology",
+        "abstract": "Langmuir-Blodgett (LB) monolayers of donor-(/spl pi/-bridge)-acceptor dyes exhibit asymmetric current-voltage characteristics when aligned on gold-coated substrates and contacted by Au or PtIr probes. The molecules align with their hydrophobic alkyl tails pointing upwards and exhibit rectification in opposite quadrants of the I-V plot when substituted at the acceptor end [D-/spl pi/-A-C/sub n/H/sub 2n+1/] and donor end [A-/spl pi/-D-C/sub n/H/sub 2n+1/]. The polarity is dependent upon dipole orientation and, in each case, the electron flow at forward bias is from the cathode to acceptor on one side of the device and from the donor to anode on the other side. Self-assembled monolayers (SAMs) in which the acceptor end is chemisorbed to a gold substrate [Au-S-C/sub n/H/sub 2n/-A-/spl pi/-D] exhibit asymmetric I-V characteristics that comply with the above and the behavior is assigned to molecular rectification.",
+        "email": "",
+        "conf": "International Symposium on Electrets",
+        "coauthors": [
+            "Geoffrey J Ashwell",
+            "W.D. Tyrrell",
+            "Benjamin James Robinson"
+        ],
+        "keywords": "Diodes,Gold,Tail,Self-assembly,Contacts,Nanomaterials,Current-voltage characteristics,Probes,Electrons,Cathodes"
+    },
+    {
+        "id": 4387,
+        "label": 83,
+        "author": "benjamin j robinson",
+        "title": "Quantitative Nanothermal Study of 2D materials by SThM and Finite Elements Simulations",
+        "organization": "Lecturer in quantum nanotechnology",
+        "abstract": "The challenging measurements of thermal properties are of fundamental importance in the evolution of modern technology and direct quantification of nanoscale features is a crucial step in this development. Exploring confined systems from monolayer to bulk, we performed scanning thermal microscopy (SThM) on graphene, MoS2 and Bi2Se3 and correlated the outcomes with finite elements (FE) simulations. SThM is a scanning probe microscopy technique derived from the well-known Atomic Force Microscope where a self-heated probe is used as a thermosensor while scanning the sample; during probe-sample contact the corresponding drop in probe temperature can be electronically monitored and directly related to changes in the thermal properties as represented on Fig. 1 where a 5±1 nm flake of each materials mentioned on a SiO2 substrate is thermally measured. FE simulations were realized to correlate the measured properties of our systems varying several parameters such as graphene’s isotropy and anisoptropy as well as substrate interactions. We have investigated how these properties change as a function of sample number of layers on substrates of both high and low thermal conductivities. We observe well defined values of thermal conductance for monolayer and near monolayer thicknesses, however when increasing multilayers most materials conductance does not scale linearly with thickness as in some cases the conductance increases whilst in others a decrease is observed. We discuss and compare experimental considerations and simulation outputs in order to construct a thermal conductance models to explain these interesting results.",
+        "email": "",
+        "conf": "Graphene Week",
+        "coauthors": [
+            "Jean Spiece",
+            "Benjamin James Robinson",
+            "Oleg V. Kolosov"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4392,
+        "label": 83,
+        "author": "benjamin j robinson",
+        "title": "Nanomechanical mapping of graphene layers and interfaces in suspended graphene nanostructures grown via carbon diffusion",
+        "organization": "Lecturer in quantum nanotechnology",
+        "abstract": "Graphene's remarkable mechanical, electronic and thermal properties are strongly determined by both the mechanism of its growth and its interaction with the underlying substrate. Evidently, in order to explore the fundamentals of these mechanisms, efficient nanoscale methods that enable observation of features hidden underneath the immediate surface are needed. In this paper we use nanomechanical mapping via ultrasonic force microscopy that employs MHz frequency range ultrasonic vibrations and allows the observation of surface composition and subsurface interfaces with nanoscale resolution, to elucidate the morphology of few layer graphene (FLG) films produced via a recently reported method of carbon diffusion growth (CDG) on platinum-metal based substrate. CDG is known to result in FLG suspended over large areas, which could be of high importance for graphene transfer and applications where a standalone graphene film is required. This study directly reveals the detailed mechanism of CDG three-dimensional growth and FLG film detachment, directly linking the level of graphene decoupling with variations of the substrate temperature during the annealing phase of growth. We also show that graphene initially and preferentially decouples at the substrate grain boundaries, likely due to its negative expansion coefficient at cooling, forming characteristic “nano-domes” at the intersections of the grain boundaries. Furthermore, quantitative nanomechanical mapping of flexural stiffness of suspended FLG “nano-domes” using kHz frequency range force modulation microscopy uncovers the progression of “nano-dome” stiffness from single to bi-modal distribution as CDG growth progresses, suggesting growth instability at advanced CDG stages.",
+        "email": "",
+        "conf": "Thin Solid Films",
+        "coauthors": [
+            "Benjamin James Robinson",
+            "Caroline Rabot",
+            "Riccardo Mazzocco",
+            "A Delamoreanu",
+            "A Zenasni",
+            "Oleg V. Kolosov"
+        ],
+        "keywords": "Graphene,Carbon diffusion growth,Ultrasonic force microscopy,Nanomechanics,Graphene nano-domes"
+    },
+    {
+        "id": 4396,
+        "label": 83,
+        "author": "benjamin j robinson",
+        "title": "Mapping nanomechanical phenomena in graphene nanostructures using force modulation and ultrasonic force microscopy",
+        "organization": "Lecturer in quantum nanotechnology",
+        "abstract": "Graphene is a novel nanomaterial that possesses outstanding electrical, thermal, and mechanical properties. Whereas its electronic properties are extensively studied, mechanical properties of graphene nanostructures are much less experimentally explored even for simple graphene structures. At the same time, the nanoscale morphology of atomically thin graphene films, including rippling at various length scales and inter-layer force interaction are directly modified by the substrate and local environment that in turn changes of local nanoscale mechanical properties of a graphene nanostructure. We use a combination of force sensitive scanning probe microscopies that combines low frequency and ultrasonic vibrations and enables mapping of wide dynamic range of stiffnesses from 0.02 to 2000 N/m with the lateral resolution of few nanometres. That allowed us to investigate results of residual stresses in supported graphene layers that revealed themselves as broken mechanical contact at the interface between graphene layer and the substrate, as well as to explore nanomechanical behaviour of suspended graphene film. We directly observed the transition of graphene layer deformation from plate to stretched membrane behaviour, and to create nanoscale maps of shell instability for few layer graphene sheets, providing insight to the stresses in the free standing graphene films.",
+        "email": "",
+        "conf": "",
+        "coauthors": [
+            "Oleg V. Kolosov",
+            "Nicholas Kay",
+            "Benjamin James Robinson",
+            "M Rosamond",
+            "D A Zeze",
+            "Vladimir Falko",
+            "Franco Dinelli"
+        ],
+        "keywords": "atomic force microscopy, nanomechanics, graphene, ultrasonic force microscopy, buckling"
+    }
+]

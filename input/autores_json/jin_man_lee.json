@@ -1,0 +1,157 @@
+[
+    {
+        "id": 2637,
+        "label": 57,
+        "author": "jin man lee",
+        "title": "The Role of House Flippers in a Boom and Bust Real Estate Market",
+        "organization": "Research Director and Adjunct Professor DePaul University",
+        "abstract": "The single-family house transactions data of the Chicago Metropolitan Statistical Area during the 1995–2010 period revealed that the peak flipper participation in the housing market occurred between 2004 and 2006 and they realized a higher return than long-term house holders, especially between 2000 and 2006 when the housing market boomed. However, flippers had higher risk than long-term holders. The estimation results of the multilevel mixed regression model showed that when more flippers entered the housing market, they created a positive upward movement in home price. The multivariate adaptive regression splines (MARS) model revealed a nonlinear relationship between housing prices and the fixed and variable effects of flipper participation in the housing market. Multiple knots indicated that flippers impacted the market differently as the frequency and magnitude of flipper participation in the housing market changed.",
+        "email": "",
+        "conf": "Journal of Economic Asymmetries",
+        "coauthors": [
+            "Jin Man Lee",
+            "Jin Wook Choi"
+        ],
+        "keywords": "House flippers,Real estates,Asymmetric information,Boom and bust,House price,MARS"
+    },
+    {
+        "id": 2638,
+        "label": 57,
+        "author": "jin man lee",
+        "title": "Asymmetric Threshold Linkages of inter-Sector Activity in International Equity Markets",
+        "organization": "Research Director and Adjunct Professor DePaul University",
+        "abstract": "The inter-sector study shows index performance on a sector-by-sector basis was heavily impacted by the country which closed just prior to its own market’s open as we expect from the broad index. This study also found the influence of a country’s lagged price movements on its own market varied from one country to another and from sector-to-sector. The investigation into industry specific indexes by applying the Multivariate Adaptive Regression Spline (MARS) model allowed us to untangle the data and capture the asymmetric dynamics in international financial markets. The sector specific study results revealed the strong linkages when markets were excessively volatile and also identified the difference between the impact of positive and negative extreme price movements.",
+        "email": "jlee141@depaul.edu",
+        "conf": "International Journal of Economics and Finance",
+        "coauthors": [
+            "Eun S Ahn",
+            "Jin Man Lee"
+        ],
+        "keywords": "Stock Market Indexes, International Transmission, Nonlinear Time Series, Multivariate Adaptive,Regression Spline (MARS),Asymmetric Information"
+    },
+    {
+        "id": 2636,
+        "label": 57,
+        "author": "jin man lee",
+        "title": "The Performance Of Nonlinearity Tests On Asymmetric Nonlinear Time Series",
+        "organization": "Research Director and Adjunct Professor DePaul University",
+        "abstract": "This paper examines nonlinearity tests of asymmetric time series in a controlled Monte Carlo setting with the goal of exploring how well existing nonlinear test statistics performed in a variety of typical time series settings. The data generation processes and sample sizes were allowed to vary in a controlled fashion. The study confirmed that none of the test statistics were dominant relative to the others. Also, dependent upon the data generating process, the test statistics exhibited very different powers. Finally, our research showed that the test performance was heavily dependent upon sample size and the degree of asymmetric mechanism.",
+        "email": "",
+        "conf": "Journal of Economic Asymmetries",
+        "coauthors": [
+            "Eun S Ahn",
+            "Jin Man Lee"
+        ],
+        "keywords": "Nonlinearity Test,Asymmetric Time Series,Monte Carol Simulation"
+    },
+    {
+        "id": 2639,
+        "label": 57,
+        "author": "jin man lee",
+        "title": "Sources of output volatility from financial crisis in emerging markets",
+        "organization": "Research Director and Adjunct Professor DePaul University",
+        "abstract": "We investigate how output fluctuates before and after these financial crises hit the E-7 countries by excluding the crisis period defined earlier from the sample. The E-7 is referred to a group of seven emerging market countries–Thailand, Malaysia, Indonesia, the Philippines, South Korea, Mexico and Argentina. The main focus of this study is on the source of change in output variability whether it is due to the shocks (impulses) or due to the structure (propagation mechanism). Thailand, Argentina and the Philippines have lower output variability after crisis, while South Korea, Mexico, Indonesia and Malaysia have higher output variance. The counterfactual Vector Autoregression (VAR) analysis shows that the source of output variability change is mainly attributable to the change in structure (propagation mechanism) rather than the change in shocks (impulses) for the E-7, except the Philippines.",
+        "email": "jlee141@depaul.edu",
+        "conf": "Applied Financial Economics",
+        "coauthors": [
+            "Kritchaya Pattanachak",
+            "Jin Man Lee"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2635,
+        "label": 57,
+        "author": "jin man lee",
+        "title": "Adaptive market hypothesis: Evidence from the REIT market",
+        "organization": "Research Director and Adjunct Professor DePaul University",
+        "abstract": "We tests two important implications for Real Estate Investment Trust (REIT) market efficiency from the adaptive markets hypothesis (Lo, 2004): first, market efficiency is not an all-or-none condition but is a characteristic that varies continuously over time; second, market efficiency is dependent upon market conditions. By using the automatic variance ratio test of Choi (1999), and the automatic portmanteau test of Escanciano and Lobato (2009), we confirm both implications for the US REIT market. The degree of REIT return predictability is found to be time varying. More specifically, it appears to be declining over time, which implies that the REIT market has become more efficient. Furthermore, we show that the return predictability is indeed influenced by market conditions. The level of market development appears to be the primary driver for REIT market efficiency. Other factors like inflation and the overall equity market volatility also have impacts. Finally, we demonstrate that the REIT regulatory changes in the early 1990s have greatly improved market efficiency.",
+        "email": "",
+        "conf": "Applied Financial Economics",
+        "coauthors": [
+            "Jian Zhou",
+            "Jin Man Lee"
+        ],
+        "keywords": "return predictability, market efficiency, adaptive market hypothesis, REITs"
+    },
+    {
+        "id": 2643,
+        "label": 57,
+        "author": "jin man lee",
+        "title": "Sources of exchange-rate volatility: Impulses or propagation?",
+        "organization": "Research Director and Adjunct Professor DePaul University",
+        "abstract": "This paper examines whether the remarkable increase in exchange-rate variability since the end of the Bretton Woods period has been the result of a less stable structure (the propagation mechanism) or more volatile shocks (the impulses). Using monthly data over the 1957:1 to 2000:12 period from the US, Canada, Germany, and the UK, our estimates of actual and counterfactual variances suggest that the increased volatility is entirely the result of more violent shocks, and not at all the consequence of a less stable structure. This result is robust to a number of different specifications examined.",
+        "email": "jmlee@uic.edu",
+        "conf": "International Review of Economics & Finance",
+        "coauthors": [
+            "Georgios Karras",
+            "Jin Man Lee",
+            "Houston H. Stokes"
+        ],
+        "keywords": "Exchange rates,VAR models"
+    },
+    {
+        "id": 2641,
+        "label": 57,
+        "author": "jin man lee",
+        "title": "Why are postwar cycles smoother? Impulses or propagation?",
+        "organization": "Research Director and Adjunct Professor DePaul University",
+        "abstract": "This paper asks whether the remarkable decrease in business-cycle variability after the end of World War II has been the result of a more stable structure (the propagation mechanism) or less volatile shocks (the impulses). Using data from the pre-World War I, interwar, and post-World War II periods, for the US, Australia, Italy, Sweden, and the UK, our evidence suggests that the reduced volatility is mostly the result of calmer shocks, and less the consequence of a more stable structure. In the US, for example, we calculate that milder shocks have been responsible for around 80% of the reduction in output variability between interwar and postwar periods, while a more stable structure is responsible for the remaining 20%.",
+        "email": "jmlee@uic.edu",
+        "conf": "Journal of Economics and Business",
+        "coauthors": [
+            "Georgios Karras",
+            "Jin Man Lee",
+            "Houston H. Stokes"
+        ],
+        "keywords": "Business cycles,VAR models"
+    },
+    {
+        "id": 2634,
+        "label": 57,
+        "author": "jin man lee",
+        "title": "Property tax delinquency and its spillover effects on nearby properties",
+        "organization": "Research Director and Adjunct Professor DePaul University",
+        "abstract": "This paper investigates the impact of property tax delinquency on the sales price of nearby residential properties, an effect that we call the “delinquency discount”. We use a sample of 34,500 home sales and the population of delinquent properties for Chicago, Illinois during the period 2010 to 2013. We focus on the delinquency discount for properties within the same Census Block. We also examine the effect of delinquency duration on neighboring properties, as this measures the level of their financial distress. We estimate the magnitude of the delinquency discount using several alternative estimation methods, in each case controlling for local foreclosure activity. Our preferred method is a matching estimator, as it works to eliminate the potential for omitted variable bias that is common in this type of estimation. We find large, negative, and statistically meaningful effects of delinquent properties for which the local government has placed a tax lien and has put the lien up for sale to private investors. For properties with a tax lien that are not successfully sold, we estimate a negative spillover of 5.1% ($12,872) on surrounding properties. Properties with a tax lien that are sold to private investors have a smaller, but still negative impact on surrounding property values of 2.5% ($6310).",
+        "email": "jlee141@depaul.edu",
+        "conf": "Regional Science and Urban Economics",
+        "coauthors": [
+            "James Alm",
+            "Zack Hawley",
+            "Jin Man Lee",
+            "Joshua J. Miller"
+        ],
+        "keywords": "State and Local Taxation,Housing Supply and Markets,Property tax delinquency"
+    },
+    {
+        "id": 2642,
+        "label": 57,
+        "author": "jin man lee",
+        "title": "Volatility relationship between stock performance and real output",
+        "organization": "Research Director and Adjunct Professor DePaul University",
+        "abstract": "This paper investigates the interaction between stock index returns and the real output growth for five countries. This study focuses on the second moment relationship using various forms of the bivariate generalized autoregressive conditional heteroscedastic models (BGARCH). This study shows that interactivity between stock returns and growth rates are robust at the second order. The results imply that high volatility in the stock market is likely to be followed by increased volatility in the output sector and periods of high volatility in real output is likely to be followed by increased volatility in the stock market.",
+        "email": "",
+        "conf": "Applied Financial Economics",
+        "coauthors": [
+            "Eun S Ahn",
+            "Jin Man Lee"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 2640,
+        "label": 57,
+        "author": "jin man lee",
+        "title": "Unlocking the sources of the apparent episodic stationarity of the P/E ratio: Impulses or propagation?",
+        "organization": "Research Director and Adjunct Professor DePaul University",
+        "abstract": "The purpose of this paper is to investigate the sources of the apparent episodic stationarity of the P/E ratio. Design/methodology/approach - The Stock–Watson procedure is used to decompose a VAR/VMA model into changes in structure and changes volatility. In theory, if the P/E ratio is properly anticipated and shocks are random, according to Samuelson's proof, it should exhibit the characteristics of a pure martingale and therefore it should not be possible to statistically reject trend nonstationary. Findings - Using a rolling window, the P/E ratio is shown to have episodic periods when trend nonstationarity could be rejected and that the P/E ratio was not properly anticipated. However, if there were changes in the structure of the underlying P/E ratio model or changes in the volatility of the underlying model, it suggests that the shocks impacting the P/E ratio would not be random and it might be possible to reject nonstationarity. This is investigated further with the objective of determining whether there was underlying structural change or volatility changes that are associated with these periods when trend nonstationarity in the P/E ratio could be rejected. The results are tested and found to be robust to a number of different specifications examined, including different data periods and frequencies. Research limitations/implications - Results findings should be tested in other countries and in other periods. Originality/value - The paper developed a methodology whereby it is possible to detect periods there the P/E ratio is not properly anticipated.",
+        "email": "",
+        "conf": "Review of Accounting and Finance",
+        "coauthors": [
+            "Georgios Karras",
+            "Jin Man Lee",
+            "Hugh Neuburger"
+        ],
+        "keywords": "Price earning ratio; Stock prices; Intangible assets"
+    }
+]

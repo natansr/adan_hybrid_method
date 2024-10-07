@@ -1,0 +1,1448 @@
+[
+    {
+        "id": 3229,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "Measuring Effectiveness in Fuzzy Information Retrieval",
+        "organization": "University of Granada",
+        "abstract": "We investigate extensions of the classical measurement of effectiveness in information retrieval systems, precision and recall, to situations where the answer is modeled by a fuzzy set, such as in cases where each object in the answer is measured by its relevance to the query. The most used fuzzy extension of the classical precision-recall measure based on Zadeh’s relative cardinality appears to be counter-intuitive in some situations. We propose a new approach to the measurement of effectiveness, based on the evaluation of quantified sentences.",
+        "email": "",
+        "conf": "Flexible Query Answering Systems. Physica",
+        "coauthors": [
+            "Maria J. Martin-Bautista",
+            "Daniel Snchez",
+            "M. Amparo Vila",
+            "Henrik Legind Larsen"
+        ],
+        "keywords": "Information Retrieval, Membership Degree, Fuzzy Subset, Information Retrieval System, Fuzzy Measure "
+    },
+    {
+        "id": 3192,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "Text Knowledge Mining: An Alternative to Text Data Mining",
+        "organization": "University of Granada",
+        "abstract": "In this paper we introduced an alternative view of text mining and we review several alternative views proposed by different authors. We propose a classification of text mining techniques into two main groups: techniques based on inductive inference, that we call text data mining (TDM, comprising most of the existing proposals in the literature), and techniques based on deductive or abductive inference, that we call text knowledge mining (TKM). To our knowledge, the TKM view of text mining is new though, as we shall show, several existing techniques could be considered in this group. We discuss about the possibilities and challenges of TKM techniques. We also discuss about the application of existing theories in possible future research in this field.",
+        "email": "",
+        "conf": "IEEE International Conference on Data Mining Workshops",
+        "coauthors": [
+            "Daniel Snchez",
+            "Maria J. Martin-Bautista",
+            "Ignacio J. Blanco",
+            "Consuelo Justicia"
+        ],
+        "keywords": "Data mining,Text mining,Magnesium,Data structures,Stress,Calcium,Conferences,Computer science,Informatics,Communication networks"
+    },
+    {
+        "id": 3160,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "About the effects of sentiments on topic detection in social networks",
+        "organization": "University of Granada",
+        "abstract": "Topic detection from large textual data volumes extracted from Social Networks is an interesting research topic in the context of Big Data. The textual content present in Social Networks contains diverse information that can be exploited in order to obtain useful information. Topic detection and sentiment analysis in social networks are topics of widespread research. The study of both is sometimes intertwined as, usually, user messages revolve around a particular topic and express certain attitude of the user towards the topic discussed. However, this assumption is not valid for all messages as some of them express only general feelings or attitudes and do not refer to something in particular that covers up the topic discussed. In fact, these messages can influence the topic detection process. In this paper, we propose to obtain topics from massive quantities of text data extracted from social networks, without using previous information, and only with the use of unsupervised data mining techniques. We analyze the influence of sentiments in messages and how they affect the topic detection task. Terms related to sentiments provide useful information for a variety of applications, but not for topic detection where they represent a source of unnecessary noise. Experiments are conducted on data obtained from Twitter social network",
+        "email": "",
+        "conf": "International Journal of Design & Nature and Ecodynamics",
+        "coauthors": [
+            "Karel Gutierrez",
+            "Jesus R. Campaa",
+            "Sandro Martinez-Folgoso",
+            "M. Amparo Vila",
+            "Maria J. Martin-Bautista"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3161,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "Extraction of association rules using big data technologies",
+        "organization": "University of Granada",
+        "abstract": "The large amount of information stored by companies and the rise of social networks and the Internet of Things are producing exponential growth in the amount of data being produced. Data analysis techniques must therefore be improved to enable all this information to be processed. One of the most commonly used techniques for extracting information in the data mining field is that of association rules, which accurately represent the frequent co-occurrence of items in a dataset. Although several methods have been proposed for mining association rules, these methods do not perform well in very large databases due to high computational costs and lack of memory problems. In this article, we address these problems by studying the current technologies for processing Big Data to propose a parallelization of the association rule mining process using Big Data technologies which implements an efficient algorithm that can handle massive amounts of data. This new algorithm is then compared with traditional association rule mining algorithms.",
+        "email": "",
+        "conf": "International Journal of Design & Nature and Ecodynamics",
+        "coauthors": [
+            "Carlos Fernandez-Basso",
+            "M. Dolores Ruiz",
+            "Maria J. Martin-Bautista"
+        ],
+        "keywords": "Apriori, association rules, big data algorithms, data mining"
+    },
+    {
+        "id": 3166,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "Automatic constraints generation for semisupervised clustering: experiences with documents classification",
+        "organization": "University of Granada",
+        "abstract": "In the last times, semi-supervised clustering has been an area that has received a lot of attention. It is distinguished from more traditional unsupervised approaches on the use of a small amount of supervision to “steer” clustering. Unfortunately in the real world, the supervision is not always available: data to process are often too large and so the cost (in terms of time and human resources) for user-provided information is not conceivable. To address this issue, this work presents an automatic generation of the supervision, by the analysis of the data structure itself. This analysis is performed using a partitional clustering algorithm that discovers relationships between pairs of instances that may be used as a semi-supervision in the clustering process. The methodology has been studied in the document clustering domain, an area where novel approaches for accurate documents classifications are strongly required. Experimental result shows the validity of this approach.",
+        "email": "",
+        "conf": "Soft Computing",
+        "coauthors": [
+            "Irene Diaz-Valenzuela",
+            "Vincenzo Loia",
+            "Maria J. Martin-Bautista",
+            "Sabrina Senatore",
+            "M. Amparo Vila"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3164,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "A fuzzy extension of the semantic Building Information Model",
+        "organization": "University of Granada",
+        "abstract": "The Building Information Model (BIM) has become a key tool to achieve communication during the whole building life-cycle. Open standards, such as the Industry Foundation Classes (IFC), have contributed to expand its adoption, but they have limited capabilities for cross-domain information integration and query. To address these challenges, the Linked Building Data initiative promotes the use of ontologies and Semantic Web technologies in order to create more formal and interoperable BIMs. In this paper, we present a fuzzy logic-based extension of such semantic BIMs that provides support for imprecise knowledge representation and retrieval. We propose an expressive fuzzy ontology language, and describe how to use a fuzzy reasoning engine in a BIM context with selected examples. The resulting fuzzy semantic BIM enables new functionalities in the project design and analysis stages—namely, soft integration of cross-domain knowledge, flexible BIM query, and imprecise parametric modeling.",
+        "email": "mbautis@decsai.ugr.es",
+        "conf": "Automation in Construction",
+        "coauthors": [
+            "Juan Gmez-Romero",
+            "Fernando Bobillo",
+            "M. Ros",
+            "M. Molina-Solana",
+            "M. D. Ruiz",
+            "Maria J. Martin-Bautista"
+        ],
+        "keywords": "Building Information Model,Ontologies,Fuzzy ontologies"
+    },
+    {
+        "id": 3150,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "A Probabilistic Algorithm for Predictive Control with Full-Complexity Models in Non-Residential Buildings",
+        "organization": "University of Granada",
+        "abstract": "Despite the increasing capabilities of information technologies for data acquisition and processing, building energy management systems still require manual configuration and supervision to achieve optimal performance. Model predictive control (MPC) aims to leverage equipment control-particularly heating, ventilation, and air conditioning (HVAC)-by using a model of the building to capture its dynamic characteristics and to predict its response to alternative control scenarios. Usually, MPC approaches are based on simplified linear models, which support faster computation but also present some limitations regarding interpretability, solution diversification, and longer-term optimization. In this paper, we propose a novel MPC algorithm that uses a full-complexity grey-box simulation model to optimize HVAC operation in non-residential buildings. Our system generates hundreds of candidate operation plans, typically for the next day, and evaluates them in terms of consumption and comfort by means of a parallel simulator configured according to the expected building conditions (weather and occupancy). The system has been implemented and tested in an office building in Helsinki, both in a simulated environment and in the real building, yielding energy savings around 35% during the intermediate winter season and 20% in the whole winter season with respect to the current operation of the heating equipment",
+        "email": "",
+        "conf": "IEEE Access",
+        "coauthors": [
+            "Juan Gomez-Romero",
+            "Carlos Fernandez-Basso",
+            "M. Victoria Cambronero",
+            "Miguel Molina-Solana",
+            "Jesus R. Campana",
+            "M. Dolores Ruiz",
+            "Maria J. Martin-Bautista"
+        ],
+        "keywords": "Model predictive control,simulation,control,building energy management system"
+    },
+    {
+        "id": 3172,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "Meta-association rules for fusing regular association rules from different databases",
+        "organization": "University of Granada",
+        "abstract": "Association rules have been widely used in many application areas to extract from raw data new and useful information expressed in a comprehensive way for decision makers. Nowadays, with the increase of the volume and the variety of data, the classical data mining workflow is showing insufficient. We can expect in the near future that, more often than not, several mining processes will be carried out over the same or different sources, thus requiring extracted information to be fused in order to provide a unified, not overwhelming view to the user. In this paper we propose a new technique for fusing associations rules. The notion of meta-association rule is introduced for that purpose. Meta-association rules are association rules where the antecedent or the consequent can contain regular rules that have been previously extracted with a high reliability in a high percentage of the source databases. We illustrate out proposal with an example in the domain of crime data analysis.",
+        "email": "",
+        "conf": "International Conference on Information Fusion",
+        "coauthors": [
+            "M. Dolores Ruiz",
+            "Juan Gmez-Romero",
+            "Maria J. Martin-Bautista",
+            "Daniel Sanchez",
+            "Miguel Delgado Calvo-Flores"
+        ],
+        "keywords": "Association rules,Proposals,Itemsets,Cities and towns,Sensors"
+    },
+    {
+        "id": 3155,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "Fuzzy Association Rules Mining Using Spark",
+        "organization": "University of Granada",
+        "abstract": "Discovering new trends and co-occurrences in massive data is a key step when analysing social media, data coming from sensors, etc. Traditional Data Mining techniques are not able, in many occasions, to handle such amount of data. For this reason, some approaches have arisen in the last decade to develop parallel and distributed versions of previously known techniques. Frequent itemset mining is not an exception and in the literature there exist several proposals using not only parallel approximations but also Spark and Hadoop developments following the MapReduce philosophy of Big Data. When processing fuzzy data sets or extracting fuzzy associations from crisp data the implementation of such Big Data solutions becomes crucial, since available algorithms increase their execution time and memory consumption due to the problem of not having Boolean items. In this paper, we first review existing parallel and distributed algorithms for frequent itemset and association rule mining in the crisp and fuzzy case, and afterwards we develop a preliminary proposal for mining not only frequent fuzzy itemsets but also fuzzy association rules. We also study the performance of the proposed algorithm in several datasets that have been conveniently fuzzyfied obtaining promising results.",
+        "email": "",
+        "conf": "Information Processing and Management of Uncertainty in Knowledge-Based Systems",
+        "coauthors": [
+            "Carlos Fernandez-Basso",
+            "M. Dolores Ruiz",
+            "Maria J. Martin-Bautista"
+        ],
+        "keywords": "Big data algorithms, Fuzzy frequent itemset, Fuzzy association rules, Data Mining, Apriori "
+    },
+    {
+        "id": 3233,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "Applying Genetic Algorithms to the Feature Selection Problem in Information Retrieval.",
+        "organization": "University of Granada",
+        "abstract": "The demand of accuracy and speed in the Information Retrieval processes has revealed the necessity of a good classification of the large collection of documents existing in databases and Web servers. The representation of documents in the vector space model with terms as features offers the possibility of application of Machine Learning techniques. A filter method to select the most relevant features before the classification process is presented in this paper. A Genetic Algorithm (GA) is used as a powerful tool to search solutions in the domain of relevant features. Implementation and some preliminary experiments have been realized. The application of this technique to the vector space model in Information Retrieval is outlined as future work.",
+        "email": "",
+        "conf": "International Conference on Flexible Query Answering Systems",
+        "coauthors": [
+            "Maria J. Martin-Bautista",
+            "M. Amparo Vila"
+        ],
+        "keywords": "Learning algorithm, Genetic algorithm, Information retrieval, Information system, Intelligent system, Information processing"
+    },
+    {
+        "id": 3206,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "Induction and Inference with Fuzzy Rules for Textual Information Retrieval",
+        "organization": "University of Granada",
+        "abstract": "In this chapter we present a unified framework that combines fuzzy rule induction and inference with textual information retrieval using user profiles. Fuzzy rules are extracted from the fuzzy clusters discovered by the fuzzy C-means clustering method. These rules can be used to characterize the semantical connections between keywords in a set of textual documents, and thus the rules can be used to improve the user queries for better retrieval performance. The fuzzy rules and fuzzy clusters are also useful for modeling user profiles that describe the groups of textual documents in which the user is interested. We apply fuzzy rules to adapt user queries by fuzzy inference within a sound and complete fuzzy logic system. We show some empirical results indicating that using our unified framework, the induction and application of fuzzy rules produces a more effective textual information retrieval system.",
+        "email": "",
+        "conf": "Data Mining and Knowledge Discovery Approaches Based on Rule Induction Techniques",
+        "coauthors": [
+            "Jianhua Chen",
+            "Donald Kraft",
+            "Maria J. Martin-Bautista",
+            "M. Amparo Vila"
+        ],
+        "keywords": "Information Retrieval, Fuzzy Rules, Rule Induction, Fuzzy Clustering, Query Expansion, User Profiles "
+    },
+    {
+        "id": 3153,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "Text Mining: Techniques Applications and Challenges",
+        "organization": "University of Granada",
+        "abstract": "This work presents an overview of the text mining area, considering the most common techniques, and including proposals based on the application of fuzzy sets. Besides, some of the most frequent text mining applications are mentioned. We discuss the existing approaches, which we call text data mining, in relation to the recently proposed paradigm of text knowledge mining, and we conclude that both are different and complementary, in the sense that they are able to extract different knowledge pieces from text by using different reasoning mechanisms. Future challenges related to text knowledge mining are also briefly outlined.",
+        "email": "mbautis@decsai.ugr.es",
+        "conf": "International Journal of Uncertainty Fuzziness and Knowledge-Based Systems",
+        "coauthors": [
+            "Consuelo Justicia",
+            "Daniel Snchez",
+            "Ignacio J. Blanco",
+            "Maria J. Martin-Bautista"
+        ],
+        "keywords": "Text mining,text data mining,text knowledge mining,knowledge discovery in texts,fuzzy text mining,text mining applications"
+    },
+    {
+        "id": 3210,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "Rules and fuzzy rules in text: Concept extraction and usage",
+        "organization": "University of Granada",
+        "abstract": "Several concepts and techniques have been imported from other disciplines such as Machine Learning and Artificial Intelligence to the field of textual data. In this paper, we focus on the concept of rule and the management of uncertainty in text applications. The different structures considered for the construction of the rules, the extraction of the knowledge base and the applications and usage of these rules are detailed. We include a review of the most relevant works of the different types of rules based on their representation and their application to most of the common tasks of Information Retrieval such as categorization, indexing and classification.",
+        "email": "mbautis@decsai.ugr.es",
+        "conf": "International Journal of Approximate Reasoning",
+        "coauthors": [
+            "Donald Kraft",
+            "Maria J. Martin-Bautista",
+            "Jianhua Chen",
+            "Daniel Snchez"
+        ],
+        "keywords": "Rules,Fuzzy logic,Information retrieval,Association rules"
+    },
+    {
+        "id": 3232,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "Combining Linguistic Information in a Distributed Intelligent Agent Model for Information Gathering on the Internet",
+        "organization": "University of Granada",
+        "abstract": "The linguistic approach based on fuzzy sets has given very good results in the modeling of qualitative information, from what has been applied to solve several real-world problems in medicine, information retrieval, education, etc. In this paper, some practical considerations about the choice and semantic of the linguistic term set of such an approach, as well as di_x000B_erent proposals of aggregation of linguistic information are studied. The Linguistic Weighted Averaging Operator to aggregate linguistic weighted information is described, and its use as a way of incorporating more flexibility in the information gathering and communication process among agents in a distributed intelligent agent model on the Internet is presented.",
+        "email": "mbautis@decsai.ugr.es",
+        "conf": "Data & Knowledge Engineering",
+        "coauthors": [
+            "Miguel Delgado Calvo-Flores",
+            "Francisco Herrera",
+            "Enrique Herrera-Viedma",
+            "M. Amparo Vila"
+        ],
+        "keywords": "Linguistic modeling, aggregation operators, information retrieval, intelligent software agents, internet"
+    },
+    {
+        "id": 3171,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "Learning User Activities from Energy Demand Profiles",
+        "organization": "University of Granada",
+        "abstract": "In this paper, we propose the use of energy load profiles to learn human activities. An energy load profile determines the energy consumption of an appliance during a specific interval of time. We propose the use of clustering techniques to group the different profiles according to their temporal consumption. Both Hard and Soft clustering techniques are evaluated. We have tested the method with data from REMODECE (Residential Monitoring to Decrease Energy Use and Carbon Emissions in Europe) 1 database",
+        "email": "",
+        "conf": "International Fuzzy Systems Association and the European Society for Fuzzy Logic and Technology",
+        "coauthors": [
+            "Maria Ros",
+            "Miguel Molina-Solana",
+            "Maria J. Martin-Bautista",
+            "Miguel Delgado",
+            "M. Amparo Vila"
+        ],
+        "keywords": "Ambient intelligence, modelling human activities, energy profiles, clustering"
+    },
+    {
+        "id": 3191,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "Improving Ontologies through Ontology Learning: a University Case",
+        "organization": "University of Granada",
+        "abstract": "Ontology learning (OL) arises as an area to support semantic engineering because it enables to recover and to extract knowledge from the Web documents to improve the development of domain ontologies. One of the most fruitful fields of OL is artificial intelligence (AI), since it sustains new methods, techniques and tools, particularly related with Web- and text-mining. In this work, we are dealing with a meta-model incrementally developed, proposing an OL experiment with open source tools. To reach that, firstly, ontology about a university institution previously developed is increasable synthesized. Secondly, a particular methodology and strategy for OL is used to illustrate how could be included these text-mining and OL tools into a kind of (semi-) intelligent-agent, and how the overall ontological development process could be improved. Particularly, the OL \"agent\" test tool is applied to update/extend the university ontology by a semi-supervised machine learning approach",
+        "email": "",
+        "conf": "WRI World Congress on Computer Science and Information Engineering",
+        "coauthors": [
+            "Richard Jesus Gil Herrera",
+            "Ana Mara Borges",
+            "Leonardo Contreras",
+            "Maria J. Martin-Bautista"
+        ],
+        "keywords": "Ontology Development,Ontology Learning Tools,Text-mining,Machine Learning,Supervised Learning"
+    },
+    {
+        "id": 3182,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "A new multidimensional model with text dimensions: Definition and implementation",
+        "organization": "University of Granada",
+        "abstract": "We present a new multidimensional model with textual dimensions based on a knowledge structure extracted from the texts, where any textual attribute in a database can be processed, and not only XML texts. This dimension allows to treat the textual data in the same way as the non-textual one in an automatic way, without user's intervention, so all the classical operations in the multidimensional model can been defined for this textual dimension. While most of the models dealing with texts that can be found in the literature are not implemented, in this proposal, the multidimensional model and the OLAP system have been implemented in a software tool, so it can be tested on real data. A case study with medical data is included in this work.",
+        "email": "mbautis@decsai.ugr.es",
+        "conf": "International Journal of Computational Intelligence Systems",
+        "coauthors": [
+            "Maria J. Martin-Bautista",
+            "Carlos Molina",
+            "Elizabet Tejeda",
+            "M. Amparo Vila"
+        ],
+        "keywords": "Data warehousing, textual data, knowledge representation, textual dimensions"
+    },
+    {
+        "id": 3180,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "Using a semisupervised fuzzy clustering process for identity identification in digital libraries",
+        "organization": "University of Granada",
+        "abstract": "This paper introduces a new semisupervised fuzzy algorithm that makes use of must-link and cannot-link constraints. These constraints are applied to the process of finding the optimum α-cut of a dendrogram. We have applied this method to identity identification in digital libraries",
+        "email": "",
+        "conf": "Joint IFSA World Congress and NAFIPS Annual Meeting",
+        "coauthors": [
+            "Irene Diaz-Valenzuela",
+            "Maria J. Martin-Bautista",
+            "M. Amparo Vila"
+        ],
+        "keywords": "Libraries,Clustering algorithms,Electronic mail,Uncertainty,Manganese,Analysis of variance,Computer science"
+    },
+    {
+        "id": 3177,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "Contextualization and Personalization of Queries to Knowledge Bases Using Spreading Activation",
+        "organization": "University of Granada",
+        "abstract": "Most taxonomies and thesauri offer their users a huge amount of structured data. However, this volume of data is often excessive, and, thus does not fulfill the needs of the users, who are trying to find specific information related to a certain concept. While there are techniques that may partially alleviate this problem (e.g. visual representation of the data), some of the effects of the information overload persist. This paper proposes a four-step mechanism for personalization and knowledge extraction, derived from the information about users’ activities stored in their profiles. More precisely, the system extracts contextualization from the users’ profiles by using a spreading activation algorithm. The preliminary results of this approach are presented in this paper.",
+        "email": "",
+        "conf": "International Conference on Flexible Query Answering Systems",
+        "coauthors": [
+            "Ana Beln Pelegrina",
+            "Maria J. Martin-Bautista",
+            "Pamela Faber"
+        ],
+        "keywords": "Knowledge Base, Recommender System, Spreading Activation, Karstic Region, Placer Mine "
+    },
+    {
+        "id": 3213,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "Building Topic Profiles Based on Expert Profile Aggregation",
+        "organization": "University of Granada",
+        "abstract": "In this work, we present a method to characterize a given topic on an Information Retrieval System based on expert user profiles. We start from a set of documents from which a set of characteristic terms is extracted. The presence of any term in each document is known and we want to establish the most significant ones in order to select relevant documents about a given topic ∏. For that purpose, a group of experts are required to assess the set of documents. The experts can query with the same terms (an unique query) to the system or with different terms (several queries). By aggregating these assessments with the weight associated to the terms, a topic profile can be obtained. An overview of these different situations and an experimental example are also presented.",
+        "email": "",
+        "conf": "Lecture Notes in Computer Science",
+        "coauthors": [
+            "Miguel Delgado Calvo-Flores",
+            "Maria J. Martin-Bautista",
+            "Daniel Snchez",
+            "M. Amparo Vila"
+        ],
+        "keywords": "Genetic Algorithm, Information Retrieval, User Profile, Relevance Feedback, Query Expansion "
+    },
+    {
+        "id": 3167,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "An Approach for the Evaluation of Human Activities in Physical Therapy Scenarios",
+        "organization": "University of Granada",
+        "abstract": "Human activity recognition has been widely studied since the last decade in ambient intelligence scenarios. Remarkable progresses have been made in this domain, especially in research lines such as ambient assisted living, gesture recognition, behaviour detection and classification, etc. Most of the works in the literature focus on activity classification or recognition, prediction of future events, or anomaly detection and prevention. However, it is hard to find approaches that do not only recognize an activity, but also provide an evaluation of its performance according to an optimality criterion. This problem is of special interest in applications such as sports performance evaluation, physical therapy, etc. In this work, we address the problem of the evaluation of such human activities in monitored environments using depth sensors. In particular, we propose a system able to provide an automatic evaluation of the correctness in the performance of activities involving motion, and more specifically, diagnosis exercises in physical therapy.",
+        "email": "",
+        "conf": "International Conference on Mobile Networks and Management",
+        "coauthors": [
+            "Manuel Pegalajar Cullar",
+            "Maria Ros",
+            "Maria J. Martin-Bautista",
+            "Y. Le Borgne",
+            "Gianluca Bontempi"
+        ],
+        "keywords": "Human activity recognition, Depth sensors, Time series matching "
+    },
+    {
+        "id": 3218,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "Association Rule Extraction for Text Mining",
+        "organization": "University of Granada",
+        "abstract": "We present the definition of fuzzy association rules and fuzzy transactions in a text framework. The traditional mining techniques are applied to documents to extract rules. The fuzzy framework allows us to deal with a fuzzy extended Boolean model. Text mining with fuzzy association rules is applied to one of the classical problems in Information Retrieval: query refinement. The extracted rules help users to query the system by showing them a list of candidate terms to refine the query. Different procedures to apply these rules in an automatic and semi-automatic way are also presented.",
+        "email": "",
+        "conf": "Lecture Notes in Computer Science",
+        "coauthors": [
+            "Miguel Delgado Calvo-Flores",
+            "Maria J. Martin-Bautista",
+            "Daniel Snchez",
+            "J. M. Serrano",
+            "M. Amparo Vila"
+        ],
+        "keywords": "Information Retrieval, Association Rule, Relevance Feedback, Query Term, Query Expansion"
+    },
+    {
+        "id": 3208,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "Mining web documents to find additional query terms using fuzzy association rules",
+        "organization": "University of Granada",
+        "abstract": "In this paper, we present an application of association rules to query refinement. Starting from an initial set of documents retrieved from the web, text transactions are constructed and association rules are extracted. A fuzzy extension of text transactions and association rules is employed, where the presence of the terms (items) in the documents (transactions) is determined with a value between 0 and 1. The obtained rules offer the user additional terms to be added to the query with the purpose of guiding the search and improving the retrieval.",
+        "email": "mbautis@decsai.ugr.es",
+        "conf": "Fuzzy Sets and Systems",
+        "coauthors": [
+            "Maria J. Martin-Bautista",
+            "Daniel Snchez",
+            "Jess Chamorro-Martnez",
+            "J. M. Serrano",
+            "M. Amparo Vila"
+        ],
+        "keywords": "Association rules,Fuzzy logic,Information retrieval,Query refinement"
+    },
+    {
+        "id": 3198,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "Using genetic feature selection for optimizing user profiles",
+        "organization": "University of Granada",
+        "abstract": "Most of the techniques used in text classification are determined by the occurrences of the words (terms) appearing in the documents, combined with the user feedback over the documents retrieved. However, in our model, the most relevant terms will be selected from a previous fuzzy classification given by the genetic algorithm guided by the user feedback, but using techniques from Machine Learning. A feature selection process is carried out through a Genetic Algorithm in order to find the most discriminatory terms to be stored as the user profile.",
+        "email": "",
+        "conf": "Malware and Soft Computing",
+        "coauthors": [
+            "Henrik Legind Larsen",
+            "Nicols Marn",
+            "Maria J. Martin-Bautista",
+            "M. Amparo Vila"
+        ],
+        "keywords": "User Profiles,Fuzzy Classifications,feature selection,genetic algorithms,World Wide Web"
+    },
+    {
+        "id": 3222,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "Mining Text Data: Special Features and Patterns",
+        "organization": "University of Granada",
+        "abstract": "Text mining is an increasingly important research field because of the necessity of obtaining knowledge from the enormous number of text documents available, especially on the Web. Text mining and data mining, both included in the field of information mining, are similar in some sense, and thus it may seem that data mining techniques may be adapted in a straightforward way to mine text. However, data mining deals with structured data, whereas text presents special characteristics and is basically unstructured. In this context, the aims of this paper are three: To study particular features of text. To identify the patterns we may look for in text. To discuss the tools we may use for that purpose. In relation with the third point we overview existing proposals, as well as some new tools we are developing by adapting data mining tools previously developed by our research group.",
+        "email": "",
+        "conf": "Pattern Detection and Discovery",
+        "coauthors": [
+            "Miguel Delgado Calvo-Flores",
+            "Maria J. Martin-Bautista",
+            "Daniel Snchez",
+            "M. Amparo Vila"
+        ],
+        "keywords": "Data Mining, Association Rule, Knowledge Discovery, Text Mining, Textual Data "
+    },
+    {
+        "id": 3187,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "Using Textual Dimensions in Data Warehousing Processes",
+        "organization": "University of Granada",
+        "abstract": "In this work, we present a proposal of a new multidimensional model handling semantical information coming from textual data. Based of a semantical structures called AP-structures, we add new textual dimensions to our model. This new dimension aloow the user to enrich the data analisis not only using lexical information (a set or terms) but the meaning behind the textual data.",
+        "email": "",
+        "conf": "Communications in Computer and Information Science",
+        "coauthors": [
+            "Maria J. Martin-Bautista",
+            "Carlos Molina",
+            "E. Tejeda",
+            "M. Amparo Vila"
+        ],
+        "keywords": "Textual Attribute, Data Warehousing, Textual Data, Frequent Itemsets, Multidimensional Model "
+    },
+    {
+        "id": 3170,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "Fuzzy Meta-Association Rules",
+        "organization": "University of Granada",
+        "abstract": "Association rules is a useful tool to extract new information from raw data expressed in a comprehensive way for decision makers. However, in some applications raw data might not be available for several reasons. First, stream data are only temporarily available for their processing or if it is stored, only summaries or representations of the extracted knowledge are kept. Second, under some circumstances primary data cannot be disclosed due to privacy or legal restrictions. In the light of these observations we propose fuzzy meta-association rules for mining association rules over already discovered rules in a set of databases sharing common information. We compare this proposal with a previous one using crisp meta-rules showing that fuzzy metaassociation rules discover interesting knowledge obtaining a more manageable set of rules for human inspection and allowing the use of fuzzy items to express additional knowledge about the original databases.",
+        "email": "",
+        "conf": "Fuzzy Systems Association and the European Society for Fuzzy Logic and Technology",
+        "coauthors": [
+            "M. Dolores Ruiz",
+            "Juan Gmez-Romero",
+            "Maria J. Martin-Bautista",
+            "M. Amparo Vila",
+            "Miguel Delgado Calvo-Flores"
+        ],
+        "keywords": "Fuzzy association rules, metaassociation rules, higher order mining"
+    },
+    {
+        "id": 3203,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "Helping Users in Web Information Retrieval Via Fuzzy Association Rules",
+        "organization": "University of Granada",
+        "abstract": "We present an application of fuzzy association rules to find new terms that help the user to search in the web. Once the user has made an initial query, a set of documents is retrieved from the web. Representing these documents as text transactions, each item in the transaction means the presence of the term in the document. From the set of transactions, fuzzy association rules are extracted. Based on the thresholds of support and certainty factor, a selection of rules is carried out and the terms in those rules are offered to the user to be added to the query and to improve the retrieval.",
+        "email": "",
+        "conf": "Soft Computing in Web Information Retrieval",
+        "coauthors": [
+            "Maria J. Martin-Bautista",
+            "Daniel Snchez",
+            "Jose M. Serrano",
+            "M. Amparo Vila"
+        ],
+        "keywords": "Information Retrieval, Association Rule, Weighting Scheme, Query Term, Query Expansion "
+    },
+    {
+        "id": 3205,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "A knowledge representation for short texts based on frequent itemsets",
+        "organization": "University of Granada",
+        "abstract": "In this paper, we present a new structure of knowledge representation for short texts. The aim of the work is to handle descriptions and text fields usually found in relational databases by obtaining an intermediate form easier to handle. For this purpose, we get a general representation by obtaining frequent itemsets which are related by a knowledge structure. Such a representation allow us to transform the original field in a more adequate complex structure to deal with in processes such as semantic querying, datawarehousing, data mining, etc",
+        "email": "mbautis@decsai.ugr.es",
+        "conf": "IPMU, Paris",
+        "coauthors": [
+            "Maria J. Martin-Bautista",
+            "M Prados",
+            "M. Amparo Vila",
+            "S Martnez-Folgoso"
+        ],
+        "keywords": "Short texts, AP-sets,frequent itemsets, knowledge structure, semantic querying"
+    },
+    {
+        "id": 3165,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "A New Approach for Representing and Querying Textual Attributes in Databases",
+        "organization": "University of Granada",
+        "abstract": "In this paper, a new approach to deal with textual attributes in databases is presented. The basic idea is to give a new representation for these attributes, so that it allows us to treat them together with and in the same way than the other database attributes in querying, data warehousing, data mining processes, etc. Additionally, the transformation process of the textual attribute implies the obtaining of a global representation, which includes a great part of the attribute meaning. Moreover, this representation can be improved by using an ontology during the querying process, which enables the semantic queries. The formal representation model is presented in the paper, as well as the mathematical bases for dealing with it. The whole implementation process is also described by using a medical database to show the experimental results. Finally, a set of semantic query examples are offered to explain the advantages of this new approach.",
+        "email": "mbautis@decsai.ugr.es",
+        "conf": "International Journal of Intelligent Systems",
+        "coauthors": [
+            "Maria J. Martin-Bautista",
+            "Sandro MartinezFolgoso",
+            "M. Amparo Vila"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3181,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "Flexible Query Answering Systems - 10th International Conference FQAS 2013 Granada Spain September 18-20 2013. Proceedings",
+        "organization": "University of Granada",
+        "abstract": "This book constitutes the refereed proceedings of the 10th International Conference on Flexible Query Answering Systems, FQAS 2013, held in Granada, Spain, in September 2013. The 59 full papers included in this volume were carefully reviewed and selected from numerous submissions. The papers are organized in a general session train and a prallel special session track. The general session train covers the following topics: querying-answering systems; semantic technology; patterns and classification; personalization and recommender systems; searching and ranking; and Web and human-computer interaction. The special track covers some some specific and, typically, newer fields, namely: environmental scanning for strategic early warning; generating linguistic descriptions of data; advances in fuzzy querying and fuzzy databases: theory and applications; fusion and ensemble techniques for online learning on data streams; and intelligent information extraction from texts.",
+        "email": "",
+        "conf": "Flexible Query Answering Systems: 10th International Conference, FQAS",
+        "coauthors": [
+            "Henrik Legind Larsen",
+            "Maria J. Martin-Bautista",
+            "M. Amparo Vila",
+            "Troels Andreasen",
+            "Henning Christiansen"
+        ],
+        "keywords": "Web crawling,complex networks,fuzzy logic,knowledge representation,natural language processing"
+    },
+    {
+        "id": 3194,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "A New Semantic Representation for Short Texts",
+        "organization": "University of Granada",
+        "abstract": "The aim of this work is to present a new semantic structure of knowledge representation for textual fields. The purpose of this structure is to allow us to handle this kind of textual fields as the rest of the fields in the database in processes such as OLAP, datawarehousing, semantic querying, etc. The architecture of the system is described in the work as well as a detailed description of the mathematical formalism of the structure. The mechanism to carry out the transformation is given together with an experimental example with a medical database.",
+        "email": "",
+        "conf": "Data Warehousing and Knowledge Discovery",
+        "coauthors": [
+            "Maria J. Martin-Bautista",
+            "Sandro Martnez-Folgoso",
+            "M. Amparo Vila"
+        ],
+        "keywords": "Textual fields, AP-Sets, AP-Structure, Apriori property, frequent itemsets "
+    },
+    {
+        "id": 3158,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "Information fusion from multiple databases using meta-association rules",
+        "organization": "University of Granada",
+        "abstract": "Nowadays, data volume, distribution, and volatility make it difficult to search global patterns by applying traditional Data Mining techniques. In the case of data in a distributed environment, sometimes a local analysis of each dataset separately is adequate but some other times a global decision is needed by the analysis of the entire data. Association rules discovering methods typically require a single uniform dataset and managing with the entire set of distributed data is not possible due to its size. To address the scenarios in which satisfying this requirement is not practical or even feasible, we propose a new method for fusing information, in the form of rules, extracted from multiple datasets. The proposed model produces meta-association rules, i.e. rules in which the antecedent or the consequent may contain rules as well, for finding joint correlations among trends found individually in each dataset. In this paper, we describe the formulation and the implementation of two alternative frameworks that obtain, respectively, crisp meta-rules and fuzzy meta-rules. We compare our proposal with the information obtained when the datasets are not separated, in order to see the main differences between traditional association rules and meta-association rules. We also compare crisp and fuzzy methods for meta-association rule mining, observing that the fuzzy approach offers several advantages: it is more accurate since it incorporates the strength or validity of the previous information, produces a more manageable set of rules for human inspection, and allows the incorporation of contextual information to the mining process expressed in a more human-friendly format.",
+        "email": "",
+        "conf": "International Journal of Approximate Reasoning",
+        "coauthors": [
+            "M. Dolores Ruiz",
+            "Juan Gomez-Romero",
+            "Miguel Molina-Solana",
+            "M. Ros",
+            "Maria J. Martin-Bautista"
+        ],
+        "keywords": "Association rules,Meta-association rules,Fuzzy association rules,Information fusion,High order mining,Multiple databases"
+    },
+    {
+        "id": 3173,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "A Fuzzy Semisupervised Clustering Method: Application to the Classification of Scientific Publications",
+        "organization": "University of Granada",
+        "abstract": "This paper introduces a new method of fuzzy semisupervised hierarchical clustering using fuzzy instance level constraints. It introduces the concepts of fuzzy must-link and fuzzy cannot-link constraints and use them to find the optimum α-cut of a dendrogram. This method is used to approach the problem of classifying scientific publications in web digital libraries. It is tested on real data from that problem against classical methods and crisp semisupervised hierarchical clustering.",
+        "email": "",
+        "conf": "Communications in Computer and Information Science",
+        "coauthors": [
+            "Irene Diaz-Valenzuela",
+            "Maria J. Martin-Bautista",
+            "M. Amparo Vila"
+        ],
+        "keywords": "Semisupervised clustering, Fuzzy Instance level Constraints, Digital Libraries "
+    },
+    {
+        "id": 3163,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "A novel process-based KMS success framework empowered by ontology learning technology",
+        "organization": "University of Granada",
+        "abstract": "Organizations require empowered Information Systems (IS) and Knowledge Management Systems (KMS) to support several user’s knowledge-tasks and decision-making responsibilities. Gradually, some KMS applications founded on Artificial Intelligence and semantic technology (ontology-based) have emerged to accomplish more suitable KMS under appropriate quality levels. In parallel, the previous IS/KMS success frameworks commonly used to evaluate the demanded quality levels are just based on taxonomy of quality dimensions. In this work, we have suggested a novel Process-based KMS Success Framework which is enhanced by Ontology Learning technology. Thus, this new framework is based on a rationale combination of some quality and user dimensions of prior KMS Success Frameworks that are reinforced by a systemic hierarchy of Knowledge processes and their cyclical behaviour. Concretely, we propose a new KMS success framework that makes the best of the Ontology Learning (OL) technology to enhance the associated knowledge-process performance of this kind of KMS. A knowledge engineering case study has been included to illustrate the systemic enhancement and the results for the OL application under a specific domain using this novel framework. The OL methodological resources (MRs) such as methods, techniques, and tools used to introduce changes and to reach an empowered KMS implementation have been completed by applying an OL methodology.",
+        "email": "",
+        "conf": "Engineering Applications of Artificial Intelligence",
+        "coauthors": [
+            "Richard Jesus Gil Herrera",
+            "Maria J. Martin-Bautista"
+        ],
+        "keywords": "Knowledge Management System (KMS),KMS success frameworks,Knowledge processes performance,Ontology learning (OL),Case study"
+    },
+    {
+        "id": 3228,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "Fuzzy genes: improving the effectiveness of information retrieval",
+        "organization": "University of Granada",
+        "abstract": "An improvement in the effectiveness of information retrieval by using genetic algorithms (GAs) and fuzzy logic is demonstrated. A new classification of information retrieval models within the framework of GAs is given. Such a classification is based on the target of the fitness function selected. When the aim of the optimization is document classification, we deal with document-oriented models. On the other hand, term-oriented models attempt to find those terms that are more discriminatory and adequate for user preferences to build a profile. A new weighting scheme based on fuzzy logic is presented for the first class of models. A comparison with other classical weighting schemes and a study of the best aggregation operators of the gene's local fitness to the overall fitness per chromosome are also presented. The deeper study of this new scheme in the term-oriented models is the main objective for future work.",
+        "email": "",
+        "conf": "Congress on Evolutionary Computation",
+        "coauthors": [
+            "Maria J. Martin-Bautista",
+            "M. Amparo Vila",
+            "Daniel Snchez",
+            "Henrik Legind Larsen"
+        ],
+        "keywords": "Information retrieval,Fuzzy logic,Computer science,Genetic algorithms,Biological cells,Artificial intelligence,Indexing,Rough sets,Search methods,Genetic mutations"
+    },
+    {
+        "id": 3221,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "A probabilistic definition of a nonconvex fuzzy cardinality",
+        "organization": "University of Granada",
+        "abstract": "The existing methods to assess the cardinality of a fuzzy set with finite support are intended to preserve the properties of classical cardinality. In particular, the main objective of researchers in this area has been to ensure the convexity of fuzzy cardinalities, in order to preserve some properties based on the addition of cardinalities, such as the additivity property. We have found that in order to solve many real-world problems, such as the induction of fuzzy rules in Data Mining, convex cardinalities are not always appropriate. In this paper, we propose a possibilistic and a probabilistic cardinality of a fuzzy set with finite support. These cardinalities are not convex in general, but they are most suitable for solving problems and, contrary to the generalizing opinion, they are found to be more intuitive for humans. Their suitability relies mainly on the fact that they assume dependency among objects with respect to the property “to be in a fuzzy set”. The cardinality measures are generalized to relative ones among pairs of fuzzy sets. We also introduce a definition of the entropy of a fuzzy set by using one of our probabilistic measures. Finally, a fuzzy ranking of the cardinality of fuzzy sets is proposed, and a definition of graded equipotency is introduced.",
+        "email": "mbautis@decsai.ugr.es",
+        "conf": "Fuzzy Sets and Systems",
+        "coauthors": [
+            "Miguel Delgado Calvo-Flores",
+            "Daniel Snchez",
+            "Maria J. Martin-Bautista",
+            "M. Amparo Vila"
+        ],
+        "keywords": "Fuzzy cardinality,Fuzzy relative cardinality,Fuzzy entropy,Equipotency of fuzzy sets"
+    },
+    {
+        "id": 3202,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "Mining Fuzzy Association Rules: An Overview",
+        "organization": "University of Granada",
+        "abstract": "The main aim of this paper is to present a revision of the most relevant results about the use of Fuzzy Sets in Data Mining, specifically in relation with the discovery of Association Rules. Fuzzy Sets Theory has been shown to be a very useful tool in Data Mining in order to represent the so-called Association Rules in a natural and human-understandable way. First of all we will introduce the basic concepts of Data Mining to justify the need of using Fuzzy Sets. A historical revision on developments in this field is made too. Next we will present our researches about Fuzzy Association Rules, starting with the formulation of a general model to discover association rules among items in a (crisp) set of fuzzy transactions. This general model can be particularized in several ways so that each particular instance allows to represent and mine a different kind of pattern on some kind of data. We describe some applications of this scheme, paying special attention to its application in Text Mining. The paper finishes with some suggestions about future researches and problems to be solved.",
+        "email": "",
+        "conf": "Soft Computing for Information Processing and Analysis",
+        "coauthors": [
+            "Miguel Delgado Calvo-Flores",
+            "Nicols Marn",
+            "Maria J. Martin-Bautista",
+            "M. Amparo Vila"
+        ],
+        "keywords": "Data mining,association rules, fuzzy transactions, quantified sentences "
+    },
+    {
+        "id": 3201,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "Analysis of Log Files Applying Mining Techniques and Fuzzy Logic",
+        "organization": "University of Granada",
+        "abstract": "With the explosive growth of data available on the Internet, a recent area of investigation called Web Mining has arise. In this paper, we will study general aspects of this area, principally the process of Web Usage Mining where log files are analyzed. These files register the activity of the user when interact with the Web. In the Web Usage Mining, different techniques of mining to discover usage patterns from web data can be applied. We will also study applications of Fuzzy Logic in this area. Specially, we analyze fuzzy techniques such as fuzzy association rules or fuzzy clustering, featuring their functionality and advantages when examining a data set of logs from a web server. Finally, we give initial traces about the application of Fuzzy Logic to personalization and user profile construction.",
+        "email": "",
+        "conf": "International Conference on Industrial, Engineering and Other Applications of Applied Intelligent Systems",
+        "coauthors": [
+            "Victor H. Escobar-Jeria",
+            "Maria J. Martin-Bautista",
+            "Daniel Snchez",
+            "M. Amparo Vila"
+        ],
+        "keywords": "Web Mining, Web Usage Mining, Fuzzy Logic, Fuzzy Association Rules, User Profiles "
+    },
+    {
+        "id": 3223,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "Computing with words in information retrieval",
+        "organization": "University of Granada",
+        "abstract": "A study of the use of computing with words in information retrieval processes is presented in this paper. The lack of user-friendly communication interfaces between the user and the system in traditional retrieval approaches is rectified with the use of fuzzy logic at the different levels of the retrieval process. The advent of fuzzy information retrieval systems allows a linguistic representation, providing the user with a tool of understandable language based on words. Apart from outlining the fuzzy linguistic model in the processes of querying and evaluation, some reflections and discussions on the future trends of linguistic modelling in the processes of user feedback and user profile construction are outlined",
+        "email": "",
+        "conf": "Annual Conference of the North American Fuzzy Information Processing Society - NAFIPS",
+        "coauthors": [
+            "Fernando Berzal",
+            "Maria J. Martin-Bautista",
+            "M. Amparo Vila",
+            "Henrik Legind Larsen"
+        ],
+        "keywords": "Information retrieval,Feedback,Fuzzy logic,Fuzzy systems,Indexing,Computer science,Fuzzy sets,Artificial intelligence,Reflection,Road transportation. "
+    },
+    {
+        "id": 3217,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "Aggregating Expert Profiles for Ser Quering Aid.",
+        "organization": "University of Granada",
+        "abstract": "We present two different models to aggregate document evaluations and user profiles in the field of Information Retrieval. The main aim of this work is to discuss a general methodology to establish the most relevant terms in order to characterize a given “topic” on an Information Retrieval System. The starting point is a collection of documents from which a set of characteristic terms is selected. The presence of a term in a document is known and we want to establish the most significant ones in order to select “relevant” documents about a given “topic” Π. For that purpose, a group of experts is required to assess the set of documents. By aggregating these assessments with the presence-weight of terms, a measurement of their relevance in relation with Π may be obtained. The two presented models differ in that experts can query with the same terms (an unique query) to the system or with different terms (several queries). An overview of these situations and a general methodology to cope with them for our model is presented here",
+        "email": "mbautis@decsai.ugr.es",
+        "conf": "ICEIS",
+        "coauthors": [
+            "Miguel Delgado Calvo-Flores",
+            "Maria J. Martin-Bautista",
+            "Daniel Snchez",
+            "M. Amparo Vila"
+        ],
+        "keywords": "Information Retrieval, User Profiles, Linguistic Approach, Ordinal Assessment, Aggregation Operators"
+    },
+    {
+        "id": 3197,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "Obtaining User Profiles Via Web Usage Mining.",
+        "organization": "University of Granada",
+        "abstract": "In this paper, we present a model to obtain and analyze user profiles after a process of web usage mining where log files are processed. The web log files register the activity of the user when navigates for a certain web site. These files are mined using a fuzzy clustering process. The obtained clusters represent groups of user sessions which can be related to different demographical classes of people surfing through the web site. These classes are sometimes known and can be identified following the visited web pages. In our case, we obtain and analyzed the user profiles of a University School web server where students and teachers are the usual users of the web site.",
+        "email": "",
+        "conf": "IADIS European Conf. Data Mining",
+        "coauthors": [
+            "Maria J. Martin-Bautista",
+            "M. Amparo Vila",
+            "Vctor H. Escobar-Jeria"
+        ],
+        "keywords": "Web Mining, Web Usage Mining, Fuzzy Clustering, User Profiles"
+    },
+    {
+        "id": 3169,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "Discovering Fuzzy Exception and Anomalous Rules",
+        "organization": "University of Granada",
+        "abstract": "Nowadays, searching for specific kind of knowledge that deviates from the usual standards is very useful in several domains such as network traffic anomalies, fraud detection, economic analysis, or medical diagnosis. Fuzzy association rules have been developed as a powerful tool for dealing with imprecision in databases (that may come from the source, i.e., imprecise measures taken by the machine, or from the human understanding of a concept) and offering a comprehensive representation of found knowledge. In this paper, we introduce the notion of fuzzy exception and fuzzy anomalous rule for the recognition of these types of deviations. The deviations are associated with the common patterns, which usually are hidden in data affected by some kind of fuzziness. We present a new approach for mining such rules based on a recently proposed model for representing and evaluating fuzzy rules. Important advantages are to obtain more understandable results and that the mining process can be parallelized. An algorithm following the proposed model is developed, and some experiments are performed in data where some numerical attributes have been fuzzified and also in some real fuzzy transactional datasets for testing the proposed algorithm. From experimentation, we have seen that the proposed fuzzy rules give some insights on the exception and anomaly detection in credit payments",
+        "email": "",
+        "conf": "IEEE Transactions on Fuzzy Systems",
+        "coauthors": [
+            "M. Dolores Ruiz",
+            "Daniel Snchez",
+            "Miguel Delgado",
+            "Maria J. Martin-Bautista"
+        ],
+        "keywords": "Anomalous rules,exception rules,fuzzy association rules,RL theory"
+    },
+    {
+        "id": 3227,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "Building adaptive user profiles by a genetic fuzzy classifier with feature selection",
+        "organization": "University of Granada",
+        "abstract": "A genetic algorithm is used to build user profiles from a collection of documents previously retrieved by the user. A fuzzy classification and a genetic term selection process provide a better utilization of valuable knowledge for genetic algorithms in order to get an improvement of the quality of the current and near future information needs in the areas of interest to the user. A gene in the chromosome of the genetic algorithm is defined by a term and a fuzzy number of occurrences of the term in documents belonging to the class of documents that satisfy the user's information need. In this way, the terms that allow the system to discern between good and bad documents are selected and stored as a part of the user's profile to be used in future queries to the system. The fuzzy classifier implements an inductive derivation of the current, experience based, interest profile in terms of an importance weighted conjunction of genes.",
+        "email": "",
+        "conf": "IEEE International Conference on Fuzzy Systems",
+        "coauthors": [
+            "Maria J. Martin-Bautista",
+            "M. Amparo Vila",
+            "Henrik Legind Larsen"
+        ],
+        "keywords": "Genetic algorithms,Information retrieval,Computer science,Data mining,Web mining,Artificial intelligence,Biological cells,Text mining,Information systems,Information filtering"
+    },
+    {
+        "id": 3157,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "Data science for building energy management: A review",
+        "organization": "University of Granada",
+        "abstract": "The energy consumption of residential and commercial buildings has risen steadily in recent years, an increase largely due to their HVAC systems. Expected energy loads, transportation, and storage as well as user behavior influence the quantity and quality of the energy consumed daily in buildings. However, technology is now available that can accurately monitor, collect, and store the huge amount of data involved in this process. Furthermore, this technology is capable of analyzing and exploiting such data in meaningful ways. Not surprisingly, the use of data science techniques to increase energy efficiency is currently attracting a great deal of attention and interest. This paper reviews how Data Science has been applied to address the most difficult problems faced by practitioners in the field of Energy Management, especially in the building sector. The work also discusses the challenges and opportunities that will arise with the advent of fully connected devices and new computational technologies.",
+        "email": "mbautis@decsai.ugr.es",
+        "conf": "Renewable and Sustainable Energy Reviews",
+        "coauthors": [
+            "Miguel Molina-Solana",
+            "Mara Ros",
+            "M. Dolores Ruiz",
+            "Juan Gomez-Romero",
+            "Maria J. Martin-Bautista"
+        ],
+        "keywords": "Data science,Building energy management,Energy load,Building operation,Fraud detection,Applications"
+    },
+    {
+        "id": 3224,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "Mining association rules with improved semantics in medical databases",
+        "organization": "University of Granada",
+        "abstract": "The discovery of new knowledge by mining medical databases is crucial in order to make an effective use of stored data, enhancing patient management tasks. One of the main objectives of data mining methods is to provide a clear and understandable description of patterns held in data. We introduce a new approach to find association rules among quantitative values in relational databases. The semantics of such rules are improved by introducing imprecise terms in both the antecedent and the consequent, as these terms are the most commonly used in human conversation and reasoning. The terms are modeled by means of fuzzy sets defined in the appropriate domains. However, the mining task is performed on the precise data. These “fuzzy association rules” are more informative than rules relating precise values. We also introduce a new measure of accuracy, based on Shortliffe and Buchanan’s certainty factors [Shortliffe E, Buchanan B. Math Biosci 1975;23:351–79]. Also, the semantics of the usual measure of usefulness of an association rule, called support are discussed and some new criteria are introduced. Our new measures have been shown to be more understandable and appropriate than ordinary ones. Several experiments on large medical databases show that our new approach can provide useful knowledge with better semantics in this field.",
+        "email": "",
+        "conf": "Artificial Intelligence in Medicine",
+        "coauthors": [
+            "Miguel Delgado Calvo-Flores",
+            "Daniel Snchez",
+            "Maria J. Martin-Bautista",
+            "M. Amparo Vila"
+        ],
+        "keywords": "Data mining,Fuzzy association rules,Relational databases,Quantified sentences,Rule accuracy measures"
+    },
+    {
+        "id": 3176,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "Towards a Machine of a Process (MOP) ontology to facilitate e-commerce of industrial machinery",
+        "organization": "University of Granada",
+        "abstract": "Adapting to user's requirements is a key factor for enterprise success. Despite the existence of several approaches that point in this direction, simplifying integration and interoperability among users, suppliers and the enterprise during product lifecycle, is still an open issue. Ontologies have been used in some manufacturing applications and they promise to be a valid approach to model manufacturing resources of enterprises (e.g. machinery and raw material). Nevertheless, in this domain, most of the ontologies have been developed following methodologies based on development from scratch, thus ontologies previously developed have been discarded. Such ontological methodologies tend to hold the interoperability issues in some level. In this paper, a method that integrates ontology reuse with ontology validation and learning is presented. An upper (top-level) ontology for manufacturing was used as a reference to evaluate and to improve specific domain ontology. The evaluation procedure was based on the systemic methodology for ontology learning (SMOL). As a result of the application of SMOL, an ontology entitled Machine of a Process (MOP) was developed. The terminology included in MOP was validated by means of a text mining procedure called Term Frequency–Inverse Document Frequency (TF–IDF) which was carried out on documents from the domain in this study. Competency questions were performed on preexisting domain ontologies and MOP, proving that this new ontology has a performance better than the domain ontologies used as seed.",
+        "email": "mbautis@decsai.ugr.es",
+        "conf": "Computers in Industry",
+        "coauthors": [
+            "Luis Ramos",
+            "Richard Jesus Gil Herrera",
+            "Dimitra Anastasiou",
+            "Maria J. Martin-Bautista"
+        ],
+        "keywords": "Ontology,Semantic Web,Manufacturing,Machine-tools,Ontology learning"
+    },
+    {
+        "id": 3234,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "An approach to an adaptive information retrieval agent using genetic algorithms with fuzzy set genes",
+        "organization": "University of Granada",
+        "abstract": "We present the genetic information retrieval agent filter (GIRAF) as an approach to adaptive Internet information retrieval using genetic algorithms (GAs) with fuzzy set genes. Each gene characterizes documents by a keyword and an associated occurrence frequency represented by a certain type of a fuzzy subset of the set of positive integers. For the representation of the user's information needs, we maintain a population of chromosomes, each consisting of a fixed number of genes. Each chromosome is associated with a fitness which may be considered the system's believe in the hypothesis that the chromosome, as a query, represents the user's information needs. Based on the user's evaluation of the retrieved documents by the chromosome, compared the scores computed by the system, the fitness of the chromosomes is adjusted. We present and discuss results from testing a prototype of GIRAF in retrieving documents from the Internet",
+        "email": "",
+        "conf": "International Fuzzy Systems Conference",
+        "coauthors": [
+            "Maria J. Martin-Bautista",
+            "Henrik Legind Larsen",
+            "J. Nicolaisen",
+            "T. Svendsen"
+        ],
+        "keywords": "Information retrieval,Biological cells,Internet,Fuzzy sets,Adaptive filters,Information filtering,Information filters,Genetic algorithms,Frequency,Testing"
+    },
+    {
+        "id": 3186,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "Applying an Ontology Learning Methodology to a Relational Database: University Case Study",
+        "organization": "University of Granada",
+        "abstract": "Important knowledge can be recovered from relational database (RDB) associated with some information system specific domains and converted to semantics. Studying the processes and Methodological Resources (MR) for this conversion has gained relevance in Knowledge Engineering and, particularly, in the Ontology Learning (OL) field. Such MR, organized in an appropriate manner under a methodological strategy, will make it possible to take advantage of existing tools for converting the cited RDB to domain ontologies. A comparative conversion-tool analysis, having considered the tools capabilities, learning levels and some advantages, has been useful for selecting and aligning those tools with the methodology applied to the case study. Finally, the methodological strategy design and its application under a Systemic Methodology for OL (SMOL) is shown",
+        "email": "",
+        "conf": "International Conference on Semantic Computing",
+        "coauthors": [
+            "Rosa Maria Gil",
+            "Maria J. Martin-Bautista",
+            "Leonardo Contreras"
+        ],
+        "keywords": "Ontology Learning,Methodology,Systemic,Methodology Evaluation,Tools,Academic domain"
+    },
+    {
+        "id": 3220,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "User profiles and fuzzy logic for web retrieval issues",
+        "organization": "University of Granada",
+        "abstract": "We present a study of the role of user profiles using fuzzy logic in web retrieval processes. Flexibility for user interaction and for adaptation in profile construction becomes an important issue. We focus our study on user profiles, including creation, modification, storage, clustering and interpretation. We also consider the role of fuzzy logic and other soft computing techniques to improve user profiles. Extended profiles contain additional information related to the user that can be used to personalize and customize the retrieval process as well as the web site. Web mining processes can be carried out by means of fuzzy clustering of these extended profiles and fuzzy rule construction. Fuzzy inference can be used in order to modify queries and extract knowledge from profiles with marketing purposes within a web framework. An architecture of a portal that could support web mining technology is also presented.",
+        "email": "",
+        "conf": "Soft Computing",
+        "coauthors": [
+            "Maria J. Martin-Bautista",
+            "Donald Kraft",
+            "M. Amparo Vila",
+            "J Chen",
+            "J. Cruz"
+        ],
+        "keywords": "User profile,Web mining,Fuzzy logic,Fuzzy clustering,Soft computing,Information retrieval"
+    },
+    {
+        "id": 3212,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "On a Characterization of Fuzzy Bags",
+        "organization": "University of Granada",
+        "abstract": "Bags, also called multisets, were introduced by R. Yager as set-like algebraic structures where elements are allowed to be repeated. Since the original papers by Yager, different definitions of the concept of fuzzy bag, and the corresponding operators, are available in the literature, as well as some extensions of the union, intersection and difference operators of sets, and new algebraic operators.In general, the current definitions of bag pose very interesting issues related to the ontological aspects and practical use of bags. In this paper we introduce a characterization of bags viewing them as the result of a count operation on the basis of a mathematical correspondence. We also discuss on the extension of our alternative characterization of bags to the fuzzy case. On these basis we introduce some operators on bags and fuzzy bags, and we compare them to existing approaches.",
+        "email": "mbautis@decsai.ugr.es",
+        "conf": "Lecture Notes in Computer Science",
+        "coauthors": [
+            "Miguel Delgado Calvo-Flores",
+            "Maria J. Martin-Bautista",
+            "Daniel Snchez",
+            "M. Amparo Vila"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3231,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "A Survey of Genetic Feature Selection in Mining Issues",
+        "organization": "University of Granada",
+        "abstract": "In this paper, we review the feature selection problem in mining issues. The application of soft computing techniques to data mining and knowledge discovery is now emerging in order to enhance the effectiveness of the traditional classification methods coming from machine learning. A survey of the approaches presented in the literature to select relevant features by using genetic algorithms is given. The different values of the genetic parameters utilized as well as the fitness functions are compared. A more detailed review of the proposals in the mining fields of databases, text and the Web is also given.",
+        "email": "",
+        "conf": "Congress on Evolutionary Computation",
+        "coauthors": [
+            "Maria J. Martin-Bautista",
+            "M. Amparo Vila"
+        ],
+        "keywords": "data mining,genetic algorithms,learning (artificial intelligence),data warehouses,pattern classification"
+    },
+    {
+        "id": 3178,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "Detecting Anomalous and Exceptional Behaviour on Credit Data by Means of Association Rules",
+        "organization": "University of Granada",
+        "abstract": "Association rules is a data mining technique for extracting useful knowledge from databases. Recently some approaches has been developed for mining novel kinds of useful information, such us peculiarities, infrequent rules, exception or anomalous rules. The common feature of these proposals is the low support of such type of rules. Therefore, finding efficient algorithms for extracting them are needed. The aim of this paper is three fold. First, it reviews a previous formulation for exception and anomalous rules, focusing on its semantics and definition. Second, we propose efficient algorithms for mining such type of rules. Third, we apply them to the case of detecting anomalous and exceptional behaviours on credit data.",
+        "email": "",
+        "conf": "International Conference on Flexible Query Answering Systems",
+        "coauthors": [
+            "Miguel Delgado Calvo-Flores",
+            "Maria J. Martin-Bautista",
+            "M. Dolores Ruiz",
+            "Daniel Snchez"
+        ],
+        "keywords": "Data mining, association rules, exception rules, anomalous rules, fraud, credit "
+    },
+    {
+        "id": 3168,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "On the Use of Fuzzy Constraints in Semisupervised Clustering",
+        "organization": "University of Granada",
+        "abstract": "This paper introduces Fuzzy HSS, a semisupervised hierarchical clustering approach that uses fuzzy instance-level constraints. These constraints are external information on the shape of fuzzy must-link and fuzzy cannot-link restrictions. They allow uncertainty when indicating whether two instances of a dataset belong to the same group. Fuzzy must-link constraints give a degree of belief of two instances belonging to the same group. Analogously, fuzzy cannot-link constraints indicate the degree of belief of two instances not belonging to the same group. These constraints have been introduced in a hierarchical clustering process, allowing us to obtain the optimal number of groups in a dendrogram when the number of clusters is not known. The optimal amount of constraints needed in the process is determined by means of fuzzy entropy. An extensive experimental study is provided by comparing this fuzzy semisupervised approach with classic unsupervised methods, as well as a crisp semisupervised alternative.",
+        "email": "",
+        "conf": "IEEE Transactions on Fuzzy Systems",
+        "coauthors": [
+            "Irene Diaz-Valenzuela",
+            "M. Amparo Vila",
+            "Maria J. Martin-Bautista"
+        ],
+        "keywords": "Fuzzy instance-level constraints,hierarchical clustering,semisupervised clustering"
+    },
+    {
+        "id": 3159,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "Meta-Association Rules for mining interesting associations in multiple datasets",
+        "organization": "University of Granada",
+        "abstract": "Association rules have been widely used in many application areas to extract new and useful information expressed in a comprehensive way for decision makers from raw data. However, raw data may not always be available, it can be distributed in multiple datasets and therefore there resulting number of association rules to be inspected is overwhelming. In the light of these observations, we propose meta-association rules, a new framework for mining association rules over previously discovered rules in multiple databases. Meta-association rules are a new tool that convey new information from the patterns extracted from multiple datasets and give a “summarized” representation about most frequent patterns. We propose and compare two different algorithms based respectively on crisp rules and fuzzy rules, concluding that fuzzy meta-association rules are suitable to incorporate to the meta-mining procedure the obtained quality assessment provided by the rules in the first step of the process, although it consumes more time than the crisp approach. In addition, fuzzy meta-rules give a more manageable set of rules for its posterior analysis and they allow the use of fuzzy items to express additional knowledge about the original databases. The proposed framework is illustrated with real-life data about crime incidents in the city of Chicago. Issues such as the difference with traditional approaches are discussed using synthetic data.",
+        "email": "mbautis@decsai.ugr.es",
+        "conf": "Applied Soft Computing",
+        "coauthors": [
+            "M. Dolores Ruiz",
+            "Juan Gmez-Romero",
+            "Miguel Molina-Solana",
+            "J. R. Campana",
+            "Maria J. Martin-Bautista"
+        ],
+        "keywords": "Meta-association rules,Multiple datasets,Higher order mining,Fuzzy association rules,RL-theory"
+    },
+    {
+        "id": 3226,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "A Linguistic Information Process in a Distributed Intelligent Agent Model for Information Gathering on the Internet",
+        "organization": "University of Granada",
+        "abstract": "In this paper, a proposal for managing linguistic information in a distributed intelligent agent model for information gathering on the Internet is studied. The Linguistic Weighted Averating Operator to aggregate linguistic weighted information is described, and its use in the information gathering and communication proccess among agents in a distributed intelligent agent model on the Internet is presented.",
+        "email": "mbautis@decsai.ugr.es",
+        "conf": "International Conference on Soft and Intelligent Computing",
+        "coauthors": [
+            "Miguel Delgado Calvo-Flores",
+            "Francisco Herrera",
+            "Enrique Herrera-Viedma",
+            "M. Amparo Vila"
+        ],
+        "keywords": "Linguistic modeling, aggregation operators, information retrieval, intelligent software agents, Internet"
+    },
+    {
+        "id": 3152,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "Comfort as a Service: A New Paradigm for Residential Environmental Quality Control",
+        "organization": "University of Granada",
+        "abstract": "This paper introduces the concept of Comfort as a Service (CaaS), a new energy supply paradigm for providing comfort to residential customers. CaaS takes into account the available passive and active elements, the external factors that affect energy consumption and associated costs, and occupants’ behaviors to generate optimal control strategies for the domestic equipment automatically. As a consequence, it releases building occupants from operating the equipment, which gives rise to a disruption of the traditional model of paying per consumed energy in favor of a model of paying per provided comfort. In the paper, we envision a realization of CaaS based on several technologies such as ambient intelligence, big data, cloud computing and predictive computing. We discuss the opportunities and the barriers of CaaS-centered business and exemplify the potential of CaaS deployments by quantifying the expected energy savings achieved after limiting occupants’ control over the air conditioning system in a test scenario.",
+        "email": "",
+        "conf": "Sustainability",
+        "coauthors": [
+            "Juan Gmez-Romero",
+            "Miguel Molina-Solana",
+            "Mara Ros",
+            "M. Dolores Ruiz",
+            "Maria J. Martin-Bautista"
+        ],
+        "keywords": "comfort as a service; energy management; building control; big data; ambient intelligence"
+    },
+    {
+        "id": 3207,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "Text mining: intermediate forms on knowledge representation.",
+        "organization": "University of Granada",
+        "abstract": "In this paper we review the main intermediate forms proposed in text mining, and we briefly study some fuzzy counterparts. The concept of intermediate form applies to any knowledge representation employed to represent in a structured way the semantic content of a text corpus. Intermediate forms play a central role in the text mining process since it is necessary to transform plain text into a form in order to apply mining techniques. Since the semantics of text use to be imprecise, the use of fuzzy intermediate forms seems to be a natural solution in many cases. We discuss about fuzzy intermediate forms and the corresponding fuzzy text mining techniques that may be applicable on them.",
+        "email": "mbautis@decsai.ugr.es",
+        "conf": "EUSFLAT Conf",
+        "coauthors": [
+            "Consuelo Justicia",
+            "Maria J. Martin-Bautista",
+            "Daniel Snchez",
+            "M. Amparo Vila"
+        ],
+        "keywords": "Text Mining, Knowledge Discovery in Text, Knowledge Representation, Intermediate Forms"
+    },
+    {
+        "id": 3209,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "Text Mining using Fuzzy Association Rules",
+        "organization": "University of Granada",
+        "abstract": "In this paper, fuzzy association rules are used in a text framework. Text transactions are defined based on the concept of fuzzy association rules considering each attribute as a term of a collection. The purpose of the use of text mining technologies presented in this paper is to assist users to find relevant information. The system helps the user to formulate queries by including related terms to the query using fuzzy association rules. The list of possible candidate terms extracted from the rules can be added automatically to the original query or can be shown to the user who selects the most relevant for her/his preferences in a semi-automatic process.",
+        "email": "",
+        "conf": "Fuzzy logic and the internet. Springer",
+        "coauthors": [
+            "Maria J. Martin-Bautista",
+            "Daniel Snchez",
+            "Jose M. Serrano",
+            "M. Amparo Vila"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3185,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "An automatic data mining authority control system: A first approach",
+        "organization": "University of Granada",
+        "abstract": "In this paper we present an automatic authority control system for raw noisy web data based on Data Mining. We use a hierarchical clustering approach with a special distance measure combination of three parameters: author name similarity, token similarity and co-authors similarity, each one defined in a specific way. A preliminary experimental study has been performed with real data obtained from CiteSeerX",
+        "email": "",
+        "conf": "International Conference on Intelligent Systems Design and Applications",
+        "coauthors": [
+            "Irene Diaz-Valenzuela",
+            "Maria J. Martin-Bautista",
+            "M. Amparo Vila"
+        ],
+        "keywords": "authority control,data mining,clustering,raw web data"
+    },
+    {
+        "id": 3188,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "Semantic Enrichment of Database Textual Attributes",
+        "organization": "University of Granada",
+        "abstract": "Textual attributes in relational databases contain useful information that sometimes is not handled in a proper way. Syntactic querying of textual fields provides only superficial information, avoiding issues related to the semantics of data. In order to extract relevant information from these fields, a text mining process is conducted. The AP-Sets mining structure allows the building of an intermediate representation for texts based on the Apriori property. This intermediate form has the shape of a lattice of text itemsets, and can be translated into a basic ontology using semantic relations extracted from WordNet lexical database. The ontology generated can be seen as a summarized structured description of the contents of the textual attribute. Furthermore, it adds semantic capabilities to the query process on textual attributes.",
+        "email": "",
+        "conf": "International Conference on Flexible Query Answering Systems",
+        "coauthors": [
+            "Jesus R. Campaa",
+            "Maria J. Martin-Bautista",
+            "Juan Miguel Medina",
+            "M. Amparo Vila"
+        ],
+        "keywords": "Semantic Relation, Frequent Itemsets, Word Sense Disambiguation, Apriori Algorithm, Syntactic Form "
+    },
+    {
+        "id": 3215,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "Textual Information Retrieval with User Profiles Using Fuzzy Clustering and Inferencing",
+        "organization": "University of Granada",
+        "abstract": "We present a fuzzy-logic based approach to construction and use of user profiles in web textual information retrieval. A classical user profile is a collection of terms extracted from the set of documents for a specific user or a group of users. We use a fuzzy representation for user profiles where each term in a profile is associated with a fuzzy membership value. The construction of user profiles is performed by a combination of fuzzy clustering and fuzzy inferencing, a new approach developed recently. We apply fuzzy clustering methods (such as fuzzy cmeans and fuzzy hierarchical clustering) to cluster documents relevant to a user. From the cluster centers (prototypes), a user profile is constructed which indicates the user’s general preference of various terms. Fuzzy logic rules are also extracted from the cluster centers or from the user profiles. The fuzzy rules specify the semantic correlation among query terms. The user profiles and the fuzzy rules are subsequently used to expand user queries for better retrieval performance. Additional nontopical information about the user can be added to personalize the retrieval process. Moreover, fuzzy clustering can be applied to profiles of many users to extract knowledge about different user groups. The extracted knowledge is potentially useful for personalized marketing on the web.",
+        "email": "",
+        "conf": "Intelligent Exploration of the web",
+        "coauthors": [
+            "Donald Kraft",
+            "Jianhua Chen",
+            "Maria J. Martin-Bautista",
+            "M. Amparo Vila"
+        ],
+        "keywords": "Information retrieval, user profiles, fuzzy clustering, fuzzy inference "
+    },
+    {
+        "id": 3199,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "Fuzzy Association Rules for Query Refinement in Web Retrieval",
+        "organization": "University of Granada",
+        "abstract": "In this paper, we present an application for helping users to find new query terms in web retrieval via fuzzy association rules. Once the user has made an initial query, a set of documents is retrieved from the web. Representing these documents as text transactions, each item in the transaction means the presence of the term in the document. From the set of transactions, fuzzy association rules are extracted. Based on the thresholds of support and certainty factor, a selection of rules is carried out and the terms in those rules are offered to the user to be added to the query and to improve the retrieval.",
+        "email": "",
+        "conf": "Studies in Fuzziness and Soft Computing",
+        "coauthors": [
+            "Miguel Delgado Calvo-Flores",
+            "Maria J. Martin-Bautista",
+            "Daniel Snchez",
+            "J. M. Serrano",
+            "M. Amparo Vila"
+        ],
+        "keywords": "Information Retrieval, Association Rule, Fuzzy Subset, Query Term, Query Expansion "
+    },
+    {
+        "id": 3190,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "A new fusion strategy for web metasearch",
+        "organization": "University of Granada",
+        "abstract": "In this paper, we present two new list fusion strategies for the collection fusion problem in web metasearch. The new approaches fall in the category of isolated methods since they consider as input the lists obtained by different search engines only, plus a fuzzy degree of relevance in one of the methods. In the latter case, we employ a recently proposed approach for the representation of fuzzy preferences, namely, RL-preference relations. A remarkable contribution of the approaches is that the result of the fusion is an ordered list of indistinguishable groups of documents. This kind of output represents a good compromise between understandability and accuracy of the result. We have illustrated the performance of the method by means of several experiments and a comparison with other web metasearchers.",
+        "email": "",
+        "conf": "Soft Computing",
+        "coauthors": [
+            "Maria J. Martin-Bautista",
+            "Daniel Snchez",
+            "M. Amparo Vila",
+            "Miguel Delgado Calvo-Flores"
+        ],
+        "keywords": "Web metasearch,Collection fusion problem,RL-preference relations"
+    },
+    {
+        "id": 3214,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "On the quest for easy-to-understand splitting rules",
+        "organization": "University of Granada",
+        "abstract": "Decision trees are probably the most popular and commonly used classification model. They are built recursively following a top-down approach (from general concepts to particular examples) by repeated splits of the training dataset. The chosen splitting criterion may affect the accuracy of the classifier, but not significantly. In fact, none of the proposed splitting criteria in the literature has proved to be universally better than the rest. Although they all yield similar results, their complexity varies significantly, and they are not always suitable for multi-way decision trees. Here we propose two new splitting rules which obtain similar results to other well-known criteria when used to build multi-way decision trees, while their simplicity makes them ideal for non-expert users.",
+        "email": "mbautis@decsai.ugr.es",
+        "conf": "Data & Knowledge Engineering",
+        "coauthors": [
+            "Fernando Berzal",
+            "Juan-Carlos Cubero",
+            "Fernando Cuenca",
+            "Maria J. Martin-Bautista"
+        ],
+        "keywords": "Supervised learning,Classification,Decision trees,Splitting rules"
+    },
+    {
+        "id": 3174,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "SMOL: A Systemic Methodology for Ontology Learning from Heterogeneous Sources",
+        "organization": "University of Granada",
+        "abstract": "Organizations are demanding an efficacious knowledge management. Consequently, they are increasing their system innovation investments to turn information into useful knowledge for decision making obtained from heterogeneous Knowledge Sources (KSOs) such as databases, documents, and even ontologies. Methodological Resources (MRs) for the required knowledge discovering and recovering purposes have gradually become more elaborated and mature in the framework of Knowledge Engineering. Particularly, in the Ontology Learning (OL) field, there is a lack of integrated and open methodologies that could involve all the optional KSOs. In this sense, a systemic perspective is introduced combining MRs associated to diverse KSOs to improve the quality of an integral and continuous Knowledge Acquisition (KA) process. The main contributions provided by this work are on one hand, a novel Systemic Methodology for OL (SMOL) from heterogeneous KSOs which is applied for a case study and on the other hand, an evaluation of SMOL.",
+        "email": "mbautis@decsai.ugr.es",
+        "conf": "Journal of Intelligent Information Systems",
+        "coauthors": [
+            "Richard Jesus Gil Herrera",
+            "Maria J. Martin-Bautista"
+        ],
+        "keywords": "Ontology learning,Methodology,Knowledge acquisition,Evaluation,Case study"
+    },
+    {
+        "id": 3219,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "A communication model based on the 2-tuple fuzzy linguistic representation for a distributed intelligent agent system on Internet",
+        "organization": "University of Granada",
+        "abstract": "Internet users are assisted by means of distributed intelligent agents in the information gathering process to find the fittest information to their needs. In this paper we present a distributed intelligent agent model where the communication of the evaluation of the retrieved information among the agents is carried out by using linguistic operators based on the 2-tuple fuzzy linguistic representation as a way to endow the retrieval process with a higher flexibility, uniformity and precision. The 2-tuple fuzzy linguistic representation model allows to make processes of computing with words without loss of information.",
+        "email": "",
+        "conf": "Soft Computing",
+        "coauthors": [
+            "Miguel Delgado Calvo-Flores",
+            "Francisco Herrera",
+            "Enrique Herrera-Viedma",
+            "Maria J Martin-Bautisa",
+            "L Martinez",
+            "M. Amparo Vila"
+        ],
+        "keywords": "Internet, information retrieval;intelligent agents;computing with words;linguistic modelling"
+    },
+    {
+        "id": 3193,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "Text Knowledge Mining: an approach to Text Mining",
+        "organization": "University of Granada",
+        "abstract": "In this paper we review several alternative views of text mining (TM) as proposed by different authors, and we introduce our own view. We propose a classification of TM techniques on two main groups: techniques based on inductive inference, that we call text data mining (TDM, comprising most of the existing proposals in the literature), and techniques based on deductive or abductive inference, that we call text knowledge mining (TKM). To our knowledge, the TKM view of TM is new though, as we shall show, several existing techniques could be considered in this group. We discuss about the possibilities and challenges of TKM techniques. In addition, we sketch a new TM technique we proposed in a previous work, that can be fully considered in the TKM group. We also discuss about the application of existing theories, like fuzzy sets, in possible future research in this field.",
+        "email": "",
+        "conf": "ESTYLF",
+        "coauthors": [
+            "Consuelo Justicia",
+            "Maria J. Martin-Bautista",
+            "Daniel Snchez",
+            "Ignacio J. Blanco"
+        ],
+        "keywords": "Text Mining, Text Knowledge Mining, Inference, Fuzzy Sets"
+    },
+    {
+        "id": 3154,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "Fuzzy Analysis of Sentiment Terms for Topic Detection Process in Social Networks",
+        "organization": "University of Granada",
+        "abstract": "The aim of this paper is to analyze the influence of sentiment-related terms on the automatic detection of topics in social networks. The study is based on the use of an ontology, to which the capacity to gradually identify and discard sentiment terms in social network texts is incorporated, as these terms do not provide useful information for detecting topics. To detect these terms, we have used two resources focused on the analysis of sentiments. The proposed system has been assessed with real data sets of the social networks Twitter and Dreamcatcher in English and Spanish respectively.",
+        "email": "",
+        "conf": "International Conference on Information Processing and Management of Uncertainty in Knowledge-Based Systems",
+        "coauthors": [
+            "Karel Gutierrez",
+            "Jesus R. Campaa",
+            "M. Amparo Vila",
+            "Maria J. Martin-Bautista"
+        ],
+        "keywords": "Topic detection, Hierarchical clustering, Fuzzy sets, Sentiment terms "
+    },
+    {
+        "id": 3230,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "A Fuzzy Genetic Algorithm Approach to an Adaptive Information Retrieval Agent.",
+        "organization": "University of Granada",
+        "abstract": "We present an approach to a Genetic Information Retrieval Agent Filter (GIRAF) for documents from the Internet using a genetic algorithm (GA) with fuzzy set genes to learn the user's information needs. The population of chromosomes with fixed length represents such user's preferences. Each chromosome is associated with a fitness that may be considered the system's belief in the hypothesis that the chromosome, as a query, represents the user's information needs. In a chromosome, every gene characterizes documents by a keyword and an associated occurrence frequency, represented by a certain type of a fuzzy subset of the set of positive integers. Based on the user's evaluation of the documents retrieved by the chromosome, compared to the scores computed by the system, the fitness of the chromosomes is adjusted. A prototype of GIRAF has been developed and tested. The results of the test are discussed, and some directions for further works are pointed out.",
+        "email": "mbautis@decsai.ugr.es",
+        "conf": "Journal of the American Society for Information Science",
+        "coauthors": [
+            "Maria J. Martin-Bautista",
+            "M. Amparo Vila",
+            "Henrik Legind Larsen"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3189,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "An Extended Characterization of Fuzzy Bags",
+        "organization": "University of Granada",
+        "abstract": "The algebraic structures known as bags were introduced by R. Yager as set‐like algebraic structures where elements are allowed to be repeated. Since the original papers by Yager, different definitions of the concept of fuzzy bag, and the corresponding operators, are available in the literature, as well as some extensions of the union, intersection and difference operators of sets, and new algebraic operators. In general, the current definitions of bag pose very interesting issues related to the ontological aspects and practical use of bags. In this paper, we introduce a characterization of bags viewing them as the result of a count operation on the basis of a mathematical correspondence. We also discuss on the extension of our alternative characterization of bags to the fuzzy case. On these basis, we introduce some operators on bags and fuzzy bags, and we compare them to existing approaches. Finally, we deal with the case where no information about the correspondence is available, and only bounds can be provided for the count of elements of the result of algebraic operators. For this purpose, the notion of IC‐bag (Chakrabarty, in: Proc. Int. Conf. On Computational Intelligence for Modelling, Control and Automation—CIMCA'2001, Vol. 25, 2001) is employed, and new operators for these structures are proposed",
+        "email": "mbautis@decsai.ugr.es",
+        "conf": "International Journal of Intelligent Systems",
+        "coauthors": [
+            "Miguel Delgado Calvo-Flores",
+            "Maria J. Martin-Bautista",
+            "Daniel Snchez",
+            "M. Amparo Vila"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3204,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "Enhancing Short Text Retrieval in Databases",
+        "organization": "University of Granada",
+        "abstract": "In this paper, we present a mechanism to deal with short text structures in relational databases. Text fields are transformed into a special knowledge representation named AP-structure based on the Apriori algorithm of the mining area. Once the abstract data type is obtained, the text fields can be summarized, mined, and queried in a easy way. The operations to query these fields are the main aim of this paper.",
+        "email": "",
+        "conf": "International Conference on Flexible Query Answering Systems",
+        "coauthors": [
+            "Nicols Marn",
+            "Maria J. Martin-Bautista",
+            "Miguel Reyes",
+            "M. Amparo Vila"
+        ],
+        "keywords": "Semantic querying, short texts, AP-sets, frequent itemsets, knowledge structure "
+    },
+    {
+        "id": 3195,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "A Restriction Level Approach to Preference Modelling",
+        "organization": "University of Granada",
+        "abstract": "We introduce Restriction Level relations (RL-relations) to represent imprecise relations. The proposal is based on the notion of RL-representation of imprecise properties proposed by the authors as an alternative to fuzzy representations, with the advantage that the ordinary properties of the crisp case are preserved. On this basis we define RL-preference structures and discuss about the properties of this new approach.",
+        "email": "",
+        "conf": "Computational Intelligence In Decision And Control",
+        "coauthors": [
+            "Daniel Snchez",
+            "Maria J. Martin-Bautista",
+            "Miguel Delgado Calvo-Flores",
+            "M. Amparo Vila"
+        ],
+        "keywords": "RL-representations,Fuzzy Relations,Preference Modelling"
+    },
+    {
+        "id": 3151,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "Finding tendencies in streaming data using Big Data frequent itemset mining",
+        "organization": "University of Granada",
+        "abstract": "The amount of information generated in social media channels or economical/business transactions exceeds the usual bounds of static databases and is in continuous growing. In this work, we propose a frequent itemset mining method using sliding windows capable of extracting tendencies from continuous data flows. For that aim, we develop this method using Big Data technologies, in particular, using the Spark Streaming framework enabling distributing the computation along several clusters and thus improving the algorithm speed. The experimentation carried out shows the capability of our proposal and its scalability when massive amounts of data coming from streams are taken into account.",
+        "email": "",
+        "conf": "Knowledge-Based Systems",
+        "coauthors": [
+            "Carlos Fernandez-Basso",
+            "Abel J. Francisco-Agra",
+            "Maria J. Martin-Bautista",
+            "M. Dolores Ruiz"
+        ],
+        "keywords": "Streaming data,Big Data,Frequent itemset mining,Tendencies"
+    },
+    {
+        "id": 3225,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "User profiles and fuzzy logic in Web retrieval",
+        "organization": "University of Granada",
+        "abstract": "We present a study of the role of user profiles using fuzzy logic in web retrieval processes. Flexibility for user interaction and for adaptation in profile construction becomes an important issue. We focus our study on user profiles, including creation, modification, storage, clustering and interpretation. We also consider the role of fuzzy logic and other soft computing techniques to improve user profiles. Extended profiles contain additional information related to the user that can be used to personalize and customize the retrieval process as well as the web site. Web mining processes can be carried out by means of fuzzy clustering of these extended profiles and fuzzy rule construction. Fuzzy inference can be used in order to modify queries and extract knowledge from profiles with marketing purposes within a web framework. An architecture of a portal that could support web mining technology is also presented",
+        "email": "mbautis@decsai.ugr.es",
+        "conf": "Soft computing",
+        "coauthors": [
+            "Maria J. Martin-Bautista",
+            "Donald H Kraft",
+            "M. Amparo Vila",
+            "Jianhua Chen",
+            "J. Cruz"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 3162,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "Study of the Convergence in Automatic Generation of Instance Level Constraints",
+        "organization": "University of Granada",
+        "abstract": "This work deepens in a methodology to generate Instance Level Constraints for Semi-supervised clustering by the study of the inherent nature of the data. The methodology executes a partitional clustering algorithm repetitively, so we study its behaviour according to the number of iterations of the clustering. In this scenario we propose three different stopping criteria to determine how many times the partitional clustering algorithm should be executed to obtain reliable instance level constraints. These criteria are experimentally tested under the document clustering problem",
+        "email": "",
+        "conf": "Flexible Query Answering Systems",
+        "coauthors": [
+            "Irene Diaz-Valenzuela",
+            "Jesus R. Campana",
+            "Sabrina Senatore",
+            "Vincenzo Loia",
+            "Maria J. Martin-Bautista"
+        ],
+        "keywords": "Semi-supervised clustering, Instance level constraints "
+    },
+    {
+        "id": 3211,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "A Tuple-Oriented Algorithm for Deduction in a Fuzzy Relational Database.",
+        "organization": "University of Granada",
+        "abstract": "In this paper, we define the concept of generalized rule for making classical deduction with imprecise data, stored both data and rules in a fuzzy relational database represented in the GEFRED model. We propose a way of measuring the imprecision related to the calculation of a fact based on the matching degree of the facts in the database and the facts calculated while expanding the rules. In order to achieve this, classical algorithms for deduction are not appropriated and we propose the modifications that have to be applied on a classical tuple-oriented algorithm in order to design a new algorithm for deducing from imprecise data with generalized rules.",
+        "email": "",
+        "conf": "International Journal of Uncertainty Fuzziness and Knowledge-Based Systems",
+        "coauthors": [
+            "Ignacio J. Blanco",
+            "Maria J. Martin-Bautista",
+            "Olga Pons",
+            "M. Amparo Vila"
+        ],
+        "keywords": "fuzzy data,fuzzy deduction,fuzzy prolog,relational database"
+    },
+    {
+        "id": 3196,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "Using association rules to mine for strong approximate dependencies",
+        "organization": "University of Granada",
+        "abstract": "In this paper we deal with the problem of mining for approximate dependencies (AD) in relational databases. We introduce a definition of AD based on the concept of association rule, by means of suitable definitions of the concepts of item and transaction. This definition allow us to measure both the accuracy and support of an AD. We provide an interpretation of the new measures based on the complexity of the theory (set of rules) that describes the dependence, and we employ this interpretation to compare the new measures with existing ones. A methodology to adapt existing association rule mining algorithms to the task of discovering ADs is introduced. The adapted algorithms obtain the set of ADs that hold in a relation with accuracy and support greater than user-defined thresholds. The experiments we have performed show that our approach performs reasonably well over large databases with real-world data.",
+        "email": "",
+        "conf": "Data Mining and Knowledge Discovery",
+        "coauthors": [
+            "Daniel Snchez",
+            "Jose M. Serrano",
+            "Ignacio J. Blanco",
+            "Maria Jose Martin-Bautista",
+            "M. Amparo Vila"
+        ],
+        "keywords": "Approximate dependencies,Association rules,Data mining,Relational databases"
+    },
+    {
+        "id": 3184,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "Combining Semantic and Multilingual Search to Databases with Recommender Systems",
+        "organization": "University of Granada",
+        "abstract": "IR is a difficult task to do when dealing with free text fields of databases. This paper describes, through Seman-Query, how a search system can be combined with a recommender system in order to make it easier. The search part provides a solution to improve the functionality of database search techniques when dealing with IR from the text fields of databases, while the recommender part is responsible with adding documents that are similar to the results.",
+        "email": "",
+        "conf": "International Workshop on Database and Expert Systems Applications",
+        "coauthors": [
+            "Luchiana Cezara Brodeala",
+            "Maria J. Martin-Bautista",
+            "Richard Jesus Gil Herrera"
+        ],
+        "keywords": "Seman Query,search system,recommender system,multilingualism,semantic relations"
+    },
+    {
+        "id": 3183,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "A novel integrated knowledge support system based on ontology learning: Model specification and a case study",
+        "organization": "University of Granada",
+        "abstract": "Semantic engineering is currently being adopted to support the knowledge-management processes needed by organizational users for decision-making and task-intensive knowledge activities. Such optional engineering strategies consider that some systems, such as the Knowledge Support System (KSS) fulfill the needs of the knowledge user, by providing the services and management qualities they require. Some key features of the KSS have been analyzed to identify their main characteristics or system components according to the most recent trends. Lately, some solutions have been proposed to develop this type of knowledge system based on the approaches, Ontology Development and Ontology Learning (OL). In this paper, a novel model of an Ontology-Learning Knowledge Support System (OLeKSS) is proposed to keep these KSSs updated. The proposal applies concepts and methodologies of system modeling as well as a wide selection of OL processes from heterogeneous knowledge sources (ontologies, texts, and databases), in order to improve KSS’s semantic product through a process of periodic knowledge updating. An application of a Systemic Methodology for OL (SMOL) in an academic Case Study illustrates the enhancement of the associated ontologies through process of population and enrichment.",
+        "email": "mbautis@decsai.ugr.es",
+        "conf": "Knowledge-Based Systems",
+        "coauthors": [
+            "Richard Jesus Gil Herrera",
+            "Maria J. Martin-Bautista"
+        ],
+        "keywords": "Knowledge-based systems,Ontology learning,Knowledge support systems,Methodology,System design,Case study"
+    },
+    {
+        "id": 3216,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "Association rules and fuzzy association rules to find new query terms",
+        "organization": "University of Granada",
+        "abstract": "We present an application of association rules and fuzzy association rules to find new terms that help the user to search in the web. A first query is made to the web and an initial set of documents is retrieved. Considering the terms of the collection as items, text transactions are constructed and association rules are extracted. Fuzzy association rules are also considered when the presence of an item in a transaction is a weight between zero and one. A selection of the best rules is carried out and the terms in those rules are offered to the user to refine the query.",
+        "email": "mbautis@decsai.ugr.es",
+        "conf": "EUSFLAT Conf",
+        "coauthors": [
+            "Miguel Delgado Calvo-Flores",
+            "Maria J. Martin-Bautista",
+            "Daniel Snchez",
+            "M. Amparo Vila"
+        ],
+        "keywords": ": information retrieval, association rules, fuzzy logic, query refinement"
+    },
+    {
+        "id": 3200,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "Web Usage Mining Via Fuzzy Logic Techniques",
+        "organization": "University of Granada",
+        "abstract": "With the increment of users and information on the Web, mining processes inspired in the traditional data mining ones have been developed. This new recent area of investigation is called Web Mining. Within this area, we study the analysis of web log files in what is called Web Usage Mining. Different techniques of mining to discover usage patterns from web data can be applied in Web Usage Mining. We will also study in a more detailed way applications of Fuzzy Logic in this area. Specially, we apply fuzzy association rules to web log files, and we give initial traces about the application of Fuzzy Logic to personalization and user profile construction.",
+        "email": "",
+        "conf": "Fuzzy Systems Association World Congress",
+        "coauthors": [
+            "Victor H. Escobar-Jeria",
+            "Maria J. Martin-Bautista",
+            "Daniel Snchez",
+            "M. Amparo Vila"
+        ],
+        "keywords": "Web Usage Mining, Fuzzy Logic, Fuzzy Association Rules, Personalization, User Profiles "
+    },
+    {
+        "id": 3156,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "Building a contextual dimension for OLAP using textual data from social networks",
+        "organization": "University of Granada",
+        "abstract": "Due to the continuous growth of social networks the textual information available has increased exponentially. Data warehouses (DW) and online analytical processing (OLAP) are some of the established technologies to process and analyze structured data. However, one of their main limitations is the lack of automatic processing and analysis of unstructured data (specifically, textual data), and its integration with structured data. This paper proposes the creation, integration and implementation of a new dimension called Contextual Dimension from texts obtained from social networks into a multidimensional model. Such a dimension is automatically created after applying hierarchical clustering algorithms and is fully independent from the language of the texts. This dimension allows the inclusion of multidimensional analysis of texts using contexts and topics integrated with conventional dimensions into business decisions. The experiments were carried out by means of a freeware OLAP system (Wonder 3.0) using real data from social networks.",
+        "email": "",
+        "conf": "Expert Systems with Applications",
+        "coauthors": [
+            "Karel Gutierrez",
+            "Jesus R. Campaa",
+            "M. Amparo Vila",
+            "Maria J. Martin-Bautista"
+        ],
+        "keywords": "OLAP,Data warehousing,Multidimensional model,Context detection,Text clustering"
+    },
+    {
+        "id": 3179,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "An automatic system for identifying authorities in digital libraries",
+        "organization": "University of Granada",
+        "abstract": "In this paper we introduce an automatic system to perform authority control in digital libraries based on data mining techniques. This system is able to find the different representations for an author name as well as to distinguish between different authors sharing the same name. Using that information, the system shows the user the results of a search over a digital library properly grouped according to their authorship. To accomplish this task, it only uses information that can be directly obtained from the digital library itself without any kind of external data. The system has been tested using different digital libraries on the web.",
+        "email": "mbautis@decsai.ugr.es",
+        "conf": "Expert Systems with Applications",
+        "coauthors": [
+            "Irene Diaz-Valenzuela",
+            "Maria J. Martin-Bautista",
+            "M. Amparo Vila",
+            "Jesus R. Campaa"
+        ],
+        "keywords": "Authority control,Data mining,Digital libraries,Automatic system"
+    },
+    {
+        "id": 3175,
+        "label": 68,
+        "author": "maria j martin-bautista",
+        "title": "Anomaly detection using fuzzy association rules",
+        "organization": "University of Granada",
+        "abstract": "Data mining techniques are a very important tool for extracting useful knowledge from databases. Recently, some approaches have been developed for mining novel kinds of useful information, such as anomalous rules. These kinds of rules are a good technique for the recognition of normal and anomalous behaviour, that can be of interest in several area domains such as security systems, financial data analysis, network traffic flow, etc. The aim of this paper is to propose an association rule mining process for extracting the common and anomalous patterns in data that is affected by some kind of imprecision or uncertainty, obtaining information that will be meaningful and interesting for the user. This is done by mining fuzzy anomalous rules. We present a new approach for mining such rules, and we apply it to the case of detecting normal and anomalous patterns on credit data.",
+        "email": "",
+        "conf": "International Journal of Electronic Security and Digital Forensics",
+        "coauthors": [
+            "M. Dolores Ruiz",
+            "Maria J. Martin-Bautista",
+            "Daniel Snchez",
+            "Miguel Delgado Calvo-Flores"
+        ],
+        "keywords": "data mining; fuzzy association rules; anomalous rules; anomaly detection; credit; electronic security; digital forensics"
+    }
+]

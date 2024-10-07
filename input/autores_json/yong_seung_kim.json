@@ -1,0 +1,707 @@
+[
+    {
+        "id": 5693,
+        "label": 115,
+        "author": "yong seung kim",
+        "title": "Intrinsic anomalous Hall conductivity of GaMnAs solely governed by the carrier concentration",
+        "organization": "Sejong University",
+        "abstract": "In the core of quantum Hall effect, intrinsic anomalous Hall effect (AHE), and intrinsic spin Hall effect lies the Berry phase, a quantum mechanical phase associated with an adiabatic change of the system. However, experimental evidences supporting this new recognition are scarce in three-dimensional systems. We report here that the anomalous Hall conductivity of metallic GaMnAs samples, when properly scaled by the carrier concentration, remains constant regardless of the ferromagnetic transition temperature from 50 to 160 K. In addition, the constant agrees with the theoretical prediction quite well. These qualitative and quantitative agreements support the idea of intrinsic AHE originated from momentum-space Berry phase firmly. Furthermore, the tunability of intrinsic AHE in the diluted magnetic semiconductors can be utilized in the semiconductor spintronics applications.",
+        "email": "",
+        "conf": "Journal of Magnetism and Magnetic Materials",
+        "coauthors": [
+            "Seung-Hyun Chun",
+            "Yong Seung Kim",
+            "Hyungkook Choi",
+            "W. O. Lee",
+            "K. S. Suh",
+            "Y. S. Oh",
+            "K. H. Kim",
+            "Z. G. Khim",
+            "Y. D. Park"
+        ],
+        "keywords": "Intrinsic anomalous Hall effect,Berry phase,GaMnAs,Spintronics"
+    },
+    {
+        "id": 5683,
+        "label": 115,
+        "author": "yong seung kim",
+        "title": "Nanocrystalline Graphite Growth on Sapphire by Carbon Molecular Beam Epitaxy",
+        "organization": "Sejong University",
+        "abstract": "We report the fabrication of nanocrystalline graphite films on sapphire substrates of various cutting directions by using solid carbon source molecular beam epitaxy. Raman spectra show a systematic change from amorphous carbon to nanocrystalline graphite with a cluster diameter of several nanometers, depending on the growth temperature. The symmetry of the substrate seems to have little effect on the film quality. Simulations suggest that the strong bonding between carbon and oxygen may lead to orientational disorders. Transport measurements show a Dirac-like peak and a carrier type change by the gate voltage.",
+        "email": "",
+        "conf": "The Journal of Physical Chemistry C",
+        "coauthors": [
+            "Sahng-Kyoon Jerng",
+            "D. S. Yu",
+            "Yong Seung Kim",
+            "Junga Ryou",
+            "Suklyun Hong",
+            "C. Kim",
+            "S. Yoon",
+            "D. K. Efetov",
+            "P. Kim",
+            "Seung-Hyun Chun"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5694,
+        "label": 115,
+        "author": "yong seung kim",
+        "title": "Magnetic Anisotropy and ac Susceptibility of (GaMn)As",
+        "organization": "Sejong University",
+        "abstract": "We studied the interplay of the biaxial and the uniaxial contributions to the in-plane magnetic anisotropy of (Ga,Mn)As epilayers through comprehensive dc and ac magnetic susceptibility measurements. Detailed information about the magnetic anisotropy was obtained from hysteresis curves recorded for various crystal orientations and from the temperature dependence of the magnetization. The measured orientations were the [110], [−110], and [100] directions. Ac susceptibility measurements were also conducted for these directions. We argue that the peaks in the real and the imaginary parts of the ac susceptibility cannot be explained within the single-domain spinreorientation model.",
+        "email": "",
+        "conf": "Journal- Korean Physical Society",
+        "coauthors": [
+            "Yong Seung Kim",
+            "Sahng-Kyoon Jerng",
+            "Jungbum Yoon",
+            "Younghun Jo",
+            "Myung-Hwa Jung",
+            "H. K. Choi",
+            "Y. D. Park",
+            "S. K. Jerng",
+            "Seung-Hyun Chun"
+        ],
+        "keywords": "Magnetic anisotropy, ac susceptibility, Dilute magnetic semiconductor, (Ga,Mn)As"
+    },
+    {
+        "id": 5685,
+        "label": 115,
+        "author": "yong seung kim",
+        "title": "Robust surface state and bulk carrier density in transport properties of Bi2Se3 films grown with MBE",
+        "organization": "Sejong University",
+        "abstract": "One of the main predictions of 3D topological insulators (TI) is the existence of a surface metallic state, independent of the sample thickness. However, so far this simple prediction has never been experimentally verified because of significant parallel bulk conduction. Here, we report observation of a robust 2D surface state for MBE-grown thin films in their magneto-transport properties. We also observed that volume carrier density tends to decrease as film gets thicker. Even if a robust 2D surface state exists, its topological protection seems to degrade in thin films due to interference with the bulk carriers, and thus this bulk carrier problem will be the most important next step to solve in order to implement the full topological protection on this surface state.",
+        "email": "",
+        "conf": "American Physical Society APS Meeting Abstracts",
+        "coauthors": [
+            "Yong Seung Kim",
+            "Namrata Bansal",
+            "Eliav Edrey",
+            "Mathew Brahlek",
+            "Gary A. Kapilevich",
+            "Sang-Wook Cheong",
+            "Seongshik Oh"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5667,
+        "label": 115,
+        "author": "yong seung kim",
+        "title": "Radio-frequency characteristics of graphene monolayer via nitric acid doping",
+        "organization": "Sejong University",
+        "abstract": "The radio-frequency, i.e. 0.5–40 GHz, characteristics of chemical vapor deposition-grown graphene monolayer via HNO3 doping is experimentally investigated. According to the obtained results, the sheet resistance of HNO3-treated graphene decreases about half compared to bare graphene. In the case of radio-frequency characteristics, the transmission coefficient and effective conductivity of the HNO3-treated graphene are more enhanced than those of the bare graphene. Moreover, the intrinsic resistance and inductance of the HNO3-treated graphene itself show diminishing tendency with frequency increase. As a result, it is verified that the direct current as well as high frequency characteristics of graphene are improved by using the chemical doping method.",
+        "email": "",
+        "conf": "Carbon",
+        "coauthors": [
+            "Hee-Jo Lee",
+            "Eunho Kim",
+            "Jaehyun Park",
+            "Wooseok Song",
+            "Ki-Seok An",
+            "Yong Seung Kim",
+            "Jong Gwan Yook",
+            "Jongwan Jung"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5690,
+        "label": 115,
+        "author": "yong seung kim",
+        "title": "Magnetoresistance of Planar Ferromagnetic Junction Defined by Atomic Force Microscopy",
+        "organization": "Sejong University",
+        "abstract": "Nanolithography by atomic force microscope local oxidation was applied to the fabrication of planar-type Ni/Ni oxide/Ni junctions from 10 nm-thick Ni films. The junction characteristics were sensitive to the lithography conditions such as the bias voltage. Successful oxidation produced junctions of nonlinear current-voltage characteristics, implying the formation of oxide barriers. Magnetoresistance (MR) at low temperatures resembled that of spin valves.",
+        "email": "",
+        "conf": "Journal of Magnetics",
+        "coauthors": [
+            "D.S. Yu",
+            "Sahng-Kyoon Jerng",
+            "Yong Seung Kim",
+            "Seung-Hyun Chun"
+        ],
+        "keywords": "AFM lithography;local oxidation;magnetic tunnel junction;magnetoresistance"
+    },
+    {
+        "id": 5674,
+        "label": 115,
+        "author": "yong seung kim",
+        "title": "Carbon molecular beam epitaxy on various semiconductor substrates",
+        "organization": "Sejong University",
+        "abstract": "Direct graphene growth on semiconductor substrates is an important goal for successful integration of graphene with the existing semiconductor technology. We test the feasibility of this goal by using molecular beam epitaxy on various semiconductor substrates: group IV (Si, SiC), group III–V (GaAs, GaN, InP), and group II–VI (ZnSe, ZnO). Graphitic carbon has been formed on most substrates except Si. In general, the crystallinities of carbon layers are better on substrates of hexagonal symmetry than those on cubic substrates. The flatness of graphitic carbon grown by molecular beam epitaxy is noticeable, which may help the integration with semiconductor structures.",
+        "email": "",
+        "conf": "Materials Research Bulletin",
+        "coauthors": [
+            "Sahng-Kyoon Jerng",
+            "D.S. Yu",
+            "Jong-Heon Lee",
+            "Y. S. Kim",
+            "C. Kim",
+            "S. Uoon",
+            "Seung-Hyun Chun"
+        ],
+        "keywords": "Thin films,Epitaxial growth,Atomic force microscopy,Raman spectroscopy,Microstructure"
+    },
+    {
+        "id": 5686,
+        "label": 115,
+        "author": "yong seung kim",
+        "title": "Crucible aperture: An effective way to reduce source oxidation in oxide molecular beam epitaxy process",
+        "organization": "Sejong University",
+        "abstract": "Growing multielemental complex-oxide structures using a molecular beam epitaxy (MBE) technique requires precise control of each source flux. However, when the component elements have significantly different oxygen affinities, maintaining stable fluxes for easily oxidizing elements is challenging because of the source oxidation problem. Here, using Sr as a test source, the authors show that a crucible aperture insert scheme significantly reduces the source oxidation in an oxide-MBE environment. The crucible aperture insert was shaped like a disk with a hole at the center and was mounted inside the crucible; it blocks most of the oxygen species coming to the source, thus reducing the source oxidation. However, the depth of the aperture disk was critical for its performance; an ill-positioned aperture could make the flux stability even worse. With an optimally positioned aperture insert, the crucible exhibited more than four times improvement in Sr flux stability, compared to a conventional, nonapertured crucible.",
+        "email": "",
+        "conf": "Journal of Vacuum Science & Technology A Vacuum Surfaces and Films",
+        "coauthors": [
+            "Yong Seung Kim",
+            "Namrata Bansal",
+            "Seongshik Oh"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5697,
+        "label": 115,
+        "author": "yong seung kim",
+        "title": "A study on the validity of the skew scattering model for the anomalous Hall Effect in low-temperature molecular-beam epitaxy gallium manganese arsenide",
+        "organization": "Sejong University",
+        "abstract": "We report on an investigation of the applicability of the skew scattering model for the anomalous Hall Effect in (Ga,Mn)As prepared using low-temperature molecular beam epitaxy. Specifically, we study the relationship between the Hall resistivity (ρxy) and the longitudinal resistivity (ρxx) for differing Mn concentrations incorporated into the IIIGa site. The growth conditions for single-phase (Ga,Mn)As were carefully determined by using in-situ reflection high-energy electron diffraction, exsitu high-resolution X-ray diffraction, superconducting quantum interference device magnetometry, and magneto-transport measurements. After the growth of (Ga,Mn)As with values of TC ranging from 60 to 100 K, the samples were annealed in an inert atmosphere, with the resulting values of TC ranging from 80 to 130 K as measured indirectly from transport measurements and from Hall measurements. From the Hall measurements, we found that the anomalous Hall coefficient to scaled linearly with the resistivity for various ranges of Mn contents in which we could rule out the co-existence of secondary precipitates.",
+        "email": "",
+        "conf": "Journal- Korean Physical Society",
+        "coauthors": [
+            "Yong Seung Kim",
+            "I. T. Jeong",
+            "J. C. Woo",
+            "Z. G. Khim",
+            "J. S. Lee",
+            "H. K. Choi",
+            "Y. S. Oh",
+            "Kee Hoon Kim",
+            "Y. D. Park",
+            "Seung-Hyun Chun"
+        ],
+        "keywords": "Magnetic semiconductor, Anomalous Hall Effect, Spintronics"
+    },
+    {
+        "id": 5675,
+        "label": 115,
+        "author": "yong seung kim",
+        "title": "Nanoscale investigation of charge transport at the grain boundaries and wrinkles in graphene film",
+        "organization": "Sejong University",
+        "abstract": "The influence of grain boundaries and mechanical deformations in graphene film on the electric charge transport is investigated at nanoscale with conductive atomic force microcopy. Large area monolayer graphene samples were prepared by the chemical vapor deposition technique. Field emission scanning electron microscopy confirmed the formation of grain boundaries and the presence of wrinkles. The presence of the D-band in the Raman spectrum also indicated the existence of sharp defects such as grain boundaries. Extremely low conductivity was found at the grain boundaries and the wrinkled surface was also more resistive in comparison to the plain graphene surface. Many samples were experimented with to justify our findings by selecting different areas on the graphene surface. Uniform conductivity was found on grain boundary and wrinkle free graphene surfaces. We made channels of varied lengths by local anodic oxidation to confine the charge carrier to the smallest dimensions to better confirm the alteration in current due to grain boundaries and wrinkles. The experimental findings are discussed with reference to the implementation of graphene as transparent conductive electrode.",
+        "email": "",
+        "conf": "Nanotechnology",
+        "coauthors": [
+            "Muneer Ahmad",
+            "Hyosub An",
+            "Yong Seung Kim",
+            "Jae Hong Lee",
+            "Jongwan Jung",
+            "Seung Hyun Chun",
+            "Yongho Seo"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5687,
+        "label": 115,
+        "author": "yong seung kim",
+        "title": "Normal-state conductance used to probe superconducting tunnel junctions for quantum computing",
+        "organization": "Sejong University",
+        "abstract": "Here we report normal-state conductance measurements of three different types of superconducting tunnel junctions that are being used or proposed for quantum computing applications: p-Al/a-AlO/p-Al, e-Re/e-AlO/p-Al, and e-V/e-MgO/p-V, where p stands for polycrystalline, e for epitaxial, and a for amorphous. All three junctions exhibited significant deviations from the parabolic behavior predicted by the WKB approximation models. In the p-Al/a-AlO/p-Al junction, we observed enhancement of tunneling conductances at voltages matching harmonics of Al–O stretching modes. On the other hand, such Al–O vibration modes were missing in the epitaxial e-Re/e-AlO/p-Al junction. This suggests that absence or existence of the Al–O stretching mode might be related to the crystallinity of the AlO tunnel barrier and the interface between the electrode and the barrier. In the e-V/e-MgO/p-V junction, which is one of the candidate systems for future superconducting qubits, we observed suppression of the density of states at zero bias. This implies that the interface is electronically disordered, presumably due to oxidation of the vanadium surface underneath the MgO barrier, even if the interface was structurally well ordered, suggesting that the e-V/e-MgO/p-V junction will not be suitable for qubit applications in its present form. This also demonstrates that the normal-state conductance measurement can be effectively used to screen out low quality samples in the search for better superconducting tunnel junctions.",
+        "email": "",
+        "conf": "Superconductor Science and Technology",
+        "coauthors": [
+            "Carlos Chaparro",
+            "Richard Bavier",
+            "Yong Seung Kim",
+            "Eunyoung Kim",
+            "Jeffrey S. Kline",
+            "David P. Pappas",
+            "Seongshik Oh"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5692,
+        "label": 115,
+        "author": "yong seung kim",
+        "title": "Bias-Dependent Tunneling Magnetoresistance of GaAs Diodes with Ferromagnetic (GaMn)As Layers",
+        "organization": "Sejong University",
+        "abstract": "",
+        "email": "",
+        "conf": "Journal- Korean Physical Society",
+        "coauthors": [
+            "Sahng-Kyoon Jerng",
+            "Jun Hyung Kim",
+            "Seung-Hyun Chun",
+            "Yong Seung Kim",
+            "H. K. Choi",
+            "Y. D. Park",
+            "Z. G. Khim"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5666,
+        "label": 115,
+        "author": "yong seung kim",
+        "title": "Bright visible light emission from graphene",
+        "organization": "Sejong University",
+        "abstract": "Graphene and related two-dimensional materials are promising candidates for atomically thin, flexible and transparent optoelectronics1,2. In particular, the strong light–matter interaction in graphene3 has allowed for the development of state-of-the-art photodetectors4,5, optical modulators6 and plasmonic devices7. In addition, electrically biased graphene on SiO2 substrates can be used as a low-efficiency emitter in the mid-infrared range8,9. However, emission in the visible range has remained elusive. Here, we report the observation of bright visible light emission from electrically biased suspended graphene devices. In these devices, heat transport is greatly reduced10. Hot electrons (∼2,800 K) therefore become spatially localized at the centre of the graphene layer, resulting in a 1,000-fold enhancement in thermal radiation efficiency8,9. Moreover, strong optical interference between the suspended graphene and substrate can be used to tune the emission spectrum. We also demonstrate the scalability of this technique by realizing arrays of chemical-vapour-deposited graphene light emitters. These results pave the way towards the realization of commercially viable large-scale, atomically thin, flexible and transparent light emitters and displays with low operation voltage and graphene-based on-chip ultrafast optical communications.",
+        "email": "",
+        "conf": "Nature Nanotechnology",
+        "coauthors": [
+            "Young Duck Kim, Hakseong Kim, Yujin Cho, Ji Hoon Ryoo, Cheol-Hwan Park, Pilkwang Kim, Yong Seung Kim, Sunwoo Lee, Yilei Li, Seung-Nam Park, Yong Shim Yoo, Duhee Yoon, Vincent E. Dorgan, Eric Pop, Tony F. Heinz, James Hone, Seung-Hyun Chun, Hyeonsik Cheong, Sang Wook Lee, Myung-Ho Bae, Yun Daniel Park"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5668,
+        "label": 115,
+        "author": "yong seung kim",
+        "title": "Direct growth of patterned graphene on SiO2 substrates without the use of catalysts or lithography",
+        "organization": "Sejong University",
+        "abstract": "We demonstrate a one-step fabrication of patterned graphene on SiO2 substrates through a process free from catalysts, transfer, and lithography. By simply placing a shadow mask during the plasma enhanced chemical vapor deposition (PECVD) of graphene, an arbitrary shape of graphene can be obtained on SiO2 substrate. The formation of graphene underneath the shadow mask was effectively prevented by the low-temperature, catalyst-free process. Growth conditions were optimized to form polycrystalline graphene on SiO2 substrates and the crystalline structure was characterized by Raman spectroscopy and transmission electron microscopy (TEM). Patterned graphene on SiO2 functions as a field-effect device by itself. Our method is compatible with present device processing techniques, and should be highly desirable for the proliferation of graphene applications.",
+        "email": "schun@sejong.ac.kr",
+        "conf": "Nanoscale",
+        "coauthors": [
+            "Yong Seung Kim",
+            "Kisu Joo",
+            "Sahng-Kyoon Jerng",
+            "Jae Hong Lee",
+            "Euijoon Yoon",
+            "Seung-Hyun Chun"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5678,
+        "label": 115,
+        "author": "yong seung kim",
+        "title": "Epitaxial growth of topological insulator Bi2Se3 film on Si(111) with atomically sharp interface",
+        "organization": "Sejong University",
+        "abstract": "Atomically sharp epitaxial growth of Bi2Se3 films is achieved on Si(111) substrate with molecular beam epitaxy. Two-step growth process is found to be a key to achieve interfacial-layer-free epitaxial Bi2Se3 films on Si substrates. With a single-step high temperature growth, second phase clusters are formed at an early stage. On the other hand, with low temperature growth, the film tends to be disordered even in the absence of a second phase. With a low temperature initial growth followed by a high temperature growth, second-phase-free atomically sharp interface is obtained between Bi2Se3 and Si substrate, as verified by reflection high energy electron diffraction (RHEED), transmission electron microscopy (TEM) and X-ray diffraction. The lattice constant of Bi2Se3 is observed to relax to its bulk value during the first quintuple layer according to RHEED analysis, implying the absence of strain from the substrate. TEM shows a fully epitaxial structure of Bi2Se3 film down to the first quintuple layer without any second phase or an amorphous layer.",
+        "email": "",
+        "conf": "Thin Solid Films",
+        "coauthors": [
+            "Namrata Bansal",
+            "Yong Seung Kim",
+            "Eliav Edrey",
+            "Matthew Brahlek",
+            "Yoichi Horibe",
+            "Keiko Iida",
+            "Makoto Tanimura",
+            "Guo-Hong Li",
+            "Tian Feng",
+            "Hang-Dong Lee",
+            "Torgny Gustafsson",
+            "Eva Andrei",
+            "Seongshik Oh"
+        ],
+        "keywords": "Topological insulators,Molecular beam epitaxy,Silicon,Bismuth selenide,Interface structure,Transmission electron microscopy,Reflection high energy electron diffraction"
+    },
+    {
+        "id": 5698,
+        "label": 115,
+        "author": "yong seung kim",
+        "title": "Nondestructive spectroscopic method to detect MnAs metallic nanocrystals in annealed GaAs : Mn",
+        "organization": "Sejong University",
+        "abstract": "We report an optical spectroscopic method to monitor NiAs-type MnAs (α-MnAs) nanocrystals in (Ga,Mn)As diluted magnetic semiconductors. We utilize Mn ion implantation of low temperature (LT) GaAs epitaxial thin films followed by rapid thermal annealing (RTA) to yield embedded ferromagnetic α-MnAs nanoclusters in a GaAs:Mn matrix. As-implanted samples are paramagnetic and become ferromagnetic with Curie temperature of ∼320 K after RTA at 750 °C. No peaks of potential secondary phases could be observed in x-ray diffraction measurements. However, in optical spectra, the annealed samples show resonant absorption at 0.9 eV photon energy, due to resonant surface plasma oscillation of spherical metallic phases embedded in LT GaAs. Since the absorption peak position in the photon energy has a direct relation to the value of the plasma frequency of metallic inclusions, the metallic clusters in LT GaAs are identified as α-MnAs nanocrystals by comparing them with simulations based on Maxwell–Garnett theory. We suggest that this optical method can be applied to various granular systems and diluted magnetic semiconductors as a nondestructive way to detect and quantify metallic nanoclusters.",
+        "email": "",
+        "conf": "Journal of Applied Physics",
+        "coauthors": [
+            "Ambrose Seo",
+            "T. W. Noh",
+            "Yeon-Wook Kim",
+            "J. D. Lim",
+            "Y. D. Park",
+            "Yong Seung Kim",
+            "Z. G. Khim",
+            "H. C. Jeon",
+            "T. W. Kang",
+            "S. J. Pearton"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5688,
+        "label": 115,
+        "author": "yong seung kim",
+        "title": "In situ study of emerging metallicity on ion-milled SrTiO3",
+        "organization": "Sejong University",
+        "abstract": "Here we show how metallic states emerge on the surface of SrTiO3 (STO) single crystals through Ar-ion-milling process. It is well known that ion-milling creates oxygen vacancies on STO, creating a metallic surface state. So far, however, detailed studies of how ion-milling process induces metallic states on STO are lacking. In order to answer this question, we performed systematic in situ conductance measurements on STO crystals in various conditions inside a high vacuum chamber. Ion-milling temperature was a crucial factor in determining the properties of the conducting state. At cryogenic temperatures, thermal diffusion is suppressed and ion-milling creates conducting states only at the very top surface. However, near or above room temperature, the conducting state diffuses deeply into the bulk. Higher temperature also fostered vacancy clustering. Because clustered vacancies trap electron carriers, the clustering causes electrical conductivity to drop. We observed up to four times reduction in conductivity due to cluster formation.",
+        "email": "",
+        "conf": "American Physical Society APS Meeting Abstracts",
+        "coauthors": [
+            "Namrata Bansal",
+            "Heiko Gross",
+            "Yong Seung Kim",
+            "Carlos Chaparro",
+            "Seongshik Oh"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5680,
+        "label": 115,
+        "author": "yong seung kim",
+        "title": "Simple self-gettering differential-pump for minimizing source oxidation in oxide-MBE environment",
+        "organization": "Sejong University",
+        "abstract": "Source oxidation of easily oxidizing elements such as Ca, Sr, Ba, and Ti in an oxidizing ambient leads to their flux instability and is one of the biggest problems in the multielemental oxide molecular beam epitaxy technique. Here, the authors report a new scheme that can completely eliminate the source oxidation problem: a self-gettering differential pump using the source itself as the pumping medium. The pump simply comprises a long collimator mounted in front of the source in extended port geometry. With this arrangement, the oxygen partial pressure near the source was easily maintained well below the source oxidation regime, resulting in a stabilized flux, comparable to that of an ultrahigh-vacuum environment. Moreover, this pump has a self-feedback mechanism that allows a stronger pumping effectiveness for more easily oxidizing elements, which is a desired property for eliminating the source oxidation problem.",
+        "email": "",
+        "conf": "Journal of Vacuum Science & Technology A Vacuum Surfaces and Films",
+        "coauthors": [
+            "Yong Seung Kim",
+            "Namrata Bansal",
+            "Seongshik Oh"
+        ],
+        "keywords": "Condensed Matter,Materials Science, Physics Instrumentation and Detectors"
+    },
+    {
+        "id": 5691,
+        "label": 115,
+        "author": "yong seung kim",
+        "title": "Evidence for Secondary Ferromagnetic Phases in the Nuclear Magnetic Resonance Spectra of GaMnAs Epitaxial Films and Their Nominal Effect",
+        "organization": "Sejong University",
+        "abstract": "Local fields in the diluted magnetic semiconductor GaMnAs were studied using zero-field nuclear magnetic resonance (NMR). After a careful search for 55Mn and 75As NMR signals over a wide frequency range from 20 MHz to 250 MHz, we detected a spectrum similar to alpha-MnAs. Its origins in the primary GaMnAs phase, however, cannot be fully ruled out. The temperature dependence of the NMR frequency is different from that of the material's macroscopic magnetic properties. After comparing the two, we conclude that the NMR spectrum originates in a secondary MnAs phase. Its effect on the overall macroscopic magnetic properties appears to be minimal; we find an upper bound of sim0.1 \\% on the volume fraction of these complexes.",
+        "email": "",
+        "conf": "Journal- Korean Physical Society",
+        "coauthors": [
+            "T. Hwang",
+            "S. Lee",
+            "Hyung kook Choi",
+            "Yong Seung Kim",
+            "Y. D. Park",
+            "Seung-Hyun Chun"
+        ],
+        "keywords": "Magnetic semiconductor, Magneto-transport property, Nuclear magnetic resonance, GaMnAs,Secondary phase"
+    },
+    {
+        "id": 5681,
+        "label": 115,
+        "author": "yong seung kim",
+        "title": "Surface versus bulk state in topological insulator Bi2Se3 under environmental disorder",
+        "organization": "Sejong University",
+        "abstract": "Topological insulators (TIs) are predicted to be composed of an insulating bulk state along with conducting channels on the boundary of the material. In Bi2Se3, however, the Fermi level naturally resides in the conduction band due to intrinsic doping by selenium vacancies, leading to metallic bulk states. In such non-ideal TIs, it is not well understood how the surface and bulk states behave under environmental disorder. In this letter, based on transport measurements of Bi2Se3 thin films, we show that the bulk states are sensitive to environmental disorder but the surface states remain robust.",
+        "email": "",
+        "conf": "Applied Physics Letters",
+        "coauthors": [
+            "Matthew Brahlek",
+            "Yong Seung Kim",
+            "Namrata Bansal",
+            "Eliav Edrey",
+            "Seongshik Oh"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5673,
+        "label": 115,
+        "author": "yong seung kim",
+        "title": "Reduction of graphene damages during the fabrication of InGaN/GaN light emitting diodes with graphene electrodes",
+        "organization": "Sejong University",
+        "abstract": "Although graphene looks attractive to replace indium tin oxide (ITO) in optoelectronic devices, the luminous efficiency of light emitting diodes (LEDs) with graphene transparent conducting electrodes has been limited by degradation in graphene taking place during device fabrication. In this study, it was found that the quality of graphene after the device fabrication was a critical factor affecting the performance of GaN-based LEDs. In this paper, the qualities of graphene after two different device fabrication processes were evaluated by Raman spectroscopy and atomic force microscopy. It was found that graphene was severely damaged and split into submicrometer-scale islands bounded by less conducting boundaries when graphene was transferred onto LED structures prior to the GaN etching process for p-contact formation. On the other hand, when graphene was transferred after the GaN etch and p-contact metallization, graphene remained intact and the resulting InGaN/GaN LEDs showed electrical and optical properties that were very close to those of LEDs with 200 nm thick ITO films. The forward-voltages and light output powers of LEDs were 3.03 V and 9.36 mW at an injection current of 20 mA, respectively.",
+        "email": "",
+        "conf": "Nanotechnology",
+        "coauthors": [
+            "Kisu Joo, Sahng-Kyoon Jerng, Yong Seung Kim, Bumho Kim, Seunghyun Moon, Daeyoung Moon, Gun-Do Lee, Yoon-Kyu Song, Seung-Hyun Chun,Euijoon Yoon"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5684,
+        "label": 115,
+        "author": "yong seung kim",
+        "title": "Source oxidation problem in oxide-MBE environment and its solution",
+        "organization": "Sejong University",
+        "abstract": "Maintaining stable fluxes for multiple source elements is a challenging task when the source materials have significantly different oxygen affinities in a complex-oxide MBE environment. Although this problem has been known to the complex oxide MBE community since the late 1980s, a detailed study and solution is still lacking. Here, using Sr as a test source, because of its easy oxidation and popularity in complex oxides, we investigated the source-oxidation problem in a number of different conditions. We found that the source oxidation was less for higher flux rates, unmelted source shape, and extended port geometry. The extended port geometry was also found to eliminate the flux transient, usually observed in a standard port, after opening the source shutter. Furthermore, a crucible aperture insert scheme was found to be very effective in suppressing the source oxidation. In this scheme, a disk-shaped aperture was mounted inside the crucible and we found that it blocks most of the oxygen species coming to the source. However, the depth of the aperture disk was critical for its performance. We will discuss how these configurations suppress source oxidation and lead to significantly enhanced stability of Sr-flux in harsh oxidation conditions.",
+        "email": "",
+        "conf": "American Physical Society APS Meeting Abstracts",
+        "coauthors": [
+            "Namrata Bansal",
+            "Yong Seung Kim",
+            "Seongshik Oh"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5671,
+        "label": 115,
+        "author": "yong seung kim",
+        "title": "Methane as an effective hydrogen source for single-layer graphene synthesis on Cu foil by plasma enhanced chemical vapor deposition",
+        "organization": "Sejong University",
+        "abstract": "A single-layer graphene is synthesized on Cu foil in the absence of H2 flow by plasma enhanced chemical vapor deposition (PECVD). In lieu of an explicit H2 flow, hydrogen species are produced during the methane decomposition process into their active species (CHx<4), assisted with the plasma. Notably, the early stage of growth depends strongly on the plasma power. The resulting grain size (the nucleation density) has a maximum (minimum) at 50 W and saturates when the plasma power is higher than 120 W because hydrogen partial pressures are effectively tuned by a simple control of the plasma power. Raman spectroscopy and transport measurements show that decomposed methane alone can provide a sufficient amount of hydrogen species for high-quality graphene synthesis by PECVD.",
+        "email": "",
+        "conf": "Nanoscale",
+        "coauthors": [
+            "Yong Seung Kim",
+            "Jae Hong Lee",
+            "Young Duck Kim",
+            "Sahng Kyoon Jerng",
+            "Kisu Joo",
+            "Eunho Kim",
+            "Jongwan Jung",
+            "Euijoon Yoon",
+            "Yun Daniel Park",
+            "Sunae Seo",
+            "Seung-Hyun Chun"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5679,
+        "label": 115,
+        "author": "yong seung kim",
+        "title": "In-situ study of emerging Metallicity on ion-bombarded SrTiO3 surface",
+        "organization": "Sejong University",
+        "abstract": "We report how argon bombardment induces metallic states on the surface of insulating SrTiO3 at different temperatures by combining in situ conductance measurements and model calculations. At cryogenic temperatures, ionic bombardment created a thin–but much thicker than the argon-penetration depth–steady-state oxygen-vacant layer, leading to a highly-concentric metallic state. Near room temperatures, however, significant thermal diffusion occurred and the metallic state continuously diffused into the bulk, leaving only low concentration of electron carriers on the surface. Analysis of the discrepancy between the experiments and the models also provided evidence for vacancy clustering, which seems to occur during any vacancy formation process and affects the observed conductance.",
+        "email": "",
+        "conf": "Journal of Applied Physics",
+        "coauthors": [
+            "Heiko Gross",
+            "Namrata Bansal",
+            "Yong Seung Kim",
+            "Seongshik Oh"
+        ],
+        "keywords": "ion-surface impact; strontium compounds; surface conductivity; thermal diffusion; vacancies (crystal); 73.25.+i; 79.20.Rf; 61.72.jd; 66.30.Xj; Surface conductivity and carrier phenomena; Atomic molecular and ion beam impact and interactions with surfaces; Vacancies; Thermal diffusivity"
+    },
+    {
+        "id": 5672,
+        "label": 115,
+        "author": "yong seung kim",
+        "title": "Graphitic carbon grown on fluorides by molecular beam epitaxy",
+        "organization": "Sejong University",
+        "abstract": "We study the growth mechanism of carbon molecules supplied by molecular beam epitaxy on fluoride substrates (MgF2, CaF2, and BaF2). All the carbon layers form graphitic carbon with different crystallinities depending on the cation. Especially, the growth on MgF2 results in the formation of nanocrystalline graphite (NCG). Such dependence on the cation is a new observation and calls for further systematic studies with other series of substrates. At the same growth temperature, the NCG on MgF2 has larger clusters than those on oxides. This is contrary to the general expectation because the bond strength of the carbon-fluorine bond is larger than that of the carbon-oxygen bond. Our results show that the growth of graphitic carbon does not simply depend on the chemical bonding between the carbon and the anion in the substrate.",
+        "email": "",
+        "conf": "Nanoscale Research Letters",
+        "coauthors": [
+            "Sahng-Kyoon Jerng",
+            "Jae Hong Lee",
+            "Yong Seung Kim",
+            "Seung-Hyun Chun"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5682,
+        "label": 115,
+        "author": "yong seung kim",
+        "title": "Sr flux stability against oxidation in oxide-MBE environment: flux geometry and pressure dependence",
+        "organization": "Sejong University",
+        "abstract": "Maintaining stable fluxes for multiple source elements is a challenging task when the source materials have significantly different oxygen affinities in a complex-oxide molecular-beam-epitaxy (MBE) environment. Considering that Sr is one of the most easily oxidized and widely used elements in various complex oxides, we took Sr as a probe to investigate the flux-stability problem in a number of different conditions. Source oxidation was less for higher flux, extended port geometry, and unmelted source shape. The extended port geometry also eliminated the flux transient after opening a source shutter as observed in the standard port. We also found that the source oxidation occurred more easily on the crucible wall than on the surface of the source material. Atomic oxygen, in spite of its stronger oxidation effectiveness, did not make any difference in source oxidation as compared to molecular oxygen in this geometry. Our results may provide a guide for solutions to the source oxidation problem in oxide-MBE system.",
+        "email": "",
+        "conf": "Journal of Vacuum Science & Technology A Vacuum Surfaces and Films",
+        "coauthors": [
+            "Yong Seung Kim",
+            "Namrata Bansal",
+            "Carlos Chaparro",
+            "Heiko Gross",
+            "Seongshik Oh"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5677,
+        "label": 115,
+        "author": "yong seung kim",
+        "title": "Thickness Independent Surface Transport of Bi2Se3 on Al2O3(0001) Substrates",
+        "organization": "Sejong University",
+        "abstract": "",
+        "email": "",
+        "conf": "APS Meeting Abstracts",
+        "coauthors": [
+            "Namrata Bansal",
+            "Yong Seung Kim",
+            "Matthew Brahlek",
+            "Eliav Edrey",
+            "Seongshik Oh"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5669,
+        "label": 115,
+        "author": "yong seung kim",
+        "title": "Direct Integration of Polycrystalline Graphene into Light Emitting Diodes by Plasma-Assisted Metal-Catalyst-Free Synthesis",
+        "organization": "Sejong University",
+        "abstract": "The integration of graphene into devices is a challenging task because the preparation of a graphene-based device usually includes graphene growth on a metal surface at elevated temperatures (∼1000 °C) and a complicated postgrowth transfer process of graphene from the metal catalyst. Here we report a direct integration approach for incorporating polycrystalline graphene into light emitting diodes (LEDs) at low temperature by plasma-assisted metal-catalyst-free synthesis. Thermal degradation of the active layer in LEDs is negligible at our growth temperature, and LEDs could be fabricated without a transfer process. Moreover, in situ ohmic contact formation is observed between DG and p-GaN resulting from carbon diffusion into the p-GaN surface during the growth process. As a result, the contact resistance is reduced and the electrical properties of directly integrated LEDs outperform those of LEDs with transferred graphene electrodes. This relatively simple method of graphene integration will be easily adoptable in the industrialization of graphene-based devices.",
+        "email": "",
+        "conf": "ACS Nano",
+        "coauthors": [
+            "Yong Seung Kim",
+            "Kisu Joo",
+            "Sahng-Kyoon Jerng",
+            "Jae Hong Lee",
+            "Daeyoung Moon",
+            "Jonghak Kim",
+            "Euijoon Yoon",
+            "Seung-Hyun Chun"
+        ],
+        "keywords": "graphene, metal-catalyst-free synthesis, plasma-enhanced chemical vapor deposition, light emitting diodes"
+    },
+    {
+        "id": 5696,
+        "label": 115,
+        "author": "yong seung kim",
+        "title": "Temperature dependence of the anomalous Hall effect in ferromagnetic (GaMn)As epilayers",
+        "organization": "Sejong University",
+        "abstract": "We fabricated high quality (Ga,Mn)As epilayers by low‐temperature molecular beam epitaxy and studied the magnetic and magneto‐transport properties in detail. In particular, we investigated the relation between the longitudinal and the transverse Hall resistivity over a wide range of temperatures. It turned out that the anomalous Hall coefficient scaled linearly with the longitudinal resistivity, which seems to imply that the skew scattering is the primary source of the anomalous Hall effect in (Ga,Mn)As if we consider classical models only. However, we cannot rule out other mechanisms because of the narrow range of resistivity investigated",
+        "email": "",
+        "conf": "physica status solidi (c)",
+        "coauthors": [
+            "Yong Seung Kim",
+            "Hyung kook Choi",
+            "Z. G. Khim",
+            "J. C. Woo",
+            "Y. D. Park",
+            "Seung-Hyun Chun"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5699,
+        "label": 115,
+        "author": "yong seung kim",
+        "title": "AC transport measurement of Mn ion-implanted p(+)-GaAs : C",
+        "organization": "Sejong University",
+        "abstract": "Heavily carbon-doped GaAs (p∼3×1020 cm−3) layers were implanted with Mn ions. The structural and transport properties of the as-implanted samples were investigated using the high resolution X-ray diffraction and AC magneto-transport measurements. The results show there are no known secondary phases in the samples and indicate anomalous Hall effect at intermediate temperatures.",
+        "email": "",
+        "conf": "Journal of Magnetism and Magnetic Materials",
+        "coauthors": [
+            "Joon Seong Lee",
+            "J.D. Lim",
+            "K.S. Suh",
+            "S. B. Shim",
+            "Y. D. Park",
+            "C. R. Abernathy",
+            "S. J. Pearton",
+            "Yong Seung Kim",
+            "Z. G. Khim",
+            "R.G. Wilson"
+        ],
+        "keywords": "Ion-implantation;(Ga,Mn)As;AC transport measurement;Anomalous Hall effect;High resolution X-ray diffraction"
+    },
+    {
+        "id": 5701,
+        "label": 115,
+        "author": "yong seung kim",
+        "title": "Carrier-mediated ferromagnetic ordering in Mn ion-implanted p(+)GaAs : C",
+        "organization": "Sejong University",
+        "abstract": "Highly p-type GaAs:C was ion implanted with Mn at differing doses to produce Mn concentrations in the 1–5 at. % range. In comparison to LT-GaAs and n+GaAs:Si samples implanted under the same conditions, transport and magnetic properties show marked differences. Transport measurements show anomalies, consistent with observed magnetic properties and with epi-LT-(Ga,Mn)As, as well as the extraordinary Hall effect up to the observed magnetic ordering temperature (TC). Mn ion-implanted p+GaAs:C with as-grown carrier concentrations >1020cm−3 show remanent magnetization up to 280 K.",
+        "email": "",
+        "conf": "Physical Review B",
+        "coauthors": [
+            "Y. D. Park",
+            "J. D. Lim",
+            "K. S. Suh",
+            "S. B. Shim",
+            "J. S. Lee",
+            "C. R. Abernathy",
+            "S. J. Pearton",
+            "Yong Seung Kim",
+            "Z. G. Khim",
+            "R. G. Wilson"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5689,
+        "label": 115,
+        "author": "yong seung kim",
+        "title": "Ionic-bombardment an effective way to create memory effect on undoped SrTiO3",
+        "organization": "Sejong University",
+        "abstract": "Here we present bistable switching behaviors in undoped SrTiO3 single crystals treated by thermal annealing and Ar-ion-beam bombardment. So far, there have not been any reports of memory effect at a macroscopic scale for SrTiO3 having no cation dopants. We observed memory effects in both thermally annealed and ion-beam bombarded samples. However, the ion-beam bombarding provided significant better switching behaviors than the thermal annealing. We propose that this difference between the annealed and the ion-beam-bombarded sample in their switching performance is related to the concentration of oxygen vacancy clusters. Clustered vacancies are much less mobile than a single vacancy, and thus not an effective player for the switching event. Thermal annealing produces more clustered vacancies than ion-beam-bombardment. Creating vacancies while minimizing the clustering rate must be the key to a viable resistive memory device. We show that ionic bombardment is an effective method for such devices.",
+        "email": "",
+        "conf": "American Physical Society APS Meeting Abstracts",
+        "coauthors": [
+            "Yong Seung Kim",
+            "Heiko Gross",
+            "Namrata Bansal",
+            "Carlos Chaparro",
+            "Seongshik Oh"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 5670,
+        "label": 115,
+        "author": "yong seung kim",
+        "title": "Spin valve effect of NiFe/graphene/NiFe junctions",
+        "organization": "Sejong University",
+        "abstract": "When spins are injected through graphene layers from a transition metal ferromagnet, high spin polarization can be achieved. When detected by another ferromagnet, the spin-polarized current makes high- and low-resistance states in a ferromagnet/graphene/ferromagnet junction. Here, we report manifest spin valve effects from room temperature to 10 K in junctions comprising NiFe electrodes and an interlayer made of double-layer or single-layer graphene grown by chemical vapor deposition. We have found that the spin valve effect is stronger with double-layer graphene than with single-layer graphene. The ratio of relative magnetoresistance increases from 0.09% at room temperature to 0.14% at 10 K for single-layer graphene and from 0.27% at room temperature to 0.48% at 10 K for double-layer graphene. The spin valve effect is perceived to retain the spin-polarized transport in the vertical direction and the hysteretic nature of magnetoresistance provides the basic functionality of a memory device. We have also found that the junction resistance decreases monotonically as temperature is lowered and the current-voltage characteristics show linear behaviour. These results revealed that a graphene interlayer works not as a tunnel barrier but rather as a conducting thin film between two NiFe electrodes.",
+        "email": "",
+        "conf": "Nano Research",
+        "coauthors": [
+            "Muhammad Zahir Iqbal",
+            "muhammad waqas Iqbal",
+            "Jae Hong Lee",
+            "Yong Seung Kim",
+            "Seung-Hyun Chun",
+            "Jonghwa Eom"
+        ],
+        "keywords": "graphene,spin valve,magnetic junction,magnetoresistance,spintronics"
+    },
+    {
+        "id": 5676,
+        "label": 115,
+        "author": "yong seung kim",
+        "title": "Graphitic Carbon Growth on MgO(100) by Molecular Beam Epitaxy",
+        "organization": "Sejong University",
+        "abstract": "Direct graphene growth on insulating substrates is of great importance for graphene electronics. Limited accomplishments by using molecular beam epitaxy have been demonstrated on substrates of hexagonal symmetry. For comparison and further progress, we study the growth of graphitic carbon on cubic MgO substrates. Raman spectra clearly show D, G, and 2D peaks, confirming the formation of nanocrystalline graphite. The degree of graphitization is comparable to those of carbon layers grown on hexagonal substrates. X-ray photoelectron spectroscopy proves the dominance of carbon sp2 bonding, and transmission electron microscopy reveals nanometer-scale clusters directly. The flatness and the homogeneity of graphitic carbon on MgO(100) are also beneficial to potential applications of heterostructures containing graphitic carbon. First-principles calculations elucidate that the strong carbon–oxygen interaction limits the in-plane coherence length.",
+        "email": "",
+        "conf": "The Journal of Physical Chemistry C",
+        "coauthors": [
+            "Sahng-Kyoon Jerng",
+            "Jong-Heon Lee",
+            "D. S. Yu",
+            "Yong Seung Kim",
+            "Junga Ryou",
+            "Suklyun Hong",
+            "C Kim",
+            "S. Yoon",
+            "Seung-Hyun Chun"
+        ],
+        "keywords": "Transmission electron microscopy, Growth mechanism, Density functional method, Cubic lattices, Hexagonal lattices, Raman spectra, X-ray photoelectron spectra, Electronic structure, Nanomaterial synthesis, Phase transformations"
+    },
+    {
+        "id": 5695,
+        "label": 115,
+        "author": "yong seung kim",
+        "title": "Vertical spin transport in MnAs/GaMnAs heterostructures",
+        "organization": "Sejong University",
+        "abstract": "We have studied the effect of barrier strength on the tunneling magnetoresistance of MnAs/GaMnAs heterostructures with double AlAs barriers. The epitaxial structures were grown by low-temperature molecular beam epitaxy. The vertical magnetotransport properties were studied for various GaAs spacer thicknesses. We find that the junction resistivities of double barrier samples increase exponentially as the barrier strength increases, implying that direct tunneling process governs the transport properties. In contrast, the tunneling magnetoresistance depends primarily on the number of interfaces rather than on the barrier strength.",
+        "email": "",
+        "conf": "Journal of Magnetism and Magnetic Materials",
+        "coauthors": [
+            "Seung-Hyun Chun",
+            "J.P. Yu",
+            "Yong Seung Kim",
+            "H. K. Choi",
+            "J. H. Bak",
+            "Y. D. Park",
+            "Z.G. Khim"
+        ],
+        "keywords": "GaMnAs,MnAs,Heterostructures,Spin injection,Double tunnel junction"
+    },
+    {
+        "id": 5700,
+        "label": 115,
+        "author": "yong seung kim",
+        "title": "Unusual flexibility of 25-bis(4-pyridylethynyl)thiophene self-assembled with Co(NCS)(2) in a novel coordination polymer",
+        "organization": "Sejong University",
+        "abstract": "A novel coordination polymer containing Co(NCS)2 and a rigid ligand, 2,5-bis(4-pyridylethynyl)-thiophene showing unusual flexibility was synthesized.",
+        "email": "",
+        "conf": "Chemical Communications",
+        "coauthors": [
+            "Seung Uk Son",
+            "Bo Yun Kim",
+            "Cheol Ho Choi",
+            "Soon Won Lee",
+            "Yong Seung Kim",
+            "Young Keun Chung"
+        ],
+        "keywords": ""
+    }
+]

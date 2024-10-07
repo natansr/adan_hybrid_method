@@ -1,0 +1,162 @@
+[
+    {
+        "id": 4996,
+        "label": 98,
+        "author": "jennifer smith mason",
+        "title": "Beyond the Surface: Current Issues and Future Directions in Uncertainty Visualization Research",
+        "organization": "Postdoctoral Scholar UCLA",
+        "abstract": "As people both reason and make decisions with uncertain geospatial data every day, it is important to understand the complexity of uncertainty, how it propagates through each dataset, and how to best visualize uncertainty to support reasoning and decision-making. When decisions are made from visualized geospatial data without the uncertainty explicitly mentioned or depicted with the dataset, it can lead to an inaccurate or misleading understanding of spatial patterns and processes. While this research area has expanded over the past two decades, much of the attention in evaluating uncertainty visualizations has been focused on identifying and measuring lower level perceptual processes. In contrast, we argue for a shift in attention towards assessing higher-level cognitive processes by keeping the focus on the user from the onset of visualization design to the final uncertainty visualization output. This article outlines two emerging research topics that will allow researchers to evaluate and promote these higher-level cognitive processes: identifying appropriate levels of precision when visualizing uncertainty and supporting a deeper comprehension of uncertainty. Currently, there is a lack of comprehensive empirical work that attempts to cognitively assess uncertainty visualization and decisionmaking through a human factors standpoint. A behavioral research approach addressing uncertainty classification and deeper uncertainty can provide a necessary and significant contribution for more intuitive representations in current uncertainty visualization and research.",
+        "email": "",
+        "conf": "International Cartographic Conference",
+        "coauthors": [
+            "Jennifer Smith Mason",
+            "David Retchless",
+            "Christoph Kinkeldey",
+            "Alexander Klippel"
+        ],
+        "keywords": "Uncertainty, Visualization, Decision-Making, Cognition"
+    },
+    {
+        "id": 4993,
+        "label": 98,
+        "author": "jennifer smith mason",
+        "title": "Domains of uncertainty visualization research: a visual summary approach",
+        "organization": "Postdoctoral Scholar UCLA",
+        "abstract": "The inherent uncertainty of geospatial data has engendered a critical research agenda addressing all facets of uncertainty visualization due to the communicative efficiency of graphical representation. To organize this broad research area, we have reviewed literature on geospatial uncertainty visualization and systematically and iteratively classified research in this field. Upon creating a classification, we developed several visual summaries over time, refining the classification and subsequent graphic as new relevant topics emerged. This visual summary extends current existing approaches to taxonomies by allowing users a quick visual overview of relevant topics in a research area at a glance. For each research paper on uncertainty visualization, this classification can be used to visually represent which domains are covered. In order to ensure that the visual summary approach and the corresponding domains developed in this article can be used reliably, we performed an inter-rater agreement task. The high agreement reveals that the domains in the classification that were identified are intuitive and can lead to objective, reproducible classifications (visual summaries) of research papers. In future research, we plan to refine the visual classification/summary approach by providing guided classification via a web interface to visually classify the entire body of literature on geospatial uncertainty visualization and visually explore any trends in research topics, how they have changed over the years, and identify sparser topics that still need to be addressed.",
+        "email": "",
+        "conf": "Cartography and Geographic Information Science",
+        "coauthors": [
+            "Jennifer Smith Mason",
+            "David Retchless",
+            "Alexander Klippel"
+        ],
+        "keywords": "Classification, uncertainty, visualization, visual summary"
+    },
+    {
+        "id": 4998,
+        "label": 98,
+        "author": "jennifer smith mason",
+        "title": "Mapping Ideas from Cyberspace to Realspace: Visualizing the Spatial Context of Keywords from Web Page Search Results",
+        "organization": "Postdoctoral Scholar UCLA",
+        "abstract": "We introduce a new method for visualizing and analyzing information landscapes of ideas and events posted on public web pages through customized web-search engines and keywords. This research integrates GIScience and web-search engines to track and analyze public web pages and their web contents with associated spatial relationships. Web pages searched by clusters of keywords were mapped with real-world coordinates (by geolocating their Internet Protocol addresses). The resulting maps represent web information landscapes consisting of hundreds of populated web pages searched by selected keywords. By creating a Spatial Web Automatic Reasoning and Mapping System prototype, researchers can visualize the spread of web pages associated with specific keywords, concepts, ideas, or news over time and space. These maps may reveal important spatial relationships and spatial context associated with selected keywords. This approach may provide a new research direction for geographers to study the diffusion of human thought and ideas. A better understanding of the spatial and temporal dynamics of the ‘collective thinking of human beings’ over the Internet may help us understand various innovation diffusion processes, human behaviors, and social movements around the world.",
+        "email": "",
+        "conf": "International Journal of Digital Earth",
+        "coauthors": [
+            "Ming-Hsiang Tsou",
+            "Ick-Hoi Kim",
+            "Sarah M. Wandersee",
+            "Daniel Lusher",
+            "Li An",
+            "Brian Spitzberg",
+            "Dipak Gupta",
+            "Jean Mark Gawron",
+            "Jennifer Smith",
+            "Jiue-An Yang",
+            "Su Yeon Han"
+        ],
+        "keywords": "cyberspace, web-search engines, spatial context, geolocation, web information landscape, innovation diffusion"
+    },
+    {
+        "id": 4999,
+        "label": 98,
+        "author": "jennifer smith mason",
+        "title": "A time series of urban forestry in Los Angeles",
+        "organization": "Postdoctoral Scholar UCLA",
+        "abstract": "This white paper is written with the support from the National Geospatial Technology Center of Excellence (GeoTech Center, http://www.geotechcenter.org/). The goal of this paper is to assist GIS educators at various institutes (high schools, community colleges and universities) towards understanding the potential role of open source software (or free and open source software -- FOSS) in GIS education. The free and open source software \"movement\" has significantly impacted all aspects of information technology (Tiemann, 2009). We, as GIS educators, are already using many open source software packages daily and may not be aware of them. For example, if you are browsing website contents, 52.26% of web servers on the Internet in 2009 use Apache, currently the most popular web server software http://news.netcraft.com/archives/2009/01/) freely available for download. Firefox browsers, thunderbird email tools and Linux operation systems are examples of popular open source software. However, open source software is not well adopted in GIS education due to the lack of user-friendly guidance and the full integration of GIS learning resources. This paper will provide a basic introduction of some of the available free and open source software with easy-to-follow guidance for both GIS teachers and students. Hopefully, more GIS educators will adopt open source GIS software in their courses to provide a comprehensive range of instructional tools and resources.",
+        "email": "",
+        "conf": "Urban Ecosystems",
+        "coauthors": [
+            "Thomas W. Gillespie",
+            "Stephanie Pincetl",
+            "Shea Brossard",
+            "J.-D Saphores"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4992,
+        "label": 98,
+        "author": "jennifer smith mason",
+        "title": "Special issue introduction: Approaching spatial uncertainty visualization to support reasoning and decision making",
+        "organization": "Postdoctoral Scholar UCLA",
+        "abstract": "While research on uncertainty and decision-making has a long history across several disciplines, recent technological developments compel researchers to rethink how to best address and advance the understanding of how humans reason and make decisions under spatial uncertainty. This introduction presents a visual summary graphic to provide an overview of each article in this special issue. Upon viewing these visual summaries, the reader will find that each of these articles covers different topics in the uncertainty visualization domain, offering complementary research in this field. Extending this body of research and finding new ways to explore how these visualizations may help or hinder the analytical and reasoning process of humans continues to be a necessary step towards designing more effective uncertainty visualizations to support reasoning and decision-making.",
+        "email": "jms1186@psu.edu",
+        "conf": "Spatial Cognition and Computation",
+        "coauthors": [
+            "Jennifer Smith Mason",
+            "Alexander Klippel",
+            "Susanne Bleisch",
+            "Aidan Slingsby",
+            "Stephanie Deitrick"
+        ],
+        "keywords": "decision-making, reasoning, uncertainty visualization"
+    },
+    {
+        "id": 5000,
+        "label": 98,
+        "author": "jennifer smith mason",
+        "title": "Free and Open Source Software for GIS education",
+        "organization": "Postdoctoral Scholar UCLA",
+        "abstract": "This white paper is written with the support from the National Geospatial Technology",
+        "email": "",
+        "conf": "San Diego",
+        "coauthors": [
+            "Dr Ming-Hsiang Tsou",
+            "Jennifer Smith Mason"
+        ],
+        "keywords": ""
+    },
+    {
+        "id": 4994,
+        "label": 98,
+        "author": "jennifer smith mason",
+        "title": "Evaluation of noise annotation lines: Using noise to represent thematic uncertainty in maps",
+        "organization": "Postdoctoral Scholar UCLA",
+        "abstract": "Noise annotation lines are a promising technique to visualize thematic uncertainty in maps. However, their potential has not yet been evaluated in user studies. In two experiments, we assessed the usability of this technique with respect to a different number of uncertainty levels as well as the influence of two design aspects of noise annotation lines: the grain and the width of the noise grid. We conducted a web-based study utilizing a qualitative comparison of 2 areas in 150 different maps. We recruited participants from Amazon Mechanical Turk with the majority being nonexperts with respect to the use of maps. Our findings suggest that for qualitative comparisons of “constant uncertainty” (i.e., constant uncertainty per area) in thematic maps, noise annotation lines can be used for up to six uncertainty levels. During comparison of four, six, and eight levels, the different designs of the technique yielded significantly different accuracies. We propose to use the “large noise width, coarse grain” design that was most successful. For “mixed uncertainty” (i.e., uncertainty is not constant per area) we observed a significant decrease in accuracy, but for four levels the technique can still be recommended. This article is a follow-up to our conference paper reporting on preliminary results of the first of the two experiments.",
+        "email": "",
+        "conf": "Cartography and Geographic Information Science",
+        "coauthors": [
+            "Christoph Kinkeldey",
+            "Jennifer Smith Mason",
+            "Alexander Klippel",
+            "Jochen Schiewe"
+        ],
+        "keywords": "uncertainty, geovisualization, user evaluation, usability, AMT"
+    },
+    {
+        "id": 4997,
+        "label": 98,
+        "author": "jennifer smith mason",
+        "title": "Assessing the Impact of Design Decisions on the Usability of Uncertainty Visualization: Noise Annotation Lines for the Visual Representation of Attribute Uncertainty",
+        "organization": "Postdoctoral Scholar UCLA",
+        "abstract": "We report findings from a web-based experiment on noise annotation lines, a method to represent attribute uncertainty. We tested and compared three design aspects of noise annotation lines and evaluated how different design variations influence user performance. We systematically varied the number of uncertainty categories, noise width, and noise grain. Our results show that the number of uncertainty categories significantly influences user performance but that certain design characteristics can counterbalance the negative effect of an increased number of categories. Additionally, we were able to show that performance decreases if uncertainty changes continuously",
+        "email": "",
+        "conf": "international cartographic conference",
+        "coauthors": [
+            "Christoph Kinkeldey",
+            "Jennifer Smith Mason",
+            "Alexander Klippel",
+            "Jochen Schiewe"
+        ],
+        "keywords": "uncertainty; attribute uncertainty; visualization; noise annotation lines; evaluation; thematic map "
+    },
+    {
+        "id": 4995,
+        "label": 98,
+        "author": "jennifer smith mason",
+        "title": "Fundamental Cognitive Concepts of Space and Time: Using Cross-Linguistic Crowdsourced Data to Cognitively Calibrate Modes of Overlap",
+        "organization": "Postdoctoral Scholar UCLA",
+        "abstract": "This article makes several contributions to research on fundamental spatial and temporal concepts: First, we set out to render the notion of fundamental concepts of space and time more precise. Second, we introduce an efficient approach for collecting behavioral data combining crowdsourcing technology, efficient experimental software tools, and an effective and comprehensive analysis methodology. Third, we present behavioral studies that allow for identifying and calibrating potential candidates of fundamental spatial concepts from a cognitive perspective. Fourth, one prominent topic in the area of spatio-temporal cognition is the influence of language on how humans conceptualize their dynamic spatial environments. We used the aforementioned framework to collect data not only from English speaking participants but also from native Chinese and Korean speakers. Our application domain are the modes of overlap proposed by Galton [13]. We are able to show that the originally proposed spatial relations of the region connection calculus and intersection models are capturing cognitively fundamental distinctions that humans make with respect to modes of overlap. While finer distinctions are formally possible, they should not be considered fundamental conceptualizations in either Chinese, Korean, or English. The results show that our framework allows for efficiently answering questions about fundamental concepts of space, time, and space-time essential for theories of spatial information.",
+        "email": "",
+        "conf": "Spatial Information Theory",
+        "coauthors": [
+            "Alexander Klippel",
+            "Jan Oliver Wallgru n",
+            "Jinlong Yang",
+            "Jennifer S Mason",
+            "Eun-Kyeong Kim",
+            "David M. Mark"
+        ],
+        "keywords": "Fundamental concepts of space and time, qualitative spatio-temporal reasoning, linguistic relativity, crowdsourcing "
+    }
+]
